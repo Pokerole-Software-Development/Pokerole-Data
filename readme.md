@@ -1,22 +1,44 @@
 # Pokerole Dataset
 
-- [x] JSON files available containing data compiled for Pokerole Helper
-- [x] JSON files available via MongoDB (Contact Willowlark on the Pokerole Discord for access.)
-- [ ] Build conversion scripts from the JSON documents to CSV, other data formats
+This repo is a Source of Truth for the [Pokerole](https://www.pokeroleproject.com/) tabletop game. This is a developer focused repository: if you're not a programmer, you probably want to check the list of applications built off of this data. 
 
-## New Data
+- This repo contains JSON documents for Pokemon, Natures, Abilities, Moves, and Learnsets for the Pokerole system. 
+- It will preserve 2.0 data alongside 2.1 data when 2.1 is released. 
+- The repo has a sprite library with filenames consistent with the JSON data.
+- The data is programmatically accessible via Mongo DB
 
-- [ ] Combine additional data from Book XML dump into JSON files (hopefully in a way it can also be used for integrating 2.1 changes)
-- [ ] Add Sprite data, leveraging logic from Pokerole Obsidian SRD
-- [ ] Add Evolution Tree information
-- [ ] Convert items from Pokerole Helper data 
+# Applications Using The Dataset
 
-# Applications using this Dataset
+- [Pokerole Obsidian SRD](https://github.com/Willowlark/PokeroleObsidianSRD) A SRD of the entire Pokerole dataset available within [Obsidian](https://obsidian.md/), a markdown note application. 
 
-- [ ] Pokerole Helper
-- [ ] Pokerole Foundry
-- [x] Pokerole Obsidian SRD
+## Developer Information
 
-# How to Help
+## A quick tour of the Repository
 
-Reach out in the tool development channel of the official discord
+- **Images** image data that can be referenced from the data. Pokemon currently have a "Sprite" attribute contains the filename of that Pokemon's image. 
+  - There are two subfolders to pull from, depending on your needs, HomeSprites for Pokemon Home and BoxSprites for BoxSprites.
+  - `https://raw.githubusercontent.com/Willowlark/Pokerole-Data/master/images/BoxSprites/` and `https://raw.githubusercontent.com/Willowlark/Pokerole-Data/master/images/HomeSprites/` are the base urls for each.
+- **Raw** data used in the generation of the proper datasets. It is NOT recommended to use data in here for any application, as it has not been processed. It's mostly here for record keeping purposes.
+- **Scripts** a folder for any code that manipulates data. At the moment, there should be NO REASON to try and run these, they are for maintainence only.
+- **Version20** contains the entire JSON dataset for Pokerole Version 2.0. Each item in the dataset has it's own JSON document. *All of this data is also accessable via Mongo, see below.*
+- **DDL.md** contains tables documenting the data in the JSON documents for reference.
+
+## Database Access
+
+A Mongo DB instance is being hosted for the data in this repository to allow for programmatic access to the most up to date data. To get the connection information for this Database, contain Willowlark on the [Pokerole Discord](https://discord.gg/95DFpdMVcC).
+
+## Assisting the Project
+
+This project's home is the `tool-developing` channel on the [Pokerole Discord](https://discord.gg/95DFpdMVcC). If you'd like to develop a project based off this data, or would like to help expand and error check the dataset, reach out there. There's lots to do! 
+
+Check the enhancement issues for anything we've identified that's need doing as well, can always use more help!
+
+# Credits and Contacts
+
+- I can be contacted through Github (here) or Discord where my username is Willowlark#2359. 
+- The original data (`raw/PokeroleBot`) that was used to generate the base dataset was compiled out of the book by Shadeslayer into this [repository](https://github.com/XShadeSlayerXx/PokeRole-Discord.py-Base). 
+- `raw/XMLDump` was dumped by SirIntellegence(Brain-Storm.exe) and is sourced from [this repository](https://github.com/SirIntellegence/pokerole-tools/releases/tag/v0.0.0)
+- Box sprites were compiled from this [repository](https://github.com/msikma/pokesprite).
+- Home sprites were ripped from [the spriter's resource](https://www.spriters-resource.com/nintendo_switch/pokemonhome/).
+- [Pokerole](https://www.pokeroleproject.com/) was written by it's own team, check them out.
+- Needless to say, Pokemon is owned by Nintendo
