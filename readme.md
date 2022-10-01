@@ -15,7 +15,7 @@
 
 - [ ] Pokerole Helper
 - [ ] Pokerole Foundry
-- [ ] Pokerole Obsidian SRD
+- [x] Pokerole Obsidian SRD
 
 # How to Help
 
