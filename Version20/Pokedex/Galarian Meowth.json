@@ -29,5 +29,22 @@
     "HasForm": false,
     "Learnset": "Galarian Meowth-Learnset",
     "Abilities": "Pickup / Tough Claws (Unnerve)",
-    "Type": "Steel"
+    "Type": "Steel",
+    "DexCategory": "Scratch Cat Pokemon",
+    "Height": {
+        "Deimeters": 4,
+        "Meters": 0.4,
+        "Feet": 1.3
+    },
+    "Weight": {
+        "Hectograms": 75,
+        "Kilograms": 7.5,
+        "Pounds": 16.5
+    },
+    "DexDescription": "The coin on its head has rusted. Meowths were taken into viking ships on long travels through the sea, living for so long in such harsh conditions toughened it up so much that parts of it have turned to iron.",
+    "Baby": false,
+    "PrimaryEggGroup": "Field",
+    "SecondaryEggGroup": "",
+    "BookImageName": "HOME052G.png",
+    "BookShinyImageName": "HOME052G_s.png"
 }

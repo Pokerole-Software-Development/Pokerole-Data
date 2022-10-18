@@ -29,5 +29,22 @@
     "HasForm": true,
     "Learnset": "Greninja-Learnset",
     "Abilities": "Torrent (Protean) <Battle Bond>",
-    "Type": "Water / Dark"
+    "Type": "Water / Dark",
+    "DexCategory": "Ninja Pokemon",
+    "Height": {
+        "Deimeters": 15,
+        "Meters": 1.5,
+        "Feet": 4.9
+    },
+    "Weight": {
+        "Hectograms": 400,
+        "Kilograms": 40.0,
+        "Pounds": 88.2
+    },
+    "DexDescription": "It appears and vanishes with a ninja\u2019s grace. It toys with its enemies using swift movements, then slices them with throwing sharp water stars. If it was not properly disciplined, it will never listen any master.",
+    "Baby": false,
+    "PrimaryEggGroup": "Water 1",
+    "SecondaryEggGroup": "",
+    "BookImageName": "HOME658.png",
+    "BookShinyImageName": "HOME658_s.png"
 }

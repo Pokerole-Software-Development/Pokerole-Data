@@ -29,5 +29,28 @@
     "HasForm": true,
     "Learnset": "Gallade-Learnset",
     "Abilities": "Steadfast (Justified)",
-    "Type": "Psychic / Fighting"
+    "Type": "Psychic / Fighting",
+    "DexCategory": "Blade Pokemon",
+    "Height": {
+        "Deimeters": 16,
+        "Meters": 1.6,
+        "Feet": 5.2
+    },
+    "Weight": {
+        "Hectograms": 520,
+        "Kilograms": 52.0,
+        "Pounds": 114.6
+    },
+    "DexDescription": "This Pokemon is male only. He has an extreme sense of courtesy. In a battle, it uses the blades on his arms as if they were swords. It is a loyal Pokemon and won\u2019t doubt to fiercely protect its trainer.",
+    "Baby": false,
+    "PrimaryEggGroup": "Human-Like",
+    "SecondaryEggGroup": "Amorphous",
+    "BookImageName": "HOME475.png",
+    "BookShinyImageName": "HOME475_s.png",
+    "MegaEvolutions": [
+        {
+            "Name": "Mega-Gallade",
+            "Item": "Galladite"
+        }
+    ]
 }

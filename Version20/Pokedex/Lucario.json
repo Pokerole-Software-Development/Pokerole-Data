@@ -29,5 +29,28 @@
     "HasForm": true,
     "Learnset": "Lucario-Learnset",
     "Abilities": "Steadfast / Inner Focus (Justified)",
-    "Type": "Fighting / Steel"
+    "Type": "Fighting / Steel",
+    "DexCategory": "Aura Pokemon",
+    "Height": {
+        "Deimeters": 12,
+        "Meters": 1.2,
+        "Feet": 3.9
+    },
+    "Weight": {
+        "Hectograms": 540,
+        "Kilograms": 54.0,
+        "Pounds": 119.0
+    },
+    "DexDescription": "This Pokemon is completely loyal to its trainer. It has the ability to not only see the auras but also to transform them into energy. It is also capable of understanding human speech.",
+    "Baby": false,
+    "PrimaryEggGroup": "Field",
+    "SecondaryEggGroup": "Human-Like",
+    "BookImageName": "HOME448.png",
+    "BookShinyImageName": "HOME448_s.png",
+    "MegaEvolutions": [
+        {
+            "Name": "Mega-Lucario",
+            "Item": "Lucarionite"
+        }
+    ]
 }

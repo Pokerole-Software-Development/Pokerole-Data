@@ -29,5 +29,22 @@
     "HasForm": false,
     "Learnset": "Beartic-Learnset",
     "Abilities": "Snow Cloak / Slush Rush (Swift Swim)",
-    "Type": "Ice"
+    "Type": "Ice",
+    "DexCategory": "Freezing Pokemon",
+    "Height": {
+        "Deimeters": 26,
+        "Meters": 2.6,
+        "Feet": 8.5
+    },
+    "Weight": {
+        "Hectograms": 2600,
+        "Kilograms": 260.0,
+        "Pounds": 573.2
+    },
+    "DexDescription": "They the cold northern seas and create pathways across the ocean's water by freezing their own breath. They dive in the sea to catch prey. They are not used to humans as they rarely see one.",
+    "Baby": false,
+    "PrimaryEggGroup": "Field",
+    "SecondaryEggGroup": "",
+    "BookImageName": "HOME614.png",
+    "BookShinyImageName": "HOME614_s.png"
 }

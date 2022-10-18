@@ -29,5 +29,22 @@
     "HasForm": false,
     "Learnset": "Cloyster-Learnset",
     "Abilities": "Shell Armor / Skill Link (Overcoat)",
-    "Type": "Water / Ice"
+    "Type": "Water / Ice",
+    "DexCategory": "Bivalve Pokemon",
+    "Height": {
+        "Deimeters": 15,
+        "Meters": 1.5,
+        "Feet": 4.9
+    },
+    "Weight": {
+        "Hectograms": 1325,
+        "Kilograms": 132.5,
+        "Pounds": 292.1
+    },
+    "DexDescription": "If it lives in seas with harsh currents, it will grow larger and sharper spikes on its shells than those who live on calm waters. Its shell is extremely hard - you would need explosives to try to open it.",
+    "Baby": false,
+    "PrimaryEggGroup": "Water 3",
+    "SecondaryEggGroup": "",
+    "BookImageName": "HOME091.png",
+    "BookShinyImageName": "HOME091_s.png"
 }

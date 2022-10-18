@@ -29,5 +29,28 @@
     "HasForm": true,
     "Learnset": "Ampharos-Learnset",
     "Abilities": "Static (Plus)",
-    "Type": "Electric"
+    "Type": "Electric",
+    "DexCategory": "Light Pokemon",
+    "Height": {
+        "Deimeters": 14,
+        "Meters": 1.4,
+        "Feet": 4.6
+    },
+    "Weight": {
+        "Hectograms": 615,
+        "Kilograms": 61.5,
+        "Pounds": 135.6
+    },
+    "DexDescription": "It\u2019s not common to see it in the wild. The tip of its tail shines brightly and in the old days, people sent light signals with the help of this Pokemon. It has a good disposition towards people in general.",
+    "Baby": false,
+    "PrimaryEggGroup": "Monster",
+    "SecondaryEggGroup": "Field",
+    "BookImageName": "HOME181.png",
+    "BookShinyImageName": "HOME181_s.png",
+    "MegaEvolutions": [
+        {
+            "Name": "Mega-Ampharos",
+            "Item": "Ampharosite"
+        }
+    ]
 }

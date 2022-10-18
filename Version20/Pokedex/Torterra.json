@@ -29,5 +29,22 @@
     "HasForm": false,
     "Learnset": "Torterra-Learnset",
     "Abilities": "Overgrow (Shell Armor)",
-    "Type": "Grass / Ground"
+    "Type": "Grass / Ground",
+    "DexCategory": "Continent Pokemon",
+    "Height": {
+        "Deimeters": 22,
+        "Meters": 2.2,
+        "Feet": 7.2
+    },
+    "Weight": {
+        "Hectograms": 3100,
+        "Kilograms": 310.0,
+        "Pounds": 683.4
+    },
+    "DexDescription": "Torterras travel in groups, mistaken as moving forests. Many pokemon make their nest on its back and live there for their entire lives. Ancient people thought that they lived on the back of a giant Torterra.",
+    "Baby": false,
+    "PrimaryEggGroup": "Monster",
+    "SecondaryEggGroup": "Grass",
+    "BookImageName": "HOME389.png",
+    "BookShinyImageName": "HOME389_s.png"
 }

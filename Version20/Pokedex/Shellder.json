@@ -29,5 +29,22 @@
     "HasForm": false,
     "Learnset": "Shellder-Learnset",
     "Abilities": "Shell Armor / Skill Link (Overcoat)",
-    "Type": "Water"
+    "Type": "Water",
+    "DexCategory": "Bivalve Pokemon",
+    "Height": {
+        "Deimeters": 3,
+        "Meters": 0.3,
+        "Feet": 1.0
+    },
+    "Weight": {
+        "Hectograms": 40,
+        "Kilograms": 4.0,
+        "Pounds": 8.8
+    },
+    "DexDescription": "It lives at the bottom of the sea and rivers. It feeds on algae but it\u2019s attracted to sweet substances. When frightened it will shut its clam and lock it to be almost impossible to open.",
+    "Baby": false,
+    "PrimaryEggGroup": "Water 3",
+    "SecondaryEggGroup": "",
+    "BookImageName": "HOME090.png",
+    "BookShinyImageName": "HOME090_s.png"
 }

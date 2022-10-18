@@ -29,5 +29,22 @@
     "HasForm": false,
     "Learnset": "Jolteon-Learnset",
     "Abilities": "Volt Absorb (Quick Feet)",
-    "Type": "Electric"
+    "Type": "Electric",
+    "DexCategory": "Lightning Pokemon",
+    "Height": {
+        "Deimeters": 8,
+        "Meters": 0.8,
+        "Feet": 2.6
+    },
+    "Weight": {
+        "Hectograms": 245,
+        "Kilograms": 24.5,
+        "Pounds": 54.0
+    },
+    "DexDescription": "This Pokemon evolved after being affected by electric radiation. Every hair on its body starts to stand sharply if it becomes charged with electricity. It shoots lightning from all around its body.",
+    "Baby": false,
+    "PrimaryEggGroup": "Field",
+    "SecondaryEggGroup": "",
+    "BookImageName": "HOME135.png",
+    "BookShinyImageName": "HOME135_s.png"
 }

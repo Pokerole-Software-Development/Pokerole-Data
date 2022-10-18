@@ -29,5 +29,22 @@
     "HasForm": false,
     "Learnset": "Electabuzz-Learnset",
     "Abilities": "Static (Vital Spirit)",
-    "Type": "Electric"
+    "Type": "Electric",
+    "DexCategory": "Electric Pokemon",
+    "Height": {
+        "Deimeters": 11,
+        "Meters": 1.1,
+        "Feet": 3.6
+    },
+    "Weight": {
+        "Hectograms": 300,
+        "Kilograms": 30.0,
+        "Pounds": 66.1
+    },
+    "DexDescription": "A violent Pokemon. It searches for spots where it can feed on electricity and has been seen absorbing lightning from the sky. It\u2019s competitive and aggressive with others.",
+    "Baby": false,
+    "PrimaryEggGroup": "Human-Like",
+    "SecondaryEggGroup": "",
+    "BookImageName": "HOME125.png",
+    "BookShinyImageName": "HOME125_s.png"
 }

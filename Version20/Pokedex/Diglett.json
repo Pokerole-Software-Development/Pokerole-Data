@@ -29,5 +29,22 @@
     "HasForm": false,
     "Learnset": "Diglett-Learnset",
     "Abilities": "Sand Veil / Arena Trap (Sand Force)",
-    "Type": "Ground"
+    "Type": "Ground",
+    "DexCategory": "Mole Pokemon",
+    "Height": {
+        "Deimeters": 2,
+        "Meters": 0.2,
+        "Feet": 0.7
+    },
+    "Weight": {
+        "Hectograms": 8,
+        "Kilograms": 0.8,
+        "Pounds": 1.8
+    },
+    "DexDescription": "It prefers dark places and spends most of its time underground. It has a very thin skin. It\u2019s frail and has problems regulating its own temperature. Keep it burrowed or it will get sick.",
+    "Baby": false,
+    "PrimaryEggGroup": "Field",
+    "SecondaryEggGroup": "",
+    "BookImageName": "HOME050.png",
+    "BookShinyImageName": "HOME050_s.png"
 }

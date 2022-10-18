@@ -29,5 +29,22 @@
     "HasForm": false,
     "Learnset": "Geodude-Learnset",
     "Abilities": "Rock Head / Sturdy (Sand Veil)",
-    "Type": "Rock / Ground"
+    "Type": "Rock / Ground",
+    "DexCategory": "Rock Pokemon",
+    "Height": {
+        "Deimeters": 4,
+        "Meters": 0.4,
+        "Feet": 1.3
+    },
+    "Weight": {
+        "Hectograms": 200,
+        "Kilograms": 20.0,
+        "Pounds": 44.1
+    },
+    "DexDescription": "Lives in mountains and caves. It looks indistinguishable from other rocks around. Because of this, many trainers step on them and are attacked. It rolls to move around and eats whatever it finds on the floor.",
+    "Baby": false,
+    "PrimaryEggGroup": "Mineral",
+    "SecondaryEggGroup": "",
+    "BookImageName": "HOME074.png",
+    "BookShinyImageName": "HOME074_s.png"
 }

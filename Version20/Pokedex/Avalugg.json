@@ -29,5 +29,22 @@
     "HasForm": false,
     "Learnset": "Avalugg-Learnset",
     "Abilities": "Own Tempo / Ice Body (Sturdy)",
-    "Type": "Ice"
+    "Type": "Ice",
+    "DexCategory": "Iceberg Pokemon",
+    "Height": {
+        "Deimeters": 20,
+        "Meters": 2.0,
+        "Feet": 6.6
+    },
+    "Weight": {
+        "Hectograms": 5050,
+        "Kilograms": 505.0,
+        "Pounds": 1113.3
+    },
+    "DexDescription": "They carry their Bergmite offspring on their backs. Its Ice body is hard as steel and its cumbersome frame crushes anything that stands in its way. They are capable of swimming but they move very slowly.",
+    "Baby": false,
+    "PrimaryEggGroup": "Monster",
+    "SecondaryEggGroup": "Mineral",
+    "BookImageName": "HOME713.png",
+    "BookShinyImageName": "HOME713_s.png"
 }

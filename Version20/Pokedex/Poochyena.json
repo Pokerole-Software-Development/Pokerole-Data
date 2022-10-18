@@ -29,5 +29,22 @@
     "HasForm": false,
     "Learnset": "Poochyena-Learnset",
     "Abilities": "Run Away / Quick Feet (Rattled)",
-    "Type": "Dark"
+    "Type": "Dark",
+    "DexCategory": "Bite Pokemon",
+    "Height": {
+        "Deimeters": 5,
+        "Meters": 0.5,
+        "Feet": 1.6
+    },
+    "Weight": {
+        "Hectograms": 136,
+        "Kilograms": 13.6,
+        "Pounds": 30.0
+    },
+    "DexDescription": "Poochyena will bite anything that moves. They will chase people and other Pokemon for dozens of miles without loosing track. This Pokemon is persistent and tenacious. In the wild, they form small hunting packs.",
+    "Baby": false,
+    "PrimaryEggGroup": "Field",
+    "SecondaryEggGroup": "",
+    "BookImageName": "HOME261.png",
+    "BookShinyImageName": "HOME261_s.png"
 }

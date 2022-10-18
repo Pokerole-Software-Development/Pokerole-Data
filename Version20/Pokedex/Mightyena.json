@@ -29,5 +29,22 @@
     "HasForm": false,
     "Learnset": "Mightyena-Learnset",
     "Abilities": "Intimidate / Quick Feet (Moxie)",
-    "Type": "Dark"
+    "Type": "Dark",
+    "DexCategory": "Bite Pokemon",
+    "Height": {
+        "Deimeters": 10,
+        "Meters": 1.0,
+        "Feet": 3.3
+    },
+    "Weight": {
+        "Hectograms": 370,
+        "Kilograms": 37.0,
+        "Pounds": 81.6
+    },
+    "DexDescription": "They attack savagely, travel in packs and hunt in groups. They will only obey trainers that show superior skills, which they recognize as the alpha leader. They are extremely obedient once they find a master.",
+    "Baby": false,
+    "PrimaryEggGroup": "Field",
+    "SecondaryEggGroup": "",
+    "BookImageName": "HOME262.png",
+    "BookShinyImageName": "HOME262_s.png"
 }

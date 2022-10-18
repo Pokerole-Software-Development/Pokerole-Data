@@ -29,5 +29,22 @@
     "HasForm": false,
     "Learnset": "Whismur-Learnset",
     "Abilities": "Soundproof (Rattled)",
-    "Type": "Normal"
+    "Type": "Normal",
+    "DexCategory": "Whisper Pokemon",
+    "Height": {
+        "Deimeters": 6,
+        "Meters": 0.6,
+        "Feet": 2.0
+    },
+    "Weight": {
+        "Hectograms": 163,
+        "Kilograms": 16.3,
+        "Pounds": 35.9
+    },
+    "DexDescription": "Their timid voice is barely audible, however, if it senses danger, they start crying loud enough to deafen anyone nearby. Their own noise scares them even more, so they cry harder until their ear covers shut.",
+    "Baby": false,
+    "PrimaryEggGroup": "Monster",
+    "SecondaryEggGroup": "Field",
+    "BookImageName": "HOME293.png",
+    "BookShinyImageName": "HOME293_s.png"
 }

@@ -29,5 +29,22 @@
     "HasForm": false,
     "Learnset": "Litten-Learnset",
     "Abilities": "Blaze (Intimidate)",
-    "Type": "Fire"
+    "Type": "Fire",
+    "DexCategory": "Fire Cat Pokemon",
+    "Height": {
+        "Deimeters": 4,
+        "Meters": 0.4,
+        "Feet": 1.3
+    },
+    "Weight": {
+        "Hectograms": 43,
+        "Kilograms": 4.3,
+        "Pounds": 9.5
+    },
+    "DexDescription": "It has an aloof personality and likes to be alone. Its fur produces flammable oils and its rough tongue lights them every time it grooms itself. Not recommended as a pet for they can cause house fires easily.",
+    "Baby": false,
+    "PrimaryEggGroup": "Field",
+    "SecondaryEggGroup": "",
+    "BookImageName": "HOME725.png",
+    "BookShinyImageName": "HOME725_s.png"
 }

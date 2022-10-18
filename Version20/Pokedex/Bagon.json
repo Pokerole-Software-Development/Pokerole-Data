@@ -29,5 +29,22 @@
     "HasForm": false,
     "Learnset": "Bagon-Learnset",
     "Abilities": "Rock Head (Sheer Force)",
-    "Type": "Dragon"
+    "Type": "Dragon",
+    "DexCategory": "Rock Head Pokemon",
+    "Height": {
+        "Deimeters": 6,
+        "Meters": 0.6,
+        "Feet": 2.0
+    },
+    "Weight": {
+        "Hectograms": 421,
+        "Kilograms": 42.1,
+        "Pounds": 92.8
+    },
+    "DexDescription": "Bagons dream of soaring the sky. This leads to a lot of frustration that makes them dive off cliffs in an attempt to fly. Their head is tough enough to survive the fall. They are very ill tempered and violent.",
+    "Baby": false,
+    "PrimaryEggGroup": "Dragon",
+    "SecondaryEggGroup": "",
+    "BookImageName": "HOME371.png",
+    "BookShinyImageName": "HOME371_s.png"
 }

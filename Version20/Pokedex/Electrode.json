@@ -29,5 +29,22 @@
     "HasForm": false,
     "Learnset": "Electrode-Learnset",
     "Abilities": "Soundproof / Static (Aftermath)",
-    "Type": "Electric"
+    "Type": "Electric",
+    "DexCategory": "Ball Pokemon",
+    "Height": {
+        "Deimeters": 12,
+        "Meters": 1.2,
+        "Feet": 3.9
+    },
+    "Weight": {
+        "Hectograms": 666,
+        "Kilograms": 66.6,
+        "Pounds": 146.8
+    },
+    "DexDescription": "It is known for causing blackouts in the cities. After evolving it explodes as a form to release excess electricity or simply to amuse itself. Trainers need to be careful around an Electrode.",
+    "Baby": false,
+    "PrimaryEggGroup": "Mineral",
+    "SecondaryEggGroup": "",
+    "BookImageName": "HOME101.png",
+    "BookShinyImageName": "HOME101_s.png"
 }

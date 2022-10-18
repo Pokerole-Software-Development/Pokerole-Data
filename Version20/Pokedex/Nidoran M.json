@@ -29,5 +29,22 @@
     "HasForm": false,
     "Learnset": "Nidoran M-Learnset",
     "Abilities": "Poison Point / Rivalry (Hustle)",
-    "Type": "Poison"
+    "Type": "Poison",
+    "DexCategory": "Poison Pin Pokemon",
+    "Height": {
+        "Deimeters": 5,
+        "Meters": 0.5,
+        "Feet": 1.6
+    },
+    "Weight": {
+        "Hectograms": 90,
+        "Kilograms": 9.0,
+        "Pounds": 19.8
+    },
+    "DexDescription": "The male Nidoran has developed a great alertness to sounds. Its small body is covered in spikes that are drenched in venom when he\u2019s threatened. He will defend his mate and home fiercely.",
+    "Baby": false,
+    "PrimaryEggGroup": "Monster",
+    "SecondaryEggGroup": "Field",
+    "BookImageName": "HOME032.png",
+    "BookShinyImageName": "HOME032_s.png"
 }

@@ -29,5 +29,22 @@
     "HasForm": true,
     "Learnset": "Basculin-Learnset",
     "Abilities": "Reckless / Adaptability (Mold Breaker)",
-    "Type": "Water"
+    "Type": "Water",
+    "DexCategory": "Hostile Pokemon",
+    "Height": {
+        "Deimeters": 10,
+        "Meters": 1.0,
+        "Feet": 3.3
+    },
+    "Weight": {
+        "Hectograms": 180,
+        "Kilograms": 18.0,
+        "Pounds": 39.7
+    },
+    "DexDescription": "Two variants exist of the same Pokemon, a blue one and a red one but they don\u2019t get along as they compete for territory and prey. These Pokemon are very hostile, but also delicious when grilled.",
+    "Baby": false,
+    "PrimaryEggGroup": "Water 2",
+    "SecondaryEggGroup": "",
+    "BookImageName": "HOME550.png",
+    "BookShinyImageName": "HOME550_s.png"
 }

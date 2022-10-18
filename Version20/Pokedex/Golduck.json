@@ -29,5 +29,22 @@
     "HasForm": false,
     "Learnset": "Golduck-Learnset",
     "Abilities": "Damp / Cloud Nine (Swift Swim)",
-    "Type": "Water"
+    "Type": "Water",
+    "DexCategory": "Duck Pokemon",
+    "Height": {
+        "Deimeters": 17,
+        "Meters": 1.7,
+        "Feet": 5.6
+    },
+    "Weight": {
+        "Hectograms": 766,
+        "Kilograms": 76.6,
+        "Pounds": 168.9
+    },
+    "DexDescription": "A Golduck is an adept swimmer and can be found near most bodies of water. Its forehead shimmers with light when using its psychic abilities. There are records of wild Golducks that rescued people in the water.",
+    "Baby": false,
+    "PrimaryEggGroup": "Water 1",
+    "SecondaryEggGroup": "Field",
+    "BookImageName": "HOME055.png",
+    "BookShinyImageName": "HOME055_s.png"
 }

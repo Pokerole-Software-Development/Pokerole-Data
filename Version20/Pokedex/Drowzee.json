@@ -29,5 +29,22 @@
     "HasForm": false,
     "Learnset": "Drowzee-Learnset",
     "Abilities": "Insomnia / Forewarn (Inner Focus)",
-    "Type": "Psychic"
+    "Type": "Psychic",
+    "DexCategory": "Hypnosis Pokemon",
+    "Height": {
+        "Deimeters": 10,
+        "Meters": 1.0,
+        "Feet": 3.3
+    },
+    "Weight": {
+        "Hectograms": 324,
+        "Kilograms": 32.4,
+        "Pounds": 71.4
+    },
+    "DexDescription": "It eats the dreams of a sleeping person or Pokemon and shows fondness to the dreams of young children. Once the victim is deep in slumber it will extract and eat the dream through the nose.",
+    "Baby": false,
+    "PrimaryEggGroup": "Human-Like",
+    "SecondaryEggGroup": "",
+    "BookImageName": "HOME096.png",
+    "BookShinyImageName": "HOME096_s.png"
 }

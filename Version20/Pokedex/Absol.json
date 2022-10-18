@@ -29,5 +29,28 @@
     "HasForm": true,
     "Learnset": "Absol-Learnset",
     "Abilities": "Pressure / Super Luck (Justified)",
-    "Type": "Dark"
+    "Type": "Dark",
+    "DexCategory": "Disaster Pokemon",
+    "Height": {
+        "Deimeters": 12,
+        "Meters": 1.2,
+        "Feet": 3.9
+    },
+    "Weight": {
+        "Hectograms": 470,
+        "Kilograms": 47.0,
+        "Pounds": 103.6
+    },
+    "DexDescription": "It is said that this Pokemon can live for 100 years. It has a bad reputation: Whenever one is seen, a disaster is soon to follow - earthquakes, forest fires and tidal waves. Absols lead a lonely life.",
+    "Baby": false,
+    "PrimaryEggGroup": "Field",
+    "SecondaryEggGroup": "",
+    "BookImageName": "HOME359.png",
+    "BookShinyImageName": "HOME359_s.png",
+    "MegaEvolutions": [
+        {
+            "Name": "Mega-Absol",
+            "Item": "Absolite"
+        }
+    ]
 }

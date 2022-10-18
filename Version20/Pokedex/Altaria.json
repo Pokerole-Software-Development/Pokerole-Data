@@ -29,5 +29,28 @@
     "HasForm": true,
     "Learnset": "Altaria-Learnset",
     "Abilities": "Natural Cure (Cloud Nine)",
-    "Type": "Dragon / Flying"
+    "Type": "Dragon / Flying",
+    "DexCategory": "Humming Pokemon",
+    "Height": {
+        "Deimeters": 11,
+        "Meters": 1.1,
+        "Feet": 3.6
+    },
+    "Weight": {
+        "Hectograms": 206,
+        "Kilograms": 20.6,
+        "Pounds": 45.4
+    },
+    "DexDescription": "Seen as dancing clouds in the sky, Altarias sing melodies in their sweet voices, evoking wonder, beauty and dreams to the listeners. They live far away from people and throw colorful fireballs at uninvited guests.",
+    "Baby": false,
+    "PrimaryEggGroup": "Flying",
+    "SecondaryEggGroup": "Dragon",
+    "BookImageName": "HOME334.png",
+    "BookShinyImageName": "HOME334_s.png",
+    "MegaEvolutions": [
+        {
+            "Name": "Mega-Altaria",
+            "Item": "Altarianite"
+        }
+    ]
 }

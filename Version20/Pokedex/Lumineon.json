@@ -29,5 +29,22 @@
     "HasForm": false,
     "Learnset": "Lumineon-Learnset",
     "Abilities": "Swift Swim / Storm Drain (Water Veil)",
-    "Type": "Water"
+    "Type": "Water",
+    "DexCategory": "Neon Pokemon",
+    "Height": {
+        "Deimeters": 12,
+        "Meters": 1.2,
+        "Feet": 3.9
+    },
+    "Weight": {
+        "Hectograms": 240,
+        "Kilograms": 24.0,
+        "Pounds": 52.9
+    },
+    "DexDescription": "It lives in the deep-sea bottom. It attracts prey by flashing the patterns on its tail fins. In the wild it competes against Lanturn for food. Its main predators are Tentacruel and Sharpedo.",
+    "Baby": false,
+    "PrimaryEggGroup": "Water 2",
+    "SecondaryEggGroup": "",
+    "BookImageName": "HOME457.png",
+    "BookShinyImageName": "HOME457_s.png"
 }

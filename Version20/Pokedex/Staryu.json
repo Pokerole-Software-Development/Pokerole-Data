@@ -29,5 +29,22 @@
     "HasForm": false,
     "Learnset": "Staryu-Learnset",
     "Abilities": "Illuminate / Natural Cure (Analytic)",
-    "Type": "Water"
+    "Type": "Water",
+    "DexCategory": "Starshape Pokemon",
+    "Height": {
+        "Deimeters": 8,
+        "Meters": 0.8,
+        "Feet": 2.6
+    },
+    "Weight": {
+        "Hectograms": 345,
+        "Kilograms": 34.5,
+        "Pounds": 76.1
+    },
+    "DexDescription": "They come out to the shore in great numbers when the sky is full with stars. The core at its center glows to communicate with others. If a part of its body is injured it can regrow it in a few days.",
+    "Baby": false,
+    "PrimaryEggGroup": "Water 3",
+    "SecondaryEggGroup": "",
+    "BookImageName": "HOME120.png",
+    "BookShinyImageName": "HOME120_s.png"
 }

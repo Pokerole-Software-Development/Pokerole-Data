@@ -29,5 +29,22 @@
     "HasForm": false,
     "Learnset": "Shieldon-Learnset",
     "Abilities": "Sturdy (Soundproof)",
-    "Type": "Rock / Steel"
+    "Type": "Rock / Steel",
+    "DexCategory": "Shield Pokemon",
+    "Height": {
+        "Deimeters": 5,
+        "Meters": 0.5,
+        "Feet": 1.6
+    },
+    "Weight": {
+        "Hectograms": 570,
+        "Kilograms": 57.0,
+        "Pounds": 125.7
+    },
+    "DexDescription": "It was cloned from a fossil dug out from a layer of clay. It is outstandingly armored. As a result, it can eat grass and berries without having to fight many Pokemon who would dare to prey on it.",
+    "Baby": false,
+    "PrimaryEggGroup": "Monster",
+    "SecondaryEggGroup": "",
+    "BookImageName": "HOME410.png",
+    "BookShinyImageName": "HOME410_s.png"
 }

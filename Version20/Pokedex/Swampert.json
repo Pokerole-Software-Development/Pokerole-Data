@@ -29,5 +29,28 @@
     "HasForm": true,
     "Learnset": "Swampert-Learnset",
     "Abilities": "Torrent (Damp)",
-    "Type": "Water / Ground"
+    "Type": "Water / Ground",
+    "DexCategory": "Mud Fish Pokemon",
+    "Height": {
+        "Deimeters": 15,
+        "Meters": 1.5,
+        "Feet": 4.9
+    },
+    "Weight": {
+        "Hectograms": 819,
+        "Kilograms": 81.9,
+        "Pounds": 180.6
+    },
+    "DexDescription": "They have an incredible sight that allows them to see in muddy water. They nest in beaches, and shield their young with their strong arms. When a storm is coming, Swamperts build a fort with big rocks.",
+    "Baby": false,
+    "PrimaryEggGroup": "Monster",
+    "SecondaryEggGroup": "Water 1",
+    "BookImageName": "HOME260.png",
+    "BookShinyImageName": "HOME260_s.png",
+    "MegaEvolutions": [
+        {
+            "Name": "Mega-Swampert",
+            "Item": "Swampertite"
+        }
+    ]
 }

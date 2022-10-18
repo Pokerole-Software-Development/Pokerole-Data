@@ -29,5 +29,22 @@
     "HasForm": false,
     "Learnset": "Noibat-Learnset",
     "Abilities": "Frisk / Infiltrator (Telepathy)",
-    "Type": "Flying / Dragon"
+    "Type": "Flying / Dragon",
+    "DexCategory": "Sound Wave Pokemon",
+    "Height": {
+        "Deimeters": 5,
+        "Meters": 0.5,
+        "Feet": 1.6
+    },
+    "Weight": {
+        "Hectograms": 80,
+        "Kilograms": 8.0,
+        "Pounds": 17.6
+    },
+    "DexDescription": "They live in dark caves and use echolocation to move around. Their enormous ears can emit ultrasonic waves that cause dizziness. Groups of them can even take on prey several times their size.",
+    "Baby": false,
+    "PrimaryEggGroup": "Flying",
+    "SecondaryEggGroup": "Dragon",
+    "BookImageName": "HOME714.png",
+    "BookShinyImageName": "HOME714_s.png"
 }

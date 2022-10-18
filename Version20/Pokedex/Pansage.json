@@ -29,5 +29,22 @@
     "HasForm": false,
     "Learnset": "Pansage-Learnset",
     "Abilities": "Gluttony (Overgrow)",
-    "Type": "Grass"
+    "Type": "Grass",
+    "DexCategory": "Grass Monkey Pokemon",
+    "Height": {
+        "Deimeters": 6,
+        "Meters": 0.6,
+        "Feet": 2.0
+    },
+    "Weight": {
+        "Hectograms": 105,
+        "Kilograms": 10.5,
+        "Pounds": 23.1
+    },
+    "DexDescription": "Pansage is a friendly Pokemon. It is good at finding berries and will share them with other Pokemon. The leaves on it\u2019s head have medicinal properties, if it finds a sick Pokemon it will offer some to heal it.",
+    "Baby": false,
+    "PrimaryEggGroup": "Field",
+    "SecondaryEggGroup": "",
+    "BookImageName": "HOME511.png",
+    "BookShinyImageName": "HOME511_s.png"
 }

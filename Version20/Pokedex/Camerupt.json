@@ -29,5 +29,28 @@
     "HasForm": true,
     "Learnset": "Camerupt-Learnset",
     "Abilities": "Magma Armor / Solid Rock (Anger Point)",
-    "Type": "Fire / Ground"
+    "Type": "Fire / Ground",
+    "DexCategory": "Eruption Pokemon",
+    "Height": {
+        "Deimeters": 19,
+        "Meters": 1.9,
+        "Feet": 6.2
+    },
+    "Weight": {
+        "Hectograms": 2200,
+        "Kilograms": 220.0,
+        "Pounds": 485.0
+    },
+    "DexDescription": "Sometimes the humps on their back make an eruption when they get really angry, otherwise they\u2019d only erupt every 10 years. Camerupts live inside the craters of volcanoes. They are indifferent to humans.",
+    "Baby": false,
+    "PrimaryEggGroup": "Field",
+    "SecondaryEggGroup": "",
+    "BookImageName": "HOME323.png",
+    "BookShinyImageName": "HOME323_s.png",
+    "MegaEvolutions": [
+        {
+            "Name": "Mega-Camerupt",
+            "Item": "Cameruptite"
+        }
+    ]
 }

@@ -29,5 +29,28 @@
     "HasForm": true,
     "Learnset": "Aggron-Learnset",
     "Abilities": "Sturdy / Rock Head (Heavy Metal)",
-    "Type": "Steel / Rock"
+    "Type": "Steel / Rock",
+    "DexCategory": "Iron Armor Pokemon",
+    "Height": {
+        "Deimeters": 21,
+        "Meters": 2.1,
+        "Feet": 6.9
+    },
+    "Weight": {
+        "Hectograms": 3600,
+        "Kilograms": 360.0,
+        "Pounds": 793.7
+    },
+    "DexDescription": "Aggron claims ownership of entire mountains, mercilessly beating up anything that crosses their path. Aggrons are violent and patrol their territory at all times, but also plant trees, stop fires and protect nature.",
+    "Baby": false,
+    "PrimaryEggGroup": "Monster",
+    "SecondaryEggGroup": "",
+    "BookImageName": "HOME306.png",
+    "BookShinyImageName": "HOME306_s.png",
+    "MegaEvolutions": [
+        {
+            "Name": "Mega-Aggron",
+            "Item": "Aggronite"
+        }
+    ]
 }

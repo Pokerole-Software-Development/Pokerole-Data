@@ -29,5 +29,22 @@
     "HasForm": false,
     "Learnset": "Kingdra-Learnset",
     "Abilities": "Swift Swim / Sniper (Damp)",
-    "Type": "Water / Dragon"
+    "Type": "Water / Dragon",
+    "DexCategory": "Dragon Pokemon",
+    "Height": {
+        "Deimeters": 18,
+        "Meters": 1.8,
+        "Feet": 5.9
+    },
+    "Weight": {
+        "Hectograms": 1520,
+        "Kilograms": 152.0,
+        "Pounds": 335.1
+    },
+    "DexDescription": "Kingdra sleeps on the seafloor where it is otherwise devoid of life. When a storm arrives, it is said to awaken and wander about in search of prey. They are known for creating twisters in the sea.",
+    "Baby": false,
+    "PrimaryEggGroup": "Water 1",
+    "SecondaryEggGroup": "Dragon",
+    "BookImageName": "HOME230.png",
+    "BookShinyImageName": "HOME230_s.png"
 }

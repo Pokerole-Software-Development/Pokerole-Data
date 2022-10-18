@@ -29,5 +29,22 @@
     "HasForm": false,
     "Learnset": "Pidgeotto-Learnset",
     "Abilities": "Keen Eye / Tangled Feet (Big Pecks)",
-    "Type": "Normal / Flying"
+    "Type": "Normal / Flying",
+    "DexCategory": "Bird Pokemon",
+    "Height": {
+        "Deimeters": 11,
+        "Meters": 1.1,
+        "Feet": 3.6
+    },
+    "Weight": {
+        "Hectograms": 300,
+        "Kilograms": 30.0,
+        "Pounds": 66.1
+    },
+    "DexDescription": "Each Pidgeotto claims a large meadow area as its territory. This Pokemon flies around, patrolling its home and will attack any intruders with its sharp claws. It will challenge itself to fly a bit higher every day.",
+    "Baby": false,
+    "PrimaryEggGroup": "Flying",
+    "SecondaryEggGroup": "",
+    "BookImageName": "HOME017.png",
+    "BookShinyImageName": "HOME017_s.png"
 }

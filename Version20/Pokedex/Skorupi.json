@@ -29,5 +29,22 @@
     "HasForm": false,
     "Learnset": "Skorupi-Learnset",
     "Abilities": "Battle Armor / Sniper (Keen Eye)",
-    "Type": "Poison / Bug"
+    "Type": "Poison / Bug",
+    "DexCategory": "Scorpion Pokemon",
+    "Height": {
+        "Deimeters": 8,
+        "Meters": 0.8,
+        "Feet": 2.6
+    },
+    "Weight": {
+        "Hectograms": 120,
+        "Kilograms": 12.0,
+        "Pounds": 26.5
+    },
+    "DexDescription": "It lives in deserts and arid regions. It buries itself under the sand, waiting for an unsuspecting prey to come nearby. It will then sting the prey and cling to it tenaciously until the poison takes effect.",
+    "Baby": false,
+    "PrimaryEggGroup": "Bug",
+    "SecondaryEggGroup": "Water 3",
+    "BookImageName": "HOME451.png",
+    "BookShinyImageName": "HOME451_s.png"
 }

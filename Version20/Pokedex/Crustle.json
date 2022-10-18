@@ -29,5 +29,22 @@
     "HasForm": false,
     "Learnset": "Crustle-Learnset",
     "Abilities": "Sturdy / Shell Armor (Weak Armor)",
-    "Type": "Bug / Rock"
+    "Type": "Bug / Rock",
+    "DexCategory": "Stone Home Pokemon",
+    "Height": {
+        "Deimeters": 14,
+        "Meters": 1.4,
+        "Feet": 4.6
+    },
+    "Weight": {
+        "Hectograms": 2000,
+        "Kilograms": 200.0,
+        "Pounds": 440.9
+    },
+    "DexDescription": "They carry enormous boulders as a protective shell. When competing for territory, Crustle fight viciously. The one whose boulder is broken is the loser of the battle. They feed on the moss that grows in their rock.",
+    "Baby": false,
+    "PrimaryEggGroup": "Bug",
+    "SecondaryEggGroup": "Mineral",
+    "BookImageName": "HOME558.png",
+    "BookShinyImageName": "HOME558_s.png"
 }

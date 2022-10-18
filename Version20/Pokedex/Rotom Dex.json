@@ -29,5 +29,21 @@
     "HasForm": false,
     "Learnset": "Rotom Dex-Learnset",
     "Abilities": "Levitate",
-    "Type": "Electric"
+    "Type": "Electric",
+    "DexCategory": "Plasma Pokemon",
+    "Height": {
+        "Deimeters": 3,
+        "Meters": 0.3,
+        "Feet": 1.0
+    },
+    "Weight": {
+        "Hectograms": 3,
+        "Kilograms": 0.3,
+        "Pounds": 0.7
+    },
+    "DexDescription": "A Pokedex possessed by a Rotom, it has access to all the information inside the computer and uses the sounds to emulate speech. While on this form it can use the move: Light Screen.",
+    "Baby": false,
+    "PrimaryEggGroup": "Amorphous",
+    "SecondaryEggGroup": "",
+    "BookImageName": "HOME479D.png"
 }

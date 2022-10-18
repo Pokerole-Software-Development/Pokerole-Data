@@ -29,5 +29,22 @@
     "HasForm": false,
     "Learnset": "Drednaw-Learnset",
     "Abilities": "Strong Jaw / Shell Armor (Swift Swim)",
-    "Type": "Water / Rock"
+    "Type": "Water / Rock",
+    "DexCategory": "Bite Pokemon",
+    "Height": {
+        "Deimeters": 10,
+        "Meters": 1.0,
+        "Feet": 3.3
+    },
+    "Weight": {
+        "Hectograms": 1155,
+        "Kilograms": 115.5,
+        "Pounds": 254.6
+    },
+    "DexDescription": "It stays immobile near rivers and lakes, disguised as a rock until it snaps at an unsuspecting prey. Once something is trapped by its sharp teeth there is no way to take it out as it is incredibly stubborn.",
+    "Baby": false,
+    "PrimaryEggGroup": "Monster",
+    "SecondaryEggGroup": "Water 1",
+    "BookImageName": "HOME834.png",
+    "BookShinyImageName": "HOME834_s.png"
 }

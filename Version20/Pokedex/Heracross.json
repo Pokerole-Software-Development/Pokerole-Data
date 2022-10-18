@@ -29,5 +29,28 @@
     "HasForm": true,
     "Learnset": "Heracross-Learnset",
     "Abilities": "Swarm / Guts (Moxie)",
-    "Type": "Bug / Fighting"
+    "Type": "Bug / Fighting",
+    "DexCategory": "Single Horn Pokemon",
+    "Height": {
+        "Deimeters": 15,
+        "Meters": 1.5,
+        "Feet": 4.9
+    },
+    "Weight": {
+        "Hectograms": 540,
+        "Kilograms": 54.0,
+        "Pounds": 119.0
+    },
+    "DexDescription": "A docile creature that loves honey. They batter down trees with their powerful horn and chase off anyone who gets close to their prized honey. Not many Pokemon dare to mess with it in the wild.",
+    "Baby": false,
+    "PrimaryEggGroup": "Bug",
+    "SecondaryEggGroup": "",
+    "BookImageName": "HOME214.png",
+    "BookShinyImageName": "HOME214_s.png",
+    "MegaEvolutions": [
+        {
+            "Name": "Mega-Heracross",
+            "Item": "Heracronite"
+        }
+    ]
 }

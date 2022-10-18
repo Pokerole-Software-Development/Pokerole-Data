@@ -29,5 +29,22 @@
     "HasForm": false,
     "Learnset": "Arrokuda-Learnset",
     "Abilities": "Swift Swim (Propeller Tail)",
-    "Type": "Water"
+    "Type": "Water",
+    "DexCategory": "Rush Pokemon",
+    "Height": {
+        "Deimeters": 5,
+        "Meters": 0.5,
+        "Feet": 1.6
+    },
+    "Weight": {
+        "Hectograms": 10,
+        "Kilograms": 1.0,
+        "Pounds": 2.2
+    },
+    "DexDescription": "They propel themselves, swimming at high speeds to hunt their prey. After they have eaten their swim becomes sluggish and they are at risk of being eaten themselves. They are proud of their pointed jaw.",
+    "Baby": false,
+    "PrimaryEggGroup": "Water 2",
+    "SecondaryEggGroup": "",
+    "BookImageName": "HOME846.png",
+    "BookShinyImageName": "HOME846_s.png"
 }

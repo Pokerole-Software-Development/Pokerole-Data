@@ -29,5 +29,22 @@
     "HasForm": false,
     "Learnset": "Alolan Diglett-Learnset",
     "Abilities": "Sand Veil / Tangling Hair (Sand Force)",
-    "Type": "Ground / Steel"
+    "Type": "Ground / Steel",
+    "DexCategory": "Mole Pokemon",
+    "Height": {
+        "Deimeters": 2,
+        "Meters": 0.2,
+        "Feet": 0.7
+    },
+    "Weight": {
+        "Hectograms": 10,
+        "Kilograms": 1.0,
+        "Pounds": 2.2
+    },
+    "DexDescription": "This variant of Diglett is only found in the Alola region. The small hairs on its head are used perceive its surroundings while burrowed, do not cut them or Diglett will become very sick.",
+    "Baby": false,
+    "PrimaryEggGroup": "Field",
+    "SecondaryEggGroup": "",
+    "BookImageName": "HOME050A.png",
+    "BookShinyImageName": "HOME050A_s.png"
 }

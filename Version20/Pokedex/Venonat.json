@@ -29,5 +29,22 @@
     "HasForm": false,
     "Learnset": "Venonat-Learnset",
     "Abilities": "Compound Eyes / Tinted Lens (Run Away)",
-    "Type": "Bug / Poison"
+    "Type": "Bug / Poison",
+    "DexCategory": "Insect Pokemon",
+    "Height": {
+        "Deimeters": 10,
+        "Meters": 1.0,
+        "Feet": 3.3
+    },
+    "Weight": {
+        "Hectograms": 300,
+        "Kilograms": 30.0,
+        "Pounds": 66.1
+    },
+    "DexDescription": "It lives in the holes of trees in dense forests and jungles. Its large eyes never fail to spot even minuscule prey. Sometimes Venonat uses its powers to confuse travelers and make them lose their way.",
+    "Baby": false,
+    "PrimaryEggGroup": "Bug",
+    "SecondaryEggGroup": "",
+    "BookImageName": "HOME048.png",
+    "BookShinyImageName": "HOME048_s.png"
 }

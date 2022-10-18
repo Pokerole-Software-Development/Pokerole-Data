@@ -29,5 +29,22 @@
     "HasForm": false,
     "Learnset": "Zubat-Learnset",
     "Abilities": "Inner Focus (Infiltrator)",
-    "Type": "Poison / Flying"
+    "Type": "Poison / Flying",
+    "DexCategory": "Bat Pokemon",
+    "Height": {
+        "Deimeters": 8,
+        "Meters": 0.8,
+        "Feet": 2.6
+    },
+    "Weight": {
+        "Hectograms": 75,
+        "Kilograms": 7.5,
+        "Pounds": 16.5
+    },
+    "DexDescription": "It lives in dark caves all around the world. Prolonged exposure to the sun will make it unhealthy. It is blind but uses echolocation to find its way. At night, they leave their cave to feed on fruit and bug Pokemon.",
+    "Baby": false,
+    "PrimaryEggGroup": "Flying",
+    "SecondaryEggGroup": "",
+    "BookImageName": "HOME041.png",
+    "BookShinyImageName": "HOME041_s.png"
 }

@@ -29,5 +29,22 @@
     "HasForm": false,
     "Learnset": "Scraggy-Learnset",
     "Abilities": "Shed Skin / Moxie (Intimidate)",
-    "Type": "Dark / Fighting"
+    "Type": "Dark / Fighting",
+    "DexCategory": "Shedding Pokemon",
+    "Height": {
+        "Deimeters": 6,
+        "Meters": 0.6,
+        "Feet": 2.0
+    },
+    "Weight": {
+        "Hectograms": 118,
+        "Kilograms": 11.8,
+        "Pounds": 26.0
+    },
+    "DexDescription": "It sheds skin constantly, but keeps wearing it since the old skin has a rubber-like texture and it can pull it all the way up to its head. It bashes foes with headbutts and is known for making dirty moves on fights.",
+    "Baby": false,
+    "PrimaryEggGroup": "Field",
+    "SecondaryEggGroup": "Dragon",
+    "BookImageName": "HOME559.png",
+    "BookShinyImageName": "HOME559_s.png"
 }

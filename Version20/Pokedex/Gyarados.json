@@ -29,5 +29,28 @@
     "HasForm": true,
     "Learnset": "Gyarados-Learnset",
     "Abilities": "Intimidate (Moxie)",
-    "Type": "Water / Flying"
+    "Type": "Water / Flying",
+    "DexCategory": "Atrocious Pokemon",
+    "Height": {
+        "Deimeters": 65,
+        "Meters": 6.5,
+        "Feet": 21.3
+    },
+    "Weight": {
+        "Hectograms": 2350,
+        "Kilograms": 235.0,
+        "Pounds": 518.1
+    },
+    "DexDescription": "It\u2019s rarely seen in the wild. This huge and vicious Pokemon is known for the destruction it leaves in its wake. In ancient literature, there is a record of a Gyarados that razed a village when violence flared.",
+    "Baby": false,
+    "PrimaryEggGroup": "Water 2",
+    "SecondaryEggGroup": "Dragon",
+    "BookImageName": "HOME130.png",
+    "BookShinyImageName": "HOME130_s.png",
+    "MegaEvolutions": [
+        {
+            "Name": "Mega-Gyarados",
+            "Item": "Gyaradosite"
+        }
+    ]
 }

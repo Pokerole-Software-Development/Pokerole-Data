@@ -29,5 +29,22 @@
     "HasForm": false,
     "Learnset": "Krabby-Learnset",
     "Abilities": "Hyper Cutter / Shell Armor (Sheer Force)",
-    "Type": "Water"
+    "Type": "Water",
+    "DexCategory": "River Crab Pokemon",
+    "Height": {
+        "Deimeters": 4,
+        "Meters": 0.4,
+        "Feet": 1.3
+    },
+    "Weight": {
+        "Hectograms": 65,
+        "Kilograms": 6.5,
+        "Pounds": 14.3
+    },
+    "DexDescription": "A Krabby dig holes in the sand near the sea. They can be seen squabbling with each other over food and territory. They usually avoid humans but will fight if provoked.",
+    "Baby": false,
+    "PrimaryEggGroup": "Water 3",
+    "SecondaryEggGroup": "",
+    "BookImageName": "HOME098.png",
+    "BookShinyImageName": "HOME098_s.png"
 }

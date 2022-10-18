@@ -29,5 +29,22 @@
     "HasForm": false,
     "Learnset": "Spinarak-Learnset",
     "Abilities": "Swarm / Insomnia (Sniper)",
-    "Type": "Bug / Poison"
+    "Type": "Bug / Poison",
+    "DexCategory": "String Spit Pokemon",
+    "Height": {
+        "Deimeters": 5,
+        "Meters": 0.5,
+        "Feet": 1.6
+    },
+    "Weight": {
+        "Hectograms": 85,
+        "Kilograms": 8.5,
+        "Pounds": 18.7
+    },
+    "DexDescription": "It sets a trap by spinning a web of thin but strong silk. Then it waits for the prey to arrive. It recognizes what kind of prey has fallen on its web by the vibrations received by each one of its eight legs.",
+    "Baby": false,
+    "PrimaryEggGroup": "Bug",
+    "SecondaryEggGroup": "",
+    "BookImageName": "HOME167.png",
+    "BookShinyImageName": "HOME167_s.png"
 }

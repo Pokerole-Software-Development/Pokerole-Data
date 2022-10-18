@@ -29,5 +29,22 @@
     "HasForm": false,
     "Learnset": "Kakuna-Learnset",
     "Abilities": "Shed Skin",
-    "Type": "Bug / Poison"
+    "Type": "Bug / Poison",
+    "DexCategory": "Cocoon Pokemon",
+    "Height": {
+        "Deimeters": 6,
+        "Meters": 0.6,
+        "Feet": 2.0
+    },
+    "Weight": {
+        "Hectograms": 100,
+        "Kilograms": 10.0,
+        "Pounds": 22.0
+    },
+    "DexDescription": "It remains virtually immobile while it clings to a tree. On the inside, it is preparing for evolution by rising the temperature of its shell. Beware of Beedrills that may roam close to it.",
+    "Baby": false,
+    "PrimaryEggGroup": "Bug",
+    "SecondaryEggGroup": "",
+    "BookImageName": "HOME014.png",
+    "BookShinyImageName": "HOME014_s.png"
 }

@@ -29,5 +29,22 @@
     "HasForm": false,
     "Learnset": "Dragonite-Learnset",
     "Abilities": "Inner Focus (Multiscale)",
-    "Type": "Dragon / Flying"
+    "Type": "Dragon / Flying",
+    "DexCategory": "Dragon Pokemon",
+    "Height": {
+        "Deimeters": 22,
+        "Meters": 2.2,
+        "Feet": 7.2
+    },
+    "Weight": {
+        "Hectograms": 2100,
+        "Kilograms": 210.0,
+        "Pounds": 463.0
+    },
+    "DexDescription": "Very few people have ever seen this Pokemon. Its intelligence matches that of humans. There are records of a Pokemon with a similar description that helped rescue a ship full of people during a hurricane.",
+    "Baby": false,
+    "PrimaryEggGroup": "Water 1",
+    "SecondaryEggGroup": "Dragon",
+    "BookImageName": "HOME149.png",
+    "BookShinyImageName": "HOME149_s.png"
 }

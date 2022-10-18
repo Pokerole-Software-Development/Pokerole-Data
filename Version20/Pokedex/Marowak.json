@@ -29,5 +29,22 @@
     "HasForm": true,
     "Learnset": "Marowak-Learnset",
     "Abilities": "Rock Head / Lightning Rod (Battle Armor)",
-    "Type": "Ground"
+    "Type": "Ground",
+    "DexCategory": "Bone Keeper Pokemon",
+    "Height": {
+        "Deimeters": 10,
+        "Meters": 1.0,
+        "Feet": 3.3
+    },
+    "Weight": {
+        "Hectograms": 450,
+        "Kilograms": 45.0,
+        "Pounds": 99.2
+    },
+    "DexDescription": "Its rough past has hardened its heart. Now tenacious and violent, this Pokemon will use its Bone club as a weapon against foes. Marowak's den is usually full of the bones it has collected.",
+    "Baby": false,
+    "PrimaryEggGroup": "Monster",
+    "SecondaryEggGroup": "",
+    "BookImageName": "HOME105.png",
+    "BookShinyImageName": "HOME105_s.png"
 }

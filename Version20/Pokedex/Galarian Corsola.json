@@ -29,5 +29,22 @@
     "HasForm": false,
     "Learnset": "Galarian Corsola-Learnset",
     "Abilities": "Weak Armor (Cursed Body)",
-    "Type": "Ghost"
+    "Type": "Ghost",
+    "DexCategory": "Coral Pokemon",
+    "Height": {
+        "Deimeters": 6,
+        "Meters": 0.6,
+        "Feet": 2.0
+    },
+    "Weight": {
+        "Hectograms": 5,
+        "Kilograms": 0.5,
+        "Pounds": 1.1
+    },
+    "DexDescription": "Watch your step when walking through shallow ocean waters  because this Pokemon looks like a stone and it will curse you if you kick it. Sudden climate change wiped out this ancient kind of Corsola.",
+    "Baby": false,
+    "PrimaryEggGroup": "Water 1",
+    "SecondaryEggGroup": "Water 3",
+    "BookImageName": "HOME222G.png",
+    "BookShinyImageName": "HOME222G_s.png"
 }

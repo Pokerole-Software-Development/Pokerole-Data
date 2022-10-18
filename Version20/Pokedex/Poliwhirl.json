@@ -29,5 +29,22 @@
     "HasForm": false,
     "Learnset": "Poliwhirl-Learnset",
     "Abilities": "Water Absorb / Damp (Swift Swim)",
-    "Type": "Water"
+    "Type": "Water",
+    "DexCategory": "Tadpole Pokemon",
+    "Height": {
+        "Deimeters": 10,
+        "Meters": 1.0,
+        "Feet": 3.3
+    },
+    "Weight": {
+        "Hectograms": 200,
+        "Kilograms": 20.0,
+        "Pounds": 44.1
+    },
+    "DexDescription": "Though it is skilled at walking, it prefers to live underwater where there\u2019s less danger. It sweats to keep its skin moist. Thanks to this, it can easily slip out of the clutches of any enemy.",
+    "Baby": false,
+    "PrimaryEggGroup": "Water 1",
+    "SecondaryEggGroup": "",
+    "BookImageName": "HOME061.png",
+    "BookShinyImageName": "HOME061_s.png"
 }

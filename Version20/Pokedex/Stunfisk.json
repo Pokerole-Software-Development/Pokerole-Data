@@ -29,5 +29,22 @@
     "HasForm": true,
     "Learnset": "Stunfisk-Learnset",
     "Abilities": "Static / Limber (Sand Veil)",
-    "Type": "Ground / Electric"
+    "Type": "Ground / Electric",
+    "DexCategory": "Trap Pokemon",
+    "Height": {
+        "Deimeters": 7,
+        "Meters": 0.7,
+        "Feet": 2.3
+    },
+    "Weight": {
+        "Hectograms": 110,
+        "Kilograms": 11.0,
+        "Pounds": 24.3
+    },
+    "DexDescription": "It conceals itself in the mud of the seashore, then it waits. When prey touch it, it delivers a jolt of electricity. Its skin is very hard and it can position itself to keep unhurt even if stepped on by a heavy Pokemon.",
+    "Baby": false,
+    "PrimaryEggGroup": "Water 1",
+    "SecondaryEggGroup": "Amorphous",
+    "BookImageName": "HOME618.png",
+    "BookShinyImageName": "HOME618_s.png"
 }

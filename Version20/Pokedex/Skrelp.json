@@ -29,5 +29,22 @@
     "HasForm": false,
     "Learnset": "Skrelp-Learnset",
     "Abilities": "Poison Point / Poison Touch (Adaptability)",
-    "Type": "Poison / Water"
+    "Type": "Poison / Water",
+    "DexCategory": "Mock Kelp Pokemon",
+    "Height": {
+        "Deimeters": 5,
+        "Meters": 0.5,
+        "Feet": 1.6
+    },
+    "Weight": {
+        "Hectograms": 73,
+        "Kilograms": 7.3,
+        "Pounds": 16.1
+    },
+    "DexDescription": "Camouflaged as rotten kelp they spray liquid poison on a prey that approaches unaware. It needs to store a lot of energy to be able to evolve so it takes them a long time. Touching one will give you a fever.",
+    "Baby": false,
+    "PrimaryEggGroup": "Water 1",
+    "SecondaryEggGroup": "Dragon",
+    "BookImageName": "HOME690.png",
+    "BookShinyImageName": "HOME690_s.png"
 }

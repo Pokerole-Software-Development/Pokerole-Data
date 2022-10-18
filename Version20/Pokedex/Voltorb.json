@@ -29,5 +29,22 @@
     "HasForm": false,
     "Learnset": "Voltorb-Learnset",
     "Abilities": "Soundproof / Static (Aftermath)",
-    "Type": "Electric"
+    "Type": "Electric",
+    "DexCategory": "Ball Pokemon",
+    "Height": {
+        "Deimeters": 5,
+        "Meters": 0.5,
+        "Feet": 1.6
+    },
+    "Weight": {
+        "Hectograms": 104,
+        "Kilograms": 10.4,
+        "Pounds": 22.9
+    },
+    "DexDescription": "They live near factories and electric generators. It bears an uncanny and unexplained resemblance to a Pokeball. Since it explodes at the slightest provocation, even veteran trainers treat it with caution.",
+    "Baby": false,
+    "PrimaryEggGroup": "Mineral",
+    "SecondaryEggGroup": "",
+    "BookImageName": "HOME100.png",
+    "BookShinyImageName": "HOME100_s.png"
 }

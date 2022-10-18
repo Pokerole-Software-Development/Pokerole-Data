@@ -29,5 +29,22 @@
     "HasForm": false,
     "Learnset": "Magnezone-Learnset",
     "Abilities": "Magnet Pull / Sturdy (Analytic)",
-    "Type": "Electric / Steel"
+    "Type": "Electric / Steel",
+    "DexCategory": "Magnet Area Pokemon",
+    "Height": {
+        "Deimeters": 12,
+        "Meters": 1.2,
+        "Feet": 3.9
+    },
+    "Weight": {
+        "Hectograms": 1800,
+        "Kilograms": 180.0,
+        "Pounds": 396.8
+    },
+    "DexDescription": "Magneton only evolves in very specific areas of the globe. It has the ability to repel itself from the ground using magnetism. If it is nervous it pulls all the pieces of metal around until it relaxes.",
+    "Baby": false,
+    "PrimaryEggGroup": "Mineral",
+    "SecondaryEggGroup": "",
+    "BookImageName": "HOME462.png",
+    "BookShinyImageName": "HOME462_s.png"
 }

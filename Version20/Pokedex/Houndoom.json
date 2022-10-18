@@ -29,5 +29,28 @@
     "HasForm": true,
     "Learnset": "Houndoom-Learnset",
     "Abilities": "Early Bird / Flash Fire (Unnerve)",
-    "Type": "Dark / Fire"
+    "Type": "Dark / Fire",
+    "DexCategory": "Dark Pokemon",
+    "Height": {
+        "Deimeters": 14,
+        "Meters": 1.4,
+        "Feet": 4.6
+    },
+    "Weight": {
+        "Hectograms": 350,
+        "Kilograms": 35.0,
+        "Pounds": 77.2
+    },
+    "DexDescription": "It is said the pain from its flames never goes away. Long ago, their howl was thought to be the call of the grim reaper. Pokemon and people who hear it, will always shiver in fear. They are pack leaders, not followers",
+    "Baby": false,
+    "PrimaryEggGroup": "Field",
+    "SecondaryEggGroup": "",
+    "BookImageName": "HOME229.png",
+    "BookShinyImageName": "HOME229_s.png",
+    "MegaEvolutions": [
+        {
+            "Name": "Mega-Houndoom",
+            "Item": "Houndoominite"
+        }
+    ]
 }

@@ -29,5 +29,32 @@
     "HasForm": true,
     "Learnset": "Charizard-Learnset",
     "Abilities": "Blaze (Solar Power)",
-    "Type": "Fire / Flying"
+    "Type": "Fire / Flying",
+    "DexCategory": "Flame Pokemon",
+    "Height": {
+        "Deimeters": 17,
+        "Meters": 1.7,
+        "Feet": 5.6
+    },
+    "Weight": {
+        "Hectograms": 905,
+        "Kilograms": 90.5,
+        "Pounds": 199.5
+    },
+    "DexDescription": "A Charizard flies around looking for strong opponents. It breathes intense flames that can melt any material. However, it will never touch a weaker foe. Not many trainers are able to handle its bad temper.",
+    "Baby": false,
+    "PrimaryEggGroup": "Monster",
+    "SecondaryEggGroup": "Dragon",
+    "BookImageName": "HOME006.png",
+    "BookShinyImageName": "HOME006_s.png",
+    "MegaEvolutions": [
+        {
+            "Name": "Mega-Charizard Y",
+            "Item": "Charizardite Y"
+        },
+        {
+            "Name": "Mega-Charizard X",
+            "Item": "Charizardite X"
+        }
+    ]
 }

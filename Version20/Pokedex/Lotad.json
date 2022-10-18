@@ -29,5 +29,22 @@
     "HasForm": false,
     "Learnset": "Lotad-Learnset",
     "Abilities": "Swift Swim / Rain Dish (Own Tempo)",
-    "Type": "Water / Grass"
+    "Type": "Water / Grass",
+    "DexCategory": "Water Weed Pokemon",
+    "Height": {
+        "Deimeters": 5,
+        "Meters": 0.5,
+        "Feet": 1.6
+    },
+    "Weight": {
+        "Hectograms": 26,
+        "Kilograms": 2.6,
+        "Pounds": 5.7
+    },
+    "DexDescription": "They live in ponds and lakes, floating atop the water. The big leaf on their head is known to act as a ferry for smaller Pokemon. The leaf is delicate and needs constant watering or else Lotad will grow sick.",
+    "Baby": false,
+    "PrimaryEggGroup": "Water 1",
+    "SecondaryEggGroup": "Grass",
+    "BookImageName": "HOME270.png",
+    "BookShinyImageName": "HOME270_s.png"
 }

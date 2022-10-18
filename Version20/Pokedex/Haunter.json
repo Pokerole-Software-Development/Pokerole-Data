@@ -29,5 +29,22 @@
     "HasForm": false,
     "Learnset": "Haunter-Learnset",
     "Abilities": "Levitate",
-    "Type": "Ghost / Poison"
+    "Type": "Ghost / Poison",
+    "DexCategory": "Gas Pokemon",
+    "Height": {
+        "Deimeters": 16,
+        "Meters": 1.6,
+        "Feet": 5.2
+    },
+    "Weight": {
+        "Hectograms": 1,
+        "Kilograms": 0.1,
+        "Pounds": 0.2
+    },
+    "DexDescription": "Haunter is a dangerous Pokemon. it will try to lick you with its tongue to steal your life away. If you get the feeling of being watched in darkness when nobody is around, it means a Haunter is there.",
+    "Baby": false,
+    "PrimaryEggGroup": "Amorphous",
+    "SecondaryEggGroup": "",
+    "BookImageName": "HOME093.png",
+    "BookShinyImageName": "HOME093_s.png"
 }

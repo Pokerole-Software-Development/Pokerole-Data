@@ -29,5 +29,22 @@
     "HasForm": false,
     "Learnset": "Tympole-Learnset",
     "Abilities": "Swift Swim / Hydration (Water Absorb)",
-    "Type": "Water"
+    "Type": "Water",
+    "DexCategory": "Tadpole Pokemon",
+    "Height": {
+        "Deimeters": 5,
+        "Meters": 0.5,
+        "Feet": 1.6
+    },
+    "Weight": {
+        "Hectograms": 45,
+        "Kilograms": 4.5,
+        "Pounds": 9.9
+    },
+    "DexDescription": "They appear in great numbers on marshes and ponds after a heavy rainfall. They warn others of danger and predators by vibrating their cheeks to create a high-pitched sound.",
+    "Baby": false,
+    "PrimaryEggGroup": "Water 1",
+    "SecondaryEggGroup": "",
+    "BookImageName": "HOME535.png",
+    "BookShinyImageName": "HOME535_s.png"
 }

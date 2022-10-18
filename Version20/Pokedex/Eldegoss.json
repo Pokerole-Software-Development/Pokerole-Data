@@ -29,5 +29,22 @@
     "HasForm": false,
     "Learnset": "Eldegoss-Learnset",
     "Abilities": "Cotton Down / Regenerator (Effect Spore)",
-    "Type": "Grass"
+    "Type": "Grass",
+    "DexCategory": "Cotton Bloom Pokemon",
+    "Height": {
+        "Deimeters": 5,
+        "Meters": 0.5,
+        "Feet": 1.6
+    },
+    "Weight": {
+        "Hectograms": 25,
+        "Kilograms": 2.5,
+        "Pounds": 5.5
+    },
+    "DexDescription": "The cotton it produces has a glossy finish so clothes made with it are insanely expensive. In nature they are calm and selfless Pokemon who allow others to take nourishment from the cotton seeds in their head.",
+    "Baby": false,
+    "PrimaryEggGroup": "Grass",
+    "SecondaryEggGroup": "",
+    "BookImageName": "HOME830.png",
+    "BookShinyImageName": "HOME830_s.png"
 }

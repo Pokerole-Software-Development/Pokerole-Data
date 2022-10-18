@@ -29,5 +29,22 @@
     "HasForm": false,
     "Learnset": "Ducklett-Learnset",
     "Abilities": "Keen Eye / Big Pecks (Hydration)",
-    "Type": "Water / Flying"
+    "Type": "Water / Flying",
+    "DexCategory": "Water Bird Pokemon",
+    "Height": {
+        "Deimeters": 5,
+        "Meters": 0.5,
+        "Feet": 1.6
+    },
+    "Weight": {
+        "Hectograms": 55,
+        "Kilograms": 5.5,
+        "Pounds": 12.1
+    },
+    "DexDescription": "These bird Pokemon are excellent divers. They swim around in the water eating their favorite food, peat moss. They can shoot a spray mist with their feathers to protect from any predator that comes.",
+    "Baby": false,
+    "PrimaryEggGroup": "Water 1",
+    "SecondaryEggGroup": "Flying",
+    "BookImageName": "HOME580.png",
+    "BookShinyImageName": "HOME580_s.png"
 }

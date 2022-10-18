@@ -29,5 +29,22 @@
     "HasForm": false,
     "Learnset": "Zigzagoon-Learnset",
     "Abilities": "Pickup / Gluttony (Quick Feet)",
-    "Type": "Normal"
+    "Type": "Normal",
+    "DexCategory": "Tiny Raccoon Pokemon",
+    "Height": {
+        "Deimeters": 4,
+        "Meters": 0.4,
+        "Feet": 1.3
+    },
+    "Weight": {
+        "Hectograms": 175,
+        "Kilograms": 17.5,
+        "Pounds": 38.6
+    },
+    "DexDescription": "They are extremely curious and want to know all about everything. Due to their innate curiosity, they usually find hidden objects. Sometimes they play dead to avoid being attacked.",
+    "Baby": false,
+    "PrimaryEggGroup": "Field",
+    "SecondaryEggGroup": "",
+    "BookImageName": "HOME263.png",
+    "BookShinyImageName": "HOME263_s.png"
 }

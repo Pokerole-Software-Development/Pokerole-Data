@@ -29,5 +29,22 @@
     "HasForm": false,
     "Learnset": "Poliwag-Learnset",
     "Abilities": "Water Absorb / Damp (Swift Swim)",
-    "Type": "Water"
+    "Type": "Water",
+    "DexCategory": "Tadpole Pokemon",
+    "Height": {
+        "Deimeters": 6,
+        "Meters": 0.6,
+        "Feet": 2.0
+    },
+    "Weight": {
+        "Hectograms": 124,
+        "Kilograms": 12.4,
+        "Pounds": 27.3
+    },
+    "DexDescription": "They are most common near ponds and lakes during the summer. Its legs take some weeks to develop after it hatches, making it inept at walking. It is, however, a very fast swimmer.",
+    "Baby": false,
+    "PrimaryEggGroup": "Water 1",
+    "SecondaryEggGroup": "",
+    "BookImageName": "HOME060.png",
+    "BookShinyImageName": "HOME060_s.png"
 }
