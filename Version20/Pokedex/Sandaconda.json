@@ -29,5 +29,22 @@
     "HasForm": false,
     "Learnset": "Sandaconda-Learnset",
     "Abilities": "Sand Spit / Shed Skin (Sand Veil)",
-    "Type": "Ground"
+    "Type": "Ground",
+    "DexCategory": "Sand Snake Pokemon",
+    "Height": {
+        "Deimeters": 38,
+        "Meters": 3.8,
+        "Feet": 12.5
+    },
+    "Weight": {
+        "Hectograms": 655,
+        "Kilograms": 65.5,
+        "Pounds": 144.4
+    },
+    "DexDescription": "It has a sack that can carry up to 220 lbs of sand, the way it coils allow it to spray the sand to its foes. If it sack ever runs out of sand it becomes limp and depressed. They are unfriendly but not really aggressive.",
+    "Baby": false,
+    "PrimaryEggGroup": "Field",
+    "SecondaryEggGroup": "Dragon",
+    "BookImageName": "HOME844.png",
+    "BookShinyImageName": "HOME844_s.png"
 }

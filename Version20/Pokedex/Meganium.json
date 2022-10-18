@@ -29,5 +29,22 @@
     "HasForm": true,
     "Learnset": "Meganium-Learnset",
     "Abilities": "Overgrow (Leaf Guard)",
-    "Type": "Grass"
+    "Type": "Grass",
+    "DexCategory": "Herb Pokemon",
+    "Height": {
+        "Deimeters": 18,
+        "Meters": 1.8,
+        "Feet": 5.9
+    },
+    "Weight": {
+        "Hectograms": 1005,
+        "Kilograms": 100.5,
+        "Pounds": 221.6
+    },
+    "DexDescription": "Meganium's breath has the power to revive dead grass and plants. The aroma that comes from its petals contains a substance that calms aggressive feelings and helps others to restore health.",
+    "Baby": false,
+    "PrimaryEggGroup": "Monster",
+    "SecondaryEggGroup": "Grass",
+    "BookImageName": "HOME154.png",
+    "BookShinyImageName": "HOME154_s.png"
 }

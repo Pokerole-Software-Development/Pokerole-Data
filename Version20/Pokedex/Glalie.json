@@ -29,5 +29,28 @@
     "HasForm": false,
     "Learnset": "Glalie-Learnset",
     "Abilities": "Inner Focus / Ice Body (Moody)",
-    "Type": "Ice"
+    "Type": "Ice",
+    "DexCategory": "Face Pokemon",
+    "Height": {
+        "Deimeters": 15,
+        "Meters": 1.5,
+        "Feet": 4.9
+    },
+    "Weight": {
+        "Hectograms": 2565,
+        "Kilograms": 256.5,
+        "Pounds": 565.5
+    },
+    "DexDescription": "Its body is so hard it was thought to be made of rock. They can be aggressive if provoked. When they hunt, they freeze their prey solid before eating it. They can live in warm places without trouble.",
+    "Baby": false,
+    "PrimaryEggGroup": "Fairy",
+    "SecondaryEggGroup": "Mineral",
+    "BookImageName": "HOME362.png",
+    "BookShinyImageName": "HOME362_s.png",
+    "MegaEvolutions": [
+        {
+            "Name": "Mega-Glalie",
+            "Item": "Glalitite"
+        }
+    ]
 }

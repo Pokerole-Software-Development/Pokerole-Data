@@ -29,5 +29,22 @@
     "HasForm": false,
     "Learnset": "Claydol-Learnset",
     "Abilities": "Levitate",
-    "Type": "Ground / Psychic"
+    "Type": "Ground / Psychic",
+    "DexCategory": "Clay Doll Pokemon",
+    "Height": {
+        "Deimeters": 15,
+        "Meters": 1.5,
+        "Feet": 4.9
+    },
+    "Weight": {
+        "Hectograms": 1080,
+        "Kilograms": 108.0,
+        "Pounds": 238.1
+    },
+    "DexDescription": "It is made entirely of clay. The first one was discovered in ruins from 20,000 years ago. A strange light is said to be the source of its life and psychic abilities. Its eight eyes are always alert and always watching.",
+    "Baby": false,
+    "PrimaryEggGroup": "Mineral",
+    "SecondaryEggGroup": "",
+    "BookImageName": "HOME344.png",
+    "BookShinyImageName": "HOME344_s.png"
 }

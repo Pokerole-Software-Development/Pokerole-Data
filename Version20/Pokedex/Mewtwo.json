@@ -29,5 +29,32 @@
     "HasForm": true,
     "Learnset": "Mewtwo-Learnset",
     "Abilities": "Pressure (Unnerve)",
-    "Type": "Psychic"
+    "Type": "Psychic",
+    "DexCategory": "No Data",
+    "Height": {
+        "Deimeters": 20,
+        "Meters": 2.0,
+        "Feet": 6.6
+    },
+    "Weight": {
+        "Hectograms": 1220,
+        "Kilograms": 122.0,
+        "Pounds": 269.0
+    },
+    "DexDescription": "An article in a science magazine talked about how much cloning research was progressing, but... could it be?",
+    "Baby": false,
+    "PrimaryEggGroup": "Undiscovered",
+    "SecondaryEggGroup": "",
+    "BookImageName": "HOME150.png",
+    "BookShinyImageName": "HOME150_s.png",
+    "MegaEvolutions": [
+        {
+            "Name": "Mega-Mewtwo X",
+            "Item": "Mewtwonite X"
+        },
+        {
+            "Name": "Mega-Mewtwo Y",
+            "Item": "Mewtwonite Y"
+        }
+    ]
 }

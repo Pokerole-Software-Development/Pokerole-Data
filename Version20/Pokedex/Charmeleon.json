@@ -29,5 +29,22 @@
     "HasForm": false,
     "Learnset": "Charmeleon-Learnset",
     "Abilities": "Blaze (Solar Power)",
-    "Type": "Fire"
+    "Type": "Fire",
+    "DexCategory": "Flame Pokemon",
+    "Height": {
+        "Deimeters": 11,
+        "Meters": 1.1,
+        "Feet": 3.6
+    },
+    "Weight": {
+        "Hectograms": 190,
+        "Kilograms": 19.0,
+        "Pounds": 41.9
+    },
+    "DexDescription": "It turns aggressive after evolving, it is very hot-headed by nature, so it constantly starts fights. When it\u2019s excited, the flame at the tip of its tail flares with a bluish white color.",
+    "Baby": false,
+    "PrimaryEggGroup": "Monster",
+    "SecondaryEggGroup": "Dragon",
+    "BookImageName": "HOME005.png",
+    "BookShinyImageName": "HOME005_s.png"
 }

@@ -29,5 +29,22 @@
     "HasForm": false,
     "Learnset": "Glaceon-Learnset",
     "Abilities": "Snow Cloak (Ice Body)",
-    "Type": "Ice"
+    "Type": "Ice",
+    "DexCategory": "Fresh Snow Pokemon",
+    "Height": {
+        "Deimeters": 8,
+        "Meters": 0.8,
+        "Feet": 2.6
+    },
+    "Weight": {
+        "Hectograms": 259,
+        "Kilograms": 25.9,
+        "Pounds": 57.1
+    },
+    "DexDescription": "Eevees that are forced to live in freezing temperatures evolve into this Pokemon. It can control its body temperature to below zero, freezing its fur and making it extremely tough.",
+    "Baby": false,
+    "PrimaryEggGroup": "Field",
+    "SecondaryEggGroup": "",
+    "BookImageName": "HOME471.png",
+    "BookShinyImageName": "HOME471_s.png"
 }

@@ -29,5 +29,22 @@
     "HasForm": false,
     "Learnset": "Pidgey-Learnset",
     "Abilities": "Keen Eye / Tangled Feet (Big Pecks)",
-    "Type": "Normal / Flying"
+    "Type": "Normal / Flying",
+    "DexCategory": "Tiny Bird Pokemon",
+    "Height": {
+        "Deimeters": 3,
+        "Meters": 0.3,
+        "Feet": 1.0
+    },
+    "Weight": {
+        "Hectograms": 18,
+        "Kilograms": 1.8,
+        "Pounds": 4.0
+    },
+    "DexDescription": "Very common around the world, it prefers to live in forests but can be seen around cities and plains too. It\u2019s a docile Pokemon that tends to avoid trouble. It flaps its wings to lure prey out of hiding.",
+    "Baby": false,
+    "PrimaryEggGroup": "Flying",
+    "SecondaryEggGroup": "",
+    "BookImageName": "HOME016.png",
+    "BookShinyImageName": "HOME016_s.png"
 }

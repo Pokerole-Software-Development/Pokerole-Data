@@ -29,5 +29,22 @@
     "HasForm": false,
     "Learnset": "Porygon-Learnset",
     "Abilities": "Trace / Download (Analytic)",
-    "Type": "Normal"
+    "Type": "Normal",
+    "DexCategory": "Virtual Pokemon",
+    "Height": {
+        "Deimeters": 8,
+        "Meters": 0.8,
+        "Feet": 2.6
+    },
+    "Weight": {
+        "Hectograms": 365,
+        "Kilograms": 36.5,
+        "Pounds": 80.5
+    },
+    "DexDescription": "The first case of a man-made Pokemon created as computer data. It is capable of reverting itself into a program in order to enter the cyberspace. Its software has a firewall so it cannot be copied.",
+    "Baby": false,
+    "PrimaryEggGroup": "Mineral",
+    "SecondaryEggGroup": "",
+    "BookImageName": "HOME137.png",
+    "BookShinyImageName": "HOME137_s.png"
 }

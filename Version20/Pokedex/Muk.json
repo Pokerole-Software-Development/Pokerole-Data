@@ -29,5 +29,22 @@
     "HasForm": false,
     "Learnset": "Muk-Learnset",
     "Abilities": "Stench / Sticky Hold (Poison Touch)",
-    "Type": "Poison"
+    "Type": "Poison",
+    "DexCategory": "Sludge Pokemon",
+    "Height": {
+        "Deimeters": 12,
+        "Meters": 1.2,
+        "Feet": 3.9
+    },
+    "Weight": {
+        "Hectograms": 300,
+        "Kilograms": 30.0,
+        "Pounds": 66.1
+    },
+    "DexDescription": "It gathers on polluted areas to eat filth. Its body is made of a powerful poison that kills any plant. Touching it can cause a fever that will require bed rest. A good diet may reduce Muk's toxicity.",
+    "Baby": false,
+    "PrimaryEggGroup": "Amorphous",
+    "SecondaryEggGroup": "",
+    "BookImageName": "HOME089.png",
+    "BookShinyImageName": "HOME089_s.png"
 }

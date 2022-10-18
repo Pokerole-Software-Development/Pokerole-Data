@@ -29,5 +29,22 @@
     "HasForm": false,
     "Learnset": "Dragalge-Learnset",
     "Abilities": "Poison Point / Poison Touch (Adaptability)",
-    "Type": "Poison / Dragon"
+    "Type": "Poison / Dragon",
+    "DexCategory": "Mock Kelp Pokemon",
+    "Height": {
+        "Deimeters": 18,
+        "Meters": 1.8,
+        "Feet": 5.9
+    },
+    "Weight": {
+        "Hectograms": 815,
+        "Kilograms": 81.5,
+        "Pounds": 179.7
+    },
+    "DexDescription": "Their poison is strong enough to eat through the hull of a tanker, and they spit it indiscriminately at anything that enters their territory. Touching them can be fatal if you are not treated within a few hours.",
+    "Baby": false,
+    "PrimaryEggGroup": "Water 1",
+    "SecondaryEggGroup": "Dragon",
+    "BookImageName": "HOME691.png",
+    "BookShinyImageName": "HOME691_s.png"
 }

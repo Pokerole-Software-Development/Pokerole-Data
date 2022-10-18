@@ -29,5 +29,22 @@
     "HasForm": false,
     "Learnset": "Charmander-Learnset",
     "Abilities": "Blaze (Solar Power)",
-    "Type": "Fire"
+    "Type": "Fire",
+    "DexCategory": "Lizard Pokemon",
+    "Height": {
+        "Deimeters": 6,
+        "Meters": 0.6,
+        "Feet": 2.0
+    },
+    "Weight": {
+        "Hectograms": 85,
+        "Kilograms": 8.5,
+        "Pounds": 18.7
+    },
+    "DexDescription": "A rare Pokemon. The flame on its tail is an indicator of its feelings and life force. If it is healthy and happy, the flame burns brightly.\nIt needs proper care and discipline or else it may rebel later on.",
+    "Baby": false,
+    "PrimaryEggGroup": "Monster",
+    "SecondaryEggGroup": "Dragon",
+    "BookImageName": "HOME004.png",
+    "BookShinyImageName": "HOME004_s.png"
 }

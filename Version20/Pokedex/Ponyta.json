@@ -29,5 +29,22 @@
     "HasForm": false,
     "Learnset": "Ponyta-Learnset",
     "Abilities": "Run Away / Flash Fire (Flame Body)",
-    "Type": "Fire"
+    "Type": "Fire",
+    "DexCategory": "Fire Horse Pokemon",
+    "Height": {
+        "Deimeters": 10,
+        "Meters": 1.0,
+        "Feet": 3.3
+    },
+    "Weight": {
+        "Hectograms": 300,
+        "Kilograms": 30.0,
+        "Pounds": 66.1
+    },
+    "DexDescription": "It\u2019s not very common to see one stay still for more than a few seconds. Soon after it\u2019s born, its flames begin to burn. It is weak at first but soon begins to develop a great speed chasing after its parents.",
+    "Baby": false,
+    "PrimaryEggGroup": "Field",
+    "SecondaryEggGroup": "",
+    "BookImageName": "HOME077.png",
+    "BookShinyImageName": "HOME077_s.png"
 }

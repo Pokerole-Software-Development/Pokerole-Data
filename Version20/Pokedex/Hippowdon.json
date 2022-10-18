@@ -29,5 +29,22 @@
     "HasForm": false,
     "Learnset": "Hippowdon-Learnset",
     "Abilities": "Sand Stream (Sand Force)",
-    "Type": "Ground"
+    "Type": "Ground",
+    "DexCategory": "Heavyweight Pokemon",
+    "Height": {
+        "Deimeters": 20,
+        "Meters": 2.0,
+        "Feet": 6.6
+    },
+    "Weight": {
+        "Hectograms": 3000,
+        "Kilograms": 300.0,
+        "Pounds": 661.4
+    },
+    "DexDescription": "It becomes territorial and aggressive after evolving. Its open mouth stands over 7 ft. tall. There are records of one that came out of the sand and crushed a truck that was passing over its territory.",
+    "Baby": false,
+    "PrimaryEggGroup": "Field",
+    "SecondaryEggGroup": "",
+    "BookImageName": "HOME450.png",
+    "BookShinyImageName": "HOME450_s.png"
 }

@@ -29,5 +29,22 @@
     "HasForm": false,
     "Learnset": "Ekans-Learnset",
     "Abilities": "Intimidate / Shed Skin (Unnerve)",
-    "Type": "Poison"
+    "Type": "Poison",
+    "DexCategory": "Snake Pokemon",
+    "Height": {
+        "Deimeters": 20,
+        "Meters": 2.0,
+        "Feet": 6.6
+    },
+    "Weight": {
+        "Hectograms": 69,
+        "Kilograms": 6.9,
+        "Pounds": 15.2
+    },
+    "DexDescription": "Lives on grasslands. Preys on Rattatas and Pokemon Eggs it finds. It\u2019s jaw can detach itself to swallow any prey whole. It coils and sleeps after eating. Ekans grow bigger with age.",
+    "Baby": false,
+    "PrimaryEggGroup": "Field",
+    "SecondaryEggGroup": "Dragon",
+    "BookImageName": "HOME023.png",
+    "BookShinyImageName": "HOME023_s.png"
 }

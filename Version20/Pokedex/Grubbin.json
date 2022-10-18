@@ -29,5 +29,22 @@
     "HasForm": false,
     "Learnset": "Grubbin-Learnset",
     "Abilities": "Swarm",
-    "Type": "Bug"
+    "Type": "Bug",
+    "DexCategory": "Larva Pokemon",
+    "Height": {
+        "Deimeters": 4,
+        "Meters": 0.4,
+        "Feet": 1.3
+    },
+    "Weight": {
+        "Hectograms": 44,
+        "Kilograms": 4.4,
+        "Pounds": 9.7
+    },
+    "DexDescription": "They tend to gather anywhere Electric Pokemon live to protect themselves from bird Pokemon who may prey on them. When they are ready to evolve they bury themselves underground.",
+    "Baby": false,
+    "PrimaryEggGroup": "Bug",
+    "SecondaryEggGroup": "",
+    "BookImageName": "HOME736.png",
+    "BookShinyImageName": "HOME736_s.png"
 }

@@ -29,5 +29,22 @@
     "HasForm": false,
     "Learnset": "Wartortle-Learnset",
     "Abilities": "Torrent (Rain Dish)",
-    "Type": "Water"
+    "Type": "Water",
+    "DexCategory": "Turtle Pokemon",
+    "Height": {
+        "Deimeters": 10,
+        "Meters": 1.0,
+        "Feet": 3.3
+    },
+    "Weight": {
+        "Hectograms": 225,
+        "Kilograms": 22.5,
+        "Pounds": 49.6
+    },
+    "DexDescription": "Its large tail is covered with rich, thick fur that deepens in color with age. The scratches on its shell are evidence of this Pokemon\u2019s tough attitude in battle. It is a good hunter underwater.",
+    "Baby": false,
+    "PrimaryEggGroup": "Monster",
+    "SecondaryEggGroup": "Water 1",
+    "BookImageName": "HOME008.png",
+    "BookShinyImageName": "HOME008_s.png"
 }

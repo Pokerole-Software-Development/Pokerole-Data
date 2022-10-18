@@ -29,5 +29,28 @@
     "HasForm": true,
     "Learnset": "Beedrill-Learnset",
     "Abilities": "Swarm (Sniper)",
-    "Type": "Bug / Poison"
+    "Type": "Bug / Poison",
+    "DexCategory": "Poison Bee Pokemon",
+    "Height": {
+        "Deimeters": 10,
+        "Meters": 1.0,
+        "Feet": 3.3
+    },
+    "Weight": {
+        "Hectograms": 295,
+        "Kilograms": 29.5,
+        "Pounds": 65.0
+    },
+    "DexDescription": "Beedrill are extremely territorial. For safety reasons, no one should ever approach their nest. If disturbed, they will attack in swarm. It has three stings. The one on its tail secretes a powerful poison.",
+    "Baby": false,
+    "PrimaryEggGroup": "Bug",
+    "SecondaryEggGroup": "",
+    "BookImageName": "HOME015.png",
+    "BookShinyImageName": "HOME015_s.png",
+    "MegaEvolutions": [
+        {
+            "Name": "Mega-Beedrill",
+            "Item": "Beedrillite"
+        }
+    ]
 }

@@ -29,5 +29,22 @@
     "HasForm": false,
     "Learnset": "Leafeon-Learnset",
     "Abilities": "Leaf Guard (Chlorophyll)",
-    "Type": "Grass"
+    "Type": "Grass",
+    "DexCategory": "Verdant Pokemon",
+    "Height": {
+        "Deimeters": 10,
+        "Meters": 1.0,
+        "Feet": 3.3
+    },
+    "Weight": {
+        "Hectograms": 255,
+        "Kilograms": 25.5,
+        "Pounds": 56.2
+    },
+    "DexDescription": "Eevee evolves to Leafeon when it\u2019s living near a special kind of moss. Its cells are capable of performing photosynthesis. It is a calm Pokemon and does not usually fight but its leaves are sharp and strong.",
+    "Baby": false,
+    "PrimaryEggGroup": "Field",
+    "SecondaryEggGroup": "",
+    "BookImageName": "HOME470.png",
+    "BookShinyImageName": "HOME470_s.png"
 }

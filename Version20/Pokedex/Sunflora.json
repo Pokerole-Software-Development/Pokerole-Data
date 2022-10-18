@@ -29,5 +29,22 @@
     "HasForm": true,
     "Learnset": "Sunflora-Learnset",
     "Abilities": "Chlorophyll / Solar Power (Early Bird)",
-    "Type": "Grass"
+    "Type": "Grass",
+    "DexCategory": "Sun Pokemon",
+    "Height": {
+        "Deimeters": 8,
+        "Meters": 0.8,
+        "Feet": 2.6
+    },
+    "Weight": {
+        "Hectograms": 85,
+        "Kilograms": 8.5,
+        "Pounds": 18.7
+    },
+    "DexDescription": "Sunfloras live in flower patches. They convert solar energy into nutrition and are highly active in the warm daytime but suddenly stop moving as soon as the sun sets, closing their petals to cover their face.",
+    "Baby": false,
+    "PrimaryEggGroup": "Grass",
+    "SecondaryEggGroup": "",
+    "BookImageName": "HOME192.png",
+    "BookShinyImageName": "HOME192_s.png"
 }

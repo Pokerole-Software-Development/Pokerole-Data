@@ -29,5 +29,22 @@
     "HasForm": false,
     "Learnset": "Ditto-Learnset",
     "Abilities": "Limber (Imposter)",
-    "Type": "Normal"
+    "Type": "Normal",
+    "DexCategory": "Transform Pokemon",
+    "Height": {
+        "Deimeters": 3,
+        "Meters": 0.3,
+        "Feet": 1.0
+    },
+    "Weight": {
+        "Hectograms": 40,
+        "Kilograms": 4.0,
+        "Pounds": 8.8
+    },
+    "DexDescription": "This Pokemon is quite common but it\u2019s pretty difficult to spot. It can transform into any other Pokemon and imitate their behavior. When it sleeps, it changes into a stone to avoid being attacked.",
+    "Baby": false,
+    "PrimaryEggGroup": "Ditto",
+    "SecondaryEggGroup": "",
+    "BookImageName": "HOME132.png",
+    "BookShinyImageName": "HOME132_s.png"
 }

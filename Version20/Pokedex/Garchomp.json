@@ -29,5 +29,28 @@
     "HasForm": true,
     "Learnset": "Garchomp-Learnset",
     "Abilities": "Sand Veil (Rough Skin)",
-    "Type": "Dragon / Ground"
+    "Type": "Dragon / Ground",
+    "DexCategory": "Mach Pokemon",
+    "Height": {
+        "Deimeters": 19,
+        "Meters": 1.9,
+        "Feet": 6.2
+    },
+    "Weight": {
+        "Hectograms": 950,
+        "Kilograms": 95.0,
+        "Pounds": 209.4
+    },
+    "DexDescription": "Garchomps are scarce in the wild and very dangerous. It folds its arms and uses its fins to fly extremely fast at low heights. Territorial and aggressive it will not rest until it catches any daring trespasser.",
+    "Baby": false,
+    "PrimaryEggGroup": "Monster",
+    "SecondaryEggGroup": "Dragon",
+    "BookImageName": "HOME445.png",
+    "BookShinyImageName": "HOME445_s.png",
+    "MegaEvolutions": [
+        {
+            "Name": "Mega-Garchomp",
+            "Item": "Garchompite"
+        }
+    ]
 }

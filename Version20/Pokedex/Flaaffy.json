@@ -29,5 +29,22 @@
     "HasForm": false,
     "Learnset": "Flaaffy-Learnset",
     "Abilities": "Static (Plus)",
-    "Type": "Electric"
+    "Type": "Electric",
+    "DexCategory": "Wool Pokemon",
+    "Height": {
+        "Deimeters": 8,
+        "Meters": 0.8,
+        "Feet": 2.6
+    },
+    "Weight": {
+        "Hectograms": 133,
+        "Kilograms": 13.3,
+        "Pounds": 29.3
+    },
+    "DexDescription": "Its wool quality changes so that it can generate a higher amount of static electricity with a smaller amount of wool. The bare and slick parts of its hide are shielded with small electric impulses.",
+    "Baby": false,
+    "PrimaryEggGroup": "Monster",
+    "SecondaryEggGroup": "Field",
+    "BookImageName": "HOME180.png",
+    "BookShinyImageName": "HOME180_s.png"
 }

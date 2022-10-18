@@ -29,5 +29,22 @@
     "HasForm": false,
     "Learnset": "Seedot-Learnset",
     "Abilities": "Chlorophyll / Early Bird (Pickpocket)",
-    "Type": "Grass"
+    "Type": "Grass",
+    "DexCategory": "Acorn Pokemon",
+    "Height": {
+        "Deimeters": 5,
+        "Meters": 0.5,
+        "Feet": 1.6
+    },
+    "Weight": {
+        "Hectograms": 40,
+        "Kilograms": 4.0,
+        "Pounds": 8.8
+    },
+    "DexDescription": "They attach to tree branches to suck moisture from them. While immobile, the young are identical to real acorns. They enjoy scaring other Pokemon, especially Pidgeys. If they fall they are at risk of being eaten.",
+    "Baby": false,
+    "PrimaryEggGroup": "Field",
+    "SecondaryEggGroup": "Grass",
+    "BookImageName": "HOME273.png",
+    "BookShinyImageName": "HOME273_s.png"
 }

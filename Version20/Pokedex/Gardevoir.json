@@ -29,5 +29,28 @@
     "HasForm": true,
     "Learnset": "Gardevoir-Learnset",
     "Abilities": "Synchronize / Trace (Telepathy)",
-    "Type": "Psychic / Fairy"
+    "Type": "Psychic / Fairy",
+    "DexCategory": "Embrace Pokemon",
+    "Height": {
+        "Deimeters": 16,
+        "Meters": 1.6,
+        "Feet": 5.2
+    },
+    "Weight": {
+        "Hectograms": 484,
+        "Kilograms": 48.4,
+        "Pounds": 106.7
+    },
+    "DexDescription": "If they sense danger, Gardevoir unleash a wave of psychic energy. They can distort this dimension, defy the laws of matter and physics. They risk their lives to protect their fellows.",
+    "Baby": false,
+    "PrimaryEggGroup": "Human-Like",
+    "SecondaryEggGroup": "Amorphous",
+    "BookImageName": "HOME282.png",
+    "BookShinyImageName": "HOME282_s.png",
+    "MegaEvolutions": [
+        {
+            "Name": "Mega-Gardevoir",
+            "Item": "Gardevoirite"
+        }
+    ]
 }

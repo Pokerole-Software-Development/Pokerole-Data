@@ -29,5 +29,22 @@
     "HasForm": false,
     "Learnset": "Silicobra-Learnset",
     "Abilities": "Sand Spit / Shed Skin (Sand Veil)",
-    "Type": "Ground"
+    "Type": "Ground",
+    "DexCategory": "Sand Snake Pokemon",
+    "Height": {
+        "Deimeters": 22,
+        "Meters": 2.2,
+        "Feet": 7.2
+    },
+    "Weight": {
+        "Hectograms": 76,
+        "Kilograms": 7.6,
+        "Pounds": 16.8
+    },
+    "DexDescription": "Silicobra can appear to be very aggressive but they just want to be left alone. They spew sand from their nostrils and while the foe is blinded, they burrow back into the ground to hide.",
+    "Baby": false,
+    "PrimaryEggGroup": "Field",
+    "SecondaryEggGroup": "Dragon",
+    "BookImageName": "HOME843.png",
+    "BookShinyImageName": "HOME843_s.png"
 }

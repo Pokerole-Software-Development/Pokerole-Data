@@ -29,5 +29,28 @@
     "HasForm": true,
     "Learnset": "Latias-Learnset",
     "Abilities": "Levitate",
-    "Type": "Dragon / Psychic"
+    "Type": "Dragon / Psychic",
+    "DexCategory": "No Data",
+    "Height": {
+        "Deimeters": 14,
+        "Meters": 1.4,
+        "Feet": 4.6
+    },
+    "Weight": {
+        "Hectograms": 400,
+        "Kilograms": 40.0,
+        "Pounds": 88.2
+    },
+    "DexDescription": "The legend tells about two Pokemon that could take human shapes, use psychic powers and become invisible. They were raised by an old couple as their own children. The little girl had a red dress.",
+    "Baby": false,
+    "PrimaryEggGroup": "Undiscovered",
+    "SecondaryEggGroup": "",
+    "BookImageName": "HOME380.png",
+    "BookShinyImageName": "HOME380_s.png",
+    "MegaEvolutions": [
+        {
+            "Name": "Mega-Latias",
+            "Item": "Latiasite"
+        }
+    ]
 }

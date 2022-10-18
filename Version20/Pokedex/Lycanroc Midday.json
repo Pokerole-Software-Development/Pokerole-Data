@@ -29,5 +29,22 @@
     "HasForm": true,
     "Learnset": "Lycanroc Midday-Learnset",
     "Abilities": "Keen Eye / Sand Rush (Steadfast)",
-    "Type": "Rock"
+    "Type": "Rock",
+    "DexCategory": "Wolf Pokemon",
+    "Height": {
+        "Deimeters": 8,
+        "Meters": 0.8,
+        "Feet": 2.6
+    },
+    "Weight": {
+        "Hectograms": 250,
+        "Kilograms": 25.0,
+        "Pounds": 55.1
+    },
+    "DexDescription": "A well-disciplined Rockruff will evolve at Dawn. This Pokemon is very Loyal and trustworthy. It can climb mountains fast and is a quick runner. The rocks on its mane are its main weapons.",
+    "Baby": false,
+    "PrimaryEggGroup": "Field",
+    "SecondaryEggGroup": "",
+    "BookImageName": "HOME745.png",
+    "BookShinyImageName": "HOME745_s.png"
 }

@@ -29,5 +29,22 @@
     "HasForm": false,
     "Learnset": "Farfetch'd-Learnset",
     "Abilities": "Keen Eye / Inner Focus (Defiant)",
-    "Type": "Normal / Flying"
+    "Type": "Normal / Flying",
+    "DexCategory": "Wild Duck Pokemon",
+    "Height": {
+        "Deimeters": 8,
+        "Meters": 0.8,
+        "Feet": 2.6
+    },
+    "Weight": {
+        "Hectograms": 150,
+        "Kilograms": 15.0,
+        "Pounds": 33.1
+    },
+    "DexDescription": "There used to be whole flocks of them in meadows near the lakes. Now they are almost extinct because their meat is delicious. They are fond of leeks and celery, they carry them around as sticks.",
+    "Baby": false,
+    "PrimaryEggGroup": "Flying",
+    "SecondaryEggGroup": "Field",
+    "BookImageName": "HOME083.png",
+    "BookShinyImageName": "HOME083_s.png"
 }

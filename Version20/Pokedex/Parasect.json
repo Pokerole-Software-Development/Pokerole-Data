@@ -29,5 +29,22 @@
     "HasForm": false,
     "Learnset": "Parasect-Learnset",
     "Abilities": "Effect Spore / Dry Skin (Damp)",
-    "Type": "Bug / Grass"
+    "Type": "Bug / Grass",
+    "DexCategory": "Mushroom Pokemon",
+    "Height": {
+        "Deimeters": 10,
+        "Meters": 1.0,
+        "Feet": 3.3
+    },
+    "Weight": {
+        "Hectograms": 295,
+        "Kilograms": 29.5,
+        "Pounds": 65.0
+    },
+    "DexDescription": "Their personality changes after evolution since the mushroom takes over its mind. Its body is now a husk devoid of nutrients. To survive they cling to a tree and absorb the nutrients until the tree dies.",
+    "Baby": false,
+    "PrimaryEggGroup": "Bug",
+    "SecondaryEggGroup": "Grass",
+    "BookImageName": "HOME047.png",
+    "BookShinyImageName": "HOME047_s.png"
 }

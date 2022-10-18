@@ -29,5 +29,22 @@
     "HasForm": false,
     "Learnset": "Floette-Learnset",
     "Abilities": "Flower Veil (Symbiosis)",
-    "Type": "Fairy"
+    "Type": "Fairy",
+    "DexCategory": "Fairy Pokemon",
+    "Height": {
+        "Deimeters": 2,
+        "Meters": 0.2,
+        "Feet": 0.7
+    },
+    "Weight": {
+        "Hectograms": 9,
+        "Kilograms": 0.9,
+        "Pounds": 2.0
+    },
+    "DexDescription": "It flutters around flower meadows and takes care of buds that are starting to wilt. People who fill their gardens with their preferred flower receive its visit every spring. They are loyal and caring Pokemon.",
+    "Baby": false,
+    "PrimaryEggGroup": "Fairy",
+    "SecondaryEggGroup": "",
+    "BookImageName": "HOME670.png",
+    "BookShinyImageName": "HOME670_s.png"
 }

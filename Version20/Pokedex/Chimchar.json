@@ -29,5 +29,22 @@
     "HasForm": false,
     "Learnset": "Chimchar-Learnset",
     "Abilities": "Blaze (Iron Fist)",
-    "Type": "Fire"
+    "Type": "Fire",
+    "DexCategory": "Chimp Pokemon",
+    "Height": {
+        "Deimeters": 5,
+        "Meters": 0.5,
+        "Feet": 1.6
+    },
+    "Weight": {
+        "Hectograms": 62,
+        "Kilograms": 6.2,
+        "Pounds": 13.7
+    },
+    "DexDescription": "They climb sheer cliffs to live at the top of the mountains. Small groups of them tend to visit human camping sites to steal food and objects. They are playful and will wreak havoc if they want to have fun.",
+    "Baby": false,
+    "PrimaryEggGroup": "Field",
+    "SecondaryEggGroup": "Human-Like",
+    "BookImageName": "HOME390.png",
+    "BookShinyImageName": "HOME390_s.png"
 }

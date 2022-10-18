@@ -29,5 +29,28 @@
     "HasForm": true,
     "Learnset": "Manectric-Learnset",
     "Abilities": "Static / Lightning Rod (Minus)",
-    "Type": "Electric"
+    "Type": "Electric",
+    "DexCategory": "Discharge Pokemon",
+    "Height": {
+        "Deimeters": 15,
+        "Meters": 1.5,
+        "Feet": 4.9
+    },
+    "Weight": {
+        "Hectograms": 402,
+        "Kilograms": 40.2,
+        "Pounds": 88.6
+    },
+    "DexDescription": "Their manes are constantly releasing dangerous sparks that often end up in forest fires. When they get in battle, thunderclouds show up with them. They are extremely rare to see in the wild.",
+    "Baby": false,
+    "PrimaryEggGroup": "Field",
+    "SecondaryEggGroup": "",
+    "BookImageName": "HOME310.png",
+    "BookShinyImageName": "HOME310_s.png",
+    "MegaEvolutions": [
+        {
+            "Name": "Mega-Manectric",
+            "Item": "Manectite"
+        }
+    ]
 }

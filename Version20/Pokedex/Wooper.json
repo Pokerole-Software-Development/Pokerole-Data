@@ -29,5 +29,22 @@
     "HasForm": false,
     "Learnset": "Wooper-Learnset",
     "Abilities": "Damp / Water Absorb (Unaware)",
-    "Type": "Water / Ground"
+    "Type": "Water / Ground",
+    "DexCategory": "Water Fish Pokemon",
+    "Height": {
+        "Deimeters": 4,
+        "Meters": 0.4,
+        "Feet": 1.3
+    },
+    "Weight": {
+        "Hectograms": 85,
+        "Kilograms": 8.5,
+        "Pounds": 18.7
+    },
+    "DexDescription": "Inhabits cold water sources and only comes out during the evening when the land has cooled, to find something to eat. Under this ideal environment it has rarely been seen at its evolved stage.",
+    "Baby": false,
+    "PrimaryEggGroup": "Water 1",
+    "SecondaryEggGroup": "Field",
+    "BookImageName": "HOME194.png",
+    "BookShinyImageName": "HOME194_s.png"
 }

@@ -29,5 +29,28 @@
     "HasForm": true,
     "Learnset": "Audino-Learnset",
     "Abilities": "Healer / Regenerator (Klutz)",
-    "Type": "Normal"
+    "Type": "Normal",
+    "DexCategory": "Hearing Pokemon",
+    "Height": {
+        "Deimeters": 11,
+        "Meters": 1.1,
+        "Feet": 3.6
+    },
+    "Weight": {
+        "Hectograms": 310,
+        "Kilograms": 31.0,
+        "Pounds": 68.3
+    },
+    "DexDescription": "Its auditory sense is astounding, using the feelers on it\u2019s ears it can know the health state of others. It is a caring Pokemon with a sweet disposition to help, but it is not too common to see in the wild.",
+    "Baby": false,
+    "PrimaryEggGroup": "Fairy",
+    "SecondaryEggGroup": "",
+    "BookImageName": "HOME531.png",
+    "BookShinyImageName": "HOME531_s.png",
+    "MegaEvolutions": [
+        {
+            "Name": "Mega-Audino",
+            "Item": "Audinite"
+        }
+    ]
 }

@@ -29,5 +29,22 @@
     "HasForm": true,
     "Learnset": "Gastrodon-Learnset",
     "Abilities": "Sticky Hold / Storm Drain (Sand Force)",
-    "Type": "Water / Ground"
+    "Type": "Water / Ground",
+    "DexCategory": "Sea Slug Pokemon",
+    "Height": {
+        "Deimeters": 9,
+        "Meters": 0.9,
+        "Feet": 3.0
+    },
+    "Weight": {
+        "Hectograms": 299,
+        "Kilograms": 29.9,
+        "Pounds": 65.9
+    },
+    "DexDescription": "It has a pliable body without any bones. If any part of its body is torn off, it will grow back in minutes. There is evidence that it had a hard shell on its back for protection in prehistoric times.",
+    "Baby": false,
+    "PrimaryEggGroup": "Water 1",
+    "SecondaryEggGroup": "Amorphous",
+    "BookImageName": "HOME423.png",
+    "BookShinyImageName": "HOME423_s.png"
 }

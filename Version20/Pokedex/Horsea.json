@@ -29,5 +29,22 @@
     "HasForm": false,
     "Learnset": "Horsea-Learnset",
     "Abilities": "Swift Swim / Sniper (Damp)",
-    "Type": "Water"
+    "Type": "Water",
+    "DexCategory": "Dragon Pokemon",
+    "Height": {
+        "Deimeters": 4,
+        "Meters": 0.4,
+        "Feet": 1.3
+    },
+    "Weight": {
+        "Hectograms": 80,
+        "Kilograms": 8.0,
+        "Pounds": 17.6
+    },
+    "DexDescription": "It makes its nest in the shade of corals in shallow parts of the sea. If it senses danger, it spits a murky ink and flees. It has been seen shooting down flying bugs to eat them.",
+    "Baby": false,
+    "PrimaryEggGroup": "Water 1",
+    "SecondaryEggGroup": "Dragon",
+    "BookImageName": "HOME116.png",
+    "BookShinyImageName": "HOME116_s.png"
 }

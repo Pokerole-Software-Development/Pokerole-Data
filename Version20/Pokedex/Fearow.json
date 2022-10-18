@@ -29,5 +29,22 @@
     "HasForm": false,
     "Learnset": "Fearow-Learnset",
     "Abilities": "Keen Eye (Sniper)",
-    "Type": "Normal / Flying"
+    "Type": "Normal / Flying",
+    "DexCategory": "Beak Pokemon",
+    "Height": {
+        "Deimeters": 12,
+        "Meters": 1.2,
+        "Feet": 3.9
+    },
+    "Weight": {
+        "Hectograms": 380,
+        "Kilograms": 38.0,
+        "Pounds": 83.8
+    },
+    "DexDescription": "Fearrows soar around wastelands and fields. It has the stamina to fly all day. It is easily annoyed and ill tempered. It attacks using its sharp beak to peck and pierce the foes.",
+    "Baby": false,
+    "PrimaryEggGroup": "Flying",
+    "SecondaryEggGroup": "",
+    "BookImageName": "HOME022.png",
+    "BookShinyImageName": "HOME022_s.png"
 }

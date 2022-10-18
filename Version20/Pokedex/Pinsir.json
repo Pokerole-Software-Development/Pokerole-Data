@@ -29,5 +29,28 @@
     "HasForm": true,
     "Learnset": "Pinsir-Learnset",
     "Abilities": "Hyper Cutter / Mold Breaker (Moxie)",
-    "Type": "Bug"
+    "Type": "Bug",
+    "DexCategory": "Stagbeetle Pokemon",
+    "Height": {
+        "Deimeters": 15,
+        "Meters": 1.5,
+        "Feet": 4.9
+    },
+    "Weight": {
+        "Hectograms": 550,
+        "Kilograms": 55.0,
+        "Pounds": 121.3
+    },
+    "DexDescription": "Their pincers are strong enough to shatter thick logs. Because they dislike cold, Pinsirs burrow and sleep under the ground on chilly nights. They like to eat sap and honey, but they are aggressive by nature.",
+    "Baby": false,
+    "PrimaryEggGroup": "Bug",
+    "SecondaryEggGroup": "",
+    "BookImageName": "HOME127.png",
+    "BookShinyImageName": "HOME127_s.png",
+    "MegaEvolutions": [
+        {
+            "Name": "Mega-Pinsir",
+            "Item": "Pinsirite"
+        }
+    ]
 }

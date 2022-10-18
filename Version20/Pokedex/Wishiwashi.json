@@ -29,5 +29,22 @@
     "HasForm": true,
     "Learnset": "Wishiwashi-Learnset",
     "Abilities": "Schooling",
-    "Type": "Water"
+    "Type": "Water",
+    "DexCategory": "Small Fry Pokemon",
+    "Height": {
+        "Deimeters": 2,
+        "Meters": 0.2,
+        "Feet": 0.7
+    },
+    "Weight": {
+        "Hectograms": 3,
+        "Kilograms": 0.3,
+        "Pounds": 0.7
+    },
+    "DexDescription": "People and Pokemon enjoy this tiny Pokemon's meat. Their eyes shine as a distress signal, other members of its species will travel far and wide to attend the call for help. When this happens you must run.",
+    "Baby": false,
+    "PrimaryEggGroup": "Water 2",
+    "SecondaryEggGroup": "",
+    "BookImageName": "HOME746.png",
+    "BookShinyImageName": "HOME746_s.png"
 }

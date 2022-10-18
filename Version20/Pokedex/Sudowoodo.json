@@ -29,5 +29,22 @@
     "HasForm": true,
     "Learnset": "Sudowoodo-Learnset",
     "Abilities": "Sturdy / Rock Head (Rattled)",
-    "Type": "Rock"
+    "Type": "Rock",
+    "DexCategory": "Imitation Pokemon",
+    "Height": {
+        "Deimeters": 12,
+        "Meters": 1.2,
+        "Feet": 3.9
+    },
+    "Weight": {
+        "Hectograms": 380,
+        "Kilograms": 38.0,
+        "Pounds": 83.8
+    },
+    "DexDescription": "Sudowoodo camouflages itself as a tree to avoid being attacked by enemies. However, because its arms remain green throughout the year, this Pokemon is easy to identify in winter. It\u2019s a little wary of humans.",
+    "Baby": false,
+    "PrimaryEggGroup": "Mineral",
+    "SecondaryEggGroup": "",
+    "BookImageName": "HOME185.png",
+    "BookShinyImageName": "HOME185_s.png"
 }

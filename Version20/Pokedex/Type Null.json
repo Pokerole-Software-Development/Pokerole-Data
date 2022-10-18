@@ -29,5 +29,22 @@
     "HasForm": false,
     "Learnset": "Type: Null-Learnset",
     "Abilities": "Battle Armor",
-    "Type": "Normal"
+    "Type": "Normal",
+    "DexCategory": "Synthetic Pokemon",
+    "Height": {
+        "Deimeters": 19,
+        "Meters": 1.9,
+        "Feet": 6.2
+    },
+    "Weight": {
+        "Hectograms": 1205,
+        "Kilograms": 120.5,
+        "Pounds": 265.7
+    },
+    "DexDescription": "A synthetic Pokemon made by the Aether Foundation. Currently only three specimens exist in cryogenic stasis, but they are deemed too dangerous even with a limiter helmet on. They must never be reanimated.",
+    "Baby": false,
+    "PrimaryEggGroup": "Undiscovered",
+    "SecondaryEggGroup": "",
+    "BookImageName": "HOME772.png",
+    "BookShinyImageName": "HOME772_s.png"
 }

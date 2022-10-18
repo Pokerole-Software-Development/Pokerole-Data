@@ -29,5 +29,28 @@
     "HasForm": true,
     "Learnset": "Medicham-Learnset",
     "Abilities": "Pure Power (Telepathy)",
-    "Type": "Fighting / Psychic"
+    "Type": "Fighting / Psychic",
+    "DexCategory": "Meditate Pokemon",
+    "Height": {
+        "Deimeters": 13,
+        "Meters": 1.3,
+        "Feet": 4.3
+    },
+    "Weight": {
+        "Hectograms": 315,
+        "Kilograms": 31.5,
+        "Pounds": 69.4
+    },
+    "DexDescription": "They are thought to posses a sixth sense. Some of them can hide their presence by lowering their ki. Medichams fight with expert yoga moves, foretelling their foe\u2019s attacks and sensing their thoughts.",
+    "Baby": false,
+    "PrimaryEggGroup": "Human-Like",
+    "SecondaryEggGroup": "",
+    "BookImageName": "HOME308.png",
+    "BookShinyImageName": "HOME308_s.png",
+    "MegaEvolutions": [
+        {
+            "Name": "Mega-Medicham",
+            "Item": "Medichamite"
+        }
+    ]
 }

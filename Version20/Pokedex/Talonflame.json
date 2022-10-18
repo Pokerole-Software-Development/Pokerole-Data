@@ -29,5 +29,22 @@
     "HasForm": false,
     "Learnset": "Talonflame-Learnset",
     "Abilities": "Flame Body (Gale Wings)",
-    "Type": "Fire / Flying"
+    "Type": "Fire / Flying",
+    "DexCategory": "Scorching Pokemon",
+    "Height": {
+        "Deimeters": 12,
+        "Meters": 1.2,
+        "Feet": 3.9
+    },
+    "Weight": {
+        "Hectograms": 245,
+        "Kilograms": 24.5,
+        "Pounds": 54.0
+    },
+    "DexDescription": "They soar over desert canyons. If they spot prey they launch down at full speed to deliver a finishing blow. They are excellent hunters, with every wing flap they take, it leaves a trail of fire dust behind.",
+    "Baby": false,
+    "PrimaryEggGroup": "Flying",
+    "SecondaryEggGroup": "",
+    "BookImageName": "HOME663.png",
+    "BookShinyImageName": "HOME663_s.png"
 }

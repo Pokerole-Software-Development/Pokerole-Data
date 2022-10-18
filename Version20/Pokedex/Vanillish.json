@@ -29,5 +29,22 @@
     "HasForm": false,
     "Learnset": "Vanillish-Learnset",
     "Abilities": "Ice Body / Snow Cloak (Weak Armor)",
-    "Type": "Ice"
+    "Type": "Ice",
+    "DexCategory": "Icy Snow Pokemon",
+    "Height": {
+        "Deimeters": 11,
+        "Meters": 1.1,
+        "Feet": 3.6
+    },
+    "Weight": {
+        "Hectograms": 410,
+        "Kilograms": 41.0,
+        "Pounds": 90.4
+    },
+    "DexDescription": "Snowy mountains are this Pokemon\u2019s habitat. It conceals itself from enemy eyes by creating many small ice bundles and hiding around them. It may attach itself to the ceiling of ice caves to hide around the ice.",
+    "Baby": false,
+    "PrimaryEggGroup": "Mineral",
+    "SecondaryEggGroup": "",
+    "BookImageName": "HOME583.png",
+    "BookShinyImageName": "HOME583_s.png"
 }

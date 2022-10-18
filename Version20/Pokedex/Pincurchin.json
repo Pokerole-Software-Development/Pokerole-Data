@@ -29,5 +29,22 @@
     "HasForm": false,
     "Learnset": "Pincurchin-Learnset",
     "Abilities": "Lightning Rod (Electric Surge)",
-    "Type": "Electric"
+    "Type": "Electric",
+    "DexCategory": "Sea Urchin Pokemon",
+    "Height": {
+        "Deimeters": 3,
+        "Meters": 0.3,
+        "Feet": 1.0
+    },
+    "Weight": {
+        "Hectograms": 10,
+        "Kilograms": 1.0,
+        "Pounds": 2.2
+    },
+    "DexDescription": "This quiet pokemon feeds on sea weed, using its teeth to scrape it off rocks. It stores electricity in each of its spines. Even if one gets broken off, it will continue to emit electricity for a few more hours.",
+    "Baby": false,
+    "PrimaryEggGroup": "Water 1",
+    "SecondaryEggGroup": "Amorphous",
+    "BookImageName": "HOME871.png",
+    "BookShinyImageName": "HOME871_s.png"
 }

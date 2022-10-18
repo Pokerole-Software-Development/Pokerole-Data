@@ -29,5 +29,22 @@
     "HasForm": false,
     "Learnset": "Porygon2-Learnset",
     "Abilities": "Trace / Download (Analytic)",
-    "Type": "Normal"
+    "Type": "Normal",
+    "DexCategory": "Virtual Pokemon",
+    "Height": {
+        "Deimeters": 6,
+        "Meters": 0.6,
+        "Feet": 2.0
+    },
+    "Weight": {
+        "Hectograms": 325,
+        "Kilograms": 32.5,
+        "Pounds": 71.7
+    },
+    "DexDescription": "This man-made Pokemon is an upgraded version of Porygon. Used for space exploration and planetary development, boasting the power of science. Its AI software allows it to learn on its own.",
+    "Baby": false,
+    "PrimaryEggGroup": "Mineral",
+    "SecondaryEggGroup": "",
+    "BookImageName": "HOME233.png",
+    "BookShinyImageName": "HOME233_s.png"
 }

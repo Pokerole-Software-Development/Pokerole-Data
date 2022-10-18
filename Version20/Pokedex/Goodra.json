@@ -29,5 +29,22 @@
     "HasForm": false,
     "Learnset": "Goodra-Learnset",
     "Abilities": "Sap Sipper / Hydration (Gooey)",
-    "Type": "Dragon"
+    "Type": "Dragon",
+    "DexCategory": "Dragon Pokemon",
+    "Height": {
+        "Deimeters": 20,
+        "Meters": 2.0,
+        "Feet": 6.6
+    },
+    "Weight": {
+        "Hectograms": 1505,
+        "Kilograms": 150.5,
+        "Pounds": 331.8
+    },
+    "DexDescription": "Definitely the friendliest of all Dragons. This Pokemon will hug its beloved Trainer, leaving them covered in sticky slime. In areas with heavy rainfall during the year, one or two may make an appearance.",
+    "Baby": false,
+    "PrimaryEggGroup": "Dragon",
+    "SecondaryEggGroup": "",
+    "BookImageName": "HOME706.png",
+    "BookShinyImageName": "HOME706_s.png"
 }

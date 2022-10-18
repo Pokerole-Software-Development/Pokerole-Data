@@ -29,5 +29,22 @@
     "HasForm": false,
     "Learnset": "Toxel-Learnset",
     "Abilities": "Rattled / Static (Klutz)",
-    "Type": "Electric / Poison"
+    "Type": "Electric / Poison",
+    "DexCategory": "Baby Pokemon",
+    "Height": {
+        "Deimeters": 4,
+        "Meters": 0.4,
+        "Feet": 1.3
+    },
+    "Weight": {
+        "Hectograms": 110,
+        "Kilograms": 11.0,
+        "Pounds": 24.3
+    },
+    "DexDescription": "Toxel secrete poison through their skin, the closer they are to evolving, the brighter their skin color becomes. They need a lot of nurturing but are bad tempered and ill mannered so not many take the task.",
+    "Baby": true,
+    "PrimaryEggGroup": "Undiscovered",
+    "SecondaryEggGroup": "",
+    "BookImageName": "HOME848.png",
+    "BookShinyImageName": "HOME848_s.png"
 }

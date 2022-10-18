@@ -29,5 +29,22 @@
     "HasForm": true,
     "Learnset": "Zebstrika-Learnset",
     "Abilities": "Lightning Rod / Motor Drive (Sap Sipper)",
-    "Type": "Electric"
+    "Type": "Electric",
+    "DexCategory": "Thunderbolt Pokemon",
+    "Height": {
+        "Deimeters": 16,
+        "Meters": 1.6,
+        "Feet": 5.2
+    },
+    "Weight": {
+        "Hectograms": 795,
+        "Kilograms": 79.5,
+        "Pounds": 175.3
+    },
+    "DexDescription": "It is very ill tempered and wild, there have been very few cases of it being successfully tamed. It can shoot lightning from it\u2019s mane in all directions. If you try to mount it without warning it will shock you.",
+    "Baby": false,
+    "PrimaryEggGroup": "Field",
+    "SecondaryEggGroup": "",
+    "BookImageName": "HOME523.png",
+    "BookShinyImageName": "HOME523_s.png"
 }

@@ -29,5 +29,22 @@
     "HasForm": false,
     "Learnset": "Buneary-Learnset",
     "Abilities": "Run Away / Klutz (Limber)",
-    "Type": "Normal"
+    "Type": "Normal",
+    "DexCategory": "Rabbit Pokemon",
+    "Height": {
+        "Deimeters": 4,
+        "Meters": 0.4,
+        "Feet": 1.3
+    },
+    "Weight": {
+        "Hectograms": 55,
+        "Kilograms": 5.5,
+        "Pounds": 12.1
+    },
+    "DexDescription": "Lives in forest, grasslands and even snowy mountains. It forms burrows and uses its soft fur to make nests and keep warm. You can see how it feels for the position of its ears. They are easily scared by humans.",
+    "Baby": false,
+    "PrimaryEggGroup": "Field",
+    "SecondaryEggGroup": "Human-Like",
+    "BookImageName": "HOME427.png",
+    "BookShinyImageName": "HOME427_s.png"
 }

@@ -29,5 +29,22 @@
     "HasForm": true,
     "Learnset": "Cherrim-Learnset",
     "Abilities": "Flower Gift",
-    "Type": "Grass"
+    "Type": "Grass",
+    "DexCategory": "Blossom Pokemon",
+    "Height": {
+        "Deimeters": 5,
+        "Meters": 0.5,
+        "Feet": 1.6
+    },
+    "Weight": {
+        "Hectograms": 93,
+        "Kilograms": 9.3,
+        "Pounds": 20.5
+    },
+    "DexDescription": "Cherrims bloom during times of strong sunlight, their petals open fully and radiant. If the sun is not visible, it will remain as a closed bud, barely moving trying to preserve its energy.",
+    "Baby": false,
+    "PrimaryEggGroup": "Fairy",
+    "SecondaryEggGroup": "Grass",
+    "BookImageName": "HOME421.png",
+    "BookShinyImageName": "HOME421_s.png"
 }

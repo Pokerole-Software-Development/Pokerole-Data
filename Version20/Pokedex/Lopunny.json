@@ -29,5 +29,28 @@
     "HasForm": true,
     "Learnset": "Lopunny-Learnset",
     "Abilities": "Cute Charm / Klutz (Limber)",
-    "Type": "Normal"
+    "Type": "Normal",
+    "DexCategory": "Rabbit Pokemon",
+    "Height": {
+        "Deimeters": 12,
+        "Meters": 1.2,
+        "Feet": 3.9
+    },
+    "Weight": {
+        "Hectograms": 333,
+        "Kilograms": 33.3,
+        "Pounds": 73.4
+    },
+    "DexDescription": "Lopunny is extremely cautious, it quickly bounds off when it senses danger. If they are touched roughly, they throw kicks and jump away. Keep the fur it sheds as it\u2019s highly valued to make quality yarn.",
+    "Baby": false,
+    "PrimaryEggGroup": "Field",
+    "SecondaryEggGroup": "Human-Like",
+    "BookImageName": "HOME428.png",
+    "BookShinyImageName": "HOME428_s.png",
+    "MegaEvolutions": [
+        {
+            "Name": "Mega-Lopunny",
+            "Item": "Lopunnite"
+        }
+    ]
 }

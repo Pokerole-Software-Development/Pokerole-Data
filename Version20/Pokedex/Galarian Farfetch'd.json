@@ -29,5 +29,22 @@
     "HasForm": false,
     "Learnset": "Galarian Farfetch'd-Learnset",
     "Abilities": "Steadfast (Scrappy)",
-    "Type": "Fighting"
+    "Type": "Fighting",
+    "DexCategory": "Wild Duck Pokemon",
+    "Height": {
+        "Deimeters": 8,
+        "Meters": 0.8,
+        "Feet": 2.6
+    },
+    "Weight": {
+        "Hectograms": 420,
+        "Kilograms": 42.0,
+        "Pounds": 92.6
+    },
+    "DexDescription": "The stalks of leeks are thicker and longer in the Galar region, this has allowed Farfetch'd fare better than their Kanto counterparts. It has also made them hardier and warrior-like. They are still delicious, though.",
+    "Baby": false,
+    "PrimaryEggGroup": "Flying",
+    "SecondaryEggGroup": "Field",
+    "BookImageName": "HOME083G.png",
+    "BookShinyImageName": "HOME083G_s.png"
 }

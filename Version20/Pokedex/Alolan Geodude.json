@@ -29,5 +29,22 @@
     "HasForm": false,
     "Learnset": "Alolan Geodude-Learnset",
     "Abilities": "Magnet Pull / Sturdy (Galvanize)",
-    "Type": "Rock / Electric"
+    "Type": "Rock / Electric",
+    "DexCategory": "Rock Pokemon",
+    "Height": {
+        "Deimeters": 4,
+        "Meters": 0.4,
+        "Feet": 1.3
+    },
+    "Weight": {
+        "Hectograms": 203,
+        "Kilograms": 20.3,
+        "Pounds": 44.8
+    },
+    "DexDescription": "The magnetic fields on Alola\u2019s Blush Mountain made Geodude develop Electric chargers on its body. They tend to disguise themselves as regular rocks, caution is advised as they shock you if you step on them.",
+    "Baby": false,
+    "PrimaryEggGroup": "Mineral",
+    "SecondaryEggGroup": "",
+    "BookImageName": "HOME074A.png",
+    "BookShinyImageName": "HOME074A_s.png"
 }

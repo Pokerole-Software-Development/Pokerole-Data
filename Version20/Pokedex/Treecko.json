@@ -29,5 +29,22 @@
     "HasForm": false,
     "Learnset": "Treecko-Learnset",
     "Abilities": "Overgrow (Unburden)",
-    "Type": "Grass"
+    "Type": "Grass",
+    "DexCategory": "Wood Gecko Pokemon",
+    "Height": {
+        "Deimeters": 5,
+        "Meters": 0.5,
+        "Feet": 1.6
+    },
+    "Weight": {
+        "Hectograms": 50,
+        "Kilograms": 5.0,
+        "Pounds": 11.0
+    },
+    "DexDescription": "They climb trees with their spiked feet. They remain cool under stress, calmed under pressure and collected when endangered. They are found protecting the trees ferociously.",
+    "Baby": false,
+    "PrimaryEggGroup": "Monster",
+    "SecondaryEggGroup": "Dragon",
+    "BookImageName": "HOME252.png",
+    "BookShinyImageName": "HOME252_s.png"
 }

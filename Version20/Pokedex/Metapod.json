@@ -29,5 +29,22 @@
     "HasForm": false,
     "Learnset": "Metapod-Learnset",
     "Abilities": "Shed Skin",
-    "Type": "Bug"
+    "Type": "Bug",
+    "DexCategory": "Cocoon Pokemon",
+    "Height": {
+        "Deimeters": 7,
+        "Meters": 0.7,
+        "Feet": 2.3
+    },
+    "Weight": {
+        "Hectograms": 99,
+        "Kilograms": 9.9,
+        "Pounds": 21.8
+    },
+    "DexDescription": "Its shell can be as hard as an iron slab. A Metapod does not move very much because it is preparing its soft innards for evolution inside the shell. It is known as one of the fastest evolving Pokemon in the world.",
+    "Baby": false,
+    "PrimaryEggGroup": "Bug",
+    "SecondaryEggGroup": "",
+    "BookImageName": "HOME011.png",
+    "BookShinyImageName": "HOME011_s.png"
 }

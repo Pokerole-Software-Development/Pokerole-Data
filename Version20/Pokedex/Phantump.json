@@ -29,5 +29,22 @@
     "HasForm": false,
     "Learnset": "Phantump-Learnset",
     "Abilities": "Natural Cure / Frisk (Harvest)",
-    "Type": "Ghost / Grass"
+    "Type": "Ghost / Grass",
+    "DexCategory": "Stump Pokemon",
+    "Height": {
+        "Deimeters": 4,
+        "Meters": 0.4,
+        "Feet": 1.3
+    },
+    "Weight": {
+        "Hectograms": 70,
+        "Kilograms": 7.0,
+        "Pounds": 15.4
+    },
+    "DexDescription": "According to the old tales, these Pokemon are stumps possessed by the spirits of children who were lost in the forest. They prefer to live in abandoned woods and lure people to the darkness to play with them.",
+    "Baby": false,
+    "PrimaryEggGroup": "Grass",
+    "SecondaryEggGroup": "Amorphous",
+    "BookImageName": "HOME708.png",
+    "BookShinyImageName": "HOME708_s.png"
 }

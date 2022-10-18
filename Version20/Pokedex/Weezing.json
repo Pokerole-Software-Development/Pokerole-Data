@@ -29,5 +29,22 @@
     "HasForm": false,
     "Learnset": "Weezing-Learnset",
     "Abilities": "Levitate / Neutralizing Gas (Stench)",
-    "Type": "Poison"
+    "Type": "Poison",
+    "DexCategory": "Poison Gas Pokemon",
+    "Height": {
+        "Deimeters": 12,
+        "Meters": 1.2,
+        "Feet": 3.9
+    },
+    "Weight": {
+        "Hectograms": 95,
+        "Kilograms": 9.5,
+        "Pounds": 20.9
+    },
+    "DexDescription": "They are considered a pest in urban areas. They wait until night to roam and eat from the trash cans in the neighborhood. If it finds a filthy and unkempt house it will make its nest in there.",
+    "Baby": false,
+    "PrimaryEggGroup": "Amorphous",
+    "SecondaryEggGroup": "",
+    "BookImageName": "HOME110.png",
+    "BookShinyImageName": "HOME110_s.png"
 }

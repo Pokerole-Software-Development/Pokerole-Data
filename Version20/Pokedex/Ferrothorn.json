@@ -29,5 +29,22 @@
     "HasForm": false,
     "Learnset": "Ferrothorn-Learnset",
     "Abilities": "Iron Barbs (Anticipation)",
-    "Type": "Grass / Steel"
+    "Type": "Grass / Steel",
+    "DexCategory": "Thorn Pod Pokemon",
+    "Height": {
+        "Deimeters": 10,
+        "Meters": 1.0,
+        "Feet": 3.3
+    },
+    "Weight": {
+        "Hectograms": 1100,
+        "Kilograms": 110.0,
+        "Pounds": 242.5
+    },
+    "DexDescription": "It attaches itself to cave ceilings by swinging around its spiky feelers. It shoots spikes at targets passing beneath. It is incredibly resilient and stubborn, it will whip you if you try to take its spot in the cave walls..",
+    "Baby": false,
+    "PrimaryEggGroup": "Grass",
+    "SecondaryEggGroup": "Mineral",
+    "BookImageName": "HOME598.png",
+    "BookShinyImageName": "HOME598_s.png"
 }

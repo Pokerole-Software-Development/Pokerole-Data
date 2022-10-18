@@ -29,5 +29,22 @@
     "HasForm": false,
     "Learnset": "Salandit-Learnset",
     "Abilities": "Corrosion (Oblivious)",
-    "Type": "Poison / Fire"
+    "Type": "Poison / Fire",
+    "DexCategory": "Toxic Lizard Pokemon",
+    "Height": {
+        "Deimeters": 6,
+        "Meters": 0.6,
+        "Feet": 2.0
+    },
+    "Weight": {
+        "Hectograms": 48,
+        "Kilograms": 4.8,
+        "Pounds": 10.6
+    },
+    "DexDescription": "The markings at the end of its tail emit flames and a toxic gas, be careful as this gas smells sweet and specially appealing for the males of any species. Only female Salandit are known to evolve.",
+    "Baby": false,
+    "PrimaryEggGroup": "Monster",
+    "SecondaryEggGroup": "Dragon",
+    "BookImageName": "HOME757.png",
+    "BookShinyImageName": "HOME757_s.png"
 }

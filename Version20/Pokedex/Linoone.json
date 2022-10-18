@@ -29,5 +29,22 @@
     "HasForm": false,
     "Learnset": "Linoone-Learnset",
     "Abilities": "Pickup / Gluttony (Quick Feet)",
-    "Type": "Normal"
+    "Type": "Normal",
+    "DexCategory": "Rushing Pokemon",
+    "Height": {
+        "Deimeters": 5,
+        "Meters": 0.5,
+        "Feet": 1.6
+    },
+    "Weight": {
+        "Hectograms": 325,
+        "Kilograms": 32.5,
+        "Pounds": 71.7
+    },
+    "DexDescription": "Linoones are always running at full speed, but they can only do so in straight lines. They find it very difficult to deal with a curved road. They excel at hunting but tend to eat a lot to recover from their tiring runs.",
+    "Baby": false,
+    "PrimaryEggGroup": "Field",
+    "SecondaryEggGroup": "",
+    "BookImageName": "HOME264.png",
+    "BookShinyImageName": "HOME264_s.png"
 }

@@ -29,5 +29,22 @@
     "HasForm": false,
     "Learnset": "Galarian Weezing-Learnset",
     "Abilities": "Levitate / Neutralizing Gas (Misty Surge)",
-    "Type": "Poison / Fairy"
+    "Type": "Poison / Fairy",
+    "DexCategory": "Poison Gas Pokemon",
+    "Height": {
+        "Deimeters": 30,
+        "Meters": 3.0,
+        "Feet": 9.8
+    },
+    "Weight": {
+        "Hectograms": 160,
+        "Kilograms": 16.0,
+        "Pounds": 35.3
+    },
+    "DexDescription": "This Pokemon eats the contamination in the air, and instead of droppings, it expels clean air. Its Galar Form was first spotted long ago when factories polluted the City.",
+    "Baby": false,
+    "PrimaryEggGroup": "Amorphous",
+    "SecondaryEggGroup": "",
+    "BookImageName": "HOME110G.png",
+    "BookShinyImageName": "HOME110G_s.png"
 }

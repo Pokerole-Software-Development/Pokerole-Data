@@ -29,5 +29,22 @@
     "HasForm": false,
     "Learnset": "Blitzle-Learnset",
     "Abilities": "Lightning Rod / Motor Drive (Sap Sipper)",
-    "Type": "Electric"
+    "Type": "Electric",
+    "DexCategory": "Electrified Pokemon",
+    "Height": {
+        "Deimeters": 8,
+        "Meters": 0.8,
+        "Feet": 2.6
+    },
+    "Weight": {
+        "Hectograms": 298,
+        "Kilograms": 29.8,
+        "Pounds": 65.7
+    },
+    "DexDescription": "When storm clouds cover the plains you can see them running around chasing the lightnings to absorb them on their mane. They form big herds and use the pattern on their skin to confuse predators.",
+    "Baby": false,
+    "PrimaryEggGroup": "Field",
+    "SecondaryEggGroup": "",
+    "BookImageName": "HOME522.png",
+    "BookShinyImageName": "HOME522_s.png"
 }

@@ -29,5 +29,22 @@
     "HasForm": false,
     "Learnset": "Munchlax-Learnset",
     "Abilities": "Pickup / Thick Fat (Gluttony)",
-    "Type": "Normal"
+    "Type": "Normal",
+    "DexCategory": "Big Eater Pokemon",
+    "Height": {
+        "Deimeters": 6,
+        "Meters": 0.6,
+        "Feet": 2.0
+    },
+    "Weight": {
+        "Hectograms": 1050,
+        "Kilograms": 105.0,
+        "Pounds": 231.5
+    },
+    "DexDescription": "A Munchlaxes appetite is never really satisfied, it can eat its weight in food and will almost never care about what it is eating. They tend to pick up anything that looks edible and save it for later.",
+    "Baby": true,
+    "PrimaryEggGroup": "Undiscovered",
+    "SecondaryEggGroup": "",
+    "BookImageName": "HOME446.png",
+    "BookShinyImageName": "HOME446_s.png"
 }
