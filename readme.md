@@ -16,8 +16,11 @@ This repo is a Source of Truth for the [Pokerole](https://www.pokeroleproject.co
 ## A quick tour of the Repository
 
 - **Images** image data that can be referenced from the data. Pokemon currently have a "Sprite" attribute contains the filename of that Pokemon's image. 
-  - There are two subfolders to pull from, depending on your needs, HomeSprites for Pokemon Home and BoxSprites for BoxSprites.
-  - `https://raw.githubusercontent.com/Willowlark/Pokerole-Data/master/images/BoxSprites/` and `https://raw.githubusercontent.com/Willowlark/Pokerole-Data/master/images/HomeSprites/` are the base urls for each.
+  - There are three subfolders to pull from, depending on your needs, HomeSprites for Pokemon Home, BoxSprites for BoxSprites, and BookSprites for the Pokerole core book images.
+  - There is a sprite field in each JSON that corresponds to the name of the file in each folder for that pokemon. You can get any of those sprites by using the appropriate base url and that filename. 
+  - Book Sprites Base Url: `https://raw.githubusercontent.com/Willowlark/Pokerole-Data/master/images/BookSprites/`
+  - Box Sprites Base Url: `https://raw.githubusercontent.com/Willowlark/Pokerole-Data/master/images/BoxSprites/`
+  - Home Sprites Base Url: `https://raw.githubusercontent.com/Willowlark/Pokerole-Data/master/images/HomeSprites/`
 - **Raw** data used in the generation of the proper datasets. It is NOT recommended to use data in here for any application, as it has not been processed. It's mostly here for record keeping purposes.
 - **Scripts** a folder for any code that manipulates data. At the moment, there should be NO REASON to try and run these, they are for maintainence only.
 - **Version20** contains the entire JSON dataset for Pokerole Version 2.0. Each item in the dataset has it's own JSON document. *All of this data is also accessable via Mongo, see below.*
