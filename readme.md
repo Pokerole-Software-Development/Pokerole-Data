@@ -28,7 +28,7 @@ This repo is a Source of Truth for the [Pokerole](https://www.pokeroleproject.co
 
 ## Database Access
 
-A Mongo DB instance is being hosted for the data in this repository to allow for programmatic access to the most up to date data. To get the connection information for this Database, contain Willowlark on the [Pokerole Discord](https://discord.gg/95DFpdMVcC).
+A Mongo DB instance is being hosted for the data in this repository to allow for programmatic access to the most up to date data. To get the connection information for this Database, contact Willowlark on the [Pokerole Discord](https://discord.gg/95DFpdMVcC).
 
 ## Assisting the Project
 
