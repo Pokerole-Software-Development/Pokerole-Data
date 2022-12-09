@@ -89,11 +89,12 @@ class SRD(object):
         self.sprites_path = '../../Images/BoxSprites/'
         self.home_path = '../../Images/HomeSprites/'
         self.book_path = '../../Images/BookSprites/'
+        self.shuffle_path = '../../Images/ShuffleTokens/'
         self.items_path = f'../../{version}/Items/'
 
         paths = [self.pokedex_path,self.abilities_path,self.moves_path,
         self.learnsets_path,self.natures_path,self.sprites_path,
-        self.home_path,self.book_path,self.items_path]
+        self.home_path,self.book_path,self.shuffle_path,self.items_path]
         
         for p in paths:
             if not os.path.exists(p): raise Exception(f"ERROR: Path {p} not found!")
@@ -106,11 +107,12 @@ class SRD(object):
         self.sprites_output = self.obsidian+'/SRD-BoxSprites/'
         self.home_output = self.obsidian+'/SRD-HomeSprites/'
         self.book_output = self.obsidian+'/SRD-BookSprites/'
+        self.shuffle_output = self.obsidian+'/SRD-ShuffleTokens/'
         self.items_output = self.obsidian+'/SRD-Items/'
 
         self.outputs = [self.pokedex_output,self.abilities_output,self.moves_output,
                     self.learnsets_output,self.natures_output,self.sprites_output,
-                    self.home_output,self.book_output,self.items_output]
+                    self.home_output,self.book_output,self.shuffle_output,self.items_output]
 
         for p in self.outputs:
             os.makedirs(p,exist_ok=True)
@@ -124,6 +126,7 @@ class SRD(object):
             entry['BoxSprite'] = f"SRD-{sname[0]}-BoxSprite.{sname[1]}"
             entry['HomeSprite'] = f"SRD-{sname[0]}-HomeSprite.{sname[1]}"
             entry['BookSprite'] = f"SRD-{sname[0]}-BookSprite.{sname[1]}"
+            entry['ShuffleToken'] = f"SRD-{sname[0]}-ShuffleToken.{sname[1]}"
             
             entry['Unevolved'] = 'Yes' if entry['Unevolved'] else 'No'
             entry['HasForm'] = 'Yes' if entry['HasForm'] else 'No'
@@ -155,7 +158,12 @@ class SRD(object):
 
             template = f"""# `= this.name`
 
-![[{entry['BookSprite']}|right wsmall]]
+> [!grid]
+> ![[{entry['BookSprite']}|wsmall]]
+> ![[{entry['HomeSprite']}]]
+> ![[{entry['BoxSprite']}|htiny]]
+> ![[{entry['ShuffleToken']}|wsmall]]
+
 
 *{entry['DexCategory']}*
 *{entry['DexDescription']}*
@@ -174,8 +182,6 @@ class SRD(object):
 | Special   | `= padleft(padright("",this.MaxSpecial - this.Special,"⭘"),this.MaxSpecial,"⬤")`       | (Special::{entry['Special']})/(MaxSpecial::{entry['MaxSpecial']})     |
 | Insight   | `= padleft(padright("",this.MaxInsight - this.Insight,"⭘"),this.MaxInsight,"⬤")`       | (Insight::{entry['Insight']})/(MaxInsight::{entry['MaxInsight']})     |
 
-![[{entry['HomeSprite']}|right]]
-![[{entry['BoxSprite']}|right]]
 
 **Recommended Rank**:: {entry['RecommendedRank']}
 **Good Starter**:: {entry['GoodStarter']}
@@ -246,6 +252,7 @@ class SRD(object):
         x(self.sprites_path, self.sprites_output, 'BoxSprite')
         x(self.home_path, self.home_output, 'HomeSprite')
         x(self.book_path, self.book_output, 'BookSprite')
+        x(self.shuffle_path, self.shuffle_output, 'ShuffleToken')
     
     def _orphan_check(self, start, updates):
         
