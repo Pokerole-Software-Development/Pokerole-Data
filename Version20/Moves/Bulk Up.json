@@ -10,5 +10,18 @@
     "Target": "User",
     "Effect": "Increase the User's Strength and Defense.",
     "Description": "The Pokemon shows its muscles with intimidating poses to look bigger and stronger.",
-    "_id": "bulk-up"
+    "_id": "bulk-up",
+    "Attributes": {},
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "Strength",
+                    "Def"
+                ],
+                "Stages": 1,
+                "Affects": "User"
+            }
+        ]
+    }
 }

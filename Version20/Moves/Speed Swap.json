@@ -10,5 +10,18 @@
     "Target": "Foe",
     "Effect": "Switch your Dexterity with your Foe.",
     "Description": "The Pokemon employs its psychic power to make the opponent perceive events as if they were happening faster or slower according to the user's own speed.",
-    "_id": "speed-swap"
+    "_id": "speed-swap",
+    "Attributes": {},
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "SpeedSwap",
+                "Affects": "User"
+            },
+            {
+                "Type": "SpeedSwap",
+                "Affects": "Target"
+            }
+        ]
+    }
 }

@@ -10,5 +10,14 @@
     "Target": "Foe",
     "Effect": "If Successful, Target is now In Love. This Move fails if target is from same gender as the User or genderless.",
     "Description": "The user makes use of its good looks and attitude to infatuate its foe.",
-    "_id": "attract"
+    "_id": "attract",
+    "Attributes": {},
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Infaturate",
+                "Affects": "Targets"
+            }
+        ]
+    }
 }

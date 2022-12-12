@@ -10,5 +10,10 @@
     "Target": "Foe",
     "Effect": "Double Action. -1 Accuracy.",
     "Description": "The Pokemon strikes the foe with brutal blows.",
-    "_id": "dual-chop"
+    "_id": "dual-chop",
+    "Attributes": {
+        "DoubleAction": true,
+        "AccuracyReduction": 1
+    },
+    "AddedEffects": {}
 }

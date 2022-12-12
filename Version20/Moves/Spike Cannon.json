@@ -10,5 +10,10 @@
     "Target": "Foe",
     "Effect": "Ranged. Successive Actions.",
     "Description": "The Pokemon shoots a wave of pointy projectiles at the foe.",
-    "_id": "spike-cannon"
+    "_id": "spike-cannon",
+    "Attributes": {
+        "PhysicalRanged": true,
+        "SuccessiveActions": true
+    },
+    "AddedEffects": {}
 }

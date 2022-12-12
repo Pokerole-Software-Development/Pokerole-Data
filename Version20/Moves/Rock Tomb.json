@@ -10,5 +10,20 @@
     "Target": "Foe",
     "Effect": "Ranged. Reduce Foe's Dexterity. -1 Accuracy.",
     "Description": "The Pokemon covers the foe in gravel and rocks, leaving it unable to move freely.",
-    "_id": "rock-tomb"
+    "_id": "rock-tomb",
+    "Attributes": {
+        "PhysicalRanged": true,
+        "AccuracyReduction": 1
+    },
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "Dexterity"
+                ],
+                "Stages": -1,
+                "Affects": "Targets"
+            }
+        ]
+    }
 }

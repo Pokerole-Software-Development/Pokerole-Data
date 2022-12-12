@@ -10,5 +10,10 @@
     "Target": "Foe",
     "Effect": "Recoil. -2 Accuracy.",
     "Description": "The user recklessly struggles with the foe to pin it to the ground.",
-    "_id": "submission"
+    "_id": "submission",
+    "Attributes": {
+        "Recoil": true,
+        "AccuracyReduction": 2
+    },
+    "AddedEffects": {}
 }

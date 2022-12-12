@@ -10,5 +10,17 @@
     "Target": "Foe",
     "Effect": "Reduce the Foe's Dexterity",
     "Description": "The Pokemon has a perfectly good drum and you'd think it would use it. But it doesn't. It uses it's foe.",
-    "_id": "drum-beating"
+    "_id": "drum-beating",
+    "Attributes": {},
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "Dexterity"
+                ],
+                "Stages": 1,
+                "Affects": "Target"
+            }
+        ]
+    }
 }

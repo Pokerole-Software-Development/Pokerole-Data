@@ -10,5 +10,11 @@
     "Target": "User",
     "Effect": "Basic Heal. If Successful spend 1 Will point to activate. If performed under Sunny weather this Move is a Complete Heal. If Rain/Sandstorm Weather is in effect this move only heals 1 HP.",
     "Description": "The Pokemon uses the sunlight as energy to regain its vitality.",
-    "_id": "synthesis"
+    "_id": "synthesis",
+    "Attributes": {},
+    "AddedEffects": {
+        "Heal": {
+            "Type": "Basic"
+        }
+    }
 }

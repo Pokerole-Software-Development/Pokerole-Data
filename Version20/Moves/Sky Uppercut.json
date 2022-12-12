@@ -10,5 +10,9 @@
     "Target": "Foe",
     "Effect": "-1 Accuracy.",
     "Description": "The user attacks with an uppercut, throwing the foe skyward with lots of force.",
-    "_id": "sky-uppercut"
+    "_id": "sky-uppercut",
+    "Attributes": {
+        "AccuracyReduction": 1
+    },
+    "AddedEffects": {}
 }

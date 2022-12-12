@@ -10,5 +10,9 @@
     "Target": "Foe",
     "Effect": "Recoil.",
     "Description": "The Pokemon surrounds itself with wild botls of lightning, then tackles recklessly.",
-    "_id": "wild-charge"
+    "_id": "wild-charge",
+    "Attributes": {
+        "Recoil": true
+    },
+    "AddedEffects": {}
 }

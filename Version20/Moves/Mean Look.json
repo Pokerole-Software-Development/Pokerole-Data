@@ -10,5 +10,16 @@
     "Target": "Foe",
     "Effect": "Blocks.",
     "Description": "The Pokemon gives a menacing look that freezes the foe on the spot with intense fear.",
-    "_id": "mean-look"
+    "_id": "mean-look",
+    "Attributes": {
+        "BlockDamagePool": 0
+    },
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Block",
+                "Affects": "Targets"
+            }
+        ]
+    }
 }

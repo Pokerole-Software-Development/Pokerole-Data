@@ -10,5 +10,9 @@
     "Target": "Foe",
     "Effect": "Priority 1.",
     "Description": "The user sneaks through darkness and strikes out of the target's shadow. The Pokemon can move freely inside shades as if it were incorporeal.",
-    "_id": "shadow-sneak"
+    "_id": "shadow-sneak",
+    "Attributes": {
+        "Priority": 1
+    },
+    "AddedEffects": {}
 }

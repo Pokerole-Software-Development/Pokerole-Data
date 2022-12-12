@@ -10,5 +10,10 @@
     "Target": "Foe",
     "Effect": "Double Action. -1 Accuracy.",
     "Description": "The Pokemon uses the classic 'One-Two' to attack the foe.",
-    "_id": "double-hit"
+    "_id": "double-hit",
+    "Attributes": {
+        "DoubleAction": true,
+        "AccuracyReduction": 1
+    },
+    "AddedEffects": {}
 }

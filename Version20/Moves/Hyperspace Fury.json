@@ -10,5 +10,20 @@
     "Target": "Foe",
     "Effect": "Never Fail. Ignores the effect of any Shield Move the Foe might have used. Reduce the user's Defense.",
     "Description": "The Pokemon opens portals to attack with each one of its arms, bypassing all defenses and making it impossible to escape, however, the user's defense also gets neglected.",
-    "_id": "hyperspace-fury"
+    "_id": "hyperspace-fury",
+    "Attributes": {
+        "NeverFail": true,
+        "IgnoreShield": true
+    },
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "Def"
+                ],
+                "Stages": -1,
+                "Affects": "User"
+            }
+        ]
+    }
 }

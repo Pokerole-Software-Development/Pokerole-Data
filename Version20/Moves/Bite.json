@@ -10,5 +10,15 @@
     "Target": "Foe",
     "Effect": "Roll 3 Chance Dice to Flinch the foe.",
     "Description": "The user lands a vicious bite that may leave an ugly bruise.",
-    "_id": "bite"
+    "_id": "bite",
+    "Attributes": {},
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Flinch",
+                "Affects": "Targets",
+                "ChanceDice": 3
+            }
+        ]
+    }
 }

@@ -10,5 +10,9 @@
     "Target": "Foe",
     "Effect": "Recoil.",
     "Description": "The Pokemon clashes against the foe using its head aas a boulder.",
-    "_id": "head-charge"
+    "_id": "head-charge",
+    "Attributes": {
+        "Recoil": true
+    },
+    "AddedEffects": {}
 }

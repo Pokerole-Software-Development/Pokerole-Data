@@ -10,5 +10,16 @@
     "Target": "User",
     "Effect": "Foes will target the user this Round. Priority 5.",
     "Description": "The Pokemon will draw everyone's attention. All foes are taunted to do their worst.",
-    "_id": "follow-me"
+    "_id": "follow-me",
+    "Attributes": {
+        "Priority": 5
+    },
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "FollowMeSpotlight",
+                "Affects": "Targets"
+            }
+        ]
+    }
 }

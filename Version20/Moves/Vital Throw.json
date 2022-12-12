@@ -10,5 +10,10 @@
     "Target": "Foe",
     "Effect": "Low Priority 1. Never Fail.",
     "Description": "The Pokemon awaits for the perfect moment to strike the foe.",
-    "_id": "vital-throw"
+    "_id": "vital-throw",
+    "Attributes": {
+        "NeverFail": true,
+        "Priority": -1
+    },
+    "AddedEffects": {}
 }

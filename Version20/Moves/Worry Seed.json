@@ -10,5 +10,14 @@
     "Target": "Foe",
     "Effect": "Until the end of the Scene. Target's Ability is now \"Insomnia\".",
     "Description": "The user plants a seed in its foe. It causes a restless preoccupation that won't let it sleep at night.",
-    "_id": "worry-seed"
+    "_id": "worry-seed",
+    "Attributes": {},
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "WorrySeed",
+                "Affects": "Target"
+            }
+        ]
+    }
 }

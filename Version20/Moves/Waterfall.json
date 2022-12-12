@@ -10,5 +10,15 @@
     "Target": "Foe",
     "Effect": "Roll 3 Chance Dice to Flinch the foe.",
     "Description": "The Pokemon may swim with such strength that it may even swim upwards in a waterfall.",
-    "_id": "waterfall"
+    "_id": "waterfall",
+    "Attributes": {},
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Flinch",
+                "Affects": "Targets",
+                "ChanceDice": 3
+            }
+        ]
+    }
 }

@@ -10,5 +10,14 @@
     "Target": "Foe",
     "Effect": "Put the Target to Sleep.",
     "Description": "The Pokemon approaches the foe with a kiss. Its ugly face and awful smooch make the poor creature faint in terror.",
-    "_id": "lovely-kiss"
+    "_id": "lovely-kiss",
+    "Attributes": {},
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Sleep",
+                "Affects": "Targets"
+            }
+        ]
+    }
 }

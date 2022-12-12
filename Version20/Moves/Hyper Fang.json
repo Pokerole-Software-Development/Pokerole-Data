@@ -10,5 +10,15 @@
     "Target": "Foe",
     "Effect": "Roll 1 Chance Dice to Flinch.",
     "Description": "The Pokemon bites hard into the foe with its powerful fangs.",
-    "_id": "hyper-fang"
+    "_id": "hyper-fang",
+    "Attributes": {},
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Flinch",
+                "Affects": "Targets",
+                "ChanceDice": 1
+            }
+        ]
+    }
 }

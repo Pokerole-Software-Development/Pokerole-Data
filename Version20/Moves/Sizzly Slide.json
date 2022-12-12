@@ -10,5 +10,14 @@
     "Target": "Foe",
     "Effect": "If the user of this Move is at its Final Stage of Evolution, this move fails. Burn the Foe.",
     "Description": "The user slides on the floor as if it was ice-skating, only there is no ice, only a raging fire.",
-    "_id": "sizzly-slide"
+    "_id": "sizzly-slide",
+    "Attributes": {},
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Burn",
+                "Affects": "Targets"
+            }
+        ]
+    }
 }

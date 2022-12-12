@@ -10,5 +10,17 @@
     "Target": "User",
     "Effect": "Increase the user's Special by 2.",
     "Description": "The Pokemon starts plotting on how to defeat the enemy. Its evil laugh reveals the bad intentions.",
-    "_id": "nasty-plot"
+    "_id": "nasty-plot",
+    "Attributes": {},
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "Special"
+                ],
+                "Stages": 2,
+                "Affects": "User"
+            }
+        ]
+    }
 }

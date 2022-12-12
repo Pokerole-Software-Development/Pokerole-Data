@@ -10,5 +10,11 @@
     "Target": "Foe",
     "Effect": "Ranged. Successive Actions. -1 Accuracy.",
     "Description": "The Pokemon Throws many round objects at the target, one after the other.",
-    "_id": "barrage"
+    "_id": "barrage",
+    "Attributes": {
+        "PhysicalRanged": true,
+        "SuccessiveActions": true,
+        "AccuracyReduction": 1
+    },
+    "AddedEffects": {}
 }

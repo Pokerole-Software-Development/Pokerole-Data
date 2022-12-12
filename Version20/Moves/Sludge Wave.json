@@ -10,5 +10,15 @@
     "Target": "Area",
     "Effect": "Roll 1 Chance Dice to Poison those affected.",
     "Description": "The Pokemon creates a large wave of watery ooze that soaks everything around. The smell is really unpleasant.",
-    "_id": "sludge-wave"
+    "_id": "sludge-wave",
+    "Attributes": {},
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Poison",
+                "Affects": "Targets",
+                "ChanceDice": 1
+            }
+        ]
+    }
 }

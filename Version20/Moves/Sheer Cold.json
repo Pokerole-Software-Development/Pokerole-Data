@@ -10,5 +10,15 @@
     "Target": "Foe",
     "Effect": "Deal damage to the Target equal to its remaining HP plus 1 Lethal Damage. -5 Accuracy.",
     "Description": "The user freezes the foe from the inside out. Victims of this attack will need urgent medical attention.",
-    "_id": "sheer-cold"
+    "_id": "sheer-cold",
+    "Attributes": {
+        "Lethal": true,
+        "AccuracyReduction": 5
+    },
+    "AddedEffects": {
+        "FixedDamage": {
+            "Percentage": 1,
+            "BasedOn": "Hp"
+        }
+    }
 }

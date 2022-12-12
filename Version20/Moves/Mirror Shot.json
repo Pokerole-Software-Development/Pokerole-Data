@@ -10,5 +10,17 @@
     "Target": "Foe",
     "Effect": "Roll 3 Chance Dice to Confuse the foe. -2 Accuracy.",
     "Description": "The user dazes the foe with a beam of light. Those who have experienced it describe it as",
-    "_id": "mirror-shot"
+    "_id": "mirror-shot",
+    "Attributes": {
+        "AccuracyReduction": 2
+    },
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Confuse",
+                "Affects": "Targets",
+                "ChanceDice": 3
+            }
+        ]
+    }
 }

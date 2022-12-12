@@ -10,5 +10,10 @@
     "Target": "Foe",
     "Effect": "Ranged. Double Action",
     "Description": "The Pokemon's head is a nest for its less evolved forms, the younglings will sometimes be used as projectiles.",
-    "_id": "dragon-darts"
+    "_id": "dragon-darts",
+    "Attributes": {
+        "PhysicalRanged": true,
+        "DoubleAction": true
+    },
+    "AddedEffects": {}
 }

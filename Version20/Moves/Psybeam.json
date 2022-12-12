@@ -10,5 +10,15 @@
     "Target": "Foe",
     "Effect": "Roll 1 Chance Dice to Confuse the foe.",
     "Description": "Attack with a beam of psychic energy that hits the mind of the target.",
-    "_id": "psybeam"
+    "_id": "psybeam",
+    "Attributes": {},
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Confuse",
+                "Affects": "Targets",
+                "ChanceDice": 1
+            }
+        ]
+    }
 }

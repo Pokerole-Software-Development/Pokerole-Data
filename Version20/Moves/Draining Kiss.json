@@ -10,5 +10,12 @@
     "Target": "Foe",
     "Effect": "The User restores HP equal to half the damage dealt, rounded down.",
     "Description": "The user sends a kiss with a flirty intention, the foe catches the kiss but it ends up draining the target's energy.",
-    "_id": "draining-kiss"
+    "_id": "draining-kiss",
+    "Attributes": {},
+    "AddedEffects": {
+        "Heal": {
+            "Type": "Leech",
+            "Percentage": 0.5
+        }
+    }
 }

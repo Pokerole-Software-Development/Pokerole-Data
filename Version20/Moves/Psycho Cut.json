@@ -10,5 +10,9 @@
     "Target": "Foe",
     "Effect": "High Critical.",
     "Description": "Create blades of psychic energy to tear down foes.",
-    "_id": "psycho-cut"
+    "_id": "psycho-cut",
+    "Attributes": {
+        "HighCritical": true
+    },
+    "AddedEffects": {}
 }

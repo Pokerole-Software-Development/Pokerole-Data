@@ -10,5 +10,16 @@
     "Target": "User",
     "Effect": "Priority 2. During this Round, all damage moves from any foe must target the User.",
     "Description": "The Pokemon releases an irritating powder that annoys and enrages foes into attacking.",
-    "_id": "rage-powder"
+    "_id": "rage-powder",
+    "Attributes": {
+        "Priority": 2
+    },
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "CenterOfAttention",
+                "Affects": "Targets"
+            }
+        ]
+    }
 }

@@ -10,5 +10,17 @@
     "Target": "User",
     "Effect": "Increase the User's Strength.",
     "Description": "The user cuts down the rough edges of its body to make it as sharp as a razor.",
-    "_id": "sharpen"
+    "_id": "sharpen",
+    "Attributes": {},
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "Strength"
+                ],
+                "Stages": 1,
+                "Affects": "User"
+            }
+        ]
+    }
 }

@@ -10,5 +10,17 @@
     "Target": "Foe",
     "Effect": "Reduce the foes' Special.",
     "Description": "The Pokemon tells a secret to the target. The foe loses its ability to concentrate.",
-    "_id": "confide"
+    "_id": "confide",
+    "Attributes": {},
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "Special"
+                ],
+                "Stages": -1,
+                "Affects": "Targets"
+            }
+        ]
+    }
 }

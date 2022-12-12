@@ -10,5 +10,20 @@
     "Target": "Foe",
     "Effect": "Lethal. High Critical. Charge Move. Roll 3 Chance Dice to Flinch the foe. -1 Accuracy.",
     "Description": "The Pokemon darts from the sky with a graceful and lethal strike, propelling with the wind, crushing the foe to the ground.",
-    "_id": "sky-attack"
+    "_id": "sky-attack",
+    "Attributes": {
+        "HighCritical": true,
+        "Lethal": true,
+        "Charge": true,
+        "AccuracyReduction": 1
+    },
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Flinch",
+                "Affects": "Targets",
+                "ChanceDice": 3
+            }
+        ]
+    }
 }

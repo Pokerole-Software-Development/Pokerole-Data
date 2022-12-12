@@ -10,5 +10,17 @@
     "Target": "Foe",
     "Effect": "Roll 1 Chance Dice to Apply Burn 2 to the Foe. -1 Accuracy.",
     "Description": "The Pokemon lights a heavy stone on fire and kicks it while it's ablaze. The hit is pretty heavy already, the fire is just for showing off.",
-    "_id": "pyro-ball"
+    "_id": "pyro-ball",
+    "Attributes": {
+        "AccuracyReduction": 1
+    },
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Burn2",
+                "Affects": "Targets",
+                "ChanceDice": 1
+            }
+        ]
+    }
 }

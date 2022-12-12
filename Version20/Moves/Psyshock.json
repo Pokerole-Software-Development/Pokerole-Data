@@ -10,5 +10,9 @@
     "Target": "Foe",
     "Effect": "This Move is resisted with the Foe's Defense instead of its Sp. Defense",
     "Description": "Materialize a psychic wave that pushes the target with real physical force.",
-    "_id": "psyshock"
+    "_id": "psyshock",
+    "Attributes": {
+        "ResistedWithDefense": true
+    },
+    "AddedEffects": {}
 }

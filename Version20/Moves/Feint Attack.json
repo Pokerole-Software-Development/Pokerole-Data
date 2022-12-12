@@ -10,5 +10,9 @@
     "Target": "Foe",
     "Effect": "Never Fail.",
     "Description": "The Pokemon approaches the foe disarmingly then attacks suddenly without giving any time to react.",
-    "_id": "feint-attack"
+    "_id": "feint-attack",
+    "Attributes": {
+        "NeverFail": true
+    },
+    "AddedEffects": {}
 }

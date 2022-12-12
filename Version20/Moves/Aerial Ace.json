@@ -10,5 +10,9 @@
     "Target": "Foe",
     "Effect": "Never Fail.",
     "Description": "The Pokemon rises up in the air towards a light source, momentarily blinding the foe, then plummets quickly to attack the opponent.",
-    "_id": "aerial-ace"
+    "_id": "aerial-ace",
+    "Attributes": {
+        "NeverFail": true
+    },
+    "AddedEffects": {}
 }

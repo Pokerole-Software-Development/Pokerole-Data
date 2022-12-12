@@ -10,5 +10,16 @@
     "Target": "Battlefield",
     "Effect": "Blocks.",
     "Description": "The User quietly releases a web on the field. All foes will be trapped.",
-    "_id": "spider-web"
+    "_id": "spider-web",
+    "Attributes": {
+        "BlockDamagePool": 0
+    },
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Block",
+                "Affects": "Targets"
+            }
+        ]
+    }
 }

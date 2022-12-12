@@ -10,5 +10,15 @@
     "Target": "Foe",
     "Effect": "Roll 3 Chance Dice to Flinch the foe.",
     "Description": "The user will surround the foe with razor-like wind that may knock it down.",
-    "_id": "air-slash"
+    "_id": "air-slash",
+    "Attributes": {},
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Flinch",
+                "Affects": "Targets",
+                "ChanceDice": 3
+            }
+        ]
+    }
 }

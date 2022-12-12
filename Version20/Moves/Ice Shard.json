@@ -10,5 +10,10 @@
     "Target": "Foe",
     "Effect": "Ranged. Priority 1.",
     "Description": "The user quickly freezes some bits of ice and throws them at the target.",
-    "_id": "ice-shard"
+    "_id": "ice-shard",
+    "Attributes": {
+        "PhysicalRanged": true,
+        "Priority": 1
+    },
+    "AddedEffects": {}
 }

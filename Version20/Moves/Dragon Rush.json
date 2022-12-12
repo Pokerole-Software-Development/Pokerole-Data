@@ -10,5 +10,17 @@
     "Target": "Foe",
     "Effect": "Roll 2 Chance Dice to Flinch the foe. -2 Accuracy.",
     "Description": "The user charges rapidly against the foe. The strike may leave thetarget gasping for air.",
-    "_id": "dragon-rush"
+    "_id": "dragon-rush",
+    "Attributes": {
+        "AccuracyReduction": 2
+    },
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Flinch",
+                "Affects": "Targets",
+                "ChanceDice": 2
+            }
+        ]
+    }
 }

@@ -10,5 +10,10 @@
     "Target": "Foe",
     "Effect": "Successive Actions. -1 Accuracy.",
     "Description": "The Pokemon goes at it with everything its got in a rather disordered way.",
-    "_id": "fury-attack"
+    "_id": "fury-attack",
+    "Attributes": {
+        "SuccessiveActions": true,
+        "AccuracyReduction": 1
+    },
+    "AddedEffects": {}
 }

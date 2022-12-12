@@ -10,5 +10,14 @@
     "Target": "User and Allies",
     "Effect": "User and Allies will receive 1 less Damage from both Physical and Special Attacks. This move will fail if not performed under Hail Weather. Lasts until Hail Weather is over.",
     "Description": "Aurora lights and hail spin around the Pokemon and its Allies, deflecting attacks.",
-    "_id": "aurora-veil"
+    "_id": "aurora-veil",
+    "Attributes": {},
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "AuroraVeil",
+                "Affects": "Targets"
+            }
+        ]
+    }
 }

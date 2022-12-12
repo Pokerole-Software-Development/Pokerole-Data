@@ -10,5 +10,10 @@
     "Target": "Foe",
     "Effect": "Successive Actions. Fist Based.",
     "Description": "The user throws a quick series of punches at the foe.",
-    "_id": "comet-punch"
+    "_id": "comet-punch",
+    "Attributes": {
+        "FistBased": true,
+        "SuccessiveActions": true
+    },
+    "AddedEffects": {}
 }

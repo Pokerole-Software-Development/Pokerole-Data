@@ -10,5 +10,10 @@
     "Target": "Foe",
     "Effect": "High Critical. Lethal.",
     "Description": "Using parts of its body as a blade the Pokemon pierces and tears the foe with a vicious force.",
-    "_id": "slash"
+    "_id": "slash",
+    "Attributes": {
+        "HighCritical": true,
+        "Lethal": true
+    },
+    "AddedEffects": {}
 }

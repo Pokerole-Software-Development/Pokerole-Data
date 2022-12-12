@@ -10,5 +10,9 @@
     "Target": "Foe",
     "Effect": "Priority 1. Double the Pokemon's movement speed.",
     "Description": "An attack as fast as lightning.",
-    "_id": "quick-attack"
+    "_id": "quick-attack",
+    "Attributes": {
+        "Priority": 1
+    },
+    "AddedEffects": {}
 }

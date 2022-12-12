@@ -10,5 +10,15 @@
     "Target": "Foe",
     "Effect": "Roll 2 Chance Dice to Confuse the Foe.",
     "Description": "The user releases an addictive sweet-smelling steam, do not be fooled as it is toxic and has nasty side-effects.",
-    "_id": "strange-steam"
+    "_id": "strange-steam",
+    "Attributes": {},
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Confuse",
+                "Affects": "Targets",
+                "ChanceDice": 2
+            }
+        ]
+    }
 }

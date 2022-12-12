@@ -10,5 +10,19 @@
     "Target": "Foe",
     "Effect": "Sound Based. Reduce the foe's Special.",
     "Description": "The Pokemon viciously snarls showing its teeth. Its menacing look will make the foe cower in fear.",
-    "_id": "snarl"
+    "_id": "snarl",
+    "Attributes": {
+        "SoundBased": true
+    },
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "Special"
+                ],
+                "Stages": -1,
+                "Affects": "Targets"
+            }
+        ]
+    }
 }

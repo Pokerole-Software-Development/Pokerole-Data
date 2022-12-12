@@ -10,5 +10,9 @@
     "Target": "Foe",
     "Effect": "If a Barrier is in place on the foe's side (ie. Light Screen. Reflect) destroy it.",
     "Description": "The Pokemon bares its fangs to bite the foe, psychic energy begins piercing before the actual fangs make contact.",
-    "_id": "psychic-fangs"
+    "_id": "psychic-fangs",
+    "Attributes": {
+        "DestroyShield": true
+    },
+    "AddedEffects": {}
 }

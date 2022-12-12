@@ -10,5 +10,11 @@
     "Target": "Foe",
     "Effect": "Ranged. Double Action. -1 Accuracy.",
     "Description": "The Pokemon throws a bone to hit the foe. The bone returns like a boomerang, striking a second time.",
-    "_id": "bonemerang"
+    "_id": "bonemerang",
+    "Attributes": {
+        "PhysicalRanged": true,
+        "DoubleAction": true,
+        "AccuracyReduction": 1
+    },
+    "AddedEffects": {}
 }

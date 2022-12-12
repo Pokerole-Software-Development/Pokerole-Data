@@ -10,5 +10,17 @@
     "Target": "Foe",
     "Effect": "Block. Deal 2 Dice of Damage at the end of each Round. Lasts 4 Rounds. -1 Accuracy.",
     "Description": "The user traps and crushes the opponent using its thick and sturdy shell.",
-    "_id": "clamp"
+    "_id": "clamp",
+    "Attributes": {
+        "BlockDamagePool": 2,
+        "AccuracyReduction": 1
+    },
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Block",
+                "Affects": "Targets"
+            }
+        ]
+    }
 }

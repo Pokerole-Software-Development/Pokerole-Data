@@ -10,5 +10,9 @@
     "Target": "Foe",
     "Effect": "Double Action.",
     "Description": "The user throws two powerful kicks.",
-    "_id": "double-kick"
+    "_id": "double-kick",
+    "Attributes": {
+        "DoubleAction": true
+    },
+    "AddedEffects": {}
 }

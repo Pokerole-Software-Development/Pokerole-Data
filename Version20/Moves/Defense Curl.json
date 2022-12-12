@@ -10,5 +10,17 @@
     "Target": "User",
     "Effect": "Increase the User's Defense.",
     "Description": "The user curls like a ball to protect against most threats.",
-    "_id": "defense-curl"
+    "_id": "defense-curl",
+    "Attributes": {},
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "Def"
+                ],
+                "Stages": 1,
+                "Affects": "User"
+            }
+        ]
+    }
 }

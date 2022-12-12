@@ -10,5 +10,18 @@
     "Target": "User",
     "Effect": "Increase the User's Strength and Special.",
     "Description": "The Pokemon excercises with vigor to be physically and mentally prepared for battle.",
-    "_id": "work-up"
+    "_id": "work-up",
+    "Attributes": {},
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "Strength",
+                    "Special"
+                ],
+                "Stages": 1,
+                "Affects": "User"
+            }
+        ]
+    }
 }

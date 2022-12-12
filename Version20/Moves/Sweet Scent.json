@@ -10,5 +10,14 @@
     "Target": "All Foes",
     "Effect": "Those affected cannot evade moves performed by the user. Attracts wild Pokemon if used outside of battle.",
     "Description": "The Pokemon releases an aroma that its enemies will love.",
-    "_id": "sweet-scent"
+    "_id": "sweet-scent",
+    "Attributes": {},
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "SweetScent",
+                "Affects": "Targets"
+            }
+        ]
+    }
 }

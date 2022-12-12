@@ -10,5 +10,18 @@
     "Target": "Foe",
     "Effect": "Roll 1 Chance Dice to Reduce the foe's Sp. Defense.",
     "Description": "The Pokemon absorbs the reflecting light on its body, releasing a powerful beam against the foe.",
-    "_id": "flash-cannon"
+    "_id": "flash-cannon",
+    "Attributes": {},
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "SpDef"
+                ],
+                "Stages": -1,
+                "ChanceDice": 1,
+                "Affects": "Targets"
+            }
+        ]
+    }
 }

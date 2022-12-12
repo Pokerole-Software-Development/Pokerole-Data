@@ -10,5 +10,9 @@
     "Target": "Area",
     "Effect": "Area Attack. Recoil.",
     "Description": "The Pokemon has had a terrible day and has a very bad headache, try not to disturb its peace because its head feels like exploding.",
-    "_id": "mind-blown"
+    "_id": "mind-blown",
+    "Attributes": {
+        "Recoil": true
+    },
+    "AddedEffects": {}
 }

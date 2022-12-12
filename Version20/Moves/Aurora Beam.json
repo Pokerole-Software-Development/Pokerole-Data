@@ -10,5 +10,18 @@
     "Target": "Foe",
     "Effect": "Roll 1 Chance Dice to Reduce foe's Strength.",
     "Description": "The Pokemon shoots a beautiful rainbow colored beam that may leave the foe flabbergasted.",
-    "_id": "aurora-beam"
+    "_id": "aurora-beam",
+    "Attributes": {},
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "Strength"
+                ],
+                "Stages": -1,
+                "ChanceDice": 1,
+                "Affects": "Targets"
+            }
+        ]
+    }
 }

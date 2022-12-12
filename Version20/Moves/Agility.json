@@ -10,5 +10,17 @@
     "Target": "User",
     "Effect": "Increase the User's Dexterity by 2.",
     "Description": "The user relaxes and lightens its body to move faster.",
-    "_id": "agility"
+    "_id": "agility",
+    "Attributes": {},
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "Dexterity"
+                ],
+                "Stages": 2,
+                "Affects": "User"
+            }
+        ]
+    }
 }

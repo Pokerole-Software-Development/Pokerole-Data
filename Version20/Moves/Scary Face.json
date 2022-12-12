@@ -10,5 +10,17 @@
     "Target": "Foe",
     "Effect": "Reduce the foe's Dexterity by 2.",
     "Description": "By making a frightening face, the Pokemon makes others think twice about coming near.",
-    "_id": "scary-face"
+    "_id": "scary-face",
+    "Attributes": {},
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "Dexterity"
+                ],
+                "Stages": -2,
+                "Affects": "Targets"
+            }
+        ]
+    }
 }

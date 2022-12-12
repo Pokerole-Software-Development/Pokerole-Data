@@ -10,5 +10,16 @@
     "Target": "Foe",
     "Effect": "Ranged. Remove the foe's Immunity to Ground-Type Attacks.",
     "Description": "The user hurls a projectile, usually a heavy rock that sends the foe down to the ground, leaving it unable to take off the ground afterwards.",
-    "_id": "smack-down"
+    "_id": "smack-down",
+    "Attributes": {
+        "PhysicalRanged": true
+    },
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Grounded",
+                "Affects": "Target"
+            }
+        ]
+    }
 }

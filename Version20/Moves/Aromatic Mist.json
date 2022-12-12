@@ -10,5 +10,18 @@
     "Target": "One Ally",
     "Effect": "Increase one Ally's Defense and Sp. Defense.",
     "Description": "The Pokemon showers an ally in a mist with a revitalizing armoa.",
-    "_id": "aromatic-mist"
+    "_id": "aromatic-mist",
+    "Attributes": {},
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "Def",
+                    "SpDef"
+                ],
+                "Stages": 1,
+                "Affects": "Target"
+            }
+        ]
+    }
 }
