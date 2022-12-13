@@ -1,20 +1,21 @@
-import yaml
 from glob import glob
 import json
 import os
-import pandas as pd
-import re
 from shutil import copy
 import fire
-import time
 import datetime
 
-secrets = json.load(open('../../secrets.json'))
+# Moves with fields that are problematic for the export
+# - Non-moves such as "Run Away" are excluded
+# - Struggle and Growl have attributes like "Strength/special"
+# - Copycat Damage1 is "Same as the copied move"
+# - Simple Beam is rolled with Empathy. This skill exists neither on the Pokémon sheet nor on the trainer sheet (?)
+# - Lovely Kiss Accuracy1 is "Missing beauty"
+IGNORED_MOVES = ['any-move', 'struggle', 'grapple', 'help-another', 'cover-an-ally', 'stabilize-an-ally', 'run-away', 'copycat', 'simple-beam', 'growl', 'lovely-kiss']
 
 class Foundry(object):
     
-    def __init__(self, version="Version20", public_vault=False):
-        self.obsidian = secrets['PublicObsidianRoot'] if public_vault else secrets['ObsidianRoot']
+    def __init__(self, version="Version20"):
         self.path_setup(version)
         self.version = version
 
@@ -38,16 +39,16 @@ class Foundry(object):
         for p in paths:
             if not os.path.exists(p): raise Exception(f"ERROR: Path {p} not found!")
             
-        self.pokedex_output = '../../Foundry/'
-        self.abilities_output = '../../Foundry/'
-        self.moves_output = '../../Foundry/'
-        self.learnsets_output = '../../Foundry/'
-        self.natures_output = '../../Foundry/'
-        self.sprites_output = '../../Foundry/'
-        self.home_output = '../../Foundry/'
-        self.book_output = '../../Foundry/'
-        self.shuffle_output = '../../Foundry/'
-        self.items_output = '../../Foundry/'
+        self.pokedex_output = '../../Foundry/packs/'
+        self.abilities_output = '../../Foundry/packs/'
+        self.moves_output = '../../Foundry/packs/'
+        self.learnsets_output = '../../Foundry/packs/'
+        self.natures_output = '../../Foundry/packs/'
+        self.sprites_output = '../../Foundry/images/pokemon/box/'
+        self.home_output = '../../Foundry/images/pokemon/home/'
+        self.book_output = '../../Foundry/images/pokemon/book/'
+        self.shuffle_output = '../../Foundry/images/pokemon/shuffle/'
+        self.items_output = '../../Foundry/packs/'
 
         self.outputs = [self.pokedex_output,self.abilities_output,self.moves_output,
                     self.learnsets_output,self.natures_output,self.sprites_output,
@@ -66,33 +67,66 @@ class Foundry(object):
     
     def _moves(self):
         
-        def _attribute_get(attr, value):
-            if not attr: return False
-            else: return attr.get(value) if attr.get(value) else False
+        def _attribute_get(attr, value, default=False):
+            if not attr: return default
+            else: return attr.get(value) if attr.get(value) else default
+
+        def _icon_for_category(dmg_type):
+            # TODO: Improve move icons
+            # Maybe a combination of type + category since icons for every single move aren't feasible?
+            img = "icons/svg/explosion.svg"
+            if dmg_type == "Special":
+                img = "icons/svg/daze.svg"
+            elif dmg_type == "Support":
+                img = "icons/svg/mage-shield.svg"
+            return img
+
+        def _check_target(target):
+            assert target in ["Foe","Random Foe","All Foes","User","One Ally","User and Allies",
+                "Area","Battlefield","Battlefield (Foes)", "Battlefield and Area"], f"Invalid target '{target}'"
+
+        def _check_attribute(attr):
+            assert attr in ["strength", "dexterity", "vitality", "special", "insight", "tough", "cool", "beauty", "cute", "clever", "will"], f"Invalid attribute '{attr}'"
+
+        def _check_skill(attr):
+            assert attr in ["brawl", "channel", "clash", "evasion", "alert", "athletic", "nature", "stealth", "allure", "etiquette", "intimidate", "perform", "crafts", "lore", "medicine", "science"], f"Invalid attribute '{attr}'"
         
-        db = []
+        db = open(self.moves_output+"moves.db",'w')
         for src in glob(self.moves_path+"/*.json"):
             entry = json.loads(open(src).read())
             attr = entry.get("Attributes")
+
+            if entry['_id'] in IGNORED_MOVES:
+                continue
+
+            _check_target(entry['Target'])
+            if entry['Accuracy1'] != '':
+                _check_attribute(entry['Accuracy1'].lower())
+            if entry['Accuracy2'] != '':
+                _check_skill(entry['Accuracy2'].lower())
+            if entry['Damage1'] != '':
+                _check_attribute(entry['Damage1'].lower())
+
             foundry = {
                         "_id": f"move-{entry['_id']}",
                         "name": entry['Name'],
                         "type": "move",
-                        "img": "icons/svg/explosion.svg",
+                        "img": _icon_for_category(entry['DmgType']),
                         "system": {
                             "description": entry['Description'],
-                            "yype": entry['Type'],
-                            "category": entry['DmgType'],
-                            "target": entry['Target'],
+                            "type": entry['Type'].lower(),
+                            "category": entry['DmgType'].lower(),
+                            # Special case for Spider Web
+                            "target": entry['Target'] if entry['_id'] != 'spider-web' else "Battlefield (Foes)",
                             "power": entry['Power'],
-                            "accMod1": entry['Accuracy1'],
-                            "accMod2": entry['Accuracy2'],
-                            "dmgMod": entry['Damage1'],
+                            "accMod1": entry['Accuracy1'].lower(),
+                            "accMod2": entry['Accuracy2'].lower(),
+                            "dmgMod": entry['Damage1'].lower(),
                             "effect": entry['Effect'],
                             "source": self.version,
                             "attributes": {
-                                "accuracyReduction":   _attribute_get(attr, "AccuracyReduction"),
-                                "priority":            _attribute_get(attr, "Priority"),
+                                "accuracyReduction":   _attribute_get(attr, "AccuracyReduction", 0),
+                                "priority":            _attribute_get(attr, "Priority", 0),
                                 "highCritical":        _attribute_get(attr, "HighCritical"),
                                 "lethal":              _attribute_get(attr, "Lethal"),
                                 "physicalRanged":      _attribute_get(attr, "PhysicalRanged"),
@@ -121,15 +155,16 @@ class Foundry(object):
                         "sort": 100001,
                         "_stats": {
                             "systemId": "pokerole",
-                            "systemVersion": "1.2.0",
+                            "systemVersion": "0.1.0",
                             "coreVersion": "10.291",
                             "createdTime": 1670525752873,
                             "modifiedTime": datetime.datetime.now().timestamp(),
                             "lastModifiedBy": "Generator"
                         }
             }
-            db.append(foundry)
-        open(self.moves_output+f"Moves.json",'w').write(json.dumps(db))
+            db.write(json.dumps(foundry))
+            db.write('\n')
+        db.close()
     
     def _learnsets(self):
         pass
@@ -141,16 +176,13 @@ class Foundry(object):
         pass
             
     def _images(self):
-        def x(path, output, postfix):
+        def x(path, output):
             for img in [x for x in os.listdir(path) if '.png' in x]:
-                sname = img.split('.')
-                Foundryname = f'Foundry-{sname[0]}-{postfix}.{sname[1]}'
-                copy(path+img, output+Foundryname)
-                # print(path+img, output+Foundryname)
-        x(self.sprites_path, self.sprites_output, 'BoxSprite')
-        x(self.home_path, self.home_output, 'HomeSprite')
-        x(self.book_path, self.book_output, 'BookSprite')
-        x(self.shuffle_path, self.shuffle_output, 'ShuffleToken')
+                copy(path+img, output+img)
+        x(self.sprites_path, self.sprites_output)
+        x(self.home_path, self.home_output)
+        x(self.book_path, self.book_output)
+        x(self.shuffle_path, self.shuffle_output)
         
 def update(*argv, batch=False, version='Version20', confirm=False):
         
