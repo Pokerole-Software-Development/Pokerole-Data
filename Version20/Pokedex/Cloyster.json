@@ -44,5 +44,14 @@
     "DexDescription": "If it lives in seas with harsh currents, it will grow larger and sharper spikes on its shells than those who live on calm waters. Its shell is extremely hard - you would need explosives to try to open it.",
     "Baby": false,
     "PrimaryEggGroup": "Water 3",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "From": "Shellder",
+            "Kind": "Level",
+            "Details": {
+                "speed": "Medium"
+            }
+        }
+    ]
 }

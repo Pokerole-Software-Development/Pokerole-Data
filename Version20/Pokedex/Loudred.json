@@ -44,5 +44,21 @@
     "DexDescription": "Their ears work as loudspeakers capable of breaking glass or even blowing apart a wooden house. When it finishes shouting, even they are deafened for a while. They have noisy competitions in their packs.",
     "Baby": false,
     "PrimaryEggGroup": "Monster",
-    "SecondaryEggGroup": "Field"
+    "SecondaryEggGroup": "Field",
+    "Evolutions": [
+        {
+            "From": "Whismur",
+            "Kind": "Level",
+            "Details": {
+                "speed": "Medium"
+            }
+        },
+        {
+            "To": "Exploud",
+            "Kind": "Level",
+            "Details": {
+                "speed": "Medium"
+            }
+        }
+    ]
 }

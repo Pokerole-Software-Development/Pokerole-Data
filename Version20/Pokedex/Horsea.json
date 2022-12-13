@@ -44,5 +44,14 @@
     "DexDescription": "It makes its nest in the shade of corals in shallow parts of the sea. If it senses danger, it spits a murky ink and flees. It has been seen shooting down flying bugs to eat them.",
     "Baby": false,
     "PrimaryEggGroup": "Water 1",
-    "SecondaryEggGroup": "Dragon"
+    "SecondaryEggGroup": "Dragon",
+    "Evolutions": [
+        {
+            "To": "Seadra",
+            "Kind": "Level",
+            "Details": {
+                "speed": "Slow"
+            }
+        }
+    ]
 }

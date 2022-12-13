@@ -44,5 +44,14 @@
     "DexDescription": "It is said that some tremors are caused by the roars of this Pokemon. They communicate with soft noises, raising their voice only in battle. They can emit many different kinds of sounds.",
     "Baby": false,
     "PrimaryEggGroup": "Monster",
-    "SecondaryEggGroup": "Field"
+    "SecondaryEggGroup": "Field",
+    "Evolutions": [
+        {
+            "From": "Loudred",
+            "Kind": "Level",
+            "Details": {
+                "speed": "Medium"
+            }
+        }
+    ]
 }

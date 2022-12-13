@@ -44,5 +44,14 @@
     "DexDescription": "It\u2019s not common to find it in the wild. Most sightings take place when it is on land. Once he is inside the water, it will swim far away. This Pokemon is an outstanding swimmer, capable of beating any human.",
     "Baby": false,
     "PrimaryEggGroup": "Water 1",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "From": "Poliwhirl",
+            "Kind": "Stone",
+            "Details": {
+                "item": "Water Stone"
+            }
+        }
+    ]
 }

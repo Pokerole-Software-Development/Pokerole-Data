@@ -44,5 +44,21 @@
     "DexDescription": "The protective membranes shield their eyes from sandstorms and allow them to see in the dark. They can be aggressive and territorial and love to destroy things with their fangs.",
     "Baby": false,
     "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "From": "Sandile",
+            "Kind": "Level",
+            "Details": {
+                "speed": "Medium"
+            }
+        },
+        {
+            "To": "Krookodile",
+            "Kind": "Level",
+            "Details": {
+                "speed": "Medium"
+            }
+        }
+    ]
 }

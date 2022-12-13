@@ -50,5 +50,20 @@
             "Name": "Mega-Gallade",
             "Item": "Galladite"
         }
+    ],
+    "Evolutions": [
+        {
+            "From": "Kirlia",
+            "Kind": "Special",
+            "Details": {
+                "item": "Dawn Stone",
+                "gender": "Male"
+            }
+        },
+        {
+            "To": "Mega-Gallade",
+            "Kind": "Mega",
+            "Details": ""
+        }
     ]
 }

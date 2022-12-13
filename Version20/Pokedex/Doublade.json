@@ -44,5 +44,21 @@
     "DexDescription": "Both swords share a telepathic link to coordinate attacks and slash their enemies to shreds. They feed on the rage of their wielder and promise to make him unbeatable at the cost of his flesh and soul.",
     "Baby": false,
     "PrimaryEggGroup": "Mineral",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "From": "Honedge",
+            "Kind": "Level",
+            "Details": {
+                "speed": "Slow"
+            }
+        },
+        {
+            "To": "Aegislash",
+            "Kind": "Stone",
+            "Details": {
+                "item": "Dusk Stone"
+            }
+        }
+    ]
 }

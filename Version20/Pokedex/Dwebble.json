@@ -44,5 +44,14 @@
     "DexDescription": "Their saliva is corrosive and it uses it to slowly cut pieces of rock. The rock becomes a shelter until it grows too large for it. If the rock breaks, it stays anxious and agitated until it finds a replacement.",
     "Baby": false,
     "PrimaryEggGroup": "Bug",
-    "SecondaryEggGroup": "Mineral"
+    "SecondaryEggGroup": "Mineral",
+    "Evolutions": [
+        {
+            "To": "Crustle",
+            "Kind": "Level",
+            "Details": {
+                "speed": "Medium"
+            }
+        }
+    ]
 }

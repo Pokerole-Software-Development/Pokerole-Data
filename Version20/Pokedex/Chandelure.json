@@ -44,5 +44,14 @@
     "DexDescription": "It consumes the spirits of the living, puts people in a hypnotic trance and consumes them with fire. Being consumed in Chandelure's flame burns up the spirit, leaving only the body behind.",
     "Baby": false,
     "PrimaryEggGroup": "Amorphous",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "From": "Lampent",
+            "Kind": "Stone",
+            "Details": {
+                "item": "Dusk Stone"
+            }
+        }
+    ]
 }

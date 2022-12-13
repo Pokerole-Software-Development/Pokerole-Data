@@ -50,5 +50,19 @@
             "Name": "Mega-Gardevoir",
             "Item": "Gardevoirite"
         }
+    ],
+    "Evolutions": [
+        {
+            "From": "Kirlia",
+            "Kind": "Level",
+            "Details": {
+                "speed": "Medium"
+            }
+        },
+        {
+            "To": "Mega-Gardevoir",
+            "Kind": "Mega",
+            "Details": ""
+        }
     ]
 }

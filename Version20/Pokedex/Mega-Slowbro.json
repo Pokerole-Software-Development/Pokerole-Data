@@ -45,5 +45,12 @@
     "Baby": false,
     "PrimaryEggGroup": "Monster",
     "SecondaryEggGroup": "Water 1",
-    "MegaBaseForm": "Slowbro"
+    "MegaBaseForm": "Slowbro",
+    "Evolutions": [
+        {
+            "From": "Slowbro",
+            "Kind": "Mega",
+            "Details": ""
+        }
+    ]
 }

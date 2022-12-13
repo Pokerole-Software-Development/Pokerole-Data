@@ -44,5 +44,21 @@
     "DexDescription": "It can be found living in volcanic areas. In battle, Magmar blows out intense flames all over its body to intimidate the opponent. This creates heat waves that ignite grass and trees in the surroundings.",
     "Baby": false,
     "PrimaryEggGroup": "Human-Like",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "From": "Magby",
+            "Kind": "Level",
+            "Details": {
+                "speed": "Medium"
+            }
+        },
+        {
+            "To": "Magmortar",
+            "Kind": "Trade",
+            "Details": {
+                "item": "Magmarizer"
+            }
+        }
+    ]
 }

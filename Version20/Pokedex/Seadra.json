@@ -44,5 +44,21 @@
     "DexDescription": "The poisonous barbs all over its body are highly valued as ingredients for making traditional medicine. It will show no mercy if anything approaches its nest. Its back fin has a numbing substance",
     "Baby": false,
     "PrimaryEggGroup": "Water 1",
-    "SecondaryEggGroup": "Dragon"
+    "SecondaryEggGroup": "Dragon",
+    "Evolutions": [
+        {
+            "From": "Horsea",
+            "Kind": "Level",
+            "Details": {
+                "speed": "Slow"
+            }
+        },
+        {
+            "To": "Kingdra",
+            "Kind": "Trade",
+            "Details": {
+                "item": "Dragon Scale"
+            }
+        }
+    ]
 }

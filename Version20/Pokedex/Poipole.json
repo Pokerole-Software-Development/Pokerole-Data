@@ -44,5 +44,14 @@
     "DexDescription": "Thanks to the Recon Squad we\u2019ve managed to secure a location on the other side. UB- Adhesive have been a great help; their intelligence and friendliness would make them very popular in our world.",
     "Baby": false,
     "PrimaryEggGroup": "Undiscovered",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "To": "Naganadel",
+            "Kind": "Level",
+            "Details": {
+                "move": "Dragon Pulse"
+            }
+        }
+    ]
 }

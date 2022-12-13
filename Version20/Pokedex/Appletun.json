@@ -44,5 +44,14 @@
     "DexDescription": "Eating a sweet apple caused its evolution. A nectarous scent wafts from its body, luring in the bug Pokemon it preys on, but it also attracts other Pokemon who eat the skins atop of its back.",
     "Baby": false,
     "PrimaryEggGroup": "Grass",
-    "SecondaryEggGroup": "Dragon"
+    "SecondaryEggGroup": "Dragon",
+    "Evolutions": [
+        {
+            "From": "Flapple",
+            "Kind": "Item",
+            "Details": {
+                "item": "Sweet Apple"
+            }
+        }
+    ]
 }

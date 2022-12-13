@@ -44,5 +44,30 @@
     "DexDescription": "Lives in small groups in forests but they tend to stay hidden. It stores electricity in the electric sacs on its cheeks and uses its tail to ground the excess charge. They can be stubborn and wary of strangers.",
     "Baby": false,
     "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": "Fairy"
+    "SecondaryEggGroup": "Fairy",
+    "Evolutions": [
+        {
+            "From": "Pichu",
+            "Kind": "Stat",
+            "Details": {
+                "stat": "Happiness",
+                "value": 4
+            }
+        },
+        {
+            "To": "Raichu",
+            "Kind": "Stone",
+            "Details": {
+                "item": "Thunder Stone"
+            }
+        },
+        {
+            "To": "Alolan Raichu",
+            "Kind": "Stone",
+            "Details": {
+                "item": "Thunder Stone",
+                "region": "Alola"
+            }
+        }
+    ]
 }

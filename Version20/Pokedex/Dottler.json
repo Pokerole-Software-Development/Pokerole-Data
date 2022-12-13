@@ -44,5 +44,21 @@
     "DexDescription": "It grows into its final stage inside a hard shell. It barely moves and it won\u2019t eat or drink during this time, due to this many believe it to be dead until its psychic powers awaken and it starts communicating telepathically.",
     "Baby": false,
     "PrimaryEggGroup": "Bug",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "From": "Blipbug",
+            "Kind": "Level",
+            "Details": {
+                "speed": "Fast"
+            }
+        },
+        {
+            "To": "Orbeetle",
+            "Kind": "Level",
+            "Details": {
+                "speed": "Medium"
+            }
+        }
+    ]
 }

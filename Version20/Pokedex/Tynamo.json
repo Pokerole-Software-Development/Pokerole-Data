@@ -44,5 +44,14 @@
     "DexDescription": "These Pokemon move in schools. They have an electricity-storing organ at their sides but they can\u2019t generate their own power. They only discharge electricity if they are in danger.",
     "Baby": false,
     "PrimaryEggGroup": "Amorphous",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "To": "Eelektrik",
+            "Kind": "Level",
+            "Details": {
+                "speed": "Medium"
+            }
+        }
+    ]
 }

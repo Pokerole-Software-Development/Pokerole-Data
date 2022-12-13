@@ -50,5 +50,19 @@
             "Name": "Mega-Camerupt",
             "Item": "Cameruptite"
         }
+    ],
+    "Evolutions": [
+        {
+            "From": "Numel",
+            "Kind": "Level",
+            "Details": {
+                "speed": "Medium"
+            }
+        },
+        {
+            "To": "Mega-Camerupt",
+            "Kind": "Mega",
+            "Details": ""
+        }
     ]
 }

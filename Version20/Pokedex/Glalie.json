@@ -50,5 +50,20 @@
             "Name": "Mega-Glalie",
             "Item": "Glalitite"
         }
+    ],
+    "Evolutions": [
+        {
+            "From": "Snorunt",
+            "Kind": "Level",
+            "Details": {
+                "speed": "Medium",
+                "gender": "Male"
+            }
+        },
+        {
+            "To": "Mega-Glalie",
+            "Kind": "Mega",
+            "Details": ""
+        }
     ]
 }

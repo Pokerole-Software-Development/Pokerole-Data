@@ -44,5 +44,15 @@
     "DexDescription": "Milotic is considered to be one of the most beautiful Pokemon in existence. It has inspired music, paintings and statues. It has the power to calm the anger and hostility of its foes.",
     "Baby": false,
     "PrimaryEggGroup": "Water 1",
-    "SecondaryEggGroup": "Dragon"
+    "SecondaryEggGroup": "Dragon",
+    "Evolutions": [
+        {
+            "From": "Feebas",
+            "Kind": "Stat",
+            "Details": {
+                "stat": "Beauty",
+                "value": 5
+            }
+        }
+    ]
 }

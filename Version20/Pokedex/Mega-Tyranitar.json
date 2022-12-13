@@ -45,5 +45,12 @@
     "Baby": false,
     "PrimaryEggGroup": "Monster",
     "SecondaryEggGroup": "",
-    "MegaBaseForm": "Tyranitar"
+    "MegaBaseForm": "Tyranitar",
+    "Evolutions": [
+        {
+            "From": "Tyranitar",
+            "Kind": "Mega",
+            "Details": ""
+        }
+    ]
 }

@@ -44,5 +44,14 @@
     "DexDescription": "You\u2019ll find them in fields, basking in the sun, they let the wind sway them while they sing a joyful song. Afterwards their flowers bloom and glow. This delightful display makes it very popular among Trainers.",
     "Baby": false,
     "PrimaryEggGroup": "Grass",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "To": "Eldegoss",
+            "Kind": "Level",
+            "Details": {
+                "speed": "Medium"
+            }
+        }
+    ]
 }

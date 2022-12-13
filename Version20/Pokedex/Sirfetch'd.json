@@ -44,5 +44,14 @@
     "DexDescription": "Only Farfetch\u2019d that have survived many battles can go thought this evolution. They are very proud of their leek spear and leafen shield, When this Pokemon's leek withers, it will retire from combat.",
     "Baby": false,
     "PrimaryEggGroup": "Flying",
-    "SecondaryEggGroup": "Field"
+    "SecondaryEggGroup": "Field",
+    "Evolutions": [
+        {
+            "From": "Galarian Farfetch'd",
+            "Kind": "Special",
+            "Details": {
+                "special": "Score 3 Critical hits in 1 battle"
+            }
+        }
+    ]
 }

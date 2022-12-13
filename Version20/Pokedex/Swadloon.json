@@ -44,5 +44,22 @@
     "DexDescription": "Preferring dark and damp places, it spends the entire day inside rotting logs. It protects itself from the cold by wrapping up in leaves. It\u2019s kind of moody and it likes to remain undisturbed.",
     "Baby": false,
     "PrimaryEggGroup": "Bug",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "From": "Sewaddle",
+            "Kind": "Level",
+            "Details": {
+                "speed": "Fast"
+            }
+        },
+        {
+            "To": "Leavanny",
+            "Kind": "Stat",
+            "Details": {
+                "stat": "Happiness",
+                "value": 4
+            }
+        }
+    ]
 }

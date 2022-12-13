@@ -50,5 +50,19 @@
             "Name": "Mega-Ampharos",
             "Item": "Ampharosite"
         }
+    ],
+    "Evolutions": [
+        {
+            "From": "Flaaffy",
+            "Kind": "Level",
+            "Details": {
+                "speed": "Medium"
+            }
+        },
+        {
+            "To": "Mega-Ampharos",
+            "Kind": "Mega",
+            "Details": ""
+        }
     ]
 }

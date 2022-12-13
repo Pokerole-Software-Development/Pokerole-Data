@@ -44,5 +44,21 @@
     "DexDescription": "These Pokemon have a really big appetite. When they spot their prey, they coil around it and shock it with their electricity-generating organs, which are the yellow circles on it\u2019s skin.",
     "Baby": false,
     "PrimaryEggGroup": "Amorphous",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "From": "Tynamo",
+            "Kind": "Level",
+            "Details": {
+                "speed": "Medium"
+            }
+        },
+        {
+            "To": "Eelektross",
+            "Kind": "Stone",
+            "Details": {
+                "item": "Thunder Stone"
+            }
+        }
+    ]
 }

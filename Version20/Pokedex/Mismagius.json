@@ -44,5 +44,14 @@
     "DexDescription": "Extremely rare. Their cries sound like incantations, hearing them gives you bad headaches and hallucinations. It is said that some Mismagius are benevolent and have granted good fortune to people they like.",
     "Baby": false,
     "PrimaryEggGroup": "Amorphous",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "From": "Misdreavus",
+            "Kind": "Stone",
+            "Details": {
+                "item": "Dusk Stone"
+            }
+        }
+    ]
 }

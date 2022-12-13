@@ -44,5 +44,14 @@
     "DexDescription": "They are curious but incredibly cowardly Pokemon. They are easily startled and will shoot a stenchy liquid as a warning. Even so, they are highly valued due to their ability to eat and clean any garbage.",
     "Baby": false,
     "PrimaryEggGroup": "Bug",
-    "SecondaryEggGroup": "Water 3"
+    "SecondaryEggGroup": "Water 3",
+    "Evolutions": [
+        {
+            "To": "Golisopod",
+            "Kind": "Level",
+            "Details": {
+                "speed": "Slow"
+            }
+        }
+    ]
 }

@@ -44,5 +44,15 @@
     "DexDescription": "Whoever takes a bite on a Blissey's egg becomes loving and caring to everyone. They are compassionate, healing anyone who\u2019s injured. Their presence makes everyone smile. An intelligent and emphatic Pokemon.",
     "Baby": false,
     "PrimaryEggGroup": "Fairy",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "From": "Chansey",
+            "Kind": "Stat",
+            "Details": {
+                "stat": "Happiness",
+                "value": 5
+            }
+        }
+    ]
 }

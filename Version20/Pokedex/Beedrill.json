@@ -50,5 +50,19 @@
             "Name": "Mega-Beedrill",
             "Item": "Beedrillite"
         }
+    ],
+    "Evolutions": [
+        {
+            "From": "Kakuna",
+            "Kind": "Level",
+            "Details": {
+                "speed": "Fast"
+            }
+        },
+        {
+            "To": "Mega-Beedrill",
+            "Kind": "Mega",
+            "Details": ""
+        }
     ]
 }

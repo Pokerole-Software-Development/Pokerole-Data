@@ -45,5 +45,12 @@
     "Baby": false,
     "PrimaryEggGroup": "Undiscovered",
     "SecondaryEggGroup": "",
-    "MegaBaseForm": "Mewtwo"
+    "MegaBaseForm": "Mewtwo",
+    "Evolutions": [
+        {
+            "From": "Mewtwo",
+            "Kind": "Mega",
+            "Details": ""
+        }
+    ]
 }

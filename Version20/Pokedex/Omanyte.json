@@ -44,5 +44,14 @@
     "DexDescription": "One of the ancient and extinct Pokemon that have been revived from fossils by science. If attacked, it withdraws into its hard shell. It is not found in the wild anymore, but fossils can be found in the sea.",
     "Baby": false,
     "PrimaryEggGroup": "Water 1",
-    "SecondaryEggGroup": "Water 3"
+    "SecondaryEggGroup": "Water 3",
+    "Evolutions": [
+        {
+            "To": "Omastar",
+            "Kind": "Level",
+            "Details": {
+                "speed": "Slow"
+            }
+        }
+    ]
 }

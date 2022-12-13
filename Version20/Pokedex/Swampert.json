@@ -50,5 +50,19 @@
             "Name": "Mega-Swampert",
             "Item": "Swampertite"
         }
+    ],
+    "Evolutions": [
+        {
+            "From": "Marshtomp",
+            "Kind": "Level",
+            "Details": {
+                "speed": "Medium"
+            }
+        },
+        {
+            "To": "Mega-Swampert",
+            "Kind": "Mega",
+            "Details": ""
+        }
     ]
 }

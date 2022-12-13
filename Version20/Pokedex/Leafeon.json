@@ -44,5 +44,14 @@
     "DexDescription": "Eevee evolves to Leafeon when it\u2019s living near a special kind of moss. Its cells are capable of performing photosynthesis. It is a calm Pokemon and does not usually fight but its leaves are sharp and strong.",
     "Baby": false,
     "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "From": "Eevee",
+            "Kind": "Stone",
+            "Details": {
+                "item": "Leaf Stone"
+            }
+        }
+    ]
 }

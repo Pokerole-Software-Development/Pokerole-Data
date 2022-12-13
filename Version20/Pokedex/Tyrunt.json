@@ -44,5 +44,14 @@
     "DexDescription": "This Pokemon was restored from a fossil. If something happens that it doesn\u2019t like, it throws a tantrum and runs wild. Many of the researchers that brought it back were attacked by its powerful jaws.",
     "Baby": false,
     "PrimaryEggGroup": "Monster",
-    "SecondaryEggGroup": "Dragon"
+    "SecondaryEggGroup": "Dragon",
+    "Evolutions": [
+        {
+            "To": "Tyrantrum",
+            "Kind": "Level",
+            "Details": {
+                "speed": "Slow"
+            }
+        }
+    ]
 }

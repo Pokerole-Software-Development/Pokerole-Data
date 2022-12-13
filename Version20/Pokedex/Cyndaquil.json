@@ -44,5 +44,14 @@
     "DexDescription": "A shy and elusive Pokemon. The flames from its back protect it. They\u2019ll burn vigorously if Cyndaquil is angry otherwise they\u2019ll remain unlit. It lives in hot dens inside of mountains and volcanoes.",
     "Baby": false,
     "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "To": "Quilava",
+            "Kind": "Level",
+            "Details": {
+                "speed": "Medium"
+            }
+        }
+    ]
 }

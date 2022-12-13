@@ -44,5 +44,14 @@
     "DexDescription": "When electricity builds on its body, it starts to emit a faint glow and it becomes more aggressive than it normally is. They live in forests but are rare to find in the wild.",
     "Baby": false,
     "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": "Fairy"
+    "SecondaryEggGroup": "Fairy",
+    "Evolutions": [
+        {
+            "From": "Pikachu",
+            "Kind": "Stone",
+            "Details": {
+                "item": "Thunder Stone"
+            }
+        }
+    ]
 }

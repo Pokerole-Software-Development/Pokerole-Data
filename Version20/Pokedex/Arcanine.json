@@ -44,5 +44,14 @@
     "DexDescription": "Its proud and regal appearance has made it be revered by people of ancient societies. Its magnificent bark conveys a sense of majesty. Anyone in front of Arcanine can\u2019t help but stare in awe.",
     "Baby": false,
     "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "From": "Growlithe",
+            "Kind": "Stone",
+            "Details": {
+                "item": "Fire Stone"
+            }
+        }
+    ]
 }

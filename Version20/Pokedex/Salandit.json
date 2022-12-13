@@ -44,5 +44,15 @@
     "DexDescription": "The markings at the end of its tail emit flames and a toxic gas, be careful as this gas smells sweet and specially appealing for the males of any species. Only female Salandit are known to evolve.",
     "Baby": false,
     "PrimaryEggGroup": "Monster",
-    "SecondaryEggGroup": "Dragon"
+    "SecondaryEggGroup": "Dragon",
+    "Evolutions": [
+        {
+            "To": "Salazzle",
+            "Kind": "Level",
+            "Details": {
+                "speed": "Medium",
+                "gender": "Female"
+            }
+        }
+    ]
 }

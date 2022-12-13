@@ -44,5 +44,15 @@
     "DexDescription": "Very rare in the wild. People have called it a vampire. It sneaks up on its intended prey using wings that barely make a sound. Crobat is a surprisingly loyal Pokemon.",
     "Baby": false,
     "PrimaryEggGroup": "Flying",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "From": "Golbat",
+            "Kind": "Stat",
+            "Details": {
+                "stat": "Happiness",
+                "value": 4
+            }
+        }
+    ]
 }

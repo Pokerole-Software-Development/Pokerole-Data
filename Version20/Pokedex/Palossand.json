@@ -44,5 +44,14 @@
     "DexDescription": "The possessed people shaped this Pokemon into a castle, buried beneath the sand where it stands are the remains of all its victims. Some say these unmarked graves will give birth to a new Sandygast.",
     "Baby": false,
     "PrimaryEggGroup": "Amorphous",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "From": "Sandygast",
+            "Kind": "Level",
+            "Details": {
+                "speed": "Slow"
+            }
+        }
+    ]
 }

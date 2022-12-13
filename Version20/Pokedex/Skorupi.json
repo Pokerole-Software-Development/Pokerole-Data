@@ -44,5 +44,14 @@
     "DexDescription": "It lives in deserts and arid regions. It buries itself under the sand, waiting for an unsuspecting prey to come nearby. It will then sting the prey and cling to it tenaciously until the poison takes effect.",
     "Baby": false,
     "PrimaryEggGroup": "Bug",
-    "SecondaryEggGroup": "Water 3"
+    "SecondaryEggGroup": "Water 3",
+    "Evolutions": [
+        {
+            "To": "Drapion",
+            "Kind": "Level",
+            "Details": {
+                "speed": "Medium"
+            }
+        }
+    ]
 }

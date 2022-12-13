@@ -44,5 +44,14 @@
     "DexDescription": "They stick their thorns into cave walls and absorb the minerals from the rocks. When threatened, they attack by shooting a barrage of spikes, which gives them a chance to escape by rolling away.",
     "Baby": false,
     "PrimaryEggGroup": "Grass",
-    "SecondaryEggGroup": "Mineral"
+    "SecondaryEggGroup": "Mineral",
+    "Evolutions": [
+        {
+            "To": "Ferrothorn",
+            "Kind": "Level",
+            "Details": {
+                "speed": "Medium"
+            }
+        }
+    ]
 }

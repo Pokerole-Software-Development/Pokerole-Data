@@ -44,5 +44,15 @@
     "DexDescription": "An extremely elusive Pokemon. A few have appeared when the night skies are filled with shooting stars - but they always disappear at dawn. Friendship and love allows it to go into the next step of life.",
     "Baby": true,
     "PrimaryEggGroup": "Undiscovered",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "To": "Clefairy",
+            "Kind": "Stat",
+            "Details": {
+                "stat": "Happiness",
+                "value": 4
+            }
+        }
+    ]
 }

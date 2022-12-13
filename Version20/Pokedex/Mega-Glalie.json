@@ -45,5 +45,12 @@
     "Baby": false,
     "PrimaryEggGroup": "Fairy",
     "SecondaryEggGroup": "Mineral",
-    "MegaBaseForm": "Glalie"
+    "MegaBaseForm": "Glalie",
+    "Evolutions": [
+        {
+            "From": "Glalie",
+            "Kind": "Mega",
+            "Details": ""
+        }
+    ]
 }

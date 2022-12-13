@@ -44,5 +44,14 @@
     "DexDescription": "Friendly, loyal and fearless to defend its trainer. These traits have gained them a place working as police Pokemon. They are uncommon in the wild but some packs can be seen in hot environments.",
     "Baby": false,
     "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "To": "Arcanine",
+            "Kind": "Stone",
+            "Details": {
+                "item": "Fire Stone"
+            }
+        }
+    ]
 }

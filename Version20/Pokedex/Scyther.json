@@ -44,5 +44,14 @@
     "DexDescription": "It\u2019s pretty rare but a few swarms have been seen in the grasslands. It tears and shreds prey with its wickedly sharp scythes and very rarely spreads its wings to fly. This pokemon is stealthy and aggressive.",
     "Baby": false,
     "PrimaryEggGroup": "Bug",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "To": "Scizor",
+            "Kind": "Trade",
+            "Details": {
+                "item": "Metal Coat"
+            }
+        }
+    ]
 }

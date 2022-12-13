@@ -44,5 +44,21 @@
     "DexDescription": "It flutters around flower meadows and takes care of buds that are starting to wilt. People who fill their gardens with their preferred flower receive its visit every spring. They are loyal and caring Pokemon.",
     "Baby": false,
     "PrimaryEggGroup": "Fairy",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "From": "Flabebe",
+            "Kind": "Level",
+            "Details": {
+                "speed": "Fast"
+            }
+        },
+        {
+            "To": "Florges",
+            "Kind": "Stone",
+            "Details": {
+                "item": "Shiny Stone"
+            }
+        }
+    ]
 }

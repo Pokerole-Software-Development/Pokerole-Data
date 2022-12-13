@@ -44,5 +44,22 @@
     "DexDescription": "Marill's tail acts like a floater. Seeing its tail bobbing on the water\u2019s surface is a sure indication that this Pokemon is diving to feed on algae and aquatic plants. This Pokemon is curious towards humans.",
     "Baby": false,
     "PrimaryEggGroup": "Water 1",
-    "SecondaryEggGroup": "Fairy"
+    "SecondaryEggGroup": "Fairy",
+    "Evolutions": [
+        {
+            "From": "Azurill",
+            "Kind": "Stat",
+            "Details": {
+                "stat": "Happiness",
+                "value": 4
+            }
+        },
+        {
+            "To": "Azumarill",
+            "Kind": "Level",
+            "Details": {
+                "speed": "Medium"
+            }
+        }
+    ]
 }

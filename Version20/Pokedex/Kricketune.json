@@ -44,5 +44,14 @@
     "DexDescription": "It can make all kind of sounds with its antennae, arms and mouth. It signals emotions with different tunes but scientists still cannot define what they mean. They imitate the songs they hear.",
     "Baby": false,
     "PrimaryEggGroup": "Bug",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "From": "Kricketot",
+            "Kind": "Level",
+            "Details": {
+                "speed": "Fast"
+            }
+        }
+    ]
 }

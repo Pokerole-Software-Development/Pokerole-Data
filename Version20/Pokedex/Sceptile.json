@@ -50,5 +50,19 @@
             "Name": "Mega-Sceptile",
             "Item": "Sceptilite"
         }
+    ],
+    "Evolutions": [
+        {
+            "From": "Grovyle",
+            "Kind": "Level",
+            "Details": {
+                "speed": "Medium"
+            }
+        },
+        {
+            "To": "Mega-Sceptile",
+            "Kind": "Mega",
+            "Details": ""
+        }
     ]
 }

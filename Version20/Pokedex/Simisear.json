@@ -44,5 +44,14 @@
     "DexDescription": "A flame burns on top of its head. It scatters embers from its head and tail to sear its opponents. It loves sweets and is not afraid to go near humans to try to get some candy by begging or by stealing.",
     "Baby": false,
     "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "From": "Pansear",
+            "Kind": "Stone",
+            "Details": {
+                "item": "Fire Stone"
+            }
+        }
+    ]
 }

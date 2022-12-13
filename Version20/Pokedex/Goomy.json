@@ -44,5 +44,14 @@
     "DexDescription": "The weakest but best tempered Dragon Pokemon known. It lives in damp and shady places, so its body doesn\u2019t dry out. It\u2019s covered in a slimy membrane that makes things slide off of it.",
     "Baby": false,
     "PrimaryEggGroup": "Dragon",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "To": "Sliggoo",
+            "Kind": "Level",
+            "Details": {
+                "speed": "Medium"
+            }
+        }
+    ]
 }

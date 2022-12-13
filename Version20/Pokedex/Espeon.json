@@ -44,5 +44,16 @@
     "DexDescription": "Espeon is extremely loyal to the trainer it considers worthy. It is said to have developed precognitive powers to protect its trainer from harm. The orb on its forehead glows whenever it uses psychic energy.",
     "Baby": false,
     "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "From": "Eevee",
+            "Kind": "Special",
+            "Details": {
+                "stat": "Happiness",
+                "value": 4,
+                "special": "Sunlight"
+            }
+        }
+    ]
 }

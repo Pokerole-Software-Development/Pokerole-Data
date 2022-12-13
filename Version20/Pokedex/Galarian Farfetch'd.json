@@ -44,5 +44,14 @@
     "DexDescription": "The stalks of leeks are thicker and longer in the Galar region, this has allowed Farfetch'd fare better than their Kanto counterparts. It has also made them hardier and warrior-like. They are still delicious, though.",
     "Baby": false,
     "PrimaryEggGroup": "Flying",
-    "SecondaryEggGroup": "Field"
+    "SecondaryEggGroup": "Field",
+    "Evolutions": [
+        {
+            "To": "Sirfetch'd",
+            "Kind": "Special",
+            "Details": {
+                "special": "Score 3 Critical hits in 1 battle"
+            }
+        }
+    ]
 }

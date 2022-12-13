@@ -50,5 +50,19 @@
             "Name": "Mega-Houndoom",
             "Item": "Houndoominite"
         }
+    ],
+    "Evolutions": [
+        {
+            "From": "Houndour",
+            "Kind": "Level",
+            "Details": {
+                "speed": "Medium"
+            }
+        },
+        {
+            "To": "Mega-Houndoom",
+            "Kind": "Mega",
+            "Details": ""
+        }
     ]
 }

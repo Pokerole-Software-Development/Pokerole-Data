@@ -44,5 +44,14 @@
     "DexDescription": "Its hairs work like muscle fibers. When its hairs unfurl, they latch on to opponents, ensnaring them as tentacles would. They often make others trip or get them hanging upside down to amuse themselves.",
     "Baby": false,
     "PrimaryEggGroup": "Fairy",
-    "SecondaryEggGroup": "Human-Like"
+    "SecondaryEggGroup": "Human-Like",
+    "Evolutions": [
+        {
+            "From": "Morgrem",
+            "Kind": "Level",
+            "Details": {
+                "speed": "Medium"
+            }
+        }
+    ]
 }

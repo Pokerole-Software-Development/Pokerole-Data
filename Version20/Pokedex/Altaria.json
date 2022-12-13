@@ -50,5 +50,19 @@
             "Name": "Mega-Altaria",
             "Item": "Altarianite"
         }
+    ],
+    "Evolutions": [
+        {
+            "From": "Swablu",
+            "Kind": "Level",
+            "Details": {
+                "speed": "Slow"
+            }
+        },
+        {
+            "To": "Mega-Altaria",
+            "Kind": "Mega",
+            "Details": ""
+        }
     ]
 }

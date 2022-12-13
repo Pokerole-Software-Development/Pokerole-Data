@@ -44,5 +44,14 @@
     "DexDescription": "They feed on dark emotions such as envy, jealousy and vengefulness. If they sting you, they\u2019ll fill you with a vindictive desire. They don\u2019t have bodies under their blanket and they are looking for a body to possess",
     "Baby": false,
     "PrimaryEggGroup": "Amorphous",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "To": "Banette",
+            "Kind": "Level",
+            "Details": {
+                "speed": "Medium"
+            }
+        }
+    ]
 }

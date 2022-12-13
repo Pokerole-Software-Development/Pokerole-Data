@@ -44,5 +44,14 @@
     "DexDescription": "Luring prey with a sweet scent, it uses the poison on its thorn-filled arm-whips to poison, bind and finish off the prey. It has a dangerous appeal mixed with a graceful personality. It\u2019s very rare in the wild.",
     "Baby": false,
     "PrimaryEggGroup": "Fairy",
-    "SecondaryEggGroup": "Grass"
+    "SecondaryEggGroup": "Grass",
+    "Evolutions": [
+        {
+            "From": "Roselia",
+            "Kind": "Stone",
+            "Details": {
+                "item": "Shiny Stone"
+            }
+        }
+    ]
 }

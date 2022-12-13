@@ -44,5 +44,14 @@
     "DexDescription": "They live hidden under the desert sands with only their eyes and nostrils visible. They don\u2019t prey on anything bigger than themselves but can be troublesome if they are being leaded by one of it\u2019s evolved forms.",
     "Baby": false,
     "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "To": "Krokorok",
+            "Kind": "Level",
+            "Details": {
+                "speed": "Medium"
+            }
+        }
+    ]
 }

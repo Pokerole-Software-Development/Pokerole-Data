@@ -44,5 +44,14 @@
     "DexDescription": "This Pokemon has a jaw that\u2019s as sharp as a spear and as strong as steel. Apparently Barraskewda's flesh is surprisingly tasty, too. When they hunt, they have speed burst record of 100 knots.",
     "Baby": false,
     "PrimaryEggGroup": "Water 2",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "From": "Arrokuda",
+            "Kind": "Level",
+            "Details": {
+                "speed": "Medium"
+            }
+        }
+    ]
 }

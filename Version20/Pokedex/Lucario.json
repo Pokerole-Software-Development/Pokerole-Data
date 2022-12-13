@@ -50,5 +50,20 @@
             "Name": "Mega-Lucario",
             "Item": "Lucarionite"
         }
+    ],
+    "Evolutions": [
+        {
+            "From": "Riolu",
+            "Kind": "Stat",
+            "Details": {
+                "stat": "Loyalty",
+                "value": 5
+            }
+        },
+        {
+            "To": "Mega-Lucario",
+            "Kind": "Mega",
+            "Details": ""
+        }
     ]
 }

@@ -44,5 +44,21 @@
     "DexDescription": "They tether themselves to tree branches while they wait to evolve. Sometimes they peek from a small hole in the cocoon. Silcoons feed only on raindrops. If Wrumple lived among flowers, it evolves to Silcoon.",
     "Baby": false,
     "PrimaryEggGroup": "Bug",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "From": "Wurmple",
+            "Kind": "Level",
+            "Details": {
+                "speed": "Fast"
+            }
+        },
+        {
+            "To": "Beautifly",
+            "Kind": "Level",
+            "Details": {
+                "speed": "Fast"
+            }
+        }
+    ]
 }

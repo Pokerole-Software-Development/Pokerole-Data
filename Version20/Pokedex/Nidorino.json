@@ -44,5 +44,21 @@
     "DexDescription": "An independent and fierce creature. It roams alone in search for a mate and will compete with other males around. It will violently charge with a venom drenched horn against intruders.",
     "Baby": false,
     "PrimaryEggGroup": "Monster",
-    "SecondaryEggGroup": "Field"
+    "SecondaryEggGroup": "Field",
+    "Evolutions": [
+        {
+            "From": "Nidoran M",
+            "Kind": "Level",
+            "Details": {
+                "speed": "Medium"
+            }
+        },
+        {
+            "To": "Nidoking",
+            "Kind": "Stone",
+            "Details": {
+                "item": "Moon Stone"
+            }
+        }
+    ]
 }

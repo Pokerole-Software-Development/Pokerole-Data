@@ -44,5 +44,14 @@
     "DexDescription": "Their magnetic noses always point to the north. They were thought to be immobile, but it was recently revealed that they actually move 3/8 of an inch every year. They get a little crazy when magnets are close.",
     "Baby": false,
     "PrimaryEggGroup": "Mineral",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "To": "Probopass",
+            "Kind": "Special",
+            "Details": {
+                "special": "A trip to New Mauville"
+            }
+        }
+    ]
 }

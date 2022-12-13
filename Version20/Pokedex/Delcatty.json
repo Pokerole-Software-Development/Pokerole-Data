@@ -44,5 +44,14 @@
     "DexDescription": "They like to live without restrictions, spending their time eating and sleeping whenever they feel like it. Popular among females. Delcatties love clean places, good food and to groom themselves.",
     "Baby": false,
     "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": "Fairy"
+    "SecondaryEggGroup": "Fairy",
+    "Evolutions": [
+        {
+            "From": "Skitty",
+            "Kind": "Stone",
+            "Details": {
+                "item": "Moon Stone"
+            }
+        }
+    ]
 }

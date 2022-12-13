@@ -44,5 +44,14 @@
     "DexDescription": "They gather in small groups around the mountains to train and master new techniques. They use their sharp claws to damage their foes. Only those Mienfoo that excel at fighting in the group evolve.",
     "Baby": false,
     "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": "Human-Like"
+    "SecondaryEggGroup": "Human-Like",
+    "Evolutions": [
+        {
+            "To": "Mienshao",
+            "Kind": "Level",
+            "Details": {
+                "speed": "Medium"
+            }
+        }
+    ]
 }

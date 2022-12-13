@@ -44,5 +44,14 @@
     "DexDescription": "It lives at the bottom of the sea and rivers. It feeds on algae but it\u2019s attracted to sweet substances. When frightened it will shut its clam and lock it to be almost impossible to open.",
     "Baby": false,
     "PrimaryEggGroup": "Water 3",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "To": "Cloyster",
+            "Kind": "Level",
+            "Details": {
+                "speed": "Medium"
+            }
+        }
+    ]
 }

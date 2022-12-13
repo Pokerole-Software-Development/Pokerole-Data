@@ -44,5 +44,22 @@
     "DexDescription": "Although there have been very few sightings of this Pokemon in the wild, it is known to appear before kind hearted people and grant them happiness. It is very energetic and friendly.",
     "Baby": false,
     "PrimaryEggGroup": "Flying",
-    "SecondaryEggGroup": "Fairy"
+    "SecondaryEggGroup": "Fairy",
+    "Evolutions": [
+        {
+            "From": "Togepi",
+            "Kind": "Stat",
+            "Details": {
+                "stat": "Happiness",
+                "value": 5
+            }
+        },
+        {
+            "To": "Togekiss",
+            "Kind": "Stone",
+            "Details": {
+                "item": "Shiny Stone"
+            }
+        }
+    ]
 }

@@ -50,5 +50,19 @@
             "Name": "Mega-Sharpedo",
             "Item": "Sharpedonite"
         }
+    ],
+    "Evolutions": [
+        {
+            "From": "Carvanha",
+            "Kind": "Level",
+            "Details": {
+                "speed": "Medium"
+            }
+        },
+        {
+            "To": "Mega-Sharpedo",
+            "Kind": "Mega",
+            "Details": ""
+        }
     ]
 }

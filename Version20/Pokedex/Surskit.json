@@ -44,5 +44,14 @@
     "DexDescription": "Surskit secretes oil from its feet to skate on water. It may be found on ponds, lakes and puddles in towns. The tip of its head produces a delicious sugary syrup often used in desserts and sweets.",
     "Baby": false,
     "PrimaryEggGroup": "Water 1",
-    "SecondaryEggGroup": "Bug"
+    "SecondaryEggGroup": "Bug",
+    "Evolutions": [
+        {
+            "To": "Masquerain",
+            "Kind": "Level",
+            "Details": {
+                "speed": "Fast"
+            }
+        }
+    ]
 }

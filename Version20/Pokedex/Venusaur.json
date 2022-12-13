@@ -50,5 +50,19 @@
             "Name": "Mega-Venusaur",
             "Item": "Venusaurite"
         }
+    ],
+    "Evolutions": [
+        {
+            "From": "Ivysaur",
+            "Kind": "Level",
+            "Details": {
+                "speed": "Medium"
+            }
+        },
+        {
+            "To": "Mega-Venusaur",
+            "Kind": "Mega",
+            "Details": ""
+        }
     ]
 }

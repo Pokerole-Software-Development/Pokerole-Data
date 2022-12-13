@@ -44,5 +44,14 @@
     "DexDescription": "There is an ancient myth that a Pokemon once taught a group of humans how to work the iron, melt it and shape it into tools; but it was punished for this and cast away, never to be seen again.",
     "Baby": false,
     "PrimaryEggGroup": "Undiscovered",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "From": "Meltan",
+            "Kind": "Level",
+            "Details": {
+                "speed": "Unknown"
+            }
+        }
+    ]
 }

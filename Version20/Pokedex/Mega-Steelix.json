@@ -45,5 +45,12 @@
     "Baby": false,
     "PrimaryEggGroup": "Mineral",
     "SecondaryEggGroup": "",
-    "MegaBaseForm": "Steelix"
+    "MegaBaseForm": "Steelix",
+    "Evolutions": [
+        {
+            "From": "Steelix",
+            "Kind": "Mega",
+            "Details": ""
+        }
+    ]
 }

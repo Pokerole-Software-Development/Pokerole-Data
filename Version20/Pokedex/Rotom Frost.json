@@ -44,5 +44,12 @@
     "DexDescription": "A refrigerator possessed by a Rotom. It uses Ice powers, traps people inside and freezes them in solid ice blocks. While on this form it can use the move: Blizzard.",
     "Baby": false,
     "PrimaryEggGroup": "Amorphous",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "From": "Rotom",
+            "Kind": "Form",
+            "Details": ""
+        }
+    ]
 }

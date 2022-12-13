@@ -44,5 +44,21 @@
     "DexDescription": "The two heads do not get along with each other as they compete for food. For this reason , Zweilous usually eats more than it should. Touching it carelessly can get you attacked by one or both heads.",
     "Baby": false,
     "PrimaryEggGroup": "Dragon",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "From": "Deino",
+            "Kind": "Level",
+            "Details": {
+                "speed": "Slow"
+            }
+        },
+        {
+            "To": "Hydreigon",
+            "Kind": "Level",
+            "Details": {
+                "speed": "Slow"
+            }
+        }
+    ]
 }

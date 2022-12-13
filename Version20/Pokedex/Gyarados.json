@@ -50,5 +50,19 @@
             "Name": "Mega-Gyarados",
             "Item": "Gyaradosite"
         }
+    ],
+    "Evolutions": [
+        {
+            "From": "Magikarp",
+            "Kind": "Level",
+            "Details": {
+                "speed": "Slow"
+            }
+        },
+        {
+            "To": "Mega-Gyarados",
+            "Kind": "Mega",
+            "Details": ""
+        }
     ]
 }

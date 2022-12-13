@@ -44,5 +44,14 @@
     "DexDescription": "It prefers dark places and spends most of its time underground. It has a very thin skin. It\u2019s frail and has problems regulating its own temperature. Keep it burrowed or it will get sick.",
     "Baby": false,
     "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "To": "Dugtrio",
+            "Kind": "Level",
+            "Details": {
+                "speed": "Medium"
+            }
+        }
+    ]
 }

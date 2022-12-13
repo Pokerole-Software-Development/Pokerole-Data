@@ -44,5 +44,14 @@
     "DexDescription": "This Pokemon was brought to Alola in an attempt to eradicate Ratatta. It spends all day searching for prey and it\u2019s constantly hungry. when the sun sets it falls asleep right where it was standing.",
     "Baby": false,
     "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "To": "Gumshoos",
+            "Kind": "Level",
+            "Details": {
+                "speed": "Medium"
+            }
+        }
+    ]
 }

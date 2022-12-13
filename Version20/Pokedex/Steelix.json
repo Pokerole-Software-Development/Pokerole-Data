@@ -50,5 +50,19 @@
             "Name": "Mega-Steelix",
             "Item": "Steelixite"
         }
+    ],
+    "Evolutions": [
+        {
+            "From": "Onix",
+            "Kind": "Trade",
+            "Details": {
+                "item": "Metal Coat"
+            }
+        },
+        {
+            "To": "Mega-Steelix",
+            "Kind": "Mega",
+            "Details": ""
+        }
     ]
 }

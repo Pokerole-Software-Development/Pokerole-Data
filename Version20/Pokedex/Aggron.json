@@ -50,5 +50,19 @@
             "Name": "Mega-Aggron",
             "Item": "Aggronite"
         }
+    ],
+    "Evolutions": [
+        {
+            "From": "Lairon",
+            "Kind": "Level",
+            "Details": {
+                "speed": "Slow"
+            }
+        },
+        {
+            "To": "Mega-Aggron",
+            "Kind": "Mega",
+            "Details": ""
+        }
     ]
 }

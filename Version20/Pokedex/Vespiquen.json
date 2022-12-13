@@ -44,5 +44,15 @@
     "DexDescription": "This Pokemon is female only. It raises grubs in the holes in its body and secretes pheromones to control Combee to fight and gather honey for her. It is a royal Pokemon that won\u2019t take orders from anyone.",
     "Baby": false,
     "PrimaryEggGroup": "Bug",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "From": "Combee",
+            "Kind": "Level",
+            "Details": {
+                "speed": "Slow",
+                "gender": "Female"
+            }
+        }
+    ]
 }

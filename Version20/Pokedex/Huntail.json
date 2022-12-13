@@ -44,5 +44,14 @@
     "DexDescription": "It lives at extreme depths of the sea. Their eyes can see perfectly in complete darkness. Huntails light up their tail to attract their prey, then swallow them whole with a single bite.",
     "Baby": false,
     "PrimaryEggGroup": "Water 1",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "From": "Clamperl",
+            "Kind": "Trade",
+            "Details": {
+                "item": "Dragon Fang"
+            }
+        }
+    ]
 }

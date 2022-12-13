@@ -44,5 +44,14 @@
     "DexDescription": "Their antennas look like terrifying eyes. Masquerains can fly in any direction like a helicopter, but their wings are soft and fragile, so they can\u2019t fly when it\u2019s raining. They cling to trees at night to sleep.",
     "Baby": false,
     "PrimaryEggGroup": "Water 1",
-    "SecondaryEggGroup": "Bug"
+    "SecondaryEggGroup": "Bug",
+    "Evolutions": [
+        {
+            "From": "Surskit",
+            "Kind": "Level",
+            "Details": {
+                "speed": "Fast"
+            }
+        }
+    ]
 }

@@ -44,5 +44,19 @@
     "DexDescription": "The legend tells of how this Pokemon lead the first King of Kalos to victory. A crushing grip can be felt on the arm of the wielder. While in this form it can only use Support moves.",
     "Baby": false,
     "PrimaryEggGroup": "Mineral",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "From": "Doublade",
+            "Kind": "Stone",
+            "Details": {
+                "item": "Dusk Stone"
+            }
+        },
+        {
+            "To": "Form Aegislash",
+            "Kind": "Form",
+            "Details": ""
+        }
+    ]
 }

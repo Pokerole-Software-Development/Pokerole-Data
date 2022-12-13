@@ -44,5 +44,12 @@
     "DexDescription": "The Alolan variant of Golem does not roll around like its counterpart, instead it loads rocks into the charger on its head and shoots them around, if the rocks miss, the electric shockwave doesn\u2019t.",
     "Baby": false,
     "PrimaryEggGroup": "Mineral",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "From": "Alolan Graveler",
+            "Kind": "Trade",
+            "Details": ""
+        }
+    ]
 }

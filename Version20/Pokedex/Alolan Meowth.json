@@ -44,5 +44,14 @@
     "DexDescription": "In old times, Meowth were taken to Alola as gifts for the tribe\u2019s royals, this caused them to become incredibly greedy and pampered. Nowadays they are feral, but their prideful nature remained.",
     "Baby": false,
     "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "To": "Alolan Persian",
+            "Kind": "Level",
+            "Details": {
+                "speed": "Medium"
+            }
+        }
+    ]
 }

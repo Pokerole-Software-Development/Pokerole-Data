@@ -45,5 +45,12 @@
     "Baby": false,
     "PrimaryEggGroup": "Monster",
     "SecondaryEggGroup": "",
-    "MegaBaseForm": "Kangaskhan"
+    "MegaBaseForm": "Kangaskhan",
+    "Evolutions": [
+        {
+            "From": "Kangaskhan",
+            "Kind": "Mega",
+            "Details": ""
+        }
+    ]
 }

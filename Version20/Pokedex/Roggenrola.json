@@ -44,5 +44,14 @@
     "DexDescription": "It is made from compressed rock, making it\u2019s body almost as hard as steel. It is blind, what looks like it\u2019s eye is really an ear, for this reason it can live in the darkest of caves feeding on rocks to grow stronger.",
     "Baby": false,
     "PrimaryEggGroup": "Mineral",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "To": "Boldore",
+            "Kind": "Level",
+            "Details": {
+                "speed": "Medium"
+            }
+        }
+    ]
 }

@@ -50,5 +50,19 @@
             "Name": "Mega-Salamence",
             "Item": "Salamencite"
         }
+    ],
+    "Evolutions": [
+        {
+            "From": "Shelgon",
+            "Kind": "Level",
+            "Details": {
+                "speed": "Slow"
+            }
+        },
+        {
+            "To": "Mega-Salamence",
+            "Kind": "Mega",
+            "Details": ""
+        }
     ]
 }

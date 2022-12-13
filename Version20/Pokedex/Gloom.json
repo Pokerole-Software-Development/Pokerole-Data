@@ -44,5 +44,28 @@
     "DexDescription": "A horribly noxious honey drools from its mouth. One whiff of the honey can result in sickness. Some fans are said to enjoy its overwhelming stink, though. You can control this foul smell with lots of love and care.",
     "Baby": false,
     "PrimaryEggGroup": "Grass",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "From": "Oddish",
+            "Kind": "Level",
+            "Details": {
+                "speed": "Medium"
+            }
+        },
+        {
+            "To": "Vileplume",
+            "Kind": "Stone",
+            "Details": {
+                "item": "Leaf Stone"
+            }
+        },
+        {
+            "To": "Bellossom",
+            "Kind": "Stone",
+            "Details": {
+                "item": "Sun Stone"
+            }
+        }
+    ]
 }

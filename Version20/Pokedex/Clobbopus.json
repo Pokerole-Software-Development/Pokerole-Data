@@ -44,5 +44,14 @@
     "DexDescription": "It\u2019s very curious and child-like, but it investigates things by try to punch them with its tentacles, despite this, the tentacles tear off easily, but don\u2019t be alarmed for they\u2019ll regrow in a few days.",
     "Baby": false,
     "PrimaryEggGroup": "Water 1",
-    "SecondaryEggGroup": "Human-Like"
+    "SecondaryEggGroup": "Human-Like",
+    "Evolutions": [
+        {
+            "To": "Grapploct",
+            "Kind": "Level",
+            "Details": {
+                "speed": "Medium"
+            }
+        }
+    ]
 }

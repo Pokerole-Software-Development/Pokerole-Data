@@ -50,5 +50,19 @@
             "Name": "Mega-Pidgeot",
             "Item": "Pidgeotite"
         }
+    ],
+    "Evolutions": [
+        {
+            "From": "Pidgeotto",
+            "Kind": "Level",
+            "Details": {
+                "speed": "Medium"
+            }
+        },
+        {
+            "To": "Mega-Pidgeot",
+            "Kind": "Mega",
+            "Details": ""
+        }
     ]
 }

@@ -44,5 +44,14 @@
     "DexDescription": "This Pokemon is reckless and has a short temper. As its electric charge amplifies, blue sparks begin to crackle between its horns. It has registered charge levels of over 20,000 Volts.",
     "Baby": false,
     "PrimaryEggGroup": "Human-Like",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "From": "Electabuzz",
+            "Kind": "Trade",
+            "Details": {
+                "item": "Electirizer"
+            }
+        }
+    ]
 }

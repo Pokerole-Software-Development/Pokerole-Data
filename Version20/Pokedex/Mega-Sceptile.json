@@ -45,5 +45,12 @@
     "Baby": false,
     "PrimaryEggGroup": "Monster",
     "SecondaryEggGroup": "Dragon",
-    "MegaBaseForm": "Sceptile"
+    "MegaBaseForm": "Sceptile",
+    "Evolutions": [
+        {
+            "From": "Sceptile",
+            "Kind": "Mega",
+            "Details": ""
+        }
+    ]
 }

@@ -44,5 +44,14 @@
     "DexDescription": "Often found in forests eating leaves. It has a sharp, venomous stinger on its head for defense. It has an acute sense of smell to find food, and its bright-colored body is intended to warn off predators.",
     "Baby": false,
     "PrimaryEggGroup": "Bug",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "To": "Kakuna",
+            "Kind": "Level",
+            "Details": {
+                "speed": "Fast"
+            }
+        }
+    ]
 }

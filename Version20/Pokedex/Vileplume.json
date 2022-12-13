@@ -44,5 +44,14 @@
     "DexDescription": "It lives in marshlands and jungles where it\u2019s often mistaken for local flora. The air around a Vileplume turns yellow with the powder it releases as it walks. The pollen is highly toxic and causes paralysis.",
     "Baby": false,
     "PrimaryEggGroup": "Grass",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "From": "Gloom",
+            "Kind": "Stone",
+            "Details": {
+                "item": "Leaf Stone"
+            }
+        }
+    ]
 }

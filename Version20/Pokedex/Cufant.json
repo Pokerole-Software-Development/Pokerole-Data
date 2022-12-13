@@ -44,5 +44,14 @@
     "DexDescription": "If a job requires serious strength, this Pokemon will excel at it. Its copper body tarnishes in the rain, turning a vibrant green color. Its trunk is specially designed to dig the ground, in the wild they uproot trees to eat.",
     "Baby": false,
     "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": "Mineral"
+    "SecondaryEggGroup": "Mineral",
+    "Evolutions": [
+        {
+            "To": "Copperajah",
+            "Kind": "Level",
+            "Details": {
+                "speed": "Medium"
+            }
+        }
+    ]
 }

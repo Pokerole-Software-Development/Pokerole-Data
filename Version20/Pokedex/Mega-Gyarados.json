@@ -45,5 +45,12 @@
     "Baby": false,
     "PrimaryEggGroup": "Water 2",
     "SecondaryEggGroup": "Dragon",
-    "MegaBaseForm": "Gyarados"
+    "MegaBaseForm": "Gyarados",
+    "Evolutions": [
+        {
+            "From": "Gyarados",
+            "Kind": "Mega",
+            "Details": ""
+        }
+    ]
 }

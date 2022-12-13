@@ -54,5 +54,24 @@
             "Name": "Mega-Charizard X",
             "Item": "Charizardite X"
         }
+    ],
+    "Evolutions": [
+        {
+            "From": "Charmeleon",
+            "Kind": "Level",
+            "Details": {
+                "speed": "Medium"
+            }
+        },
+        {
+            "To": "Mega-Charizard Y",
+            "Kind": "Mega",
+            "Details": ""
+        },
+        {
+            "To": "Mega-Charizard X",
+            "Kind": "Mega",
+            "Details": ""
+        }
     ]
 }

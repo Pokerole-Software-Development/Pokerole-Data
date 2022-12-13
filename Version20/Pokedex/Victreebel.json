@@ -44,5 +44,14 @@
     "DexDescription": "They live together in small groups at tropical areas. Victreebel uses a sweet honey-like smell to lure and attract prey. They also use their long vines to rustle bushes around. They are territorial and aggressive.",
     "Baby": false,
     "PrimaryEggGroup": "Grass",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "From": "Weepinbell",
+            "Kind": "Stone",
+            "Details": {
+                "item": "Leaf Stone"
+            }
+        }
+    ]
 }

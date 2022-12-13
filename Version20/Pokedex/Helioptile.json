@@ -44,5 +44,14 @@
     "DexDescription": "They make their home in deserts. Using the sun, they can generate their energy by basking their frills since food is scarce where they live. They run pretty fast as to not burn themselves with the hot sand.",
     "Baby": false,
     "PrimaryEggGroup": "Monster",
-    "SecondaryEggGroup": "Dragon"
+    "SecondaryEggGroup": "Dragon",
+    "Evolutions": [
+        {
+            "To": "Heliolisk",
+            "Kind": "Stone",
+            "Details": {
+                "item": "Sun Stone"
+            }
+        }
+    ]
 }

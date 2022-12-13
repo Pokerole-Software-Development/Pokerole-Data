@@ -44,5 +44,14 @@
     "DexDescription": "They live in small herds close to the mountains. It blocks attacks with the ice that shields its body and uses cold air to repair any cracks with new ice. They are wary of humans as they rarely get to see one.",
     "Baby": false,
     "PrimaryEggGroup": "Monster",
-    "SecondaryEggGroup": "Mineral"
+    "SecondaryEggGroup": "Mineral",
+    "Evolutions": [
+        {
+            "To": "Avalugg",
+            "Kind": "Level",
+            "Details": {
+                "speed": "Slow"
+            }
+        }
+    ]
 }

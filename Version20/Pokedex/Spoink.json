@@ -44,5 +44,14 @@
     "DexDescription": "They are always bouncing with their tail. If they ever stop, their heart wouldn\u2019t beat anymore. Spoinks balance a pearl from Clamperl on their head, if it\u2019s lost, they won\u2019t be able to control their psychic powers.",
     "Baby": false,
     "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "To": "Grumpig",
+            "Kind": "Level",
+            "Details": {
+                "speed": "Medium"
+            }
+        }
+    ]
 }

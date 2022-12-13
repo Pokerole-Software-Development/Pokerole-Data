@@ -44,5 +44,15 @@
     "DexDescription": "They launch high speed kicks while spinning so fast that they get drilled into the ground. They move quicker by spinning than they do walking. They are very smart and like to perform dance-like kicks.",
     "Baby": false,
     "PrimaryEggGroup": "Human-Like",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "From": "Tyrogue",
+            "Kind": "Stat",
+            "Details": {
+                "stat": "Dexterity",
+                "value": -1
+            }
+        }
+    ]
 }

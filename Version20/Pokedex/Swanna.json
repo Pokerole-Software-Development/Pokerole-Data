@@ -44,5 +44,14 @@
     "DexDescription": "Swanna come out to dance at dusk. The one dancing in the middle is the leader of the flock. Despite their elegant and frail appearance, they can flap their wings strongly and fly for thousands of miles.",
     "Baby": false,
     "PrimaryEggGroup": "Water 1",
-    "SecondaryEggGroup": "Flying"
+    "SecondaryEggGroup": "Flying",
+    "Evolutions": [
+        {
+            "From": "Ducklett",
+            "Kind": "Level",
+            "Details": {
+                "speed": "Medium"
+            }
+        }
+    ]
 }

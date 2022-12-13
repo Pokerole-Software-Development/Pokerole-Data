@@ -44,5 +44,14 @@
     "DexDescription": "When it swims close the ocean\u2019s surface people aboard ships are able to observe the pattern on its back as it is different in every region. Mantyke is an intelligent and friendly Pokemon that rarely attacks others.",
     "Baby": true,
     "PrimaryEggGroup": "Undiscovered",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "To": "Mantine",
+            "Kind": "Special",
+            "Details": {
+                "special": "Hit by Remoraid"
+            }
+        }
+    ]
 }

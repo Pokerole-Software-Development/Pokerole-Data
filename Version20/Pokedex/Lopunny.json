@@ -50,5 +50,20 @@
             "Name": "Mega-Lopunny",
             "Item": "Lopunnite"
         }
+    ],
+    "Evolutions": [
+        {
+            "From": "Buneary",
+            "Kind": "Stat",
+            "Details": {
+                "stat": "Happiness",
+                "value": 4
+            }
+        },
+        {
+            "To": "Mega-Lopunny",
+            "Kind": "Mega",
+            "Details": ""
+        }
     ]
 }

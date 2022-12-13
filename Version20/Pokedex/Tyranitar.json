@@ -50,5 +50,19 @@
             "Name": "Mega-Tyranitar",
             "Item": "Tyranitarite"
         }
+    ],
+    "Evolutions": [
+        {
+            "From": "Pupitar",
+            "Kind": "Level",
+            "Details": {
+                "speed": "Slow"
+            }
+        },
+        {
+            "To": "Mega-Tyranitar",
+            "Kind": "Mega",
+            "Details": ""
+        }
     ]
 }

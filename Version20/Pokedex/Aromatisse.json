@@ -44,5 +44,14 @@
     "DexDescription": "Its scent is so overpowering that makes it difficult to simply be in close proximity to it. It emits scents that its foes dislike in order to gain an edge in battle. They can also produce pleasant and healing aromas.",
     "Baby": false,
     "PrimaryEggGroup": "Fairy",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "From": "Spritzee",
+            "Kind": "Trade",
+            "Details": {
+                "item": "Sachet"
+            }
+        }
+    ]
 }

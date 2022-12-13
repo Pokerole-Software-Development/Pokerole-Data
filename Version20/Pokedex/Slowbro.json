@@ -50,5 +50,19 @@
             "Name": "Mega-Slowbro",
             "Item": "Slowbronite"
         }
+    ],
+    "Evolutions": [
+        {
+            "From": "Slowpoke",
+            "Kind": "Level",
+            "Details": {
+                "speed": "Slow"
+            }
+        },
+        {
+            "To": "Mega-Slowbro",
+            "Kind": "Mega",
+            "Details": ""
+        }
     ]
 }

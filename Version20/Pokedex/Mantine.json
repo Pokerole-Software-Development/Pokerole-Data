@@ -44,5 +44,14 @@
     "DexDescription": "Mantine swims under water and over the waves, gliding for 300 ft in the air. They are intelligent and docile, traveling elegantly in groups. Remoraids can be seen hanging from their fins from time to time.",
     "Baby": false,
     "PrimaryEggGroup": "Water 1",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "From": "Mantyke",
+            "Kind": "Special",
+            "Details": {
+                "special": "Hit by Remoraid"
+            }
+        }
+    ]
 }

@@ -44,5 +44,14 @@
     "DexDescription": "There is a vast number of recipes to evolve an Alcremie, changing their color and flavor, some are sweet, some are sour but they are all delicious. Cakes baked with its help can be sold for a lot of money.",
     "Baby": false,
     "PrimaryEggGroup": "Fairy",
-    "SecondaryEggGroup": "Amorphous"
+    "SecondaryEggGroup": "Amorphous",
+    "Evolutions": [
+        {
+            "From": "Milcery",
+            "Kind": "Special",
+            "Details": {
+                "special": "Berry & spin"
+            }
+        }
+    ]
 }

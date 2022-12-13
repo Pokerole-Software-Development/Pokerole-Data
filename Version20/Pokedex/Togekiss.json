@@ -44,5 +44,14 @@
     "DexDescription": "Sightings of these Pokemon have become rare nowadays. They used to visit peaceful regions, bringing them gifts of kindness and great blessings. But they appear to have vanished in this times of conflict.",
     "Baby": false,
     "PrimaryEggGroup": "Flying",
-    "SecondaryEggGroup": "Fairy"
+    "SecondaryEggGroup": "Fairy",
+    "Evolutions": [
+        {
+            "From": "Togetic",
+            "Kind": "Stone",
+            "Details": {
+                "item": "Shiny Stone"
+            }
+        }
+    ]
 }

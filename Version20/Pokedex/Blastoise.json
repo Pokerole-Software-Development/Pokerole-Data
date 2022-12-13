@@ -50,5 +50,19 @@
             "Name": "Mega-Blastoise",
             "Item": "Blastoisinite"
         }
+    ],
+    "Evolutions": [
+        {
+            "From": "Wartortle",
+            "Kind": "Level",
+            "Details": {
+                "speed": "Medium"
+            }
+        },
+        {
+            "To": "Mega-Blastoise",
+            "Kind": "Mega",
+            "Details": ""
+        }
     ]
 }

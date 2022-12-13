@@ -44,5 +44,14 @@
     "DexDescription": "It lives at the darkest parts of the sea. The spots on its body flash to confuse predators and give it the opportunity to scuttle away. From time to time it likes to float upside down, it means it\u2019s close to evolving.",
     "Baby": false,
     "PrimaryEggGroup": "Water 1",
-    "SecondaryEggGroup": "Water 2"
+    "SecondaryEggGroup": "Water 2",
+    "Evolutions": [
+        {
+            "To": "Malamar",
+            "Kind": "Level",
+            "Details": {
+                "speed": "Medium"
+            }
+        }
+    ]
 }

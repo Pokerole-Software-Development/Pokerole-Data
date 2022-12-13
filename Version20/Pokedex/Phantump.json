@@ -44,5 +44,12 @@
     "DexDescription": "According to the old tales, these Pokemon are stumps possessed by the spirits of children who were lost in the forest. They prefer to live in abandoned woods and lure people to the darkness to play with them.",
     "Baby": false,
     "PrimaryEggGroup": "Grass",
-    "SecondaryEggGroup": "Amorphous"
+    "SecondaryEggGroup": "Amorphous",
+    "Evolutions": [
+        {
+            "To": "Trevenant",
+            "Kind": "Trade",
+            "Details": ""
+        }
+    ]
 }

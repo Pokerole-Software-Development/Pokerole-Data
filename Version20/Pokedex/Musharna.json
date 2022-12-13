@@ -44,5 +44,14 @@
     "DexDescription": "It communicates with the mist on its forehead, it can create shapes and images from dreams it has eaten. It is said that this Pokemon is a link between this world and a another one made entirely of dreams.",
     "Baby": false,
     "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "From": "Munna",
+            "Kind": "Stone",
+            "Details": {
+                "item": "Moon Stone"
+            }
+        }
+    ]
 }

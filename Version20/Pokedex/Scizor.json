@@ -50,5 +50,19 @@
             "Name": "Mega-Scizor",
             "Item": "Scizorite"
         }
+    ],
+    "Evolutions": [
+        {
+            "From": "Scyther",
+            "Kind": "Trade",
+            "Details": {
+                "item": "Metal Coat"
+            }
+        },
+        {
+            "To": "Mega-Scizor",
+            "Kind": "Mega",
+            "Details": ""
+        }
     ]
 }

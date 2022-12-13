@@ -44,5 +44,14 @@
     "DexDescription": "It is not full-size when it\u2019s born. Years of eating boulders make it a real giant. It lives on mountains and dark tunnels. Its frightening roars travel as echo through the cave. It is very aggressive towards others.",
     "Baby": false,
     "PrimaryEggGroup": "Mineral",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "To": "Steelix",
+            "Kind": "Trade",
+            "Details": {
+                "item": "Metal Coat"
+            }
+        }
+    ]
 }

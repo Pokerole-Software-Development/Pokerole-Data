@@ -44,5 +44,14 @@
     "DexDescription": "Good with children and old people, this gentle Pokemon is a favorite to keep as pet. It is very brave and smart and will protect it\u2019s trainer against any threat. It uses the hair on its head to feel its surroundings.",
     "Baby": false,
     "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "To": "Herdier",
+            "Kind": "Level",
+            "Details": {
+                "speed": "Medium"
+            }
+        }
+    ]
 }

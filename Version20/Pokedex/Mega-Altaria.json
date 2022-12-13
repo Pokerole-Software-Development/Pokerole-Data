@@ -45,5 +45,12 @@
     "Baby": false,
     "PrimaryEggGroup": "Flying",
     "SecondaryEggGroup": "Dragon",
-    "MegaBaseForm": "Altaria"
+    "MegaBaseForm": "Altaria",
+    "Evolutions": [
+        {
+            "From": "Altaria",
+            "Kind": "Mega",
+            "Details": ""
+        }
+    ]
 }

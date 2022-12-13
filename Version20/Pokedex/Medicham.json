@@ -50,5 +50,19 @@
             "Name": "Mega-Medicham",
             "Item": "Medichamite"
         }
+    ],
+    "Evolutions": [
+        {
+            "From": "Meditite",
+            "Kind": "Level",
+            "Details": {
+                "speed": "Medium"
+            }
+        },
+        {
+            "To": "Mega-Medicham",
+            "Kind": "Mega",
+            "Details": ""
+        }
     ]
 }

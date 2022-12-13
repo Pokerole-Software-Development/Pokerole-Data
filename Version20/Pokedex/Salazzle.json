@@ -44,5 +44,15 @@
     "DexDescription": "This Pokemon is Female only. It releases a powerful toxic gas that is filled with pheromones that help her keep her reverse harem of Salandit in check. This gas can be purified into expensive perfumes.",
     "Baby": false,
     "PrimaryEggGroup": "Monster",
-    "SecondaryEggGroup": "Dragon"
+    "SecondaryEggGroup": "Dragon",
+    "Evolutions": [
+        {
+            "From": "Salandit",
+            "Kind": "Level",
+            "Details": {
+                "speed": "Medium",
+                "gender": "Female"
+            }
+        }
+    ]
 }

@@ -44,5 +44,14 @@
     "DexDescription": "When forced to live on snow, its fire sac froze and now it generates cold. Darumaka uses low temperatures as energy, making it very energetic on winter. It is playful and likes to throw Snowballs.",
     "Baby": false,
     "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "To": "Galarian Darmanitan",
+            "Kind": "Stone",
+            "Details": {
+                "item": "Ice Stone"
+            }
+        }
+    ]
 }

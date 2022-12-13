@@ -44,5 +44,14 @@
     "DexDescription": "It is extremely rare. The Shellder on its head injects a poison that made it super intelligent. It takes a lot of interest in learning about Pokemon lore and legends. But if Shellder is knocked out it will forget everything.",
     "Baby": false,
     "PrimaryEggGroup": "Monster",
-    "SecondaryEggGroup": "Water 1"
+    "SecondaryEggGroup": "Water 1",
+    "Evolutions": [
+        {
+            "From": "Slowpoke",
+            "Kind": "Trade",
+            "Details": {
+                "item": "King's Rock"
+            }
+        }
+    ]
 }

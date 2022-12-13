@@ -44,5 +44,21 @@
     "DexDescription": "They are always agitated, anxious, excited or upset, rampaging over anything. They can\u2019t be still and they can\u2019t sleep. They get angry if they get bored and violent if there is no activity for them.",
     "Baby": false,
     "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "From": "Slakoth",
+            "Kind": "Level",
+            "Details": {
+                "speed": "Slow"
+            }
+        },
+        {
+            "To": "Slaking",
+            "Kind": "Level",
+            "Details": {
+                "speed": "Fast"
+            }
+        }
+    ]
 }

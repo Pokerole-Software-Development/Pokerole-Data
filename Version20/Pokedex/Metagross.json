@@ -50,5 +50,19 @@
             "Name": "Mega-Metagross",
             "Item": "Metagrossite"
         }
+    ],
+    "Evolutions": [
+        {
+            "From": "Metang",
+            "Kind": "Level",
+            "Details": {
+                "speed": "Slow"
+            }
+        },
+        {
+            "To": "Mega-Metagross",
+            "Kind": "Mega",
+            "Details": ""
+        }
     ]
 }

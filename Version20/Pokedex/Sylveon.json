@@ -44,5 +44,15 @@
     "DexDescription": "This rare and adorable Pokemon emanates a soothing aura to calm disturbances. It is said that only the Trainers who form an unbreakable bond with their Eevee can ever see this Pokemon.",
     "Baby": false,
     "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "From": "Eevee",
+            "Kind": "Stat",
+            "Details": {
+                "stat": "Loyalty",
+                "value": 5
+            }
+        }
+    ]
 }

@@ -44,5 +44,19 @@
     "DexDescription": "This Pokemon is very muscular and strongly built. It likes to show off it\u2019s strength and muscles. Some years back a famous wrestler got defeated in just a few seconds by one of these Pokemon.",
     "Baby": false,
     "PrimaryEggGroup": "Human-Like",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "From": "Timburr",
+            "Kind": "Level",
+            "Details": {
+                "speed": "Medium"
+            }
+        },
+        {
+            "To": "Conkeldurr",
+            "Kind": "Trade",
+            "Details": ""
+        }
+    ]
 }

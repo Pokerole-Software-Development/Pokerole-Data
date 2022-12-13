@@ -44,5 +44,14 @@
     "DexDescription": "It is very ill tempered and wild, there have been very few cases of it being successfully tamed. It can shoot lightning from it\u2019s mane in all directions. If you try to mount it without warning it will shock you.",
     "Baby": false,
     "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "From": "Blitzle",
+            "Kind": "Level",
+            "Details": {
+                "speed": "Medium"
+            }
+        }
+    ]
 }

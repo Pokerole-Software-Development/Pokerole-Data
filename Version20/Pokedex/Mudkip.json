@@ -44,5 +44,14 @@
     "DexDescription": "The fin on its head is a radar to sense movement underwater. They bury themselves under the mud at the water\u2019s edge and at the bottom of rivers. They never back away even if their foe is bigger.",
     "Baby": false,
     "PrimaryEggGroup": "Monster",
-    "SecondaryEggGroup": "Water 1"
+    "SecondaryEggGroup": "Water 1",
+    "Evolutions": [
+        {
+            "To": "Marshtomp",
+            "Kind": "Level",
+            "Details": {
+                "speed": "Medium"
+            }
+        }
+    ]
 }

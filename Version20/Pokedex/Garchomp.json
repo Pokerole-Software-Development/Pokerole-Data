@@ -50,5 +50,19 @@
             "Name": "Mega-Garchomp",
             "Item": "Garchompite"
         }
+    ],
+    "Evolutions": [
+        {
+            "From": "Gabite",
+            "Kind": "Level",
+            "Details": {
+                "speed": "Slow"
+            }
+        },
+        {
+            "To": "Mega-Garchomp",
+            "Kind": "Mega",
+            "Details": ""
+        }
     ]
 }

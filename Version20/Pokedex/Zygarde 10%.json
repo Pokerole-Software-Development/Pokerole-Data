@@ -44,5 +44,14 @@
     "DexDescription": "When 10% of the Zygarde Cells gather, they form this Pokemon, the more cells it gathers the more its strength will increase.",
     "Baby": false,
     "PrimaryEggGroup": "Undiscovered",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "From": "Zygarde Cell",
+            "Kind": "Special",
+            "Details": {
+                "item": "Zyguarde cells"
+            }
+        }
+    ]
 }

@@ -44,5 +44,14 @@
     "DexDescription": "They have adapted to live in the streets of big cities. They steal for fun but their victims can\u2019t help but forgive them. Their cute act is a ruse. People who keep them as pets often regret it.",
     "Baby": false,
     "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "To": "Liepard",
+            "Kind": "Level",
+            "Details": {
+                "speed": "Medium"
+            }
+        }
+    ]
 }

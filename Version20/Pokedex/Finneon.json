@@ -44,5 +44,14 @@
     "DexDescription": "The way its two-tail-fins flutter while it swims has earned Finneon the nickname \u201cBeautifly of the Sea.\u201d The line running down its side can store sunlight and glow brightly at night.",
     "Baby": false,
     "PrimaryEggGroup": "Water 2",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "To": "Lumineon",
+            "Kind": "Level",
+            "Details": {
+                "speed": "Medium"
+            }
+        }
+    ]
 }

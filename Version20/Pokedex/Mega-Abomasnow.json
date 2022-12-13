@@ -45,5 +45,12 @@
     "Baby": false,
     "PrimaryEggGroup": "Monster",
     "SecondaryEggGroup": "Grass",
-    "MegaBaseForm": "Abomasnow"
+    "MegaBaseForm": "Abomasnow",
+    "Evolutions": [
+        {
+            "From": "Abomasnow",
+            "Kind": "Mega",
+            "Details": ""
+        }
+    ]
 }
