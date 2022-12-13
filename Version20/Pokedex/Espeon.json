@@ -49,11 +49,9 @@
         {
             "From": "Eevee",
             "Kind": "Special",
-            "Details": {
-                "stat": "Happiness",
-                "value": 4,
-                "special": "Sunlight"
-            }
+            "Stat": "Happiness",
+            "Value": 4,
+            "Special": "Sunlight"
         }
     ]
 }

@@ -45,12 +45,11 @@
     "Baby": false,
     "PrimaryEggGroup": "Monster",
     "SecondaryEggGroup": "Water 1",
-    "MegaBaseForm": "Blastoise",
     "Evolutions": [
         {
             "From": "Blastoise",
             "Kind": "Mega",
-            "Details": ""
+            "Item": "Blastoisinite"
         }
     ]
 }

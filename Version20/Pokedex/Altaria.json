@@ -45,24 +45,16 @@
     "Baby": false,
     "PrimaryEggGroup": "Flying",
     "SecondaryEggGroup": "Dragon",
-    "MegaEvolutions": [
-        {
-            "Name": "Mega-Altaria",
-            "Item": "Altarianite"
-        }
-    ],
     "Evolutions": [
         {
             "From": "Swablu",
             "Kind": "Level",
-            "Details": {
-                "speed": "Slow"
-            }
+            "Speed": "Slow"
         },
         {
             "To": "Mega-Altaria",
             "Kind": "Mega",
-            "Details": ""
+            "Item": "Altarianite"
         }
     ]
 }

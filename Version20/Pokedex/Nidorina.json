@@ -49,16 +49,12 @@
         {
             "From": "Nidoran F",
             "Kind": "Level",
-            "Details": {
-                "speed": "Medium"
-            }
+            "Speed": "Medium"
         },
         {
             "To": "Nidoqueen",
             "Kind": "Stone",
-            "Details": {
-                "item": "Moon Stone"
-            }
+            "Item": "Moon Stone"
         }
     ]
 }

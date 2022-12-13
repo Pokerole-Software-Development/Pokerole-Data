@@ -49,14 +49,11 @@
         {
             "From": "Machop",
             "Kind": "Level",
-            "Details": {
-                "speed": "Medium"
-            }
+            "Speed": "Medium"
         },
         {
             "To": "Machamp",
-            "Kind": "Trade",
-            "Details": ""
+            "Kind": "Trade"
         }
     ]
 }

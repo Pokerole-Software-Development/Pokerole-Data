@@ -45,22 +45,15 @@
     "Baby": false,
     "PrimaryEggGroup": "Amorphous",
     "SecondaryEggGroup": "",
-    "MegaEvolutions": [
-        {
-            "Name": "Mega-Gengar",
-            "Item": "Gengarite"
-        }
-    ],
     "Evolutions": [
         {
             "From": "Haunter",
-            "Kind": "Trade",
-            "Details": ""
+            "Kind": "Trade"
         },
         {
             "To": "Mega-Gengar",
             "Kind": "Mega",
-            "Details": ""
+            "Item": "Gengarite"
         }
     ]
 }

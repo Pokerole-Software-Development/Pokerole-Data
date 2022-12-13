@@ -49,16 +49,12 @@
         {
             "To": "Slowbro",
             "Kind": "Level",
-            "Details": {
-                "speed": "Slow"
-            }
+            "Speed": "Slow"
         },
         {
             "To": "Slowking",
             "Kind": "Trade",
-            "Details": {
-                "item": "King's Rock"
-            }
+            "Item": "King's Rock"
         }
     ]
 }

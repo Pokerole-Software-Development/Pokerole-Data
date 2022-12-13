@@ -45,24 +45,16 @@
     "Baby": false,
     "PrimaryEggGroup": "Bug",
     "SecondaryEggGroup": "",
-    "MegaEvolutions": [
-        {
-            "Name": "Mega-Beedrill",
-            "Item": "Beedrillite"
-        }
-    ],
     "Evolutions": [
         {
             "From": "Kakuna",
             "Kind": "Level",
-            "Details": {
-                "speed": "Fast"
-            }
+            "Speed": "Fast"
         },
         {
             "To": "Mega-Beedrill",
             "Kind": "Mega",
-            "Details": ""
+            "Item": "Beedrillite"
         }
     ]
 }

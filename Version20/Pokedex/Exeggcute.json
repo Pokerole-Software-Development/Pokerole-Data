@@ -49,17 +49,13 @@
         {
             "To": "Exeggutor",
             "Kind": "Stone",
-            "Details": {
-                "item": "Leaf Stone"
-            }
+            "Item": "Leaf Stone"
         },
         {
             "To": "Alolan Exeggutor",
             "Kind": "Stone",
-            "Details": {
-                "item": "Leaf Stone",
-                "region": "Alola"
-            }
+            "Item": "Leaf Stone",
+            "Region": "Alola"
         }
     ]
 }

@@ -45,24 +45,16 @@
     "Baby": false,
     "PrimaryEggGroup": "Monster",
     "SecondaryEggGroup": "Dragon",
-    "MegaEvolutions": [
-        {
-            "Name": "Mega-Sceptile",
-            "Item": "Sceptilite"
-        }
-    ],
     "Evolutions": [
         {
             "From": "Grovyle",
             "Kind": "Level",
-            "Details": {
-                "speed": "Medium"
-            }
+            "Speed": "Medium"
         },
         {
             "To": "Mega-Sceptile",
             "Kind": "Mega",
-            "Details": ""
+            "Item": "Sceptilite"
         }
     ]
 }

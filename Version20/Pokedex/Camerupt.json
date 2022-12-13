@@ -45,24 +45,16 @@
     "Baby": false,
     "PrimaryEggGroup": "Field",
     "SecondaryEggGroup": "",
-    "MegaEvolutions": [
-        {
-            "Name": "Mega-Camerupt",
-            "Item": "Cameruptite"
-        }
-    ],
     "Evolutions": [
         {
             "From": "Numel",
             "Kind": "Level",
-            "Details": {
-                "speed": "Medium"
-            }
+            "Speed": "Medium"
         },
         {
             "To": "Mega-Camerupt",
             "Kind": "Mega",
-            "Details": ""
+            "Item": "Cameruptite"
         }
     ]
 }

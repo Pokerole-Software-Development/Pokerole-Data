@@ -49,63 +49,47 @@
         {
             "To": "Vaporeon",
             "Kind": "Stone",
-            "Details": {
-                "item": "Water Stone"
-            }
+            "Item": "Water Stone"
         },
         {
             "To": "Jolteon",
             "Kind": "Stone",
-            "Details": {
-                "item": "Thunder Stone"
-            }
+            "Item": "Thunder Stone"
         },
         {
             "To": "Flareon",
             "Kind": "Stone",
-            "Details": {
-                "item": "Fire Stone"
-            }
+            "Item": "Fire Stone"
         },
         {
             "To": "Espeon",
             "Kind": "Special",
-            "Details": {
-                "stat": "Happiness",
-                "value": 4,
-                "special": "Sunlight"
-            }
+            "Stat": "Happiness",
+            "Value": 4,
+            "Special": "Sunlight"
         },
         {
             "To": "Umbreon",
             "Kind": "Special",
-            "Details": {
-                "stat": "Happiness",
-                "value": 4,
-                "special": "Moonlight"
-            }
+            "Stat": "Happiness",
+            "Value": 4,
+            "Special": "Moonlight"
         },
         {
             "To": "Leafeon",
             "Kind": "Stone",
-            "Details": {
-                "item": "Leaf Stone"
-            }
+            "Item": "Leaf Stone"
         },
         {
             "To": "Glaceon",
             "Kind": "Stone",
-            "Details": {
-                "item": "Ice Stone"
-            }
+            "Item": "Ice Stone"
         },
         {
             "To": "Sylveon",
             "Kind": "Stat",
-            "Details": {
-                "stat": "Loyalty",
-                "value": 5
-            }
+            "Stat": "Loyalty",
+            "Value": 5
         }
     ]
 }

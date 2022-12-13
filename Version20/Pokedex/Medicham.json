@@ -45,24 +45,16 @@
     "Baby": false,
     "PrimaryEggGroup": "Human-Like",
     "SecondaryEggGroup": "",
-    "MegaEvolutions": [
-        {
-            "Name": "Mega-Medicham",
-            "Item": "Medichamite"
-        }
-    ],
     "Evolutions": [
         {
             "From": "Meditite",
             "Kind": "Level",
-            "Details": {
-                "speed": "Medium"
-            }
+            "Speed": "Medium"
         },
         {
             "To": "Mega-Medicham",
             "Kind": "Mega",
-            "Details": ""
+            "Item": "Medichamite"
         }
     ]
 }

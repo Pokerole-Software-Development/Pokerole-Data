@@ -49,14 +49,11 @@
         {
             "From": "Alolan Geodude",
             "Kind": "Level",
-            "Details": {
-                "speed": "Medium"
-            }
+            "Speed": "Medium"
         },
         {
             "To": "Alolan Golem",
-            "Kind": "Trade",
-            "Details": ""
+            "Kind": "Trade"
         }
     ]
 }

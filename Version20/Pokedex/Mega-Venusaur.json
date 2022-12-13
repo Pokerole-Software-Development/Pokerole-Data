@@ -45,12 +45,11 @@
     "Baby": false,
     "PrimaryEggGroup": "Monster",
     "SecondaryEggGroup": "Grass",
-    "MegaBaseForm": "Venusaur",
     "Evolutions": [
         {
             "From": "Venusaur",
             "Kind": "Mega",
-            "Details": ""
+            "Item": "Venusaurite"
         }
     ]
 }

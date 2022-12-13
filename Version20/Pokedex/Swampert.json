@@ -45,24 +45,16 @@
     "Baby": false,
     "PrimaryEggGroup": "Monster",
     "SecondaryEggGroup": "Water 1",
-    "MegaEvolutions": [
-        {
-            "Name": "Mega-Swampert",
-            "Item": "Swampertite"
-        }
-    ],
     "Evolutions": [
         {
             "From": "Marshtomp",
             "Kind": "Level",
-            "Details": {
-                "speed": "Medium"
-            }
+            "Speed": "Medium"
         },
         {
             "To": "Mega-Swampert",
             "Kind": "Mega",
-            "Details": ""
+            "Item": "Swampertite"
         }
     ]
 }

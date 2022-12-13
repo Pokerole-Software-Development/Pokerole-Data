@@ -45,22 +45,15 @@
     "Baby": false,
     "PrimaryEggGroup": "Human-Like",
     "SecondaryEggGroup": "",
-    "MegaEvolutions": [
-        {
-            "Name": "Mega-Alakazam",
-            "Item": "Alakazite"
-        }
-    ],
     "Evolutions": [
         {
             "From": "Kadabra",
-            "Kind": "Trade",
-            "Details": ""
+            "Kind": "Trade"
         },
         {
             "To": "Mega-Alakazam",
             "Kind": "Mega",
-            "Details": ""
+            "Item": "Alakazite"
         }
     ]
 }

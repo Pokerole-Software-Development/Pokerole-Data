@@ -49,23 +49,17 @@
         {
             "From": "Poliwag",
             "Kind": "Level",
-            "Details": {
-                "speed": "Medium"
-            }
+            "Speed": "Medium"
         },
         {
             "To": "Poliwrath",
             "Kind": "Stone",
-            "Details": {
-                "item": "Water Stone"
-            }
+            "Item": "Water Stone"
         },
         {
             "To": "Politoed",
             "Kind": "Trade",
-            "Details": {
-                "item": "King's Rock"
-            }
+            "Item": "King's Rock"
         }
     ]
 }

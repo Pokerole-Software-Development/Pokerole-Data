@@ -49,16 +49,12 @@
         {
             "From": "Flabebe",
             "Kind": "Level",
-            "Details": {
-                "speed": "Fast"
-            }
+            "Speed": "Fast"
         },
         {
             "To": "Florges",
             "Kind": "Stone",
-            "Details": {
-                "item": "Shiny Stone"
-            }
+            "Item": "Shiny Stone"
         }
     ]
 }

@@ -49,18 +49,14 @@
         {
             "To": "Toxtricity Amped",
             "Kind": "Level",
-            "Details": {
-                "speed": "Slow",
-                "special": "Extrovert"
-            }
+            "Speed": "Slow",
+            "Special": "Extrovert"
         },
         {
             "To": "Toxtricity Low Key",
             "Kind": "Level",
-            "Details": {
-                "speed": "Slow",
-                "special": "Introvert"
-            }
+            "Speed": "Slow",
+            "Special": "Introvert"
         }
     ]
 }

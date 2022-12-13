@@ -45,12 +45,11 @@
     "Baby": false,
     "PrimaryEggGroup": "Monster",
     "SecondaryEggGroup": "Dragon",
-    "MegaBaseForm": "Charizard",
     "Evolutions": [
         {
             "From": "Charizard",
             "Kind": "Mega",
-            "Details": ""
+            "Item": "Charizardite X"
         }
     ]
 }

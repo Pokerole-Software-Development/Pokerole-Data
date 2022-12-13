@@ -49,17 +49,13 @@
         {
             "From": "Azurill",
             "Kind": "Stat",
-            "Details": {
-                "stat": "Happiness",
-                "value": 4
-            }
+            "Stat": "Happiness",
+            "Value": 4
         },
         {
             "To": "Azumarill",
             "Kind": "Level",
-            "Details": {
-                "speed": "Medium"
-            }
+            "Speed": "Medium"
         }
     ]
 }

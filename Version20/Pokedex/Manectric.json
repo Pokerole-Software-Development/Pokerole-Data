@@ -45,24 +45,16 @@
     "Baby": false,
     "PrimaryEggGroup": "Field",
     "SecondaryEggGroup": "",
-    "MegaEvolutions": [
-        {
-            "Name": "Mega-Manectric",
-            "Item": "Manectite"
-        }
-    ],
     "Evolutions": [
         {
             "From": "Electrike",
             "Kind": "Level",
-            "Details": {
-                "speed": "Medium"
-            }
+            "Speed": "Medium"
         },
         {
             "To": "Mega-Manectric",
             "Kind": "Mega",
-            "Details": ""
+            "Item": "Manectite"
         }
     ]
 }

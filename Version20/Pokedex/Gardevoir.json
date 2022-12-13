@@ -45,24 +45,16 @@
     "Baby": false,
     "PrimaryEggGroup": "Human-Like",
     "SecondaryEggGroup": "Amorphous",
-    "MegaEvolutions": [
-        {
-            "Name": "Mega-Gardevoir",
-            "Item": "Gardevoirite"
-        }
-    ],
     "Evolutions": [
         {
             "From": "Kirlia",
             "Kind": "Level",
-            "Details": {
-                "speed": "Medium"
-            }
+            "Speed": "Medium"
         },
         {
             "To": "Mega-Gardevoir",
             "Kind": "Mega",
-            "Details": ""
+            "Item": "Gardevoirite"
         }
     ]
 }

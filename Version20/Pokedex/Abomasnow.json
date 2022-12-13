@@ -45,24 +45,16 @@
     "Baby": false,
     "PrimaryEggGroup": "Monster",
     "SecondaryEggGroup": "Grass",
-    "MegaEvolutions": [
-        {
-            "Name": "Mega-Abomasnow",
-            "Item": "Abomasite"
-        }
-    ],
     "Evolutions": [
         {
             "From": "Snover",
             "Kind": "Level",
-            "Details": {
-                "speed": "Medium"
-            }
+            "Speed": "Medium"
         },
         {
             "To": "Mega-Abomasnow",
             "Kind": "Mega",
-            "Details": ""
+            "Item": "Abomasite"
         }
     ]
 }

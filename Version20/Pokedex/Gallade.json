@@ -45,25 +45,17 @@
     "Baby": false,
     "PrimaryEggGroup": "Human-Like",
     "SecondaryEggGroup": "Amorphous",
-    "MegaEvolutions": [
-        {
-            "Name": "Mega-Gallade",
-            "Item": "Galladite"
-        }
-    ],
     "Evolutions": [
         {
             "From": "Kirlia",
             "Kind": "Special",
-            "Details": {
-                "item": "Dawn Stone",
-                "gender": "Male"
-            }
+            "Item": "Dawn Stone",
+            "Gender": "Male"
         },
         {
             "To": "Mega-Gallade",
             "Kind": "Mega",
-            "Details": ""
+            "Item": "Galladite"
         }
     ]
 }

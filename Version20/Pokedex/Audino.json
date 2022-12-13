@@ -45,17 +45,11 @@
     "Baby": false,
     "PrimaryEggGroup": "Fairy",
     "SecondaryEggGroup": "",
-    "MegaEvolutions": [
-        {
-            "Name": "Mega-Audino",
-            "Item": "Audinite"
-        }
-    ],
     "Evolutions": [
         {
             "To": "Mega-Audino",
             "Kind": "Mega",
-            "Details": ""
+            "Item": "Audinite"
         }
     ]
 }

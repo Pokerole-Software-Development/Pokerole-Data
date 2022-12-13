@@ -49,14 +49,11 @@
         {
             "From": "Timburr",
             "Kind": "Level",
-            "Details": {
-                "speed": "Medium"
-            }
+            "Speed": "Medium"
         },
         {
             "To": "Conkeldurr",
-            "Kind": "Trade",
-            "Details": ""
+            "Kind": "Trade"
         }
     ]
 }

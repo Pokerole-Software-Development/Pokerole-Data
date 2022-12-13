@@ -45,24 +45,16 @@
     "Baby": false,
     "PrimaryEggGroup": "Field",
     "SecondaryEggGroup": "",
-    "MegaEvolutions": [
-        {
-            "Name": "Mega-Houndoom",
-            "Item": "Houndoominite"
-        }
-    ],
     "Evolutions": [
         {
             "From": "Houndour",
             "Kind": "Level",
-            "Details": {
-                "speed": "Medium"
-            }
+            "Speed": "Medium"
         },
         {
             "To": "Mega-Houndoom",
             "Kind": "Mega",
-            "Details": ""
+            "Item": "Houndoominite"
         }
     ]
 }

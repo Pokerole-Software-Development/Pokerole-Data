@@ -49,17 +49,13 @@
         {
             "From": "Igglybuff",
             "Kind": "Stat",
-            "Details": {
-                "stat": "Happiness",
-                "value": 4
-            }
+            "Stat": "Happiness",
+            "Value": 4
         },
         {
             "To": "Wigglytuff",
             "Kind": "Stone",
-            "Details": {
-                "item": "Moon Stone"
-            }
+            "Item": "Moon Stone"
         }
     ]
 }

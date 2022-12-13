@@ -49,16 +49,12 @@
         {
             "From": "Elekid",
             "Kind": "Level",
-            "Details": {
-                "speed": "Medium"
-            }
+            "Speed": "Medium"
         },
         {
             "To": "Electivire",
             "Kind": "Trade",
-            "Details": {
-                "item": "Electirizer"
-            }
+            "Item": "Electirizer"
         }
     ]
 }

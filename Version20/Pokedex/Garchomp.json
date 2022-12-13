@@ -45,24 +45,16 @@
     "Baby": false,
     "PrimaryEggGroup": "Monster",
     "SecondaryEggGroup": "Dragon",
-    "MegaEvolutions": [
-        {
-            "Name": "Mega-Garchomp",
-            "Item": "Garchompite"
-        }
-    ],
     "Evolutions": [
         {
             "From": "Gabite",
             "Kind": "Level",
-            "Details": {
-                "speed": "Slow"
-            }
+            "Speed": "Slow"
         },
         {
             "To": "Mega-Garchomp",
             "Kind": "Mega",
-            "Details": ""
+            "Item": "Garchompite"
         }
     ]
 }

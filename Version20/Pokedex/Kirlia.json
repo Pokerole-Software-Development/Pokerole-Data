@@ -49,24 +49,18 @@
         {
             "From": "Ralts",
             "Kind": "Level",
-            "Details": {
-                "speed": "Medium"
-            }
+            "Speed": "Medium"
         },
         {
             "To": "Gardevoir",
             "Kind": "Level",
-            "Details": {
-                "speed": "Medium"
-            }
+            "Speed": "Medium"
         },
         {
             "To": "Gallade",
             "Kind": "Special",
-            "Details": {
-                "item": "Dawn Stone",
-                "gender": "Male"
-            }
+            "Item": "Dawn Stone",
+            "Gender": "Male"
         }
     ]
 }

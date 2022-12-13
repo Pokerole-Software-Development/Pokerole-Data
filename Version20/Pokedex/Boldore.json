@@ -49,14 +49,11 @@
         {
             "From": "Roggenrola",
             "Kind": "Level",
-            "Details": {
-                "speed": "Medium"
-            }
+            "Speed": "Medium"
         },
         {
             "To": "Gigalith",
-            "Kind": "Trade",
-            "Details": ""
+            "Kind": "Trade"
         }
     ]
 }

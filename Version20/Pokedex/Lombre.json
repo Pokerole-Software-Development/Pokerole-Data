@@ -49,16 +49,12 @@
         {
             "From": "Lotad",
             "Kind": "Level",
-            "Details": {
-                "speed": "Medium"
-            }
+            "Speed": "Medium"
         },
         {
             "To": "Ludicolo",
             "Kind": "Stone",
-            "Details": {
-                "item": "Water Stone"
-            }
+            "Item": "Water Stone"
         }
     ]
 }

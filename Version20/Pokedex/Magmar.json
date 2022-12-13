@@ -49,16 +49,12 @@
         {
             "From": "Magby",
             "Kind": "Level",
-            "Details": {
-                "speed": "Medium"
-            }
+            "Speed": "Medium"
         },
         {
             "To": "Magmortar",
             "Kind": "Trade",
-            "Details": {
-                "item": "Magmarizer"
-            }
+            "Item": "Magmarizer"
         }
     ]
 }

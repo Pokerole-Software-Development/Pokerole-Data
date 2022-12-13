@@ -45,24 +45,16 @@
     "Baby": false,
     "PrimaryEggGroup": "Dragon",
     "SecondaryEggGroup": "",
-    "MegaEvolutions": [
-        {
-            "Name": "Mega-Salamence",
-            "Item": "Salamencite"
-        }
-    ],
     "Evolutions": [
         {
             "From": "Shelgon",
             "Kind": "Level",
-            "Details": {
-                "speed": "Slow"
-            }
+            "Speed": "Slow"
         },
         {
             "To": "Mega-Salamence",
             "Kind": "Mega",
-            "Details": ""
+            "Item": "Salamencite"
         }
     ]
 }

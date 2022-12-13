@@ -49,16 +49,12 @@
         {
             "From": "Nidoran M",
             "Kind": "Level",
-            "Details": {
-                "speed": "Medium"
-            }
+            "Speed": "Medium"
         },
         {
             "To": "Nidoking",
             "Kind": "Stone",
-            "Details": {
-                "item": "Moon Stone"
-            }
+            "Item": "Moon Stone"
         }
     ]
 }

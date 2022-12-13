@@ -49,26 +49,20 @@
         {
             "To": "Lycanroc Midday",
             "Kind": "Level",
-            "Details": {
-                "speed": "Medium",
-                "special": "Day"
-            }
+            "Speed": "Medium",
+            "Special": "Day"
         },
         {
             "To": "Lycanroc Dusk",
             "Kind": "Level",
-            "Details": {
-                "speed": "Medium",
-                "special": "Dawn"
-            }
+            "Speed": "Medium",
+            "Special": "Dawn"
         },
         {
             "To": "Lycanroc Midnight",
             "Kind": "Level",
-            "Details": {
-                "speed": "Medium",
-                "special": "Night"
-            }
+            "Speed": "Medium",
+            "Special": "Night"
         }
     ]
 }

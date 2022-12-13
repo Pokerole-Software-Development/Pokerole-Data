@@ -49,14 +49,11 @@
         {
             "From": "Gastly",
             "Kind": "Level",
-            "Details": {
-                "speed": "Medium"
-            }
+            "Speed": "Medium"
         },
         {
             "To": "Gengar",
-            "Kind": "Trade",
-            "Details": ""
+            "Kind": "Trade"
         }
     ]
 }

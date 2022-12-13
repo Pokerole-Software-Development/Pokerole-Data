@@ -45,24 +45,16 @@
     "Baby": false,
     "PrimaryEggGroup": "Field",
     "SecondaryEggGroup": "",
-    "MegaEvolutions": [
-        {
-            "Name": "Mega-Blaziken",
-            "Item": "Blazikenite"
-        }
-    ],
     "Evolutions": [
         {
             "From": "Combusken",
             "Kind": "Level",
-            "Details": {
-                "speed": "Medium"
-            }
+            "Speed": "Medium"
         },
         {
             "To": "Mega-Blaziken",
             "Kind": "Mega",
-            "Details": ""
+            "Item": "Blazikenite"
         }
     ]
 }

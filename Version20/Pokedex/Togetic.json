@@ -49,17 +49,13 @@
         {
             "From": "Togepi",
             "Kind": "Stat",
-            "Details": {
-                "stat": "Happiness",
-                "value": 5
-            }
+            "Stat": "Happiness",
+            "Value": 5
         },
         {
             "To": "Togekiss",
             "Kind": "Stone",
-            "Details": {
-                "item": "Shiny Stone"
-            }
+            "Item": "Shiny Stone"
         }
     ]
 }

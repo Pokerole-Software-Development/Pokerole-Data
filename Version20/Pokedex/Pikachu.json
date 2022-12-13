@@ -49,25 +49,19 @@
         {
             "From": "Pichu",
             "Kind": "Stat",
-            "Details": {
-                "stat": "Happiness",
-                "value": 4
-            }
+            "Stat": "Happiness",
+            "Value": 4
         },
         {
             "To": "Raichu",
             "Kind": "Stone",
-            "Details": {
-                "item": "Thunder Stone"
-            }
+            "Item": "Thunder Stone"
         },
         {
             "To": "Alolan Raichu",
             "Kind": "Stone",
-            "Details": {
-                "item": "Thunder Stone",
-                "region": "Alola"
-            }
+            "Item": "Thunder Stone",
+            "Region": "Alola"
         }
     ]
 }

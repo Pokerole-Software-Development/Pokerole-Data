@@ -45,24 +45,16 @@
     "Baby": false,
     "PrimaryEggGroup": "Water 2",
     "SecondaryEggGroup": "Dragon",
-    "MegaEvolutions": [
-        {
-            "Name": "Mega-Gyarados",
-            "Item": "Gyaradosite"
-        }
-    ],
     "Evolutions": [
         {
             "From": "Magikarp",
             "Kind": "Level",
-            "Details": {
-                "speed": "Slow"
-            }
+            "Speed": "Slow"
         },
         {
             "To": "Mega-Gyarados",
             "Kind": "Mega",
-            "Details": ""
+            "Item": "Gyaradosite"
         }
     ]
 }

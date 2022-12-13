@@ -45,24 +45,16 @@
     "Baby": false,
     "PrimaryEggGroup": "Monster",
     "SecondaryEggGroup": "Water 1",
-    "MegaEvolutions": [
-        {
-            "Name": "Mega-Slowbro",
-            "Item": "Slowbronite"
-        }
-    ],
     "Evolutions": [
         {
             "From": "Slowpoke",
             "Kind": "Level",
-            "Details": {
-                "speed": "Slow"
-            }
+            "Speed": "Slow"
         },
         {
             "To": "Mega-Slowbro",
             "Kind": "Mega",
-            "Details": ""
+            "Item": "Slowbronite"
         }
     ]
 }

@@ -49,21 +49,16 @@
         {
             "From": "Froakie",
             "Kind": "Level",
-            "Details": {
-                "speed": "Medium"
-            }
+            "Speed": "Medium"
         },
         {
             "To": "Greninja",
             "Kind": "Level",
-            "Details": {
-                "speed": "Medium"
-            }
+            "Speed": "Medium"
         },
         {
             "To": "BBF Greninja",
-            "Kind": "Form",
-            "Details": ""
+            "Kind": "Form"
         }
     ]
 }

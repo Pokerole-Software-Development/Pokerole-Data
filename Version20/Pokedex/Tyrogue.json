@@ -49,26 +49,20 @@
         {
             "To": "Hitmontop",
             "Kind": "Stat",
-            "Details": {
-                "stat": "Dexterity",
-                "value": -1
-            }
+            "Stat": "Dexterity",
+            "Value": -1
         },
         {
             "To": "Hitmonlee",
             "Kind": "Stat",
-            "Details": {
-                "stat": "Strength",
-                "value": -1
-            }
+            "Stat": "Strength",
+            "Value": -1
         },
         {
             "To": "Hitmonchan",
             "Kind": "Stat",
-            "Details": {
-                "stat": "Vitality",
-                "value": -1
-            }
+            "Stat": "Vitality",
+            "Value": -1
         }
     ]
 }

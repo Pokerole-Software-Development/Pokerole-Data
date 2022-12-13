@@ -49,17 +49,13 @@
         {
             "To": "Weezing",
             "Kind": "Level",
-            "Details": {
-                "speed": "Slow"
-            }
+            "Speed": "Slow"
         },
         {
             "To": "Galarian Weezing",
             "Kind": "Level",
-            "Details": {
-                "speed": "Slow",
-                "region": "Galar"
-            }
+            "Speed": "Slow",
+            "Region": "Galar"
         }
     ]
 }

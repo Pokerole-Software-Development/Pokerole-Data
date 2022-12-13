@@ -49,18 +49,14 @@
         {
             "To": "Glalie",
             "Kind": "Level",
-            "Details": {
-                "speed": "Medium",
-                "gender": "Male"
-            }
+            "Speed": "Medium",
+            "Gender": "Male"
         },
         {
             "To": "Froslass",
             "Kind": "Stone",
-            "Details": {
-                "item": "Dawn Stone",
-                "gender": "Female"
-            }
+            "Item": "Dawn Stone",
+            "Gender": "Female"
         }
     ]
 }

@@ -45,24 +45,16 @@
     "Baby": false,
     "PrimaryEggGroup": "Mineral",
     "SecondaryEggGroup": "",
-    "MegaEvolutions": [
-        {
-            "Name": "Mega-Steelix",
-            "Item": "Steelixite"
-        }
-    ],
     "Evolutions": [
         {
             "From": "Onix",
             "Kind": "Trade",
-            "Details": {
-                "item": "Metal Coat"
-            }
+            "Item": "Metal Coat"
         },
         {
             "To": "Mega-Steelix",
             "Kind": "Mega",
-            "Details": ""
+            "Item": "Steelixite"
         }
     ]
 }

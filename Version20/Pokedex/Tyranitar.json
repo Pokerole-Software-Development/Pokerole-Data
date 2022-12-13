@@ -45,24 +45,16 @@
     "Baby": false,
     "PrimaryEggGroup": "Monster",
     "SecondaryEggGroup": "",
-    "MegaEvolutions": [
-        {
-            "Name": "Mega-Tyranitar",
-            "Item": "Tyranitarite"
-        }
-    ],
     "Evolutions": [
         {
             "From": "Pupitar",
             "Kind": "Level",
-            "Details": {
-                "speed": "Slow"
-            }
+            "Speed": "Slow"
         },
         {
             "To": "Mega-Tyranitar",
             "Kind": "Mega",
-            "Details": ""
+            "Item": "Tyranitarite"
         }
     ]
 }

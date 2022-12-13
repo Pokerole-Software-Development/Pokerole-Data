@@ -45,25 +45,17 @@
     "Baby": false,
     "PrimaryEggGroup": "Field",
     "SecondaryEggGroup": "Human-Like",
-    "MegaEvolutions": [
-        {
-            "Name": "Mega-Lucario",
-            "Item": "Lucarionite"
-        }
-    ],
     "Evolutions": [
         {
             "From": "Riolu",
             "Kind": "Stat",
-            "Details": {
-                "stat": "Loyalty",
-                "value": 5
-            }
+            "Stat": "Loyalty",
+            "Value": 5
         },
         {
             "To": "Mega-Lucario",
             "Kind": "Mega",
-            "Details": ""
+            "Item": "Lucarionite"
         }
     ]
 }

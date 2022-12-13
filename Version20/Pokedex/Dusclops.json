@@ -49,16 +49,12 @@
         {
             "From": "Duskull",
             "Kind": "Level",
-            "Details": {
-                "speed": "Medium"
-            }
+            "Speed": "Medium"
         },
         {
             "To": "Dusknoir",
             "Kind": "Trade",
-            "Details": {
-                "item": "Reaper Cloth"
-            }
+            "Item": "Reaper Cloth"
         }
     ]
 }

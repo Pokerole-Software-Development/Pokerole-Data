@@ -49,23 +49,17 @@
         {
             "From": "Cosmog",
             "Kind": "Level",
-            "Details": {
-                "speed": "Unknown"
-            }
+            "Speed": "Unknown"
         },
         {
             "To": "Solgaleo",
             "Kind": "Level",
-            "Details": {
-                "game": "Sword"
-            }
+            "Game": "Sword"
         },
         {
             "To": "Lunala",
             "Kind": "Level",
-            "Details": {
-                "game": "Shield"
-            }
+            "Game": "Shield"
         }
     ]
 }
