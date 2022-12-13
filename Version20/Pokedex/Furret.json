@@ -44,5 +44,12 @@
     "DexDescription": "It lives along its Sentret family and acts as the hunter and caregiver of the pack. It can move really fast. If it is cornered, it will squirm through even the narrowest of gaps to escape safe and sound.",
     "Baby": false,
     "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "From": "Sentret",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ]
 }

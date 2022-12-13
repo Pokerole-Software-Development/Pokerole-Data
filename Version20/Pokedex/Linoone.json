@@ -44,5 +44,12 @@
     "DexDescription": "Linoones are always running at full speed, but they can only do so in straight lines. They find it very difficult to deal with a curved road. They excel at hunting but tend to eat a lot to recover from their tiring runs.",
     "Baby": false,
     "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "From": "Zigzagoon",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ]
 }

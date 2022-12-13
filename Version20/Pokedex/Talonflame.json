@@ -44,5 +44,12 @@
     "DexDescription": "They soar over desert canyons. If they spot prey they launch down at full speed to deliver a finishing blow. They are excellent hunters, with every wing flap they take, it leaves a trail of fire dust behind.",
     "Baby": false,
     "PrimaryEggGroup": "Flying",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "From": "Fletchinder",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ]
 }

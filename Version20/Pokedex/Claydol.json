@@ -44,5 +44,12 @@
     "DexDescription": "It is made entirely of clay. The first one was discovered in ruins from 20,000 years ago. A strange light is said to be the source of its life and psychic abilities. Its eight eyes are always alert and always watching.",
     "Baby": false,
     "PrimaryEggGroup": "Mineral",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "From": "Baltoy",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ]
 }

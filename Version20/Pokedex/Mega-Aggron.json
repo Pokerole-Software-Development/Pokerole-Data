@@ -45,5 +45,11 @@
     "Baby": false,
     "PrimaryEggGroup": "Monster",
     "SecondaryEggGroup": "",
-    "MegaBaseForm": "Aggron"
+    "Evolutions": [
+        {
+            "From": "Aggron",
+            "Kind": "Mega",
+            "Item": "Aggronite"
+        }
+    ]
 }

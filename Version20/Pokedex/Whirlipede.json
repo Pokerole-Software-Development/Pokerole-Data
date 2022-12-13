@@ -44,5 +44,17 @@
     "DexDescription": "It is usually motionless, when it is attacked, it rotates at high speed and then crashes into its opponent with its body full of poison spikes. Inside it is storing energy for evolving, which normally takes a few months.",
     "Baby": false,
     "PrimaryEggGroup": "Bug",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "From": "Venipede",
+            "Kind": "Level",
+            "Speed": "Medium"
+        },
+        {
+            "To": "Scolipede",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ]
 }

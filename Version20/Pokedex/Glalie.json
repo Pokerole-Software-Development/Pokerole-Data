@@ -45,9 +45,16 @@
     "Baby": false,
     "PrimaryEggGroup": "Fairy",
     "SecondaryEggGroup": "Mineral",
-    "MegaEvolutions": [
+    "Evolutions": [
         {
-            "Name": "Mega-Glalie",
+            "From": "Snorunt",
+            "Kind": "Level",
+            "Speed": "Medium",
+            "Gender": "Male"
+        },
+        {
+            "To": "Mega-Glalie",
+            "Kind": "Mega",
             "Item": "Glalitite"
         }
     ]

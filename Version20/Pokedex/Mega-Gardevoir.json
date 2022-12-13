@@ -45,5 +45,11 @@
     "Baby": false,
     "PrimaryEggGroup": "Human-Like",
     "SecondaryEggGroup": "Amorphous",
-    "MegaBaseForm": "Gardevoir"
+    "Evolutions": [
+        {
+            "From": "Gardevoir",
+            "Kind": "Mega",
+            "Item": "Gardevoirite"
+        }
+    ]
 }

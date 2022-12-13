@@ -45,9 +45,15 @@
     "Baby": false,
     "PrimaryEggGroup": "Water 2",
     "SecondaryEggGroup": "",
-    "MegaEvolutions": [
+    "Evolutions": [
         {
-            "Name": "Mega-Sharpedo",
+            "From": "Carvanha",
+            "Kind": "Level",
+            "Speed": "Medium"
+        },
+        {
+            "To": "Mega-Sharpedo",
+            "Kind": "Mega",
             "Item": "Sharpedonite"
         }
     ]

@@ -44,5 +44,12 @@
     "DexDescription": "It lives in bamboo forests. It is very energetic and playful, but wants to be taken seriously. It has a hard time due to its cute appearance, for this reason it may start hanging out with the wrong crowd.",
     "Baby": false,
     "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": "Human-Like"
+    "SecondaryEggGroup": "Human-Like",
+    "Evolutions": [
+        {
+            "To": "Pangoro",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ]
 }

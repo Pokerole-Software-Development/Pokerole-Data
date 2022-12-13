@@ -45,5 +45,11 @@
     "Baby": false,
     "PrimaryEggGroup": "Field",
     "SecondaryEggGroup": "",
-    "MegaBaseForm": "Manectric"
+    "Evolutions": [
+        {
+            "From": "Manectric",
+            "Kind": "Mega",
+            "Item": "Manectite"
+        }
+    ]
 }

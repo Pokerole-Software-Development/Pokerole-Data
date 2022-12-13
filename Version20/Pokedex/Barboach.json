@@ -44,5 +44,12 @@
     "DexDescription": "Their whiskers work as a super sensitive radar. They hide in the mud with only their whiskers exposed, waiting for prey to come. If the mud dries, they move back into the water.",
     "Baby": false,
     "PrimaryEggGroup": "Water 2",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "To": "Whiscash",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ]
 }

@@ -44,5 +44,16 @@
     "DexDescription": "The Galarian form of Darmanitan. They walk into towns during the blizzards to steal food. Darmanitans seem mean, but they are gentle and shy.",
     "Baby": false,
     "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "From": "Galarian Darumaka",
+            "Kind": "Stone",
+            "Item": "Ice Stone"
+        },
+        {
+            "To": "Galarian Zen Darmanitan",
+            "Kind": "Form"
+        }
+    ]
 }

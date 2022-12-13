@@ -44,5 +44,12 @@
     "DexDescription": "It lives near water sources. Its eyes can see 360 degrees without even moving. Yanma is a great flyer capable of making sudden stops and turning midair to quickly chase down targeted prey.",
     "Baby": false,
     "PrimaryEggGroup": "Bug",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "To": "Yanmega",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ]
 }

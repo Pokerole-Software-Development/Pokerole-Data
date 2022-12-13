@@ -44,5 +44,12 @@
     "DexDescription": "Cradily moves slowly at the bottom of the sea. It uses its body as an anchor and its tentacles as arms to catch prey. Their foes are melted with a potent acid before being consumed.",
     "Baby": false,
     "PrimaryEggGroup": "Water 3",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "From": "Lileep",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ]
 }

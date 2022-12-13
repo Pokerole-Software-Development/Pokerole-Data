@@ -44,5 +44,17 @@
     "DexDescription": "Thwakeys are passionate about their drumming, they can get so caught up in their music that they don\u2019t notice the battle is already over. The faster they can beat their drums, the stronger they are.",
     "Baby": false,
     "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": "Grass"
+    "SecondaryEggGroup": "Grass",
+    "Evolutions": [
+        {
+            "From": "Grookey",
+            "Kind": "Level",
+            "Speed": "Medium"
+        },
+        {
+            "To": "Rillaboom",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ]
 }

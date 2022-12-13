@@ -44,5 +44,12 @@
     "DexDescription": "Due to their speed and stealthiness, this Pokemon was believed to be invisible. They refuse to obey people and cry continuously if forced. People burn their cocoons as they are said to be cursed.",
     "Baby": false,
     "PrimaryEggGroup": "Bug",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "From": "Nincada",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ]
 }

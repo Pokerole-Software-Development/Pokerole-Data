@@ -44,5 +44,12 @@
     "DexDescription": "Their shell is molten body that cooled off and hardened, it may appear solid, but it may burst into flames with a single touch. Water vaporizes on contact and rain turns into a cloud of steam.",
     "Baby": false,
     "PrimaryEggGroup": "Amorphous",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "From": "Slugma",
+            "Kind": "Level",
+            "Speed": "Slow"
+        }
+    ]
 }

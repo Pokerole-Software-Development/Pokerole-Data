@@ -44,5 +44,12 @@
     "DexDescription": "Bagons dream of soaring the sky. This leads to a lot of frustration that makes them dive off cliffs in an attempt to fly. Their head is tough enough to survive the fall. They are very ill tempered and violent.",
     "Baby": false,
     "PrimaryEggGroup": "Dragon",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "To": "Shelgon",
+            "Kind": "Level",
+            "Speed": "Slow"
+        }
+    ]
 }

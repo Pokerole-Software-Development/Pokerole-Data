@@ -44,5 +44,22 @@
     "DexDescription": "Though it is skilled at walking, it prefers to live underwater where there\u2019s less danger. It sweats to keep its skin moist. Thanks to this, it can easily slip out of the clutches of any enemy.",
     "Baby": false,
     "PrimaryEggGroup": "Water 1",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "From": "Poliwag",
+            "Kind": "Level",
+            "Speed": "Medium"
+        },
+        {
+            "To": "Poliwrath",
+            "Kind": "Stone",
+            "Item": "Water Stone"
+        },
+        {
+            "To": "Politoed",
+            "Kind": "Trade",
+            "Item": "King's Rock"
+        }
+    ]
 }

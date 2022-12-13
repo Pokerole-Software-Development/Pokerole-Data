@@ -44,5 +44,12 @@
     "DexDescription": "They form gangs and beat anyone who trespasses their territory. The one with the biggest crest is the leader. They throw powerful kicks and their skin is an excellent shield. Be careful around them.",
     "Baby": false,
     "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": "Dragon"
+    "SecondaryEggGroup": "Dragon",
+    "Evolutions": [
+        {
+            "From": "Scraggy",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ]
 }

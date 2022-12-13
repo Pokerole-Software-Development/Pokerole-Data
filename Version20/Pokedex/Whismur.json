@@ -44,5 +44,12 @@
     "DexDescription": "Their timid voice is barely audible, however, if it senses danger, they start crying loud enough to deafen anyone nearby. Their own noise scares them even more, so they cry harder until their ear covers shut.",
     "Baby": false,
     "PrimaryEggGroup": "Monster",
-    "SecondaryEggGroup": "Field"
+    "SecondaryEggGroup": "Field",
+    "Evolutions": [
+        {
+            "To": "Loudred",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ]
 }

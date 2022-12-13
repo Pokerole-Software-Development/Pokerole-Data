@@ -44,5 +44,12 @@
     "DexDescription": "This Pokemon has an incredibly strong constricting power. Once it wraps its body around its foe, escaping is almost impossible. The pattern on its body glows in the dark like a terrifying face.",
     "Baby": false,
     "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": "Dragon"
+    "SecondaryEggGroup": "Dragon",
+    "Evolutions": [
+        {
+            "From": "Ekans",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ]
 }

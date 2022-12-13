@@ -44,5 +44,17 @@
     "DexDescription": "Their long hair obscure their sight, but they\u2019re sensitive to sound and smells. Piloswine's rugged hooves prevent it from slipping on icy terrains. Amazingly, their tusks are made of solid ice.",
     "Baby": false,
     "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "From": "Swinub",
+            "Kind": "Level",
+            "Speed": "Medium"
+        },
+        {
+            "To": "Mamoswine",
+            "Kind": "Level",
+            "Speed": "Slow"
+        }
+    ]
 }

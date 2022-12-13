@@ -44,5 +44,12 @@
     "DexDescription": "Born deep underground, they don\u2019t emerge until they\u2019ve eaten a whole mountain of soil. Only the strongest and more ferocious ever come out to roam about. They hate being disturbed.",
     "Baby": false,
     "PrimaryEggGroup": "Monster",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "To": "Pupitar",
+            "Kind": "Level",
+            "Speed": "Slow"
+        }
+    ]
 }

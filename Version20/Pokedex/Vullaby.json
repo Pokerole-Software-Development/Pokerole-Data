@@ -44,5 +44,12 @@
     "DexDescription": "This is a female-only species. They stay with their Mandibuzz mothers from birth until they can finally fly. They feed on the carrion meat the mothers bring back to the nest and keep the bones to make accessories.",
     "Baby": false,
     "PrimaryEggGroup": "Flying",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "To": "Mandibuzz",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ]
 }

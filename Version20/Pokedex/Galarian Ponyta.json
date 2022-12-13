@@ -44,5 +44,12 @@
     "DexDescription": "The old magical forests of Galar made Ponytas adopt a mystic nature. Their miraculous horn can heal most wounds and sense the purity in your heart, if you hold evil, you\u2019ll never see this Pokemon in the wild.",
     "Baby": false,
     "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "To": "Galarian Rapidash",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ]
 }

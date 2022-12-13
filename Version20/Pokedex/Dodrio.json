@@ -44,5 +44,12 @@
     "DexDescription": "A third head comes to change the dynamic the two original had. It is common to see the three heads fighting. Each one has its own personality, but when they work as a team they can be very powerful.",
     "Baby": false,
     "PrimaryEggGroup": "Flying",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "From": "Doduo",
+            "Kind": "Level",
+            "Speed": "Slow"
+        }
+    ]
 }

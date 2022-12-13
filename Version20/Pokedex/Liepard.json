@@ -44,5 +44,12 @@
     "DexDescription": "It\u2019s difficult to see one in the wild. These Pokemon vanish and appear attacking unexpectedly. Many Trainers are drawn to their beautiful fur and elegant appeal. But they can be quite dangerous.",
     "Baby": false,
     "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "From": "Purrloin",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ]
 }

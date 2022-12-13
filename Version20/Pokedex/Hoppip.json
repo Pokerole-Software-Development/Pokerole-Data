@@ -44,5 +44,12 @@
     "DexDescription": "This Pokemon drifts away by floating in the wind. Even the weakest current can lift them up. By the end of the winter you can see them flying above cities and fields. This means that spring is coming soon.",
     "Baby": false,
     "PrimaryEggGroup": "Fairy",
-    "SecondaryEggGroup": "Grass"
+    "SecondaryEggGroup": "Grass",
+    "Evolutions": [
+        {
+            "To": "Skiploom",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ]
 }

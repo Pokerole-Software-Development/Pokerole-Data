@@ -44,5 +44,18 @@
     "DexDescription": "It likes places where people gather and imitates their expressions to try to understand their feelings. It mimics foes, confuses them, then it escapes. It doesn\u2019t take long to become a master mime.",
     "Baby": true,
     "PrimaryEggGroup": "Undiscovered",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "To": "Mr. Mime",
+            "Kind": "Level",
+            "Move": "Mimic"
+        },
+        {
+            "To": "Galarian Mr. Mime",
+            "Kind": "Level",
+            "Move": "Mimic",
+            "Region": "Galar"
+        }
+    ]
 }

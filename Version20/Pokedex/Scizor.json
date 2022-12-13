@@ -45,9 +45,15 @@
     "Baby": false,
     "PrimaryEggGroup": "Bug",
     "SecondaryEggGroup": "",
-    "MegaEvolutions": [
+    "Evolutions": [
         {
-            "Name": "Mega-Scizor",
+            "From": "Scyther",
+            "Kind": "Trade",
+            "Item": "Metal Coat"
+        },
+        {
+            "To": "Mega-Scizor",
+            "Kind": "Mega",
             "Item": "Scizorite"
         }
     ]

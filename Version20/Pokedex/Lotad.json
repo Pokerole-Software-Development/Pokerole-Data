@@ -44,5 +44,12 @@
     "DexDescription": "They live in ponds and lakes, floating atop the water. The big leaf on their head is known to act as a ferry for smaller Pokemon. The leaf is delicate and needs constant watering or else Lotad will grow sick.",
     "Baby": false,
     "PrimaryEggGroup": "Water 1",
-    "SecondaryEggGroup": "Grass"
+    "SecondaryEggGroup": "Grass",
+    "Evolutions": [
+        {
+            "To": "Lombre",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ]
 }

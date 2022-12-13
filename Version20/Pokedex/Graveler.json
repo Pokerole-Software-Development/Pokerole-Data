@@ -44,5 +44,16 @@
     "DexDescription": "It walks slowly, but it can get a nice speed by rolling downhill. It is good at climbing. Groups of them have been seen clinging from rock formations and cliffs to eat the tasty rocks covered in moss.",
     "Baby": false,
     "PrimaryEggGroup": "Mineral",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "From": "Geodude",
+            "Kind": "Level",
+            "Speed": "Medium"
+        },
+        {
+            "To": "Golem",
+            "Kind": "Trade"
+        }
+    ]
 }

@@ -44,5 +44,17 @@
     "DexDescription": "It grew inside a sour apple, and thus developed an acid that can cause chemical burns. It uses the discarded apple skin to fly or disguise itself as a rancid apple. They are loners as not many like how it looks or smells.",
     "Baby": false,
     "PrimaryEggGroup": "Grass",
-    "SecondaryEggGroup": "Dragon"
+    "SecondaryEggGroup": "Dragon",
+    "Evolutions": [
+        {
+            "From": "Applin",
+            "Kind": "Item",
+            "Item": "Tart Apple"
+        },
+        {
+            "To": "Appletun",
+            "Kind": "Item",
+            "Item": "Sweet Apple"
+        }
+    ]
 }

@@ -44,5 +44,17 @@
     "DexDescription": "It hoards a small treasure of sparkly things back in its cave. It will react aggressively towards any potential thief. It is also an excellent hunter, capable of running, swimming and gliding extremely fast.",
     "Baby": false,
     "PrimaryEggGroup": "Monster",
-    "SecondaryEggGroup": "Dragon"
+    "SecondaryEggGroup": "Dragon",
+    "Evolutions": [
+        {
+            "From": "Gible",
+            "Kind": "Level",
+            "Speed": "Slow"
+        },
+        {
+            "To": "Garchomp",
+            "Kind": "Level",
+            "Speed": "Slow"
+        }
+    ]
 }

@@ -44,5 +44,12 @@
     "DexDescription": "They are vain Pokemon, acting with grace and elegance. Swellows are seen circling the skies looking for prey. They can be incredibly fast. If two Swellows meet, they will clean each other\u2019s wings as a sign of peace.",
     "Baby": false,
     "PrimaryEggGroup": "Flying",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "From": "Taillow",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ]
 }

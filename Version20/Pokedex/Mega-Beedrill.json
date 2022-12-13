@@ -45,5 +45,11 @@
     "Baby": false,
     "PrimaryEggGroup": "Bug",
     "SecondaryEggGroup": "",
-    "MegaBaseForm": "Beedrill"
+    "Evolutions": [
+        {
+            "From": "Beedrill",
+            "Kind": "Mega",
+            "Item": "Beedrillite"
+        }
+    ]
 }

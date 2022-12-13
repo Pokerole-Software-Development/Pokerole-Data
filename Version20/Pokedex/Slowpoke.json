@@ -44,5 +44,17 @@
     "DexDescription": "It lives close to water. This Pokemon has a low intellect, and it\u2019s slow to react to any stimuli. Its tail seeps a sweet substance it uses to lure prey to eat. When the tip turns white shellders will be attracted to it.",
     "Baby": false,
     "PrimaryEggGroup": "Monster",
-    "SecondaryEggGroup": "Water 1"
+    "SecondaryEggGroup": "Water 1",
+    "Evolutions": [
+        {
+            "To": "Slowbro",
+            "Kind": "Level",
+            "Speed": "Slow"
+        },
+        {
+            "To": "Slowking",
+            "Kind": "Trade",
+            "Item": "King's Rock"
+        }
+    ]
 }

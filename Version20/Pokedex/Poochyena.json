@@ -44,5 +44,12 @@
     "DexDescription": "Poochyena will bite anything that moves. They will chase people and other Pokemon for dozens of miles without loosing track. This Pokemon is persistent and tenacious. In the wild, they form small hunting packs.",
     "Baby": false,
     "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "To": "Mightyena",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ]
 }

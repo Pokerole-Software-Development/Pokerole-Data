@@ -44,5 +44,12 @@
     "DexDescription": "It lurks close to towns and eats the dreams of people and Pokemon. When it eats a pleasant dream, it expels pink-colored mist. If you forgot what you dreamed, a Munna must have eaten your dream.",
     "Baby": false,
     "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "To": "Musharna",
+            "Kind": "Stone",
+            "Item": "Moon Stone"
+        }
+    ]
 }

@@ -44,5 +44,12 @@
     "DexDescription": "You\u2019ll find its home at the bottom of the river. It hunts by leaving its mouth wide open in water and waiting for its prey to get in. Because it doesn\u2019t move a lot, it does not get very hungry.",
     "Baby": false,
     "PrimaryEggGroup": "Water 1",
-    "SecondaryEggGroup": "Field"
+    "SecondaryEggGroup": "Field",
+    "Evolutions": [
+        {
+            "From": "Wooper",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ]
 }

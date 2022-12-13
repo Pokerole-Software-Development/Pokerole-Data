@@ -44,5 +44,12 @@
     "DexDescription": "They live in mountains rarely visited by humans. Although they are valiant and hard-working Pokemon they retain their independent nature. It uses the scale on its head for both attack and defense.",
     "Baby": false,
     "PrimaryEggGroup": "Dragon",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "To": "Hakamo-o",
+            "Kind": "Level",
+            "Speed": "Slow"
+        }
+    ]
 }

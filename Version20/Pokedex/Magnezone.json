@@ -44,5 +44,12 @@
     "DexDescription": "Magneton only evolves in very specific areas of the globe. It has the ability to repel itself from the ground using magnetism. If it is nervous it pulls all the pieces of metal around until it relaxes.",
     "Baby": false,
     "PrimaryEggGroup": "Mineral",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "From": "Magneton",
+            "Kind": "Level",
+            "Speed": "Slow"
+        }
+    ]
 }

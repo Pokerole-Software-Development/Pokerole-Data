@@ -44,5 +44,12 @@
     "DexDescription": "They are usually calm creatures, if they see you are kind they\u2019ll share their warmth with you but if you enrage one you risk being burned down to ashes. They spit tarry substance that is very flammable.",
     "Baby": false,
     "PrimaryEggGroup": "Mineral",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "From": "Carkol",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ]
 }

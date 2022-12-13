@@ -44,5 +44,17 @@
     "DexDescription": "Its demeanor changes drastically from shy to aloof and lazy. It can create water balloons with the moisture secreted from its paws. It is incredibly intelligent and is known to lay traps for others in the wild.",
     "Baby": false,
     "PrimaryEggGroup": "Water 1",
-    "SecondaryEggGroup": "Field"
+    "SecondaryEggGroup": "Field",
+    "Evolutions": [
+        {
+            "From": "Sobble",
+            "Kind": "Level",
+            "Speed": "Medium"
+        },
+        {
+            "To": "Inteleon",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ]
 }

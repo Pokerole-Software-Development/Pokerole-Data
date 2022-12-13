@@ -45,9 +45,15 @@
     "Baby": false,
     "PrimaryEggGroup": "Monster",
     "SecondaryEggGroup": "Field",
-    "MegaEvolutions": [
+    "Evolutions": [
         {
-            "Name": "Mega-Ampharos",
+            "From": "Flaaffy",
+            "Kind": "Level",
+            "Speed": "Medium"
+        },
+        {
+            "To": "Mega-Ampharos",
+            "Kind": "Mega",
             "Item": "Ampharosite"
         }
     ]

@@ -44,5 +44,17 @@
     "DexDescription": "This man-made Pokemon is an upgraded version of Porygon. Used for space exploration and planetary development, boasting the power of science. Its AI software allows it to learn on its own.",
     "Baby": false,
     "PrimaryEggGroup": "Mineral",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "From": "Porygon",
+            "Kind": "Trade",
+            "Item": "Upgrade "
+        },
+        {
+            "To": "Porygon-Z",
+            "Kind": "Trade",
+            "Item": "Dubious Disc"
+        }
+    ]
 }

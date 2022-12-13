@@ -44,5 +44,12 @@
     "DexDescription": "A Golduck is an adept swimmer and can be found near most bodies of water. Its forehead shimmers with light when using its psychic abilities. There are records of wild Golducks that rescued people in the water.",
     "Baby": false,
     "PrimaryEggGroup": "Water 1",
-    "SecondaryEggGroup": "Field"
+    "SecondaryEggGroup": "Field",
+    "Evolutions": [
+        {
+            "From": "Psyduck",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ]
 }

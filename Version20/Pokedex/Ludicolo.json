@@ -44,5 +44,12 @@
     "DexDescription": "Ludicolo starts dancing at the sound of music. Pokemon and people will dance as well. They are said to appear when children sing. They love festive places and parties.",
     "Baby": false,
     "PrimaryEggGroup": "Water 1",
-    "SecondaryEggGroup": "Grass"
+    "SecondaryEggGroup": "Grass",
+    "Evolutions": [
+        {
+            "From": "Lombre",
+            "Kind": "Stone",
+            "Item": "Water Stone"
+        }
+    ]
 }

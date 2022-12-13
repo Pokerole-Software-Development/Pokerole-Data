@@ -44,5 +44,12 @@
     "DexDescription": "It eats the dreams of a sleeping person or Pokemon and shows fondness to the dreams of young children. Once the victim is deep in slumber it will extract and eat the dream through the nose.",
     "Baby": false,
     "PrimaryEggGroup": "Human-Like",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "To": "Hypno",
+            "Kind": "Level",
+            "Speed": "Slow"
+        }
+    ]
 }

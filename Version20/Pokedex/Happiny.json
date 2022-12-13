@@ -44,5 +44,12 @@
     "DexDescription": "It is not common to see Happinies. This baby Pokemon cannot produce eggs yet, so she searches for white stones and carries them on its pouch. It likes to look pretty and tries to always be adorable.",
     "Baby": true,
     "PrimaryEggGroup": "Undiscovered",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "To": "Chansey",
+            "Kind": "Level",
+            "Item": "Oval Stone"
+        }
+    ]
 }

@@ -44,5 +44,52 @@
     "DexDescription": "This Pokemon is extremely rare to find. Eevee has an unstable genetic makeup that suddenly mutates to fit its environment. Radiation from various stones causes this Pokemon to evolve.",
     "Baby": false,
     "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "To": "Vaporeon",
+            "Kind": "Stone",
+            "Item": "Water Stone"
+        },
+        {
+            "To": "Jolteon",
+            "Kind": "Stone",
+            "Item": "Thunder Stone"
+        },
+        {
+            "To": "Flareon",
+            "Kind": "Stone",
+            "Item": "Fire Stone"
+        },
+        {
+            "To": "Espeon",
+            "Kind": "Special",
+            "Stat": "Happiness",
+            "Value": 4,
+            "Special": "Sunlight"
+        },
+        {
+            "To": "Umbreon",
+            "Kind": "Special",
+            "Stat": "Happiness",
+            "Value": 4,
+            "Special": "Moonlight"
+        },
+        {
+            "To": "Leafeon",
+            "Kind": "Stone",
+            "Item": "Leaf Stone"
+        },
+        {
+            "To": "Glaceon",
+            "Kind": "Stone",
+            "Item": "Ice Stone"
+        },
+        {
+            "To": "Sylveon",
+            "Kind": "Stat",
+            "Stat": "Loyalty",
+            "Value": 5
+        }
+    ]
 }

@@ -44,5 +44,12 @@
     "DexDescription": "It can store and expel an extremely hot gas through its beak that ignites easily. The berry seeds it shoots can pierce boulders, leaving perfectly round holes on them. Fortunately, they nest deep in the jungle.",
     "Baby": false,
     "PrimaryEggGroup": "Flying",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "From": "Trumbeak",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ]
 }

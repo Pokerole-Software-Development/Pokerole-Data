@@ -44,5 +44,12 @@
     "DexDescription": "They are elusive as they can liquefy their body to move through small spaces. They live in groups, but when the time comes, one strong Meltan will absorb all the others and evolve.",
     "Baby": false,
     "PrimaryEggGroup": "Undiscovered",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "To": "Melmetal",
+            "Kind": "Level",
+            "Speed": "Unknown"
+        }
+    ]
 }

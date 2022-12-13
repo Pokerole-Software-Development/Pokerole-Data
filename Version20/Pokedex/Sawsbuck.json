@@ -44,5 +44,12 @@
     "DexDescription": "The plants growing on its horns change according to the season. They live in herds that migrate in search of grass. The leaders of the herd possess magnificent horns. They tend to be peaceful creatures.",
     "Baby": false,
     "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "From": "Deerling",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ]
 }

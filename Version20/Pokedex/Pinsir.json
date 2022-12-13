@@ -45,9 +45,10 @@
     "Baby": false,
     "PrimaryEggGroup": "Bug",
     "SecondaryEggGroup": "",
-    "MegaEvolutions": [
+    "Evolutions": [
         {
-            "Name": "Mega-Pinsir",
+            "To": "Mega-Pinsir",
+            "Kind": "Mega",
             "Item": "Pinsirite"
         }
     ]

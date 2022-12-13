@@ -44,5 +44,12 @@
     "DexDescription": "This Pokemon has been given the nickname \u201cthe gem of the sea.\u201d It swims through water by spinning its star-shaped body as if it were a propeller on a ship. The core at the center glows with different colors.",
     "Baby": false,
     "PrimaryEggGroup": "Water 3",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "From": "Staryu",
+            "Kind": "Stone",
+            "Item": "Water Stone"
+        }
+    ]
 }

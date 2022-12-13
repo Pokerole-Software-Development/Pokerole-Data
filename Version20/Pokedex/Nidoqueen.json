@@ -44,5 +44,12 @@
     "DexDescription": "Motherly by nature, it uses its scaly rugged body to seal the entrance of its nest and protect its young from predators. There are records of angry Nidoqueens sending people flying with a single tackle.",
     "Baby": false,
     "PrimaryEggGroup": "Undiscovered",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "From": "Nidorina",
+            "Kind": "Stone",
+            "Item": "Moon Stone"
+        }
+    ]
 }

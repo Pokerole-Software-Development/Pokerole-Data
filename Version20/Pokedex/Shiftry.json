@@ -44,5 +44,12 @@
     "DexDescription": "Feared as protectors of the forest. They are said to live atop towering trees dating back thousands of years, creating terrible wind storms. It is said they can read people\u2019s minds to prey on their fears.",
     "Baby": false,
     "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": "Grass"
+    "SecondaryEggGroup": "Grass",
+    "Evolutions": [
+        {
+            "From": "Nuzleaf",
+            "Kind": "Stone",
+            "Item": "Leaf Stone"
+        }
+    ]
 }

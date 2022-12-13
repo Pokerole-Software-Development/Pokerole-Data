@@ -44,5 +44,12 @@
     "DexDescription": "Their nest is like a bowl pit dug in sand. Trapinches wait for prey to tumble down their pit, later to be crushed between this Pokemon\u2019s jaws. Beware of them as their bite can cause serious damage.",
     "Baby": false,
     "PrimaryEggGroup": "Bug",
-    "SecondaryEggGroup": "Dragon"
+    "SecondaryEggGroup": "Dragon",
+    "Evolutions": [
+        {
+            "To": "Vibrava",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ]
 }

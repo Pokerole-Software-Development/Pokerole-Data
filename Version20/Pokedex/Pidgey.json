@@ -44,5 +44,12 @@
     "DexDescription": "Very common around the world, it prefers to live in forests but can be seen around cities and plains too. It\u2019s a docile Pokemon that tends to avoid trouble. It flaps its wings to lure prey out of hiding.",
     "Baby": false,
     "PrimaryEggGroup": "Flying",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "To": "Pidgeotto",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ]
 }

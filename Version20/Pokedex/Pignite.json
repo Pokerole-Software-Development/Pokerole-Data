@@ -44,5 +44,17 @@
     "DexDescription": "Whatever it eats becomes fuel for the flame on its stomach. When it is angered, the intensity of the flame increases. It is not common to see them the wild. They are mostly found living in warm places.",
     "Baby": false,
     "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "From": "Tepig",
+            "Kind": "Level",
+            "Speed": "Medium"
+        },
+        {
+            "To": "Emboar",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ]
 }

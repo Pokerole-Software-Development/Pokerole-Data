@@ -44,5 +44,12 @@
     "DexDescription": "They flock in dozens because they are very weak on their own. They live around mountains and fields, chasing Bug Pokemon. Everyone hates their annoying and strident singing.",
     "Baby": false,
     "PrimaryEggGroup": "Flying",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "To": "Staravia",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ]
 }

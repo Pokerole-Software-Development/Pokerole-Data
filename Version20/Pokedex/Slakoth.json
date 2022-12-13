@@ -44,5 +44,12 @@
     "DexDescription": "They laze around 20 hours a day barely eating. Slakoths remain motionless no matter what. It\u2019s rare to see this Pokemon doing something, most of them never even bother to evolve.",
     "Baby": false,
     "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "To": "Vigoroth",
+            "Kind": "Level",
+            "Speed": "Slow"
+        }
+    ]
 }

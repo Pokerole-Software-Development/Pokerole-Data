@@ -44,5 +44,12 @@
     "DexDescription": "A nocturnal Pokemon found in dark forests. It has an internal organ that senses the earth\u2019s rotation. By using this special organ a Hoothoot begins hooting at precisely the same time every day.",
     "Baby": false,
     "PrimaryEggGroup": "Flying",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "To": "Noctowl",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ]
 }

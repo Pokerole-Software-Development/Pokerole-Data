@@ -45,9 +45,10 @@
     "Baby": false,
     "PrimaryEggGroup": "Human-Like",
     "SecondaryEggGroup": "",
-    "MegaEvolutions": [
+    "Evolutions": [
         {
-            "Name": "Mega-Sableye",
+            "To": "Mega-Sableye",
+            "Kind": "Mega",
             "Item": "Sablenite"
         }
     ]

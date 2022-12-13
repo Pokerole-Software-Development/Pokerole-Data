@@ -45,5 +45,11 @@
     "Baby": false,
     "PrimaryEggGroup": "Field",
     "SecondaryEggGroup": "Human-Like",
-    "MegaBaseForm": "Lopunny"
+    "Evolutions": [
+        {
+            "From": "Lopunny",
+            "Kind": "Mega",
+            "Item": "Lopunnite"
+        }
+    ]
 }

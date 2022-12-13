@@ -44,5 +44,12 @@
     "DexDescription": "The male Nidoran has developed a great alertness to sounds. Its small body is covered in spikes that are drenched in venom when he\u2019s threatened. He will defend his mate and home fiercely.",
     "Baby": false,
     "PrimaryEggGroup": "Monster",
-    "SecondaryEggGroup": "Field"
+    "SecondaryEggGroup": "Field",
+    "Evolutions": [
+        {
+            "To": "Nidorino",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ]
 }

@@ -45,9 +45,10 @@
     "Baby": false,
     "PrimaryEggGroup": "Field",
     "SecondaryEggGroup": "",
-    "MegaEvolutions": [
+    "Evolutions": [
         {
-            "Name": "Mega-Absol",
+            "To": "Mega-Absol",
+            "Kind": "Mega",
             "Item": "Absolite"
         }
     ]

@@ -44,5 +44,17 @@
     "DexDescription": "It loyally follows its Trainer\u2019s orders. For ages, they have helped Trainers to raise well behaved Pokemon. It has black, cape-like fur that is very hard and keeps it protected from the weather.",
     "Baby": false,
     "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "From": "Lillipup",
+            "Kind": "Level",
+            "Speed": "Medium"
+        },
+        {
+            "To": "Stoutland",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ]
 }

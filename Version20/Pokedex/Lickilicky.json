@@ -44,5 +44,12 @@
     "DexDescription": "It uses its tongue as an stretchable arm. It will wrap prey with it and then proceed to eat it. Its saliva causes numbness. Try not to touch its tongue, it might try to eat you by reflex.",
     "Baby": false,
     "PrimaryEggGroup": "Monster",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "From": "Lickitung",
+            "Kind": "Level",
+            "Speed": "Slow"
+        }
+    ]
 }

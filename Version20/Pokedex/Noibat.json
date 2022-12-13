@@ -44,5 +44,12 @@
     "DexDescription": "They live in dark caves and use echolocation to move around. Their enormous ears can emit ultrasonic waves that cause dizziness. Groups of them can even take on prey several times their size.",
     "Baby": false,
     "PrimaryEggGroup": "Flying",
-    "SecondaryEggGroup": "Dragon"
+    "SecondaryEggGroup": "Dragon",
+    "Evolutions": [
+        {
+            "To": "Noivern",
+            "Kind": "Level",
+            "Speed": "Slow"
+        }
+    ]
 }

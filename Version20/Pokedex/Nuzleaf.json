@@ -44,5 +44,17 @@
     "DexDescription": "They live inside holes on big trees. Their leaves are played like flutes to strike fear and discomfort in lost people\u2019s hearts. They like to go out and startle people. Their noses are really sensitive and frail.",
     "Baby": false,
     "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": "Grass"
+    "SecondaryEggGroup": "Grass",
+    "Evolutions": [
+        {
+            "From": "Seedot",
+            "Kind": "Level",
+            "Speed": "Medium"
+        },
+        {
+            "To": "Shiftry",
+            "Kind": "Stone",
+            "Item": "Leaf Stone"
+        }
+    ]
 }

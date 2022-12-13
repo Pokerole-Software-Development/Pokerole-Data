@@ -44,5 +44,12 @@
     "DexDescription": "The powder that covers its body regulates its temperature so it is able to live in any region or climate. Whenever it is under attack it spews a black powder that causes paralysis on contact.",
     "Baby": false,
     "PrimaryEggGroup": "Bug",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "To": "Spewpa",
+            "Kind": "Level",
+            "Speed": "Fast"
+        }
+    ]
 }

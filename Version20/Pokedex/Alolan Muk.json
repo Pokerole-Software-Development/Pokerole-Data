@@ -44,5 +44,12 @@
     "DexDescription": "It is as friendly as it is toxic, be careful for it tries to hug others regularly. A good diet does not help reduce its toxicity levels, it only makes it cranky and prone to destroy furniture. It releases toxic fumes all the time.",
     "Baby": false,
     "PrimaryEggGroup": "Amorphous",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "From": "Alolan Grimer",
+            "Kind": "Level",
+            "Speed": "Slow"
+        }
+    ]
 }

@@ -44,5 +44,11 @@
     "DexDescription": "What was thought to be different species ended up being a single Pokemon. Oricorio Sensu is calm and indifferent, its dance is said to attract evil spirits. People from Kanto find it very nostalgic.",
     "Baby": false,
     "PrimaryEggGroup": "Flying",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "From": "Oricorio Fire",
+            "Kind": "Form"
+        }
+    ]
 }

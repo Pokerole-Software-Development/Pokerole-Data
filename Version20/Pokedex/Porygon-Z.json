@@ -44,5 +44,12 @@
     "DexDescription": "A software to explore another dimension was installed on Porygon. However, it began acting oddly due to glitches in the code. Since then, it has a fondness for videos of Meowth and Skitty on the internet",
     "Baby": false,
     "PrimaryEggGroup": "Mineral",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "From": "Porygon2",
+            "Kind": "Trade",
+            "Item": "Dubious Disc"
+        }
+    ]
 }

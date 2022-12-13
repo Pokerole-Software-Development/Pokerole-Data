@@ -44,5 +44,13 @@
     "DexDescription": "This Pokemon is female only. Legends in snowy regions say that a woman who was lost at an icy mountain was reborn as Froslass. It appears during blizzards to take lost people away.",
     "Baby": false,
     "PrimaryEggGroup": "Fairy",
-    "SecondaryEggGroup": "Mineral"
+    "SecondaryEggGroup": "Mineral",
+    "Evolutions": [
+        {
+            "From": "Snorunt",
+            "Kind": "Stone",
+            "Item": "Dawn Stone",
+            "Gender": "Female"
+        }
+    ]
 }

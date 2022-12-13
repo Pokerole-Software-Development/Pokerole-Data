@@ -44,5 +44,12 @@
     "DexDescription": "Underground tunnels have been found all over the Kalos Region. There are rumors of a creature who lives in them that attacks people damaging the ecosystem.",
     "Baby": false,
     "PrimaryEggGroup": "Undiscovered",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "From": "Zygarde Cell",
+            "Kind": "Special",
+            "Item": "Zyguarde cells"
+        }
+    ]
 }

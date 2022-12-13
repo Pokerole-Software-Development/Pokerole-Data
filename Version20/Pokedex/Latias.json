@@ -45,9 +45,10 @@
     "Baby": false,
     "PrimaryEggGroup": "Undiscovered",
     "SecondaryEggGroup": "",
-    "MegaEvolutions": [
+    "Evolutions": [
         {
-            "Name": "Mega-Latias",
+            "To": "Mega-Latias",
+            "Kind": "Mega",
             "Item": "Latiasite"
         }
     ]

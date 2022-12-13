@@ -44,5 +44,12 @@
     "DexDescription": "They are brave and noble, facing bigger foes whoever they might be. However, being just a child, it usually feels lonely and cries at night. They can be seen migrating south in the winter.",
     "Baby": false,
     "PrimaryEggGroup": "Flying",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "To": "Swellow",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ]
 }

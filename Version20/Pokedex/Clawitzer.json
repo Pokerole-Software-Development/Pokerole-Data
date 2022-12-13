@@ -44,5 +44,12 @@
     "DexDescription": "They can be seen swimming backwards using their launcher as A propulsor, but they usually stay at the bottom of the sea. Their meat is tough and bitter so people don\u2019t use them as food anymore.",
     "Baby": false,
     "PrimaryEggGroup": "Water 1",
-    "SecondaryEggGroup": "Water 3"
+    "SecondaryEggGroup": "Water 3",
+    "Evolutions": [
+        {
+            "From": "Clauncher",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ]
 }

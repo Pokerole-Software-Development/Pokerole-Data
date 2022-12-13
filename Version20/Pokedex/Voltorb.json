@@ -44,5 +44,12 @@
     "DexDescription": "They live near factories and electric generators. It bears an uncanny and unexplained resemblance to a Pokeball. Since it explodes at the slightest provocation, even veteran trainers treat it with caution.",
     "Baby": false,
     "PrimaryEggGroup": "Mineral",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "To": "Electrode",
+            "Kind": "Level",
+            "Speed": "Slow"
+        }
+    ]
 }

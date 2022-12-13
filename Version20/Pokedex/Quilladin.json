@@ -44,5 +44,17 @@
     "DexDescription": "It strengthens its lower body by running into sturdy things. It is a kind Pokemon that relies on its sturdy shell and sharp quills to deflect any foe trying to attack it. They never start a fight.",
     "Baby": false,
     "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "From": "Chespin",
+            "Kind": "Level",
+            "Speed": "Medium"
+        },
+        {
+            "To": "Chesnaught",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ]
 }

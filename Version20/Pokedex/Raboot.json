@@ -44,5 +44,17 @@
     "DexDescription": "This Pokemon loves to kick and trains each day to get better at it. Its fur is now very thick, some debate it is to protect it from the cold weather others say it is to produce hotter flames.",
     "Baby": false,
     "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": "Human-Like"
+    "SecondaryEggGroup": "Human-Like",
+    "Evolutions": [
+        {
+            "From": "Scorbunny",
+            "Kind": "Level",
+            "Speed": "Medium"
+        },
+        {
+            "To": "Cinderace",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ]
 }

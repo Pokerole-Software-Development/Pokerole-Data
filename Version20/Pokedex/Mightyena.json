@@ -44,5 +44,12 @@
     "DexDescription": "They attack savagely, travel in packs and hunt in groups. They will only obey trainers that show superior skills, which they recognize as the alpha leader. They are extremely obedient once they find a master.",
     "Baby": false,
     "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "From": "Poochyena",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ]
 }

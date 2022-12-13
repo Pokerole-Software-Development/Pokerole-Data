@@ -45,9 +45,15 @@
     "Baby": false,
     "PrimaryEggGroup": "Monster",
     "SecondaryEggGroup": "Water 1",
-    "MegaEvolutions": [
+    "Evolutions": [
         {
-            "Name": "Mega-Blastoise",
+            "From": "Wartortle",
+            "Kind": "Level",
+            "Speed": "Medium"
+        },
+        {
+            "To": "Mega-Blastoise",
+            "Kind": "Mega",
             "Item": "Blastoisinite"
         }
     ]

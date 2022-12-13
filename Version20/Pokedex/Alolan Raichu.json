@@ -44,5 +44,13 @@
     "DexDescription": "Scientists were baffled to discover Raichu's evolution in the Alola Region. There is no explanation as to how it gained Psychic abilities, but diet seems to be factor. It loves sweet food and pancakes.",
     "Baby": false,
     "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": "Fairy"
+    "SecondaryEggGroup": "Fairy",
+    "Evolutions": [
+        {
+            "From": "Pikachu",
+            "Kind": "Stone",
+            "Item": "Thunder Stone",
+            "Region": "Alola"
+        }
+    ]
 }

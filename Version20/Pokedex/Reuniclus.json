@@ -44,5 +44,12 @@
     "DexDescription": "These intelligent Pokemon fight by controlling their arms with psychic energy. They have been seen forming networks of many Reuniclus holding hands and unleashing an incredible psychic wave.",
     "Baby": false,
     "PrimaryEggGroup": "Amorphous",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "From": "Duosion",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ]
 }

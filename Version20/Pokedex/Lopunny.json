@@ -45,9 +45,16 @@
     "Baby": false,
     "PrimaryEggGroup": "Field",
     "SecondaryEggGroup": "Human-Like",
-    "MegaEvolutions": [
+    "Evolutions": [
         {
-            "Name": "Mega-Lopunny",
+            "From": "Buneary",
+            "Kind": "Stat",
+            "Stat": "Happiness",
+            "Value": 4
+        },
+        {
+            "To": "Mega-Lopunny",
+            "Kind": "Mega",
             "Item": "Lopunnite"
         }
     ]

@@ -44,5 +44,12 @@
     "DexDescription": "It drives weaker Pokemon from their homes and eats their eggs. They are vicious and cunning. They wait for prey hidden in the darkness and enjoy slashing their foes until they get tired or the foe stops moving.",
     "Baby": false,
     "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "To": "Weavile",
+            "Kind": "Level",
+            "Item": "Razor Claw"
+        }
+    ]
 }

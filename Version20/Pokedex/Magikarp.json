@@ -44,5 +44,12 @@
     "DexDescription": "Magikarp is a pathetic excuse of a Pokemon that is not even good to eat. It\u2019s only capable of flopping and splashing. However, it can survive in any body of water no matter how polluted it is.",
     "Baby": false,
     "PrimaryEggGroup": "Water 2",
-    "SecondaryEggGroup": "Dragon"
+    "SecondaryEggGroup": "Dragon",
+    "Evolutions": [
+        {
+            "To": "Gyarados",
+            "Kind": "Level",
+            "Speed": "Slow"
+        }
+    ]
 }

@@ -44,5 +44,12 @@
     "DexDescription": "While in the water, it opens its big jaw to intimidate anyone coming close. Whenever it bites, it shakes its head and savagely rolls to tear up its prey. It is a very dangerous Pokemon. Approach with caution",
     "Baby": false,
     "PrimaryEggGroup": "Monster",
-    "SecondaryEggGroup": "Water 1"
+    "SecondaryEggGroup": "Water 1",
+    "Evolutions": [
+        {
+            "From": "Croconaw",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ]
 }

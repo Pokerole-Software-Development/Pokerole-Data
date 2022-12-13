@@ -44,5 +44,12 @@
     "DexDescription": "They are born at the beginning of the spring. Their coloring changes according to the season and can be affected by temperature as well. It usually stays hidden in tall grass while its mother is away.",
     "Baby": false,
     "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "To": "Sawsbuck",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ]
 }

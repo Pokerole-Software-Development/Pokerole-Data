@@ -44,5 +44,17 @@
     "DexDescription": "From its beak, it expels embers to set tall grass on fire, then it pounces on the bewildered prey that pop out of the grass. Its body becomes engulfed in flames when it starts to battle. It is a fierce Pokemon.",
     "Baby": false,
     "PrimaryEggGroup": "Flying",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "From": "Fletchling",
+            "Kind": "Level",
+            "Speed": "Medium"
+        },
+        {
+            "To": "Talonflame",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ]
 }

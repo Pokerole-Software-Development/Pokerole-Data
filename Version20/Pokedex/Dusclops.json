@@ -44,5 +44,17 @@
     "DexDescription": "Its body is hollow. Some paranormal experts say there is a spectral energy ball inside them but it is not confirmed. If it absorbs an object or a creature there\u2019s the risk that nothing will come back out.",
     "Baby": false,
     "PrimaryEggGroup": "Amorphous",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "From": "Duskull",
+            "Kind": "Level",
+            "Speed": "Medium"
+        },
+        {
+            "To": "Dusknoir",
+            "Kind": "Trade",
+            "Item": "Reaper Cloth"
+        }
+    ]
 }

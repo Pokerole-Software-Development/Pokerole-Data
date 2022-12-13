@@ -44,5 +44,12 @@
     "DexDescription": "It can live anywhere it can find food, but they are often in cities and fields. They form large families in their burrows. Since they are often preyed on, Rattatas are always alert and quick to flee.",
     "Baby": false,
     "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "To": "Raticate",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ]
 }

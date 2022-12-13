@@ -44,5 +44,17 @@
     "DexDescription": "This Pokemon bends its beak to produce a variety of sounds, much to the annoyance of the neighbors. It also shoots a burst of berry seeds to its foes, prey, or an unsuspecting passerby.",
     "Baby": false,
     "PrimaryEggGroup": "Flying",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "From": "Pikipek",
+            "Kind": "Level",
+            "Speed": "Medium"
+        },
+        {
+            "To": "Toucannon",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ]
 }

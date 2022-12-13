@@ -44,5 +44,12 @@
     "DexDescription": "They live in grass fields in big groups. One of them is always looking out for predators. The group gathers food they store on their cheeks to bring it back home. They are wary and alert all the time.",
     "Baby": false,
     "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "To": "Watchog",
+            "Kind": "Level",
+            "Speed": "Fast"
+        }
+    ]
 }

@@ -44,5 +44,12 @@
     "DexDescription": "This Pokemon has only been seen few times in the ruins and tombs of ancient civilizations. It curses and transforms people and Pokemon into mummy-like creatures. It is said it feeds on pure gold.",
     "Baby": false,
     "PrimaryEggGroup": "Mineral",
-    "SecondaryEggGroup": "Amorphous"
+    "SecondaryEggGroup": "Amorphous",
+    "Evolutions": [
+        {
+            "From": "Yamask",
+            "Kind": "Level",
+            "Speed": "Slow"
+        }
+    ]
 }

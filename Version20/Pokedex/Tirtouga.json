@@ -44,5 +44,12 @@
     "DexDescription": "About 100 million years ago, these Pokemon swam in oceans. It is thought they also went on land to attack prey. One has been cloned from a fossil that was found a mile deep underwater.",
     "Baby": false,
     "PrimaryEggGroup": "Water 1",
-    "SecondaryEggGroup": "Water 3"
+    "SecondaryEggGroup": "Water 3",
+    "Evolutions": [
+        {
+            "To": "Carracosta",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ]
 }

@@ -44,5 +44,12 @@
     "DexDescription": "Its voice has a very loud volume and it is a noisy and rude Pokemon. Obstagoon has a tendency to take on a threatening posture and shout at anyone that is in front of it. They rarely take things seriously.",
     "Baby": false,
     "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "From": "Galarian Linoone",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ]
 }

@@ -45,9 +45,10 @@
     "Baby": false,
     "PrimaryEggGroup": "Undiscovered",
     "SecondaryEggGroup": "",
-    "MegaEvolutions": [
+    "Evolutions": [
         {
-            "Name": "Mega-Diancie",
+            "To": "Mega-Diancie",
+            "Kind": "Mega",
             "Item": "Diancite"
         }
     ]

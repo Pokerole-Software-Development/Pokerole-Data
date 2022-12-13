@@ -44,5 +44,12 @@
     "DexDescription": "It has a pliable body without any bones. If any part of its body is torn off, it will grow back in minutes. There is evidence that it had a hard shell on its back for protection in prehistoric times.",
     "Baby": false,
     "PrimaryEggGroup": "Water 1",
-    "SecondaryEggGroup": "Amorphous"
+    "SecondaryEggGroup": "Amorphous",
+    "Evolutions": [
+        {
+            "From": "Shellos",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ]
 }

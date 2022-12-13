@@ -44,5 +44,16 @@
     "DexDescription": "This Pokemon is shrouded in mystery as old writings and mural paintings describe it as being blue and using psychic powers, but years of study have not seen those traits on this Pokemon that relies on brute force.",
     "Baby": false,
     "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "From": "Darumaka",
+            "Kind": "Level",
+            "Speed": "Medium"
+        },
+        {
+            "To": "Zen Darmanitan",
+            "Kind": "Form"
+        }
+    ]
 }

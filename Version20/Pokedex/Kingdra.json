@@ -44,5 +44,12 @@
     "DexDescription": "Kingdra sleeps on the seafloor where it is otherwise devoid of life. When a storm arrives, it is said to awaken and wander about in search of prey. They are known for creating twisters in the sea.",
     "Baby": false,
     "PrimaryEggGroup": "Water 1",
-    "SecondaryEggGroup": "Dragon"
+    "SecondaryEggGroup": "Dragon",
+    "Evolutions": [
+        {
+            "From": "Seadra",
+            "Kind": "Trade",
+            "Item": "Dragon Scale"
+        }
+    ]
 }

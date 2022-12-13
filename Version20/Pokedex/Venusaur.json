@@ -45,9 +45,15 @@
     "Baby": false,
     "PrimaryEggGroup": "Monster",
     "SecondaryEggGroup": "Grass",
-    "MegaEvolutions": [
+    "Evolutions": [
         {
-            "Name": "Mega-Venusaur",
+            "From": "Ivysaur",
+            "Kind": "Level",
+            "Speed": "Medium"
+        },
+        {
+            "To": "Mega-Venusaur",
+            "Kind": "Mega",
             "Item": "Venusaurite"
         }
     ]

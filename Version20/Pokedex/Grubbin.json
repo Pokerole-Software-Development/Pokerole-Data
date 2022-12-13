@@ -44,5 +44,12 @@
     "DexDescription": "They tend to gather anywhere Electric Pokemon live to protect themselves from bird Pokemon who may prey on them. When they are ready to evolve they bury themselves underground.",
     "Baby": false,
     "PrimaryEggGroup": "Bug",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "To": "Charjabug",
+            "Kind": "Level",
+            "Speed": "Fast"
+        }
+    ]
 }

@@ -44,5 +44,13 @@
     "DexDescription": "A well-disciplined Rockruff will evolve at Dawn. This Pokemon is very Loyal and trustworthy. It can climb mountains fast and is a quick runner. The rocks on its mane are its main weapons.",
     "Baby": false,
     "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "From": "Rockruff",
+            "Kind": "Level",
+            "Speed": "Medium",
+            "Special": "Day"
+        }
+    ]
 }

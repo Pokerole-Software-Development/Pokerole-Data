@@ -44,5 +44,12 @@
     "DexDescription": "Grimer were brought into Alola to eat garbage on the region. It seemed like a counterintuitive measure but ended up solving the problem. But now Grimer are incredibly noxious, much more toxic than usual.",
     "Baby": false,
     "PrimaryEggGroup": "Amorphous",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "To": "Alolan Muk",
+            "Kind": "Level",
+            "Speed": "Slow"
+        }
+    ]
 }

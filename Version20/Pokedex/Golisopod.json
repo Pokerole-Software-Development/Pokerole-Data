@@ -44,5 +44,12 @@
     "DexDescription": "This Pokemon is a rare sight, for most Wimpods never evolve and when they do, Golisopod spend most of their lives in deep sea caves, meditating. It is extremely strong, its claws can tear through everything.",
     "Baby": false,
     "PrimaryEggGroup": "Bug",
-    "SecondaryEggGroup": "Water 3"
+    "SecondaryEggGroup": "Water 3",
+    "Evolutions": [
+        {
+            "From": "Wimpod",
+            "Kind": "Level",
+            "Speed": "Slow"
+        }
+    ]
 }

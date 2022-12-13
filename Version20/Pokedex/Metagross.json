@@ -45,9 +45,15 @@
     "Baby": false,
     "PrimaryEggGroup": "Mineral",
     "SecondaryEggGroup": "",
-    "MegaEvolutions": [
+    "Evolutions": [
         {
-            "Name": "Mega-Metagross",
+            "From": "Metang",
+            "Kind": "Level",
+            "Speed": "Slow"
+        },
+        {
+            "To": "Mega-Metagross",
+            "Kind": "Mega",
             "Item": "Metagrossite"
         }
     ]

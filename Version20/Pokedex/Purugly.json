@@ -44,5 +44,12 @@
     "DexDescription": "It becomes wilder and aggressive after evolving. It is known to claim other Pokemon nests as its own. It will make itself appear bigger and glare with piercing eyes to achieve dominance over someone.",
     "Baby": false,
     "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "From": "Glameow",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ]
 }

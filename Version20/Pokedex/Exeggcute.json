@@ -44,5 +44,18 @@
     "DexDescription": "Even though it appears to be eggs of some sort, it is related more to a seed. It gathers in packs of six that have a mental link with each other. Each one of them has a different personality.",
     "Baby": false,
     "PrimaryEggGroup": "Grass",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "To": "Exeggutor",
+            "Kind": "Stone",
+            "Item": "Leaf Stone"
+        },
+        {
+            "To": "Alolan Exeggutor",
+            "Kind": "Stone",
+            "Item": "Leaf Stone",
+            "Region": "Alola"
+        }
+    ]
 }

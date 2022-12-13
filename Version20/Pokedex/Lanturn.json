@@ -44,5 +44,12 @@
     "DexDescription": "It is known for its soft light glow. They are not aggressive Pokemon. If you look into the dark sea at night you can sometimes see this Pokemon\u2019s light rising from the depths, making the sea look like a starry night.",
     "Baby": false,
     "PrimaryEggGroup": "Water 2",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "From": "Chinchou",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ]
 }

@@ -44,5 +44,17 @@
     "DexDescription": "It remains virtually immobile while it clings to a tree. On the inside, it is preparing for evolution by rising the temperature of its shell. Beware of Beedrills that may roam close to it.",
     "Baby": false,
     "PrimaryEggGroup": "Bug",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "From": "Weedle",
+            "Kind": "Level",
+            "Speed": "Fast"
+        },
+        {
+            "To": "Beedrill",
+            "Kind": "Level",
+            "Speed": "Fast"
+        }
+    ]
 }

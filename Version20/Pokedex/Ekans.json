@@ -44,5 +44,12 @@
     "DexDescription": "Lives on grasslands. Preys on Rattatas and Pokemon Eggs it finds. It\u2019s jaw can detach itself to swallow any prey whole. It coils and sleeps after eating. Ekans grow bigger with age.",
     "Baby": false,
     "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": "Dragon"
+    "SecondaryEggGroup": "Dragon",
+    "Evolutions": [
+        {
+            "To": "Arbok",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ]
 }

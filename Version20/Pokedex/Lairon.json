@@ -44,5 +44,17 @@
     "DexDescription": "Their armors gets stronger by eating iron ores and drinking mineral spring water, usually nesting close to ponds. Lairons often attack human miners. They are territorial creatures, incredibly stubborn and resilient.",
     "Baby": false,
     "PrimaryEggGroup": "Monster",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "From": "Aron",
+            "Kind": "Level",
+            "Speed": "Medium"
+        },
+        {
+            "To": "Aggron",
+            "Kind": "Level",
+            "Speed": "Slow"
+        }
+    ]
 }

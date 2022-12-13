@@ -44,5 +44,12 @@
     "DexDescription": "On extremely rare occasions; when Nincada evolves, the empty cocoon comes to life. They don\u2019t move, they only float unnaturally around. It is said that it will steal the soul of anyone looking directly at them.",
     "Baby": false,
     "PrimaryEggGroup": "Mineral",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "From": "Nincada",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ]
 }

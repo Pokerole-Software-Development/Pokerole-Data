@@ -44,5 +44,17 @@
     "DexDescription": "They hide between huge leaves and gaps between branches, if they were to move, their evolution would be weaker. Due to this, Cascoon will remain motionless. If Wrumple lived in a dark place, it evolves to Cascoon.",
     "Baby": false,
     "PrimaryEggGroup": "Bug",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "From": "Wurmple",
+            "Kind": "Level",
+            "Speed": "Fast"
+        },
+        {
+            "To": "Dustox",
+            "Kind": "Level",
+            "Speed": "Fast"
+        }
+    ]
 }

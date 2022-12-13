@@ -44,5 +44,12 @@
     "DexDescription": "It lives near lakes and ponds but it\u2019s not very good at swimming. It is always tormented by headaches that worsen when it uses psychic powers. Psyducks seem unaware of their own power.",
     "Baby": false,
     "PrimaryEggGroup": "Water 1",
-    "SecondaryEggGroup": "Field"
+    "SecondaryEggGroup": "Field",
+    "Evolutions": [
+        {
+            "To": "Golduck",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ]
 }

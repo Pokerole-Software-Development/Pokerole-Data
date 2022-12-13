@@ -44,5 +44,12 @@
     "DexDescription": "They greet one another by rubbing their tails, which are always kept well groomed and clean. Housewives love to keep them as pets because they eagerly help to clean the house.",
     "Baby": false,
     "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "To": "Cinccino",
+            "Kind": "Stone",
+            "Item": "Shiny Stone"
+        }
+    ]
 }

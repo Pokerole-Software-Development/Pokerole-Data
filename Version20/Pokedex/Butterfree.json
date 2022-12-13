@@ -44,5 +44,12 @@
     "DexDescription": "It can be found in forests and plains. It loves the honey in some flowers even with tiny amounts of pollen. Its wings are covered by dust that allows it to fly even when it\u2019s raining.",
     "Baby": false,
     "PrimaryEggGroup": "Bug",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "From": "Metapod",
+            "Kind": "Level",
+            "Speed": "Fast"
+        }
+    ]
 }

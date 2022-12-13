@@ -44,5 +44,12 @@
     "DexDescription": "Lives in mountains and caves. It looks indistinguishable from other rocks around. Because of this, many trainers step on them and are attacked. It rolls to move around and eats whatever it finds on the floor.",
     "Baby": false,
     "PrimaryEggGroup": "Mineral",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "To": "Graveler",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ]
 }

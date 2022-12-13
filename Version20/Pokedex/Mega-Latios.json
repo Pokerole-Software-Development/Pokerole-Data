@@ -45,5 +45,11 @@
     "Baby": false,
     "PrimaryEggGroup": "Undiscovered",
     "SecondaryEggGroup": "",
-    "MegaBaseForm": "Latios"
+    "Evolutions": [
+        {
+            "From": "Latios",
+            "Kind": "Mega",
+            "Item": "Latiasite"
+        }
+    ]
 }

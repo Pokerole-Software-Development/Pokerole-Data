@@ -44,5 +44,12 @@
     "DexDescription": "It protects its skin by covering its body in bubble foam. Beneath its happy-go-lucky air, it keeps a watchful eye on its surroundings. It needs good discipline or it will be bad mannered with others.",
     "Baby": false,
     "PrimaryEggGroup": "Water 1",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "To": "Frogadier",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ]
 }

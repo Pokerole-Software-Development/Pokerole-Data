@@ -44,5 +44,12 @@
     "DexDescription": "Wailmer has a playful nature. They can store water inside their body to inflate like a ball and bounce, then startle people by snorting the water from their nostrils. This Pokemon needs lots of food everyday.",
     "Baby": false,
     "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": "Water 2"
+    "SecondaryEggGroup": "Water 2",
+    "Evolutions": [
+        {
+            "To": "Wailord",
+            "Kind": "Level",
+            "Speed": "Slow"
+        }
+    ]
 }

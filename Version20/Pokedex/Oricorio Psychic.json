@@ -44,5 +44,11 @@
     "DexDescription": "What was thought to be different species ended up being a single Pokemon. Oricorio Pa'u has an aloof but ultimately relaxed nature. Its dance is focused and has an hypnotic rhythm.",
     "Baby": false,
     "PrimaryEggGroup": "Flying",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "From": "Oricorio Fire",
+            "Kind": "Form"
+        }
+    ]
 }
