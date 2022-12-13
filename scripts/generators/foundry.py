@@ -6,12 +6,9 @@ import fire
 import datetime
 
 # Moves with fields that are problematic for the export
-# - Non-moves such as "Run Away" are excluded
-# - Struggle and Growl have attributes like "Strength/special"
-# - Copycat Damage1 is "Same as the copied move"
-# - Simple Beam is rolled with Empathy. This skill exists neither on the Pokémon sheet nor on the trainer sheet (?)
-# - Lovely Kiss Accuracy1 is "Missing beauty"
-IGNORED_MOVES = ['any-move', 'struggle', 'grapple', 'help-another', 'cover-an-ally', 'stabilize-an-ally', 'run-away', 'copycat', 'simple-beam', 'growl', 'lovely-kiss']
+# - Any Move is too generic, individual moves can be added to Mew instead
+# - Struggle and Growl have attributes like "Strength/special", but there are specialized versions for 
+IGNORED_MOVES = ['any-move', 'struggle', 'growl']
 
 class Foundry(object):
     
@@ -95,34 +92,65 @@ class Foundry(object):
         for src in glob(self.moves_path+"/*.json"):
             entry = json.loads(open(src).read())
             attr = entry.get("Attributes")
+            id = entry['_id']
 
-            if entry['_id'] in IGNORED_MOVES:
+            if id in IGNORED_MOVES:
                 continue
 
+            accMod1 = entry['Accuracy1'].lower()
+            accMod2 = entry['Accuracy2'].lower()
+            dmgMod = entry['Damage1'].lower()
+            move_type = entry['Type'].lower()
+            description = entry['Description']
+            effect = entry['Effect']
+
+            if move_type == "typeless":
+                move_type = "none"
+
+            # Special cases that can't be rolled automatically
+            if id == 'lovely-kiss':
+                accMod1 = ''
+                accMod2 = ''
+                effect += ' Roll (5 - Beauty) + Allure dice for accuracy.'
+            if id == 'simple-beam':
+                accMod1 = ''
+                accMod2 = ''
+                effect += ' Roll Insight+Empathy dice for accuracy. See the description for more details.'
+                description += "<p>Empathy is a custom skill, which you can add manually on the Pokémon's character sheet. You can edit this move to auto-roll once you've added the skill by setting Accuracy Modifier 1 to 'insight' and Accuracy Modifier 2 to 'empathy'.</p>";
+            if id == 'copycat':
+                accMod1 = ''
+                accMod2 = ''
+                dmgMod = ''
+                effect += ' Use the same dice pool for accuracy and damage.'
+            if id == 'help-another':
+                accMod1 = ''
+                accMod2 = ''
+
+            # Data consistency checks
             _check_target(entry['Target'])
-            if entry['Accuracy1'] != '':
-                _check_attribute(entry['Accuracy1'].lower())
-            if entry['Accuracy2'] != '':
-                _check_skill(entry['Accuracy2'].lower())
-            if entry['Damage1'] != '':
-                _check_attribute(entry['Damage1'].lower())
+            if accMod1 != '':
+                _check_attribute(accMod1)
+            if accMod2 != '':
+                _check_skill(accMod2)
+            if dmgMod != '':
+                _check_attribute(dmgMod)
 
             foundry = {
-                        "_id": f"move-{entry['_id']}",
+                        "_id": f"move-{id}",
                         "name": entry['Name'],
                         "type": "move",
                         "img": _icon_for_category(entry['DmgType']),
                         "system": {
-                            "description": entry['Description'],
-                            "type": entry['Type'].lower(),
+                            "description": description,
+                            "type": move_type,
                             "category": entry['DmgType'].lower(),
                             # Special case for Spider Web
-                            "target": entry['Target'] if entry['_id'] != 'spider-web' else "Battlefield (Foes)",
+                            "target": entry['Target'] if id != 'spider-web' else "Battlefield (Foes)",
                             "power": entry['Power'],
-                            "accMod1": entry['Accuracy1'].lower(),
-                            "accMod2": entry['Accuracy2'].lower(),
-                            "dmgMod": entry['Damage1'].lower(),
-                            "effect": entry['Effect'],
+                            "accMod1": accMod1,
+                            "accMod2": accMod2,
+                            "dmgMod": dmgMod,
+                            "effect": effect,
                             "source": self.version,
                             "attributes": {
                                 "accuracyReduction":   _attribute_get(attr, "AccuracyReduction", 0),
