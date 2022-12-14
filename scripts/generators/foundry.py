@@ -6,6 +6,8 @@ from os.path import join
 import fire
 import datetime
 
+secrets = json.load(open('../../secrets.json'))
+
 # Moves with fields that are problematic for the export
 # - Any Move is too generic, individual moves can be added to Mew instead
 # - Struggle and Growl have attributes like "Strength/special", but there are specialized versions for 
@@ -38,16 +40,16 @@ class Foundry(object):
         for p in paths:
             if not os.path.exists(p): raise Exception(f"ERROR: Path {p} not found!")
             
-        self.pokedex_output = '../../Foundry/packs/'
-        self.abilities_output = '../../Foundry/packs/'
-        self.moves_output = '../../Foundry/packs/'
-        self.learnsets_output = '../../Foundry/packs/'
-        self.natures_output = '../../Foundry/packs/'
-        self.sprites_output = '../../Foundry/images/pokemon/box/'
-        self.home_output = '../../Foundry/images/pokemon/home/'
-        self.book_output = '../../Foundry/images/pokemon/book/'
-        self.shuffle_output = '../../Foundry/images/pokemon/shuffle/'
-        self.items_output = '../../Foundry/packs/'
+        self.pokedex_output = f"{secrets['FoundryDataDir']}/packs/"
+        self.abilities_output = f"{secrets['FoundryDataDir']}/packs/"
+        self.moves_output = f"{secrets['FoundryDataDir']}/packs/"
+        self.learnsets_output = f"{secrets['FoundryDataDir']}/packs/"
+        self.natures_output = f"{secrets['FoundryDataDir']}/packs/"
+        self.sprites_output = f"{secrets['FoundryDataDir']}/images/pokemon/box/"
+        self.home_output = f"{secrets['FoundryDataDir']}/images/pokemon/home/"
+        self.book_output = f"{secrets['FoundryDataDir']}/images/pokemon/book/"
+        self.shuffle_output = f"{secrets['FoundryDataDir']}/images/pokemon/shuffle/"
+        self.items_output = f"{secrets['FoundryDataDir']}/packs/"
 
         self.outputs = [self.pokedex_output,self.abilities_output,self.moves_output,
                     self.learnsets_output,self.natures_output,self.sprites_output,
@@ -513,7 +515,12 @@ class Foundry(object):
         x(self.book_path, self.book_output)
         x(self.shuffle_path, self.shuffle_output)
         
-def update(*argv, batch=False, version='Version20', confirm=False):
+def update( *argv, 
+            batch=False, 
+            version='Version20', 
+            confirm=False,
+            sheet_images='book',
+            token_images='book'):
         
     foundry = Foundry(version)
     
@@ -542,7 +549,8 @@ def update(*argv, batch=False, version='Version20', confirm=False):
     
     for t in updates:
         func = targets[t]
-        func()
+        if t == 'pokedex': func(sheet_images, token_images)
+        else: func()
         print(f'INFO: Folder {t} updated!')
         
     print('INFO: Foundry Update Complete.')
@@ -552,11 +560,13 @@ def help():
     Python Script to update the Obsidian Foundry with the latest Data. 
     
     update: 
-        update [collection names], [--batch] [--version Version] [--confirm] [--orphans [clear]] [--orphan_clear_confirm]
+        update [collection names], [--batch] [--version Version] [--confirm] [--sheet_images src] [--token_images src]
             collection names     : one or more of the folders in Foundry. Optional when using --batch.
             batch                : Optional. Updates all Foundry folderss
             version              : Optional. Changes the Version folder to be used in paths.
             confirm              : Optional. Skips confirmation step. 
+            sheet_images         : Optional. Source of pokemon sheet images. Either 'book', 'home', 'box', or 'shuffle'.
+            token_images         : Optional. Source of pokemon token images. Either 'book', 'home', 'box', or 'shuffle'.
     """)
 
 if __name__ == '__main__':
