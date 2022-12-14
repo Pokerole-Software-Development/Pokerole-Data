@@ -2,6 +2,7 @@ from glob import glob
 import json
 import os
 from shutil import copy
+from os.path import join
 import fire
 import datetime
 
@@ -56,13 +57,257 @@ class Foundry(object):
             
         return 0
 
-    def _pokedex(self):
-        pass
+    def _pokedex(self, sheet_img='book', token_img='book'):
+        sheet_img = sheet_img.lower() if sheet_img.lower() in ['book', 'box', 'home', 'shuffle'] else 'book'
+        token_img = token_img.lower() if token_img.lower() in ['book', 'box', 'home', 'shuffle'] else 'book'
+        db = []
+        try:
+            for src in glob(self.pokedex_path+"/*.json"):
+                entry = json.loads(open(src).read())
+                
+                learnset = json.loads(open(join(self.learnsets_path, f"{entry['Name']}.json")).read())
+                moves = [x['Name'] for x in learnset['Moves']]
+                ranks = [x['Learned'] for x in learnset['Moves']]
+                move_list = self._moves(moves, ranks)
+                
+                for move in move_list:
+                    move["ownership"] = { "default": 0, f"pokemon-{entry['_id']}": 3}
+                
+                foundry = {
+                            "_id": f"pokemon-{entry['_id']}",
+                            "name": entry['Name'],
+                            "type": "pokemon",
+                            "img": f"systems/pokerole/images/pokemon/{sheet_img}/{entry['Sprite']}",
+                            "system": {
+                                "hp": {
+                                "value": entry['Vitality']+entry['BaseHP'],
+                                "min": 0,
+                                "max": entry['Vitality']+entry['BaseHP']
+                                },
+                                "will": {
+                                "value": 2+entry['Insight'],
+                                "min": 0,
+                                "max": 2+entry['Insight']
+                                },
+                                "rank": "none",
+                                "nature": "hardy",
+                                "confidence": 0,
+                                "attributes": {
+                                "strength": {
+                                    "value": entry['Strength'],
+                                    "min": 0,
+                                    "max": entry['MaxStrength']
+                                },
+                                "dexterity": {
+                                    "value": entry['Dexterity'],
+                                    "min": 0,
+                                    "max": entry['MaxDexterity']
+                                },
+                                "vitality": {
+                                    "value": entry['Vitality'],
+                                    "min": 0,
+                                    "max": entry['MaxVitality']
+                                },
+                                "insight": {
+                                    "value": entry['Insight'],
+                                    "min": 0,
+                                    "max": entry['MaxInsight']
+                                },
+                                "special": {
+                                    "value": entry['Special'],
+                                    "min": 0,
+                                    "max": entry['MaxSpecial']
+                                }
+                                },
+                                "social": {
+                                "tough": {
+                                    "value": 1,
+                                    "min": 0,
+                                    "max": 5
+                                },
+                                "cool": {
+                                    "value": 1,
+                                    "min": 0,
+                                    "max": 5
+                                },
+                                "beauty": {
+                                    "value": 1,
+                                    "min": 0,
+                                    "max": 5
+                                },
+                                "cute": {
+                                    "value": 1,
+                                    "min": 0,
+                                    "max": 5
+                                },
+                                "clever": {
+                                    "value": 1,
+                                    "min": 0,
+                                    "max": 5
+                                }
+                                },
+                                "skills": {
+                                "brawl": {
+                                    "value": 0,
+                                    "min": 0
+                                },
+                                "evasion": {
+                                    "value": 0,
+                                    "min": 0
+                                },
+                                "alert": {
+                                    "value": 0,
+                                    "min": 0
+                                },
+                                "athletic": {
+                                    "value": 0,
+                                    "min": 0
+                                },
+                                "nature": {
+                                    "value": 0,
+                                    "min": 0
+                                },
+                                "stealth": {
+                                    "value": 0,
+                                    "min": 0
+                                },
+                                "allure": {
+                                    "value": 0,
+                                    "min": 0
+                                },
+                                "etiquette": {
+                                    "value": 0,
+                                    "min": 0
+                                },
+                                "intimidate": {
+                                    "value": 0,
+                                    "min": 0
+                                },
+                                "perform": {
+                                    "value": 0,
+                                    "min": 0
+                                },
+                                "channel": {
+                                    "value": 0,
+                                    "min": 0
+                                },
+                                "clash": {
+                                    "value": 0,
+                                    "min": 0
+                                }
+                                },
+                                "biography": "",
+                                "battles": 0,
+                                "victories": 0,
+                                "pokedexId": entry['Number'],
+                                "species": entry['Name'],
+                                "pokedexCategory": entry['DexCategory'],
+                                "pokedexDescription": entry['DexDescription'],
+                                "type1": entry['Type1'],
+                                "type2": entry['Type2'],
+                                "height": entry['Height'],
+                                "weight": entry['Weight'],
+                                "extra": {
+                                "happiness": {
+                                    "value": 2,
+                                    "min": 0,
+                                    "max": 5
+                                },
+                                "loyalty": {
+                                    "value": 2,
+                                    "min": 0,
+                                    "max": 5
+                                }
+                                }
+                            },
+                            "prototypeToken": {
+                                "name": "Rowlet",
+                                "displayName": 0,
+                                "actorLink": False,
+                                "texture": {
+                                "src": f"systems/pokerole/images/pokemon/{token_img}/{entry['Sprite']}",
+                                "scaleX": 1,
+                                "scaleY": 1,
+                                "offsetX": 0,
+                                "offsetY": 0,
+                                "rotation": 0,
+                                "tint": None
+                                },
+                                "width": 1,
+                                "height": 1,
+                                "lockRotation": False,
+                                "rotation": 0,
+                                "alpha": 1,
+                                "disposition": -1,
+                                "displayBars": 0,
+                                "bar1": {
+                                "attribute": "hp"
+                                },
+                                "bar2": {
+                                "attribute": "will"
+                                },
+                                "light": {
+                                "alpha": 0.5,
+                                "angle": 360,
+                                "bright": 0,
+                                "color": None,
+                                "coloration": 1,
+                                "dim": 0,
+                                "attenuation": 0.5,
+                                "luminosity": 0.5,
+                                "saturation": 0,
+                                "contrast": 0,
+                                "shadows": 0,
+                                "animation": {
+                                    "type": None,
+                                    "speed": 5,
+                                    "intensity": 5,
+                                    "reverse": False
+                                },
+                                "darkness": {
+                                    "min": 0,
+                                    "max": 1
+                                }
+                                },
+                                "sight": {
+                                "enabled": False,
+                                "range": None,
+                                "angle": 360,
+                                "visionMode": "basic",
+                                "color": None,
+                                "attenuation": 0.1,
+                                "brightness": 0,
+                                "saturation": 0,
+                                "contrast": 0
+                                },
+                                "detectionModes": [],
+                                "flags": {},
+                                "randomImg": False
+                            },
+                            "items": move_list,
+                            "effects": [],
+                            "flags": {},
+                            "_stats": {
+                                "systemId": "pokerole",
+                                "systemVersion": "0.1.0",
+                                "coreVersion": "10.291",
+                                "createdTime": 1670952558737,
+                                "modifiedTime": datetime.datetime.now().timestamp(),
+                                "lastModifiedBy": "Generator"
+                            }
+                            }
+                db.append(foundry)
+        except:
+            print(entry, moves, ranks)
+            raise
+        with open(self.pokedex_output+"pokedex.db",'w') as f:
+            for x in db:
+                f.write(json.dumps(x)+'\n')
     
     def _abilities(self):
         pass
     
-    def _moves(self):
+    def _moves(self, mlist=False, ranks=False):
         
         def _attribute_get(attr, value, default=False):
             if not attr: return default
@@ -88,9 +333,16 @@ class Foundry(object):
         def _check_skill(attr):
             assert attr in ["brawl", "channel", "clash", "evasion", "alert", "athletic", "nature", "stealth", "allure", "etiquette", "intimidate", "perform", "crafts", "lore", "medicine", "science"], f"Invalid attribute '{attr}'"
         
-        db = open(self.moves_output+"moves.db",'w')
-        for src in glob(self.moves_path+"/*.json"):
-            entry = json.loads(open(src).read())
+        db = []
+        iter_target = glob(self.moves_path+"/*.json") if not mlist else [f"{self.moves_path}/{x}.json" for x in mlist]
+        for src in iter_target:
+            try:
+                entry = json.loads(open(src).read())
+            except FileNotFoundError as e:
+                if mlist: 
+                    print(f"ERROR: move {src} not found.")
+                    continue
+                else: raise e
             attr = entry.get("Attributes")
             id = entry['_id']
 
@@ -190,9 +442,13 @@ class Foundry(object):
                             "lastModifiedBy": "Generator"
                         }
             }
-            db.write(json.dumps(foundry))
-            db.write('\n')
-        db.close()
+            if ranks and len(ranks) == len(iter_target):
+                foundry['system']['rank'] = ranks[iter_target.index(src)]
+            db.append(foundry)
+        with open(self.moves_output+"moves.db",'w') as f:
+            for x in db:
+                f.write(json.dumps(x)+'\n')
+        return db
     
     def _learnsets(self):
         pass
@@ -259,4 +515,5 @@ def help():
     """)
 
 if __name__ == '__main__':
-  fire.Fire()
+    fire.Fire()
+    
