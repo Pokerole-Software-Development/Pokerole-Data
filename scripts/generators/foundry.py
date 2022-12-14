@@ -16,6 +16,7 @@ class Foundry(object):
     def __init__(self, version="Version20"):
         self.path_setup(version)
         self.version = version
+        self.display_version = "Core 2.0"
 
     def path_setup(self, version):
         
@@ -298,7 +299,7 @@ class Foundry(object):
                                 "modifiedTime": datetime.datetime.now().timestamp(),
                                 "lastModifiedBy": "Generator"
                             },
-                            "source": self.version,
+                            "source": self.display_version,
                             }
                 db.append(foundry)
         except:
@@ -322,24 +323,25 @@ class Foundry(object):
                 else: raise e
 
             foundry = {
-                        "_id": f"ability-{entry['_id']}",
-                        "name": entry['Name'],
-                        "type": "ability",
-                        "img": "icons/svg/item-bag.svg",
-                        "system": {
-                            "description": f"{entry['Effect']}\n{entry['Description']}"
-                        },
-                        "effects": [],
-                        "flags": {},
-                        "_stats": {
-                            "systemId": "pokerole",
-                            "systemVersion": "0.1.0",
-                            "coreVersion": "10.291",
-                            "createdTime": 1670695293664,
-                            "modifiedTime": datetime.datetime.now().timestamp(),
-                            "lastModifiedBy": "Generator"
-                        }
-                        }
+                "_id": f"ability-{entry['_id']}",
+                "name": entry['Name'],
+                "type": "ability",
+                "img": "icons/svg/book.svg",
+                "system": {
+                    "description": f"<p>{entry['Effect']}</p><p>{entry['Description']}</p>"
+                },
+                "effects": [],
+                "source": self.display_version,
+                "flags": {},
+                "_stats": {
+                    "systemId": "pokerole",
+                    "systemVersion": "0.1.0",
+                    "coreVersion": "10.291",
+                    "createdTime": 1670695293664,
+                    "modifiedTime": datetime.datetime.now().timestamp(),
+                    "lastModifiedBy": "Generator"
+                }
+            }
 
             db.append(foundry)
         if not alist:
@@ -444,7 +446,7 @@ class Foundry(object):
                             "accMod2": accMod2,
                             "dmgMod": dmgMod,
                             "effect": effect,
-                            "source": self.version,
+                            "source": self.display_version,
                             "attributes": {
                                 "accuracyReduction":   _attribute_get(attr, "AccuracyReduction", 0),
                                 "priority":            _attribute_get(attr, "Priority", 0),
