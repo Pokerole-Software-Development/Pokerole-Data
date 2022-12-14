@@ -225,7 +225,7 @@ class Foundry(object):
                                 }
                             },
                             "prototypeToken": {
-                                "name": "Rowlet",
+                                "name": entry['Name'],
                                 "displayName": 0,
                                 "actorLink": False,
                                 "texture": {
