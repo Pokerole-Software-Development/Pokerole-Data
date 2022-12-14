@@ -469,7 +469,8 @@ class Foundry(object):
                                 "userFaints":          _attribute_get(attr, "UserFaints"),
                                 "resetTerrain":        _attribute_get(attr, "ResetTerrain"),
                                 "resistedWithDefense": _attribute_get(attr, "ResistedWithDefense"),
-                                "ignoreDefenses":      _attribute_get(attr, "IgnoreDefenses")
+                                "ignoreDefenses":      _attribute_get(attr, "IgnoreDefenses"),
+                                "maneuver": move_type == "none"
                             }
                         },
                         "effects": [],
