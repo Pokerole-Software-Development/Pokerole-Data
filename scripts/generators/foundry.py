@@ -70,6 +70,8 @@ class Foundry(object):
                 moves = [x['Name'] for x in learnset['Moves']]
                 ranks = [x['Learned'] for x in learnset['Moves']]
                 move_list = self._moves(moves, ranks)
+                abilities = self._abilities([entry['Ability1'], entry['Ability2'], entry['HiddenAbility'], entry['EventAbilities']])
+                foundry_items = move_list+abilities
                 
                 for move in move_list:
                     move["ownership"] = { "default": 0, f"pokemon-{id}": 3}
@@ -285,7 +287,7 @@ class Foundry(object):
                                 "flags": {},
                                 "randomImg": False
                             },
-                            "items": move_list,
+                            "items": foundry_items,
                             "effects": [],
                             "flags": {},
                             "_stats": {
@@ -306,8 +308,45 @@ class Foundry(object):
             for x in db:
                 f.write(json.dumps(x)+'\n')
     
-    def _abilities(self):
-        pass
+    def _abilities(self, alist=None):
+        
+        db = []
+        iter_target = glob(self.abilities_path+"/*.json") if not alist else [f"{self.abilities_path}/{x}.json" for x in alist if x]
+        for src in iter_target:
+            try:
+                entry = json.loads(open(src).read())
+            except FileNotFoundError as e:
+                if alist: 
+                    print(f"ERROR: Ability {src} not found.")
+                    continue
+                else: raise e
+
+            foundry = {
+                        "_id": f"ability-{entry['_id']}",
+                        "name": entry['Name'],
+                        "type": "ability",
+                        "img": "icons/svg/item-bag.svg",
+                        "system": {
+                            "description": f"{entry['Effect']}\n{entry['Description']}"
+                        },
+                        "effects": [],
+                        "flags": {},
+                        "_stats": {
+                            "systemId": "pokerole",
+                            "systemVersion": "0.1.0",
+                            "coreVersion": "10.291",
+                            "createdTime": 1670695293664,
+                            "modifiedTime": datetime.datetime.now().timestamp(),
+                            "lastModifiedBy": "Generator"
+                        }
+                        }
+
+            db.append(foundry)
+        if not alist:
+            with open(self.abilities_output+"abilities.db",'w') as f:
+                for x in db:
+                    f.write(json.dumps(x)+'\n')
+        return db
     
     def _moves(self, mlist=False, ranks=False):
         
