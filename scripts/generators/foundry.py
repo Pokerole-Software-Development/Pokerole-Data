@@ -445,9 +445,10 @@ class Foundry(object):
             if ranks and len(ranks) == len(iter_target):
                 foundry['system']['rank'] = ranks[iter_target.index(src)]
             db.append(foundry)
-        with open(self.moves_output+"moves.db",'w') as f:
-            for x in db:
-                f.write(json.dumps(x)+'\n')
+        if not mlist:
+            with open(self.moves_output+"moves.db",'w') as f:
+                for x in db:
+                    f.write(json.dumps(x)+'\n')
         return db
     
     def _learnsets(self):
