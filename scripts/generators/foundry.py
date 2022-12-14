@@ -64,6 +64,7 @@ class Foundry(object):
         try:
             for src in glob(self.pokedex_path+"/*.json"):
                 entry = json.loads(open(src).read())
+                id = entry['_id'].replace(".", "") # "mime-jr." workaround
                 
                 learnset = json.loads(open(join(self.learnsets_path, f"{entry['Name']}.json")).read())
                 moves = [x['Name'] for x in learnset['Moves']]
@@ -71,10 +72,10 @@ class Foundry(object):
                 move_list = self._moves(moves, ranks)
                 
                 for move in move_list:
-                    move["ownership"] = { "default": 0, f"pokemon-{entry['_id']}": 3}
+                    move["ownership"] = { "default": 0, f"pokemon-{id}": 3}
                 
                 foundry = {
-                            "_id": f"pokemon-{entry['_id']}",
+                            "_id": f"pokemon-{id}",
                             "name": entry['Name'],
                             "type": "pokemon",
                             "img": f"systems/pokerole/images/pokemon/{sheet_img}/{entry['Sprite']}",
@@ -203,10 +204,10 @@ class Foundry(object):
                                 "species": entry['Name'],
                                 "pokedexCategory": entry['DexCategory'],
                                 "pokedexDescription": entry['DexDescription'],
-                                "type1": entry['Type1'],
-                                "type2": entry['Type2'],
-                                "height": entry['Height'],
-                                "weight": entry['Weight'],
+                                "type1": entry['Type1'].lower(),
+                                "type2": entry['Type2'].lower(),
+                                "height": entry['Height']['Meters'],
+                                "weight": entry['Weight']['Kilograms'],
                                 "extra": {
                                 "happiness": {
                                     "value": 2,
@@ -294,7 +295,8 @@ class Foundry(object):
                                 "createdTime": 1670952558737,
                                 "modifiedTime": datetime.datetime.now().timestamp(),
                                 "lastModifiedBy": "Generator"
-                            }
+                            },
+                            "source": self.version,
                             }
                 db.append(foundry)
         except:
@@ -443,7 +445,7 @@ class Foundry(object):
                         }
             }
             if ranks and len(ranks) == len(iter_target):
-                foundry['system']['rank'] = ranks[iter_target.index(src)]
+                foundry['system']['rank'] = ranks[iter_target.index(src)].lower()
             db.append(foundry)
         if not mlist:
             with open(self.moves_output+"moves.db",'w') as f:
