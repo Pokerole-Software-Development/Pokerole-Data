@@ -13,6 +13,8 @@ secrets = json.load(open('../../secrets.json'))
 # - Struggle and Growl have attributes like "Strength/special", but there are specialized versions for 
 IGNORED_MOVES = ['any-move', 'struggle', 'growl']
 
+DEFAULT_MANEUVERS = ['Struggle (Physical)', 'Struggle (Special)', 'Grapple', 'Help Another', 'Cover an Ally', 'Stabilize an Ally', 'Run Away']
+
 class Foundry(object):
     
     def __init__(self, version="Version20"):
@@ -70,8 +72,8 @@ class Foundry(object):
                 id = entry['_id'].replace(".", "") # "mime-jr." workaround
                 
                 learnset = json.loads(open(join(self.learnsets_path, f"{entry['Name']}.json")).read())
-                moves = [x['Name'] for x in learnset['Moves']]
-                ranks = [x['Learned'] for x in learnset['Moves']]
+                moves = [x['Name'] for x in learnset['Moves']] + DEFAULT_MANEUVERS
+                ranks = [x['Learned'] for x in learnset['Moves']] + ['starter'] * len(DEFAULT_MANEUVERS)
                 move_list = self._moves(moves, ranks)
                 abilities = self._abilities([entry['Ability1'], entry['Ability2'], entry['HiddenAbility'], entry['EventAbilities']])
                 foundry_items = move_list+abilities
@@ -114,16 +116,16 @@ class Foundry(object):
                                     "min": 0,
                                     "max": entry['MaxVitality']
                                 },
+                                "special": {
+                                    "value": entry['Special'],
+                                    "min": 0,
+                                    "max": entry['MaxSpecial']
+                                },
                                 "insight": {
                                     "value": entry['Insight'],
                                     "min": 0,
                                     "max": entry['MaxInsight']
                                 },
-                                "special": {
-                                    "value": entry['Special'],
-                                    "min": 0,
-                                    "max": entry['MaxSpecial']
-                                }
                                 },
                                 "social": {
                                 "tough": {
