@@ -44,5 +44,12 @@
     "DexDescription": "It digs tunnels and follows prey while burrowed underground. If you see the fin on its back coming out the ground it means it is about to attack. It\u2019s very aggressive but kind of clumsy. Beware of its big jaws.",
     "Baby": false,
     "PrimaryEggGroup": "Monster",
-    "SecondaryEggGroup": "Dragon"
+    "SecondaryEggGroup": "Dragon",
+    "Evolutions": [
+        {
+            "To": "Gabite",
+            "Kind": "Level",
+            "Speed": "Slow"
+        }
+    ]
 }

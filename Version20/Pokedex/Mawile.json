@@ -45,9 +45,10 @@
     "Baby": false,
     "PrimaryEggGroup": "Field",
     "SecondaryEggGroup": "Fairy",
-    "MegaEvolutions": [
+    "Evolutions": [
         {
-            "Name": "Mega-Mawile",
+            "To": "Mega-Mawile",
+            "Kind": "Mega",
             "Item": "Mawilite"
         }
     ]

@@ -44,5 +44,12 @@
     "DexDescription": "This happy-go-lucky Pokemon produces a delicious aroma that unfortunately attracts predators to it, when it escapes, it looks as if it\u2019s happily skipping around so it rarely gets help.",
     "Baby": false,
     "PrimaryEggGroup": "Grass",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "To": "Steenee",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ]
 }

@@ -44,5 +44,12 @@
     "DexDescription": "It becomes territorial and aggressive after evolving. Its open mouth stands over 7 ft. tall. There are records of one that came out of the sand and crushed a truck that was passing over its territory.",
     "Baby": false,
     "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "From": "Hippopotas",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ]
 }

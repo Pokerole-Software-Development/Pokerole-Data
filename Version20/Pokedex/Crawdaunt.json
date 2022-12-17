@@ -44,5 +44,12 @@
     "DexDescription": "Crawdaunt is extremely violent and territorial. The ponds where it lives look like desolated places due to them attacking anything that comes close. It sheds its shell once a year, this weakens it for a few days.",
     "Baby": false,
     "PrimaryEggGroup": "Water 1",
-    "SecondaryEggGroup": "Water 3"
+    "SecondaryEggGroup": "Water 3",
+    "Evolutions": [
+        {
+            "From": "Corphish",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ]
 }

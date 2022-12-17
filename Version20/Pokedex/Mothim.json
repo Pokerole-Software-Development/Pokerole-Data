@@ -44,5 +44,13 @@
     "DexDescription": "It flies near the mountains in search of honey. It is an opportunist and won\u2019t gather any honey by itself, instead Mothim steals from Combee hives and other Pokemon. This Pokemon is male only.",
     "Baby": false,
     "PrimaryEggGroup": "Bug",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "From": "Burmy",
+            "Kind": "Level",
+            "Speed": "Fast",
+            "Gender": "Male"
+        }
+    ]
 }

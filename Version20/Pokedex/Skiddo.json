@@ -44,5 +44,12 @@
     "DexDescription": "It\u2019s thought to be one of the first Pokemon to live in harmony with humans. If it has sunshine and water it doesn\u2019t need to eat - the leaves on its back will produce the energy for it.",
     "Baby": false,
     "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "To": "Gogoat",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ]
 }

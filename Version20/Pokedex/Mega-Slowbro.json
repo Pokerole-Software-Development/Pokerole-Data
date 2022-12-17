@@ -45,5 +45,11 @@
     "Baby": false,
     "PrimaryEggGroup": "Monster",
     "SecondaryEggGroup": "Water 1",
-    "MegaBaseForm": "Slowbro"
+    "Evolutions": [
+        {
+            "From": "Slowbro",
+            "Kind": "Mega",
+            "Item": "Slowbronite"
+        }
+    ]
 }

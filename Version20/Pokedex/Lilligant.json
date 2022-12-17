@@ -44,5 +44,12 @@
     "DexDescription": "Even veteran gardeners face a challenge in getting its beautiful flower to bloom as it withers with ease. This Pokemon is popular among celebrities due to it\u2019s grace, elegance and delicious aroma.",
     "Baby": false,
     "PrimaryEggGroup": "Grass",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "From": "Petilil",
+            "Kind": "Stone",
+            "Item": "Sun Stone"
+        }
+    ]
 }

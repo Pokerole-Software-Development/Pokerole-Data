@@ -44,5 +44,13 @@
     "DexDescription": "Kicking Pokemon Its legs freely stretch and contract. It bowls over foes with devastating kicks. It is very disciplined and trains every day. It is very rare in the wild, and it is mostly found in urban areas",
     "Baby": false,
     "PrimaryEggGroup": "Human-Like",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "From": "Tyrogue",
+            "Kind": "Stat",
+            "Stat": "Strength",
+            "Value": -1
+        }
+    ]
 }

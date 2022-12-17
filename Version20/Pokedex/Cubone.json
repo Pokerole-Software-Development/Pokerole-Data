@@ -44,5 +44,18 @@
     "DexDescription": "Cubone wears a skull helmet it never removes. It is said to be from its mother or someone dear to it. Lives in the mountains where it cries at night due to the sadness it feels. It is distrustful of humans.",
     "Baby": false,
     "PrimaryEggGroup": "Monster",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "To": "Marowak",
+            "Kind": "Level",
+            "Speed": "Slow"
+        },
+        {
+            "To": "Alolan Marowak",
+            "Kind": "Level",
+            "Speed": "Slow",
+            "Region": "Alola"
+        }
+    ]
 }

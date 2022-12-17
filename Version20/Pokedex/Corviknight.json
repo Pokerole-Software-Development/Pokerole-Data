@@ -44,5 +44,12 @@
     "DexDescription": "With their great intellect and flying skills, these Pokemon very successfully take the place as the kings of the Galarian sky. When they fly, they cast giant shadows that strike fear upon foes and friends alike.",
     "Baby": false,
     "PrimaryEggGroup": "Flying",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "From": "Corvisquire",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ]
 }

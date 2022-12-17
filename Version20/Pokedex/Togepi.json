@@ -44,5 +44,13 @@
     "DexDescription": "This Pokemon stores all the kindness and good feelings inside of it\u2019s shell and shares them with others, when the shell is full it becomes so happy that it finally evolves. It is said that it\u2019ll bring good fortune to its trainer.",
     "Baby": true,
     "PrimaryEggGroup": "Undiscovered",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "To": "Togetic",
+            "Kind": "Stat",
+            "Stat": "Happiness",
+            "Value": 5
+        }
+    ]
 }

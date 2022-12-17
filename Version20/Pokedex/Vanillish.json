@@ -44,5 +44,17 @@
     "DexDescription": "Snowy mountains are this Pokemon\u2019s habitat. It conceals itself from enemy eyes by creating many small ice bundles and hiding around them. It may attach itself to the ceiling of ice caves to hide around the ice.",
     "Baby": false,
     "PrimaryEggGroup": "Mineral",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "From": "Vanillite",
+            "Kind": "Level",
+            "Speed": "Medium"
+        },
+        {
+            "To": "Vanilluxe",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ]
 }

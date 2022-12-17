@@ -45,13 +45,20 @@
     "Baby": false,
     "PrimaryEggGroup": "Monster",
     "SecondaryEggGroup": "Dragon",
-    "MegaEvolutions": [
+    "Evolutions": [
         {
-            "Name": "Mega-Charizard Y",
+            "From": "Charmeleon",
+            "Kind": "Level",
+            "Speed": "Medium"
+        },
+        {
+            "To": "Mega-Charizard Y",
+            "Kind": "Mega",
             "Item": "Charizardite Y"
         },
         {
-            "Name": "Mega-Charizard X",
+            "To": "Mega-Charizard X",
+            "Kind": "Mega",
             "Item": "Charizardite X"
         }
     ]

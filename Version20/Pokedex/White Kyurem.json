@@ -44,5 +44,11 @@
     "DexDescription": "In the Icy mountains at the west of Unova, you can hear the wails of a creature suffering as if it missed a part of its very soul. Explosions and blue fires are sure to follow.",
     "Baby": false,
     "PrimaryEggGroup": "Undiscovered",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "From": "Kyurem",
+            "Kind": "Form"
+        }
+    ]
 }

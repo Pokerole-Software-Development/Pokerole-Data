@@ -44,5 +44,25 @@
     "DexDescription": "Tyrogue is an energetic, competitive and fearless Pokemon that\u2019s always looking to get stronger, fighting any enemies even if it looses. They attack anyone, any day, anytime, everyday, without warning.",
     "Baby": true,
     "PrimaryEggGroup": "Undiscovered",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "To": "Hitmontop",
+            "Kind": "Stat",
+            "Stat": "Dexterity",
+            "Value": -1
+        },
+        {
+            "To": "Hitmonlee",
+            "Kind": "Stat",
+            "Stat": "Strength",
+            "Value": -1
+        },
+        {
+            "To": "Hitmonchan",
+            "Kind": "Stat",
+            "Stat": "Vitality",
+            "Value": -1
+        }
+    ]
 }

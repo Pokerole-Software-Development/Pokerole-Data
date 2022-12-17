@@ -44,5 +44,25 @@
     "DexDescription": "Rockruff are very social and friendly, their keen sense of smell allows them to find their trainers easily. However, as they age they become wilder and rebellious. Do not let them roam alone at night.",
     "Baby": false,
     "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "To": "Lycanroc Midday",
+            "Kind": "Level",
+            "Speed": "Medium",
+            "Special": "Day"
+        },
+        {
+            "To": "Lycanroc Dusk",
+            "Kind": "Level",
+            "Speed": "Medium",
+            "Special": "Dawn"
+        },
+        {
+            "To": "Lycanroc Midnight",
+            "Kind": "Level",
+            "Speed": "Medium",
+            "Special": "Night"
+        }
+    ]
 }

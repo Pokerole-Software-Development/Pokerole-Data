@@ -44,5 +44,12 @@
     "DexDescription": "Humble and calm, their wool has springy properties. A king in ancient times ordered a carpet made from 100 Dubwool, when it was done, those who step on it started to bounce the moment they set foot on it.",
     "Baby": false,
     "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "From": "Wooloo",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ]
 }

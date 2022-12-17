@@ -44,5 +44,12 @@
     "DexDescription": "A powerful excavator, its ears can reduce dense bedrock to rubble. After it has finished digging, it just lounges lazily. Some of them have been trained to work at construction sites with good results.",
     "Baby": false,
     "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "From": "Bunnelby",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ]
 }

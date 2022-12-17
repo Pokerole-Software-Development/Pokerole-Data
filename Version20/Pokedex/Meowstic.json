@@ -44,5 +44,12 @@
     "DexDescription": "The eye patterns on the interior of its ears emit psychic energy. It keeps them tightly covered because the power can be overwhelming. Females are white in color and more aggressive than the males.",
     "Baby": false,
     "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "From": "Espurr",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ]
 }

@@ -44,5 +44,12 @@
     "DexDescription": "If you hear a xilophone-like sound at night it means that this Pokemon is roaming close. It communicates by making rhythmic sounds with its antennae. It is not aggressive and feeds on honey and tree sap.",
     "Baby": false,
     "PrimaryEggGroup": "Bug",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "To": "Kricketune",
+            "Kind": "Level",
+            "Speed": "Fast"
+        }
+    ]
 }

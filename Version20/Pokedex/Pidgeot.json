@@ -45,9 +45,15 @@
     "Baby": false,
     "PrimaryEggGroup": "Flying",
     "SecondaryEggGroup": "",
-    "MegaEvolutions": [
+    "Evolutions": [
         {
-            "Name": "Mega-Pidgeot",
+            "From": "Pidgeotto",
+            "Kind": "Level",
+            "Speed": "Medium"
+        },
+        {
+            "To": "Mega-Pidgeot",
+            "Kind": "Mega",
             "Item": "Pidgeotite"
         }
     ]

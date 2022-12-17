@@ -44,5 +44,12 @@
     "DexDescription": "This two strange Pokemon are merged into one. Interlocking their bodies and spinning around will generate the energy they need to live. Their only way to communicate is through their eyes.",
     "Baby": false,
     "PrimaryEggGroup": "Mineral",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "To": "Klang",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ]
 }

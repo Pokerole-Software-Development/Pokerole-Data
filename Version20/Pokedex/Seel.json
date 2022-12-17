@@ -44,5 +44,12 @@
     "DexDescription": "A Pokemon that lives on icebergs. It swims in the sea using the point on its head to break up the ice. It sleeps a lot during the day, being most active at dawn when the temperature starts to cool.",
     "Baby": false,
     "PrimaryEggGroup": "Water 1",
-    "SecondaryEggGroup": "Field"
+    "SecondaryEggGroup": "Field",
+    "Evolutions": [
+        {
+            "To": "Dewgong",
+            "Kind": "Level",
+            "Speed": "Slow"
+        }
+    ]
 }

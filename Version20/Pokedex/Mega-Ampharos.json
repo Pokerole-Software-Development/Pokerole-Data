@@ -45,5 +45,11 @@
     "Baby": false,
     "PrimaryEggGroup": "Monster",
     "SecondaryEggGroup": "Field",
-    "MegaBaseForm": "Ampharos"
+    "Evolutions": [
+        {
+            "From": "Ampharos",
+            "Kind": "Mega",
+            "Item": "Ampharosite"
+        }
+    ]
 }

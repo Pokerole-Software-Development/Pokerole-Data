@@ -44,5 +44,13 @@
     "DexDescription": "Alola is the native region for this Pokemon, only in there it can evolve into this form. With this size, its Psychic abilities are rarely needed and its trainer\u2019s order\u2019s rarely heard. They enjoy the sun in the beach..",
     "Baby": false,
     "PrimaryEggGroup": "Grass",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "From": "Exeggcute",
+            "Kind": "Stone",
+            "Item": "Leaf Stone",
+            "Region": "Alola"
+        }
+    ]
 }

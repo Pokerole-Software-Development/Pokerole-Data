@@ -45,14 +45,16 @@
     "Baby": false,
     "PrimaryEggGroup": "Undiscovered",
     "SecondaryEggGroup": "",
-    "MegaEvolutions": [
+    "Evolutions": [
         {
-            "Name": "Mega-Mewtwo X",
-            "Item": "Mewtwonite X"
+            "To": "Mega-Mewtwo Y",
+            "Kind": "Mega",
+            "Item": "Mewtwonite Y"
         },
         {
-            "Name": "Mega-Mewtwo Y",
-            "Item": "Mewtwonite Y"
+            "To": "Mega-Mewtwo X",
+            "Kind": "Mega",
+            "Item": "Mewtwonite X"
         }
     ]
 }

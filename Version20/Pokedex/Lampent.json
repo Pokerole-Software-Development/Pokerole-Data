@@ -44,5 +44,17 @@
     "DexDescription": "This ominous Pokemon is very feared. It always arrives at someone\u2019s final moments and steals their spirit. It hangs close to hospitals and other places simply waiting. It is said that if it gets your soul you will never rest.",
     "Baby": false,
     "PrimaryEggGroup": "Amorphous",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "From": "Litwick",
+            "Kind": "Level",
+            "Speed": "Medium"
+        },
+        {
+            "To": "Chandelure",
+            "Kind": "Stone",
+            "Item": "Dusk Stone"
+        }
+    ]
 }

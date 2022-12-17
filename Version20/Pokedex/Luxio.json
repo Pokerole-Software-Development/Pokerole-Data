@@ -44,5 +44,17 @@
     "DexDescription": "Female Luxios stay with the pride but males roam in marauding groups, trying to become strong enough to make their own pride. Its claws and teeth are charged with electricity, approach with caution.",
     "Baby": false,
     "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "From": "Shinx",
+            "Kind": "Level",
+            "Speed": "Medium"
+        },
+        {
+            "To": "Luxray",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ]
 }

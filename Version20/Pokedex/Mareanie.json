@@ -44,5 +44,12 @@
     "DexDescription": "It can be found resting on the sea floor, waiting for an unsuspecting prey to sting. They are pretty toxic and attack with their ten barbed tentacles. Corsolas are one of its favorite meals.",
     "Baby": false,
     "PrimaryEggGroup": "Water 1",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "To": "Toxapex",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ]
 }

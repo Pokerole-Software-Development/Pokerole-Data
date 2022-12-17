@@ -44,5 +44,12 @@
     "DexDescription": "If a Frillish is spotted, all beaches nearby will be closed for the day. This Pokemon paralizes a swimming victim and wraps them, dragging them to the bottom of the sea. Females have pink shade.",
     "Baby": false,
     "PrimaryEggGroup": "Amorphous",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "To": "Jellicent",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ]
 }

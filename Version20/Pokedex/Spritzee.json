@@ -44,5 +44,12 @@
     "DexDescription": "In the past, rather than using a perfume, royal ladies had a Spritzee that would waft a fragrance they liked. They are popular today for this same reason. They are said to attract the opposite gender to you.",
     "Baby": false,
     "PrimaryEggGroup": "Fairy",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "To": "Aromatisse",
+            "Kind": "Trade",
+            "Item": "Sachet"
+        }
+    ]
 }

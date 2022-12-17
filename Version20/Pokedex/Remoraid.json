@@ -44,5 +44,12 @@
     "DexDescription": "Remoraid has a remarkable aim with its water gun. This ability is used to hunt down flying enemies above the sea. They can be seen clinging into Mantines to travel faster.",
     "Baby": false,
     "PrimaryEggGroup": "Water 1",
-    "SecondaryEggGroup": "Water 2"
+    "SecondaryEggGroup": "Water 2",
+    "Evolutions": [
+        {
+            "To": "Octillery",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ]
 }

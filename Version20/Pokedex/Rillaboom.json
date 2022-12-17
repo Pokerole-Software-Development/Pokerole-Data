@@ -44,5 +44,12 @@
     "DexDescription": "The leader owns the largest drum among its troop and has the best drumming technique which makes roots sprout to attack its foes. But they are peaceful and kind, creatures that value harmony in their group.",
     "Baby": false,
     "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": "Grass"
+    "SecondaryEggGroup": "Grass",
+    "Evolutions": [
+        {
+            "From": "Thwackey",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ]
 }

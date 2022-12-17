@@ -44,5 +44,17 @@
     "DexDescription": "A spicy fragrance emanates from around its neck that makes it feisty and impetuous. It sheds its leaves every couple of weeks after the aroma diminishes and its mood also becomes calmer.",
     "Baby": false,
     "PrimaryEggGroup": "Monster",
-    "SecondaryEggGroup": "Grass"
+    "SecondaryEggGroup": "Grass",
+    "Evolutions": [
+        {
+            "From": "Chikorita",
+            "Kind": "Level",
+            "Speed": "Medium"
+        },
+        {
+            "To": "Meganium",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ]
 }

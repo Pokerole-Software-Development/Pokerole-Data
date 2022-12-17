@@ -45,5 +45,11 @@
     "Baby": false,
     "PrimaryEggGroup": "Monster",
     "SecondaryEggGroup": "Dragon",
-    "MegaBaseForm": "Garchomp"
+    "Evolutions": [
+        {
+            "From": "Garchomp",
+            "Kind": "Mega",
+            "Item": "Garchompite"
+        }
+    ]
 }

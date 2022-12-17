@@ -44,5 +44,16 @@
     "DexDescription": "Even with its strong frame and power, it is a humble and helpful Pokemon. Many of them work for human companies. On their days off you can see them heading to the wild to train together.",
     "Baby": false,
     "PrimaryEggGroup": "Human-Like",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "From": "Machop",
+            "Kind": "Level",
+            "Speed": "Medium"
+        },
+        {
+            "To": "Machamp",
+            "Kind": "Trade"
+        }
+    ]
 }

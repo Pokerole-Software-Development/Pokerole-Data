@@ -44,5 +44,12 @@
     "DexDescription": "It is said that it can see through walls. This Pokemon can easily find hiding prey and locate its young. Male Luxrays can be found roaming alone, patrolling their territory; the females hunt in groups.",
     "Baby": false,
     "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "From": "Luxio",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ]
 }

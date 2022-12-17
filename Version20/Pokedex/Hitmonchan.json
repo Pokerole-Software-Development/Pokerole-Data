@@ -44,5 +44,13 @@
     "DexDescription": "It specializes in punching as fast as it can. Using a corkscrew motion, it can even drill through concrete with it\u2019s bare hands. This Pokemon takes its training very seriously. It\u2019s very rare to see one in the wild.",
     "Baby": false,
     "PrimaryEggGroup": "Human-Like",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "From": "Tyrogue",
+            "Kind": "Stat",
+            "Stat": "Vitality",
+            "Value": -1
+        }
+    ]
 }

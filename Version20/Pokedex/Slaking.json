@@ -44,5 +44,12 @@
     "DexDescription": "They spend all day sleeping and eating grass that grows within their reach. Sometimes they live beneath trees, waiting for fruits to fall. They dislike intruders on their territory but rarely do anything about them.",
     "Baby": false,
     "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "From": "Vigoroth",
+            "Kind": "Level",
+            "Speed": "Fast"
+        }
+    ]
 }

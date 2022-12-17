@@ -44,5 +44,12 @@
     "DexDescription": "It uses the horn on it\u2019s head and both scimitars attached to it\u2019s front legs as weapons. In the late spring and fall, they gather on cold beaches and fight each other. The winner lets out an intimidating roar.",
     "Baby": false,
     "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "From": "Dewott",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ]
 }

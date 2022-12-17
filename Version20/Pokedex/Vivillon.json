@@ -44,5 +44,12 @@
     "DexDescription": "The patterns on this Pokemon\u2019s wings depend on the climate it grows and the flowers it feeds on. A famous Pokemon breeder made one develop a Pokeball pattern, it was sold for a million dollars.",
     "Baby": false,
     "PrimaryEggGroup": "Bug",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "From": "Spewpa",
+            "Kind": "Level",
+            "Speed": "Fast"
+        }
+    ]
 }

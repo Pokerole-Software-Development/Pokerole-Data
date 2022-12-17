@@ -45,9 +45,10 @@
     "Baby": false,
     "PrimaryEggGroup": "Flying",
     "SecondaryEggGroup": "",
-    "MegaEvolutions": [
+    "Evolutions": [
         {
-            "Name": "Mega-Aerodactyl",
+            "To": "Mega-Aerodactyl",
+            "Kind": "Mega",
             "Item": "Aerodactylite"
         }
     ]

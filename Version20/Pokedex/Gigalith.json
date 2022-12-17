@@ -44,5 +44,11 @@
     "DexDescription": "It is a serious Pokemon that doesn\u2019t interact with others too much. It uses the sharp crystals in it\u2019s body to recharge using the sun\u2019s energy. If angered it can bury it\u2019s foe under giant rock slides or explode at will.",
     "Baby": false,
     "PrimaryEggGroup": "Mineral",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "From": "Boldore",
+            "Kind": "Trade"
+        }
+    ]
 }

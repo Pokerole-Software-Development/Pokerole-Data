@@ -44,5 +44,22 @@
     "DexDescription": "The creature observed through the telescope changed shapes and remained motionless for the rest of the investigation. A strange energy was gathering on its core.",
     "Baby": false,
     "PrimaryEggGroup": "Undiscovered",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "From": "Cosmog",
+            "Kind": "Level",
+            "Speed": "Unknown"
+        },
+        {
+            "To": "Solgaleo",
+            "Kind": "Level",
+            "Game": "Sword"
+        },
+        {
+            "To": "Lunala",
+            "Kind": "Level",
+            "Game": "Shield"
+        }
+    ]
 }

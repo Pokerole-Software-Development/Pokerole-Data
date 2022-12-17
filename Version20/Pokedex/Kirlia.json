@@ -44,5 +44,23 @@
     "DexDescription": "When they use their powers, their surroundings are distorted with mirages and illusory sceneries from the future and the past. Kirlias like to dance and dislike to be bossed around.",
     "Baby": false,
     "PrimaryEggGroup": "Human-Like",
-    "SecondaryEggGroup": "Amorphous"
+    "SecondaryEggGroup": "Amorphous",
+    "Evolutions": [
+        {
+            "From": "Ralts",
+            "Kind": "Level",
+            "Speed": "Medium"
+        },
+        {
+            "To": "Gardevoir",
+            "Kind": "Level",
+            "Speed": "Medium"
+        },
+        {
+            "To": "Gallade",
+            "Kind": "Special",
+            "Item": "Dawn Stone",
+            "Gender": "Male"
+        }
+    ]
 }

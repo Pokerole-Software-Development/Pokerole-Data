@@ -44,5 +44,17 @@
     "DexDescription": "There is a bud on this Pokemon's back. To support its weight, Ivysaur's legs and trunk grow thick and strong. It becomes kind of a loner after evolving and may stray away from its group to take sunbaths.",
     "Baby": false,
     "PrimaryEggGroup": "Monster",
-    "SecondaryEggGroup": "Grass"
+    "SecondaryEggGroup": "Grass",
+    "Evolutions": [
+        {
+            "From": "Bulbasaur",
+            "Kind": "Level",
+            "Speed": "Medium"
+        },
+        {
+            "To": "Venusaur",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ]
 }

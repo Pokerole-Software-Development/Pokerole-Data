@@ -44,5 +44,17 @@
     "DexDescription": "It turns aggressive after evolving, it is very hot-headed by nature, so it constantly starts fights. When it\u2019s excited, the flame at the tip of its tail flares with a bluish white color.",
     "Baby": false,
     "PrimaryEggGroup": "Monster",
-    "SecondaryEggGroup": "Dragon"
+    "SecondaryEggGroup": "Dragon",
+    "Evolutions": [
+        {
+            "From": "Charmander",
+            "Kind": "Level",
+            "Speed": "Medium"
+        },
+        {
+            "To": "Charizard",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ]
 }

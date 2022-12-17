@@ -44,5 +44,12 @@
     "DexDescription": "They are very strong, the mud on their hooves serves them as grip to pull themselves forward. They enjoy prancing in muddy places and will become stubborn and disobedient if denied that pleasure.",
     "Baby": false,
     "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "To": "Mudsdale",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ]
 }

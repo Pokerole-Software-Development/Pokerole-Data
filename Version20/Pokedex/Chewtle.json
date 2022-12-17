@@ -44,5 +44,12 @@
     "DexDescription": "It uses its horn as its primary weapon, but it has a reputation as a biter. Apparently its gums are itchy and the only way to soothe them is biting and chewing on stuff. It is kinda cranky but relatively harmless.",
     "Baby": false,
     "PrimaryEggGroup": "Monster",
-    "SecondaryEggGroup": "Water 1"
+    "SecondaryEggGroup": "Water 1",
+    "Evolutions": [
+        {
+            "To": "Drednaw",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ]
 }

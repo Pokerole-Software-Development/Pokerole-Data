@@ -44,5 +44,12 @@
     "DexDescription": "The largest Pokemon known to date. Wailords weight is really light so they can dive almost 10,000 feet with one breath. They live in open ocean herding fish to swallow in one gulp. They are used to being free.",
     "Baby": false,
     "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": "Water 2"
+    "SecondaryEggGroup": "Water 2",
+    "Evolutions": [
+        {
+            "From": "Wailmer",
+            "Kind": "Level",
+            "Speed": "Slow"
+        }
+    ]
 }

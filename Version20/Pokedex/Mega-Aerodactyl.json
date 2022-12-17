@@ -45,5 +45,11 @@
     "Baby": false,
     "PrimaryEggGroup": "Flying",
     "SecondaryEggGroup": "",
-    "MegaBaseForm": "Aerodactyl"
+    "Evolutions": [
+        {
+            "From": "Aerodactyl",
+            "Kind": "Mega",
+            "Item": "Aerodactylite"
+        }
+    ]
 }

@@ -44,5 +44,19 @@
     "DexDescription": "This friendly Pokemon lives in cold mountains and deserted snowlands. It survives by eating snow and ice. They form small groups to protect themselves from predators. If you take their hat off, they will get angry.",
     "Baby": false,
     "PrimaryEggGroup": "Fairy",
-    "SecondaryEggGroup": "Mineral"
+    "SecondaryEggGroup": "Mineral",
+    "Evolutions": [
+        {
+            "To": "Glalie",
+            "Kind": "Level",
+            "Speed": "Medium",
+            "Gender": "Male"
+        },
+        {
+            "To": "Froslass",
+            "Kind": "Stone",
+            "Item": "Dawn Stone",
+            "Gender": "Female"
+        }
+    ]
 }

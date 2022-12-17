@@ -44,5 +44,12 @@
     "DexDescription": "Thanks to its golden mane, this Pokemon has been revered as a feminine deity. The triplets groom each other to help keep the hair glossy and dirt-free, they don\u2019t like to be petted.",
     "Baby": false,
     "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "From": "Alolan Diglett",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ]
 }

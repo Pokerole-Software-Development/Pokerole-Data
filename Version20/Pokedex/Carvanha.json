@@ -44,5 +44,12 @@
     "DexDescription": "Anything near a Carvanha school will be swarmed, attacked and tore to bits. However, they are very timid when they are on their own. They live in rivers in the jungle and dislike salt water.",
     "Baby": false,
     "PrimaryEggGroup": "Water 2",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "To": "Sharpedo",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ]
 }

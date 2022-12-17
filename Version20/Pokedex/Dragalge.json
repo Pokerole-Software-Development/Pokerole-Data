@@ -44,5 +44,12 @@
     "DexDescription": "Their poison is strong enough to eat through the hull of a tanker, and they spit it indiscriminately at anything that enters their territory. Touching them can be fatal if you are not treated within a few hours.",
     "Baby": false,
     "PrimaryEggGroup": "Water 1",
-    "SecondaryEggGroup": "Dragon"
+    "SecondaryEggGroup": "Dragon",
+    "Evolutions": [
+        {
+            "From": "Skrelp",
+            "Kind": "Level",
+            "Speed": "Slow"
+        }
+    ]
 }

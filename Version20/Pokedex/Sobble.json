@@ -44,5 +44,12 @@
     "DexDescription": "This shy Pokemon does not like to attract too much attention. It hides in shallow pools of water.. When it feels threatened it cries and its tears pack release a chemical that will make its foes cry too.",
     "Baby": false,
     "PrimaryEggGroup": "Water 1",
-    "SecondaryEggGroup": "Field"
+    "SecondaryEggGroup": "Field",
+    "Evolutions": [
+        {
+            "To": "Drizzile",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ]
 }

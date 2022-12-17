@@ -44,5 +44,12 @@
     "DexDescription": "Despite its small body, Totodile's jaws are very powerful. While it may think it is just playfully nipping, its bite has enough strength to cause a serious injury. It needs proper discipline to control its biting urges",
     "Baby": false,
     "PrimaryEggGroup": "Monster",
-    "SecondaryEggGroup": "Water 1"
+    "SecondaryEggGroup": "Water 1",
+    "Evolutions": [
+        {
+            "To": "Croconaw",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ]
 }

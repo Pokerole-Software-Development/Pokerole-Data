@@ -44,5 +44,13 @@
     "DexDescription": "They communicate by emitting ultrasonic waves through their noses. This sound is not perceived by humans but it can affect their mood and emotions. It hunts Bug Pokemon and loves fresh fruit.",
     "Baby": false,
     "PrimaryEggGroup": "Flying",
-    "SecondaryEggGroup": "Field"
+    "SecondaryEggGroup": "Field",
+    "Evolutions": [
+        {
+            "From": "Woobat",
+            "Kind": "Stat",
+            "Stat": "Happiness",
+            "Value": 4
+        }
+    ]
 }

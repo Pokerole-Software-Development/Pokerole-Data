@@ -44,5 +44,13 @@
     "DexDescription": "This Pokemon eats the contamination in the air, and instead of droppings, it expels clean air. Its Galar Form was first spotted long ago when factories polluted the City.",
     "Baby": false,
     "PrimaryEggGroup": "Amorphous",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "From": "Koffing",
+            "Kind": "Level",
+            "Speed": "Slow",
+            "Region": "Galar"
+        }
+    ]
 }

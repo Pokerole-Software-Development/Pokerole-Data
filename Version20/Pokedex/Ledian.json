@@ -44,5 +44,12 @@
     "DexDescription": "When the stars flicker in the night sky, it flutters about scattering a glowing powder. The spot patterns on its back grow larger or smaller at night depending on the number of stars in the sky.",
     "Baby": false,
     "PrimaryEggGroup": "Bug",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "From": "Ledyba",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ]
 }

@@ -44,5 +44,12 @@
     "DexDescription": "This Pokemon was born from sweet-smelling particles in the air, its body is made of cream, Finding one in your kitchen means Good Fortune. Give them berries and whip them with a whisk so they can evolve.",
     "Baby": false,
     "PrimaryEggGroup": "Fairy",
-    "SecondaryEggGroup": "Amorphous"
+    "SecondaryEggGroup": "Amorphous",
+    "Evolutions": [
+        {
+            "To": "Alcremie",
+            "Kind": "Special",
+            "Special": "Berry & spin"
+        }
+    ]
 }

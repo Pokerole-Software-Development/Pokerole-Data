@@ -44,5 +44,13 @@
     "DexDescription": "When Burmy evolved, its Grass cloak became a part of its body. For this reason there are many variations in body and type. It is a calm Pokemon that loves flowers. This Pokemon is female only.",
     "Baby": false,
     "PrimaryEggGroup": "Bug",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "From": "Burmy",
+            "Kind": "Level",
+            "Speed": "Fast",
+            "Gender": "Female"
+        }
+    ]
 }

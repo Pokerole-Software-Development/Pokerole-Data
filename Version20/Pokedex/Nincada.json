@@ -44,5 +44,17 @@
     "DexDescription": "They live underground for decades, absorbing nutrients from roots and waiting for evolution. Nincadas are nearly blind and cannot stand bright lights. They only come out to make a cocoon to evolve.",
     "Baby": false,
     "PrimaryEggGroup": "Bug",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "To": "Ninjask",
+            "Kind": "Level",
+            "Speed": "Medium"
+        },
+        {
+            "To": "Shedinja",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ]
 }

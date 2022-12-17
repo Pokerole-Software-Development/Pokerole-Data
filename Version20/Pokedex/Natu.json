@@ -44,5 +44,12 @@
     "DexDescription": "It lives close to the deserts. Its wings are not fully developed so it hops to trees and cactus to peck something to eat. If you find one it will hold your stare, if you get closer it might disappear in an instant.",
     "Baby": false,
     "PrimaryEggGroup": "Flying",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "To": "Xatu",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ]
 }

@@ -44,5 +44,12 @@
     "DexDescription": "A creature like this was observed on a telescope. It is rumored to be a Pokemon from another world, but no specific details are known.",
     "Baby": false,
     "PrimaryEggGroup": "Undiscovered",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "To": "Cosmoem",
+            "Kind": "Level",
+            "Speed": "Unknown"
+        }
+    ]
 }

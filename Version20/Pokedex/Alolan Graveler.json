@@ -44,5 +44,16 @@
     "DexDescription": "These Pokemon charge themselves by rolling around, it is dangerous if two of them collide, a loud noise and a flash of light will be seen and heard at great distance. They feed on golden dravite.",
     "Baby": false,
     "PrimaryEggGroup": "Mineral",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "From": "Alolan Geodude",
+            "Kind": "Level",
+            "Speed": "Medium"
+        },
+        {
+            "To": "Alolan Golem",
+            "Kind": "Trade"
+        }
+    ]
 }

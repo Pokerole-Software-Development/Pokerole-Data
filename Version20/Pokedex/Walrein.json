@@ -44,5 +44,12 @@
     "DexDescription": "The leader of the herd is a powerful Walrein. They are very aggressive and will protect their herd even at the cost of their lives. Their tusks can shatter giant blocks of ice. It is relentless and unpredictable.",
     "Baby": false,
     "PrimaryEggGroup": "Water 1",
-    "SecondaryEggGroup": "Field"
+    "SecondaryEggGroup": "Field",
+    "Evolutions": [
+        {
+            "From": "Sealeo",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ]
 }

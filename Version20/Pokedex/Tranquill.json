@@ -44,5 +44,17 @@
     "DexDescription": "During war and old times people made use of Tranquil\u2019s sense of location to send letters. It will never fail to find it\u2019s way back home. They like quiet forests and enjoy to relax in the peace and quiet.",
     "Baby": false,
     "PrimaryEggGroup": "Flying",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "From": "Pidove",
+            "Kind": "Level",
+            "Speed": "Medium"
+        },
+        {
+            "To": "Unfezant",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ]
 }

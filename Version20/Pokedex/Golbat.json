@@ -44,5 +44,18 @@
     "DexDescription": "A stealthy Pokemon who loves the dark. Its fangs can puncture even a thick hide. It loves to feast on the blood of people and Pokemon alike. If it drinks too much, it gets heavy and can hardly fly.",
     "Baby": false,
     "PrimaryEggGroup": "Flying",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "From": "Zubat",
+            "Kind": "Level",
+            "Speed": "Medium"
+        },
+        {
+            "To": "Crobat",
+            "Kind": "Stat",
+            "Stat": "Happiness",
+            "Value": 4
+        }
+    ]
 }

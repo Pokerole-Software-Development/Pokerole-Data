@@ -44,5 +44,12 @@
     "DexDescription": "Deep in the mountains they train their mind to increase their spiritual power, however they lack focus and get distracted easily. As part of their training, Meditites barely eat.",
     "Baby": false,
     "PrimaryEggGroup": "Human-Like",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "To": "Medicham",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ]
 }

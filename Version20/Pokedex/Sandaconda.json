@@ -44,5 +44,12 @@
     "DexDescription": "It has a sack that can carry up to 220 lbs of sand, the way it coils allow it to spray the sand to its foes. If it sack ever runs out of sand it becomes limp and depressed. They are unfriendly but not really aggressive.",
     "Baby": false,
     "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": "Dragon"
+    "SecondaryEggGroup": "Dragon",
+    "Evolutions": [
+        {
+            "From": "Silicobra",
+            "Kind": "Level",
+            "Speed": "Slow"
+        }
+    ]
 }

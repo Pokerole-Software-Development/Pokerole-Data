@@ -44,5 +44,17 @@
     "DexDescription": "The scales on its body are shed and regrow sharper each time. It is a courageous and diligent Pokemon who always lets out a war cry before the battle. Any marks on its scale armor is worn with pride.",
     "Baby": false,
     "PrimaryEggGroup": "Dragon",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "From": "Jangmo-o",
+            "Kind": "Level",
+            "Speed": "Slow"
+        },
+        {
+            "To": "Kommo-o",
+            "Kind": "Level",
+            "Speed": "Slow"
+        }
+    ]
 }

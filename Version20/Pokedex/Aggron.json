@@ -45,9 +45,15 @@
     "Baby": false,
     "PrimaryEggGroup": "Monster",
     "SecondaryEggGroup": "",
-    "MegaEvolutions": [
+    "Evolutions": [
         {
-            "Name": "Mega-Aggron",
+            "From": "Lairon",
+            "Kind": "Level",
+            "Speed": "Slow"
+        },
+        {
+            "To": "Mega-Aggron",
+            "Kind": "Mega",
             "Item": "Aggronite"
         }
     ]

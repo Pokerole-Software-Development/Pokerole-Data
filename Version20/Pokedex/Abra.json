@@ -44,5 +44,12 @@
     "DexDescription": "They are attracted to the cities and tend to live close to humans. Its Psychic abilities are still developing, it can sleep up to 18 hours a day or else it won\u2019t be able to use them. When in danger, it teleports away.",
     "Baby": false,
     "PrimaryEggGroup": "Human-Like",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "To": "Kadabra",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ]
 }

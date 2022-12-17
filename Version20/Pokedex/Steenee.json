@@ -44,5 +44,17 @@
     "DexDescription": "Its sweet aroma keeps attracting predators but it fends them away with its hard and bitter head leaves. It likes to be taken seriously and can be hard to deal with, if you make it mad you\u2019ll receive a kick.",
     "Baby": false,
     "PrimaryEggGroup": "Grass",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "From": "Bounsweet",
+            "Kind": "Level",
+            "Speed": "Medium"
+        },
+        {
+            "To": "Tsareena",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ]
 }

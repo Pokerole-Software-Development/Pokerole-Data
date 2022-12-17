@@ -44,5 +44,12 @@
     "DexDescription": "Revived from a fossil, this Pokemon is thought to be the ancestor of all bird Pokemon. Its flight abilities are poor so it just hops up by jumping. They are ill tempered and will not eat processed Pokemon food.",
     "Baby": false,
     "PrimaryEggGroup": "Flying",
-    "SecondaryEggGroup": "Water 3"
+    "SecondaryEggGroup": "Water 3",
+    "Evolutions": [
+        {
+            "To": "Archeops",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ]
 }

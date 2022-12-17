@@ -44,5 +44,12 @@
     "DexDescription": "Pansage is a friendly Pokemon. It is good at finding berries and will share them with other Pokemon. The leaves on it\u2019s head have medicinal properties, if it finds a sick Pokemon it will offer some to heal it.",
     "Baby": false,
     "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "To": "Simisage",
+            "Kind": "Stone",
+            "Item": "Leaf Stone"
+        }
+    ]
 }

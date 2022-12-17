@@ -44,5 +44,12 @@
     "DexDescription": "During cold seasons, it migrates to the mountain\u2019s lower reaches and returns to the summit in the spring. They are rarely in contact with humans but are sought for the frozen berries they grow.",
     "Baby": false,
     "PrimaryEggGroup": "Monster",
-    "SecondaryEggGroup": "Grass"
+    "SecondaryEggGroup": "Grass",
+    "Evolutions": [
+        {
+            "To": "Abomasnow",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ]
 }

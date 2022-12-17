@@ -44,5 +44,13 @@
     "DexDescription": "Lives in forest, grasslands and even snowy mountains. It forms burrows and uses its soft fur to make nests and keep warm. You can see how it feels for the position of its ears. They are easily scared by humans.",
     "Baby": false,
     "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": "Human-Like"
+    "SecondaryEggGroup": "Human-Like",
+    "Evolutions": [
+        {
+            "To": "Lopunny",
+            "Kind": "Stat",
+            "Stat": "Happiness",
+            "Value": 4
+        }
+    ]
 }

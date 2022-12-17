@@ -44,5 +44,17 @@
     "DexDescription": "A violent Pokemon. It searches for spots where it can feed on electricity and has been seen absorbing lightning from the sky. It\u2019s competitive and aggressive with others.",
     "Baby": false,
     "PrimaryEggGroup": "Human-Like",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "From": "Elekid",
+            "Kind": "Level",
+            "Speed": "Medium"
+        },
+        {
+            "To": "Electivire",
+            "Kind": "Trade",
+            "Item": "Electirizer"
+        }
+    ]
 }

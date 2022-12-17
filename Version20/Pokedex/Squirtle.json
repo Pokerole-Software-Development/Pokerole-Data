@@ -44,5 +44,12 @@
     "DexDescription": "It is scarce in the wild. The shell is not just for protection - it also helps to minimize resistance in water enabling Squirtle to swim at high speeds. It\u2019s usually a calm and easy going Pokemon.",
     "Baby": false,
     "PrimaryEggGroup": "Monster",
-    "SecondaryEggGroup": "Water 1"
+    "SecondaryEggGroup": "Water 1",
+    "Evolutions": [
+        {
+            "To": "Wartortle",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ]
 }

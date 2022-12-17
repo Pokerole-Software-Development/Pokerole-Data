@@ -44,5 +44,12 @@
     "DexDescription": "The first case of a man-made Pokemon created as computer data. It is capable of reverting itself into a program in order to enter the cyberspace. Its software has a firewall so it cannot be copied.",
     "Baby": false,
     "PrimaryEggGroup": "Mineral",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "To": "Porygon2",
+            "Kind": "Trade",
+            "Item": "Upgrade "
+        }
+    ]
 }

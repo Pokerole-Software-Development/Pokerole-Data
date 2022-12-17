@@ -45,5 +45,11 @@
     "Baby": false,
     "PrimaryEggGroup": "Bug",
     "SecondaryEggGroup": "",
-    "MegaBaseForm": "Scizor"
+    "Evolutions": [
+        {
+            "From": "Scizor",
+            "Kind": "Mega",
+            "Item": "Scizorite"
+        }
+    ]
 }

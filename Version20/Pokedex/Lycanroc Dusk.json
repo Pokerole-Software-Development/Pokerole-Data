@@ -44,5 +44,13 @@
     "DexDescription": "An independent but loyal Rockruff will evolve at dusk. This evolved for is very hard to achieve. An intense fighting spirit lies underneath its calm exterior. Prone to act on its own.",
     "Baby": false,
     "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "From": "Rockruff",
+            "Kind": "Level",
+            "Speed": "Medium",
+            "Special": "Dawn"
+        }
+    ]
 }

@@ -44,5 +44,12 @@
     "DexDescription": "Often found in gardens, Blipbug has hairs on its body that it uses to assess its surroundings. They are very smart and easy to teach but they are not very strong and other Pokemon bully them often.",
     "Baby": false,
     "PrimaryEggGroup": "Bug",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "To": "Dottler",
+            "Kind": "Level",
+            "Speed": "Fast"
+        }
+    ]
 }

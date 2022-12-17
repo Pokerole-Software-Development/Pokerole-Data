@@ -45,5 +45,11 @@
     "Baby": false,
     "PrimaryEggGroup": "Field",
     "SecondaryEggGroup": "Human-Like",
-    "MegaBaseForm": "Lucario"
+    "Evolutions": [
+        {
+            "From": "Lucario",
+            "Kind": "Mega",
+            "Item": "Lucarionite"
+        }
+    ]
 }

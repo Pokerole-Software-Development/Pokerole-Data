@@ -44,5 +44,12 @@
     "DexDescription": "It is said that Golurk were ordered to protect people and Pokemon by the ancient people who created them. There are records of only one still alive found on the ruin, the rest are just statues now.",
     "Baby": false,
     "PrimaryEggGroup": "Mineral",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "From": "Golett",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ]
 }

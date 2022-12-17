@@ -44,5 +44,12 @@
     "DexDescription": "The pollen puff of a happy Ribombee are very nutritious and valuable supplements in Alola. It dislikes rain, for it wets its hair and makes it unable to fly, so if you see a Ribombee you know the weather will be nice.",
     "Baby": false,
     "PrimaryEggGroup": "Bug",
-    "SecondaryEggGroup": "Fairy"
+    "SecondaryEggGroup": "Fairy",
+    "Evolutions": [
+        {
+            "From": "Cutiefly",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ]
 }

@@ -44,5 +44,12 @@
     "DexDescription": "They have rarely been seen in the wild and only in the tallest mountains. It has holes on its hands which are used like canons to shoot boulders. Be careful, they are very aggressive but not very smart.",
     "Baby": false,
     "PrimaryEggGroup": "Monster",
-    "SecondaryEggGroup": "Field"
+    "SecondaryEggGroup": "Field",
+    "Evolutions": [
+        {
+            "From": "Rhydon",
+            "Kind": "Trade",
+            "Item": "Protector"
+        }
+    ]
 }

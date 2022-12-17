@@ -44,5 +44,12 @@
     "DexDescription": "Over the years they have moved closer to towns and other human settlements. They release a foul liquid from their rear that stinks for days to scare away predators. But sometimes they do it just for fun.",
     "Baby": false,
     "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "To": "Skuntank",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ]
 }

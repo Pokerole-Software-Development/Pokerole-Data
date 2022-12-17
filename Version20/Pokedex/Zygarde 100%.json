@@ -44,5 +44,12 @@
     "DexDescription": "The complete form of Zygarde",
     "Baby": false,
     "PrimaryEggGroup": "Undiscovered",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "From": "Zygarde Cell",
+            "Kind": "Special",
+            "Item": "Zyguarde cells"
+        }
+    ]
 }

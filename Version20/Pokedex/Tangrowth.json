@@ -44,5 +44,12 @@
     "DexDescription": "While it remains still, it appears to be a large shrub. Unsuspecting prey that wander near get ensnared by its vines. In the summer months, its vines grow so large that you can\u2019t even see its eyes.",
     "Baby": false,
     "PrimaryEggGroup": "Grass",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "From": "Tangela",
+            "Kind": "Level",
+            "Speed": "Slow"
+        }
+    ]
 }

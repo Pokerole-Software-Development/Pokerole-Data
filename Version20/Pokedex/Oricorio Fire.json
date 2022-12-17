@@ -44,5 +44,19 @@
     "DexDescription": "What was thought to be different species ended up being a single Pokemon. Oricorio Baile is an intense and passionate Pokemon, every flap of its wings produces embers, its fiery dance has inspired many.",
     "Baby": false,
     "PrimaryEggGroup": "Flying",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "To": "Oricorio Electric",
+            "Kind": "Form"
+        },
+        {
+            "To": "Oricorio Psychic",
+            "Kind": "Form"
+        },
+        {
+            "To": "Oricorio Ghost",
+            "Kind": "Form"
+        }
+    ]
 }

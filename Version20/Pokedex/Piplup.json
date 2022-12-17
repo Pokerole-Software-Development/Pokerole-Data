@@ -44,5 +44,12 @@
     "DexDescription": "Piplups are extremely proud. They won\u2019t take anything from anyone nor accept being taken care of. It lives along shores in northern countries. It is a good swimmer but terrible at walking, it trips over often.",
     "Baby": false,
     "PrimaryEggGroup": "Water 1",
-    "SecondaryEggGroup": "Field"
+    "SecondaryEggGroup": "Field",
+    "Evolutions": [
+        {
+            "To": "Prinplup",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ]
 }

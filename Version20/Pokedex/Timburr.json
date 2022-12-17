@@ -44,5 +44,12 @@
     "DexDescription": "They carry a big log as a tool and as a weapon. You may see them helping with construction work as they strive to challenge their strength. When it can swing the log without problems it is close to evolve.",
     "Baby": false,
     "PrimaryEggGroup": "Human-Like",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "To": "Gurdurr",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ]
 }

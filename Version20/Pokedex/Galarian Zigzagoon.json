@@ -44,5 +44,12 @@
     "DexDescription": "Zigzagoons raised in Galar grow to be punks. If they see another Pokemon, they will purposely run into them to start a fight. The only way to calm them down is with a lot of loud noise.",
     "Baby": false,
     "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "To": "Galarian Linoone",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ]
 }

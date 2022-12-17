@@ -44,5 +44,12 @@
     "DexDescription": "They come out to the shore in great numbers when the sky is full with stars. The core at its center glows to communicate with others. If a part of its body is injured it can regrow it in a few days.",
     "Baby": false,
     "PrimaryEggGroup": "Water 3",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "To": "Starmie",
+            "Kind": "Stone",
+            "Item": "Water Stone"
+        }
+    ]
 }

@@ -44,5 +44,12 @@
     "DexDescription": "Although this pokemon has a violent temperament, it won\u2019t put up with bullying. It charges ahead and slams its opponents like a berserker, totally disregarding its own safety. Its mighty arms can send you flying.",
     "Baby": false,
     "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": "Human-Like"
+    "SecondaryEggGroup": "Human-Like",
+    "Evolutions": [
+        {
+            "From": "Pancham",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ]
 }

@@ -44,5 +44,17 @@
     "DexDescription": "It isolates itself from others and trains every day to perform a double scalchop slash technique. This Pokemon takes itself very seriously and won\u2019t back down from any challenge.",
     "Baby": false,
     "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "From": "Oshawott",
+            "Kind": "Level",
+            "Speed": "Medium"
+        },
+        {
+            "To": "Samurott",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ]
 }

@@ -44,5 +44,12 @@
     "DexDescription": "Goldeen loves swimming wild and free in rivers and ponds. If one of these Pokemon is placed in an aquarium, it will shatter the glass with its horn and make its escape.",
     "Baby": false,
     "PrimaryEggGroup": "Water 2",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "To": "Seaking",
+            "Kind": "Level",
+            "Speed": "Slow"
+        }
+    ]
 }

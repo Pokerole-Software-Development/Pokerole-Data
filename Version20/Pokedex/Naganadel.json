@@ -44,5 +44,12 @@
     "DexDescription": "One specimen of UB- Adhesive has apparently evolved. Its friendly demeanor is gone. The large streams of corrosive poison it shot seriously damaged our equipment, I must take a sample to study it",
     "Baby": false,
     "PrimaryEggGroup": "Undiscovered",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "From": "Poipole",
+            "Kind": "Level",
+            "Move": "Dragon Pulse"
+        }
+    ]
 }

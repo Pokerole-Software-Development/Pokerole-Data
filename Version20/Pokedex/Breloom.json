@@ -44,5 +44,12 @@
     "DexDescription": "Their flexible arms and quick footwork can put good fighters to shame. The seeds on their tail and the cap on their head release poison spores. They love humid and hot climates.",
     "Baby": false,
     "PrimaryEggGroup": "Fairy",
-    "SecondaryEggGroup": "Grass"
+    "SecondaryEggGroup": "Grass",
+    "Evolutions": [
+        {
+            "From": "Shroomish",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ]
 }

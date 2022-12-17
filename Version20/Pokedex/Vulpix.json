@@ -44,5 +44,12 @@
     "DexDescription": "It is born with just one tail. As it grows, its single white tail gains color and splits into six. It is quite warm and cuddly - very popular with the ladies . It is, however, uncommon to see one in the wild.",
     "Baby": false,
     "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "To": "Ninetales",
+            "Kind": "Stone",
+            "Item": "Fire Stone"
+        }
+    ]
 }

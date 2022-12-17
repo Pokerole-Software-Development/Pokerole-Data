@@ -45,9 +45,10 @@
     "Baby": false,
     "PrimaryEggGroup": "Undiscovered",
     "SecondaryEggGroup": "",
-    "MegaEvolutions": [
+    "Evolutions": [
         {
-            "Name": "Mega-Rayquaza",
+            "To": "Mega-Rayquaza",
+            "Kind": "Mega",
             "Item": "Pokeball"
         }
     ]

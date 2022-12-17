@@ -44,5 +44,12 @@
     "DexDescription": "They are extremely common in volcanic areas where they group together. They are made of molten magma instead of blood and flesh. Slugmas replenish parts of their body by absorbing molted rocks.",
     "Baby": false,
     "PrimaryEggGroup": "Amorphous",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "To": "Magcargo",
+            "Kind": "Level",
+            "Speed": "Slow"
+        }
+    ]
 }

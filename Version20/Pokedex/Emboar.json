@@ -44,5 +44,12 @@
     "DexDescription": "Although it has a scary exterior, it is a very gentle Pokemon that cares deeply for family and friends. It can burst its punches and beard on fire, it also shows proficiency on martial arts like Judo.",
     "Baby": false,
     "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "From": "Pignite",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ]
 }

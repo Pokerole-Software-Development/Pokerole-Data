@@ -44,5 +44,12 @@
     "DexDescription": "They spin on their center to move around. When a group of them gathers they create a horrible, headache inducing noise at unison. Old paintings describe them living with people in ancient times.",
     "Baby": false,
     "PrimaryEggGroup": "Mineral",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "To": "Claydol",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ]
 }

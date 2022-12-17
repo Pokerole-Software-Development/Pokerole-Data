@@ -44,5 +44,18 @@
     "DexDescription": "They live among rose bushes, shooting sharp poisonous thorns to anyone who tries to steal one of their flowers. Their aroma brings serenity. They need clean water to grow beautiful.",
     "Baby": false,
     "PrimaryEggGroup": "Fairy",
-    "SecondaryEggGroup": "Grass"
+    "SecondaryEggGroup": "Grass",
+    "Evolutions": [
+        {
+            "From": "Budew",
+            "Kind": "Stat",
+            "Stat": "Happiness",
+            "Value": 4
+        },
+        {
+            "To": "Roserade",
+            "Kind": "Stone",
+            "Item": "Shiny Stone"
+        }
+    ]
 }

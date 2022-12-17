@@ -24,7 +24,7 @@
                         "@DisplayName": "Ivysaur"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Medium\" }"
+                    "Details": "{ \"speed\" : \"Medium\" }"
                 },
                 {
                     "MissingValues": null,
@@ -35,7 +35,7 @@
                         "@DisplayName": "Venusaur"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Medium\" }"
+                    "Details": "{ \"speed\" : \"Medium\" }"
                 },
                 {
                     "MissingValues": null,
@@ -77,7 +77,7 @@
                         "@DisplayName": "Charmeleon"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Medium\" }"
+                    "Details": "{ \"speed\" : \"Medium\" }"
                 },
                 {
                     "MissingValues": null,
@@ -88,7 +88,7 @@
                         "@DisplayName": "Charizard"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Medium\" }"
+                    "Details": "{ \"speed\" : \"Medium\" }"
                 },
                 {
                     "MissingValues": null,
@@ -140,7 +140,7 @@
                         "@DisplayName": "Wartortle"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Medium\" }"
+                    "Details": "{ \"speed\" : \"Medium\" }"
                 },
                 {
                     "MissingValues": null,
@@ -151,7 +151,7 @@
                         "@DisplayName": "Blastoise"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Medium\" }"
+                    "Details": "{ \"speed\" : \"Medium\" }"
                 },
                 {
                     "MissingValues": null,
@@ -191,7 +191,7 @@
                         "@DisplayName": "Metapod"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Fast\" }"
+                    "Details": "{ \"speed\" : \"Fast\" }"
                 },
                 {
                     "MissingValues": null,
@@ -202,7 +202,7 @@
                         "@DisplayName": "Butterfree"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Fast\" }"
+                    "Details": "{ \"speed\" : \"Fast\" }"
                 }
             ]
         }
@@ -232,7 +232,7 @@
                         "@DisplayName": "Kakuna"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Fast\" }"
+                    "Details": "{ \"speed\" : \"Fast\" }"
                 },
                 {
                     "MissingValues": null,
@@ -243,7 +243,7 @@
                         "@DisplayName": "Beedrill"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Fast\" }"
+                    "Details": "{ \"speed\" : \"Fast\" }"
                 },
                 {
                     "MissingValues": null,
@@ -284,7 +284,7 @@
                         "@DisplayName": "Pidgeotto"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Medium\" }"
+                    "Details": "{ \"speed\" : \"Medium\" }"
                 },
                 {
                     "MissingValues": null,
@@ -295,7 +295,7 @@
                         "@DisplayName": "Pidgeot"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Medium\" }"
+                    "Details": "{ \"speed\" : \"Medium\" }"
                 },
                 {
                     "MissingValues": null,
@@ -333,7 +333,7 @@
                     "@DisplayName": "Raticate"
                 },
                 "Kind": "Level",
-                "Details": "{ speed : \"Medium\" }"
+                "Details": "{ \"speed\" : \"Medium\" }"
             }
         }
     },
@@ -359,7 +359,7 @@
                     "@DisplayName": "Alolan Raticate"
                 },
                 "Kind": "Level",
-                "Details": "{ speed : \"Medium\" }"
+                "Details": "{ \"speed\" : \"Medium\" }"
             }
         }
     },
@@ -385,7 +385,7 @@
                     "@DisplayName": "Fearow"
                 },
                 "Kind": "Level",
-                "Details": "{ speed : \"Medium\" }"
+                "Details": "{ \"speed\" : \"Medium\" }"
             }
         }
     },
@@ -411,7 +411,7 @@
                     "@DisplayName": "Arbok"
                 },
                 "Kind": "Level",
-                "Details": "{ speed : \"Medium\" }"
+                "Details": "{ \"speed\" : \"Medium\" }"
             }
         }
     },
@@ -440,7 +440,7 @@
                         "@DisplayName": "Pikachu"
                     },
                     "Kind": "Stat",
-                    "Details": "{ stat : \"Happiness\", value : 4 }"
+                    "Details": "{ \"stat\" : \"Happiness\", \"value\" : 4 }"
                 },
                 {
                     "MissingValues": null,
@@ -451,7 +451,7 @@
                         "@DisplayName": "Raichu"
                     },
                     "Kind": "Stone",
-                    "Details": "{ item : \"Thunder Stone\" }"
+                    "Details": "{ \"item\" : \"Thunder Stone\" }"
                 },
                 {
                     "MissingValues": null,
@@ -462,7 +462,7 @@
                         "@DisplayName": "Alolan Raichu"
                     },
                     "Kind": "Stone",
-                    "Details": "{ item : \"Thunder Stone\", region = \"Alola\" }"
+                    "Details": "{ \"item\" : \"Thunder Stone\", \"region\" : \"Alola\" }"
                 }
             ]
         }
@@ -489,7 +489,7 @@
                     "@DisplayName": "Sandslash"
                 },
                 "Kind": "Level",
-                "Details": "{ speed : \"Medium\" }"
+                "Details": "{ \"speed\" : \"Medium\" }"
             }
         }
     },
@@ -515,7 +515,7 @@
                     "@DisplayName": "Alolan Sandslash"
                 },
                 "Kind": "Level",
-                "Details": "{ speed : \"Medium\" }"
+                "Details": "{ \"speed\" : \"Medium\" }"
             }
         }
     },
@@ -546,7 +546,7 @@
                         "@DisplayName": "Nidorina"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Medium\" }"
+                    "Details": "{ \"speed\" : \"Medium\" }"
                 },
                 {
                     "MissingValues": null,
@@ -557,7 +557,7 @@
                         "@DisplayName": "Nidoqueen"
                     },
                     "Kind": "Stone",
-                    "Details": "{ item : \"Moon Stone\" }"
+                    "Details": "{ \"item\" : \"Moon Stone\" }"
                 }
             ]
         }
@@ -586,7 +586,7 @@
                         "@DisplayName": "Nidorino"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Medium\" }"
+                    "Details": "{ \"speed\" : \"Medium\" }"
                 },
                 {
                     "MissingValues": null,
@@ -597,7 +597,7 @@
                         "@DisplayName": "Nidoking"
                     },
                     "Kind": "Stone",
-                    "Details": "{ item : \"Moon Stone\" }"
+                    "Details": "{ \"item\" : \"Moon Stone\" }"
                 }
             ]
         }
@@ -626,7 +626,7 @@
                         "@DisplayName": "Clefairy"
                     },
                     "Kind": "Stat",
-                    "Details": "{ stat : \"Happiness\", value : 4 }"
+                    "Details": "{ \"stat\" : \"Happiness\", \"value\" : 4 }"
                 },
                 {
                     "MissingValues": null,
@@ -637,7 +637,7 @@
                         "@DisplayName": "Clefable"
                     },
                     "Kind": "Stone",
-                    "Details": "{ item : \"Moon Stone\" }"
+                    "Details": "{ \"item\" : \"Moon Stone\" }"
                 }
             ]
         }
@@ -664,7 +664,7 @@
                     "@DisplayName": "Ninetales"
                 },
                 "Kind": "Stone",
-                "Details": "{ item : \"Fire Stone\" }"
+                "Details": "{ \"item\" : \"Fire Stone\" }"
             }
         }
     },
@@ -690,7 +690,7 @@
                     "@DisplayName": "Alolan Ninetales"
                 },
                 "Kind": "Stone",
-                "Details": "{ item : \"Ice Stone\" }"
+                "Details": "{ \"item\" : \"Ice Stone\" }"
             }
         }
     },
@@ -718,7 +718,7 @@
                         "@DisplayName": "Jigglypuff"
                     },
                     "Kind": "Stat",
-                    "Details": "{ stat : \"Happiness\", value : 4 }"
+                    "Details": "{ \"stat\" : \"Happiness\", \"value\" : 4 }"
                 },
                 {
                     "MissingValues": null,
@@ -729,7 +729,7 @@
                         "@DisplayName": "Wigglytuff"
                     },
                     "Kind": "Stone",
-                    "Details": "{ item : \"Moon Stone\" }"
+                    "Details": "{ \"item\" : \"Moon Stone\" }"
                 }
             ]
         }
@@ -758,7 +758,7 @@
                         "@DisplayName": "Golbat"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Medium\" }"
+                    "Details": "{ \"speed\" : \"Medium\" }"
                 },
                 {
                     "MissingValues": null,
@@ -769,7 +769,7 @@
                         "@DisplayName": "Crobat"
                     },
                     "Kind": "Stat",
-                    "Details": "{ stat : \"Happiness\", value : 4 }"
+                    "Details": "{ \"stat\" : \"Happiness\", \"value\" : 4 }"
                 }
             ]
         }
@@ -799,7 +799,7 @@
                         "@DisplayName": "Gloom"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Medium\" }"
+                    "Details": "{ \"speed\" : \"Medium\" }"
                 },
                 {
                     "MissingValues": null,
@@ -810,7 +810,7 @@
                         "@DisplayName": "Vileplume"
                     },
                     "Kind": "Stone",
-                    "Details": "{ item : \"Leaf Stone\" }"
+                    "Details": "{ \"item\" : \"Leaf Stone\" }"
                 },
                 {
                     "MissingValues": null,
@@ -821,7 +821,7 @@
                         "@DisplayName": "Bellossom"
                     },
                     "Kind": "Stone",
-                    "Details": "{ item : \"Sun Stone\" }"
+                    "Details": "{ \"item\" : \"Sun Stone\" }"
                 }
             ]
         }
@@ -848,7 +848,7 @@
                     "@DisplayName": "Parasect"
                 },
                 "Kind": "Level",
-                "Details": "{ speed : \"Medium\" }"
+                "Details": "{ \"speed\" : \"Medium\" }"
             }
         }
     },
@@ -874,7 +874,7 @@
                     "@DisplayName": "Venomoth"
                 },
                 "Kind": "Level",
-                "Details": "{ speed : \"Slow\" }"
+                "Details": "{ \"speed\" : \"Slow\" }"
             }
         }
     },
@@ -900,7 +900,7 @@
                     "@DisplayName": "Dugtrio"
                 },
                 "Kind": "Level",
-                "Details": "{ speed : \"Medium\" }"
+                "Details": "{ \"speed\" : \"Medium\" }"
             }
         }
     },
@@ -926,7 +926,7 @@
                     "@DisplayName": "Alolan Dugtrio"
                 },
                 "Kind": "Level",
-                "Details": "{ speed : \"Medium\" }"
+                "Details": "{ \"speed\" : \"Medium\" }"
             }
         }
     },
@@ -952,7 +952,7 @@
                     "@DisplayName": "Persian"
                 },
                 "Kind": "Level",
-                "Details": "{ speed : \"Medium\" }"
+                "Details": "{ \"speed\" : \"Medium\" }"
             }
         }
     },
@@ -978,7 +978,7 @@
                     "@DisplayName": "Alolan Persian"
                 },
                 "Kind": "Level",
-                "Details": "{ speed : \"Medium\" }"
+                "Details": "{ \"speed\" : \"Medium\" }"
             }
         }
     },
@@ -1004,7 +1004,7 @@
                     "@DisplayName": "Perrserker"
                 },
                 "Kind": "Level",
-                "Details": "{ speed : \"Medium\" }"
+                "Details": "{ \"speed\" : \"Medium\" }"
             }
         }
     },
@@ -1030,7 +1030,7 @@
                     "@DisplayName": "Golduck"
                 },
                 "Kind": "Level",
-                "Details": "{ speed : \"Medium\" }"
+                "Details": "{ \"speed\" : \"Medium\" }"
             }
         }
     },
@@ -1056,7 +1056,7 @@
                     "@DisplayName": "Primeape"
                 },
                 "Kind": "Level",
-                "Details": "{ speed : \"Slow\" }"
+                "Details": "{ \"speed\" : \"Slow\" }"
             }
         }
     },
@@ -1082,7 +1082,7 @@
                     "@DisplayName": "Arcanine"
                 },
                 "Kind": "Stone",
-                "Details": "{ item : \"Fire Stone\" }"
+                "Details": "{ \"item\" : \"Fire Stone\" }"
             }
         }
     },
@@ -1111,7 +1111,7 @@
                         "@DisplayName": "Poliwhirl"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Medium\" }"
+                    "Details": "{ \"speed\" : \"Medium\" }"
                 },
                 {
                     "MissingValues": null,
@@ -1122,7 +1122,7 @@
                         "@DisplayName": "Poliwrath"
                     },
                     "Kind": "Stone",
-                    "Details": "{ item : \"Water Stone\" }"
+                    "Details": "{ \"item\" : \"Water Stone\" }"
                 },
                 {
                     "MissingValues": null,
@@ -1133,7 +1133,7 @@
                         "@DisplayName": "Politoed"
                     },
                     "Kind": "Trade",
-                    "Details": "{ item : \u201cKing's Rock\u201d }"
+                    "Details": "{ \"item\" : \"King's Rock\" }"
                 }
             ]
         }
@@ -1163,7 +1163,7 @@
                         "@DisplayName": "Kadabra"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Medium\" }"
+                    "Details": "{ \"speed\" : \"Medium\" }"
                 },
                 {
                     "MissingValues": null,
@@ -1214,7 +1214,7 @@
                         "@DisplayName": "Machoke"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Medium\" }"
+                    "Details": "{ \"speed\" : \"Medium\" }"
                 },
                 {
                     "MissingValues": null,
@@ -1254,7 +1254,7 @@
                         "@DisplayName": "Weepinbell"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Medium\" }"
+                    "Details": "{ \"speed\" : \"Medium\" }"
                 },
                 {
                     "MissingValues": null,
@@ -1265,7 +1265,7 @@
                         "@DisplayName": "Victreebel"
                     },
                     "Kind": "Stone",
-                    "Details": "{ item : \"Leaf Stone\" }"
+                    "Details": "{ \"item\" : \"Leaf Stone\" }"
                 }
             ]
         }
@@ -1292,7 +1292,7 @@
                     "@DisplayName": "Tentacruel"
                 },
                 "Kind": "Level",
-                "Details": "{ speed : \"Slow\" }"
+                "Details": "{ \"speed\" : \"Slow\" }"
             }
         }
     },
@@ -1320,7 +1320,7 @@
                         "@DisplayName": "Graveler"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Medium\" }"
+                    "Details": "{ \"speed\" : \"Medium\" }"
                 },
                 {
                     "MissingValues": null,
@@ -1360,7 +1360,7 @@
                         "@DisplayName": "Alolan Graveler"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Medium\" }"
+                    "Details": "{ \"speed\" : \"Medium\" }"
                 },
                 {
                     "MissingValues": null,
@@ -1398,7 +1398,7 @@
                     "@DisplayName": "Rapidash"
                 },
                 "Kind": "Level",
-                "Details": "{ speed : \"Medium\" }"
+                "Details": "{ \"speed\" : \"Medium\" }"
             }
         }
     },
@@ -1424,7 +1424,7 @@
                     "@DisplayName": "Galarian Rapidash"
                 },
                 "Kind": "Level",
-                "Details": "{ speed : \"Medium\" }"
+                "Details": "{ \"speed\" : \"Medium\" }"
             }
         }
     },
@@ -1453,7 +1453,7 @@
                         "@DisplayName": "Slowbro"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Slow\" }"
+                    "Details": "{ \"speed\" : \"Slow\" }"
                 },
                 {
                     "MissingValues": null,
@@ -1475,7 +1475,7 @@
                         "@DisplayName": "Slowking"
                     },
                     "Kind": "Trade",
-                    "Details": "{ item : \"King's Rock\" }"
+                    "Details": "{ \"item\" : \"King's Rock\" }"
                 }
             ]
         }
@@ -1504,7 +1504,7 @@
                         "@DisplayName": "Magneton"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Medium\" }"
+                    "Details": "{ \"speed\" : \"Medium\" }"
                 },
                 {
                     "MissingValues": null,
@@ -1515,7 +1515,7 @@
                         "@DisplayName": "Magnezone"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Slow\" }"
+                    "Details": "{ \"speed\" : \"Slow\" }"
                 }
             ]
         }
@@ -1542,7 +1542,7 @@
                     "@DisplayName": "Sirfetch'd"
                 },
                 "Kind": "Special",
-                "Details": "{ special : \"Score 3 Critical hits in 1 battle\" }"
+                "Details": "{ \"special\" : \"Score 3 Critical hits in 1 battle\" }"
             }
         }
     },
@@ -1568,7 +1568,7 @@
                     "@DisplayName": "Dodrio"
                 },
                 "Kind": "Level",
-                "Details": "{ speed : \"Slow\" }"
+                "Details": "{ \"speed\" : \"Slow\" }"
             }
         }
     },
@@ -1594,7 +1594,7 @@
                     "@DisplayName": "Dewgong"
                 },
                 "Kind": "Level",
-                "Details": "{ speed : \"Slow\" }"
+                "Details": "{ \"speed\" : \"Slow\" }"
             }
         }
     },
@@ -1620,7 +1620,7 @@
                     "@DisplayName": "Muk"
                 },
                 "Kind": "Level",
-                "Details": "{ speed : \"Slow\" }"
+                "Details": "{ \"speed\" : \"Slow\" }"
             }
         }
     },
@@ -1646,7 +1646,7 @@
                     "@DisplayName": "Alolan Muk"
                 },
                 "Kind": "Level",
-                "Details": "{ speed : \"Slow\" }"
+                "Details": "{ \"speed\" : \"Slow\" }"
             }
         }
     },
@@ -1672,7 +1672,7 @@
                     "@DisplayName": "Cloyster"
                 },
                 "Kind": "Level",
-                "Details": "{ speed : \"Medium\" }"
+                "Details": "{ \"speed\" : \"Medium\" }"
             }
         }
     },
@@ -1701,7 +1701,7 @@
                         "@DisplayName": "Haunter"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Medium\" }"
+                    "Details": "{ \"speed\" : \"Medium\" }"
                 },
                 {
                     "MissingValues": null,
@@ -1752,7 +1752,7 @@
                         "@DisplayName": "Steelix"
                     },
                     "Kind": "Trade",
-                    "Details": "{ item : \"Metal Coat\" }"
+                    "Details": "{ \"item\" : \"Metal Coat\" }"
                 },
                 {
                     "MissingValues": null,
@@ -1790,7 +1790,7 @@
                     "@DisplayName": "Hypno"
                 },
                 "Kind": "Level",
-                "Details": "{ speed : \"Slow\" }"
+                "Details": "{ \"speed\" : \"Slow\" }"
             }
         }
     },
@@ -1816,7 +1816,7 @@
                     "@DisplayName": "Kingler"
                 },
                 "Kind": "Level",
-                "Details": "{ speed : \"Slow\" }"
+                "Details": "{ \"speed\" : \"Slow\" }"
             }
         }
     },
@@ -1842,7 +1842,7 @@
                     "@DisplayName": "Electrode"
                 },
                 "Kind": "Level",
-                "Details": "{ speed : \"Slow\" }"
+                "Details": "{ \"speed\" : \"Slow\" }"
             }
         }
     },
@@ -1870,7 +1870,7 @@
                         "@DisplayName": "Exeggutor"
                     },
                     "Kind": "Stone",
-                    "Details": "{ item : \"Leaf Stone\" }"
+                    "Details": "{ \"item\" : \"Leaf Stone\" }"
                 },
                 {
                     "MissingValues": null,
@@ -1881,7 +1881,7 @@
                         "@DisplayName": "Alolan Exeggutor"
                     },
                     "Kind": "Stone",
-                    "Details": "{ item : \"Leaf Stone\", region = \"Alola\" }"
+                    "Details": "{ \"item\" : \"Leaf Stone\", \"region\" : \"Alola\" }"
                 }
             ]
         }
@@ -1910,7 +1910,7 @@
                         "@DisplayName": "Marowak"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Slow\" }"
+                    "Details": "{ \"speed\" : \"Slow\" }"
                 },
                 {
                     "MissingValues": null,
@@ -1921,7 +1921,7 @@
                         "@DisplayName": "Alolan Marowak"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Slow\", region = \"Alola\" }"
+                    "Details": "{ \"speed\" : \"Slow\", \"region\" : \"Alola\" }"
                 }
             ]
         }
@@ -1951,7 +1951,7 @@
                         "@DisplayName": "Hitmontop"
                     },
                     "Kind": "Stat",
-                    "Details": "{ stat : \"Dexterity\", value : -1 }"
+                    "Details": "{ \"stat\" : \"Dexterity\", \"value\" : -1 }"
                 },
                 {
                     "MissingValues": null,
@@ -1962,7 +1962,7 @@
                         "@DisplayName": "Hitmonlee"
                     },
                     "Kind": "Stat",
-                    "Details": "{ stat : \"Strength\", value : -1 }"
+                    "Details": "{ \"stat\" : \"Strength\", \"value\" : -1 }"
                 },
                 {
                     "MissingValues": null,
@@ -1973,7 +1973,7 @@
                         "@DisplayName": "Hitmonchan"
                     },
                     "Kind": "Stat",
-                    "Details": "{ stat : \"Vitality\", value : -1 }"
+                    "Details": "{ \"stat\" : \"Vitality\", \"value\" : -1 }"
                 }
             ]
         }
@@ -2000,7 +2000,7 @@
                     "@DisplayName": "Lickilicky"
                 },
                 "Kind": "Level",
-                "Details": "{ speed : \"Slow\" }"
+                "Details": "{ \"speed\" : \"Slow\" }"
             }
         }
     },
@@ -2028,7 +2028,7 @@
                         "@DisplayName": "Weezing"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Slow\" }"
+                    "Details": "{ \"speed\" : \"Slow\" }"
                 },
                 {
                     "MissingValues": null,
@@ -2039,7 +2039,7 @@
                         "@DisplayName": "Galarian Weezing"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Slow\", region = \"Galar\" }"
+                    "Details": "{ \"speed\" : \"Slow\", \"region\" : \"Galar\" }"
                 }
             ]
         }
@@ -2068,7 +2068,7 @@
                         "@DisplayName": "Rhydon"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Slow\" }"
+                    "Details": "{ \"speed\" : \"Slow\" }"
                 },
                 {
                     "MissingValues": null,
@@ -2079,7 +2079,7 @@
                         "@DisplayName": "Rhyperior"
                     },
                     "Kind": "Trade",
-                    "Details": "{ item : \"Protector\" }"
+                    "Details": "{ \"item\" : \"Protector\" }"
                 }
             ]
         }
@@ -2114,7 +2114,7 @@
                         "@DisplayName": "Chansey"
                     },
                     "Kind": "Level",
-                    "Details": "{ item : \"Oval Stone\" }"
+                    "Details": "{ \"item\" : \"Oval Stone\" }"
                 },
                 {
                     "MissingValues": null,
@@ -2125,7 +2125,7 @@
                         "@DisplayName": "Blissey"
                     },
                     "Kind": "Stat",
-                    "Details": "{ stat : \"Happiness\", value : 5 }"
+                    "Details": "{ \"stat\" : \"Happiness\", \"value\" : 5 }"
                 }
             ]
         }
@@ -2152,7 +2152,7 @@
                     "@DisplayName": "Tangrowth"
                 },
                 "Kind": "Level",
-                "Details": "{ speed : \"Slow\" }"
+                "Details": "{ \"speed\" : \"Slow\" }"
             }
         }
     },
@@ -2206,7 +2206,7 @@
                         "@DisplayName": "Seadra"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Slow\" }"
+                    "Details": "{ \"speed\" : \"Slow\" }"
                 },
                 {
                     "MissingValues": null,
@@ -2217,7 +2217,7 @@
                         "@DisplayName": "Kingdra"
                     },
                     "Kind": "Trade",
-                    "Details": "{ item : \"Dragon Scale\" }"
+                    "Details": "{ \"item\" : \"Dragon Scale\" }"
                 }
             ]
         }
@@ -2244,7 +2244,7 @@
                     "@DisplayName": "Seaking"
                 },
                 "Kind": "Level",
-                "Details": "{ speed : \"Slow\" }"
+                "Details": "{ \"speed\" : \"Slow\" }"
             }
         }
     },
@@ -2270,7 +2270,7 @@
                     "@DisplayName": "Starmie"
                 },
                 "Kind": "Stone",
-                "Details": "{ item : \"Water Stone\" }"
+                "Details": "{ \"item\" : \"Water Stone\" }"
             }
         }
     },
@@ -2305,7 +2305,7 @@
                         "@DisplayName": "Mr. Mime"
                     },
                     "Kind": "Level",
-                    "Details": "{ move : \"Mimic\" }"
+                    "Details": "{ \"move\" : \"Mimic\" }"
                 },
                 {
                     "MissingValues": null,
@@ -2316,7 +2316,7 @@
                         "@DisplayName": "Galarian Mr. Mime"
                     },
                     "Kind": "Level",
-                    "Details": "{ move : \"Mimic\" , region = \"Galar\" }"
+                    "Details": "{ \"move\" : \"Mimic\" , \"region\" : \"Galar\" }"
                 },
                 {
                     "MissingValues": null,
@@ -2327,7 +2327,7 @@
                         "@DisplayName": "Mr. Rime"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Medium\" }"
+                    "Details": "{ \"speed\" : \"Medium\" }"
                 }
             ]
         }
@@ -2356,7 +2356,7 @@
                         "@DisplayName": "Scizor"
                     },
                     "Kind": "Trade",
-                    "Details": "{ item : \"Metal Coat\" }"
+                    "Details": "{ \"item\" : \"Metal Coat\" }"
                 },
                 {
                     "MissingValues": null,
@@ -2394,7 +2394,7 @@
                     "@DisplayName": "Jynx"
                 },
                 "Kind": "Level",
-                "Details": "{ speed : \"Medium\" }"
+                "Details": "{ \"speed\" : \"Medium\" }"
             }
         }
     },
@@ -2422,7 +2422,7 @@
                         "@DisplayName": "Electabuzz"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Medium\" }"
+                    "Details": "{ \"speed\" : \"Medium\" }"
                 },
                 {
                     "MissingValues": null,
@@ -2433,7 +2433,7 @@
                         "@DisplayName": "Electivire"
                     },
                     "Kind": "Trade",
-                    "Details": "{ item : \"Electirizer\" }"
+                    "Details": "{ \"item\" : \"Electirizer\" }"
                 }
             ]
         }
@@ -2462,7 +2462,7 @@
                         "@DisplayName": "Magmar"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Medium\" }"
+                    "Details": "{ \"speed\" : \"Medium\" }"
                 },
                 {
                     "MissingValues": null,
@@ -2473,7 +2473,7 @@
                         "@DisplayName": "Magmortar"
                     },
                     "Kind": "Trade",
-                    "Details": "{ item : \"Magmarizer\" }"
+                    "Details": "{ \"item\" : \"Magmarizer\" }"
                 }
             ]
         }
@@ -2528,7 +2528,7 @@
                         "@DisplayName": "Gyarados"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Slow\" }"
+                    "Details": "{ \"speed\" : \"Slow\" }"
                 },
                 {
                     "MissingValues": null,
@@ -2574,7 +2574,7 @@
                         "@DisplayName": "Vaporeon"
                     },
                     "Kind": "Stone",
-                    "Details": "{ item : \"Water Stone\" }"
+                    "Details": "{ \"item\" : \"Water Stone\" }"
                 },
                 {
                     "MissingValues": null,
@@ -2585,7 +2585,7 @@
                         "@DisplayName": "Jolteon"
                     },
                     "Kind": "Stone",
-                    "Details": "{ item : \"Thunder Stone\" }"
+                    "Details": "{ \"item\" : \"Thunder Stone\" }"
                 },
                 {
                     "MissingValues": null,
@@ -2596,7 +2596,7 @@
                         "@DisplayName": "Flareon"
                     },
                     "Kind": "Stone",
-                    "Details": "{ item : \"Fire Stone\" }"
+                    "Details": "{ \"item\" : \"Fire Stone\" }"
                 },
                 {
                     "MissingValues": null,
@@ -2607,7 +2607,7 @@
                         "@DisplayName": "Espeon"
                     },
                     "Kind": "Special",
-                    "Details": "{ stat : \"Happiness\", value : 4, special : \"Sunlight\" }"
+                    "Details": "{ \"stat\" : \"Happiness\", \"value\" : 4, \"special\" : \"Sunlight\" }"
                 },
                 {
                     "MissingValues": null,
@@ -2618,7 +2618,7 @@
                         "@DisplayName": "Umbreon"
                     },
                     "Kind": "Special",
-                    "Details": "{ stat : \"Happiness\", value : 4, special : \"Moonlight\" }"
+                    "Details": "{ \"stat\" : \"Happiness\", \"value\" : 4, \"special\" : \"Moonlight\" }"
                 },
                 {
                     "MissingValues": null,
@@ -2629,7 +2629,7 @@
                         "@DisplayName": "Leafeon"
                     },
                     "Kind": "Stone",
-                    "Details": "{ item : \"Leaf Stone\" }"
+                    "Details": "{ \"item\" : \"Leaf Stone\" }"
                 },
                 {
                     "MissingValues": null,
@@ -2640,7 +2640,7 @@
                         "@DisplayName": "Glaceon"
                     },
                     "Kind": "Stone",
-                    "Details": "{ item : \"Ice Stone\" }"
+                    "Details": "{ \"item\" : \"Ice Stone\" }"
                 },
                 {
                     "MissingValues": null,
@@ -2651,7 +2651,7 @@
                         "@DisplayName": "Sylveon"
                     },
                     "Kind": "Stat",
-                    "Details": "{ stat : \"Loyalty\", value : 5 }"
+                    "Details": "{ \"stat\" : \"Loyalty\", \"value\" : 5 }"
                 }
             ]
         }
@@ -2680,7 +2680,7 @@
                         "@DisplayName": "Porygon2"
                     },
                     "Kind": "Trade",
-                    "Details": "{ item : \"Upgrade \" }"
+                    "Details": "{ \"item\" : \"Upgrade \" }"
                 },
                 {
                     "MissingValues": null,
@@ -2691,7 +2691,7 @@
                         "@DisplayName": "Porygon-Z"
                     },
                     "Kind": "Trade",
-                    "Details": "{ item : \"Dubious Disc\" }"
+                    "Details": "{ \"item\" : \"Dubious Disc\" }"
                 }
             ]
         }
@@ -2718,7 +2718,7 @@
                     "@DisplayName": "Omastar"
                 },
                 "Kind": "Level",
-                "Details": "{ speed : \"Slow\" }"
+                "Details": "{ \"speed\" : \"Slow\" }"
             }
         }
     },
@@ -2744,7 +2744,7 @@
                     "@DisplayName": "Kabutops"
                 },
                 "Kind": "Level",
-                "Details": "{ speed : \"Slow\" }"
+                "Details": "{ \"speed\" : \"Slow\" }"
             }
         }
     },
@@ -2802,7 +2802,7 @@
                     "@DisplayName": "Snorlax"
                 },
                 "Kind": "Stat",
-                "Details": "{ stat : \"Happiness\", value : 4 }"
+                "Details": "{ \"stat\" : \"Happiness\", \"value\" : 4 }"
             }
         }
     },
@@ -2830,7 +2830,7 @@
                         "@DisplayName": "Dragonair"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Slow\" }"
+                    "Details": "{ \"speed\" : \"Slow\" }"
                 },
                 {
                     "MissingValues": null,
@@ -2841,7 +2841,7 @@
                         "@DisplayName": "Dragonite"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Slow\" }"
+                    "Details": "{ \"speed\" : \"Slow\" }"
                 }
             ]
         }
@@ -2910,7 +2910,7 @@
                         "@DisplayName": "Bayleef"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Medium\" }"
+                    "Details": "{ \"speed\" : \"Medium\" }"
                 },
                 {
                     "MissingValues": null,
@@ -2921,7 +2921,7 @@
                         "@DisplayName": "Meganium"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Medium\" }"
+                    "Details": "{ \"speed\" : \"Medium\" }"
                 }
             ]
         }
@@ -2950,7 +2950,7 @@
                         "@DisplayName": "Quilava"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Medium\" }"
+                    "Details": "{ \"speed\" : \"Medium\" }"
                 },
                 {
                     "MissingValues": null,
@@ -2961,7 +2961,7 @@
                         "@DisplayName": "Typhlosion"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Medium\" }"
+                    "Details": "{ \"speed\" : \"Medium\" }"
                 }
             ]
         }
@@ -2990,7 +2990,7 @@
                         "@DisplayName": "Croconaw"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Medium\" }"
+                    "Details": "{ \"speed\" : \"Medium\" }"
                 },
                 {
                     "MissingValues": null,
@@ -3001,7 +3001,7 @@
                         "@DisplayName": "Feraligatr"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Medium\" }"
+                    "Details": "{ \"speed\" : \"Medium\" }"
                 }
             ]
         }
@@ -3028,7 +3028,7 @@
                     "@DisplayName": "Furret"
                 },
                 "Kind": "Level",
-                "Details": "{ speed : \"Medium\" }"
+                "Details": "{ \"speed\" : \"Medium\" }"
             }
         }
     },
@@ -3054,7 +3054,7 @@
                     "@DisplayName": "Noctowl"
                 },
                 "Kind": "Level",
-                "Details": "{ speed : \"Medium\" }"
+                "Details": "{ \"speed\" : \"Medium\" }"
             }
         }
     },
@@ -3080,7 +3080,7 @@
                     "@DisplayName": "Ledian"
                 },
                 "Kind": "Level",
-                "Details": "{ speed : \"Medium\" }"
+                "Details": "{ \"speed\" : \"Medium\" }"
             }
         }
     },
@@ -3106,7 +3106,7 @@
                     "@DisplayName": "Ariados"
                 },
                 "Kind": "Level",
-                "Details": "{ speed : \"Medium\" }"
+                "Details": "{ \"speed\" : \"Medium\" }"
             }
         }
     },
@@ -3132,7 +3132,7 @@
                     "@DisplayName": "Lanturn"
                 },
                 "Kind": "Level",
-                "Details": "{ speed : \"Medium\" }"
+                "Details": "{ \"speed\" : \"Medium\" }"
             }
         }
     },
@@ -3160,7 +3160,7 @@
                         "@DisplayName": "Togetic"
                     },
                     "Kind": "Stat",
-                    "Details": "{ stat : \"Happiness\", value : 5 }"
+                    "Details": "{ \"stat\" : \"Happiness\", \"value\" : 5 }"
                 },
                 {
                     "MissingValues": null,
@@ -3171,7 +3171,7 @@
                         "@DisplayName": "Togekiss"
                     },
                     "Kind": "Stone",
-                    "Details": "{ item : \"Shiny Stone\" }"
+                    "Details": "{ \"item\" : \"Shiny Stone\" }"
                 }
             ]
         }
@@ -3198,7 +3198,7 @@
                     "@DisplayName": "Xatu"
                 },
                 "Kind": "Level",
-                "Details": "{ speed : \"Medium\" }"
+                "Details": "{ \"speed\" : \"Medium\" }"
             }
         }
     },
@@ -3227,7 +3227,7 @@
                         "@DisplayName": "Flaaffy"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Medium\" }"
+                    "Details": "{ \"speed\" : \"Medium\" }"
                 },
                 {
                     "MissingValues": null,
@@ -3238,7 +3238,7 @@
                         "@DisplayName": "Ampharos"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Medium\" }"
+                    "Details": "{ \"speed\" : \"Medium\" }"
                 },
                 {
                     "MissingValues": null,
@@ -3284,7 +3284,7 @@
                         "@DisplayName": "Marill"
                     },
                     "Kind": "Stat",
-                    "Details": "{ stat : \"Happiness\", value : 4 }"
+                    "Details": "{ \"stat\" : \"Happiness\", \"value\" : 4 }"
                 },
                 {
                     "MissingValues": null,
@@ -3295,7 +3295,7 @@
                         "@DisplayName": "Azumarill"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Medium\" }"
+                    "Details": "{ \"speed\" : \"Medium\" }"
                 }
             ]
         }
@@ -3328,7 +3328,7 @@
                     "@DisplayName": "Sudowoodo"
                 },
                 "Kind": "Level",
-                "Details": "{ move : \"Mimic\" }"
+                "Details": "{ \"move\" : \"Mimic\" }"
             }
         }
     },
@@ -3356,7 +3356,7 @@
                         "@DisplayName": "Skiploom"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Medium\" }"
+                    "Details": "{ \"speed\" : \"Medium\" }"
                 },
                 {
                     "MissingValues": null,
@@ -3367,7 +3367,7 @@
                         "@DisplayName": "Jumpluff"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Medium\" }"
+                    "Details": "{ \"speed\" : \"Medium\" }"
                 }
             ]
         }
@@ -3394,7 +3394,7 @@
                     "@DisplayName": "Ambipom"
                 },
                 "Kind": "Level",
-                "Details": "{ speed : \"Medium\" }"
+                "Details": "{ \"speed\" : \"Medium\" }"
             }
         }
     },
@@ -3420,7 +3420,7 @@
                     "@DisplayName": "Sunflora"
                 },
                 "Kind": "Stone",
-                "Details": "{ item : \"Sun Stone\" }"
+                "Details": "{ \"item\" : \"Sun Stone\" }"
             }
         }
     },
@@ -3446,7 +3446,7 @@
                     "@DisplayName": "Yanmega"
                 },
                 "Kind": "Level",
-                "Details": "{ speed : \"Medium\" }"
+                "Details": "{ \"speed\" : \"Medium\" }"
             }
         }
     },
@@ -3472,7 +3472,7 @@
                     "@DisplayName": "Quagsire"
                 },
                 "Kind": "Level",
-                "Details": "{ speed : \"Medium\" }"
+                "Details": "{ \"speed\" : \"Medium\" }"
             }
         }
     },
@@ -3498,7 +3498,7 @@
                     "@DisplayName": "Honchkrow"
                 },
                 "Kind": "Stone",
-                "Details": "{ item : \"Dusk Stone\" }"
+                "Details": "{ \"item\" : \"Dusk Stone\" }"
             }
         }
     },
@@ -3524,7 +3524,7 @@
                     "@DisplayName": "Mismagius"
                 },
                 "Kind": "Stone",
-                "Details": "{ item : \"Dusk Stone\" }"
+                "Details": "{ \"item\" : \"Dusk Stone\" }"
             }
         }
     },
@@ -3556,7 +3556,7 @@
                     "@DisplayName": "Wobbuffet"
                 },
                 "Kind": "Level",
-                "Details": "{ speed : \"Medium\" }"
+                "Details": "{ \"speed\" : \"Medium\" }"
             }
         }
     },
@@ -3582,7 +3582,7 @@
                     "@DisplayName": "Forretress"
                 },
                 "Kind": "Level",
-                "Details": "{ speed : \"Medium\" }"
+                "Details": "{ \"speed\" : \"Medium\" }"
             }
         }
     },
@@ -3608,7 +3608,7 @@
                     "@DisplayName": "Gliscor"
                 },
                 "Kind": "Level",
-                "Details": "{ item : \"Razor Fang\" }"
+                "Details": "{ \"item\" : \"Razor Fang\" }"
             }
         }
     },
@@ -3634,7 +3634,7 @@
                     "@DisplayName": "Granbull"
                 },
                 "Kind": "Level",
-                "Details": "{ speed : \"Medium\" }"
+                "Details": "{ \"speed\" : \"Medium\" }"
             }
         }
     },
@@ -3686,7 +3686,7 @@
                     "@DisplayName": "Weavile"
                 },
                 "Kind": "Level",
-                "Details": "{ item : \"Razor Claw\" }"
+                "Details": "{ \"item\" : \"Razor Claw\" }"
             }
         }
     },
@@ -3712,7 +3712,7 @@
                     "@DisplayName": "Ursaring"
                 },
                 "Kind": "Level",
-                "Details": "{ speed : \"Slow\" }"
+                "Details": "{ \"speed\" : \"Slow\" }"
             }
         }
     },
@@ -3738,7 +3738,7 @@
                     "@DisplayName": "Magcargo"
                 },
                 "Kind": "Level",
-                "Details": "{ speed : \"Slow\" }"
+                "Details": "{ \"speed\" : \"Slow\" }"
             }
         }
     },
@@ -3766,7 +3766,7 @@
                         "@DisplayName": "Piloswine"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Medium\" }"
+                    "Details": "{ \"speed\" : \"Medium\" }"
                 },
                 {
                     "MissingValues": null,
@@ -3777,7 +3777,7 @@
                         "@DisplayName": "Mamoswine"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Slow\" }"
+                    "Details": "{ \"speed\" : \"Slow\" }"
                 }
             ]
         }
@@ -3804,7 +3804,7 @@
                     "@DisplayName": "Cursola"
                 },
                 "Kind": "Level",
-                "Details": "{ speed : \"Medium\" }"
+                "Details": "{ \"speed\" : \"Medium\" }"
             }
         }
     },
@@ -3830,7 +3830,7 @@
                     "@DisplayName": "Octillery"
                 },
                 "Kind": "Level",
-                "Details": "{ speed : \"Medium\" }"
+                "Details": "{ \"speed\" : \"Medium\" }"
             }
         }
     },
@@ -3862,7 +3862,7 @@
                     "@DisplayName": "Mantine"
                 },
                 "Kind": "Special",
-                "Details": "{ special : \u201cHit by Remoraid\u201d }"
+                "Details": "{ \"special\" : \"Hit by Remoraid\" }"
             }
         }
     },
@@ -3890,7 +3890,7 @@
                         "@DisplayName": "Houndoom"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Medium\" }"
+                    "Details": "{ \"speed\" : \"Medium\" }"
                 },
                 {
                     "MissingValues": null,
@@ -3928,7 +3928,7 @@
                     "@DisplayName": "Donphan"
                 },
                 "Kind": "Level",
-                "Details": "{ speed : \"Medium\" }"
+                "Details": "{ \"speed\" : \"Medium\" }"
             }
         }
     },
@@ -3957,7 +3957,7 @@
                         "@DisplayName": "Pupitar"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Slow\" }"
+                    "Details": "{ \"speed\" : \"Slow\" }"
                 },
                 {
                     "MissingValues": null,
@@ -3968,7 +3968,7 @@
                         "@DisplayName": "Tyranitar"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Slow\" }"
+                    "Details": "{ \"speed\" : \"Slow\" }"
                 },
                 {
                     "MissingValues": null,
@@ -4009,7 +4009,7 @@
                         "@DisplayName": "Grovyle"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Medium\" }"
+                    "Details": "{ \"speed\" : \"Medium\" }"
                 },
                 {
                     "MissingValues": null,
@@ -4020,7 +4020,7 @@
                         "@DisplayName": "Sceptile"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Medium\" }"
+                    "Details": "{ \"speed\" : \"Medium\" }"
                 },
                 {
                     "MissingValues": null,
@@ -4061,7 +4061,7 @@
                         "@DisplayName": "Combusken"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Medium\" }"
+                    "Details": "{ \"speed\" : \"Medium\" }"
                 },
                 {
                     "MissingValues": null,
@@ -4072,7 +4072,7 @@
                         "@DisplayName": "Blaziken"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Medium\" }"
+                    "Details": "{ \"speed\" : \"Medium\" }"
                 },
                 {
                     "MissingValues": null,
@@ -4113,7 +4113,7 @@
                         "@DisplayName": "Marshtomp"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Medium\" }"
+                    "Details": "{ \"speed\" : \"Medium\" }"
                 },
                 {
                     "MissingValues": null,
@@ -4124,7 +4124,7 @@
                         "@DisplayName": "Swampert"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Medium\" }"
+                    "Details": "{ \"speed\" : \"Medium\" }"
                 },
                 {
                     "MissingValues": null,
@@ -4162,7 +4162,7 @@
                     "@DisplayName": "Mightyena"
                 },
                 "Kind": "Level",
-                "Details": "{ speed : \"Medium\" }"
+                "Details": "{ \"speed\" : \"Medium\" }"
             }
         }
     },
@@ -4188,7 +4188,7 @@
                     "@DisplayName": "Linoone"
                 },
                 "Kind": "Level",
-                "Details": "{ speed : \"Medium\" }"
+                "Details": "{ \"speed\" : \"Medium\" }"
             }
         }
     },
@@ -4216,7 +4216,7 @@
                         "@DisplayName": "Galarian Linoone"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Medium\" }"
+                    "Details": "{ \"speed\" : \"Medium\" }"
                 },
                 {
                     "MissingValues": null,
@@ -4227,7 +4227,7 @@
                         "@DisplayName": "Obstagoon"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Medium\" }"
+                    "Details": "{ \"speed\" : \"Medium\" }"
                 }
             ]
         }
@@ -4258,7 +4258,7 @@
                         "@DisplayName": "Silcoon"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Fast\" }"
+                    "Details": "{ \"speed\" : \"Fast\" }"
                 },
                 {
                     "MissingValues": null,
@@ -4269,7 +4269,7 @@
                         "@DisplayName": "Beautifly"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Fast\" }"
+                    "Details": "{ \"speed\" : \"Fast\" }"
                 },
                 {
                     "MissingValues": null,
@@ -4280,7 +4280,7 @@
                         "@DisplayName": "Cascoon"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Fast\" }"
+                    "Details": "{ \"speed\" : \"Fast\" }"
                 },
                 {
                     "MissingValues": null,
@@ -4291,7 +4291,7 @@
                         "@DisplayName": "Dustox"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Fast\" }"
+                    "Details": "{ \"speed\" : \"Fast\" }"
                 }
             ]
         }
@@ -4320,7 +4320,7 @@
                         "@DisplayName": "Lombre"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Medium\" }"
+                    "Details": "{ \"speed\" : \"Medium\" }"
                 },
                 {
                     "MissingValues": null,
@@ -4331,7 +4331,7 @@
                         "@DisplayName": "Ludicolo"
                     },
                     "Kind": "Stone",
-                    "Details": "{ item : \"Water Stone\" }"
+                    "Details": "{ \"item\" : \"Water Stone\" }"
                 }
             ]
         }
@@ -4360,7 +4360,7 @@
                         "@DisplayName": "Nuzleaf"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Medium\" }"
+                    "Details": "{ \"speed\" : \"Medium\" }"
                 },
                 {
                     "MissingValues": null,
@@ -4371,7 +4371,7 @@
                         "@DisplayName": "Shiftry"
                     },
                     "Kind": "Stone",
-                    "Details": "{ item : \"Leaf Stone\" }"
+                    "Details": "{ \"item\" : \"Leaf Stone\" }"
                 }
             ]
         }
@@ -4398,7 +4398,7 @@
                     "@DisplayName": "Swellow"
                 },
                 "Kind": "Level",
-                "Details": "{ speed : \"Medium\" }"
+                "Details": "{ \"speed\" : \"Medium\" }"
             }
         }
     },
@@ -4424,7 +4424,7 @@
                     "@DisplayName": "Pelipper"
                 },
                 "Kind": "Level",
-                "Details": "{ speed : \"Medium\" }"
+                "Details": "{ \"speed\" : \"Medium\" }"
             }
         }
     },
@@ -4455,7 +4455,7 @@
                         "@DisplayName": "Kirlia"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Medium\" }"
+                    "Details": "{ \"speed\" : \"Medium\" }"
                 },
                 {
                     "MissingValues": null,
@@ -4466,7 +4466,7 @@
                         "@DisplayName": "Gardevoir"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Medium\" }"
+                    "Details": "{ \"speed\" : \"Medium\" }"
                 },
                 {
                     "MissingValues": null,
@@ -4488,7 +4488,7 @@
                         "@DisplayName": "Gallade"
                     },
                     "Kind": "Special",
-                    "Details": "{ item : \"Dawn Stone\", gender : \"Male\" }"
+                    "Details": "{ \"item\" : \"Dawn Stone\", \"gender\" : \"Male\" }"
                 },
                 {
                     "MissingValues": null,
@@ -4526,7 +4526,7 @@
                     "@DisplayName": "Masquerain"
                 },
                 "Kind": "Level",
-                "Details": "{ speed : \"Fast\" }"
+                "Details": "{ \"speed\" : \"Fast\" }"
             }
         }
     },
@@ -4552,7 +4552,7 @@
                     "@DisplayName": "Breloom"
                 },
                 "Kind": "Level",
-                "Details": "{ speed : \"Medium\" }"
+                "Details": "{ \"speed\" : \"Medium\" }"
             }
         }
     },
@@ -4580,7 +4580,7 @@
                         "@DisplayName": "Vigoroth"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Slow\" }"
+                    "Details": "{ \"speed\" : \"Slow\" }"
                 },
                 {
                     "MissingValues": null,
@@ -4591,7 +4591,7 @@
                         "@DisplayName": "Slaking"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Fast\" }"
+                    "Details": "{ \"speed\" : \"Fast\" }"
                 }
             ]
         }
@@ -4620,7 +4620,7 @@
                         "@DisplayName": "Ninjask"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Medium\" }"
+                    "Details": "{ \"speed\" : \"Medium\" }"
                 },
                 {
                     "MissingValues": null,
@@ -4631,7 +4631,7 @@
                         "@DisplayName": "Shedinja"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Medium\" }"
+                    "Details": "{ \"speed\" : \"Medium\" }"
                 }
             ]
         }
@@ -4660,7 +4660,7 @@
                         "@DisplayName": "Loudred"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Medium\" }"
+                    "Details": "{ \"speed\" : \"Medium\" }"
                 },
                 {
                     "MissingValues": null,
@@ -4671,7 +4671,7 @@
                         "@DisplayName": "Exploud"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Medium\" }"
+                    "Details": "{ \"speed\" : \"Medium\" }"
                 }
             ]
         }
@@ -4698,7 +4698,7 @@
                     "@DisplayName": "Hariyama"
                 },
                 "Kind": "Level",
-                "Details": "{ speed : \"Medium\" }"
+                "Details": "{ \"speed\" : \"Medium\" }"
             }
         }
     },
@@ -4724,7 +4724,7 @@
                     "@DisplayName": "Probopass"
                 },
                 "Kind": "Special",
-                "Details": "{ special : \"A trip to New Mauville\" }"
+                "Details": "{ \"special\" : \"A trip to New Mauville\" }"
             }
         }
     },
@@ -4750,7 +4750,7 @@
                     "@DisplayName": "Delcatty"
                 },
                 "Kind": "Stone",
-                "Details": "{ item : \"Moon Stone\" }"
+                "Details": "{ \"item\" : \"Moon Stone\" }"
             }
         }
     },
@@ -4831,7 +4831,7 @@
                         "@DisplayName": "Lairon"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Medium\" }"
+                    "Details": "{ \"speed\" : \"Medium\" }"
                 },
                 {
                     "MissingValues": null,
@@ -4842,7 +4842,7 @@
                         "@DisplayName": "Aggron"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Slow\" }"
+                    "Details": "{ \"speed\" : \"Slow\" }"
                 },
                 {
                     "MissingValues": null,
@@ -4882,7 +4882,7 @@
                         "@DisplayName": "Medicham"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Medium\" }"
+                    "Details": "{ \"speed\" : \"Medium\" }"
                 },
                 {
                     "MissingValues": null,
@@ -4922,7 +4922,7 @@
                         "@DisplayName": "Manectric"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Medium\" }"
+                    "Details": "{ \"speed\" : \"Medium\" }"
                 },
                 {
                     "MissingValues": null,
@@ -4968,7 +4968,7 @@
                         "@DisplayName": "Roselia"
                     },
                     "Kind": "Stat",
-                    "Details": "{ stat : \"Happiness\", value : 4 }"
+                    "Details": "{ \"stat\" : \"Happiness\", \"value\" : 4 }"
                 },
                 {
                     "MissingValues": null,
@@ -4979,7 +4979,7 @@
                         "@DisplayName": "Roserade"
                     },
                     "Kind": "Stone",
-                    "Details": "{ item : \"Shiny Stone\" }"
+                    "Details": "{ \"item\" : \"Shiny Stone\" }"
                 }
             ]
         }
@@ -5006,7 +5006,7 @@
                     "@DisplayName": "Swalot"
                 },
                 "Kind": "Level",
-                "Details": "{ speed : \"Medium\" }"
+                "Details": "{ \"speed\" : \"Medium\" }"
             }
         }
     },
@@ -5034,7 +5034,7 @@
                         "@DisplayName": "Sharpedo"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Medium\" }"
+                    "Details": "{ \"speed\" : \"Medium\" }"
                 },
                 {
                     "MissingValues": null,
@@ -5072,7 +5072,7 @@
                     "@DisplayName": "Wailord"
                 },
                 "Kind": "Level",
-                "Details": "{ speed : \"Slow\" }"
+                "Details": "{ \"speed\" : \"Slow\" }"
             }
         }
     },
@@ -5100,7 +5100,7 @@
                         "@DisplayName": "Camerupt"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Medium\" }"
+                    "Details": "{ \"speed\" : \"Medium\" }"
                 },
                 {
                     "MissingValues": null,
@@ -5138,7 +5138,7 @@
                     "@DisplayName": "Grumpig"
                 },
                 "Kind": "Level",
-                "Details": "{ speed : \"Medium\" }"
+                "Details": "{ \"speed\" : \"Medium\" }"
             }
         }
     },
@@ -5166,7 +5166,7 @@
                         "@DisplayName": "Vibrava"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Medium\" }"
+                    "Details": "{ \"speed\" : \"Medium\" }"
                 },
                 {
                     "MissingValues": null,
@@ -5177,7 +5177,7 @@
                         "@DisplayName": "Flygon"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Slow\" }"
+                    "Details": "{ \"speed\" : \"Slow\" }"
                 }
             ]
         }
@@ -5204,7 +5204,7 @@
                     "@DisplayName": "Cacturne"
                 },
                 "Kind": "Level",
-                "Details": "{ speed : \"Medium\" }"
+                "Details": "{ \"speed\" : \"Medium\" }"
             }
         }
     },
@@ -5232,7 +5232,7 @@
                         "@DisplayName": "Altaria"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Slow\" }"
+                    "Details": "{ \"speed\" : \"Slow\" }"
                 },
                 {
                     "MissingValues": null,
@@ -5270,7 +5270,7 @@
                     "@DisplayName": "Whiscash"
                 },
                 "Kind": "Level",
-                "Details": "{ speed : \"Medium\" }"
+                "Details": "{ \"speed\" : \"Medium\" }"
             }
         }
     },
@@ -5296,7 +5296,7 @@
                     "@DisplayName": "Crawdaunt"
                 },
                 "Kind": "Level",
-                "Details": "{ speed : \"Medium\" }"
+                "Details": "{ \"speed\" : \"Medium\" }"
             }
         }
     },
@@ -5322,7 +5322,7 @@
                     "@DisplayName": "Claydol"
                 },
                 "Kind": "Level",
-                "Details": "{ speed : \"Medium\" }"
+                "Details": "{ \"speed\" : \"Medium\" }"
             }
         }
     },
@@ -5348,7 +5348,7 @@
                     "@DisplayName": "Cradily"
                 },
                 "Kind": "Level",
-                "Details": "{ speed : \"Medium\" }"
+                "Details": "{ \"speed\" : \"Medium\" }"
             }
         }
     },
@@ -5374,7 +5374,7 @@
                     "@DisplayName": "Armaldo"
                 },
                 "Kind": "Level",
-                "Details": "{ speed : \"Medium\" }"
+                "Details": "{ \"speed\" : \"Medium\" }"
             }
         }
     },
@@ -5400,7 +5400,7 @@
                     "@DisplayName": "Milotic"
                 },
                 "Kind": "Stat",
-                "Details": "{ stat : \"Beauty\", value : 5 }"
+                "Details": "{ \"stat\" : \"Beauty\", \"value\" : 5 }"
             }
         }
     },
@@ -5428,7 +5428,7 @@
                         "@DisplayName": "Banette"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Medium\" }"
+                    "Details": "{ \"speed\" : \"Medium\" }"
                 },
                 {
                     "MissingValues": null,
@@ -5468,7 +5468,7 @@
                         "@DisplayName": "Dusclops"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Medium\" }"
+                    "Details": "{ \"speed\" : \"Medium\" }"
                 },
                 {
                     "MissingValues": null,
@@ -5479,7 +5479,7 @@
                         "@DisplayName": "Dusknoir"
                     },
                     "Kind": "Trade",
-                    "Details": "{ item : \"Reaper Cloth\" }"
+                    "Details": "{ \"item\" : \"Reaper Cloth\" }"
                 }
             ]
         }
@@ -5512,7 +5512,7 @@
                     "@DisplayName": "Chimecho"
                 },
                 "Kind": "Stat",
-                "Details": "{ stat : \"Happiness\", value : 4 }"
+                "Details": "{ \"stat\" : \"Happiness\", \"value\" : 4 }"
             }
         }
     },
@@ -5567,7 +5567,7 @@
                         "@DisplayName": "Glalie"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Medium\", gender : \"Male\" }"
+                    "Details": "{ \"speed\" : \"Medium\", \"gender\" : \"Male\" }"
                 },
                 {
                     "MissingValues": null,
@@ -5589,7 +5589,7 @@
                         "@DisplayName": "Froslass"
                     },
                     "Kind": "Stone",
-                    "Details": "{ item : \"Dawn Stone\", gender : \"Female\" }"
+                    "Details": "{ \"item\" : \"Dawn Stone\", \"gender\" : \"Female\" }"
                 }
             ]
         }
@@ -5618,7 +5618,7 @@
                         "@DisplayName": "Sealeo"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Medium\" }"
+                    "Details": "{ \"speed\" : \"Medium\" }"
                 },
                 {
                     "MissingValues": null,
@@ -5629,7 +5629,7 @@
                         "@DisplayName": "Walrein"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Medium\" }"
+                    "Details": "{ \"speed\" : \"Medium\" }"
                 }
             ]
         }
@@ -5658,7 +5658,7 @@
                         "@DisplayName": "Huntail"
                     },
                     "Kind": "Trade",
-                    "Details": "{ item : \"Dragon Fang\" }"
+                    "Details": "{ \"item\" : \"Dragon Fang\" }"
                 },
                 {
                     "MissingValues": null,
@@ -5669,7 +5669,7 @@
                         "@DisplayName": "Gorebyss"
                     },
                     "Kind": "Trade",
-                    "Details": "{ item : \"Dragon Scale\" }"
+                    "Details": "{ \"item\" : \"Dragon Scale\" }"
                 }
             ]
         }
@@ -5699,7 +5699,7 @@
                         "@DisplayName": "Shelgon"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Slow\" }"
+                    "Details": "{ \"speed\" : \"Slow\" }"
                 },
                 {
                     "MissingValues": null,
@@ -5710,7 +5710,7 @@
                         "@DisplayName": "Salamence"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Slow\" }"
+                    "Details": "{ \"speed\" : \"Slow\" }"
                 },
                 {
                     "MissingValues": null,
@@ -5751,7 +5751,7 @@
                         "@DisplayName": "Metang"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Medium\" }"
+                    "Details": "{ \"speed\" : \"Medium\" }"
                 },
                 {
                     "MissingValues": null,
@@ -5762,7 +5762,7 @@
                         "@DisplayName": "Metagross"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Slow\" }"
+                    "Details": "{ \"speed\" : \"Slow\" }"
                 },
                 {
                     "MissingValues": null,
@@ -5984,7 +5984,7 @@
                         "@DisplayName": "Grotle"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Medium\" }"
+                    "Details": "{ \"speed\" : \"Medium\" }"
                 },
                 {
                     "MissingValues": null,
@@ -5995,7 +5995,7 @@
                         "@DisplayName": "Torterra"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Medium\" }"
+                    "Details": "{ \"speed\" : \"Medium\" }"
                 }
             ]
         }
@@ -6024,7 +6024,7 @@
                         "@DisplayName": "Monferno"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Medium\" }"
+                    "Details": "{ \"speed\" : \"Medium\" }"
                 },
                 {
                     "MissingValues": null,
@@ -6035,7 +6035,7 @@
                         "@DisplayName": "Infernape"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Medium\" }"
+                    "Details": "{ \"speed\" : \"Medium\" }"
                 }
             ]
         }
@@ -6064,7 +6064,7 @@
                         "@DisplayName": "Prinplup"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Medium\" }"
+                    "Details": "{ \"speed\" : \"Medium\" }"
                 },
                 {
                     "MissingValues": null,
@@ -6075,7 +6075,7 @@
                         "@DisplayName": "Empoleon"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Medium\" }"
+                    "Details": "{ \"speed\" : \"Medium\" }"
                 }
             ]
         }
@@ -6104,7 +6104,7 @@
                         "@DisplayName": "Staravia"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Medium\" }"
+                    "Details": "{ \"speed\" : \"Medium\" }"
                 },
                 {
                     "MissingValues": null,
@@ -6115,7 +6115,7 @@
                         "@DisplayName": "Staraptor"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Medium\" }"
+                    "Details": "{ \"speed\" : \"Medium\" }"
                 }
             ]
         }
@@ -6142,7 +6142,7 @@
                     "@DisplayName": "Bibarel"
                 },
                 "Kind": "Level",
-                "Details": "{ speed : \"Medium\" }"
+                "Details": "{ \"speed\" : \"Medium\" }"
             }
         }
     },
@@ -6168,7 +6168,7 @@
                     "@DisplayName": "Kricketune"
                 },
                 "Kind": "Level",
-                "Details": "{ speed : \"Fast\" }"
+                "Details": "{ \"speed\" : \"Fast\" }"
             }
         }
     },
@@ -6196,7 +6196,7 @@
                         "@DisplayName": "Luxio"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Medium\" }"
+                    "Details": "{ \"speed\" : \"Medium\" }"
                 },
                 {
                     "MissingValues": null,
@@ -6207,7 +6207,7 @@
                         "@DisplayName": "Luxray"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Medium\" }"
+                    "Details": "{ \"speed\" : \"Medium\" }"
                 }
             ]
         }
@@ -6234,7 +6234,7 @@
                     "@DisplayName": "Rampardos"
                 },
                 "Kind": "Level",
-                "Details": "{ speed : \"Medium\" }"
+                "Details": "{ \"speed\" : \"Medium\" }"
             }
         }
     },
@@ -6260,7 +6260,7 @@
                     "@DisplayName": "Bastiodon"
                 },
                 "Kind": "Level",
-                "Details": "{ speed : \"Medium\" }"
+                "Details": "{ \"speed\" : \"Medium\" }"
             }
         }
     },
@@ -6290,7 +6290,7 @@
                         "@DisplayName": "Grass Wormadam"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Fast\", gender : \"Female\" }"
+                    "Details": "{ \"speed\" : \"Fast\", \"gender\" : \"Female\" }"
                 },
                 {
                     "MissingValues": null,
@@ -6301,7 +6301,7 @@
                         "@DisplayName": "Steel Wormadam"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Fast\", gender : \"Female\" }"
+                    "Details": "{ \"speed\" : \"Fast\", \"gender\" : \"Female\" }"
                 },
                 {
                     "MissingValues": null,
@@ -6312,7 +6312,7 @@
                         "@DisplayName": "Ground Wormadam"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Fast\", gender : \"Female\" }"
+                    "Details": "{ \"speed\" : \"Fast\", \"gender\" : \"Female\" }"
                 },
                 {
                     "MissingValues": null,
@@ -6323,7 +6323,7 @@
                         "@DisplayName": "Mothim"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Fast\", gender : \"Male\" }"
+                    "Details": "{ \"speed\" : \"Fast\", \"gender\" : \"Male\" }"
                 }
             ]
         }
@@ -6350,7 +6350,7 @@
                     "@DisplayName": "Vespiquen"
                 },
                 "Kind": "Level",
-                "Details": "{ speed : \"Slow\", gender : \"Female\" }"
+                "Details": "{ \"speed\" : \"Slow\", \"gender\" : \"Female\" }"
             }
         }
     },
@@ -6376,7 +6376,7 @@
                     "@DisplayName": "Floatzel"
                 },
                 "Kind": "Level",
-                "Details": "{ speed : \"Medium\" }"
+                "Details": "{ \"speed\" : \"Medium\" }"
             }
         }
     },
@@ -6402,7 +6402,7 @@
                     "@DisplayName": "Cherrim"
                 },
                 "Kind": "Level",
-                "Details": "{ speed : \"Fast\" }"
+                "Details": "{ \"speed\" : \"Fast\" }"
             }
         }
     },
@@ -6428,7 +6428,7 @@
                     "@DisplayName": "Gastrodon"
                 },
                 "Kind": "Level",
-                "Details": "{ speed : \"Medium\" }"
+                "Details": "{ \"speed\" : \"Medium\" }"
             }
         }
     },
@@ -6454,7 +6454,7 @@
                     "@DisplayName": "Drifblim"
                 },
                 "Kind": "Level",
-                "Details": "{ speed : \"Medium\" }"
+                "Details": "{ \"speed\" : \"Medium\" }"
             }
         }
     },
@@ -6482,7 +6482,7 @@
                         "@DisplayName": "Lopunny"
                     },
                     "Kind": "Stat",
-                    "Details": "{ stat : \"Happiness\", value : 4 }"
+                    "Details": "{ \"stat\" : \"Happiness\", \"value\" : 4 }"
                 },
                 {
                     "MissingValues": null,
@@ -6520,7 +6520,7 @@
                     "@DisplayName": "Purugly"
                 },
                 "Kind": "Level",
-                "Details": "{ speed : \"Medium\" }"
+                "Details": "{ \"speed\" : \"Medium\" }"
             }
         }
     },
@@ -6546,7 +6546,7 @@
                     "@DisplayName": "Skuntank"
                 },
                 "Kind": "Level",
-                "Details": "{ speed : \"Medium\" }"
+                "Details": "{ \"speed\" : \"Medium\" }"
             }
         }
     },
@@ -6572,7 +6572,7 @@
                     "@DisplayName": "Bronzong"
                 },
                 "Kind": "Level",
-                "Details": "{ speed : \"Medium\" }"
+                "Details": "{ \"speed\" : \"Medium\" }"
             }
         }
     },
@@ -6601,7 +6601,7 @@
                         "@DisplayName": "Gabite"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Slow\" }"
+                    "Details": "{ \"speed\" : \"Slow\" }"
                 },
                 {
                     "MissingValues": null,
@@ -6612,7 +6612,7 @@
                         "@DisplayName": "Garchomp"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Slow\" }"
+                    "Details": "{ \"speed\" : \"Slow\" }"
                 },
                 {
                     "MissingValues": null,
@@ -6652,7 +6652,7 @@
                         "@DisplayName": "Lucario"
                     },
                     "Kind": "Stat",
-                    "Details": "{ stat : \"Loyalty\", value : 5 }"
+                    "Details": "{ \"stat\" : \"Loyalty\", \"value\" : 5 }"
                 },
                 {
                     "MissingValues": null,
@@ -6690,7 +6690,7 @@
                     "@DisplayName": "Hippowdon"
                 },
                 "Kind": "Level",
-                "Details": "{ speed : \"Medium\" }"
+                "Details": "{ \"speed\" : \"Medium\" }"
             }
         }
     },
@@ -6716,7 +6716,7 @@
                     "@DisplayName": "Drapion"
                 },
                 "Kind": "Level",
-                "Details": "{ speed : \"Medium\" }"
+                "Details": "{ \"speed\" : \"Medium\" }"
             }
         }
     },
@@ -6742,7 +6742,7 @@
                     "@DisplayName": "Toxicroak"
                 },
                 "Kind": "Level",
-                "Details": "{ speed : \"Medium\" }"
+                "Details": "{ \"speed\" : \"Medium\" }"
             }
         }
     },
@@ -6768,7 +6768,7 @@
                     "@DisplayName": "Lumineon"
                 },
                 "Kind": "Level",
-                "Details": "{ speed : \"Medium\" }"
+                "Details": "{ \"speed\" : \"Medium\" }"
             }
         }
     },
@@ -6796,7 +6796,7 @@
                         "@DisplayName": "Abomasnow"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Medium\" }"
+                    "Details": "{ \"speed\" : \"Medium\" }"
                 },
                 {
                     "MissingValues": null,
@@ -6948,7 +6948,7 @@
                     "@DisplayName": "Sky Shaymin"
                 },
                 "Kind": "Special",
-                "Details": "{ item : \"Gracidea flower\" }"
+                "Details": "{ \"item\" : \"Gracidea flower\" }"
             }
         }
     },
@@ -6976,7 +6976,7 @@
                         "@DisplayName": "Servine"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Medium\" }"
+                    "Details": "{ \"speed\" : \"Medium\" }"
                 },
                 {
                     "MissingValues": null,
@@ -6987,7 +6987,7 @@
                         "@DisplayName": "Serperior"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Medium\" }"
+                    "Details": "{ \"speed\" : \"Medium\" }"
                 }
             ]
         }
@@ -7016,7 +7016,7 @@
                         "@DisplayName": "Pignite"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Medium\" }"
+                    "Details": "{ \"speed\" : \"Medium\" }"
                 },
                 {
                     "MissingValues": null,
@@ -7027,7 +7027,7 @@
                         "@DisplayName": "Emboar"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Medium\" }"
+                    "Details": "{ \"speed\" : \"Medium\" }"
                 }
             ]
         }
@@ -7056,7 +7056,7 @@
                         "@DisplayName": "Dewott"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Medium\" }"
+                    "Details": "{ \"speed\" : \"Medium\" }"
                 },
                 {
                     "MissingValues": null,
@@ -7067,7 +7067,7 @@
                         "@DisplayName": "Samurott"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Medium\" }"
+                    "Details": "{ \"speed\" : \"Medium\" }"
                 }
             ]
         }
@@ -7094,7 +7094,7 @@
                     "@DisplayName": "Watchog"
                 },
                 "Kind": "Level",
-                "Details": "{ speed : \"Fast\" }"
+                "Details": "{ \"speed\" : \"Fast\" }"
             }
         }
     },
@@ -7122,7 +7122,7 @@
                         "@DisplayName": "Herdier"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Medium\" }"
+                    "Details": "{ \"speed\" : \"Medium\" }"
                 },
                 {
                     "MissingValues": null,
@@ -7133,7 +7133,7 @@
                         "@DisplayName": "Stoutland"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Medium\" }"
+                    "Details": "{ \"speed\" : \"Medium\" }"
                 }
             ]
         }
@@ -7160,7 +7160,7 @@
                     "@DisplayName": "Liepard"
                 },
                 "Kind": "Level",
-                "Details": "{ speed : \"Medium\" }"
+                "Details": "{ \"speed\" : \"Medium\" }"
             }
         }
     },
@@ -7186,7 +7186,7 @@
                     "@DisplayName": "Simisage"
                 },
                 "Kind": "Stone",
-                "Details": "{ item : \"Leaf Stone\" }"
+                "Details": "{ \"item\" : \"Leaf Stone\" }"
             }
         }
     },
@@ -7212,7 +7212,7 @@
                     "@DisplayName": "Simisear"
                 },
                 "Kind": "Stone",
-                "Details": "{ item : \"Fire Stone\" }"
+                "Details": "{ \"item\" : \"Fire Stone\" }"
             }
         }
     },
@@ -7238,7 +7238,7 @@
                     "@DisplayName": "Simipour"
                 },
                 "Kind": "Stone",
-                "Details": "{ item : \"Water Stone\" }"
+                "Details": "{ \"item\" : \"Water Stone\" }"
             }
         }
     },
@@ -7264,7 +7264,7 @@
                     "@DisplayName": "Musharna"
                 },
                 "Kind": "Stone",
-                "Details": "{ item : \"Moon Stone\" }"
+                "Details": "{ \"item\" : \"Moon Stone\" }"
             }
         }
     },
@@ -7292,7 +7292,7 @@
                         "@DisplayName": "Tranquill"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Medium\" }"
+                    "Details": "{ \"speed\" : \"Medium\" }"
                 },
                 {
                     "MissingValues": null,
@@ -7303,7 +7303,7 @@
                         "@DisplayName": "Unfezant"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Medium\" }"
+                    "Details": "{ \"speed\" : \"Medium\" }"
                 }
             ]
         }
@@ -7330,7 +7330,7 @@
                     "@DisplayName": "Zebstrika"
                 },
                 "Kind": "Level",
-                "Details": "{ speed : \"Medium\" }"
+                "Details": "{ \"speed\" : \"Medium\" }"
             }
         }
     },
@@ -7358,7 +7358,7 @@
                         "@DisplayName": "Boldore"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Medium\" }"
+                    "Details": "{ \"speed\" : \"Medium\" }"
                 },
                 {
                     "MissingValues": null,
@@ -7396,7 +7396,7 @@
                     "@DisplayName": "Swoobat"
                 },
                 "Kind": "Stat",
-                "Details": "{ stat : \"Happiness\", value : 4 }"
+                "Details": "{ \"stat\" : \"Happiness\", \"value\" : 4 }"
             }
         }
     },
@@ -7422,7 +7422,7 @@
                     "@DisplayName": "Excadrill"
                 },
                 "Kind": "Level",
-                "Details": "{ speed : \"Medium\" }"
+                "Details": "{ \"speed\" : \"Medium\" }"
             }
         }
     },
@@ -7476,7 +7476,7 @@
                         "@DisplayName": "Gurdurr"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Medium\" }"
+                    "Details": "{ \"speed\" : \"Medium\" }"
                 },
                 {
                     "MissingValues": null,
@@ -7516,7 +7516,7 @@
                         "@DisplayName": "Palpitoad"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Medium\" }"
+                    "Details": "{ \"speed\" : \"Medium\" }"
                 },
                 {
                     "MissingValues": null,
@@ -7527,7 +7527,7 @@
                         "@DisplayName": "Seismitoad"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Medium\" }"
+                    "Details": "{ \"speed\" : \"Medium\" }"
                 }
             ]
         }
@@ -7556,7 +7556,7 @@
                         "@DisplayName": "Swadloon"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Fast\" }"
+                    "Details": "{ \"speed\" : \"Fast\" }"
                 },
                 {
                     "MissingValues": null,
@@ -7567,7 +7567,7 @@
                         "@DisplayName": "Leavanny"
                     },
                     "Kind": "Stat",
-                    "Details": "{ stat : \"Happiness\", value : 4 }"
+                    "Details": "{ \"stat\" : \"Happiness\", \"value\" : 4 }"
                 }
             ]
         }
@@ -7596,7 +7596,7 @@
                         "@DisplayName": "Whirlipede"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Medium\" }"
+                    "Details": "{ \"speed\" : \"Medium\" }"
                 },
                 {
                     "MissingValues": null,
@@ -7607,7 +7607,7 @@
                         "@DisplayName": "Scolipede"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Medium\" }"
+                    "Details": "{ \"speed\" : \"Medium\" }"
                 }
             ]
         }
@@ -7634,7 +7634,7 @@
                     "@DisplayName": "Whimsicott"
                 },
                 "Kind": "Stone",
-                "Details": "{ item : \"Sun Stone\" }"
+                "Details": "{ \"item\" : \"Sun Stone\" }"
             }
         }
     },
@@ -7660,7 +7660,7 @@
                     "@DisplayName": "Lilligant"
                 },
                 "Kind": "Stone",
-                "Details": "{ item : \"Sun Stone\" }"
+                "Details": "{ \"item\" : \"Sun Stone\" }"
             }
         }
     },
@@ -7688,7 +7688,7 @@
                         "@DisplayName": "Krokorok"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Medium\" }"
+                    "Details": "{ \"speed\" : \"Medium\" }"
                 },
                 {
                     "MissingValues": null,
@@ -7699,7 +7699,7 @@
                         "@DisplayName": "Krookodile"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Medium\" }"
+                    "Details": "{ \"speed\" : \"Medium\" }"
                 }
             ]
         }
@@ -7728,7 +7728,7 @@
                         "@DisplayName": "Darmanitan"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Medium\" }"
+                    "Details": "{ \"speed\" : \"Medium\" }"
                 },
                 {
                     "MissingValues": null,
@@ -7768,7 +7768,7 @@
                         "@DisplayName": "Galarian Darmanitan"
                     },
                     "Kind": "Stone",
-                    "Details": "{ item : \"Ice Stone\" }"
+                    "Details": "{ \"item\" : \"Ice Stone\" }"
                 },
                 {
                     "MissingValues": null,
@@ -7806,7 +7806,7 @@
                     "@DisplayName": "Crustle"
                 },
                 "Kind": "Level",
-                "Details": "{ speed : \"Medium\" }"
+                "Details": "{ \"speed\" : \"Medium\" }"
             }
         }
     },
@@ -7832,7 +7832,7 @@
                     "@DisplayName": "Scrafty"
                 },
                 "Kind": "Level",
-                "Details": "{ speed : \"Medium\" }"
+                "Details": "{ \"speed\" : \"Medium\" }"
             }
         }
     },
@@ -7858,7 +7858,7 @@
                     "@DisplayName": "Cofagrigus"
                 },
                 "Kind": "Level",
-                "Details": "{ speed : \"Slow\" }"
+                "Details": "{ \"speed\" : \"Slow\" }"
             }
         }
     },
@@ -7884,7 +7884,7 @@
                     "@DisplayName": "Runerigus"
                 },
                 "Kind": "Special",
-                "Details": "{ special : \"Walk near a rune Painting\" }"
+                "Details": "{ \"special\" : \"Walk near a rune Painting\" }"
             }
         }
     },
@@ -7910,7 +7910,7 @@
                     "@DisplayName": "Carracosta"
                 },
                 "Kind": "Level",
-                "Details": "{ speed : \"Medium\" }"
+                "Details": "{ \"speed\" : \"Medium\" }"
             }
         }
     },
@@ -7936,7 +7936,7 @@
                     "@DisplayName": "Archeops"
                 },
                 "Kind": "Level",
-                "Details": "{ speed : \"Medium\" }"
+                "Details": "{ \"speed\" : \"Medium\" }"
             }
         }
     },
@@ -7962,7 +7962,7 @@
                     "@DisplayName": "Garbodor"
                 },
                 "Kind": "Level",
-                "Details": "{ speed : \"Medium\" }"
+                "Details": "{ \"speed\" : \"Medium\" }"
             }
         }
     },
@@ -7988,7 +7988,7 @@
                     "@DisplayName": "Zoroark"
                 },
                 "Kind": "Level",
-                "Details": "{ speed : \"Medium\" }"
+                "Details": "{ \"speed\" : \"Medium\" }"
             }
         }
     },
@@ -8014,7 +8014,7 @@
                     "@DisplayName": "Cinccino"
                 },
                 "Kind": "Stone",
-                "Details": "{ item : \"Shiny Stone\" }"
+                "Details": "{ \"item\" : \"Shiny Stone\" }"
             }
         }
     },
@@ -8042,7 +8042,7 @@
                         "@DisplayName": "Gothorita"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Medium\" }"
+                    "Details": "{ \"speed\" : \"Medium\" }"
                 },
                 {
                     "MissingValues": null,
@@ -8053,7 +8053,7 @@
                         "@DisplayName": "Gothitelle"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Medium\" }"
+                    "Details": "{ \"speed\" : \"Medium\" }"
                 }
             ]
         }
@@ -8082,7 +8082,7 @@
                         "@DisplayName": "Duosion"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Medium\" }"
+                    "Details": "{ \"speed\" : \"Medium\" }"
                 },
                 {
                     "MissingValues": null,
@@ -8093,7 +8093,7 @@
                         "@DisplayName": "Reuniclus"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Medium\" }"
+                    "Details": "{ \"speed\" : \"Medium\" }"
                 }
             ]
         }
@@ -8120,7 +8120,7 @@
                     "@DisplayName": "Swanna"
                 },
                 "Kind": "Level",
-                "Details": "{ speed : \"Medium\" }"
+                "Details": "{ \"speed\" : \"Medium\" }"
             }
         }
     },
@@ -8148,7 +8148,7 @@
                         "@DisplayName": "Vanillish"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Medium\" }"
+                    "Details": "{ \"speed\" : \"Medium\" }"
                 },
                 {
                     "MissingValues": null,
@@ -8159,7 +8159,7 @@
                         "@DisplayName": "Vanilluxe"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Medium\" }"
+                    "Details": "{ \"speed\" : \"Medium\" }"
                 }
             ]
         }
@@ -8186,7 +8186,7 @@
                     "@DisplayName": "Sawsbuck"
                 },
                 "Kind": "Level",
-                "Details": "{ speed : \"Medium\" }"
+                "Details": "{ \"speed\" : \"Medium\" }"
             }
         }
     },
@@ -8212,7 +8212,7 @@
                     "@DisplayName": "Escavalier"
                 },
                 "Kind": "Level",
-                "Details": "{ speed : \"Medium\" }"
+                "Details": "{ \"speed\" : \"Medium\" }"
             }
         }
     },
@@ -8238,7 +8238,7 @@
                     "@DisplayName": "Amoonguss"
                 },
                 "Kind": "Level",
-                "Details": "{ speed : \"Medium\" }"
+                "Details": "{ \"speed\" : \"Medium\" }"
             }
         }
     },
@@ -8264,7 +8264,7 @@
                     "@DisplayName": "Jellicent"
                 },
                 "Kind": "Level",
-                "Details": "{ speed : \"Medium\" }"
+                "Details": "{ \"speed\" : \"Medium\" }"
             }
         }
     },
@@ -8290,7 +8290,7 @@
                     "@DisplayName": "Galvantula"
                 },
                 "Kind": "Level",
-                "Details": "{ speed : \"Medium\" }"
+                "Details": "{ \"speed\" : \"Medium\" }"
             }
         }
     },
@@ -8316,7 +8316,7 @@
                     "@DisplayName": "Ferrothorn"
                 },
                 "Kind": "Level",
-                "Details": "{ speed : \"Medium\" }"
+                "Details": "{ \"speed\" : \"Medium\" }"
             }
         }
     },
@@ -8344,7 +8344,7 @@
                         "@DisplayName": "Klang"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Medium\" }"
+                    "Details": "{ \"speed\" : \"Medium\" }"
                 },
                 {
                     "MissingValues": null,
@@ -8355,7 +8355,7 @@
                         "@DisplayName": "Klinklang"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Medium\" }"
+                    "Details": "{ \"speed\" : \"Medium\" }"
                 }
             ]
         }
@@ -8384,7 +8384,7 @@
                         "@DisplayName": "Eelektrik"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Medium\" }"
+                    "Details": "{ \"speed\" : \"Medium\" }"
                 },
                 {
                     "MissingValues": null,
@@ -8395,7 +8395,7 @@
                         "@DisplayName": "Eelektross"
                     },
                     "Kind": "Stone",
-                    "Details": "{ item : \"Thunder Stone\" }"
+                    "Details": "{ \"item\" : \"Thunder Stone\" }"
                 }
             ]
         }
@@ -8422,7 +8422,7 @@
                     "@DisplayName": "Beheeyem"
                 },
                 "Kind": "Level",
-                "Details": "{ speed : \"Medium\" }"
+                "Details": "{ \"speed\" : \"Medium\" }"
             }
         }
     },
@@ -8450,7 +8450,7 @@
                         "@DisplayName": "Lampent"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Medium\" }"
+                    "Details": "{ \"speed\" : \"Medium\" }"
                 },
                 {
                     "MissingValues": null,
@@ -8461,7 +8461,7 @@
                         "@DisplayName": "Chandelure"
                     },
                     "Kind": "Stone",
-                    "Details": "{ item : \"Dusk Stone\" }"
+                    "Details": "{ \"item\" : \"Dusk Stone\" }"
                 }
             ]
         }
@@ -8490,7 +8490,7 @@
                         "@DisplayName": "Fraxure"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Slow\" }"
+                    "Details": "{ \"speed\" : \"Slow\" }"
                 },
                 {
                     "MissingValues": null,
@@ -8501,7 +8501,7 @@
                         "@DisplayName": "Haxorus"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Slow\" }"
+                    "Details": "{ \"speed\" : \"Slow\" }"
                 }
             ]
         }
@@ -8528,7 +8528,7 @@
                     "@DisplayName": "Beartic"
                 },
                 "Kind": "Level",
-                "Details": "{ speed : \"Medium\" }"
+                "Details": "{ \"speed\" : \"Medium\" }"
             }
         }
     },
@@ -8554,7 +8554,7 @@
                     "@DisplayName": "Accelgor"
                 },
                 "Kind": "Level",
-                "Details": "{ speed : \"Medium\" }"
+                "Details": "{ \"speed\" : \"Medium\" }"
             }
         }
     },
@@ -8580,7 +8580,7 @@
                     "@DisplayName": "Mienshao"
                 },
                 "Kind": "Level",
-                "Details": "{ speed : \"Medium\" }"
+                "Details": "{ \"speed\" : \"Medium\" }"
             }
         }
     },
@@ -8606,7 +8606,7 @@
                     "@DisplayName": "Golurk"
                 },
                 "Kind": "Level",
-                "Details": "{ speed : \"Medium\" }"
+                "Details": "{ \"speed\" : \"Medium\" }"
             }
         }
     },
@@ -8632,7 +8632,7 @@
                     "@DisplayName": "Bisharp"
                 },
                 "Kind": "Level",
-                "Details": "{ speed : \"Medium\" }"
+                "Details": "{ \"speed\" : \"Medium\" }"
             }
         }
     },
@@ -8658,7 +8658,7 @@
                     "@DisplayName": "Braviary"
                 },
                 "Kind": "Level",
-                "Details": "{ speed : \"Slow\" }"
+                "Details": "{ \"speed\" : \"Slow\" }"
             }
         }
     },
@@ -8684,7 +8684,7 @@
                     "@DisplayName": "Mandibuzz"
                 },
                 "Kind": "Level",
-                "Details": "{ speed : \"Medium\" }"
+                "Details": "{ \"speed\" : \"Medium\" }"
             }
         }
     },
@@ -8712,7 +8712,7 @@
                         "@DisplayName": "Zweilous"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Slow\" }"
+                    "Details": "{ \"speed\" : \"Slow\" }"
                 },
                 {
                     "MissingValues": null,
@@ -8723,7 +8723,7 @@
                         "@DisplayName": "Hydreigon"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Slow\" }"
+                    "Details": "{ \"speed\" : \"Slow\" }"
                 }
             ]
         }
@@ -8750,7 +8750,7 @@
                     "@DisplayName": "Volcarona"
                 },
                 "Kind": "Level",
-                "Details": "{ speed : \"Medium\" }"
+                "Details": "{ \"speed\" : \"Medium\" }"
             }
         }
     },
@@ -8948,7 +8948,7 @@
                         "@DisplayName": "Quilladin"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Medium\" }"
+                    "Details": "{ \"speed\" : \"Medium\" }"
                 },
                 {
                     "MissingValues": null,
@@ -8959,7 +8959,7 @@
                         "@DisplayName": "Chesnaught"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Medium\" }"
+                    "Details": "{ \"speed\" : \"Medium\" }"
                 }
             ]
         }
@@ -8988,7 +8988,7 @@
                         "@DisplayName": "Braixen"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Medium\" }"
+                    "Details": "{ \"speed\" : \"Medium\" }"
                 },
                 {
                     "MissingValues": null,
@@ -8999,7 +8999,7 @@
                         "@DisplayName": "Delphox"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Medium\" }"
+                    "Details": "{ \"speed\" : \"Medium\" }"
                 }
             ]
         }
@@ -9029,7 +9029,7 @@
                         "@DisplayName": "Frogadier"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Medium\" }"
+                    "Details": "{ \"speed\" : \"Medium\" }"
                 },
                 {
                     "MissingValues": null,
@@ -9040,7 +9040,7 @@
                         "@DisplayName": "Greninja"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Medium\" }"
+                    "Details": "{ \"speed\" : \"Medium\" }"
                 },
                 {
                     "MissingValues": null,
@@ -9078,7 +9078,7 @@
                     "@DisplayName": "Diggersby"
                 },
                 "Kind": "Level",
-                "Details": "{ speed : \"Medium\" }"
+                "Details": "{ \"speed\" : \"Medium\" }"
             }
         }
     },
@@ -9106,7 +9106,7 @@
                         "@DisplayName": "Fletchinder"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Medium\" }"
+                    "Details": "{ \"speed\" : \"Medium\" }"
                 },
                 {
                     "MissingValues": null,
@@ -9117,7 +9117,7 @@
                         "@DisplayName": "Talonflame"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Medium\" }"
+                    "Details": "{ \"speed\" : \"Medium\" }"
                 }
             ]
         }
@@ -9146,7 +9146,7 @@
                         "@DisplayName": "Spewpa"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Fast\" }"
+                    "Details": "{ \"speed\" : \"Fast\" }"
                 },
                 {
                     "MissingValues": null,
@@ -9157,7 +9157,7 @@
                         "@DisplayName": "Vivillon"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Fast\" }"
+                    "Details": "{ \"speed\" : \"Fast\" }"
                 }
             ]
         }
@@ -9184,7 +9184,7 @@
                     "@DisplayName": "Pyroar"
                 },
                 "Kind": "Level",
-                "Details": "{ speed : \"Medium\" }"
+                "Details": "{ \"speed\" : \"Medium\" }"
             }
         }
     },
@@ -9212,7 +9212,7 @@
                         "@DisplayName": "Floette"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Fast\" }"
+                    "Details": "{ \"speed\" : \"Fast\" }"
                 },
                 {
                     "MissingValues": null,
@@ -9223,7 +9223,7 @@
                         "@DisplayName": "Florges"
                     },
                     "Kind": "Stone",
-                    "Details": "{ item : \"Shiny Stone\" }"
+                    "Details": "{ \"item\" : \"Shiny Stone\" }"
                 }
             ]
         }
@@ -9250,7 +9250,7 @@
                     "@DisplayName": "Gogoat"
                 },
                 "Kind": "Level",
-                "Details": "{ speed : \"Medium\" }"
+                "Details": "{ \"speed\" : \"Medium\" }"
             }
         }
     },
@@ -9276,7 +9276,7 @@
                     "@DisplayName": "Pangoro"
                 },
                 "Kind": "Level",
-                "Details": "{ speed : \"Medium\" }"
+                "Details": "{ \"speed\" : \"Medium\" }"
             }
         }
     },
@@ -9302,7 +9302,7 @@
                     "@DisplayName": "Meowstic"
                 },
                 "Kind": "Level",
-                "Details": "{ speed : \"Medium\" }"
+                "Details": "{ \"speed\" : \"Medium\" }"
             }
         }
     },
@@ -9331,7 +9331,7 @@
                         "@DisplayName": "Doublade"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Slow\" }"
+                    "Details": "{ \"speed\" : \"Slow\" }"
                 },
                 {
                     "MissingValues": null,
@@ -9342,7 +9342,7 @@
                         "@DisplayName": "Aegislash"
                     },
                     "Kind": "Stone",
-                    "Details": "{ item : \"Dusk Stone\" }"
+                    "Details": "{ \"item\" : \"Dusk Stone\" }"
                 },
                 {
                     "MissingValues": null,
@@ -9380,7 +9380,7 @@
                     "@DisplayName": "Aromatisse"
                 },
                 "Kind": "Trade",
-                "Details": "{ item : \"Sachet\" }"
+                "Details": "{ \"item\" : \"Sachet\" }"
             }
         }
     },
@@ -9406,7 +9406,7 @@
                     "@DisplayName": "Slurpuff"
                 },
                 "Kind": "Trade",
-                "Details": "{ item : \"Whipped Dream\" }"
+                "Details": "{ \"item\" : \"Whipped Dream\" }"
             }
         }
     },
@@ -9432,7 +9432,7 @@
                     "@DisplayName": "Malamar"
                 },
                 "Kind": "Level",
-                "Details": "{ speed : \"Medium\" }"
+                "Details": "{ \"speed\" : \"Medium\" }"
             }
         }
     },
@@ -9458,7 +9458,7 @@
                     "@DisplayName": "Barbaracle"
                 },
                 "Kind": "Level",
-                "Details": "{ speed : \"Medium\" }"
+                "Details": "{ \"speed\" : \"Medium\" }"
             }
         }
     },
@@ -9484,7 +9484,7 @@
                     "@DisplayName": "Dragalge"
                 },
                 "Kind": "Level",
-                "Details": "{ speed : \"Slow\" }"
+                "Details": "{ \"speed\" : \"Slow\" }"
             }
         }
     },
@@ -9510,7 +9510,7 @@
                     "@DisplayName": "Clawitzer"
                 },
                 "Kind": "Level",
-                "Details": "{ speed : \"Medium\" }"
+                "Details": "{ \"speed\" : \"Medium\" }"
             }
         }
     },
@@ -9536,7 +9536,7 @@
                     "@DisplayName": "Heliolisk"
                 },
                 "Kind": "Stone",
-                "Details": "{ item : \"Sun Stone\" }"
+                "Details": "{ \"item\" : \"Sun Stone\" }"
             }
         }
     },
@@ -9562,7 +9562,7 @@
                     "@DisplayName": "Tyrantrum"
                 },
                 "Kind": "Level",
-                "Details": "{ speed : \"Slow\" }"
+                "Details": "{ \"speed\" : \"Slow\" }"
             }
         }
     },
@@ -9588,7 +9588,7 @@
                     "@DisplayName": "Aurorus"
                 },
                 "Kind": "Level",
-                "Details": "{ speed : \"Medium\" }"
+                "Details": "{ \"speed\" : \"Medium\" }"
             }
         }
     },
@@ -9616,7 +9616,7 @@
                         "@DisplayName": "Sliggoo"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Medium\" }"
+                    "Details": "{ \"speed\" : \"Medium\" }"
                 },
                 {
                     "MissingValues": null,
@@ -9627,7 +9627,7 @@
                         "@DisplayName": "Goodra"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Medium\" }"
+                    "Details": "{ \"speed\" : \"Medium\" }"
                 }
             ]
         }
@@ -9706,7 +9706,7 @@
                     "@DisplayName": "Avalugg"
                 },
                 "Kind": "Level",
-                "Details": "{ speed : \"Slow\" }"
+                "Details": "{ \"speed\" : \"Slow\" }"
             }
         }
     },
@@ -9732,7 +9732,7 @@
                     "@DisplayName": "Noivern"
                 },
                 "Kind": "Level",
-                "Details": "{ speed : \"Slow\" }"
+                "Details": "{ \"speed\" : \"Slow\" }"
             }
         }
     },
@@ -9761,7 +9761,7 @@
                         "@DisplayName": "Zygarde 10%"
                     },
                     "Kind": "Special",
-                    "Details": "{ item : \"Zyguarde cells\" }"
+                    "Details": "{ \"item\" : \"Zyguarde cells\" }"
                 },
                 {
                     "MissingValues": null,
@@ -9772,7 +9772,7 @@
                         "@DisplayName": "Zygarde 50%"
                     },
                     "Kind": "Special",
-                    "Details": "{ item : \"Zyguarde cells\" }"
+                    "Details": "{ \"item\" : \"Zyguarde cells\" }"
                 },
                 {
                     "MissingValues": null,
@@ -9783,7 +9783,7 @@
                         "@DisplayName": "Zygarde 100%"
                     },
                     "Kind": "Special",
-                    "Details": "{ item : \"Zyguarde cells\" }"
+                    "Details": "{ \"item\" : \"Zyguarde cells\" }"
                 }
             ]
         }
@@ -9864,7 +9864,7 @@
                         "@DisplayName": "Dartrix"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Medium\" }"
+                    "Details": "{ \"speed\" : \"Medium\" }"
                 },
                 {
                     "MissingValues": null,
@@ -9875,7 +9875,7 @@
                         "@DisplayName": "Decidueye"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Medium\" }"
+                    "Details": "{ \"speed\" : \"Medium\" }"
                 }
             ]
         }
@@ -9904,7 +9904,7 @@
                         "@DisplayName": "Torracat"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Medium\" }"
+                    "Details": "{ \"speed\" : \"Medium\" }"
                 },
                 {
                     "MissingValues": null,
@@ -9915,7 +9915,7 @@
                         "@DisplayName": "Incineroar"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Medium\" }"
+                    "Details": "{ \"speed\" : \"Medium\" }"
                 }
             ]
         }
@@ -9944,7 +9944,7 @@
                         "@DisplayName": "Brionne"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Medium\" }"
+                    "Details": "{ \"speed\" : \"Medium\" }"
                 },
                 {
                     "MissingValues": null,
@@ -9955,7 +9955,7 @@
                         "@DisplayName": "Primarina"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Medium\" }"
+                    "Details": "{ \"speed\" : \"Medium\" }"
                 }
             ]
         }
@@ -9984,7 +9984,7 @@
                         "@DisplayName": "Trumbeak"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Medium\" }"
+                    "Details": "{ \"speed\" : \"Medium\" }"
                 },
                 {
                     "MissingValues": null,
@@ -9995,7 +9995,7 @@
                         "@DisplayName": "Toucannon"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Medium\" }"
+                    "Details": "{ \"speed\" : \"Medium\" }"
                 }
             ]
         }
@@ -10022,7 +10022,7 @@
                     "@DisplayName": "Gumshoos"
                 },
                 "Kind": "Level",
-                "Details": "{ speed : \"Medium\" }"
+                "Details": "{ \"speed\" : \"Medium\" }"
             }
         }
     },
@@ -10050,7 +10050,7 @@
                         "@DisplayName": "Charjabug"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Fast\" }"
+                    "Details": "{ \"speed\" : \"Fast\" }"
                 },
                 {
                     "MissingValues": null,
@@ -10061,7 +10061,7 @@
                         "@DisplayName": "Vikavolt"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Medium\" }"
+                    "Details": "{ \"speed\" : \"Medium\" }"
                 }
             ]
         }
@@ -10088,7 +10088,7 @@
                     "@DisplayName": "Crabominable"
                 },
                 "Kind": "Level",
-                "Details": "{ speed : \"Medium\" }"
+                "Details": "{ \"speed\" : \"Medium\" }"
             }
         }
     },
@@ -10166,7 +10166,7 @@
                     "@DisplayName": "Ribombee"
                 },
                 "Kind": "Level",
-                "Details": "{ speed : \"Medium\" }"
+                "Details": "{ \"speed\" : \"Medium\" }"
             }
         }
     },
@@ -10195,7 +10195,7 @@
                         "@DisplayName": "Lycanroc Midday"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Medium\", special : \"Day\" }"
+                    "Details": "{ \"speed\" : \"Medium\", \"special\" : \"Day\" }"
                 },
                 {
                     "MissingValues": null,
@@ -10206,7 +10206,7 @@
                         "@DisplayName": "Lycanroc Dusk"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Medium\", special : \"Dawn\" }"
+                    "Details": "{ \"speed\" : \"Medium\", \"special\" : \"Dawn\" }"
                 },
                 {
                     "MissingValues": null,
@@ -10217,7 +10217,7 @@
                         "@DisplayName": "Lycanroc Midnight"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Medium\", special : \"Night\" }"
+                    "Details": "{ \"speed\" : \"Medium\", \"special\" : \"Night\" }"
                 }
             ]
         }
@@ -10270,7 +10270,7 @@
                     "@DisplayName": "Toxapex"
                 },
                 "Kind": "Level",
-                "Details": "{ speed : \"Medium\" }"
+                "Details": "{ \"speed\" : \"Medium\" }"
             }
         }
     },
@@ -10296,7 +10296,7 @@
                     "@DisplayName": "Mudsdale"
                 },
                 "Kind": "Level",
-                "Details": "{ speed : \"Medium\" }"
+                "Details": "{ \"speed\" : \"Medium\" }"
             }
         }
     },
@@ -10322,7 +10322,7 @@
                     "@DisplayName": "Araquanid"
                 },
                 "Kind": "Level",
-                "Details": "{ speed : \"Medium\" }"
+                "Details": "{ \"speed\" : \"Medium\" }"
             }
         }
     },
@@ -10348,7 +10348,7 @@
                     "@DisplayName": "Lurantis"
                 },
                 "Kind": "Level",
-                "Details": "{ speed : \"Medium\" }"
+                "Details": "{ \"speed\" : \"Medium\" }"
             }
         }
     },
@@ -10374,7 +10374,7 @@
                     "@DisplayName": "Shiinotic"
                 },
                 "Kind": "Level",
-                "Details": "{ speed : \"Medium\" }"
+                "Details": "{ \"speed\" : \"Medium\" }"
             }
         }
     },
@@ -10400,7 +10400,7 @@
                     "@DisplayName": "Salazzle"
                 },
                 "Kind": "Level",
-                "Details": "{ speed : \"Medium\", gender : \"Female\" }"
+                "Details": "{ \"speed\" : \"Medium\", \"gender\" : \"Female\" }"
             }
         }
     },
@@ -10426,7 +10426,7 @@
                     "@DisplayName": "Bewear"
                 },
                 "Kind": "Level",
-                "Details": "{ speed : \"Medium\" }"
+                "Details": "{ \"speed\" : \"Medium\" }"
             }
         }
     },
@@ -10454,7 +10454,7 @@
                         "@DisplayName": "Steenee"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Medium\" }"
+                    "Details": "{ \"speed\" : \"Medium\" }"
                 },
                 {
                     "MissingValues": null,
@@ -10465,7 +10465,7 @@
                         "@DisplayName": "Tsareena"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Medium\" }"
+                    "Details": "{ \"speed\" : \"Medium\" }"
                 }
             ]
         }
@@ -10492,7 +10492,7 @@
                     "@DisplayName": "Golisopod"
                 },
                 "Kind": "Level",
-                "Details": "{ speed : \"Slow\" }"
+                "Details": "{ \"speed\" : \"Slow\" }"
             }
         }
     },
@@ -10518,7 +10518,7 @@
                     "@DisplayName": "Palossand"
                 },
                 "Kind": "Level",
-                "Details": "{ speed : \"Slow\" }"
+                "Details": "{ \"speed\" : \"Slow\" }"
             }
         }
     },
@@ -10544,7 +10544,7 @@
                     "@DisplayName": "Silvally"
                 },
                 "Kind": "Level",
-                "Details": "{ speed : \"Slow\" }"
+                "Details": "{ \"speed\" : \"Slow\" }"
             }
         }
     },
@@ -10598,7 +10598,7 @@
                         "@DisplayName": "Hakamo-o"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Slow\" }"
+                    "Details": "{ \"speed\" : \"Slow\" }"
                 },
                 {
                     "MissingValues": null,
@@ -10609,7 +10609,7 @@
                         "@DisplayName": "Kommo-o"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Slow\" }"
+                    "Details": "{ \"speed\" : \"Slow\" }"
                 }
             ]
         }
@@ -10639,7 +10639,7 @@
                         "@DisplayName": "Cosmoem"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Unknown\" }"
+                    "Details": "{ \"speed\" : \"Unknown\" }"
                 },
                 {
                     "MissingValues": null,
@@ -10650,7 +10650,7 @@
                         "@DisplayName": "Solgaleo"
                     },
                     "Kind": "Level",
-                    "Details": "{ game: \"Sword\" }"
+                    "Details": "{ \"game\" : \"Sword\" }"
                 },
                 {
                     "MissingValues": null,
@@ -10661,7 +10661,7 @@
                         "@DisplayName": "Lunala"
                     },
                     "Kind": "Level",
-                    "Details": "{ game: \"Shield\" }"
+                    "Details": "{ \"game\" : \"Shield\" }"
                 }
             ]
         }
@@ -10740,7 +10740,7 @@
                     "@DisplayName": "Naganadel"
                 },
                 "Kind": "Level",
-                "Details": "{ move : \"Dragon Pulse\" }"
+                "Details": "{ \"move\" : \"Dragon Pulse\" }"
             }
         }
     },
@@ -10766,7 +10766,7 @@
                     "@DisplayName": "Melmetal"
                 },
                 "Kind": "Level",
-                "Details": "{ speed : \"Unknown\" }"
+                "Details": "{ \"speed\" : \"Unknown\" }"
             }
         }
     },
@@ -10794,7 +10794,7 @@
                         "@DisplayName": "Thwackey"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Medium\" }"
+                    "Details": "{ \"speed\" : \"Medium\" }"
                 },
                 {
                     "MissingValues": null,
@@ -10805,7 +10805,7 @@
                         "@DisplayName": "Rillaboom"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Medium\" }"
+                    "Details": "{ \"speed\" : \"Medium\" }"
                 }
             ]
         }
@@ -10834,7 +10834,7 @@
                         "@DisplayName": "Raboot"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Medium\" }"
+                    "Details": "{ \"speed\" : \"Medium\" }"
                 },
                 {
                     "MissingValues": null,
@@ -10845,7 +10845,7 @@
                         "@DisplayName": "Cinderace"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Medium\" }"
+                    "Details": "{ \"speed\" : \"Medium\" }"
                 }
             ]
         }
@@ -10874,7 +10874,7 @@
                         "@DisplayName": "Drizzile"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Medium\" }"
+                    "Details": "{ \"speed\" : \"Medium\" }"
                 },
                 {
                     "MissingValues": null,
@@ -10885,7 +10885,7 @@
                         "@DisplayName": "Inteleon"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Medium\" }"
+                    "Details": "{ \"speed\" : \"Medium\" }"
                 }
             ]
         }
@@ -10912,7 +10912,7 @@
                     "@DisplayName": "Greedent"
                 },
                 "Kind": "Level",
-                "Details": "{ speed : \"Medium\" }"
+                "Details": "{ \"speed\" : \"Medium\" }"
             }
         }
     },
@@ -10940,7 +10940,7 @@
                         "@DisplayName": "Corvisquire"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Medium\" }"
+                    "Details": "{ \"speed\" : \"Medium\" }"
                 },
                 {
                     "MissingValues": null,
@@ -10951,7 +10951,7 @@
                         "@DisplayName": "Corviknight"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Medium\" }"
+                    "Details": "{ \"speed\" : \"Medium\" }"
                 }
             ]
         }
@@ -10980,7 +10980,7 @@
                         "@DisplayName": "Dottler"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Fast\" }"
+                    "Details": "{ \"speed\" : \"Fast\" }"
                 },
                 {
                     "MissingValues": null,
@@ -10991,7 +10991,7 @@
                         "@DisplayName": "Orbeetle"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Medium\" }"
+                    "Details": "{ \"speed\" : \"Medium\" }"
                 }
             ]
         }
@@ -11018,7 +11018,7 @@
                     "@DisplayName": "Thievul"
                 },
                 "Kind": "Level",
-                "Details": "{ speed : \"Medium\" }"
+                "Details": "{ \"speed\" : \"Medium\" }"
             }
         }
     },
@@ -11044,7 +11044,7 @@
                     "@DisplayName": "Eldegoss"
                 },
                 "Kind": "Level",
-                "Details": "{ speed : \"Medium\" }"
+                "Details": "{ \"speed\" : \"Medium\" }"
             }
         }
     },
@@ -11070,7 +11070,7 @@
                     "@DisplayName": "Dubwool"
                 },
                 "Kind": "Level",
-                "Details": "{ speed : \"Medium\" }"
+                "Details": "{ \"speed\" : \"Medium\" }"
             }
         }
     },
@@ -11096,7 +11096,7 @@
                     "@DisplayName": "Drednaw"
                 },
                 "Kind": "Level",
-                "Details": "{ speed : \"Medium\" }"
+                "Details": "{ \"speed\" : \"Medium\" }"
             }
         }
     },
@@ -11122,7 +11122,7 @@
                     "@DisplayName": "Boltund"
                 },
                 "Kind": "Level",
-                "Details": "{ speed : \"Medium\" }"
+                "Details": "{ \"speed\" : \"Medium\" }"
             }
         }
     },
@@ -11150,7 +11150,7 @@
                         "@DisplayName": "Carkol"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Medium\" }"
+                    "Details": "{ \"speed\" : \"Medium\" }"
                 },
                 {
                     "MissingValues": null,
@@ -11161,7 +11161,7 @@
                         "@DisplayName": "Coalossal"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Medium\" }"
+                    "Details": "{ \"speed\" : \"Medium\" }"
                 }
             ]
         }
@@ -11190,7 +11190,7 @@
                         "@DisplayName": "Flapple"
                     },
                     "Kind": "Item",
-                    "Details": "{ item : \"Tart Apple\" }"
+                    "Details": "{ \"item\" : \"Tart Apple\" }"
                 },
                 {
                     "MissingValues": null,
@@ -11201,7 +11201,7 @@
                         "@DisplayName": "Appletun"
                     },
                     "Kind": "Item",
-                    "Details": "{ item : \"Sweet Apple\" }"
+                    "Details": "{ \"item\" : \"Sweet Apple\" }"
                 }
             ]
         }
@@ -11228,7 +11228,7 @@
                     "@DisplayName": "Sandaconda"
                 },
                 "Kind": "Level",
-                "Details": "{ speed : \"Slow\" }"
+                "Details": "{ \"speed\" : \"Slow\" }"
             }
         }
     },
@@ -11254,7 +11254,7 @@
                     "@DisplayName": "Barraskewda"
                 },
                 "Kind": "Level",
-                "Details": "{ speed : \"Medium\" }"
+                "Details": "{ \"speed\" : \"Medium\" }"
             }
         }
     },
@@ -11282,7 +11282,7 @@
                         "@DisplayName": "Toxtricity Amped"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Slow\", special : \"Extrovert\" }"
+                    "Details": "{ \"speed\" : \"Slow\", \"special\" : \"Extrovert\" }"
                 },
                 {
                     "MissingValues": null,
@@ -11293,7 +11293,7 @@
                         "@DisplayName": "Toxtricity Low Key"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Slow\", special : \"Introvert\" }"
+                    "Details": "{ \"speed\" : \"Slow\", \"special\" : \"Introvert\" }"
                 }
             ]
         }
@@ -11320,7 +11320,7 @@
                     "@DisplayName": "Centiskorch"
                 },
                 "Kind": "Level",
-                "Details": "{ speed : \"Slow\" }"
+                "Details": "{ \"speed\" : \"Slow\" }"
             }
         }
     },
@@ -11346,7 +11346,7 @@
                     "@DisplayName": "Grapploct"
                 },
                 "Kind": "Level",
-                "Details": "{ speed : \"Medium\" }"
+                "Details": "{ \"speed\" : \"Medium\" }"
             }
         }
     },
@@ -11372,7 +11372,7 @@
                     "@DisplayName": "Polteageist"
                 },
                 "Kind": "Item",
-                "Details": "{ item : \"Cracked Pot\" }"
+                "Details": "{ \"item\" : \"Cracked Pot\" }"
             }
         }
     },
@@ -11400,7 +11400,7 @@
                         "@DisplayName": "Hattrem"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Medium\" }"
+                    "Details": "{ \"speed\" : \"Medium\" }"
                 },
                 {
                     "MissingValues": null,
@@ -11411,7 +11411,7 @@
                         "@DisplayName": "Hatterene"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Medium\" }"
+                    "Details": "{ \"speed\" : \"Medium\" }"
                 }
             ]
         }
@@ -11440,7 +11440,7 @@
                         "@DisplayName": "Morgrem"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Medium\" }"
+                    "Details": "{ \"speed\" : \"Medium\" }"
                 },
                 {
                     "MissingValues": null,
@@ -11451,7 +11451,7 @@
                         "@DisplayName": "Grimmsnarl"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Medium\" }"
+                    "Details": "{ \"speed\" : \"Medium\" }"
                 }
             ]
         }
@@ -11478,7 +11478,7 @@
                     "@DisplayName": "Alcremie"
                 },
                 "Kind": "Special",
-                "Details": "{ special : \"Berry & spin\" }"
+                "Details": "{ \"special\" : \"Berry & spin\" }"
             }
         }
     },
@@ -11504,7 +11504,7 @@
                     "@DisplayName": "Frosmoth"
                 },
                 "Kind": "Stat",
-                "Details": "{ stat : \"Happiness\", value : 5 }"
+                "Details": "{ \"stat\" : \"Happiness\", \"value\" : 5 }"
             }
         }
     },
@@ -11556,7 +11556,7 @@
                     "@DisplayName": "Copperajah"
                 },
                 "Kind": "Level",
-                "Details": "{ speed : \"Medium\" }"
+                "Details": "{ \"speed\" : \"Medium\" }"
             }
         }
     },
@@ -11584,7 +11584,7 @@
                         "@DisplayName": "Drakloak"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Slow\" }"
+                    "Details": "{ \"speed\" : \"Slow\" }"
                 },
                 {
                     "MissingValues": null,
@@ -11595,7 +11595,7 @@
                         "@DisplayName": "Dragapult"
                     },
                     "Kind": "Level",
-                    "Details": "{ speed : \"Slow\" }"
+                    "Details": "{ \"speed\" : \"Slow\" }"
                 }
             ]
         }

@@ -44,5 +44,12 @@
     "DexDescription": "This Pokemon is said to have been born when a lonely spirit possessed a cold, leftover cup of tea. It absorbs the life-force of those who drink it but it tastes so bad that it gets spat out immediately.",
     "Baby": false,
     "PrimaryEggGroup": "Mineral",
-    "SecondaryEggGroup": "Amorphous"
+    "SecondaryEggGroup": "Amorphous",
+    "Evolutions": [
+        {
+            "To": "Polteageist",
+            "Kind": "Item",
+            "Item": "Cracked Pot"
+        }
+    ]
 }

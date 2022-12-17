@@ -44,5 +44,12 @@
     "DexDescription": "As soon as it\u2019s born this tiny lizard Pokemon, it burrows into an apple to protect itself from birds and predators. The apple serves as its food source and the flavor of it will determine its evolution.",
     "Baby": false,
     "PrimaryEggGroup": "Grass",
-    "SecondaryEggGroup": "Dragon"
+    "SecondaryEggGroup": "Dragon",
+    "Evolutions": [
+        {
+            "To": "Flapple",
+            "Kind": "Item",
+            "Item": "Tart Apple"
+        }
+    ]
 }

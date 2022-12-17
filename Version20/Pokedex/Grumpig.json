@@ -44,5 +44,12 @@
     "DexDescription": "Grumpigs control their foes with their psychic powers amplified by the pearls on their head and a hypnotic dance. However, when they use their powers, they have a difficult time breathing.",
     "Baby": false,
     "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "From": "Spoink",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ]
 }

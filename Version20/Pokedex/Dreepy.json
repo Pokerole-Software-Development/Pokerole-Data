@@ -44,5 +44,12 @@
     "DexDescription": "After being reborn as a ghost, Dreepy wanders the areas it used to inhabit back when it was alive in prehistoric seas. Alone they do not pose much of a threat but if they gather in packs you\u2019ll be in trouble.",
     "Baby": false,
     "PrimaryEggGroup": "Amorphous",
-    "SecondaryEggGroup": "Dragon"
+    "SecondaryEggGroup": "Dragon",
+    "Evolutions": [
+        {
+            "To": "Drakloak",
+            "Kind": "Level",
+            "Speed": "Slow"
+        }
+    ]
 }

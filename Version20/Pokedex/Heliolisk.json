@@ -44,5 +44,12 @@
     "DexDescription": "They flare their frills and generate energy. A single Heliolisk is able to generate enough power to light a skyscraper. Due to this, electricity companies are investing on breeding and research for this species.",
     "Baby": false,
     "PrimaryEggGroup": "Monster",
-    "SecondaryEggGroup": "Dragon"
+    "SecondaryEggGroup": "Dragon",
+    "Evolutions": [
+        {
+            "From": "Helioptile",
+            "Kind": "Stone",
+            "Item": "Sun Stone"
+        }
+    ]
 }

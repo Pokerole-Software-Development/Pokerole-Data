@@ -45,9 +45,10 @@
     "Baby": false,
     "PrimaryEggGroup": "Bug",
     "SecondaryEggGroup": "",
-    "MegaEvolutions": [
+    "Evolutions": [
         {
-            "Name": "Mega-Heracross",
+            "To": "Mega-Heracross",
+            "Kind": "Mega",
             "Item": "Heracronite"
         }
     ]

@@ -44,5 +44,12 @@
     "DexDescription": "Rattata first came to Alola through cargo ships, it thrived and almost destroyed the region\u2019s ecosystem. Attempts to exterminate this Pokemon made it more vicious than its regular counterpart.",
     "Baby": false,
     "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "To": "Alolan Raticate",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ]
 }

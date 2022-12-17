@@ -44,5 +44,12 @@
     "DexDescription": "They can predict the future from the placement and movement of the stars. They get restless if someone they know will be in danger. They are emphatic creatures that can understand human emotion.",
     "Baby": false,
     "PrimaryEggGroup": "Human-Like",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "From": "Gothorita",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ]
 }

@@ -45,9 +45,10 @@
     "Baby": false,
     "PrimaryEggGroup": "Monster",
     "SecondaryEggGroup": "",
-    "MegaEvolutions": [
+    "Evolutions": [
         {
-            "Name": "Mega-Kangaskhan",
+            "To": "Mega-Kangaskhan",
+            "Kind": "Mega",
             "Item": "Kangaskhanite"
         }
     ]

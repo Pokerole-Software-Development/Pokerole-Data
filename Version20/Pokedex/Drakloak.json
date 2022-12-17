@@ -44,5 +44,17 @@
     "DexDescription": "It battles alongside Dreepy and dotes on them until they evolve. Without a Dreepy to place on its head and care for, it gets so uneasy it\u2019ll try to substitute it with any Pokemon it finds",
     "Baby": false,
     "PrimaryEggGroup": "Amorphous",
-    "SecondaryEggGroup": "Dragon"
+    "SecondaryEggGroup": "Dragon",
+    "Evolutions": [
+        {
+            "From": "Dreepy",
+            "Kind": "Level",
+            "Speed": "Slow"
+        },
+        {
+            "To": "Dragapult",
+            "Kind": "Level",
+            "Speed": "Slow"
+        }
+    ]
 }

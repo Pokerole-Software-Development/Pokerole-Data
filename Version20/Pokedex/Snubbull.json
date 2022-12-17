@@ -44,5 +44,12 @@
     "DexDescription": "It may look frightening but it is a loving and caring creature, active and playful. Snubbulls are easily scared. When threatened by bigger foes they run away or make scary faces, that makes them sad though.",
     "Baby": false,
     "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": "Fairy"
+    "SecondaryEggGroup": "Fairy",
+    "Evolutions": [
+        {
+            "To": "Granbull",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ]
 }

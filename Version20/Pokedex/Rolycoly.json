@@ -44,5 +44,12 @@
     "DexDescription": "This Pokemon was discovered inside a coal mine. It looks like a clump of coal only it moves like a unicycle. When it gets angry it glows burning hot but when it\u2019s happy it lets out soft crackles and keeps a steady warmth.",
     "Baby": false,
     "PrimaryEggGroup": "Mineral",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "To": "Carkol",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ]
 }

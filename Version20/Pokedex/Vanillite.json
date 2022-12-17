@@ -44,5 +44,12 @@
     "DexDescription": "This Pokemon were born from icicles that bathed in the energy of the morning sun. It uses snow to cover its head and protect it from melting. They are playful and love to make snow fall around them.",
     "Baby": false,
     "PrimaryEggGroup": "Mineral",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "To": "Vanillish",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ]
 }

@@ -44,5 +44,17 @@
     "DexDescription": "It has a horn that serves as a drill for destroying rocks and boulders. Rhydon occasionally goes for a swim in rivers and even magma pools. Its great resistance prevents it from taking any damage.",
     "Baby": false,
     "PrimaryEggGroup": "Monster",
-    "SecondaryEggGroup": "Field"
+    "SecondaryEggGroup": "Field",
+    "Evolutions": [
+        {
+            "From": "Rhyhorn",
+            "Kind": "Level",
+            "Speed": "Slow"
+        },
+        {
+            "To": "Rhyperior",
+            "Kind": "Trade",
+            "Item": "Protector"
+        }
+    ]
 }

@@ -44,5 +44,12 @@
     "DexDescription": "It lives close to volcanic mountains. It\u2019s very intelligent, it roasts berries before eating them and helps lost people. When angered the tuft of hair on it\u2019s head and tail can burst into flames.",
     "Baby": false,
     "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "To": "Simisear",
+            "Kind": "Stone",
+            "Item": "Fire Stone"
+        }
+    ]
 }

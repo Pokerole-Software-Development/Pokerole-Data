@@ -44,5 +44,17 @@
     "DexDescription": "It lives both in water and land. It uses its long, sticky tongue to capture prey. When they vibrate the bumps on their heads, they can make waves in the water and even earthquake-like vibrations on land.",
     "Baby": false,
     "PrimaryEggGroup": "Water 1",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "From": "Tympole",
+            "Kind": "Level",
+            "Speed": "Medium"
+        },
+        {
+            "To": "Seismitoad",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ]
 }

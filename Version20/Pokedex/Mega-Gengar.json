@@ -45,5 +45,11 @@
     "Baby": false,
     "PrimaryEggGroup": "Amorphous",
     "SecondaryEggGroup": "",
-    "MegaBaseForm": "Gengar"
+    "Evolutions": [
+        {
+            "From": "Gengar",
+            "Kind": "Mega",
+            "Item": "Gengarite"
+        }
+    ]
 }

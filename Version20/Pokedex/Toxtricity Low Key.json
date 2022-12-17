@@ -44,5 +44,13 @@
     "DexDescription": "Commonly called \u201cLow Key Form\u201d, its nature determines its evolution, If a Toxel is introverted it will evolve to be a chill Toxtricity. They emit low pitched sounds and look down on others who try to provoke them.",
     "Baby": false,
     "PrimaryEggGroup": "Human-Like",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "From": "Toxel",
+            "Kind": "Level",
+            "Speed": "Slow",
+            "Special": "Introvert"
+        }
+    ]
 }

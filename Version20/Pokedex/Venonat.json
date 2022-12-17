@@ -44,5 +44,12 @@
     "DexDescription": "It lives in the holes of trees in dense forests and jungles. Its large eyes never fail to spot even minuscule prey. Sometimes Venonat uses its powers to confuse travelers and make them lose their way.",
     "Baby": false,
     "PrimaryEggGroup": "Bug",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "To": "Venomoth",
+            "Kind": "Level",
+            "Speed": "Slow"
+        }
+    ]
 }

@@ -44,5 +44,12 @@
     "DexDescription": "They are born by the end of winter and stay with their mothers for a couple of seasons. Their running nose is used to practice their ice powers. In fact, when they get sick their nose is completely dry.",
     "Baby": false,
     "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "To": "Beartic",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ]
 }

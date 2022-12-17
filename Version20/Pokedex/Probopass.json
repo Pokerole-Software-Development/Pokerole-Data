@@ -44,5 +44,12 @@
     "DexDescription": "It exudes strong magnetism from all over. It controls three small units called Mini-Noses that float around and act as arms. It usually stays motionless unless attacked or provoked.",
     "Baby": false,
     "PrimaryEggGroup": "Mineral",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "From": "Nosepass",
+            "Kind": "Special",
+            "Special": "A trip to New Mauville"
+        }
+    ]
 }

@@ -44,5 +44,12 @@
     "DexDescription": "It was born from polluted sludge in the sea. Grimer's favorite food is anything filthy like waste water pumped out from factories. Grime and sludge stick to their body making them grow larger over time.",
     "Baby": false,
     "PrimaryEggGroup": "Amorphous",
-    "SecondaryEggGroup": ""
+    "SecondaryEggGroup": "",
+    "Evolutions": [
+        {
+            "To": "Muk",
+            "Kind": "Level",
+            "Speed": "Slow"
+        }
+    ]
 }

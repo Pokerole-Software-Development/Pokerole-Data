@@ -135,15 +135,22 @@ class SRD(object):
             entry['Baby'] = 'Yes' if entry['Baby'] else 'No'
             entry['Learnset'] = f"[[SRD-{entry['Name']}-Learnset]]"
             
-            if 'MegaEvolutions' in entry:
-                mega = "\n"
-                for x in entry['MegaEvolutions']:
-                    mega = mega+f"**MegaEvolution**:: [[SRD-{x['Name']}]]\nvia [[SRD-{x['Item']}]]\n"
-            elif 'MegaBaseForm' in entry:
-                mega = f"\n**MegaBaseForm**:: [[SRD-{entry['MegaBaseForm']}]]\n"
-                del entry['MegaBaseForm']
-            else:
-                mega = ""
+            if entry.get('Evolutions'):
+                evocopy = entry['Evolutions'].copy()
+                for dat in evocopy:
+                    if dat.get('To'):
+                        dat['Pokemon'] = f"[[SRD-{dat.get('To')}]]"
+                        dat['Evolves'] = 'To'
+                        del dat['To']
+                    if dat.get('From'):
+                        dat['Pokemon'] = f"[[SRD-{dat.get('From')}]]"
+                        dat['Evolves'] = 'From'
+                        del dat['From']
+                evodf = pd.DataFrame(evocopy)
+                colorder = ['Evolves', 'Pokemon', 'Kind'] + [x for x in list(evodf.columns) if x not in ['Evolves', 'Pokemon', 'Kind']]
+                evodf = evodf.reindex(columns=colorder).fillna('')
+                evostring='\n'+evodf.to_markdown(index=0)+'\n'
+            else: evostring = ""
             
             abilities = (f"[[SRD-{entry['Ability1']}|{entry['Ability1']}]]"
                                 f"{'' if not entry['Ability2'] else ' / [[SRD-'+ entry['Ability2']+'|'+entry['Ability2']+']]'}"
@@ -182,13 +189,11 @@ class SRD(object):
 | Special   | `= padleft(padright("",this.MaxSpecial - this.Special,"⭘"),this.MaxSpecial,"⬤")`       | (Special::{entry['Special']})/(MaxSpecial::{entry['MaxSpecial']})     |
 | Insight   | `= padleft(padright("",this.MaxInsight - this.Insight,"⭘"),this.MaxInsight,"⬤")`       | (Insight::{entry['Insight']})/(MaxInsight::{entry['MaxInsight']})     |
 
-
-**Recommended Rank**:: {entry['RecommendedRank']}
-**Good Starter**:: {entry['GoodStarter']}
-**Can Evolve**:: {entry['Unevolved']}{mega}
 **Height**: {str(entry['Height']['Feet']).split('.')[0]}'{str(entry['Height']['Feet']).split('.')[1]}" / {entry['Height']['Meters']}m
 **Weight**: {entry['Weight']['Pounds']}lbs / {entry['Weight']['Kilograms']}kg
-
+**Good Starter**:: {entry['GoodStarter']}
+**Recommended Rank**:: {entry['RecommendedRank']}
+{evostring}
 ![[SRD-{entry['Name']}-Learnset]]"""
                 
             for x in ['DexID','Strength','MaxStrength','Dexterity','MaxDexterity',
@@ -322,7 +327,7 @@ def update(*argv, batch=False, version='Version20', confirm=False,
         conf = input(f'INFO: {updates}\nQUERY: Update these folders in the SRD? [Y/Yes]: ')
         if conf.lower() not in ['y', 'yes']:
             return "WARN: Did not confirm update, cancelling..."
-    else: print(f'INFO: {updates}\nQUERY: Updating these folders in the SRD...')
+    else: print(f'INFO: {updates}\nINFO: Updating these folders in the SRD...')
     
     for t in updates:
         func = targets[t]

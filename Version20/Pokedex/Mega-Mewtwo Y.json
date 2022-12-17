@@ -45,5 +45,11 @@
     "Baby": false,
     "PrimaryEggGroup": "Undiscovered",
     "SecondaryEggGroup": "",
-    "MegaBaseForm": "Mewtwo"
+    "Evolutions": [
+        {
+            "From": "Mewtwo",
+            "Kind": "Mega",
+            "Item": "Mewtwonite Y"
+        }
+    ]
 }

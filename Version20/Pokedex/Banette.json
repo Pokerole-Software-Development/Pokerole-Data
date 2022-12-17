@@ -45,9 +45,15 @@
     "Baby": false,
     "PrimaryEggGroup": "Amorphous",
     "SecondaryEggGroup": "",
-    "MegaEvolutions": [
+    "Evolutions": [
         {
-            "Name": "Mega-Banette",
+            "From": "Shuppet",
+            "Kind": "Level",
+            "Speed": "Medium"
+        },
+        {
+            "To": "Mega-Banette",
+            "Kind": "Mega",
             "Item": "Banettite"
         }
     ]
