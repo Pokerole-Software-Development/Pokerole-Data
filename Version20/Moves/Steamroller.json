@@ -10,5 +10,15 @@
     "Target": "Foe",
     "Effect": "Roll 3 Chance Dice to Flinch the foe.",
     "Description": "The user curls up and rolls at full speed to strike the foe. It may leave the target swatted on the ground.",
-    "_id": "steamroller"
+    "_id": "steamroller",
+    "Attributes": {},
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Flinch",
+                "Affects": "Targets",
+                "ChanceDice": 3
+            }
+        ]
+    }
 }

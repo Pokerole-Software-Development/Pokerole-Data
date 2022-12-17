@@ -10,5 +10,9 @@
     "Target": "Foe",
     "Effect": "Priority 1.",
     "Description": "The Pokemon dashes at great speed using the rocks on its body to strike its foe upon impact.",
-    "_id": "accelerock"
+    "_id": "accelerock",
+    "Attributes": {
+        "Priority": 1
+    },
+    "AddedEffects": {}
 }

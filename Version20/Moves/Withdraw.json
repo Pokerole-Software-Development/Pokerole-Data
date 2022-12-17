@@ -10,5 +10,17 @@
     "Target": "User",
     "Effect": "Increase User's Defense.",
     "Description": "The user hides inside its hard shell to protect itself from incoming attacks.",
-    "_id": "withdraw"
+    "_id": "withdraw",
+    "Attributes": {},
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "Def"
+                ],
+                "Stages": 1,
+                "Affects": "User"
+            }
+        ]
+    }
 }

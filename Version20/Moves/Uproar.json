@@ -10,5 +10,9 @@
     "Target": "Random Foe",
     "Effect": "For the rest of the Round, no Pokemon can fall asleep. If a Pokemon was asleep it wakes up. Sound Based Move.",
     "Description": "The Pokemon shouts and screams and squaks so hard the noise really hurts the ears. Nobody could get a full night of sleep with all that ruckus.",
-    "_id": "uproar"
+    "_id": "uproar",
+    "Attributes": {
+        "SoundBased": true
+    },
+    "AddedEffects": {}
 }

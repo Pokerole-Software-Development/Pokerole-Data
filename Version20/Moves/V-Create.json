@@ -10,5 +10,19 @@
     "Target": "Foe",
     "Effect": "Reduce the user's Dexterity, Defense, and Sp. Defense.",
     "Description": "The user slams its foe with a V-Shaped flame on its forehead. Upon impact, it detonates a terrible explosion and leaves the user pretty vulnerable afterwards.",
-    "_id": "v-create"
+    "_id": "v-create",
+    "Attributes": {},
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "Dexterity",
+                    "Def",
+                    "SpDef"
+                ],
+                "Stages": -1,
+                "Affects": "User"
+            }
+        ]
+    }
 }

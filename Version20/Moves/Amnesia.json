@@ -10,5 +10,17 @@
     "Target": "User",
     "Effect": "Increase the User's Sp. Defense by 2.",
     "Description": "As a fine example of mind over matter, the user temporarily empties its mind to make it more resilient.",
-    "_id": "amnesia"
+    "_id": "amnesia",
+    "Attributes": {},
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "SpDef"
+                ],
+                "Stages": 2,
+                "Affects": "User"
+            }
+        ]
+    }
 }

@@ -10,5 +10,9 @@
     "Target": "Foe",
     "Effect": "Never Fail.",
     "Description": "The Pokemon bows in defeat, begging for forgiveness, then backstabs its gullible foe.",
-    "_id": "false-surrender"
+    "_id": "false-surrender",
+    "Attributes": {
+        "NeverFail": true
+    },
+    "AddedEffects": {}
 }

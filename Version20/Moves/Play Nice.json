@@ -10,5 +10,17 @@
     "Target": "Foe",
     "Effect": "Reduce the foe's Strength.",
     "Description": "The user starts playing with the foe in a friendly way. This makes the foe reconsider its aggressive demeanor.",
-    "_id": "play-nice"
+    "_id": "play-nice",
+    "Attributes": {},
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "Strength"
+                ],
+                "Stages": -1,
+                "Affects": "Targets"
+            }
+        ]
+    }
 }

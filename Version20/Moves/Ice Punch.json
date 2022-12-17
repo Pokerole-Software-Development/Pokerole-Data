@@ -10,5 +10,17 @@
     "Target": "Foe",
     "Effect": "Fist Based. Roll 1 Chance Dice to Freeze the foe.",
     "Description": "The Pokemon delivers a strike covered in ice. The user's hands can freeze anything they touch.",
-    "_id": "ice-punch"
+    "_id": "ice-punch",
+    "Attributes": {
+        "FistBased": true
+    },
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Freeze",
+                "Affects": "Targets",
+                "ChanceDice": 1
+            }
+        ]
+    }
 }

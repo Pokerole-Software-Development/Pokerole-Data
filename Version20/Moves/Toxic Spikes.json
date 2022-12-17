@@ -10,5 +10,9 @@
     "Target": "Battlefield",
     "Effect": "Foe Pokemon that enter the battlefield become Poisoned. Roll 1 Chance Dice for the Poison to become Badly Poisoned instead. Entry Hazard.",
     "Description": "The user lays a trap of scattered poison spikes that attach to the opponent's feet leaving them with a bad case of fever.",
-    "_id": "toxic-spikes"
+    "_id": "toxic-spikes",
+    "Attributes": {},
+    "AddedEffects": {
+        "TerrainEffect": "ToxicSpikes"
+    }
 }

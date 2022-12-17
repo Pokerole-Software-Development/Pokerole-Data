@@ -10,5 +10,24 @@
     "Target": "User",
     "Effect": "Increase the User's Strength by 1 and Dexterity by 2.",
     "Description": "The Pokemon has its gears rotate quickly,. Working like a powerful machine.",
-    "_id": "shift-gear"
+    "_id": "shift-gear",
+    "Attributes": {},
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "Strength"
+                ],
+                "Stages": 1,
+                "Affects": "Target"
+            },
+            {
+                "Stats": [
+                    "Dexterity"
+                ],
+                "Stages": 2,
+                "Affects": "Target"
+            }
+        ]
+    }
 }

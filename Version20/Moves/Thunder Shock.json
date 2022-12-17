@@ -10,5 +10,15 @@
     "Target": "Foe",
     "Effect": "Roll 1 Chance Dice to Paralyze the foe.",
     "Description": "A small electric attack that shocks the foe and may leave it with muscular cramps. Some electric devices hit by this attack will malfunction.",
-    "_id": "thunder-shock"
+    "_id": "thunder-shock",
+    "Attributes": {},
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Paralyze",
+                "Affects": "Targets",
+                "ChanceDice": 1
+            }
+        ]
+    }
 }

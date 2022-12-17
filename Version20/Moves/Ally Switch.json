@@ -10,5 +10,9 @@
     "Target": "One Ally",
     "Effect": "User switches back. Choose another Pokemon to take its place. It will be ready to fight on the next Round. Switcher Move.",
     "Description": "The user teleports, switching its place with someone.",
-    "_id": "ally-switch"
+    "_id": "ally-switch",
+    "Attributes": {
+        "SwitcherMove": true
+    },
+    "AddedEffects": {}
 }

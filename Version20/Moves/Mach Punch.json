@@ -10,5 +10,10 @@
     "Target": "Foe",
     "Effect": "Fist Based. Priority 1.",
     "Description": "The user launches a punch so quickly that it's barely seen.",
-    "_id": "mach-punch"
+    "_id": "mach-punch",
+    "Attributes": {
+        "FistBased": true,
+        "Priority": 1
+    },
+    "AddedEffects": {}
 }

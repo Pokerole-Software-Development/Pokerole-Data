@@ -10,5 +10,16 @@
     "Target": "Foe",
     "Effect": "Burn the Foe. -2 Accuracy.",
     "Description": "The user calls a floating ember to consume the foe.",
-    "_id": "will-o-wisp"
+    "_id": "will-o-wisp",
+    "Attributes": {
+        "AccuracyReduction": 2
+    },
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Burn",
+                "Affects": "Targets"
+            }
+        ]
+    }
 }

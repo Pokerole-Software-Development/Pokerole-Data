@@ -10,5 +10,14 @@
     "Target": "User and Allies",
     "Effect": "For the next 4 Rounds, the User and its Allies are immune to Status Ailments (Burn. Poison. Sleep. Confuse. Freeze. Paralysis). Lasts 4 Rounds. Previously inflicted Status Ailments remain.",
     "Description": "The Pokemon creates an energy shield that protects everyone from harm.",
-    "_id": "safeguard"
+    "_id": "safeguard",
+    "Attributes": {},
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Safeguard",
+                "Affects": "Targets"
+            }
+        ]
+    }
 }

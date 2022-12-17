@@ -10,5 +10,17 @@
     "Target": "User",
     "Effect": "Increase the User's Special by 3.",
     "Description": "The user emits a strong light. This Pokemon will stare at its brightness to enter a trance.",
-    "_id": "tail-glow"
+    "_id": "tail-glow",
+    "Attributes": {},
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "Special"
+                ],
+                "Stages": 3,
+                "Affects": "User"
+            }
+        ]
+    }
 }

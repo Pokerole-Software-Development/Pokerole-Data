@@ -10,5 +10,17 @@
     "Target": "Foe",
     "Effect": "Lower the foe's Accuracy.",
     "Description": "A basic psychic power to exert force on objects. You can touch, move, press, and affect simple objects to create distractions.",
-    "_id": "kinesis"
+    "_id": "kinesis",
+    "Attributes": {},
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "Accuracy"
+                ],
+                "Stages": -1,
+                "Affects": "Targets"
+            }
+        ]
+    }
 }

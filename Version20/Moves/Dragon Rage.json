@@ -10,5 +10,11 @@
     "Target": "Foe",
     "Effect": "This moves always inflicts 2 damage.",
     "Description": "A dual colored flame that always leaves the same burn marks on everything it touches.",
-    "_id": "dragon-rage"
+    "_id": "dragon-rage",
+    "Attributes": {},
+    "AddedEffects": {
+        "FixedDamage": {
+            "Value": 2
+        }
+    }
 }

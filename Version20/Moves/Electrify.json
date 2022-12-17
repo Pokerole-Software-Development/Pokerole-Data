@@ -10,5 +10,14 @@
     "Target": "Foe",
     "Effect": "The Damage from the next attack made by the target will be Electric Type.",
     "Description": "The user hurls an electric projectile to the target, the foe is charged with electricity until it is released by the foe's next attack.",
-    "_id": "electrify"
+    "_id": "electrify",
+    "Attributes": {},
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Electrify",
+                "Affects": "Targets"
+            }
+        ]
+    }
 }

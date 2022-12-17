@@ -10,5 +10,9 @@
     "Target": "All Foes",
     "Effect": "High Critical. Charge.",
     "Description": "A sharp wind current is unleased against anyone standing against this Pokemon.",
-    "_id": "razor-wind"
+    "_id": "razor-wind",
+    "Attributes": {
+        "HighCritical": true
+    },
+    "AddedEffects": {}
 }

@@ -10,5 +10,18 @@
     "Target": "Foe",
     "Effect": "All attacks against the target have \"Never Fail\". The target is immune to Ground Moves. Lasts 2 Rounds.",
     "Description": "The user can manipulate objects and creatures with his mind. Pokemon and humans become easier to hit because their movements are restrained.",
-    "_id": "telekinesis"
+    "_id": "telekinesis",
+    "Attributes": {},
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Telekinesis",
+                "Affects": "Target"
+            },
+            {
+                "Type": "Hovering",
+                "Affects": "Target"
+            }
+        ]
+    }
 }

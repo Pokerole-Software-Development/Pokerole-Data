@@ -10,5 +10,14 @@
     "Target": "Foe",
     "Effect": "Confuse the foe.",
     "Description": "The user flashes a sinister ray of bright light that leaves the target disoriented and confused.",
-    "_id": "confuse-ray"
+    "_id": "confuse-ray",
+    "Attributes": {},
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Confuse",
+                "Affects": "Targets"
+            }
+        ]
+    }
 }

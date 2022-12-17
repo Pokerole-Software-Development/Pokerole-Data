@@ -10,5 +10,16 @@
     "Target": "Foe",
     "Effect": "Paralyze the foe. -1 Accuracy.",
     "Description": "A tide of bright lightning streams from the floor onto the foe. The target's body will be cramped for hours.",
-    "_id": "thunder-wave"
+    "_id": "thunder-wave",
+    "Attributes": {
+        "AccuracyReduction": 1
+    },
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Paralyze",
+                "Affects": "Targets"
+            }
+        ]
+    }
 }

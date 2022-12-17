@@ -10,5 +10,15 @@
     "Target": "Foe",
     "Effect": "Roll 3 Chance Dice to Flinch the foe.",
     "Description": "This move controls the emotions of the target, making it feel loved and safe. The user may strike immediately.",
-    "_id": "heart-stamp"
+    "_id": "heart-stamp",
+    "Attributes": {},
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Flinch",
+                "Affects": "Targets",
+                "ChanceDice": 3
+            }
+        ]
+    }
 }

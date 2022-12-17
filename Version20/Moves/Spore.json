@@ -10,5 +10,14 @@
     "Target": "Foe",
     "Effect": "Put the Target to Sleep.",
     "Description": "A powerful somniferous spore that is shot at the target to make it fall asleep.",
-    "_id": "spore"
+    "_id": "spore",
+    "Attributes": {},
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Sleep",
+                "Affects": "Targets"
+            }
+        ]
+    }
 }

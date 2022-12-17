@@ -10,5 +10,16 @@
     "Target": "Foe",
     "Effect": "Blocks. Roll 2 Dice of Damage against the foe at the end of each Round. Lasts 4 Rounds.",
     "Description": "The Pokemon summons a huge swarm of bugs to prevent the foe from escaping. Sometimes the swarm may take a hit to the foe. The call extends for hundreds of yards.",
-    "_id": "infestation"
+    "_id": "infestation",
+    "Attributes": {
+        "BlockDamagePool": 2
+    },
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Block",
+                "Affects": "Targets"
+            }
+        ]
+    }
 }

@@ -10,5 +10,15 @@
     "Target": "Foe",
     "Effect": "Roll 5 Chance Dice to Badly Poison the Foe.",
     "Description": "The Pokemon bites the foe and injects its poison directly through its fangs. After that it just waits for the poison to slowly take care of its foe.",
-    "_id": "poison-fang"
+    "_id": "poison-fang",
+    "Attributes": {},
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "BadlyPoison",
+                "Affects": "Targets",
+                "ChanceDice": 5
+            }
+        ]
+    }
 }

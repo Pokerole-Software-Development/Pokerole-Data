@@ -10,5 +10,17 @@
     "Target": "User",
     "Effect": "Increase the User's Defense.",
     "Description": "The user stiffins its body and prepares for any incoming attack.",
-    "_id": "harden"
+    "_id": "harden",
+    "Attributes": {},
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "Def"
+                ],
+                "Stages": 1,
+                "Affects": "User"
+            }
+        ]
+    }
 }

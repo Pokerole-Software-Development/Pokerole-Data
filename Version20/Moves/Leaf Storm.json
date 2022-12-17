@@ -10,5 +10,19 @@
     "Target": "Foe",
     "Effect": "Reduce the User's Special by 2. -1 Accuracy.",
     "Description": "A furious storm of sharp leaves swirls and pierces the target. The user is left exhausted.",
-    "_id": "leaf-storm"
+    "_id": "leaf-storm",
+    "Attributes": {
+        "AccuracyReduction": 1
+    },
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "Special"
+                ],
+                "Stages": -2,
+                "Affects": "User"
+            }
+        ]
+    }
 }

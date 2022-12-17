@@ -10,5 +10,16 @@
     "Target": "Foe",
     "Effect": "Priority 2. Triple the Pokemon's movement speed.",
     "Description": "The user charges at a blinding speed against the target.",
-    "_id": "extreme-speed"
+    "_id": "extreme-speed",
+    "Attributes": {
+        "Priority": 2
+    },
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "ExtremeSpeed",
+                "Affects": "Targets"
+            }
+        ]
+    }
 }

@@ -10,5 +10,17 @@
     "Target": "User",
     "Effect": "Increase the User's Strength",
     "Description": "The Pokemon meditates to unleash a power that's been sleeping deep inside the user.",
-    "_id": "meditate"
+    "_id": "meditate",
+    "Attributes": {},
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "Strength"
+                ],
+                "Stages": 1,
+                "Affects": "User"
+            }
+        ]
+    }
 }

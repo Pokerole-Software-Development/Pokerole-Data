@@ -10,5 +10,15 @@
     "Target": "Foe",
     "Effect": "Roll 1 Chance Dice to Confuse the foe.",
     "Description": "The user emits an intense light that harms the foes and may leave them dazed like moths.",
-    "_id": "signal-beam"
+    "_id": "signal-beam",
+    "Attributes": {},
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Confuse",
+                "Affects": "Targets",
+                "ChanceDice": 1
+            }
+        ]
+    }
 }

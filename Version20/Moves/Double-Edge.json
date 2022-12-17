@@ -10,5 +10,9 @@
     "Target": "Foe",
     "Effect": "Recoil.",
     "Description": "The user recklessly slams its foe to deal a lot of damage, but it may also hurt itself in the process.",
-    "_id": "double-edge"
+    "_id": "double-edge",
+    "Attributes": {
+        "Recoil": true
+    },
+    "AddedEffects": {}
 }

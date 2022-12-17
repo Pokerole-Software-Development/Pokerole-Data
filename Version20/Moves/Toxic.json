@@ -10,5 +10,16 @@
     "Target": "Foe",
     "Effect": "Badly Poison the Foe. -1 Accuracy.",
     "Description": "With a disgusting diet and training, the user learns how to turn its fluids into a deadly toxin.",
-    "_id": "toxic"
+    "_id": "toxic",
+    "Attributes": {
+        "AccuracyReduction": 1
+    },
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "BadlyPoison",
+                "Affects": "Targets"
+            }
+        ]
+    }
 }

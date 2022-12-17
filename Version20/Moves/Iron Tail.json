@@ -10,5 +10,20 @@
     "Target": "Foe",
     "Effect": "Roll 3 Chance Dice to Reduce the foe's Defense. -3 Accuracy.",
     "Description": "The user hits the foe with its hardened tail. The target is left vulnerable against subsequent attacks.",
-    "_id": "iron-tail"
+    "_id": "iron-tail",
+    "Attributes": {
+        "AccuracyReduction": 3
+    },
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "Def"
+                ],
+                "Stages": -1,
+                "ChanceDice": 3,
+                "Affects": "Targets"
+            }
+        ]
+    }
 }

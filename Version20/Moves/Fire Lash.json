@@ -10,5 +10,17 @@
     "Target": "Foe",
     "Effect": "Reduce Foe's Defense.",
     "Description": "With a whip of fire, the Pokemon ensnares its foe, who is left defenseless and at its mercy.",
-    "_id": "fire-lash"
+    "_id": "fire-lash",
+    "Attributes": {},
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "Def"
+                ],
+                "Stages": -1,
+                "Affects": "Targets"
+            }
+        ]
+    }
 }

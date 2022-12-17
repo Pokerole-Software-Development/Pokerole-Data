@@ -10,5 +10,10 @@
     "Target": "Foe",
     "Effect": "Lethal. High Critical.",
     "Description": "The Pokemon uses the sharp leaves on its body to cut through the foe.",
-    "_id": "leaf-blade"
+    "_id": "leaf-blade",
+    "Attributes": {
+        "HighCritical": true,
+        "Lethal": true
+    },
+    "AddedEffects": {}
 }

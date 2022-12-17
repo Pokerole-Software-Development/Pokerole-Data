@@ -10,5 +10,10 @@
     "Target": "Foe",
     "Effect": "Ranged. -1 Accuracy.",
     "Description": "The user picks up a rock or pebble and throws it at the foe.",
-    "_id": "rock-throw"
+    "_id": "rock-throw",
+    "Attributes": {
+        "PhysicalRanged": true,
+        "AccuracyReduction": 1
+    },
+    "AddedEffects": {}
 }

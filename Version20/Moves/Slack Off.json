@@ -10,5 +10,11 @@
     "Target": "User",
     "Effect": "Basic Heal. If successful, spend 1 Will point to activate.",
     "Description": "The Pokemon gets lazy and loafs around instead of fighting. This makes up for a short rest.",
-    "_id": "slack-off"
+    "_id": "slack-off",
+    "Attributes": {},
+    "AddedEffects": {
+        "Heal": {
+            "Type": "Basic"
+        }
+    }
 }

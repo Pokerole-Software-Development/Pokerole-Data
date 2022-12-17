@@ -10,5 +10,17 @@
     "Target": "Foe",
     "Effect": "Reduce the foe's Special.",
     "Description": "The Pokemon lays on its back and struggles with the foe, disrupting the foe's concentration.",
-    "_id": "struggle-bug"
+    "_id": "struggle-bug",
+    "Attributes": {},
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "Special"
+                ],
+                "Stages": -1,
+                "Affects": "Targets"
+            }
+        ]
+    }
 }

@@ -10,5 +10,9 @@
     "Target": "Foe",
     "Effect": "The user switches out after dealing damage. The new Pokemon arrives ready to fight on the next Round. Switcher Move.",
     "Description": "The User quickly shoots an electic jolt, then switches places with an awaiting Pokemon partner at the speed of lightning.",
-    "_id": "volt-switch"
+    "_id": "volt-switch",
+    "Attributes": {
+        "SwitcherMove": true
+    },
+    "AddedEffects": {}
 }

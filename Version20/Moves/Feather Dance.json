@@ -10,5 +10,17 @@
     "Target": "Foe",
     "Effect": "Reduce the foe's Strength by 2.",
     "Description": "A beautiful dance that soothes the hearts of those who watch it, reducing their aggressive intentions.",
-    "_id": "feather-dance"
+    "_id": "feather-dance",
+    "Attributes": {},
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "Strength"
+                ],
+                "Stages": -2,
+                "Affects": "Targets"
+            }
+        ]
+    }
 }

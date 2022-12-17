@@ -10,5 +10,10 @@
     "Target": "Foe",
     "Effect": "Successive Actions. -1 Accuracy.",
     "Description": "The user swiftly uses its claws to strike the foe multiple times.",
-    "_id": "fury-swipes"
+    "_id": "fury-swipes",
+    "Attributes": {
+        "SuccessiveActions": true,
+        "AccuracyReduction": 1
+    },
+    "AddedEffects": {}
 }

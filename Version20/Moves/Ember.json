@@ -10,5 +10,15 @@
     "Target": "Foe",
     "Effect": "Roll 1 Chance Dice to Burn the foe.",
     "Description": "The user shoots a small flame against the target that may cause a first-degree burn.",
-    "_id": "ember"
+    "_id": "ember",
+    "Attributes": {},
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Burn",
+                "Affects": "Targets",
+                "ChanceDice": 1
+            }
+        ]
+    }
 }

@@ -10,5 +10,20 @@
     "Target": "Foe",
     "Effect": "Lethal. Reduce User's Special by 2. -1 Accuracy.",
     "Description": "The Pokemon calls a comet that falls from the sky to deal a brutal amount of damage. This feat demands a lot from the user.",
-    "_id": "draco-meteor"
+    "_id": "draco-meteor",
+    "Attributes": {
+        "Lethal": true,
+        "AccuracyReduction": 1
+    },
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "Special"
+                ],
+                "Stages": -2,
+                "Affects": "User"
+            }
+        ]
+    }
 }

@@ -10,5 +10,10 @@
     "Target": "Foe",
     "Effect": "Ranged. Successive Actions.",
     "Description": "The user launches a wave of small but pointy icicles towards the target.",
-    "_id": "icicle-spear"
+    "_id": "icicle-spear",
+    "Attributes": {
+        "PhysicalRanged": true,
+        "SuccessiveActions": true
+    },
+    "AddedEffects": {}
 }

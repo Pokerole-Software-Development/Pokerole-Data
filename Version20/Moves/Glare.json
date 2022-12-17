@@ -10,5 +10,16 @@
     "Target": "Foe",
     "Effect": "Paralyze the foe. -1 Accuracy.",
     "Description": "The Pokemon uses its intimidating glare to paralyze the foe with sheer terror.",
-    "_id": "glare"
+    "_id": "glare",
+    "Attributes": {
+        "AccuracyReduction": 1
+    },
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Paralyze",
+                "Affects": "Targets"
+            }
+        ]
+    }
 }

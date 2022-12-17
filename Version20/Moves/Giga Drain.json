@@ -10,5 +10,12 @@
     "Target": "Foe",
     "Effect": "The user restores HP equal to half the damage dealt, rounded down.",
     "Description": "The Pokemon extracts a great amount of vital energy from the foe's body.",
-    "_id": "giga-drain"
+    "_id": "giga-drain",
+    "Attributes": {},
+    "AddedEffects": {
+        "Heal": {
+            "Type": "Leech",
+            "Percentage": 0.5
+        }
+    }
 }

@@ -10,5 +10,11 @@
     "Target": "One Ally",
     "Effect": "Basic Heal. If performed over Grassy Terrain this move is a Complete Heal.",
     "Description": "The user creates a flower crown that heals and relaxes its wearer. Under the right conditions this move also creates a flower patch around its target.",
-    "_id": "floral-healing"
+    "_id": "floral-healing",
+    "Attributes": {},
+    "AddedEffects": {
+        "Heal": {
+            "Type": "Basic"
+        }
+    }
 }

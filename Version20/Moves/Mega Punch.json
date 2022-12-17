@@ -10,5 +10,9 @@
     "Target": "Foe",
     "Effect": "-1 Accuracy.",
     "Description": "The Pokemon throws a mega potent hook towards the foe's face.",
-    "_id": "mega-punch"
+    "_id": "mega-punch",
+    "Attributes": {
+        "AccuracyReduction": 1
+    },
+    "AddedEffects": {}
 }

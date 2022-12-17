@@ -10,5 +10,17 @@
     "Target": "Foe",
     "Effect": "Fist Based. Roll 1 Chance Dice to Paralyze foe.",
     "Description": "An Electrified punch to deal a shocking blow.",
-    "_id": "thunder-punch"
+    "_id": "thunder-punch",
+    "Attributes": {
+        "FistBased": true
+    },
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Paralyze",
+                "Affects": "Targets",
+                "ChanceDice": 1
+            }
+        ]
+    }
 }

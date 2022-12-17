@@ -10,5 +10,21 @@
     "Target": "User",
     "Effect": "User deals Damage to itself equal to Half of its total HP rounded down. Increase User's Strength by 3.",
     "Description": "The Pokemon Roars a war cry while hitting its Belly.",
-    "_id": "belly-drum"
+    "_id": "belly-drum",
+    "Attributes": {},
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "Strength"
+                ],
+                "Stages": 3,
+                "Affects": "User"
+            }
+        ],
+        "FixedDamage": {
+            "Percentage": 0.5,
+            "BasedOn": "MaxHp"
+        }
+    }
 }

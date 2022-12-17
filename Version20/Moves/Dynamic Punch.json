@@ -10,5 +10,17 @@
     "Target": "Foe",
     "Effect": "Fist Based. Confuse the foe. -3 Accuracy.",
     "Description": "A punch that hits a small pressure point. It leavers the foe disoriented.",
-    "_id": "dynamic-punch"
+    "_id": "dynamic-punch",
+    "Attributes": {
+        "FistBased": true,
+        "AccuracyReduction": 3
+    },
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Confuse",
+                "Affects": "Targets"
+            }
+        ]
+    }
 }

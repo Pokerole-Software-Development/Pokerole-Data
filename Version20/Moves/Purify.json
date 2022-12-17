@@ -10,5 +10,11 @@
     "Target": "Foe",
     "Effect": "Heal a Target's Status Ailment. If you do then the user may heal 1 HP.",
     "Description": "The Pokemon is covered by a gelatinous goo that can be used to treat several ailments, the Pokemon also uses it as a source of nourishment.",
-    "_id": "purify"
+    "_id": "purify",
+    "Attributes": {},
+    "AddedEffects": {
+        "AilmentHeal": [
+            "All"
+        ]
+    }
 }

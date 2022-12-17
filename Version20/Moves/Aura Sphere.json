@@ -10,5 +10,9 @@
     "Target": "Foe",
     "Effect": "Never Fail.",
     "Description": "The user channels its aura and launches this power in the form of a sphere The foe's aura is hit, leaving the target unscratched but deeply hurt.",
-    "_id": "aura-sphere"
+    "_id": "aura-sphere",
+    "Attributes": {
+        "NeverFail": true
+    },
+    "AddedEffects": {}
 }

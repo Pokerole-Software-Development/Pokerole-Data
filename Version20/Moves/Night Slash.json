@@ -10,5 +10,10 @@
     "Target": "Foe",
     "Effect": "Lethal. High Critical.",
     "Description": "The user quickly slashes through the target as soon as it gets the chance. The intent to end the target's life is frightening.",
-    "_id": "night-slash"
+    "_id": "night-slash",
+    "Attributes": {
+        "HighCritical": true,
+        "Lethal": true
+    },
+    "AddedEffects": {}
 }

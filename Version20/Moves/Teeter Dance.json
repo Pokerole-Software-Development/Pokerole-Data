@@ -10,5 +10,14 @@
     "Target": "Area",
     "Effect": "Inflicts Confusion.",
     "Description": "The user starts dancing around with wobbly movements. Friends and foes will get dizzy by trying to follow it.",
-    "_id": "teeter-dance"
+    "_id": "teeter-dance",
+    "Attributes": {},
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Confuse",
+                "Affects": "Targets"
+            }
+        ]
+    }
 }

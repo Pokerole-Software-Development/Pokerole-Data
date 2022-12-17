@@ -10,5 +10,9 @@
     "Target": "All Foes",
     "Effect": "Sound Based.",
     "Description": "The user emits a horrible echoing sound that could burst the ears.",
-    "_id": "hyper-voice"
+    "_id": "hyper-voice",
+    "Attributes": {
+        "SoundBased": true
+    },
+    "AddedEffects": {}
 }

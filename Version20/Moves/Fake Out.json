@@ -10,5 +10,16 @@
     "Target": "Foe",
     "Effect": "Priority 1. Flinch the foe. This move will only work the First Round the Pokemon is out in battle. From the second round on, it will fail automatically.",
     "Description": "While still preparing for battle, the user will suddenly attack the foe.",
-    "_id": "fake-out"
+    "_id": "fake-out",
+    "Attributes": {
+        "Priority": 1
+    },
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Flinch",
+                "Affects": "Targets"
+            }
+        ]
+    }
 }

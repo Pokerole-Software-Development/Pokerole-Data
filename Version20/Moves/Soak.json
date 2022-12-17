@@ -10,5 +10,15 @@
     "Target": "Foe",
     "Effect": "Change the target's Type to Water.",
     "Description": "The user shoots a stream of water and moisture that clings to the foe's body as an overcoat.",
-    "_id": "soak"
+    "_id": "soak",
+    "Attributes": {},
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "ChangedType",
+                "Affects": "Targets",
+                "TargetType": "Water"
+            }
+        ]
+    }
 }

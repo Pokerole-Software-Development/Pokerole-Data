@@ -10,5 +10,16 @@
     "Target": "Foe",
     "Effect": "Blocks.",
     "Description": "The user moves swiftly, blocking the escape routes of the foe.",
-    "_id": "block"
+    "_id": "block",
+    "Attributes": {
+        "BlockDamagePool": 0
+    },
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Block",
+                "Affects": "Targets"
+            }
+        ]
+    }
 }

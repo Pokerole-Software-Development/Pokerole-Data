@@ -10,5 +10,12 @@
     "Target": "Foe",
     "Effect": "The user restores HP equal to half the damage dealt, rounded down.",
     "Description": "The user absorbs a big amount of vital energy from the target.",
-    "_id": "mega-drain"
+    "_id": "mega-drain",
+    "Attributes": {},
+    "AddedEffects": {
+        "Heal": {
+            "Type": "Leech",
+            "Percentage": 0.5
+        }
+    }
 }

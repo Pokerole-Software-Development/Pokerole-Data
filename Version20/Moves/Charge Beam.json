@@ -10,5 +10,20 @@
     "Target": "Foe",
     "Effect": "Roll 5 Chance Dice to Increase the User's Special. -1 Accuracy.",
     "Description": "The Pokemon lets out an electric beam then uses the remaining charge to boost its power.",
-    "_id": "charge-beam"
+    "_id": "charge-beam",
+    "Attributes": {
+        "AccuracyReduction": 1
+    },
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "Special"
+                ],
+                "Stages": 1,
+                "ChanceDice": 5,
+                "Affects": "User"
+            }
+        ]
+    }
 }

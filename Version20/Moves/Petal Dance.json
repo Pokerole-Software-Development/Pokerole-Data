@@ -10,5 +10,9 @@
     "Target": "Random Foe",
     "Effect": "Rampage.",
     "Description": "The Pokemon starts swirling petals around in a true display of nature's power, the petals are guided by the wind to strike the foe.",
-    "_id": "petal-dance"
+    "_id": "petal-dance",
+    "Attributes": {
+        "Rampage": true
+    },
+    "AddedEffects": {}
 }

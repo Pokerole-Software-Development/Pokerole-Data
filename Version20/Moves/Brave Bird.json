@@ -10,5 +10,9 @@
     "Target": "Foe",
     "Effect": "Recoil.",
     "Description": "The Pokemon flies straight at the foe at full speed, the collision might hurt both of them.",
-    "_id": "brave-bird"
+    "_id": "brave-bird",
+    "Attributes": {
+        "Recoil": true
+    },
+    "AddedEffects": {}
 }

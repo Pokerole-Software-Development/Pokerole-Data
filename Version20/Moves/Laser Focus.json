@@ -10,5 +10,14 @@
     "Target": "User",
     "Effect": "The next time the user lands a hit it will be treated as if it were a Critical Hit.",
     "Description": "Through its incredible awareness the Pokemon finds a straight path into a weak point of the foe. The attack that follows is usually devastating.",
-    "_id": "laser-focus"
+    "_id": "laser-focus",
+    "Attributes": {},
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "LaserFocus",
+                "Affects": "Targets"
+            }
+        ]
+    }
 }

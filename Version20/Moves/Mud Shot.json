@@ -10,5 +10,17 @@
     "Target": "Foe",
     "Effect": "Reduce the Foe's Dexterity.",
     "Description": "The Pokemon shoots a stream of mud that covers the foe, obstructing its movement.",
-    "_id": "mud-shot"
+    "_id": "mud-shot",
+    "Attributes": {},
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "Dexterity"
+                ],
+                "Stages": -1,
+                "Affects": "Targets"
+            }
+        ]
+    }
 }

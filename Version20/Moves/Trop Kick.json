@@ -10,5 +10,17 @@
     "Target": "Foe",
     "Effect": "Reduce Foe's Strength.",
     "Description": "The user strikes with an intense and alluring kick.",
-    "_id": "trop-kick"
+    "_id": "trop-kick",
+    "Attributes": {},
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "Strength"
+                ],
+                "Stages": -1,
+                "Affects": "Targets"
+            }
+        ]
+    }
 }

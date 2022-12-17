@@ -10,5 +10,18 @@
     "Target": "User",
     "Effect": "Increase the User's Special and Sp. Defense.",
     "Description": "The user quietly calms its spirit to strengthen its mind and body.",
-    "_id": "calm-mind"
+    "_id": "calm-mind",
+    "Attributes": {},
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "Special",
+                    "SpDef"
+                ],
+                "Stages": 1,
+                "Affects": "User"
+            }
+        ]
+    }
 }

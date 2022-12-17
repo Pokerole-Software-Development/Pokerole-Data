@@ -10,5 +10,15 @@
     "Target": "User",
     "Effect": "If successful spent 1 Will point to activate. At the end of each Round, recover 1 HP. Lasts 4 Rounds.",
     "Description": "The user coats itself in a ring of special flowing water that lessens the pain.",
-    "_id": "aqua-ring"
+    "_id": "aqua-ring",
+    "Attributes": {},
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "AquaRingLifeDew",
+                "Affects": "Target",
+                "Rounds": 4
+            }
+        ]
+    }
 }

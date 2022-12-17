@@ -10,5 +10,10 @@
     "Target": "Foe",
     "Effect": "Recoil. -2 Accuracy.",
     "Description": "The Pokemon recklessly grapples the foe to smash it on the ground.",
-    "_id": "take-down"
+    "_id": "take-down",
+    "Attributes": {
+        "Recoil": true,
+        "AccuracyReduction": 2
+    },
+    "AddedEffects": {}
 }

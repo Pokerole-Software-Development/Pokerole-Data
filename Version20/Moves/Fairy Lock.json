@@ -10,5 +10,16 @@
     "Target": "Battlefield",
     "Effect": "Blocks. Last 1 Round.",
     "Description": "The user moves as if locking a door. It takes a few moments before everyone realizes that they are not really trapped.",
-    "_id": "fairy-lock"
+    "_id": "fairy-lock",
+    "Attributes": {
+        "BlockDamagePool": 0
+    },
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Block",
+                "Affects": "Targets"
+            }
+        ]
+    }
 }

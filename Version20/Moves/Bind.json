@@ -10,5 +10,17 @@
     "Target": "Foe",
     "Effect": "Block. Deal 2 dice of damage at the end of each Round. Lasts 4 Rounds. -2 Accuracy.",
     "Description": "The Pokemon uses its body to bind the foe, restraining and squeezing it.",
-    "_id": "bind"
+    "_id": "bind",
+    "Attributes": {
+        "BlockDamagePool": 2,
+        "AccuracyReduction": 2
+    },
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Block",
+                "Affects": "Targets"
+            }
+        ]
+    }
 }
