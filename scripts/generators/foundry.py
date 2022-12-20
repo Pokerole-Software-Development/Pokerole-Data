@@ -111,7 +111,7 @@ class Foundry(object):
                                 },
                                 "baseHp": entry['BaseHP'],
                                 "rank": "none",
-                                "recommendedRank": entry['RecommendedRank'],
+                                "recommendedRank": entry['RecommendedRank'].lower(),
                                 # Nature is named "personality" internally to avoid conflicts with the "Nature" skill
                                 "personality": "hardy",
                                 "confidence": 0,
