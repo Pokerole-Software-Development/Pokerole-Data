@@ -72,8 +72,20 @@ class Foundry(object):
                 id = entry['_id'].replace(".", "") # "mime-jr." workaround
                 
                 learnset = json.loads(open(join(self.learnsets_path, f"{entry['Name']}.json")).read())
-                moves = [x['Name'] for x in learnset['Moves']] + DEFAULT_MANEUVERS
-                ranks = [x['Learned'] for x in learnset['Moves']] + ['starter'] * len(DEFAULT_MANEUVERS)
+                moves = []
+                ranks = []
+                for x in learnset['Moves']:
+                    if x['Name'] == "Growl": # Use the two versions of Growl since it would otherwise be skipped over
+                        moves.append('Growl (Tough)')
+                        ranks.append(x['Learned'])
+                        moves.append('Growl (Cute)')
+                        ranks.append(x['Learned'])
+                    else:
+                        moves.append(x['Name'])
+                        ranks.append(x['Learned'])
+
+                moves += DEFAULT_MANEUVERS
+                ranks += ['starter'] * len(DEFAULT_MANEUVERS)
                 move_list = self._moves(moves, ranks)
                 abilities = self._abilities([entry['Ability1'], entry['Ability2'], entry['HiddenAbility'], entry['EventAbilities']])
                 foundry_items = move_list+abilities
@@ -88,17 +100,20 @@ class Foundry(object):
                             "img": f"systems/pokerole/images/pokemon/{sheet_img}/{entry['Sprite']}",
                             "system": {
                                 "hp": {
-                                "value": entry['Vitality']+entry['BaseHP'],
-                                "min": 0,
-                                "max": entry['Vitality']+entry['BaseHP']
+                                    "value": entry['Vitality']+entry['BaseHP'],
+                                    "min": 0,
+                                    "max": entry['Vitality']+entry['BaseHP']
                                 },
                                 "will": {
-                                "value": 2+entry['Insight'],
-                                "min": 0,
-                                "max": 2+entry['Insight']
+                                    "value": 2+entry['Insight'],
+                                    "min": 0,
+                                    "max": 2+entry['Insight']
                                 },
+                                "baseHp": entry['BaseHP'],
                                 "rank": "none",
-                                "nature": "hardy",
+                                "recommendedRank": entry['RecommendedRank'].lower(),
+                                # Nature is named "personality" internally to avoid conflicts with the "Nature" skill
+                                "personality": "hardy",
                                 "confidence": 0,
                                 "attributes": {
                                 "strength": {
@@ -371,8 +386,8 @@ class Foundry(object):
             return img
 
         def _check_target(target):
-            assert target in ["Foe","Random Foe","All Foes","User","One Ally","User and Allies",
-                "Area","Battlefield","Battlefield (Foes)", "Battlefield and Area"], f"Invalid target '{target}'"
+            assert target in ["Foe", "Random Foe", "All Foes", "User", "One Ally", "User and Allies",
+                "Area", "Battlefield", "Battlefield (Foes)", "Battlefield and Area"], f"Invalid target '{target}'"
 
         def _check_attribute(attr):
             assert attr in ["strength", "dexterity", "vitality", "special", "insight", "tough", "cool", "beauty", "cute", "clever", "will"], f"Invalid attribute '{attr}'"
@@ -402,6 +417,10 @@ class Foundry(object):
             move_type = entry['Type'].lower()
             description = entry['Description']
             effect = entry['Effect']
+
+            # Remove empty added effects
+            if effect == '-':
+                effect = ''
 
             if move_type == "typeless":
                 move_type = "none"
@@ -474,7 +493,7 @@ class Foundry(object):
                                 "resetTerrain":        _attribute_get(attr, "ResetTerrain"),
                                 "resistedWithDefense": _attribute_get(attr, "ResistedWithDefense"),
                                 "ignoreDefenses":      _attribute_get(attr, "IgnoreDefenses"),
-                                "maneuver": move_type == "none"
+                                "maneuver":            move_type == "none"
                             }
                         },
                         "effects": [],
