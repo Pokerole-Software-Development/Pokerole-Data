@@ -10,6 +10,7 @@ This repo is a Source of Truth for the [Pokerole](https://www.pokeroleproject.co
 # Applications Using The Dataset
 
 - [Pokerole Obsidian SRD](https://github.com/Willowlark/PokeroleObsidianSRD) A SRD of the entire Pokerole dataset available within [Obsidian](https://obsidian.md/), a markdown note application. 
+- [Pokerole Foundry Module](https://github.com/tech-ticks/foundry-pokerole) A module for the [Foundry VTT system](https://foundryvtt.com/) using the data compiled here.
 
 ## Developer Information
 
@@ -21,6 +22,7 @@ This repo is a Source of Truth for the [Pokerole](https://www.pokeroleproject.co
   - Book Sprites Base Url: `https://raw.githubusercontent.com/Willowlark/Pokerole-Data/master/images/BookSprites/`
   - Box Sprites Base Url: `https://raw.githubusercontent.com/Willowlark/Pokerole-Data/master/images/BoxSprites/`
   - Home Sprites Base Url: `https://raw.githubusercontent.com/Willowlark/Pokerole-Data/master/images/HomeSprites/`
+  - Home Sprites Base Url: `https://raw.githubusercontent.com/Willowlark/Pokerole-Data/master/images/ShuffleTokens/`
 - **Raw** data used in the generation of the proper datasets. It is NOT recommended to use data in here for any application, as it has not been processed. It's mostly here for record keeping purposes.
 - **Scripts** a folder for any code that manipulates data. At the moment, there should be NO REASON to try and run these, they are for maintainence only.
 - **Version20** contains the entire JSON dataset for Pokerole Version 2.0. Each item in the dataset has it's own JSON document. *All of this data is also accessable via Mongo, see below.*
@@ -38,10 +40,11 @@ Check the enhancement issues for anything we've identified that's need doing as 
 
 # Credits and Contacts
 
-- I can be contacted through Github (here) or Discord where my username is Willowlark#2359. 
+- Needless to say, Pokemon is owned by Nintendo
+- I can be contacted through Github (here) or Discord where my username is Willowlark#2359 as the primary maintainer. 
 - The original data (`raw/PokeroleBot`) that was used to generate the base dataset was compiled out of the book by Shadeslayer into this [repository](https://github.com/XShadeSlayerXx/PokeRole-Discord.py-Base). 
 - `raw/XMLDump` was dumped by SirIntellegence(Brain-Storm.exe) and is sourced from [this repository](https://github.com/SirIntellegence/pokerole-tools/releases/tag/v0.0.0)
 - Box sprites were compiled from this [repository](https://github.com/msikma/pokesprite).
 - Home sprites were ripped from [the spriter's resource](https://www.spriters-resource.com/nintendo_switch/pokemonhome/).
-- [Pokerole](https://www.pokeroleproject.com/) was written by it's own team, check them out.
-- Needless to say, Pokemon is owned by Nintendo
+- [Pokerole](https://www.pokeroleproject.com/) was written by it's own team, check them out. They provided the Booksprites as well.
+- Pokemon Shuffle style tokens were provided by Shaedn on this Discord
