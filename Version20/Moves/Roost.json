@@ -14,7 +14,9 @@
     "Attributes": {},
     "AddedEffects": {
         "Heal": {
-            "Type": "Basic"
+            "Type": "Basic",
+            "Target": "Targets",
+            "WillPointCost": 1
         },
         "Ailments": [
             {
