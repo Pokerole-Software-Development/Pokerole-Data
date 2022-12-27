@@ -10,8 +10,8 @@ secrets = json.load(open('../../secrets.json'))
 
 # Moves with fields that are problematic for the export
 # - Any Move is too generic, individual moves can be added to Mew instead
-# - Struggle and Growl have attributes like "Strength/special", but there are specialized versions for 
-IGNORED_MOVES = ['any-move', 'struggle', 'growl']
+# - Struggle, Growl and Photon Geyser have attributes like "Strength/special", but there are specialized versions for each attribute
+IGNORED_MOVES = ['any-move', 'struggle', 'growl', 'photon-geyser']
 
 DEFAULT_MANEUVERS = ['Struggle (Physical)', 'Struggle (Special)', 'Grapple', 'Help Another', 'Cover an Ally', 'Stabilize an Ally', 'Run Away']
 
@@ -80,6 +80,11 @@ class Foundry(object):
                         ranks.append(x['Learned'])
                         moves.append('Growl (Cute)')
                         ranks.append(x['Learned'])
+                    elif x['Name'] == "Photon Geyser":
+                        moves.append('Photon Geyser (Physical)')
+                        ranks.append(x['Learned'])
+                        moves.append('Photon Geyser (Special)')
+                        ranks.append(x['Learned'])
                     else:
                         moves.append(x['Name'])
                         ranks.append(x['Learned'])
@@ -87,7 +92,19 @@ class Foundry(object):
                 moves += DEFAULT_MANEUVERS
                 ranks += ['starter'] * len(DEFAULT_MANEUVERS)
                 move_list = self._moves(moves, ranks)
-                abilities = self._abilities([entry['Ability1'], entry['Ability2'], entry['HiddenAbility'], entry['EventAbilities']])
+
+                abilities = self._abilities([entry['Ability1'], entry['Ability2']])
+                hidden_ability_list = self._abilities([entry['HiddenAbility']])
+                if len(hidden_ability_list) > 0:
+                    ability = hidden_ability_list[0]
+                    ability["name"] += " [Hidden Ability]"
+                    abilities.append(ability)
+                event_ability_list = self._abilities([entry['EventAbilities']])
+                if len(event_ability_list) > 0:
+                    ability = event_ability_list[0]
+                    ability["name"] += " [Event]"
+                    abilities.append(ability)
+
                 foundry_items = move_list+abilities
                 
                 for move in move_list:
@@ -394,6 +411,26 @@ class Foundry(object):
 
         def _check_skill(attr):
             assert attr in ["brawl", "channel", "clash", "evasion", "alert", "athletic", "nature", "stealth", "allure", "etiquette", "intimidate", "perform", "crafts", "lore", "medicine", "science"], f"Invalid attribute '{attr}'"
+
+        def _convert_heal_data(data):
+            converted = { 'type': 'none' }
+            if not data: return converted
+            
+            ty = data.get('Type')
+            target = data.get('Target')
+            will_point_cost = data.get('WillPointCost')
+            percentage = data.get('Percentage')
+            if not ty or not target:
+                raise 'Type or target missing in heal data'
+
+            if ty:
+                converted['type'] = ty.lower()
+            if target:
+                converted['target'] = target.lower()
+            converted['willPointCost'] = will_point_cost if will_point_cost else 0
+            if percentage:
+                converted['amount'] = percentage
+            return converted
         
         db = []
         iter_target = glob(self.moves_path+"/*.json") if not mlist else [f"{self.moves_path}/{x}.json" for x in mlist]
@@ -494,7 +531,8 @@ class Foundry(object):
                                 "resistedWithDefense": _attribute_get(attr, "ResistedWithDefense"),
                                 "ignoreDefenses":      _attribute_get(attr, "IgnoreDefenses"),
                                 "maneuver":            move_type == "none"
-                            }
+                            },
+                            "heal": _convert_heal_data(entry['AddedEffects'].get('Heal'))
                         },
                         "effects": [],
                         "flags": {},

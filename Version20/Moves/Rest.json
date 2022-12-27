@@ -14,7 +14,9 @@
     "Attributes": {},
     "AddedEffects": {
         "Heal": {
-            "Type": "Complete"
+            "Type": "Complete",
+            "Target": "Targets",
+            "WillPointCost": 1
         },
         "Ailments": [
             {

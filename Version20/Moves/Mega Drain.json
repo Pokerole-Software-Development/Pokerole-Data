@@ -15,7 +15,8 @@
     "AddedEffects": {
         "Heal": {
             "Type": "Leech",
-            "Percentage": 0.5
+            "Percentage": 0.5,
+            "Target": "User"
         }
     }
 }

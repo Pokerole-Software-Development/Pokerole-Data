@@ -20,7 +20,8 @@
         ],
         "Heal": {
             "Type": "Complete",
-            "RequiresWill": false
+            "Target": "Targets",
+            "WillPointCost": 1
         }
     }
 }
