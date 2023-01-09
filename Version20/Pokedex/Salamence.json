@@ -19,32 +19,21 @@
     "Ability2": "",
     "HiddenAbility": "Moxie",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Pro",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "salamence.png",
     "GoodStarter": false,
     "_id": "salamence",
-    "HasForm": true,
-    "Learnset": "Salamence-Learnset",
-    "Abilities": "Intimidate (Moxie)",
-    "Type": "Dragon / Flying",
     "DexCategory": "Dragon Pokemon",
     "Height": {
-        "Deimeters": 15,
         "Meters": 1.5,
         "Feet": 4.9
     },
     "Weight": {
-        "Hectograms": 1026,
         "Kilograms": 102.6,
         "Pounds": 226.2
     },
     "DexDescription": "After a lifetime of struggling for a dream, it finally grew its wings. Salamence, however, is extremely dangerous, it scorches entire fields and mountains. It\u2019s easily angered and completely uncontrollable.",
-    "Baby": false,
-    "PrimaryEggGroup": "Dragon",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Shelgon",
@@ -56,5 +45,6 @@
             "Kind": "Mega",
             "Item": "Salamencite"
         }
-    ]
+    ],
+    "Image": "salamence.png"
 }

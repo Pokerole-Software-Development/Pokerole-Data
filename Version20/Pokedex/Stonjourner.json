@@ -19,31 +19,21 @@
     "Ability2": "",
     "HiddenAbility": "",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Amateur",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "stonjourner.png",
     "GoodStarter": false,
     "_id": "stonjourner",
-    "HasForm": false,
-    "Learnset": "Stonjourner-Learnset",
-    "Abilities": "Power Spot",
-    "Type": "Rock",
     "DexCategory": "Big Rock Pokemon",
     "Height": {
-        "Deimeters": 25,
         "Meters": 2.5,
         "Feet": 8.2
     },
     "Weight": {
-        "Hectograms": 5200,
         "Kilograms": 520.0,
         "Pounds": 1146.4
     },
     "DexDescription": "They spend almost all their lives immobile, looking as inconspicuous rocks, but once a year they gather out of nowhere and form up in a circle. They stay in formation for a few days and then disappear overnight.",
-    "Baby": false,
-    "PrimaryEggGroup": "Mineral",
-    "SecondaryEggGroup": "",
-    "Evolutions": []
+    "Evolutions": [],
+    "Image": "stonjourner.png"
 }

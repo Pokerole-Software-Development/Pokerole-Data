@@ -19,37 +19,27 @@
     "Ability2": "",
     "HiddenAbility": "",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Ace",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "sableye-mega.png",
     "GoodStarter": false,
     "_id": "mega-sableye",
-    "HasForm": false,
-    "Learnset": "Mega-Sableye-Learnset",
-    "Abilities": "Magic Bounce",
-    "Type": "Dark / Ghost",
     "DexCategory": "Darkness Pokemon",
     "Height": {
-        "Deimeters": 5,
         "Meters": 0.5,
         "Feet": 1.6
     },
     "Weight": {
-        "Hectograms": 1610,
         "Kilograms": 161.0,
         "Pounds": 354.9
     },
     "DexDescription": "The power of the Mega Stone made the jewel on its chest grow, it now uses it as a shield to repel any attack, but its movement is limited due to how heavy it is. Its greed for the jewel can make it aggressive.",
-    "Baby": false,
-    "PrimaryEggGroup": "Human-Like",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Sableye",
             "Kind": "Mega",
             "Item": "Sablenite"
         }
-    ]
+    ],
+    "Image": "sableye-mega.png"
 }

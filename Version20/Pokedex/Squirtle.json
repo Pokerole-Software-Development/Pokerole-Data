@@ -19,37 +19,27 @@
     "Ability2": "",
     "HiddenAbility": "Rain Dish",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Beginner",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "squirtle.png",
     "GoodStarter": true,
     "_id": "squirtle",
-    "HasForm": false,
-    "Learnset": "Squirtle-Learnset",
-    "Abilities": "Torrent (Rain Dish)",
-    "Type": "Water",
     "DexCategory": "Tiny turtle Pokemon",
     "Height": {
-        "Deimeters": 5,
         "Meters": 0.5,
         "Feet": 1.6
     },
     "Weight": {
-        "Hectograms": 90,
         "Kilograms": 9.0,
         "Pounds": 19.8
     },
     "DexDescription": "It is scarce in the wild. The shell is not just for protection - it also helps to minimize resistance in water enabling Squirtle to swim at high speeds. It\u2019s usually a calm and easy going Pokemon.",
-    "Baby": false,
-    "PrimaryEggGroup": "Monster",
-    "SecondaryEggGroup": "Water 1",
     "Evolutions": [
         {
             "To": "Wartortle",
             "Kind": "Level",
             "Speed": "Medium"
         }
-    ]
+    ],
+    "Image": "squirtle.png"
 }

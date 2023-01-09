@@ -19,37 +19,27 @@
     "Ability2": "Super Luck",
     "HiddenAbility": "Moxie",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Amateur",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "honchkrow.png",
     "GoodStarter": false,
     "_id": "honchkrow",
-    "HasForm": false,
-    "Learnset": "Honchkrow-Learnset",
-    "Abilities": "Insomnia / Super Luck (Moxie)",
-    "Type": "Dark / Flying",
     "DexCategory": "Big Boss Pokemon",
     "Height": {
-        "Deimeters": 9,
         "Meters": 0.9,
         "Feet": 3.0
     },
     "Weight": {
-        "Hectograms": 273,
         "Kilograms": 27.3,
         "Pounds": 60.2
     },
     "DexDescription": "It lets out a deep cry to summon Murkrows, which fetch food and shiny objects to Honchkrow. It is, however, a tyrant to the Murkrow. It only goes out at night to carry out evil deeds.",
-    "Baby": false,
-    "PrimaryEggGroup": "Flying",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Murkrow",
             "Kind": "Stone",
             "Item": "Dusk Stone"
         }
-    ]
+    ],
+    "Image": "honchkrow.png"
 }

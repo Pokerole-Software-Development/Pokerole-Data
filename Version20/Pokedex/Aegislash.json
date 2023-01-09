@@ -19,32 +19,21 @@
     "Ability2": "",
     "HiddenAbility": "",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Pro",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "aegislash.png",
     "GoodStarter": false,
     "_id": "aegislash",
-    "HasForm": true,
-    "Learnset": "Aegislash-Learnset",
-    "Abilities": "Stance Change",
-    "Type": "Steel / Ghost",
     "DexCategory": "Royal Sword Pokemon",
     "Height": {
-        "Deimeters": 17,
         "Meters": 1.7,
         "Feet": 5.6
     },
     "Weight": {
-        "Hectograms": 530,
         "Kilograms": 53.0,
         "Pounds": 116.8
     },
     "DexDescription": "The legend tells of how this Pokemon lead the first King of Kalos to victory. A crushing grip can be felt on the arm of the wielder. While in this form it can only use Support moves.",
-    "Baby": false,
-    "PrimaryEggGroup": "Mineral",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Doublade",
@@ -55,5 +44,6 @@
             "To": "Form Aegislash",
             "Kind": "Form"
         }
-    ]
+    ],
+    "Image": "aegislash.png"
 }

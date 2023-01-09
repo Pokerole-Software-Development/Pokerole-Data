@@ -19,37 +19,27 @@
     "Ability2": "Magic Guard",
     "HiddenAbility": "Regenerator",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Beginner",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "solosis.png",
     "GoodStarter": true,
     "_id": "solosis",
-    "HasForm": false,
-    "Learnset": "Solosis-Learnset",
-    "Abilities": "Overcoat / Magic Guard (Regenerator)",
-    "Type": "Psychic",
     "DexCategory": "Cell Pokemon",
     "Height": {
-        "Deimeters": 3,
         "Meters": 0.3,
         "Feet": 1.0
     },
     "Weight": {
-        "Hectograms": 10,
         "Kilograms": 1.0,
         "Pounds": 2.2
     },
     "DexDescription": "Because their bodies are enveloped in a special liquid, they can survive in any environment. They drive away attackers by unleashing their psychic power. They communicate with their minds.",
-    "Baby": false,
-    "PrimaryEggGroup": "Amorphous",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "To": "Duosion",
             "Kind": "Level",
             "Speed": "Medium"
         }
-    ]
+    ],
+    "Image": "solosis.png"
 }

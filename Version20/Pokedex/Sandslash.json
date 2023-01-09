@@ -19,37 +19,27 @@
     "Ability2": "",
     "HiddenAbility": "Sand Rush",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Amateur",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "sandslash.png",
     "GoodStarter": false,
     "_id": "sandslash",
-    "HasForm": false,
-    "Learnset": "Sandslash-Learnset",
-    "Abilities": "Sand Veil (Sand Rush)",
-    "Type": "Ground",
     "DexCategory": "Mouse Pokemon",
     "Height": {
-        "Deimeters": 10,
         "Meters": 1.0,
         "Feet": 3.3
     },
     "Weight": {
-        "Hectograms": 295,
         "Kilograms": 29.5,
         "Pounds": 65.0
     },
     "DexDescription": "It\u2019s less shy than its first stage. It curls up in a ball to protect itself from enemy attacks. Surprisingly, it is a good climber that uses its sharp claws for grip and drilling tunnels underground.",
-    "Baby": false,
-    "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Sandshrew",
             "Kind": "Level",
             "Speed": "Medium"
         }
-    ]
+    ],
+    "Image": "sandslash.png"
 }

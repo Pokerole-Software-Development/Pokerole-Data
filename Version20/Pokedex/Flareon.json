@@ -19,37 +19,27 @@
     "Ability2": "",
     "HiddenAbility": "Guts",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Amateur",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "flareon.png",
     "GoodStarter": false,
     "_id": "flareon",
-    "HasForm": false,
-    "Learnset": "Flareon-Learnset",
-    "Abilities": "Flash Fire (Guts)",
-    "Type": "Fire",
     "DexCategory": "Flame Pokemon",
     "Height": {
-        "Deimeters": 9,
         "Meters": 0.9,
         "Feet": 3.0
     },
     "Weight": {
-        "Hectograms": 250,
         "Kilograms": 25.0,
         "Pounds": 55.1
     },
     "DexDescription": "A few have been seen in volcanic areas but just like its counterparts is more common to see it being the pet of wealthy people. Its flaming fur is most appreciated for its warm glow and silky touch.",
-    "Baby": false,
-    "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Eevee",
             "Kind": "Stone",
             "Item": "Fire Stone"
         }
-    ]
+    ],
+    "Image": "flareon.png"
 }

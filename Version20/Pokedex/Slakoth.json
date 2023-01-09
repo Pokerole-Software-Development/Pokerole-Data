@@ -19,37 +19,27 @@
     "Ability2": "",
     "HiddenAbility": "",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Starter",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "slakoth.png",
     "GoodStarter": true,
     "_id": "slakoth",
-    "HasForm": false,
-    "Learnset": "Slakoth-Learnset",
-    "Abilities": "Truant",
-    "Type": "Normal",
     "DexCategory": "Slacker Pokemon",
     "Height": {
-        "Deimeters": 8,
         "Meters": 0.8,
         "Feet": 2.6
     },
     "Weight": {
-        "Hectograms": 240,
         "Kilograms": 24.0,
         "Pounds": 52.9
     },
     "DexDescription": "They laze around 20 hours a day barely eating. Slakoths remain motionless no matter what. It\u2019s rare to see this Pokemon doing something, most of them never even bother to evolve.",
-    "Baby": false,
-    "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "To": "Vigoroth",
             "Kind": "Level",
             "Speed": "Slow"
         }
-    ]
+    ],
+    "Image": "slakoth.png"
 }

@@ -19,37 +19,27 @@
     "Ability2": "Sniper",
     "HiddenAbility": "Keen Eye",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Ace",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "drapion.png",
     "GoodStarter": false,
     "_id": "drapion",
-    "HasForm": false,
-    "Learnset": "Drapion-Learnset",
-    "Abilities": "Battle Armor / Sniper (Keen Eye)",
-    "Type": "Poison / Dark",
     "DexCategory": "Ogre Scorp Pokemon",
     "Height": {
-        "Deimeters": 13,
         "Meters": 1.3,
         "Feet": 4.3
     },
     "Weight": {
-        "Hectograms": 615,
         "Kilograms": 61.5,
         "Pounds": 135.6
     },
     "DexDescription": "This Pokemon is very aggressive. It can completely rotate its head over its body, because of this, Drapion has no blind spots. Its venom is deadly and it won\u2019t hesitate to use it.",
-    "Baby": false,
-    "PrimaryEggGroup": "Bug",
-    "SecondaryEggGroup": "Water 3",
     "Evolutions": [
         {
             "From": "Skorupi",
             "Kind": "Level",
             "Speed": "Medium"
         }
-    ]
+    ],
+    "Image": "drapion.png"
 }

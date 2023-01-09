@@ -19,32 +19,21 @@
     "Ability2": "",
     "HiddenAbility": "",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Beginner",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "oricorio-fire.png",
     "GoodStarter": false,
     "_id": "oricorio-fire",
-    "HasForm": true,
-    "Learnset": "Oricorio Fire-Learnset",
-    "Abilities": "Dancer",
-    "Type": "Fire / Flying",
     "DexCategory": "Dancing Pokemon",
     "Height": {
-        "Deimeters": 6,
         "Meters": 0.6,
         "Feet": 2.0
     },
     "Weight": {
-        "Hectograms": 34,
         "Kilograms": 3.4,
         "Pounds": 7.5
     },
     "DexDescription": "What was thought to be different species ended up being a single Pokemon. Oricorio Baile is an intense and passionate Pokemon, every flap of its wings produces embers, its fiery dance has inspired many.",
-    "Baby": false,
-    "PrimaryEggGroup": "Flying",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "To": "Oricorio Electric",
@@ -58,5 +47,6 @@
             "To": "Oricorio Ghost",
             "Kind": "Form"
         }
-    ]
+    ],
+    "Image": "oricorio-fire.png"
 }

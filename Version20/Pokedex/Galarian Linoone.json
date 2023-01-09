@@ -19,32 +19,21 @@
     "Ability2": "Gluttony",
     "HiddenAbility": "Quick Feet",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Amateur",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "linoone-galar.png",
     "GoodStarter": false,
     "_id": "galarian-linoone",
-    "HasForm": false,
-    "Learnset": "Galarian Linoone-Learnset",
-    "Abilities": "Pickup / Gluttony (Quick Feet)",
-    "Type": "Dark / Normal",
     "DexCategory": "Rush Pokemon",
     "Height": {
-        "Deimeters": 5,
         "Meters": 0.5,
         "Feet": 1.6
     },
     "Weight": {
-        "Hectograms": 325,
         "Kilograms": 32.5,
         "Pounds": 71.7
     },
     "DexDescription": "It uses its long tongue to taunt its opponents. Once the foe is enraged, this Pokemon hurls itself at it, tackling them forcefully. They are bad-mannered and enjoy to thrash things about.",
-    "Baby": false,
-    "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Galarian Zigzagoon",
@@ -56,5 +45,6 @@
             "Kind": "Level",
             "Speed": "Medium"
         }
-    ]
+    ],
+    "Image": "linoone-galar.png"
 }

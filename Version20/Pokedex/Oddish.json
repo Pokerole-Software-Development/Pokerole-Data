@@ -19,37 +19,27 @@
     "Ability2": "",
     "HiddenAbility": "Run Away",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Beginner",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "oddish.png",
     "GoodStarter": true,
     "_id": "oddish",
-    "HasForm": false,
-    "Learnset": "Oddish-Learnset",
-    "Abilities": "Chlorophyll (Run Away)",
-    "Type": "Grass / Poison",
     "DexCategory": "Weed Pokemon",
     "Height": {
-        "Deimeters": 5,
         "Meters": 0.5,
         "Feet": 1.6
     },
     "Weight": {
-        "Hectograms": 54,
         "Kilograms": 5.4,
         "Pounds": 11.9
     },
     "DexDescription": "This Pokemon grows by absorbing moonlight. During daytime, it buries itself in the ground, leaving only its leaves exposed to avoid detection by its predators. You can locate it by the smell its leaves release.",
-    "Baby": false,
-    "PrimaryEggGroup": "Grass",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "To": "Gloom",
             "Kind": "Level",
             "Speed": "Medium"
         }
-    ]
+    ],
+    "Image": "oddish.png"
 }

@@ -19,37 +19,27 @@
     "Ability2": "",
     "HiddenAbility": "Gluttony",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Starter",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "skwovet.png",
     "GoodStarter": true,
     "_id": "skwovet",
-    "HasForm": false,
-    "Learnset": "Skwovet-Learnset",
-    "Abilities": "Cheek Pouch (Gluttony)",
-    "Type": "Normal",
     "DexCategory": "Cheeky Pokemon",
     "Height": {
-        "Deimeters": 3,
         "Meters": 0.3,
         "Feet": 1.0
     },
     "Weight": {
-        "Hectograms": 25,
         "Kilograms": 2.5,
         "Pounds": 5.5
     },
     "DexDescription": "They love to feed on berries and nuts they store on their cheeks, they can get very anxious if its cheeks are empty. If you feed one of them they will follow you and call for others so you feed them as well.",
-    "Baby": false,
-    "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "To": "Greedent",
             "Kind": "Level",
             "Speed": "Medium"
         }
-    ]
+    ],
+    "Image": "skwovet.png"
 }

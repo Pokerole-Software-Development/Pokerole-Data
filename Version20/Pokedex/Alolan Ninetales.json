@@ -19,37 +19,27 @@
     "Ability2": "",
     "HiddenAbility": "Snow Warning",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Amateur",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "ninetales-alola.png",
     "GoodStarter": false,
     "_id": "alolan-ninetales",
-    "HasForm": false,
-    "Learnset": "Alolan Ninetales-Learnset",
-    "Abilities": "Snow Cloak (Snow Warning)",
-    "Type": "Ice",
     "DexCategory": "Fox Pokemon",
     "Height": {
-        "Deimeters": 11,
         "Meters": 1.1,
         "Feet": 3.6
     },
     "Weight": {
-        "Hectograms": 199,
         "Kilograms": 19.9,
         "Pounds": 43.9
     },
     "DexDescription": "In old times, Alolan natives revered this Pokemon as a god incarnate. It is usually calm and benevolent, but it can be ruthless when disturbed, leaving its foes as a cold block of ice in the snow.",
-    "Baby": false,
-    "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Alolan Vulpix",
             "Kind": "Stone",
             "Item": "Ice Stone"
         }
-    ]
+    ],
+    "Image": "ninetales-alola.png"
 }

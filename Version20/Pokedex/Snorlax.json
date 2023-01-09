@@ -19,32 +19,21 @@
     "Ability2": "Thick Fat",
     "HiddenAbility": "Gluttony",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Amateur",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "snorlax.png",
     "GoodStarter": false,
     "_id": "snorlax",
-    "HasForm": false,
-    "Learnset": "Snorlax-Learnset",
-    "Abilities": "Immunity / Thick Fat (Gluttony)",
-    "Type": "Normal",
     "DexCategory": "Sleeping Pokemon",
     "Height": {
-        "Deimeters": 21,
         "Meters": 2.1,
         "Feet": 6.9
     },
     "Weight": {
-        "Hectograms": 4600,
         "Kilograms": 460.0,
         "Pounds": 1014.1
     },
     "DexDescription": "Snorlax's typical day consists of eating and sleeping. It is such a docile Pokemon that children use its big belly as a place to play. It only attacks when it\u2019s awoken harshly. Fortunately it is a heavy sleeper.",
-    "Baby": false,
-    "PrimaryEggGroup": "Monster",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Munchlax",
@@ -52,5 +41,6 @@
             "Stat": "Happiness",
             "Value": 4
         }
-    ]
+    ],
+    "Image": "snorlax.png"
 }

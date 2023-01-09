@@ -19,37 +19,27 @@
     "Ability2": "",
     "HiddenAbility": "Cursed Body",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Beginner",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "sinistea.png",
     "GoodStarter": true,
     "_id": "sinistea",
-    "HasForm": false,
-    "Learnset": "Sinistea-Learnset",
-    "Abilities": "Weak Armor (Cursed Body)",
-    "Type": "Ghost",
     "DexCategory": "Black Tea Pokemon",
     "Height": {
-        "Deimeters": 1,
         "Meters": 0.1,
         "Feet": 0.3
     },
     "Weight": {
-        "Hectograms": 2,
         "Kilograms": 0.2,
         "Pounds": 0.4
     },
     "DexDescription": "This Pokemon is said to have been born when a lonely spirit possessed a cold, leftover cup of tea. It absorbs the life-force of those who drink it but it tastes so bad that it gets spat out immediately.",
-    "Baby": false,
-    "PrimaryEggGroup": "Mineral",
-    "SecondaryEggGroup": "Amorphous",
     "Evolutions": [
         {
             "To": "Polteageist",
             "Kind": "Item",
             "Item": "Cracked Pot"
         }
-    ]
+    ],
+    "Image": "sinistea.png"
 }

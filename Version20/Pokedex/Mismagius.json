@@ -19,37 +19,27 @@
     "Ability2": "",
     "HiddenAbility": "",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Ace",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "mismagius.png",
     "GoodStarter": false,
     "_id": "mismagius",
-    "HasForm": false,
-    "Learnset": "Mismagius-Learnset",
-    "Abilities": "Levitate",
-    "Type": "Ghost",
     "DexCategory": "Magical Pokemon",
     "Height": {
-        "Deimeters": 9,
         "Meters": 0.9,
         "Feet": 3.0
     },
     "Weight": {
-        "Hectograms": 44,
         "Kilograms": 4.4,
         "Pounds": 9.7
     },
     "DexDescription": "Extremely rare. Their cries sound like incantations, hearing them gives you bad headaches and hallucinations. It is said that some Mismagius are benevolent and have granted good fortune to people they like.",
-    "Baby": false,
-    "PrimaryEggGroup": "Amorphous",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Misdreavus",
             "Kind": "Stone",
             "Item": "Dusk Stone"
         }
-    ]
+    ],
+    "Image": "mismagius.png"
 }

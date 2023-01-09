@@ -19,37 +19,27 @@
     "Ability2": "Mold Breaker",
     "HiddenAbility": "Unnerve",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Amateur",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "axew.png",
     "GoodStarter": true,
     "_id": "axew",
-    "HasForm": false,
-    "Learnset": "Axew-Learnset",
-    "Abilities": "Rivalry / Mold Breaker (Unnerve)",
-    "Type": "Dragon",
     "DexCategory": "Tusk Pokemon",
     "Height": {
-        "Deimeters": 6,
         "Meters": 0.6,
         "Feet": 2.0
     },
     "Weight": {
-        "Hectograms": 180,
         "Kilograms": 18.0,
         "Pounds": 39.7
     },
     "DexDescription": "They mark their territory by leaving gashes in trees with their tusks. If a tusk breaks, a new one grows back quickly. They fight each other to see who\u2019s got the sharpest tusks. Only the strongest ever evolve.",
-    "Baby": false,
-    "PrimaryEggGroup": "Monster",
-    "SecondaryEggGroup": "Dragon",
     "Evolutions": [
         {
             "To": "Fraxure",
             "Kind": "Level",
             "Speed": "Slow"
         }
-    ]
+    ],
+    "Image": "axew.png"
 }

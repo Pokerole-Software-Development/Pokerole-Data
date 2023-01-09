@@ -19,32 +19,21 @@
     "Ability2": "",
     "HiddenAbility": "Symbiosis",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Beginner",
     "GenderType": "F",
     "Legendary": false,
-    "Sprite": "floette.png",
     "GoodStarter": false,
     "_id": "floette",
-    "HasForm": false,
-    "Learnset": "Floette-Learnset",
-    "Abilities": "Flower Veil (Symbiosis)",
-    "Type": "Fairy",
     "DexCategory": "Fairy Pokemon",
     "Height": {
-        "Deimeters": 2,
         "Meters": 0.2,
         "Feet": 0.7
     },
     "Weight": {
-        "Hectograms": 9,
         "Kilograms": 0.9,
         "Pounds": 2.0
     },
     "DexDescription": "It flutters around flower meadows and takes care of buds that are starting to wilt. People who fill their gardens with their preferred flower receive its visit every spring. They are loyal and caring Pokemon.",
-    "Baby": false,
-    "PrimaryEggGroup": "Fairy",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Flabebe",
@@ -56,5 +45,6 @@
             "Kind": "Stone",
             "Item": "Shiny Stone"
         }
-    ]
+    ],
+    "Image": "floette.png"
 }

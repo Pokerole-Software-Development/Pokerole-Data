@@ -19,32 +19,21 @@
     "Ability2": "",
     "HiddenAbility": "Unburden",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Ace",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "sceptile.png",
     "GoodStarter": false,
     "_id": "sceptile",
-    "HasForm": true,
-    "Learnset": "Sceptile-Learnset",
-    "Abilities": "Overgrow (Unburden)",
-    "Type": "Grass",
     "DexCategory": "Forest Pokemon",
     "Height": {
-        "Deimeters": 17,
         "Meters": 1.7,
         "Feet": 5.6
     },
     "Weight": {
-        "Hectograms": 522,
         "Kilograms": 52.2,
         "Pounds": 115.1
     },
     "DexDescription": "They raise trees with love and care and protect the jungles with their lives. Their tails can restore a plant\u2019s beauty. Sceptiles power is truly unmatched in their habitats. They are very proud, though.",
-    "Baby": false,
-    "PrimaryEggGroup": "Monster",
-    "SecondaryEggGroup": "Dragon",
     "Evolutions": [
         {
             "From": "Grovyle",
@@ -56,5 +45,6 @@
             "Kind": "Mega",
             "Item": "Sceptilite"
         }
-    ]
+    ],
+    "Image": "sceptile.png"
 }

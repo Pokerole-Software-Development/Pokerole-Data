@@ -19,37 +19,27 @@
     "Ability2": "Infiltrator",
     "HiddenAbility": "Cursed Body",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Starter",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "dreepy.png",
     "GoodStarter": true,
     "_id": "dreepy",
-    "HasForm": false,
-    "Learnset": "Dreepy-Learnset",
-    "Abilities": "Clear Body / Infiltrator (Cursed Body)",
-    "Type": "Dragon / Ghost",
     "DexCategory": "Lingering Pokemon",
     "Height": {
-        "Deimeters": 5,
         "Meters": 0.5,
         "Feet": 1.6
     },
     "Weight": {
-        "Hectograms": 20,
         "Kilograms": 2.0,
         "Pounds": 4.4
     },
     "DexDescription": "After being reborn as a ghost, Dreepy wanders the areas it used to inhabit back when it was alive in prehistoric seas. Alone they do not pose much of a threat but if they gather in packs you\u2019ll be in trouble.",
-    "Baby": false,
-    "PrimaryEggGroup": "Amorphous",
-    "SecondaryEggGroup": "Dragon",
     "Evolutions": [
         {
             "To": "Drakloak",
             "Kind": "Level",
             "Speed": "Slow"
         }
-    ]
+    ],
+    "Image": "dreepy.png"
 }

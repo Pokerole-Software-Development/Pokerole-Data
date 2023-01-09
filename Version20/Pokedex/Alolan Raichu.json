@@ -19,32 +19,21 @@
     "Ability2": "",
     "HiddenAbility": "",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Amateur",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "raichu-alola.png",
     "GoodStarter": false,
     "_id": "alolan-raichu",
-    "HasForm": false,
-    "Learnset": "Alolan Raichu-Learnset",
-    "Abilities": "Surge Surfer",
-    "Type": "Electric / Psychic",
     "DexCategory": "Mouse Pokemon",
     "Height": {
-        "Deimeters": 7,
         "Meters": 0.7,
         "Feet": 2.3
     },
     "Weight": {
-        "Hectograms": 210,
         "Kilograms": 21.0,
         "Pounds": 46.3
     },
     "DexDescription": "Scientists were baffled to discover Raichu's evolution in the Alola Region. There is no explanation as to how it gained Psychic abilities, but diet seems to be factor. It loves sweet food and pancakes.",
-    "Baby": false,
-    "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": "Fairy",
     "Evolutions": [
         {
             "From": "Pikachu",
@@ -52,5 +41,6 @@
             "Item": "Thunder Stone",
             "Region": "Alola"
         }
-    ]
+    ],
+    "Image": "raichu-alola.png"
 }

@@ -19,37 +19,27 @@
     "Ability2": "",
     "HiddenAbility": "Ice Body",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Amateur",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "glaceon.png",
     "GoodStarter": false,
     "_id": "glaceon",
-    "HasForm": false,
-    "Learnset": "Glaceon-Learnset",
-    "Abilities": "Snow Cloak (Ice Body)",
-    "Type": "Ice",
     "DexCategory": "Fresh Snow Pokemon",
     "Height": {
-        "Deimeters": 8,
         "Meters": 0.8,
         "Feet": 2.6
     },
     "Weight": {
-        "Hectograms": 259,
         "Kilograms": 25.9,
         "Pounds": 57.1
     },
     "DexDescription": "Eevees that are forced to live in freezing temperatures evolve into this Pokemon. It can control its body temperature to below zero, freezing its fur and making it extremely tough.",
-    "Baby": false,
-    "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Eevee",
             "Kind": "Stone",
             "Item": "Ice Stone"
         }
-    ]
+    ],
+    "Image": "glaceon.png"
 }

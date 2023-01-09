@@ -19,37 +19,27 @@
     "Ability2": "Strong Jaw",
     "HiddenAbility": "Adaptability",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Beginner",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "yungoos.png",
     "GoodStarter": true,
     "_id": "yungoos",
-    "HasForm": false,
-    "Learnset": "Yungoos-Learnset",
-    "Abilities": "Stakeout / Strong Jaw (Adaptability)",
-    "Type": "Normal",
     "DexCategory": "Loitering Pokemon",
     "Height": {
-        "Deimeters": 4,
         "Meters": 0.4,
         "Feet": 1.3
     },
     "Weight": {
-        "Hectograms": 60,
         "Kilograms": 6.0,
         "Pounds": 13.2
     },
     "DexDescription": "This Pokemon was brought to Alola in an attempt to eradicate Ratatta. It spends all day searching for prey and it\u2019s constantly hungry. when the sun sets it falls asleep right where it was standing.",
-    "Baby": false,
-    "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "To": "Gumshoos",
             "Kind": "Level",
             "Speed": "Medium"
         }
-    ]
+    ],
+    "Image": "yungoos.png"
 }

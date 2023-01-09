@@ -19,32 +19,21 @@
     "Ability2": "",
     "HiddenAbility": "Sniper",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Amateur",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "drizzile.png",
     "GoodStarter": false,
     "_id": "drizzile",
-    "HasForm": false,
-    "Learnset": "Drizzile-Learnset",
-    "Abilities": "Torrent (Sniper)",
-    "Type": "Water",
     "DexCategory": "Water Lizard Pokemon",
     "Height": {
-        "Deimeters": 7,
         "Meters": 0.7,
         "Feet": 2.3
     },
     "Weight": {
-        "Hectograms": 115,
         "Kilograms": 11.5,
         "Pounds": 25.4
     },
     "DexDescription": "Its demeanor changes drastically from shy to aloof and lazy. It can create water balloons with the moisture secreted from its paws. It is incredibly intelligent and is known to lay traps for others in the wild.",
-    "Baby": false,
-    "PrimaryEggGroup": "Water 1",
-    "SecondaryEggGroup": "Field",
     "Evolutions": [
         {
             "From": "Sobble",
@@ -56,5 +45,6 @@
             "Kind": "Level",
             "Speed": "Medium"
         }
-    ]
+    ],
+    "Image": "drizzile.png"
 }

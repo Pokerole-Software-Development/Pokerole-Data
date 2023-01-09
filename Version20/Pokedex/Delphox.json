@@ -19,37 +19,27 @@
     "Ability2": "",
     "HiddenAbility": "Magician",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Ace",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "delphox.png",
     "GoodStarter": false,
     "_id": "delphox",
-    "HasForm": false,
-    "Learnset": "Delphox-Learnset",
-    "Abilities": "Blaze (Magician)",
-    "Type": "Fire / Psychic",
     "DexCategory": "Fox Pokemon",
     "Height": {
-        "Deimeters": 15,
         "Meters": 1.5,
         "Feet": 4.9
     },
     "Weight": {
-        "Hectograms": 390,
         "Kilograms": 39.0,
         "Pounds": 86.0
     },
     "DexDescription": "It swirls its twig to create amazing flamethrowers. It gazes into the flame at the tip of its stick to achieve a focused state and rumor says that it can see the future within the glowing ember.",
-    "Baby": false,
-    "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Braixen",
             "Kind": "Level",
             "Speed": "Medium"
         }
-    ]
+    ],
+    "Image": "delphox.png"
 }

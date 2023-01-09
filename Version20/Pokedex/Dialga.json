@@ -19,31 +19,21 @@
     "Ability2": "",
     "HiddenAbility": "Telepathy",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Master",
     "GenderType": "N",
     "Legendary": true,
-    "Sprite": "dialga.png",
     "GoodStarter": false,
     "_id": "dialga",
-    "HasForm": false,
-    "Learnset": "Dialga-Learnset",
-    "Abilities": "Pressure (Telepathy)",
-    "Type": "Steel / Dragon",
     "DexCategory": "No Data",
     "Height": {
-        "Deimeters": 54,
         "Meters": 5.4,
         "Feet": 17.7
     },
     "Weight": {
-        "Hectograms": 6830,
         "Kilograms": 683.0,
         "Pounds": 1505.8
     },
     "DexDescription": "In some religions there is a being called \u201cThe God of Time\u201d whose first roar brought future, present and past.",
-    "Baby": false,
-    "PrimaryEggGroup": "Undiscovered",
-    "SecondaryEggGroup": "",
-    "Evolutions": []
+    "Evolutions": [],
+    "Image": "dialga.png"
 }

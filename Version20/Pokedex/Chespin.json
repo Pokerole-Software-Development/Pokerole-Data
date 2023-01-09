@@ -19,37 +19,27 @@
     "Ability2": "",
     "HiddenAbility": "Bulletproof",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Starter",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "chespin.png",
     "GoodStarter": true,
     "_id": "chespin",
-    "HasForm": false,
-    "Learnset": "Chespin-Learnset",
-    "Abilities": "Overgrow (Bulletproof)",
-    "Type": "Grass",
     "DexCategory": "Spiky Nut Pokemon",
     "Height": {
-        "Deimeters": 4,
         "Meters": 0.4,
         "Feet": 1.3
     },
     "Weight": {
-        "Hectograms": 90,
         "Kilograms": 9.0,
         "Pounds": 19.8
     },
     "DexDescription": "A small and curious Pokemon. They are rare to find but their nests have been found on chestnut trees. Their heads are covered by spikes and if there\u2019s a threat they roll into balls to protect themselves.",
-    "Baby": false,
-    "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "To": "Quilladin",
             "Kind": "Level",
             "Speed": "Medium"
         }
-    ]
+    ],
+    "Image": "chespin.png"
 }

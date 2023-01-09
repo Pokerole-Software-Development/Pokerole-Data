@@ -19,32 +19,21 @@
     "Ability2": "",
     "HiddenAbility": "Marvel Scale",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Ace",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "dragonair.png",
     "GoodStarter": false,
     "_id": "dragonair",
-    "HasForm": false,
-    "Learnset": "Dragonair-Learnset",
-    "Abilities": "Shed Skin (Marvel Scale)",
-    "Type": "Dragon",
     "DexCategory": "Dragon Pokemon",
     "Height": {
-        "Deimeters": 40,
         "Meters": 4.0,
         "Feet": 13.1
     },
     "Weight": {
-        "Hectograms": 165,
         "Kilograms": 16.5,
         "Pounds": 36.4
     },
     "DexDescription": "It is said to live in seas and lakes. Even though it has no wings, it has been depicted flying. There were legends of this Pokemon controlling the weather and ending the storms to leave a rainbow behind.",
-    "Baby": false,
-    "PrimaryEggGroup": "Water 1",
-    "SecondaryEggGroup": "Dragon",
     "Evolutions": [
         {
             "From": "Dratini",
@@ -56,5 +45,6 @@
             "Kind": "Level",
             "Speed": "Slow"
         }
-    ]
+    ],
+    "Image": "dragonair.png"
 }

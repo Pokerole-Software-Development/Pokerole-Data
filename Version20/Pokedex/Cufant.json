@@ -19,37 +19,27 @@
     "Ability2": "",
     "HiddenAbility": "Heavy Metal",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Beginner",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "cufant.png",
     "GoodStarter": true,
     "_id": "cufant",
-    "HasForm": false,
-    "Learnset": "Cufant-Learnset",
-    "Abilities": "Sheer Force (Heavy Metal)",
-    "Type": "Steel",
     "DexCategory": "Copperderm Pokemon",
     "Height": {
-        "Deimeters": 12,
         "Meters": 1.2,
         "Feet": 3.9
     },
     "Weight": {
-        "Hectograms": 1000,
         "Kilograms": 100.0,
         "Pounds": 220.5
     },
     "DexDescription": "If a job requires serious strength, this Pokemon will excel at it. Its copper body tarnishes in the rain, turning a vibrant green color. Its trunk is specially designed to dig the ground, in the wild they uproot trees to eat.",
-    "Baby": false,
-    "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": "Mineral",
     "Evolutions": [
         {
             "To": "Copperajah",
             "Kind": "Level",
             "Speed": "Medium"
         }
-    ]
+    ],
+    "Image": "cufant.png"
 }

@@ -19,37 +19,27 @@
     "Ability2": "Sap Sipper",
     "HiddenAbility": "Serene Grace",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Starter",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "deerling.png",
     "GoodStarter": true,
     "_id": "deerling",
-    "HasForm": false,
-    "Learnset": "Deerling-Learnset",
-    "Abilities": "Chlorophyll / Sap Sipper (Serene Grace)",
-    "Type": "Normal / Grass",
     "DexCategory": "Season Pokemon",
     "Height": {
-        "Deimeters": 6,
         "Meters": 0.6,
         "Feet": 2.0
     },
     "Weight": {
-        "Hectograms": 195,
         "Kilograms": 19.5,
         "Pounds": 43.0
     },
     "DexDescription": "They are born at the beginning of the spring. Their coloring changes according to the season and can be affected by temperature as well. It usually stays hidden in tall grass while its mother is away.",
-    "Baby": false,
-    "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "To": "Sawsbuck",
             "Kind": "Level",
             "Speed": "Medium"
         }
-    ]
+    ],
+    "Image": "deerling.png"
 }

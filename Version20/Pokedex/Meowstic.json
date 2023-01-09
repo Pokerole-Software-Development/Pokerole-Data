@@ -19,37 +19,27 @@
     "Ability2": "Infiltrator",
     "HiddenAbility": "Prankster",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Amateur",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "meowstic.png",
     "GoodStarter": false,
     "_id": "meowstic",
-    "HasForm": false,
-    "Learnset": "Meowstic-Learnset",
-    "Abilities": "Keen Eye / Infiltrator (Prankster)",
-    "Type": "Psychic",
     "DexCategory": "Constraint Pokemon",
     "Height": {
-        "Deimeters": 6,
         "Meters": 0.6,
         "Feet": 2.0
     },
     "Weight": {
-        "Hectograms": 85,
         "Kilograms": 8.5,
         "Pounds": 18.7
     },
     "DexDescription": "The eye patterns on the interior of its ears emit psychic energy. It keeps them tightly covered because the power can be overwhelming. Females are white in color and more aggressive than the males.",
-    "Baby": false,
-    "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Espurr",
             "Kind": "Level",
             "Speed": "Medium"
         }
-    ]
+    ],
+    "Image": "meowstic.png"
 }

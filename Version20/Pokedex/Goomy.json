@@ -19,37 +19,27 @@
     "Ability2": "Hydration",
     "HiddenAbility": "Gooey",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Starter",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "goomy.png",
     "GoodStarter": true,
     "_id": "goomy",
-    "HasForm": false,
-    "Learnset": "Goomy-Learnset",
-    "Abilities": "Sap Sipper / Hydration (Gooey)",
-    "Type": "Dragon",
     "DexCategory": "Soft Tissue Pokemon",
     "Height": {
-        "Deimeters": 3,
         "Meters": 0.3,
         "Feet": 1.0
     },
     "Weight": {
-        "Hectograms": 28,
         "Kilograms": 2.8,
         "Pounds": 6.2
     },
     "DexDescription": "The weakest but best tempered Dragon Pokemon known. It lives in damp and shady places, so its body doesn\u2019t dry out. It\u2019s covered in a slimy membrane that makes things slide off of it.",
-    "Baby": false,
-    "PrimaryEggGroup": "Dragon",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "To": "Sliggoo",
             "Kind": "Level",
             "Speed": "Medium"
         }
-    ]
+    ],
+    "Image": "goomy.png"
 }

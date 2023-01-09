@@ -19,37 +19,27 @@
     "Ability2": "Shield Dust",
     "HiddenAbility": "Sweet Veil",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Starter",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "cutiefly.png",
     "GoodStarter": true,
     "_id": "cutiefly",
-    "HasForm": false,
-    "Learnset": "Cutiefly-Learnset",
-    "Abilities": "Honey Gather / Shield Dust (Sweet Veil)",
-    "Type": "Bug / Fairy",
     "DexCategory": "Bee Fly Pokemon",
     "Height": {
-        "Deimeters": 1,
         "Meters": 0.1,
         "Feet": 0.3
     },
     "Weight": {
-        "Hectograms": 2,
         "Kilograms": 0.2,
         "Pounds": 0.4
     },
     "DexDescription": "These delicate Pokemon gather by the numbers in flower meadows. They are attracted to happy and joyful people, the story says that Cutiefly see their auras and they resemble flowers.",
-    "Baby": false,
-    "PrimaryEggGroup": "Bug",
-    "SecondaryEggGroup": "Fairy",
     "Evolutions": [
         {
             "To": "Ribombee",
             "Kind": "Level",
             "Speed": "Medium"
         }
-    ]
+    ],
+    "Image": "cutiefly.png"
 }

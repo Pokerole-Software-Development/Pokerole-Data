@@ -19,37 +19,27 @@
     "Ability2": "",
     "HiddenAbility": "",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Pro",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "blastoise-mega.png",
     "GoodStarter": false,
     "_id": "mega-blastoise",
-    "HasForm": false,
-    "Learnset": "Mega-Blastoise-Learnset",
-    "Abilities": "Mega Launcher",
-    "Type": "Water",
     "DexCategory": "Shellfish Pokemon",
     "Height": {
-        "Deimeters": 16,
         "Meters": 1.6,
         "Feet": 5.2
     },
     "Weight": {
-        "Hectograms": 1011,
         "Kilograms": 101.1,
         "Pounds": 222.9
     },
     "DexDescription": "With the power of the Mega Stone the canon on its back can shoot exploding water projectiles that can pierce through concrete. Its body is incredibly hard and its hind legs root themselves to prevent recoil.",
-    "Baby": false,
-    "PrimaryEggGroup": "Monster",
-    "SecondaryEggGroup": "Water 1",
     "Evolutions": [
         {
             "From": "Blastoise",
             "Kind": "Mega",
             "Item": "Blastoisinite"
         }
-    ]
+    ],
+    "Image": "blastoise-mega.png"
 }

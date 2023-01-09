@@ -19,37 +19,27 @@
     "Ability2": "Storm Drain",
     "HiddenAbility": "Water Veil",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Amateur",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "lumineon.png",
     "GoodStarter": false,
     "_id": "lumineon",
-    "HasForm": false,
-    "Learnset": "Lumineon-Learnset",
-    "Abilities": "Swift Swim / Storm Drain (Water Veil)",
-    "Type": "Water",
     "DexCategory": "Neon Pokemon",
     "Height": {
-        "Deimeters": 12,
         "Meters": 1.2,
         "Feet": 3.9
     },
     "Weight": {
-        "Hectograms": 240,
         "Kilograms": 24.0,
         "Pounds": 52.9
     },
     "DexDescription": "It lives in the deep-sea bottom. It attracts prey by flashing the patterns on its tail fins. In the wild it competes against Lanturn for food. Its main predators are Tentacruel and Sharpedo.",
-    "Baby": false,
-    "PrimaryEggGroup": "Water 2",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Finneon",
             "Kind": "Level",
             "Speed": "Medium"
         }
-    ]
+    ],
+    "Image": "lumineon.png"
 }

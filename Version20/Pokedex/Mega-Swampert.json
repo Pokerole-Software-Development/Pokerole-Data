@@ -19,37 +19,27 @@
     "Ability2": "",
     "HiddenAbility": "",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Pro",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "swampert-mega.png",
     "GoodStarter": false,
     "_id": "mega-swampert",
-    "HasForm": false,
-    "Learnset": "Mega-Swampert-Learnset",
-    "Abilities": "Swift Swim",
-    "Type": "Water / Ground",
     "DexCategory": "Mud Fish Pokemon",
     "Height": {
-        "Deimeters": 19,
         "Meters": 1.9,
         "Feet": 6.2
     },
     "Weight": {
-        "Hectograms": 1020,
         "Kilograms": 102.0,
         "Pounds": 224.9
     },
     "DexDescription": "The power of the Mega Stone increases its muscle strength, it would appear to be slower but its skin is so slippy it allows it to quickly slide over puddles and mud. It also becomes a bit bolder and moody.",
-    "Baby": false,
-    "PrimaryEggGroup": "Monster",
-    "SecondaryEggGroup": "Water 1",
     "Evolutions": [
         {
             "From": "Swampert",
             "Kind": "Mega",
             "Item": "Swampertite"
         }
-    ]
+    ],
+    "Image": "swampert-mega.png"
 }

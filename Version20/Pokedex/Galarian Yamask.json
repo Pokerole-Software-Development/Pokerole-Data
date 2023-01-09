@@ -19,37 +19,27 @@
     "Ability2": "",
     "HiddenAbility": "",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Amateur",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "yamask-galar.png",
     "GoodStarter": true,
     "_id": "galarian-yamask",
-    "HasForm": false,
-    "Learnset": "Galarian Yamask-Learnset",
-    "Abilities": "Wandering Spirit",
-    "Type": "Ground / Ghost",
     "DexCategory": "Spirit Pokemon",
     "Height": {
-        "Deimeters": 5,
         "Meters": 0.5,
         "Feet": 1.6
     },
     "Weight": {
-        "Hectograms": 15,
         "Kilograms": 1.5,
         "Pounds": 3.3
     },
     "DexDescription": "It\u2019s said that this Pokemon was formed when an ancient clay tablet was drawn to the dark energy of a spirit. The clay slab seems to be absorbing Yamask's power that\u2019s why it is so pale.",
-    "Baby": false,
-    "PrimaryEggGroup": "Mineral",
-    "SecondaryEggGroup": "Amorphous",
     "Evolutions": [
         {
             "To": "Runerigus",
             "Kind": "Special",
             "Special": "Walk near a rune Painting"
         }
-    ]
+    ],
+    "Image": "yamask-galar.png"
 }

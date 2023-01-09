@@ -19,32 +19,21 @@
     "Ability2": "",
     "HiddenAbility": "Speed Boost",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Ace",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "sharpedo.png",
     "GoodStarter": false,
     "_id": "sharpedo",
-    "HasForm": true,
-    "Learnset": "Sharpedo-Learnset",
-    "Abilities": "Rough Skin (Speed Boost)",
-    "Type": "Water / Dark",
     "DexCategory": "Brutal Pokemon",
     "Height": {
-        "Deimeters": 18,
         "Meters": 1.8,
         "Feet": 5.9
     },
     "Weight": {
-        "Hectograms": 888,
         "Kilograms": 88.8,
         "Pounds": 195.8
     },
     "DexDescription": "Known as the \u201cBully of the Sea\u201d, widely feared for its cruelty, malice and gangster attitude. They hurt Pokemon for fun and sink boats for sport. Sharpedos are among the fastest swimmers.",
-    "Baby": false,
-    "PrimaryEggGroup": "Water 2",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Carvanha",
@@ -56,5 +45,6 @@
             "Kind": "Mega",
             "Item": "Sharpedonite"
         }
-    ]
+    ],
+    "Image": "sharpedo.png"
 }

@@ -19,37 +19,27 @@
     "Ability2": "Solar Power",
     "HiddenAbility": "Early Bird",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Starter",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "sunkern.png",
     "GoodStarter": true,
     "_id": "sunkern",
-    "HasForm": false,
-    "Learnset": "Sunkern-Learnset",
-    "Abilities": "Chlorophyll / Solar Power (Early Bird)",
-    "Type": "Grass",
     "DexCategory": "Seed Pokemon",
     "Height": {
-        "Deimeters": 3,
         "Meters": 0.3,
         "Feet": 1.0
     },
     "Weight": {
-        "Hectograms": 18,
         "Kilograms": 1.8,
         "Pounds": 4.0
     },
     "DexDescription": "They suddenly appear after a cold winter. They survive by drinking only dewdrops from under the leaves of plants. It tries not to move a lot since lots of bird Pokemon prey on them.",
-    "Baby": false,
-    "PrimaryEggGroup": "Grass",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "To": "Sunflora",
             "Kind": "Stone",
             "Item": "Sun Stone"
         }
-    ]
+    ],
+    "Image": "sunkern.png"
 }

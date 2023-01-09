@@ -19,37 +19,27 @@
     "Ability2": "",
     "HiddenAbility": "",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Master",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "tyranitar-mega.png",
     "GoodStarter": false,
     "_id": "mega-tyranitar",
-    "HasForm": false,
-    "Learnset": "Mega-Tyranitar-Learnset",
-    "Abilities": "Sand Stream",
-    "Type": "Rock / Dark",
     "DexCategory": "Armor Pokemon",
     "Height": {
-        "Deimeters": 25,
         "Meters": 2.5,
         "Feet": 8.2
     },
     "Weight": {
-        "Hectograms": 2550,
         "Kilograms": 255.0,
         "Pounds": 562.2
     },
     "DexDescription": "The power of the Mega Stone is so overwhelming it splits its back open. It becomes overwhelmed by its ferocious instincts and it\u2019s unclear if it can even hear its Trainer through the pain and rage.",
-    "Baby": false,
-    "PrimaryEggGroup": "Monster",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Tyranitar",
             "Kind": "Mega",
             "Item": "Tyranitarite"
         }
-    ]
+    ],
+    "Image": "tyranitar-mega.png"
 }

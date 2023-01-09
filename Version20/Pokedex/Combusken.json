@@ -19,32 +19,21 @@
     "Ability2": "",
     "HiddenAbility": "Speed Boost",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Amateur",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "combusken.png",
     "GoodStarter": false,
     "_id": "combusken",
-    "HasForm": false,
-    "Learnset": "Combusken-Learnset",
-    "Abilities": "Blaze (Speed Boost)",
-    "Type": "Fire / Fighting",
     "DexCategory": "Young Fowl Pokemon",
     "Height": {
-        "Deimeters": 9,
         "Meters": 0.9,
         "Feet": 3.0
     },
     "Weight": {
-        "Hectograms": 195,
         "Kilograms": 19.5,
         "Pounds": 43.0
     },
     "DexDescription": "Once Torchic toughened up its legs and thighs, they like to run and love to kick. They have an offensive instinct to keep attacking no matter what. They sqwak loudly every morning when they start to train.",
-    "Baby": false,
-    "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Torchic",
@@ -56,5 +45,6 @@
             "Kind": "Level",
             "Speed": "Medium"
         }
-    ]
+    ],
+    "Image": "combusken.png"
 }

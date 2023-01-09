@@ -19,37 +19,27 @@
     "Ability2": "",
     "HiddenAbility": "Soundproof",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Amateur",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "snover.png",
     "GoodStarter": true,
     "_id": "snover",
-    "HasForm": false,
-    "Learnset": "Snover-Learnset",
-    "Abilities": "Snow Warning (Soundproof)",
-    "Type": "Grass / Ice",
     "DexCategory": "Frosted Tree Pokemon",
     "Height": {
-        "Deimeters": 10,
         "Meters": 1.0,
         "Feet": 3.3
     },
     "Weight": {
-        "Hectograms": 505,
         "Kilograms": 50.5,
         "Pounds": 111.3
     },
     "DexDescription": "During cold seasons, it migrates to the mountain\u2019s lower reaches and returns to the summit in the spring. They are rarely in contact with humans but are sought for the frozen berries they grow.",
-    "Baby": false,
-    "PrimaryEggGroup": "Monster",
-    "SecondaryEggGroup": "Grass",
     "Evolutions": [
         {
             "To": "Abomasnow",
             "Kind": "Level",
             "Speed": "Medium"
         }
-    ]
+    ],
+    "Image": "snover.png"
 }

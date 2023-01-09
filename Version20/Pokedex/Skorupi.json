@@ -19,37 +19,27 @@
     "Ability2": "Sniper",
     "HiddenAbility": "Keen Eye",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Beginner",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "skorupi.png",
     "GoodStarter": true,
     "_id": "skorupi",
-    "HasForm": false,
-    "Learnset": "Skorupi-Learnset",
-    "Abilities": "Battle Armor / Sniper (Keen Eye)",
-    "Type": "Poison / Bug",
     "DexCategory": "Scorpion Pokemon",
     "Height": {
-        "Deimeters": 8,
         "Meters": 0.8,
         "Feet": 2.6
     },
     "Weight": {
-        "Hectograms": 120,
         "Kilograms": 12.0,
         "Pounds": 26.5
     },
     "DexDescription": "It lives in deserts and arid regions. It buries itself under the sand, waiting for an unsuspecting prey to come nearby. It will then sting the prey and cling to it tenaciously until the poison takes effect.",
-    "Baby": false,
-    "PrimaryEggGroup": "Bug",
-    "SecondaryEggGroup": "Water 3",
     "Evolutions": [
         {
             "To": "Drapion",
             "Kind": "Level",
             "Speed": "Medium"
         }
-    ]
+    ],
+    "Image": "skorupi.png"
 }

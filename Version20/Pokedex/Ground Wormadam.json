@@ -19,32 +19,21 @@
     "Ability2": "Compound Eyes",
     "HiddenAbility": "Overcoat",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Beginner",
     "GenderType": "F",
     "Legendary": false,
-    "Sprite": "wormadamground.png",
     "GoodStarter": false,
     "_id": "ground-wormadam",
-    "HasForm": true,
-    "Learnset": "Ground Wormadam-Learnset",
-    "Abilities": "Speed Boost / Compound Eyes (Overcoat)",
-    "Type": "Bug / Ground",
     "DexCategory": "Bagworm Pokemon",
     "Height": {
-        "Deimeters": 5,
         "Meters": 0.5,
         "Feet": 1.6
     },
     "Weight": {
-        "Hectograms": 65,
         "Kilograms": 6.5,
         "Pounds": 14.3
     },
     "DexDescription": "When Burmy evolved, its Sand cloak became a part of its body. For this reason there are many variations in body and type. It is a calm Pokemon that loves odd-shaped stones. This Pokemon is female only.",
-    "Baby": false,
-    "PrimaryEggGroup": "Bug",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Burmy",
@@ -52,5 +41,6 @@
             "Speed": "Fast",
             "Gender": "Female"
         }
-    ]
+    ],
+    "Image": "wormadamground.png"
 }

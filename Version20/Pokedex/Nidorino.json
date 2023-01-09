@@ -19,32 +19,21 @@
     "Ability2": "Rivalry",
     "HiddenAbility": "Hustle",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Amateur",
     "GenderType": "M",
     "Legendary": false,
-    "Sprite": "nidorino.png",
     "GoodStarter": false,
     "_id": "nidorino",
-    "HasForm": false,
-    "Learnset": "Nidorino-Learnset",
-    "Abilities": "Poison Point / Rivalry (Hustle)",
-    "Type": "Poison",
     "DexCategory": "Poison Pin Pokemon",
     "Height": {
-        "Deimeters": 9,
         "Meters": 0.9,
         "Feet": 3.0
     },
     "Weight": {
-        "Hectograms": 195,
         "Kilograms": 19.5,
         "Pounds": 43.0
     },
     "DexDescription": "An independent and fierce creature. It roams alone in search for a mate and will compete with other males around. It will violently charge with a venom drenched horn against intruders.",
-    "Baby": false,
-    "PrimaryEggGroup": "Monster",
-    "SecondaryEggGroup": "Field",
     "Evolutions": [
         {
             "From": "Nidoran M",
@@ -56,5 +45,6 @@
             "Kind": "Stone",
             "Item": "Moon Stone"
         }
-    ]
+    ],
+    "Image": "nidorino.png"
 }

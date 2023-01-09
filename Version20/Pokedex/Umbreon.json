@@ -19,32 +19,21 @@
     "Ability2": "",
     "HiddenAbility": "Inner Focus",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Amateur",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "umbreon.png",
     "GoodStarter": false,
     "_id": "umbreon",
-    "HasForm": false,
-    "Learnset": "Umbreon-Learnset",
-    "Abilities": "Synchronize (Inner Focus)",
-    "Type": "Dark",
     "DexCategory": "Moonlight Pokemon",
     "Height": {
-        "Deimeters": 10,
         "Meters": 1.0,
         "Feet": 3.3
     },
     "Weight": {
-        "Hectograms": 270,
         "Kilograms": 27.0,
         "Pounds": 59.5
     },
     "DexDescription": "Umbreon evolved from exposure to the moon\u2019s energy pulses. It lurks in darkness and waits for its foes to move. The rings on its body glow when it leaps to attack. Its fur is drenched with poison.",
-    "Baby": false,
-    "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Eevee",
@@ -53,5 +42,6 @@
             "Value": 4,
             "Special": "Moonlight"
         }
-    ]
+    ],
+    "Image": "umbreon.png"
 }

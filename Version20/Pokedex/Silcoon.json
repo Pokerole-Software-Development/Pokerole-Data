@@ -19,32 +19,21 @@
     "Ability2": "",
     "HiddenAbility": "",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Beginner",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "silcoon.png",
     "GoodStarter": true,
     "_id": "silcoon",
-    "HasForm": false,
-    "Learnset": "Silcoon-Learnset",
-    "Abilities": "Shed Skin",
-    "Type": "Bug",
     "DexCategory": "Cocoon Pokemon",
     "Height": {
-        "Deimeters": 6,
         "Meters": 0.6,
         "Feet": 2.0
     },
     "Weight": {
-        "Hectograms": 100,
         "Kilograms": 10.0,
         "Pounds": 22.0
     },
     "DexDescription": "They tether themselves to tree branches while they wait to evolve. Sometimes they peek from a small hole in the cocoon. Silcoons feed only on raindrops. If Wrumple lived among flowers, it evolves to Silcoon.",
-    "Baby": false,
-    "PrimaryEggGroup": "Bug",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Wurmple",
@@ -56,5 +45,6 @@
             "Kind": "Level",
             "Speed": "Fast"
         }
-    ]
+    ],
+    "Image": "silcoon.png"
 }

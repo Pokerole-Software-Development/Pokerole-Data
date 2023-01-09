@@ -19,31 +19,21 @@
     "Ability2": "",
     "HiddenAbility": "Defiant",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Amateur",
     "GenderType": "N",
     "Legendary": false,
-    "Sprite": "falinks.png",
     "GoodStarter": false,
     "_id": "falinks",
-    "HasForm": false,
-    "Learnset": "Falinks-Learnset",
-    "Abilities": "Battle Armor (Defiant)",
-    "Type": "Fighting",
     "DexCategory": "Formation Pokemon",
     "Height": {
-        "Deimeters": 30,
         "Meters": 3.0,
         "Feet": 9.8
     },
     "Weight": {
-        "Hectograms": 620,
         "Kilograms": 62.0,
         "Pounds": 136.7
     },
     "DexDescription": "It is formed by six of them, five are troopers, and one is the brass. The brass\u2019s orders are absolute to the others, they work as a perfect team and can rearrange their formation to better suit them in battle.",
-    "Baby": false,
-    "PrimaryEggGroup": "Fairy",
-    "SecondaryEggGroup": "Mineral",
-    "Evolutions": []
+    "Evolutions": [],
+    "Image": "falinks.png"
 }

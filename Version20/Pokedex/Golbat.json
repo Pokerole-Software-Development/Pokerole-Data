@@ -19,32 +19,21 @@
     "Ability2": "",
     "HiddenAbility": "Infiltrator",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Amateur",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "golbat.png",
     "GoodStarter": false,
     "_id": "golbat",
-    "HasForm": false,
-    "Learnset": "Golbat-Learnset",
-    "Abilities": "Inner Focus (Infiltrator)",
-    "Type": "Poison / Flying",
     "DexCategory": "Bat Pokemon",
     "Height": {
-        "Deimeters": 16,
         "Meters": 1.6,
         "Feet": 5.2
     },
     "Weight": {
-        "Hectograms": 550,
         "Kilograms": 55.0,
         "Pounds": 121.3
     },
     "DexDescription": "A stealthy Pokemon who loves the dark. Its fangs can puncture even a thick hide. It loves to feast on the blood of people and Pokemon alike. If it drinks too much, it gets heavy and can hardly fly.",
-    "Baby": false,
-    "PrimaryEggGroup": "Flying",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Zubat",
@@ -57,5 +46,6 @@
             "Stat": "Happiness",
             "Value": 4
         }
-    ]
+    ],
+    "Image": "golbat.png"
 }

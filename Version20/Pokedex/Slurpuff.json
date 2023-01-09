@@ -19,37 +19,27 @@
     "Ability2": "",
     "HiddenAbility": "Unburden",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Amateur",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "slurpuff.png",
     "GoodStarter": false,
     "_id": "slurpuff",
-    "HasForm": false,
-    "Learnset": "Slurpuff-Learnset",
-    "Abilities": "Sweet Veil (Unburden)",
-    "Type": "Fairy",
     "DexCategory": "Meringue Pokemon",
     "Height": {
-        "Deimeters": 8,
         "Meters": 0.8,
         "Feet": 2.6
     },
     "Weight": {
-        "Hectograms": 50,
         "Kilograms": 5.0,
         "Pounds": 11.0
     },
     "DexDescription": "This Pokemon lives in human cities and towns. It has an extremely keen sense of smell. It puts its sensitive nose to use by helping bakers and chefs to find the most delicious ingredients.",
-    "Baby": false,
-    "PrimaryEggGroup": "Fairy",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Swirlix",
             "Kind": "Trade",
             "Item": "Whipped Dream"
         }
-    ]
+    ],
+    "Image": "slurpuff.png"
 }

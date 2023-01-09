@@ -19,37 +19,27 @@
     "Ability2": "",
     "HiddenAbility": "",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Pro",
     "GenderType": "M",
     "Legendary": false,
-    "Sprite": "gallade-mega.png",
     "GoodStarter": false,
     "_id": "mega-gallade",
-    "HasForm": false,
-    "Learnset": "Mega-Gallade-Learnset",
-    "Abilities": "Inner Focus",
-    "Type": "Psychic / Fighting",
     "DexCategory": "Blade Pokemon",
     "Height": {
-        "Deimeters": 16,
         "Meters": 1.6,
         "Feet": 5.2
     },
     "Weight": {
-        "Hectograms": 564,
         "Kilograms": 56.4,
         "Pounds": 124.3
     },
     "DexDescription": "With the power of the Mega Stone it senses the emotions of others in a large radius and will go help anyone in need. It will only attack if it needs to defend someone or something. It is protective and brave.",
-    "Baby": false,
-    "PrimaryEggGroup": "Human-Like",
-    "SecondaryEggGroup": "Amorphous",
     "Evolutions": [
         {
             "From": "Gallade",
             "Kind": "Mega",
             "Item": "Galladite"
         }
-    ]
+    ],
+    "Image": "gallade-mega.png"
 }

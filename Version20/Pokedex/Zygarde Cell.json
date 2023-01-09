@@ -19,32 +19,21 @@
     "Ability2": "",
     "HiddenAbility": "",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Starter",
     "GenderType": "N",
     "Legendary": true,
-    "Sprite": "zygarde.png",
     "GoodStarter": false,
     "_id": "zygarde-cell",
-    "HasForm": true,
-    "Learnset": "Zygarde Cell-Learnset",
-    "Abilities": "Power Construct",
-    "Type": "Dragon / Ground",
     "DexCategory": "No Data",
     "Height": {
-        "Deimeters": 2,
         "Meters": 0.2,
         "Feet": 0.7
     },
     "Weight": {
-        "Hectograms": 1,
         "Kilograms": 0.1,
         "Pounds": 0.2
     },
     "DexDescription": "Only the the cores react to stimuli, the cells remain mostly inanimate. They gather in great numbers to create and strengthen Zygarde.",
-    "Baby": false,
-    "PrimaryEggGroup": "Undiscovered",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "To": "Zygarde 10%",
@@ -61,5 +50,6 @@
             "Kind": "Special",
             "Item": "Zyguarde cells"
         }
-    ]
+    ],
+    "Image": "zygarde.png"
 }

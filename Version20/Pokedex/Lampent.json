@@ -19,32 +19,21 @@
     "Ability2": "Flame Body",
     "HiddenAbility": "Infiltrator",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Amateur",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "lampent.png",
     "GoodStarter": false,
     "_id": "lampent",
-    "HasForm": false,
-    "Learnset": "Lampent-Learnset",
-    "Abilities": "Flash Fire / Flame Body (Infiltrator)",
-    "Type": "Ghost / Fire",
     "DexCategory": "Lamp Pokemon",
     "Height": {
-        "Deimeters": 6,
         "Meters": 0.6,
         "Feet": 2.0
     },
     "Weight": {
-        "Hectograms": 130,
         "Kilograms": 13.0,
         "Pounds": 28.7
     },
     "DexDescription": "This ominous Pokemon is very feared. It always arrives at someone\u2019s final moments and steals their spirit. It hangs close to hospitals and other places simply waiting. It is said that if it gets your soul you will never rest.",
-    "Baby": false,
-    "PrimaryEggGroup": "Amorphous",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Litwick",
@@ -56,5 +45,6 @@
             "Kind": "Stone",
             "Item": "Dusk Stone"
         }
-    ]
+    ],
+    "Image": "lampent.png"
 }

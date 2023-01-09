@@ -19,37 +19,27 @@
     "Ability2": "",
     "HiddenAbility": "Scrappy",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Amateur",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "sirfetchd.png",
     "GoodStarter": false,
     "_id": "sirfetch'd",
-    "HasForm": false,
-    "Learnset": "Sirfetch'd-Learnset",
-    "Abilities": "Steadfast (Scrappy)",
-    "Type": "Fighting",
     "DexCategory": "Wild Duck Pokemon",
     "Height": {
-        "Deimeters": 8,
         "Meters": 0.8,
         "Feet": 2.6
     },
     "Weight": {
-        "Hectograms": 1170,
         "Kilograms": 117.0,
         "Pounds": 257.9
     },
     "DexDescription": "Only Farfetch\u2019d that have survived many battles can go thought this evolution. They are very proud of their leek spear and leafen shield, When this Pokemon's leek withers, it will retire from combat.",
-    "Baby": false,
-    "PrimaryEggGroup": "Flying",
-    "SecondaryEggGroup": "Field",
     "Evolutions": [
         {
             "From": "Galarian Farfetch'd",
             "Kind": "Special",
             "Special": "Score 3 Critical hits in 1 battle"
         }
-    ]
+    ],
+    "Image": "sirfetchd.png"
 }

@@ -19,37 +19,27 @@
     "Ability2": "Drizzle",
     "HiddenAbility": "Rain Dish",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Amateur",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "pelipper.png",
     "GoodStarter": false,
     "_id": "pelipper",
-    "HasForm": false,
-    "Learnset": "Pelipper-Learnset",
-    "Abilities": "Keen Eye / Drizzle (Rain Dish)",
-    "Type": "Water / Flying",
     "DexCategory": "Water Bird Pokemon",
     "Height": {
-        "Deimeters": 12,
         "Meters": 1.2,
         "Feet": 3.9
     },
     "Weight": {
-        "Hectograms": 280,
         "Kilograms": 28.0,
         "Pounds": 61.7
     },
     "DexDescription": "Pelipper has been seen carrying eggs and other Pokemon inside its massive bill, protecting them from predators and storms, transporting the young through the great seas.",
-    "Baby": false,
-    "PrimaryEggGroup": "Water 1",
-    "SecondaryEggGroup": "Flying",
     "Evolutions": [
         {
             "From": "Wingull",
             "Kind": "Level",
             "Speed": "Medium"
         }
-    ]
+    ],
+    "Image": "pelipper.png"
 }

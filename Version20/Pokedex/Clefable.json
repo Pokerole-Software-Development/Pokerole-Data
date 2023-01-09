@@ -19,37 +19,27 @@
     "Ability2": "Magic Guard",
     "HiddenAbility": "Unaware",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Amateur",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "clefable.png",
     "GoodStarter": false,
     "_id": "clefable",
-    "HasForm": false,
-    "Learnset": "Clefable-Learnset",
-    "Abilities": "Cute Charm / Magic Guard (Unaware)",
-    "Type": "Fairy",
     "DexCategory": "Fairy Pokemon",
     "Height": {
-        "Deimeters": 13,
         "Meters": 1.3,
         "Feet": 4.3
     },
     "Weight": {
-        "Hectograms": 400,
         "Kilograms": 40.0,
         "Pounds": 88.2
     },
     "DexDescription": "There are not many records about it in the wild. They are timid but playful. Clefable uses its wings to skip lightly as if it was flying. Its bouncy step lets it walk on water. On quiet, moonlit nights, it strolls near lakes.",
-    "Baby": false,
-    "PrimaryEggGroup": "Fairy",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Clefairy",
             "Kind": "Stone",
             "Item": "Moon Stone"
         }
-    ]
+    ],
+    "Image": "clefable.png"
 }

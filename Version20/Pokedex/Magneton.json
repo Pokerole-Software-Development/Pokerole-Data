@@ -19,32 +19,21 @@
     "Ability2": "Sturdy",
     "HiddenAbility": "Analytic",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Amateur",
     "GenderType": "N",
     "Legendary": false,
-    "Sprite": "magneton.png",
     "GoodStarter": false,
     "_id": "magneton",
-    "HasForm": false,
-    "Learnset": "Magneton-Learnset",
-    "Abilities": "Magnet Pull / Sturdy (Analytic)",
-    "Type": "Electric / Steel",
     "DexCategory": "Magnet Pokemon",
     "Height": {
-        "Deimeters": 10,
         "Meters": 1.0,
         "Feet": 3.3
     },
     "Weight": {
-        "Hectograms": 600,
         "Kilograms": 60.0,
         "Pounds": 132.3
     },
     "DexDescription": "Sometimes three Magnemites fuse into this Pokemon; other times a single one sprouts two others. This species is greatly affected by magnetic fields. Magnetons are eager to please their trainers.",
-    "Baby": false,
-    "PrimaryEggGroup": "Mineral",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Magnemite",
@@ -56,5 +45,6 @@
             "Kind": "Level",
             "Speed": "Slow"
         }
-    ]
+    ],
+    "Image": "magneton.png"
 }

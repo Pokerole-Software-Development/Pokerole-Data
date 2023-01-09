@@ -19,32 +19,21 @@
     "Ability2": "",
     "HiddenAbility": "",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Amateur",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "chimecho.png",
     "GoodStarter": true,
     "_id": "chimecho",
-    "HasForm": false,
-    "Learnset": "Chimecho-Learnset",
-    "Abilities": "Levitate",
-    "Type": "Psychic",
     "DexCategory": "Wind Chime Pokemon",
     "Height": {
-        "Deimeters": 6,
         "Meters": 0.6,
         "Feet": 2.0
     },
     "Weight": {
-        "Hectograms": 10,
         "Kilograms": 1.0,
         "Pounds": 2.2
     },
     "DexDescription": "They have seven different cries that resound with the wind. They can create ultrasonic waves when they are in danger. Using the suction cup on their head, they hang to branches on windy days.",
-    "Baby": false,
-    "PrimaryEggGroup": "Amorphous",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Chingling",
@@ -52,5 +41,6 @@
             "Stat": "Happiness",
             "Value": 4
         }
-    ]
+    ],
+    "Image": "chimecho.png"
 }

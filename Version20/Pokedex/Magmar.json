@@ -19,32 +19,21 @@
     "Ability2": "",
     "HiddenAbility": "Vital Spirit",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Amateur",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "magmar.png",
     "GoodStarter": false,
     "_id": "magmar",
-    "HasForm": false,
-    "Learnset": "Magmar-Learnset",
-    "Abilities": "Flame Body (Vital Spirit)",
-    "Type": "Fire",
     "DexCategory": "Spitfire Pokemon",
     "Height": {
-        "Deimeters": 13,
         "Meters": 1.3,
         "Feet": 4.3
     },
     "Weight": {
-        "Hectograms": 445,
         "Kilograms": 44.5,
         "Pounds": 98.1
     },
     "DexDescription": "It can be found living in volcanic areas. In battle, Magmar blows out intense flames all over its body to intimidate the opponent. This creates heat waves that ignite grass and trees in the surroundings.",
-    "Baby": false,
-    "PrimaryEggGroup": "Human-Like",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Magby",
@@ -56,5 +45,6 @@
             "Kind": "Trade",
             "Item": "Magmarizer"
         }
-    ]
+    ],
+    "Image": "magmar.png"
 }

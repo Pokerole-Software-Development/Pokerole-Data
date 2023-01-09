@@ -19,32 +19,21 @@
     "Ability2": "Klutz",
     "HiddenAbility": "Simple",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Beginner",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "woobat.png",
     "GoodStarter": true,
     "_id": "woobat",
-    "HasForm": false,
-    "Learnset": "Woobat-Learnset",
-    "Abilities": "Unaware / Klutz (Simple)",
-    "Type": "Psychic / Flying",
     "DexCategory": "Bat Pokemon",
     "Height": {
-        "Deimeters": 4,
         "Meters": 0.4,
         "Feet": 1.3
     },
     "Weight": {
-        "Hectograms": 21,
         "Kilograms": 2.1,
         "Pounds": 4.6
     },
     "DexDescription": "It lives in dark forests and caves. Emits ultrasonic waves from its nose it learns about its surroundings. The two small eyes it has get covered by its own fur. It clings to trees and cave walls to sleep at night.",
-    "Baby": false,
-    "PrimaryEggGroup": "Flying",
-    "SecondaryEggGroup": "Field",
     "Evolutions": [
         {
             "To": "Swoobat",
@@ -52,5 +41,6 @@
             "Stat": "Happiness",
             "Value": 4
         }
-    ]
+    ],
+    "Image": "woobat.png"
 }

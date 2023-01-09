@@ -19,37 +19,27 @@
     "Ability2": "",
     "HiddenAbility": "",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Master",
     "GenderType": "N",
     "Legendary": true,
-    "Sprite": "lunala.png",
     "GoodStarter": false,
     "_id": "lunala",
-    "HasForm": false,
-    "Learnset": "Lunala-Learnset",
-    "Abilities": "Shadow Shield",
-    "Type": "Psychic / Ghost",
     "DexCategory": "No Data",
     "Height": {
-        "Deimeters": 40,
         "Meters": 4.0,
         "Feet": 13.1
     },
     "Weight": {
-        "Hectograms": 1200,
         "Kilograms": 120.0,
         "Pounds": 264.6
     },
     "DexDescription": "There are legends about a being that shined with the moon, on its forehead a third eye that connected to another dimension.",
-    "Baby": false,
-    "PrimaryEggGroup": "Undiscovered",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Cosmoem",
             "Kind": "Level",
             "Game": "Shield"
         }
-    ]
+    ],
+    "Image": "lunala.png"
 }

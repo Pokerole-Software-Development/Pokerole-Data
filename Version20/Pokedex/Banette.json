@@ -19,32 +19,21 @@
     "Ability2": "Frisk",
     "HiddenAbility": "Cursed Body",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Amateur",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "banette.png",
     "GoodStarter": false,
     "_id": "banette",
-    "HasForm": true,
-    "Learnset": "Banette-Learnset",
-    "Abilities": "Insomnia / Frisk (Cursed Body)",
-    "Type": "Ghost",
     "DexCategory": "Marionette Pokemon",
     "Height": {
-        "Deimeters": 11,
         "Meters": 1.1,
         "Feet": 3.6
     },
     "Weight": {
-        "Hectograms": 125,
         "Kilograms": 12.5,
         "Pounds": 27.6
     },
     "DexDescription": "It\u2019s body is usually a discarded doll or toy. Its spirit is made of dark feelings and is overrun by the desire of revenge towards the kid that threw the toy away. If you open its mouth, all the cursed energy will escape.",
-    "Baby": false,
-    "PrimaryEggGroup": "Amorphous",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Shuppet",
@@ -56,5 +45,6 @@
             "Kind": "Mega",
             "Item": "Banettite"
         }
-    ]
+    ],
+    "Image": "banette.png"
 }

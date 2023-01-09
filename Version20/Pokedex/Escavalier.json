@@ -19,37 +19,27 @@
     "Ability2": "Shell Armor",
     "HiddenAbility": "Overcoat",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Amateur",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "escavalier.png",
     "GoodStarter": false,
     "_id": "escavalier",
-    "HasForm": false,
-    "Learnset": "Escavalier-Learnset",
-    "Abilities": "Swarm / Shell Armor (Overcoat)",
-    "Type": "Bug / Steel",
     "DexCategory": "Cavalry Pokemon",
     "Height": {
-        "Deimeters": 10,
         "Meters": 1.0,
         "Feet": 3.3
     },
     "Weight": {
-        "Hectograms": 330,
         "Kilograms": 33.0,
         "Pounds": 72.8
     },
     "DexDescription": "Wearing the shell covering it stole from a Shelmet, it defends itself and attacks with two stings. It can fly to move around but its wings are too small to carry its weight to high altitudes.",
-    "Baby": false,
-    "PrimaryEggGroup": "Bug",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Karrablast",
             "Kind": "Level",
             "Speed": "Medium"
         }
-    ]
+    ],
+    "Image": "escavalier.png"
 }

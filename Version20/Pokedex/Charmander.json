@@ -19,37 +19,27 @@
     "Ability2": "",
     "HiddenAbility": "Solar Power",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Beginner",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "charmander.png",
     "GoodStarter": true,
     "_id": "charmander",
-    "HasForm": false,
-    "Learnset": "Charmander-Learnset",
-    "Abilities": "Blaze (Solar Power)",
-    "Type": "Fire",
     "DexCategory": "Lizard Pokemon",
     "Height": {
-        "Deimeters": 6,
         "Meters": 0.6,
         "Feet": 2.0
     },
     "Weight": {
-        "Hectograms": 85,
         "Kilograms": 8.5,
         "Pounds": 18.7
     },
     "DexDescription": "A rare Pokemon. The flame on its tail is an indicator of its feelings and life force. If it is healthy and happy, the flame burns brightly.\nIt needs proper care and discipline or else it may rebel later on.",
-    "Baby": false,
-    "PrimaryEggGroup": "Monster",
-    "SecondaryEggGroup": "Dragon",
     "Evolutions": [
         {
             "To": "Charmeleon",
             "Kind": "Level",
             "Speed": "Medium"
         }
-    ]
+    ],
+    "Image": "charmander.png"
 }

@@ -19,37 +19,27 @@
     "Ability2": "Pressure",
     "HiddenAbility": "Unnerve",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Ace",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "aerodactyl.png",
     "GoodStarter": false,
     "_id": "aerodactyl",
-    "HasForm": true,
-    "Learnset": "Aerodactyl-Learnset",
-    "Abilities": "Rock Head / Pressure (Unnerve)",
-    "Type": "Rock / Flying",
     "DexCategory": "Fossil Pokemon",
     "Height": {
-        "Deimeters": 18,
         "Meters": 1.8,
         "Feet": 5.9
     },
     "Weight": {
-        "Hectograms": 590,
         "Kilograms": 59.0,
         "Pounds": 130.1
     },
     "DexDescription": "A vicious Pokemon from the distant past. It appears to have flown by spreading its wings and gliding. One has been revived from a fossil. It\u2019s very dangerous; it attacks with the intent to tear apart its victims.",
-    "Baby": false,
-    "PrimaryEggGroup": "Flying",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "To": "Mega-Aerodactyl",
             "Kind": "Mega",
             "Item": "Aerodactylite"
         }
-    ]
+    ],
+    "Image": "aerodactyl.png"
 }

@@ -19,37 +19,27 @@
     "Ability2": "Compound Eyes",
     "HiddenAbility": "Friend Guard",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Starter",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "scatterbug.png",
     "GoodStarter": true,
     "_id": "scatterbug",
-    "HasForm": false,
-    "Learnset": "Scatterbug-Learnset",
-    "Abilities": "Shield Dust / Compound Eyes (Friend Guard)",
-    "Type": "Bug",
     "DexCategory": "Scatterdust Pokemon",
     "Height": {
-        "Deimeters": 3,
         "Meters": 0.3,
         "Feet": 1.0
     },
     "Weight": {
-        "Hectograms": 25,
         "Kilograms": 2.5,
         "Pounds": 5.5
     },
     "DexDescription": "The powder that covers its body regulates its temperature so it is able to live in any region or climate. Whenever it is under attack it spews a black powder that causes paralysis on contact.",
-    "Baby": false,
-    "PrimaryEggGroup": "Bug",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "To": "Spewpa",
             "Kind": "Level",
             "Speed": "Fast"
         }
-    ]
+    ],
+    "Image": "scatterbug.png"
 }

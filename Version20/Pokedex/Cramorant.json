@@ -19,31 +19,21 @@
     "Ability2": "",
     "HiddenAbility": "",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Amateur",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "cramorant.png",
     "GoodStarter": false,
     "_id": "cramorant",
-    "HasForm": false,
-    "Learnset": "Cramorant-Learnset",
-    "Abilities": "Gulp Missile",
-    "Type": "Flying / Water",
     "DexCategory": "Gulp Pokemon",
     "Height": {
-        "Deimeters": 8,
         "Meters": 0.8,
         "Feet": 2.6
     },
     "Weight": {
-        "Hectograms": 180,
         "Kilograms": 18.0,
         "Pounds": 39.7
     },
     "DexDescription": "Cramorant hunt for fish Pokemon to eat near seashores and lakes. They often try to engulf prey that is too large and it ends up blocking their gullets. They are airheaded and often forget what they were doing.",
-    "Baby": false,
-    "PrimaryEggGroup": "Water 1",
-    "SecondaryEggGroup": "Flying",
-    "Evolutions": []
+    "Evolutions": [],
+    "Image": "cramorant.png"
 }

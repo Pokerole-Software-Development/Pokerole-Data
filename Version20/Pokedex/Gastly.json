@@ -19,37 +19,27 @@
     "Ability2": "",
     "HiddenAbility": "",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Beginner",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "gastly.png",
     "GoodStarter": true,
     "_id": "gastly",
-    "HasForm": false,
-    "Learnset": "Gastly-Learnset",
-    "Abilities": "Levitate",
-    "Type": "Ghost / Poison",
     "DexCategory": "Gas Pokemon",
     "Height": {
-        "Deimeters": 13,
         "Meters": 1.3,
         "Feet": 4.3
     },
     "Weight": {
-        "Hectograms": 1,
         "Kilograms": 0.1,
         "Pounds": 0.2
     },
     "DexDescription": "Its body is made of a toxic gas - anyone would faint if engulfed by it. It has been seen in abandoned places scaring people and other pokemon for fun. It is elusive and escapes through the walls.",
-    "Baby": false,
-    "PrimaryEggGroup": "Amorphous",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "To": "Haunter",
             "Kind": "Level",
             "Speed": "Medium"
         }
-    ]
+    ],
+    "Image": "gastly.png"
 }

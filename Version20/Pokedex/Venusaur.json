@@ -19,32 +19,21 @@
     "Ability2": "",
     "HiddenAbility": "Chlorophyll",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Ace",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "venusaur.png",
     "GoodStarter": false,
     "_id": "venusaur",
-    "HasForm": true,
-    "Learnset": "Venusaur-Learnset",
-    "Abilities": "Overgrow (Chlorophyll)",
-    "Type": "Grass / Poison",
     "DexCategory": "Seed Pokemon",
     "Height": {
-        "Deimeters": 20,
         "Meters": 2.0,
         "Feet": 6.6
     },
     "Weight": {
-        "Hectograms": 1000,
         "Kilograms": 100.0,
         "Pounds": 220.5
     },
     "DexDescription": "Venusaur's flower is said to take on vivid colors if it gets plenty of sun light. The flower\u2019s aroma soothes the emotions of others.\nIf you find one in the wild, it must be the protector of the area.",
-    "Baby": false,
-    "PrimaryEggGroup": "Monster",
-    "SecondaryEggGroup": "Grass",
     "Evolutions": [
         {
             "From": "Ivysaur",
@@ -56,5 +45,6 @@
             "Kind": "Mega",
             "Item": "Venusaurite"
         }
-    ]
+    ],
+    "Image": "venusaur.png"
 }

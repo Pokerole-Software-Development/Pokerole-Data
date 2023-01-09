@@ -19,36 +19,26 @@
     "Ability2": "",
     "HiddenAbility": "",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Ace",
     "GenderType": "N",
     "Legendary": false,
-    "Sprite": "rotom-wash.png",
     "GoodStarter": false,
     "_id": "rotom-wash",
-    "HasForm": false,
-    "Learnset": "Rotom Wash-Learnset",
-    "Abilities": "Levitate",
-    "Type": "Electric / Water",
     "DexCategory": "Plasma Pokemon",
     "Height": {
-        "Deimeters": 3,
         "Meters": 0.3,
         "Feet": 1.0
     },
     "Weight": {
-        "Hectograms": 3,
         "Kilograms": 0.3,
         "Pounds": 0.7
     },
     "DexDescription": "A Washing machine possessed by a Rotom. It uses Water powers and floods the houses with torrents of water. While on this form it can use the move: Hydro Pump.",
-    "Baby": false,
-    "PrimaryEggGroup": "Amorphous",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Rotom",
             "Kind": "Form"
         }
-    ]
+    ],
+    "Image": "rotom-wash.png"
 }

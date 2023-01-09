@@ -19,37 +19,27 @@
     "Ability2": "Serene Grace",
     "HiddenAbility": "Friend Guard",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Starter",
     "GenderType": "F",
     "Legendary": false,
-    "Sprite": "happiny.png",
     "GoodStarter": true,
     "_id": "happiny",
-    "HasForm": false,
-    "Learnset": "Happiny-Learnset",
-    "Abilities": "Natural Cure / Serene Grace (Friend Guard)",
-    "Type": "Normal",
     "DexCategory": "Playhouse Pokemon",
     "Height": {
-        "Deimeters": 6,
         "Meters": 0.6,
         "Feet": 2.0
     },
     "Weight": {
-        "Hectograms": 244,
         "Kilograms": 24.4,
         "Pounds": 53.8
     },
     "DexDescription": "It is not common to see Happinies. This baby Pokemon cannot produce eggs yet, so she searches for white stones and carries them on its pouch. It likes to look pretty and tries to always be adorable.",
-    "Baby": true,
-    "PrimaryEggGroup": "Undiscovered",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "To": "Chansey",
             "Kind": "Level",
             "Item": "Oval Stone"
         }
-    ]
+    ],
+    "Image": "happiny.png"
 }

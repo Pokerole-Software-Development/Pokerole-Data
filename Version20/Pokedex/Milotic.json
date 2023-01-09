@@ -19,32 +19,21 @@
     "Ability2": "Competitive",
     "HiddenAbility": "Cute Charm",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Ace",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "milotic.png",
     "GoodStarter": false,
     "_id": "milotic",
-    "HasForm": true,
-    "Learnset": "Milotic-Learnset",
-    "Abilities": "Marvel Scale / Competitive (Cute Charm)",
-    "Type": "Water",
     "DexCategory": "Tender Pokemon",
     "Height": {
-        "Deimeters": 62,
         "Meters": 6.2,
         "Feet": 20.3
     },
     "Weight": {
-        "Hectograms": 1620,
         "Kilograms": 162.0,
         "Pounds": 357.1
     },
     "DexDescription": "Milotic is considered to be one of the most beautiful Pokemon in existence. It has inspired music, paintings and statues. It has the power to calm the anger and hostility of its foes.",
-    "Baby": false,
-    "PrimaryEggGroup": "Water 1",
-    "SecondaryEggGroup": "Dragon",
     "Evolutions": [
         {
             "From": "Feebas",
@@ -52,5 +41,6 @@
             "Stat": "Beauty",
             "Value": 5
         }
-    ]
+    ],
+    "Image": "milotic.png"
 }

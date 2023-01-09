@@ -19,37 +19,27 @@
     "Ability2": "Snow Cloak",
     "HiddenAbility": "Thick Fat",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Beginner",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "swinub.png",
     "GoodStarter": true,
     "_id": "swinub",
-    "HasForm": false,
-    "Learnset": "Swinub-Learnset",
-    "Abilities": "Oblivious / Snow Cloak (Thick Fat)",
-    "Type": "Ice / Ground",
     "DexCategory": "Pig Pokemon",
     "Height": {
-        "Deimeters": 4,
         "Meters": 0.4,
         "Feet": 1.3
     },
     "Weight": {
-        "Hectograms": 65,
         "Kilograms": 6.5,
         "Pounds": 14.3
     },
     "DexDescription": "They rub their snout on the icy ground to find food and hot springs. Their favorite food is a mushroom that grows under frozen grass. They recognize everything by smell as their eyes can\u2019t see very well.",
-    "Baby": false,
-    "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "To": "Piloswine",
             "Kind": "Level",
             "Speed": "Medium"
         }
-    ]
+    ],
+    "Image": "swinub.png"
 }

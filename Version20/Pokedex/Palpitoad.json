@@ -19,32 +19,21 @@
     "Ability2": "Hydration",
     "HiddenAbility": "Water Absorb",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Beginner",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "palpitoad.png",
     "GoodStarter": false,
     "_id": "palpitoad",
-    "HasForm": false,
-    "Learnset": "Palpitoad-Learnset",
-    "Abilities": "Swift Swim / Hydration (Water Absorb)",
-    "Type": "Water / Ground",
     "DexCategory": "Vibration Pokemon",
     "Height": {
-        "Deimeters": 8,
         "Meters": 0.8,
         "Feet": 2.6
     },
     "Weight": {
-        "Hectograms": 170,
         "Kilograms": 17.0,
         "Pounds": 37.5
     },
     "DexDescription": "It lives both in water and land. It uses its long, sticky tongue to capture prey. When they vibrate the bumps on their heads, they can make waves in the water and even earthquake-like vibrations on land.",
-    "Baby": false,
-    "PrimaryEggGroup": "Water 1",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Tympole",
@@ -56,5 +45,6 @@
             "Kind": "Level",
             "Speed": "Medium"
         }
-    ]
+    ],
+    "Image": "palpitoad.png"
 }

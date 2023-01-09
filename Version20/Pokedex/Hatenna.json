@@ -19,37 +19,27 @@
     "Ability2": "Anticipation",
     "HiddenAbility": "Magic Bounce",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Beginner",
     "GenderType": "F",
     "Legendary": false,
-    "Sprite": "hatenna.png",
     "GoodStarter": true,
     "_id": "hatenna",
-    "HasForm": false,
-    "Learnset": "Hatenna-Learnset",
-    "Abilities": "Healer / Anticipation (Magic Bounce)",
-    "Type": "Psychic",
     "DexCategory": "Calm Pokemon",
     "Height": {
-        "Deimeters": 4,
         "Meters": 0.4,
         "Feet": 1.3
     },
     "Weight": {
-        "Hectograms": 34,
         "Kilograms": 3.4,
         "Pounds": 7.5
     },
     "DexDescription": "Though the protrusion on its head it senses other creatures\u2019 emotions. If you don\u2019t have a calm disposition, it will never warm up to you. They get overwhelmed in places with many people, preferring to hide alone.",
-    "Baby": false,
-    "PrimaryEggGroup": "Fairy",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "To": "Hattrem",
             "Kind": "Level",
             "Speed": "Medium"
         }
-    ]
+    ],
+    "Image": "hatenna.png"
 }

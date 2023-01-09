@@ -19,37 +19,27 @@
     "Ability2": "Strong Jaw",
     "HiddenAbility": "Adaptability",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Amateur",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "gumshoos.png",
     "GoodStarter": false,
     "_id": "gumshoos",
-    "HasForm": false,
-    "Learnset": "Gumshoos-Learnset",
-    "Abilities": "Stakeout / Strong Jaw (Adaptability)",
-    "Type": "Normal",
     "DexCategory": "Stakeout Pokemon",
     "Height": {
-        "Deimeters": 7,
         "Meters": 0.7,
         "Feet": 2.3
     },
     "Weight": {
-        "Hectograms": 142,
         "Kilograms": 14.2,
         "Pounds": 31.3
     },
     "DexDescription": "Alolan Ratatta became nocturnal to evade this Pokemon, as it is their main Predator. Gumshoos now go hungry for days before they find something suitable to eat, they compensate by sleeping a lot.",
-    "Baby": false,
-    "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Yungoos",
             "Kind": "Level",
             "Speed": "Medium"
         }
-    ]
+    ],
+    "Image": "gumshoos.png"
 }

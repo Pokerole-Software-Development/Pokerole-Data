@@ -19,37 +19,27 @@
     "Ability2": "",
     "HiddenAbility": "",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Starter",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "wimpod.png",
     "GoodStarter": true,
     "_id": "wimpod",
-    "HasForm": false,
-    "Learnset": "Wimpod-Learnset",
-    "Abilities": "Wimp Out",
-    "Type": "Bug / Water",
     "DexCategory": "Turn Tail Pokemon",
     "Height": {
-        "Deimeters": 5,
         "Meters": 0.5,
         "Feet": 1.6
     },
     "Weight": {
-        "Hectograms": 120,
         "Kilograms": 12.0,
         "Pounds": 26.5
     },
     "DexDescription": "They are curious but incredibly cowardly Pokemon. They are easily startled and will shoot a stenchy liquid as a warning. Even so, they are highly valued due to their ability to eat and clean any garbage.",
-    "Baby": false,
-    "PrimaryEggGroup": "Bug",
-    "SecondaryEggGroup": "Water 3",
     "Evolutions": [
         {
             "To": "Golisopod",
             "Kind": "Level",
             "Speed": "Slow"
         }
-    ]
+    ],
+    "Image": "wimpod.png"
 }

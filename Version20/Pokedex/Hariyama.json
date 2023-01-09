@@ -19,37 +19,27 @@
     "Ability2": "Guts",
     "HiddenAbility": "Sheer Force",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Amateur",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "hariyama.png",
     "GoodStarter": false,
     "_id": "hariyama",
-    "HasForm": false,
-    "Learnset": "Hariyama-Learnset",
-    "Abilities": "Thick Fat / Guts (Sheer Force)",
-    "Type": "Fighting",
     "DexCategory": "Arm Thrust Pokemon",
     "Height": {
-        "Deimeters": 23,
         "Meters": 2.3,
         "Feet": 7.5
     },
     "Weight": {
-        "Hectograms": 2538,
         "Kilograms": 253.8,
         "Pounds": 559.5
     },
     "DexDescription": "They may appear fat, but they are pure muscle. Hariyamas have the habit of challenging big looking creatures to tests of strength, sometimes mistaking cars and machines for real Pokemon.",
-    "Baby": false,
-    "PrimaryEggGroup": "Human-Like",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Makuhita",
             "Kind": "Level",
             "Speed": "Medium"
         }
-    ]
+    ],
+    "Image": "hariyama.png"
 }

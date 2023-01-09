@@ -19,32 +19,21 @@
     "Ability2": "",
     "HiddenAbility": "Magician",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Amateur",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "braixen.png",
     "GoodStarter": false,
     "_id": "braixen",
-    "HasForm": false,
-    "Learnset": "Braixen-Learnset",
-    "Abilities": "Blaze (Magician)",
-    "Type": "Fire",
     "DexCategory": "Fox Pokemon",
     "Height": {
-        "Deimeters": 10,
         "Meters": 1.0,
         "Feet": 3.3
     },
     "Weight": {
-        "Hectograms": 145,
         "Kilograms": 14.5,
         "Pounds": 32.0
     },
     "DexDescription": "Using friction from its tail fur, it sets the twig it carries on fire and launches into battle. The flame on the twig is used to send signals and to create patters out of the embers. It is said the twig is a magic wand.",
-    "Baby": false,
-    "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Fennekin",
@@ -56,5 +45,6 @@
             "Kind": "Level",
             "Speed": "Medium"
         }
-    ]
+    ],
+    "Image": "braixen.png"
 }

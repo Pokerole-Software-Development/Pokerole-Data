@@ -19,37 +19,27 @@
     "Ability2": "Battle Armor",
     "HiddenAbility": "Weak Armor",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Beginner",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "kabuto.png",
     "GoodStarter": false,
     "_id": "kabuto",
-    "HasForm": false,
-    "Learnset": "Kabuto-Learnset",
-    "Abilities": "Swift Swim / Battle Armor (Weak Armor)",
-    "Type": "Rock / Water",
     "DexCategory": "Shellfish Pokemon",
     "Height": {
-        "Deimeters": 5,
         "Meters": 0.5,
         "Feet": 1.6
     },
     "Weight": {
-        "Hectograms": 115,
         "Kilograms": 11.5,
         "Pounds": 25.4
     },
     "DexDescription": "Kabuto is a Pokemon that has been regenerated from a fossil. However, in extremely rare cases, living specimens have been found. The Pokemon has not changed at all for 300 million years.",
-    "Baby": false,
-    "PrimaryEggGroup": "Water 1",
-    "SecondaryEggGroup": "Water 3",
     "Evolutions": [
         {
             "To": "Kabutops",
             "Kind": "Level",
             "Speed": "Slow"
         }
-    ]
+    ],
+    "Image": "kabuto.png"
 }

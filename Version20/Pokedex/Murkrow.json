@@ -19,37 +19,27 @@
     "Ability2": "Super Luck",
     "HiddenAbility": "Prankster",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Beginner",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "murkrow.png",
     "GoodStarter": true,
     "_id": "murkrow",
-    "HasForm": false,
-    "Learnset": "Murkrow-Learnset",
-    "Abilities": "Insomnia / Super Luck (Prankster)",
-    "Type": "Dark / Flying",
     "DexCategory": "Darkness Pokemon",
     "Height": {
-        "Deimeters": 5,
         "Meters": 0.5,
         "Feet": 1.6
     },
     "Weight": {
-        "Hectograms": 21,
         "Kilograms": 2.1,
         "Pounds": 4.6
     },
     "DexDescription": "Murkrows are feared and loathed as the alleged bearers of ill fortune. This Pokemon will steal anything that sparkles. They are infamous for luring people and get them lost in the mountains.",
-    "Baby": false,
-    "PrimaryEggGroup": "Flying",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "To": "Honchkrow",
             "Kind": "Stone",
             "Item": "Dusk Stone"
         }
-    ]
+    ],
+    "Image": "murkrow.png"
 }

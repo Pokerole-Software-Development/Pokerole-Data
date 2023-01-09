@@ -19,31 +19,21 @@
     "Ability2": "Hustle",
     "HiddenAbility": "Truant",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Amateur",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "durant.png",
     "GoodStarter": false,
     "_id": "durant",
-    "HasForm": false,
-    "Learnset": "Durant-Learnset",
-    "Abilities": "Swarm / Hustle (Truant)",
-    "Type": "Bug / Steel",
     "DexCategory": "Iron Ant Pokemon",
     "Height": {
-        "Deimeters": 3,
         "Meters": 0.3,
         "Feet": 1.0
     },
     "Weight": {
-        "Hectograms": 330,
         "Kilograms": 33.0,
         "Pounds": 72.8
     },
     "DexDescription": "Durant build complex mazes of tunnels in the mountains. Each colony has hundreds of Durant, all playing different roles in driving Heatmor away from their nest as it is their only predator.",
-    "Baby": false,
-    "PrimaryEggGroup": "Bug",
-    "SecondaryEggGroup": "",
-    "Evolutions": []
+    "Evolutions": [],
+    "Image": "durant.png"
 }

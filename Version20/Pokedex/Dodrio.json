@@ -19,37 +19,27 @@
     "Ability2": "Early Bird",
     "HiddenAbility": "Tangled Feet",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Amateur",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "dodrio.png",
     "GoodStarter": false,
     "_id": "dodrio",
-    "HasForm": false,
-    "Learnset": "Dodrio-Learnset",
-    "Abilities": "Run Away / Early Bird (Tangled Feet)",
-    "Type": "Normal / Flying",
     "DexCategory": "Triple Bird Pokemon",
     "Height": {
-        "Deimeters": 18,
         "Meters": 1.8,
         "Feet": 5.9
     },
     "Weight": {
-        "Hectograms": 852,
         "Kilograms": 85.2,
         "Pounds": 187.8
     },
     "DexDescription": "A third head comes to change the dynamic the two original had. It is common to see the three heads fighting. Each one has its own personality, but when they work as a team they can be very powerful.",
-    "Baby": false,
-    "PrimaryEggGroup": "Flying",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Doduo",
             "Kind": "Level",
             "Speed": "Slow"
         }
-    ]
+    ],
+    "Image": "dodrio.png"
 }

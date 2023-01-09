@@ -19,37 +19,27 @@
     "Ability2": "",
     "HiddenAbility": "Grassy Surge",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Starter",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "grookey.png",
     "GoodStarter": true,
     "_id": "grookey",
-    "HasForm": false,
-    "Learnset": "Grookey-Learnset",
-    "Abilities": "Overgrow (Grassy Surge)",
-    "Type": "Grass",
     "DexCategory": "Chimp Pokemon",
     "Height": {
-        "Deimeters": 3,
         "Meters": 0.3,
         "Feet": 1.0
     },
     "Weight": {
-        "Hectograms": 50,
         "Kilograms": 5.0,
         "Pounds": 11.0
     },
     "DexDescription": "They spend their early days looking for a stick with a certain sound, it then uses the stick to create rhythmic beats that makes plan glow and grow. Grookey are enthusiastic and kind creatures that love music.",
-    "Baby": false,
-    "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": "Grass",
     "Evolutions": [
         {
             "To": "Thwackey",
             "Kind": "Level",
             "Speed": "Medium"
         }
-    ]
+    ],
+    "Image": "grookey.png"
 }

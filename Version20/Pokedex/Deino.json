@@ -19,37 +19,27 @@
     "Ability2": "",
     "HiddenAbility": "",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Amateur",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "deino.png",
     "GoodStarter": true,
     "_id": "deino",
-    "HasForm": false,
-    "Learnset": "Deino-Learnset",
-    "Abilities": "Hustle",
-    "Type": "Dark / Dragon",
     "DexCategory": "Irate Pokemon",
     "Height": {
-        "Deimeters": 8,
         "Meters": 0.8,
         "Feet": 2.6
     },
     "Weight": {
-        "Hectograms": 173,
         "Kilograms": 17.3,
         "Pounds": 38.1
     },
     "DexDescription": "This Pokemon is blind, It bites all it finds to be aware of its surroundings. It constantly bumps into things and attacks anything close to it. Their bodies are covered in wounds and they are very aggressive.",
-    "Baby": false,
-    "PrimaryEggGroup": "Dragon",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "To": "Zweilous",
             "Kind": "Level",
             "Speed": "Slow"
         }
-    ]
+    ],
+    "Image": "deino.png"
 }

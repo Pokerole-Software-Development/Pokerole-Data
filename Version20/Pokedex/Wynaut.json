@@ -19,37 +19,27 @@
     "Ability2": "",
     "HiddenAbility": "Telepathy",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Starter",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "wynaut.png",
     "GoodStarter": true,
     "_id": "wynaut",
-    "HasForm": false,
-    "Learnset": "Wynaut-Learnset",
-    "Abilities": "Shadow Tag (Telepathy)",
-    "Type": "Psychic",
     "DexCategory": "Bright Pokemon",
     "Height": {
-        "Deimeters": 6,
         "Meters": 0.6,
         "Feet": 2.0
     },
     "Weight": {
-        "Hectograms": 140,
         "Kilograms": 14.0,
         "Pounds": 30.9
     },
     "DexDescription": "Its face always appears to be happy, but Wynaut can be deceitful. You can only discern its true emotions through its tail. They live together in caves and bump into each other to gain strength.",
-    "Baby": true,
-    "PrimaryEggGroup": "Undiscovered",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "To": "Wobbuffet",
             "Kind": "Level",
             "Speed": "Medium"
         }
-    ]
+    ],
+    "Image": "wynaut.png"
 }

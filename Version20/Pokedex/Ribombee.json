@@ -19,37 +19,27 @@
     "Ability2": "Shield Dust",
     "HiddenAbility": "Sweet Veil",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Beginner",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "ribombee.png",
     "GoodStarter": false,
     "_id": "ribombee",
-    "HasForm": false,
-    "Learnset": "Ribombee-Learnset",
-    "Abilities": "Honey Gather / Shield Dust (Sweet Veil)",
-    "Type": "Bug / Fairy",
     "DexCategory": "Bee Fly Pokemon",
     "Height": {
-        "Deimeters": 2,
         "Meters": 0.2,
         "Feet": 0.7
     },
     "Weight": {
-        "Hectograms": 5,
         "Kilograms": 0.5,
         "Pounds": 1.1
     },
     "DexDescription": "The pollen puff of a happy Ribombee are very nutritious and valuable supplements in Alola. It dislikes rain, for it wets its hair and makes it unable to fly, so if you see a Ribombee you know the weather will be nice.",
-    "Baby": false,
-    "PrimaryEggGroup": "Bug",
-    "SecondaryEggGroup": "Fairy",
     "Evolutions": [
         {
             "From": "Cutiefly",
             "Kind": "Level",
             "Speed": "Medium"
         }
-    ]
+    ],
+    "Image": "ribombee.png"
 }

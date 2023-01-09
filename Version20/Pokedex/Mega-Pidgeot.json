@@ -19,37 +19,27 @@
     "Ability2": "",
     "HiddenAbility": "",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Pro",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "pidgeot-mega.png",
     "GoodStarter": false,
     "_id": "mega-pidgeot",
-    "HasForm": false,
-    "Learnset": "Mega-Pidgeot-Learnset",
-    "Abilities": "No Guard",
-    "Type": "Normal / Flying",
     "DexCategory": "Bird Pokemon",
     "Height": {
-        "Deimeters": 22,
         "Meters": 2.2,
         "Feet": 7.2
     },
     "Weight": {
-        "Hectograms": 505,
         "Kilograms": 50.5,
         "Pounds": 111.3
     },
     "DexDescription": "With the power of the Mega Stone Pidgeot's flying becomes a blurred red stripe in the sky. It won\u2019t stop soaring the skies while in this state without tiring or needing to rest for many days at a time.",
-    "Baby": false,
-    "PrimaryEggGroup": "Flying",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Pidgeot",
             "Kind": "Mega",
             "Item": "Pidgeotite"
         }
-    ]
+    ],
+    "Image": "pidgeot-mega.png"
 }

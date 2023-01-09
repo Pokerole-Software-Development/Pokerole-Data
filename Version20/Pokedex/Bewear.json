@@ -19,37 +19,27 @@
     "Ability2": "Klutz",
     "HiddenAbility": "Unnerve",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Ace",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "bewear.png",
     "GoodStarter": false,
     "_id": "bewear",
-    "HasForm": false,
-    "Learnset": "Bewear-Learnset",
-    "Abilities": "Fluffy / Klutz (Unnerve)",
-    "Type": "Normal / Fighting",
     "DexCategory": "Strong Arm Pokemon",
     "Height": {
-        "Deimeters": 21,
         "Meters": 2.1,
         "Feet": 6.9
     },
     "Weight": {
-        "Hectograms": 1350,
         "Kilograms": 135.0,
         "Pounds": 297.6
     },
     "DexDescription": "They may look friendly but their brute strength makes them very dangerous. Many Trainers have been severely injured and even snapped in half by the \u201chugs\u201d of a Bewear.",
-    "Baby": false,
-    "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Stufful",
             "Kind": "Level",
             "Speed": "Medium"
         }
-    ]
+    ],
+    "Image": "bewear.png"
 }

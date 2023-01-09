@@ -19,31 +19,21 @@
     "Ability2": "Anger Point",
     "HiddenAbility": "Sheer Force",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Amateur",
     "GenderType": "M",
     "Legendary": false,
-    "Sprite": "tauros.png",
     "GoodStarter": false,
     "_id": "tauros",
-    "HasForm": false,
-    "Learnset": "Tauros-Learnset",
-    "Abilities": "Intimidate / Anger Point (Sheer Force)",
-    "Type": "Normal",
     "DexCategory": "Wild Bull Pokemon",
     "Height": {
-        "Deimeters": 14,
         "Meters": 1.4,
         "Feet": 4.6
     },
     "Weight": {
-        "Hectograms": 884,
         "Kilograms": 88.4,
         "Pounds": 194.9
     },
     "DexDescription": "This is a Male species. They travel in herds around the plains and fight each other by locking horns. The herd\u2019s protector takes pride in its battle-scarred horns. Miltank is the female of this species.",
-    "Baby": false,
-    "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": "",
-    "Evolutions": []
+    "Evolutions": [],
+    "Image": "tauros.png"
 }

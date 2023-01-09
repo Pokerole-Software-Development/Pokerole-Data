@@ -19,37 +19,27 @@
     "Ability2": "",
     "HiddenAbility": "Regenerator",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Amateur",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "amoonguss.png",
     "GoodStarter": false,
     "_id": "amoonguss",
-    "HasForm": false,
-    "Learnset": "Amoonguss-Learnset",
-    "Abilities": "Effect Spore (Regenerator)",
-    "Type": "Grass / Poison",
     "DexCategory": "Mushroom Pokemon",
     "Height": {
-        "Deimeters": 6,
         "Meters": 0.6,
         "Feet": 2.0
     },
     "Weight": {
-        "Hectograms": 105,
         "Kilograms": 10.5,
         "Pounds": 23.1
     },
     "DexDescription": "In ancient times the tip of their caps had two eye-like patterns and it made a swaying motion to lure prey to itself, but as they became Pokeball-looking few Pokemon fall for it. It is still very venomous, though.",
-    "Baby": false,
-    "PrimaryEggGroup": "Grass",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Foongus",
             "Kind": "Level",
             "Speed": "Medium"
         }
-    ]
+    ],
+    "Image": "amoonguss.png"
 }

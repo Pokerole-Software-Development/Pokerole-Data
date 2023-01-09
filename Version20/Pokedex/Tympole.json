@@ -19,37 +19,27 @@
     "Ability2": "Hydration",
     "HiddenAbility": "Water Absorb",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Starter",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "tympole.png",
     "GoodStarter": true,
     "_id": "tympole",
-    "HasForm": false,
-    "Learnset": "Tympole-Learnset",
-    "Abilities": "Swift Swim / Hydration (Water Absorb)",
-    "Type": "Water",
     "DexCategory": "Tadpole Pokemon",
     "Height": {
-        "Deimeters": 5,
         "Meters": 0.5,
         "Feet": 1.6
     },
     "Weight": {
-        "Hectograms": 45,
         "Kilograms": 4.5,
         "Pounds": 9.9
     },
     "DexDescription": "They appear in great numbers on marshes and ponds after a heavy rainfall. They warn others of danger and predators by vibrating their cheeks to create a high-pitched sound.",
-    "Baby": false,
-    "PrimaryEggGroup": "Water 1",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "To": "Palpitoad",
             "Kind": "Level",
             "Speed": "Medium"
         }
-    ]
+    ],
+    "Image": "tympole.png"
 }

@@ -19,37 +19,27 @@
     "Ability2": "",
     "HiddenAbility": "Scrappy",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Amateur",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "swellow.png",
     "GoodStarter": false,
     "_id": "swellow",
-    "HasForm": false,
-    "Learnset": "Swellow-Learnset",
-    "Abilities": "Guts (Scrappy)",
-    "Type": "Normal / Flying",
     "DexCategory": "Swallow Pokemon",
     "Height": {
-        "Deimeters": 7,
         "Meters": 0.7,
         "Feet": 2.3
     },
     "Weight": {
-        "Hectograms": 198,
         "Kilograms": 19.8,
         "Pounds": 43.7
     },
     "DexDescription": "They are vain Pokemon, acting with grace and elegance. Swellows are seen circling the skies looking for prey. They can be incredibly fast. If two Swellows meet, they will clean each other\u2019s wings as a sign of peace.",
-    "Baby": false,
-    "PrimaryEggGroup": "Flying",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Taillow",
             "Kind": "Level",
             "Speed": "Medium"
         }
-    ]
+    ],
+    "Image": "swellow.png"
 }

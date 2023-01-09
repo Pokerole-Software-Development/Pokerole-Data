@@ -19,37 +19,27 @@
     "Ability2": "",
     "HiddenAbility": "Cursed Body",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Amateur",
     "GenderType": "N",
     "Legendary": false,
-    "Sprite": "polteageist.png",
     "GoodStarter": false,
     "_id": "polteageist",
-    "HasForm": false,
-    "Learnset": "Polteageist-Learnset",
-    "Abilities": "Weak Armor (Cursed Body)",
-    "Type": "Ghost",
     "DexCategory": "Black Tea Pokemon",
     "Height": {
-        "Deimeters": 2,
         "Meters": 0.2,
         "Feet": 0.7
     },
     "Weight": {
-        "Hectograms": 4,
         "Kilograms": 0.4,
         "Pounds": 0.9
     },
     "DexDescription": "This species lives in old ceramic teapots. They struggle to find real antiques, for most tea sets nowadays are just imitations. Never leave your tea unattended or a Poltegeist might come to haunt it.",
-    "Baby": false,
-    "PrimaryEggGroup": "Mineral",
-    "SecondaryEggGroup": "Amorphous",
     "Evolutions": [
         {
             "From": "Sinistea",
             "Kind": "Item",
             "Item": "Cracked Pot"
         }
-    ]
+    ],
+    "Image": "polteageist.png"
 }

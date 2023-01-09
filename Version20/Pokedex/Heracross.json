@@ -19,37 +19,27 @@
     "Ability2": "Guts",
     "HiddenAbility": "Moxie",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Amateur",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "heracross.png",
     "GoodStarter": false,
     "_id": "heracross",
-    "HasForm": true,
-    "Learnset": "Heracross-Learnset",
-    "Abilities": "Swarm / Guts (Moxie)",
-    "Type": "Bug / Fighting",
     "DexCategory": "Single Horn Pokemon",
     "Height": {
-        "Deimeters": 15,
         "Meters": 1.5,
         "Feet": 4.9
     },
     "Weight": {
-        "Hectograms": 540,
         "Kilograms": 54.0,
         "Pounds": 119.0
     },
     "DexDescription": "A docile creature that loves honey. They batter down trees with their powerful horn and chase off anyone who gets close to their prized honey. Not many Pokemon dare to mess with it in the wild.",
-    "Baby": false,
-    "PrimaryEggGroup": "Bug",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "To": "Mega-Heracross",
             "Kind": "Mega",
             "Item": "Heracronite"
         }
-    ]
+    ],
+    "Image": "heracross.png"
 }

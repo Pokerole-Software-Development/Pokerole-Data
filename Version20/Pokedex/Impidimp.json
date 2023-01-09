@@ -19,37 +19,27 @@
     "Ability2": "Frisk",
     "HiddenAbility": "Pickpocket",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Beginner",
     "GenderType": "M",
     "Legendary": false,
-    "Sprite": "impidimp.png",
     "GoodStarter": true,
     "_id": "impidimp",
-    "HasForm": false,
-    "Learnset": "Impidimp-Learnset",
-    "Abilities": "Prankster / Frisk (Pickpocket)",
-    "Type": "Dark / Fairy",
     "DexCategory": "Wily Pokemon",
     "Height": {
-        "Deimeters": 4,
         "Meters": 0.4,
         "Feet": 1.3
     },
     "Weight": {
-        "Hectograms": 55,
         "Kilograms": 5.5,
         "Pounds": 12.1
     },
     "DexDescription": "Through its nose, it sucks in the dark emanations produced by people and Pokemon when they feel annoyed. It thrives off this negative energy. They love to take things that don\u2019t belong to them.",
-    "Baby": false,
-    "PrimaryEggGroup": "Fairy",
-    "SecondaryEggGroup": "Human-Like",
     "Evolutions": [
         {
             "To": "Morgrem",
             "Kind": "Level",
             "Speed": "Medium"
         }
-    ]
+    ],
+    "Image": "impidimp.png"
 }

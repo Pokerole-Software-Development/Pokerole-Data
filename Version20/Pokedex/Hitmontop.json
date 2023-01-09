@@ -19,32 +19,21 @@
     "Ability2": "Technician",
     "HiddenAbility": "Steadfast",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Ace",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "hitmontop.png",
     "GoodStarter": false,
     "_id": "hitmontop",
-    "HasForm": false,
-    "Learnset": "Hitmontop-Learnset",
-    "Abilities": "Intimidate / Technician (Steadfast)",
-    "Type": "Fighting",
     "DexCategory": "Handstand Pokemon",
     "Height": {
-        "Deimeters": 14,
         "Meters": 1.4,
         "Feet": 4.6
     },
     "Weight": {
-        "Hectograms": 480,
         "Kilograms": 48.0,
         "Pounds": 105.8
     },
     "DexDescription": "They launch high speed kicks while spinning so fast that they get drilled into the ground. They move quicker by spinning than they do walking. They are very smart and like to perform dance-like kicks.",
-    "Baby": false,
-    "PrimaryEggGroup": "Human-Like",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Tyrogue",
@@ -52,5 +41,6 @@
             "Stat": "Dexterity",
             "Value": -1
         }
-    ]
+    ],
+    "Image": "hitmontop.png"
 }

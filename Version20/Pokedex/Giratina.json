@@ -19,36 +19,26 @@
     "Ability2": "",
     "HiddenAbility": "Telepathy",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Master",
     "GenderType": "N",
     "Legendary": true,
-    "Sprite": "giratina.png",
     "GoodStarter": false,
     "_id": "giratina",
-    "HasForm": true,
-    "Learnset": "Giratina-Learnset",
-    "Abilities": "Pressure (Telepathy)",
-    "Type": "Ghost / Dragon",
     "DexCategory": "Plot Device",
     "Height": {
-        "Deimeters": 45,
         "Meters": 4.5,
         "Feet": 14.8
     },
     "Weight": {
-        "Hectograms": 7500,
         "Kilograms": 750.0,
         "Pounds": 1653.5
     },
     "DexDescription": "Plot Device",
-    "Baby": false,
-    "PrimaryEggGroup": "Undiscovered",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "To": "Origin Giratina",
             "Kind": "Form"
         }
-    ]
+    ],
+    "Image": "giratina.png"
 }

@@ -19,37 +19,27 @@
     "Ability2": "",
     "HiddenAbility": "",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Beginner",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "zorua.png",
     "GoodStarter": true,
     "_id": "zorua",
-    "HasForm": false,
-    "Learnset": "Zorua-Learnset",
-    "Abilities": "Illusion",
-    "Type": "Dark",
     "DexCategory": "Tricky Fox Pokemon",
     "Height": {
-        "Deimeters": 7,
         "Meters": 0.7,
         "Feet": 2.3
     },
     "Weight": {
-        "Hectograms": 125,
         "Kilograms": 12.5,
         "Pounds": 27.6
     },
     "DexDescription": "They are very hard to find as they can transform into people and other Pokemon. They cannot speak when transformed and their tail remains visible. They ruin reputations by creating mischief in disguise.",
-    "Baby": false,
-    "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "To": "Zoroark",
             "Kind": "Level",
             "Speed": "Medium"
         }
-    ]
+    ],
+    "Image": "zorua.png"
 }

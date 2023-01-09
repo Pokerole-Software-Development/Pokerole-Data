@@ -19,37 +19,27 @@
     "Ability2": "",
     "HiddenAbility": "Chlorophyll",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Beginner",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "bulbasaur.png",
     "GoodStarter": true,
     "_id": "bulbasaur",
-    "HasForm": false,
-    "Learnset": "Bulbasaur-Learnset",
-    "Abilities": "Overgrow (Chlorophyll)",
-    "Type": "Grass / Poison",
     "DexCategory": "Seed Pokemon",
     "Height": {
-        "Deimeters": 7,
         "Meters": 0.7,
         "Feet": 2.3
     },
     "Weight": {
-        "Hectograms": 69,
         "Kilograms": 6.9,
         "Pounds": 15.2
     },
     "DexDescription": "It carries a seed on its back since birth. As it grows older the seed also grows larger. It is known to be a well-behaved and loyal Pokemon, but pretty rare to find in the wild.",
-    "Baby": false,
-    "PrimaryEggGroup": "Monster",
-    "SecondaryEggGroup": "Grass",
     "Evolutions": [
         {
             "To": "Ivysaur",
             "Kind": "Level",
             "Speed": "Medium"
         }
-    ]
+    ],
+    "Image": "bulbasaur.png"
 }

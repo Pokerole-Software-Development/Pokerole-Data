@@ -19,37 +19,27 @@
     "Ability2": "Stamina",
     "HiddenAbility": "Inner Focus",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Amateur",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "mudsdale.png",
     "GoodStarter": false,
     "_id": "mudsdale",
-    "HasForm": false,
-    "Learnset": "Mudsdale-Learnset",
-    "Abilities": "Own Tempo / Stamina (Inner Focus)",
-    "Type": "Ground",
     "DexCategory": "Draft Horse Pokemon",
     "Height": {
-        "Deimeters": 25,
         "Meters": 2.5,
         "Feet": 8.2
     },
     "Weight": {
-        "Hectograms": 9200,
         "Kilograms": 920.0,
         "Pounds": 2028.3
     },
     "DexDescription": "Hard tempered and resilient. The hooves of this Pokemon stomp through concrete, while it is not very fast it can keep a steady pace for days, even when dragging weight.",
-    "Baby": false,
-    "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Mudbray",
             "Kind": "Level",
             "Speed": "Medium"
         }
-    ]
+    ],
+    "Image": "mudsdale.png"
 }

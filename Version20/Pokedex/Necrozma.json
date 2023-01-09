@@ -19,32 +19,21 @@
     "Ability2": "",
     "HiddenAbility": "",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Pro",
     "GenderType": "N",
     "Legendary": true,
-    "Sprite": "necrozma.png",
     "GoodStarter": false,
     "_id": "necrozma",
-    "HasForm": true,
-    "Learnset": "Necrozma-Learnset",
-    "Abilities": "Prism Armor",
-    "Type": "Psychic",
     "DexCategory": "Aether Foundation Log #179",
     "Height": {
-        "Deimeters": 24,
         "Meters": 2.4,
         "Feet": 7.9
     },
     "Weight": {
-        "Hectograms": 2300,
         "Kilograms": 230.0,
         "Pounds": 507.1
     },
     "DexDescription": "First it was just a passing shadow, a shady lurker on the other side of the abyss, but then today it made an appearance. the creature attached itself to our light sources, depleting them until it was all in darkness.",
-    "Baby": false,
-    "PrimaryEggGroup": "Undiscovered",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "To": "Necrozma Dusk Mane",
@@ -58,5 +47,6 @@
             "To": "Necrozma Ultra Burst",
             "Kind": "Special"
         }
-    ]
+    ],
+    "Image": "necrozma.png"
 }

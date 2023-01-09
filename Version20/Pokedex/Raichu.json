@@ -19,37 +19,27 @@
     "Ability2": "",
     "HiddenAbility": "Lightning Rod",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Amateur",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "raichu.png",
     "GoodStarter": false,
     "_id": "raichu",
-    "HasForm": false,
-    "Learnset": "Raichu-Learnset",
-    "Abilities": "Static (Lightning Rod)",
-    "Type": "Electric",
     "DexCategory": "Mouse Pokemon",
     "Height": {
-        "Deimeters": 8,
         "Meters": 0.8,
         "Feet": 2.6
     },
     "Weight": {
-        "Hectograms": 300,
         "Kilograms": 30.0,
         "Pounds": 66.1
     },
     "DexDescription": "When electricity builds on its body, it starts to emit a faint glow and it becomes more aggressive than it normally is. They live in forests but are rare to find in the wild.",
-    "Baby": false,
-    "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": "Fairy",
     "Evolutions": [
         {
             "From": "Pikachu",
             "Kind": "Stone",
             "Item": "Thunder Stone"
         }
-    ]
+    ],
+    "Image": "raichu.png"
 }

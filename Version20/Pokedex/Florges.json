@@ -19,37 +19,27 @@
     "Ability2": "",
     "HiddenAbility": "Symbiosis",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Amateur",
     "GenderType": "F",
     "Legendary": false,
-    "Sprite": "florges.png",
     "GoodStarter": false,
     "_id": "florges",
-    "HasForm": false,
-    "Learnset": "Florges-Learnset",
-    "Abilities": "Flower Veil (Symbiosis)",
-    "Type": "Fairy",
     "DexCategory": "Garden Pokemon",
     "Height": {
-        "Deimeters": 11,
         "Meters": 1.1,
         "Feet": 3.6
     },
     "Weight": {
-        "Hectograms": 100,
         "Kilograms": 10.0,
         "Pounds": 22.0
     },
     "DexDescription": "In times long past, castle rulers would invite Florges to create flower gardens to embellish their domains. Florges claim beautiful meadows as their territories but they are kind and merciful with visitors.",
-    "Baby": false,
-    "PrimaryEggGroup": "Fairy",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Floette",
             "Kind": "Stone",
             "Item": "Shiny Stone"
         }
-    ]
+    ],
+    "Image": "florges.png"
 }

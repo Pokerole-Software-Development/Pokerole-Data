@@ -19,37 +19,27 @@
     "Ability2": "",
     "HiddenAbility": "",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Ace",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "lopunny-mega.png",
     "GoodStarter": false,
     "_id": "mega-lopunny",
-    "HasForm": true,
-    "Learnset": "Mega-Lopunny-Learnset",
-    "Abilities": "Scrappy",
-    "Type": "Normal / Fighting",
     "DexCategory": "Rabbit Pokemon",
     "Height": {
-        "Deimeters": 13,
         "Meters": 1.3,
         "Feet": 4.3
     },
     "Weight": {
-        "Hectograms": 283,
         "Kilograms": 28.3,
         "Pounds": 62.4
     },
     "DexDescription": "The power of the Mega Stone awakens its combative nature. Most of its fur is lost due to constant fighting, even its ears are used as weapons, whipping foes with heavy hits.",
-    "Baby": false,
-    "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": "Human-Like",
     "Evolutions": [
         {
             "From": "Lopunny",
             "Kind": "Mega",
             "Item": "Lopunnite"
         }
-    ]
+    ],
+    "Image": "lopunny-mega.png"
 }

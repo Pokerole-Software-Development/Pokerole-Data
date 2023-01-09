@@ -19,37 +19,27 @@
     "Ability2": "Infiltrator",
     "HiddenAbility": "Telepathy",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Pro",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "noivern.png",
     "GoodStarter": false,
     "_id": "noivern",
-    "HasForm": false,
-    "Learnset": "Noivern-Learnset",
-    "Abilities": "Frisk / Infiltrator (Telepathy)",
-    "Type": "Flying / Dragon",
     "DexCategory": "Sound Wave Pokemon",
     "Height": {
-        "Deimeters": 15,
         "Meters": 1.5,
         "Feet": 4.9
     },
     "Weight": {
-        "Hectograms": 850,
         "Kilograms": 85.0,
         "Pounds": 187.4
     },
     "DexDescription": "They fly during the new moon and attack careless prey. Nothing can beat them in a battle in the dark. To keep them calm you should feed them fruit or else they\u2019ll release shocking ultrasonic waves.",
-    "Baby": false,
-    "PrimaryEggGroup": "Flying",
-    "SecondaryEggGroup": "Dragon",
     "Evolutions": [
         {
             "From": "Noibat",
             "Kind": "Level",
             "Speed": "Slow"
         }
-    ]
+    ],
+    "Image": "noivern.png"
 }

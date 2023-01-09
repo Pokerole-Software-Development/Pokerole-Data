@@ -19,37 +19,27 @@
     "Ability2": "Serene Grace",
     "HiddenAbility": "Super Luck",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Ace",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "togekiss.png",
     "GoodStarter": false,
     "_id": "togekiss",
-    "HasForm": false,
-    "Learnset": "Togekiss-Learnset",
-    "Abilities": "Hustle / Serene Grace (Super Luck)",
-    "Type": "Fairy / Flying",
     "DexCategory": "Jubilee Pokemon",
     "Height": {
-        "Deimeters": 15,
         "Meters": 1.5,
         "Feet": 4.9
     },
     "Weight": {
-        "Hectograms": 380,
         "Kilograms": 38.0,
         "Pounds": 83.8
     },
     "DexDescription": "Sightings of these Pokemon have become rare nowadays. They used to visit peaceful regions, bringing them gifts of kindness and great blessings. But they appear to have vanished in this times of conflict.",
-    "Baby": false,
-    "PrimaryEggGroup": "Flying",
-    "SecondaryEggGroup": "Fairy",
     "Evolutions": [
         {
             "From": "Togetic",
             "Kind": "Stone",
             "Item": "Shiny Stone"
         }
-    ]
+    ],
+    "Image": "togekiss.png"
 }

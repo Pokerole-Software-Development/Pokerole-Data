@@ -19,32 +19,21 @@
     "Ability2": "",
     "HiddenAbility": "Unnerve",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Pro",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "tyranitar.png",
     "GoodStarter": false,
     "_id": "tyranitar",
-    "HasForm": true,
-    "Learnset": "Tyranitar-Learnset",
-    "Abilities": "Sand Stream (Unnerve)",
-    "Type": "Rock / Dark",
     "DexCategory": "Armor Pokemon",
     "Height": {
-        "Deimeters": 20,
         "Meters": 2.0,
         "Feet": 6.6
     },
     "Weight": {
-        "Hectograms": 2020,
         "Kilograms": 202.0,
         "Pounds": 445.3
     },
     "DexDescription": "Its body is hardly damaged by any attack, so it\u2019s always eager to fight. They are extremely strong, their rage can change landscapes. Tyranitars are insolents, rebels and they care about no one.",
-    "Baby": false,
-    "PrimaryEggGroup": "Monster",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Pupitar",
@@ -56,5 +45,6 @@
             "Kind": "Mega",
             "Item": "Tyranitarite"
         }
-    ]
+    ],
+    "Image": "tyranitar.png"
 }

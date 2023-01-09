@@ -19,37 +19,27 @@
     "Ability2": "Swarm",
     "HiddenAbility": "Speed Boost",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Amateur",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "venipede.png",
     "GoodStarter": true,
     "_id": "venipede",
-    "HasForm": false,
-    "Learnset": "Venipede-Learnset",
-    "Abilities": "Poison Point / Swarm (Speed Boost)",
-    "Type": "Bug / Poison",
     "DexCategory": "Centipede Pokemon",
     "Height": {
-        "Deimeters": 4,
         "Meters": 0.4,
         "Feet": 1.3
     },
     "Weight": {
-        "Hectograms": 53,
         "Kilograms": 5.3,
         "Pounds": 11.7
     },
     "DexDescription": "Incredibly aggressive for a Pokemon that size. It uses the feelers on it\u2019s front and back to locate things around. Its bite injects a potent venom, enough to deter the large bird Pokemon that try to prey on it.",
-    "Baby": false,
-    "PrimaryEggGroup": "Bug",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "To": "Whirlipede",
             "Kind": "Level",
             "Speed": "Medium"
         }
-    ]
+    ],
+    "Image": "venipede.png"
 }

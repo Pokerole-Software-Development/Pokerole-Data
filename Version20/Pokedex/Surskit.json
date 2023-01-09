@@ -19,37 +19,27 @@
     "Ability2": "",
     "HiddenAbility": "Rain Dish",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Beginner",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "surskit.png",
     "GoodStarter": true,
     "_id": "surskit",
-    "HasForm": false,
-    "Learnset": "Surskit-Learnset",
-    "Abilities": "Swift Swim (Rain Dish)",
-    "Type": "Bug / Water",
     "DexCategory": "Pond Skater Pokemon",
     "Height": {
-        "Deimeters": 5,
         "Meters": 0.5,
         "Feet": 1.6
     },
     "Weight": {
-        "Hectograms": 17,
         "Kilograms": 1.7,
         "Pounds": 3.7
     },
     "DexDescription": "Surskit secretes oil from its feet to skate on water. It may be found on ponds, lakes and puddles in towns. The tip of its head produces a delicious sugary syrup often used in desserts and sweets.",
-    "Baby": false,
-    "PrimaryEggGroup": "Water 1",
-    "SecondaryEggGroup": "Bug",
     "Evolutions": [
         {
             "To": "Masquerain",
             "Kind": "Level",
             "Speed": "Fast"
         }
-    ]
+    ],
+    "Image": "surskit.png"
 }

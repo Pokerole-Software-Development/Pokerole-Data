@@ -19,31 +19,21 @@
     "Ability2": "",
     "HiddenAbility": "",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Pro",
     "GenderType": "N",
     "Legendary": true,
-    "Sprite": "kartana.png",
     "GoodStarter": false,
     "_id": "kartana",
-    "HasForm": false,
-    "Learnset": "Kartana-Learnset",
-    "Abilities": "Beast Boost",
-    "Type": "Grass / Steel",
     "DexCategory": "Aether Foundation Log #014",
     "Height": {
-        "Deimeters": 3,
         "Meters": 0.3,
         "Feet": 1.0
     },
     "Weight": {
-        "Hectograms": 1,
         "Kilograms": 0.1,
         "Pounds": 0.2
     },
     "DexDescription": "Its paper-thin body and agility make it too dangerous to approach without serious risk of injury. Our team managed to immobilize it using a heat chamber, though I swear I feel its resentment to us.",
-    "Baby": false,
-    "PrimaryEggGroup": "Undiscovered",
-    "SecondaryEggGroup": "",
-    "Evolutions": []
+    "Evolutions": [],
+    "Image": "kartana.png"
 }

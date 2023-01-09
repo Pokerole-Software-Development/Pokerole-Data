@@ -19,37 +19,27 @@
     "Ability2": "Technician",
     "HiddenAbility": "Rattled",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Amateur",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "persian-alola.png",
     "GoodStarter": false,
     "_id": "alolan-persian",
-    "HasForm": false,
-    "Learnset": "Alolan Persian-Learnset",
-    "Abilities": "Fur Coat / Technician (Rattled)",
-    "Type": "Dark",
     "DexCategory": "Classy Cat Pokemon",
     "Height": {
-        "Deimeters": 11,
         "Meters": 1.1,
         "Feet": 3.6
     },
     "Weight": {
-        "Hectograms": 330,
         "Kilograms": 33.0,
         "Pounds": 72.8
     },
     "DexDescription": "They were bred for their silky fur and round faces, not for their temperament. This is an extremely proud Pokemon who will look down to anyone but itself, despite this, it\u2019s very popular among Alola\u2019s elite.",
-    "Baby": false,
-    "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Alolan Meowth",
             "Kind": "Level",
             "Speed": "Medium"
         }
-    ]
+    ],
+    "Image": "persian-alola.png"
 }

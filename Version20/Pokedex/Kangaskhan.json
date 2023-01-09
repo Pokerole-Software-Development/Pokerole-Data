@@ -19,37 +19,27 @@
     "Ability2": "Scrappy",
     "HiddenAbility": "Inner Focus",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Amateur",
     "GenderType": "F",
     "Legendary": false,
-    "Sprite": "kangaskhan.png",
     "GoodStarter": false,
     "_id": "kangaskhan",
-    "HasForm": true,
-    "Learnset": "Kangaskhan-Learnset",
-    "Abilities": "Early Bird / Scrappy (Inner Focus)",
-    "Type": "Normal",
     "DexCategory": "Parent Pokemon",
     "Height": {
-        "Deimeters": 22,
         "Meters": 2.2,
         "Feet": 7.2
     },
     "Weight": {
-        "Hectograms": 800,
         "Kilograms": 80.0,
         "Pounds": 176.4
     },
     "DexDescription": "A female only species. It raises its offspring in its belly pouch. The young leaves once it learns to find its own food. In the wild, mothers and daughters fiercely defend each other.",
-    "Baby": false,
-    "PrimaryEggGroup": "Monster",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "To": "Mega-Kangaskhan",
             "Kind": "Mega",
             "Item": "Kangaskhanite"
         }
-    ]
+    ],
+    "Image": "kangaskhan.png"
 }

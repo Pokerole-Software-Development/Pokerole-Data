@@ -19,37 +19,27 @@
     "Ability2": "Flash Fire",
     "HiddenAbility": "Unnerve",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Beginner",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "houndour.png",
     "GoodStarter": true,
     "_id": "houndour",
-    "HasForm": false,
-    "Learnset": "Houndour-Learnset",
-    "Abilities": "Early Bird / Flash Fire (Unnerve)",
-    "Type": "Dark / Fire",
     "DexCategory": "Dark Pokemon",
     "Height": {
-        "Deimeters": 6,
         "Meters": 0.6,
         "Feet": 2.0
     },
     "Weight": {
-        "Hectograms": 108,
         "Kilograms": 10.8,
         "Pounds": 23.8
     },
     "DexDescription": "They hunt in coordinated packs to corner their prey. They howl at dawn to announce that this is their territory and bark to communicate tactics. Their teamwork is very efficient and they rarely welcome strangers.",
-    "Baby": false,
-    "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "To": "Houndoom",
             "Kind": "Level",
             "Speed": "Medium"
         }
-    ]
+    ],
+    "Image": "houndour.png"
 }

@@ -19,37 +19,27 @@
     "Ability2": "Intimidate",
     "HiddenAbility": "Guts",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Ace",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "luxray.png",
     "GoodStarter": false,
     "_id": "luxray",
-    "HasForm": false,
-    "Learnset": "Luxray-Learnset",
-    "Abilities": "Rivalry / Intimidate (Guts)",
-    "Type": "Electric",
     "DexCategory": "Gleam Eyes Pokemon",
     "Height": {
-        "Deimeters": 14,
         "Meters": 1.4,
         "Feet": 4.6
     },
     "Weight": {
-        "Hectograms": 420,
         "Kilograms": 42.0,
         "Pounds": 92.6
     },
     "DexDescription": "It is said that it can see through walls. This Pokemon can easily find hiding prey and locate its young. Male Luxrays can be found roaming alone, patrolling their territory; the females hunt in groups.",
-    "Baby": false,
-    "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Luxio",
             "Kind": "Level",
             "Speed": "Medium"
         }
-    ]
+    ],
+    "Image": "luxray.png"
 }

@@ -19,32 +19,21 @@
     "Ability2": "Neutralizing Gas",
     "HiddenAbility": "Stench",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Beginner",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "koffing.png",
     "GoodStarter": true,
     "_id": "koffing",
-    "HasForm": false,
-    "Learnset": "Koffing-Learnset",
-    "Abilities": "Levitate / Neutralizing Gas (Stench)",
-    "Type": "Poison",
     "DexCategory": "Poison Gas Pokemon",
     "Height": {
-        "Deimeters": 6,
         "Meters": 0.6,
         "Feet": 2.0
     },
     "Weight": {
-        "Hectograms": 10,
         "Kilograms": 1.0,
         "Pounds": 2.2
     },
     "DexDescription": "It is drawn to the smog and fumes of the cities. It fills its body with toxic gases to float like a balloon. When it gets nervous it releases a sickly green gas. Breathing this gas will give you a bad case of sniffles.",
-    "Baby": false,
-    "PrimaryEggGroup": "Amorphous",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "To": "Weezing",
@@ -57,5 +46,6 @@
             "Speed": "Slow",
             "Region": "Galar"
         }
-    ]
+    ],
+    "Image": "koffing.png"
 }

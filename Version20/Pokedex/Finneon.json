@@ -19,37 +19,27 @@
     "Ability2": "Storm Drain",
     "HiddenAbility": "Water Veil",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Beginner",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "finneon.png",
     "GoodStarter": true,
     "_id": "finneon",
-    "HasForm": false,
-    "Learnset": "Finneon-Learnset",
-    "Abilities": "Swift Swim / Storm Drain (Water Veil)",
-    "Type": "Water",
     "DexCategory": "Wing Fish Pokemon",
     "Height": {
-        "Deimeters": 4,
         "Meters": 0.4,
         "Feet": 1.3
     },
     "Weight": {
-        "Hectograms": 70,
         "Kilograms": 7.0,
         "Pounds": 15.4
     },
     "DexDescription": "The way its two-tail-fins flutter while it swims has earned Finneon the nickname \u201cBeautifly of the Sea.\u201d The line running down its side can store sunlight and glow brightly at night.",
-    "Baby": false,
-    "PrimaryEggGroup": "Water 2",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "To": "Lumineon",
             "Kind": "Level",
             "Speed": "Medium"
         }
-    ]
+    ],
+    "Image": "finneon.png"
 }

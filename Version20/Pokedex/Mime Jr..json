@@ -19,32 +19,21 @@
     "Ability2": "Filter",
     "HiddenAbility": "Technician",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Starter",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "mime-jr.png",
     "GoodStarter": true,
     "_id": "mime-jr.",
-    "HasForm": false,
-    "Learnset": "Mime Jr.-Learnset",
-    "Abilities": "Soundproof / Filter (Technician)",
-    "Type": "Psychic / Fairy",
     "DexCategory": "Mime Pokemon",
     "Height": {
-        "Deimeters": 6,
         "Meters": 0.6,
         "Feet": 2.0
     },
     "Weight": {
-        "Hectograms": 130,
         "Kilograms": 13.0,
         "Pounds": 28.7
     },
     "DexDescription": "It likes places where people gather and imitates their expressions to try to understand their feelings. It mimics foes, confuses them, then it escapes. It doesn\u2019t take long to become a master mime.",
-    "Baby": true,
-    "PrimaryEggGroup": "Undiscovered",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "To": "Mr. Mime",
@@ -57,5 +46,6 @@
             "Move": "Mimic",
             "Region": "Galar"
         }
-    ]
+    ],
+    "Image": "mime-jr.png"
 }

@@ -19,32 +19,21 @@
     "Ability2": "Rock Head",
     "HiddenAbility": "Reckless",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Amateur",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "rhydon.png",
     "GoodStarter": false,
     "_id": "rhydon",
-    "HasForm": false,
-    "Learnset": "Rhydon-Learnset",
-    "Abilities": "Lightning Rod / Rock Head (Reckless)",
-    "Type": "Ground / Rock",
     "DexCategory": "Drill Pokemon",
     "Height": {
-        "Deimeters": 19,
         "Meters": 1.9,
         "Feet": 6.2
     },
     "Weight": {
-        "Hectograms": 1200,
         "Kilograms": 120.0,
         "Pounds": 264.6
     },
     "DexDescription": "It has a horn that serves as a drill for destroying rocks and boulders. Rhydon occasionally goes for a swim in rivers and even magma pools. Its great resistance prevents it from taking any damage.",
-    "Baby": false,
-    "PrimaryEggGroup": "Monster",
-    "SecondaryEggGroup": "Field",
     "Evolutions": [
         {
             "From": "Rhyhorn",
@@ -56,5 +45,6 @@
             "Kind": "Trade",
             "Item": "Protector"
         }
-    ]
+    ],
+    "Image": "rhydon.png"
 }

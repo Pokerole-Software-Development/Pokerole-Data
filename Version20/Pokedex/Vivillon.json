@@ -19,37 +19,27 @@
     "Ability2": "Compound Eyes",
     "HiddenAbility": "Friend Guard",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Amateur",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "vivillon.png",
     "GoodStarter": false,
     "_id": "vivillon",
-    "HasForm": false,
-    "Learnset": "Vivillon-Learnset",
-    "Abilities": "Shield Dust / Compound Eyes (Friend Guard)",
-    "Type": "Bug / Flying",
     "DexCategory": "Scale Pokemon",
     "Height": {
-        "Deimeters": 12,
         "Meters": 1.2,
         "Feet": 3.9
     },
     "Weight": {
-        "Hectograms": 170,
         "Kilograms": 17.0,
         "Pounds": 37.5
     },
     "DexDescription": "The patterns on this Pokemon\u2019s wings depend on the climate it grows and the flowers it feeds on. A famous Pokemon breeder made one develop a Pokeball pattern, it was sold for a million dollars.",
-    "Baby": false,
-    "PrimaryEggGroup": "Bug",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Spewpa",
             "Kind": "Level",
             "Speed": "Fast"
         }
-    ]
+    ],
+    "Image": "vivillon.png"
 }

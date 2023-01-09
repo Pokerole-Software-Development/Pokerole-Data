@@ -19,37 +19,27 @@
     "Ability2": "Rock Head",
     "HiddenAbility": "Rattled",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Starter",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "bonsly.png",
     "GoodStarter": true,
     "_id": "bonsly",
-    "HasForm": false,
-    "Learnset": "Bonsly-Learnset",
-    "Abilities": "Sturdy / Rock Head (Rattled)",
-    "Type": "Rock",
     "DexCategory": "Bonsai Pokemon",
     "Height": {
-        "Deimeters": 5,
         "Meters": 0.5,
         "Feet": 1.6
     },
     "Weight": {
-        "Hectograms": 150,
         "Kilograms": 15.0,
         "Pounds": 33.1
     },
     "DexDescription": "They thrive in arid places. It looks like it\u2019s crying all the time but it\u2019s actually adjusting the moisture of its body and releasing excess water. Over time they become excellent at impersonating trees.",
-    "Baby": true,
-    "PrimaryEggGroup": "Undiscovered",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "To": "Sudowoodo",
             "Kind": "Level",
             "Move": "Mimic"
         }
-    ]
+    ],
+    "Image": "bonsly.png"
 }

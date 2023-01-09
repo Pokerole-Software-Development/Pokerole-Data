@@ -19,37 +19,27 @@
     "Ability2": "",
     "HiddenAbility": "",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Beginner",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "ferroseed.png",
     "GoodStarter": true,
     "_id": "ferroseed",
-    "HasForm": false,
-    "Learnset": "Ferroseed-Learnset",
-    "Abilities": "Iron Barbs",
-    "Type": "Grass / Steel",
     "DexCategory": "Thorn Seed Pokemon",
     "Height": {
-        "Deimeters": 6,
         "Meters": 0.6,
         "Feet": 2.0
     },
     "Weight": {
-        "Hectograms": 188,
         "Kilograms": 18.8,
         "Pounds": 41.4
     },
     "DexDescription": "They stick their thorns into cave walls and absorb the minerals from the rocks. When threatened, they attack by shooting a barrage of spikes, which gives them a chance to escape by rolling away.",
-    "Baby": false,
-    "PrimaryEggGroup": "Grass",
-    "SecondaryEggGroup": "Mineral",
     "Evolutions": [
         {
             "To": "Ferrothorn",
             "Kind": "Level",
             "Speed": "Medium"
         }
-    ]
+    ],
+    "Image": "ferroseed.png"
 }

@@ -19,37 +19,27 @@
     "Ability2": "Illuminate",
     "HiddenAbility": "Water Absorb",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Beginner",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "chinchou.png",
     "GoodStarter": true,
     "_id": "chinchou",
-    "HasForm": false,
-    "Learnset": "Chinchou-Learnset",
-    "Abilities": "Volt Absorb / Illuminate (Water Absorb)",
-    "Type": "Water / Electric",
     "DexCategory": "Angler Pokemon",
     "Height": {
-        "Deimeters": 5,
         "Meters": 0.5,
         "Feet": 1.6
     },
     "Weight": {
-        "Hectograms": 120,
         "Kilograms": 12.0,
         "Pounds": 26.5
     },
     "DexDescription": "In the dark ocean floor, its only mean of communication is to constantly flash its lights. It is a clumsy but friendly Pokemon. Its antennae can be used to power up small electric appliances.",
-    "Baby": false,
-    "PrimaryEggGroup": "Water 2",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "To": "Lanturn",
             "Kind": "Level",
             "Speed": "Medium"
         }
-    ]
+    ],
+    "Image": "chinchou.png"
 }

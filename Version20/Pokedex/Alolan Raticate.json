@@ -19,37 +19,27 @@
     "Ability2": "Hustle",
     "HiddenAbility": "Thick Fat",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Amateur",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "raticate-alola.png",
     "GoodStarter": false,
     "_id": "alolan-raticate",
-    "HasForm": false,
-    "Learnset": "Alolan Raticate-Learnset",
-    "Abilities": "Gluttony / Hustle (Thick Fat)",
-    "Type": "Dark / Normal",
     "DexCategory": "Mouse Pokemon",
     "Height": {
-        "Deimeters": 7,
         "Meters": 0.7,
         "Feet": 2.3
     },
     "Weight": {
-        "Hectograms": 255,
         "Kilograms": 25.5,
         "Pounds": 56.2
     },
     "DexDescription": "Alolan Raticate command their Rattata underlings to bring them food every night. Five star restaurants often struggle with these aggressive Pokemon nesting close to their grounds.",
-    "Baby": false,
-    "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Alolan Rattata",
             "Kind": "Level",
             "Speed": "Medium"
         }
-    ]
+    ],
+    "Image": "raticate-alola.png"
 }

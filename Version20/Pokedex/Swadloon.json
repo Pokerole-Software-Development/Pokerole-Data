@@ -19,32 +19,21 @@
     "Ability2": "Chlorophyll",
     "HiddenAbility": "Overcoat",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Beginner",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "swadloon.png",
     "GoodStarter": false,
     "_id": "swadloon",
-    "HasForm": false,
-    "Learnset": "Swadloon-Learnset",
-    "Abilities": "Leaf Guard / Chlorophyll (Overcoat)",
-    "Type": "Bug / Grass",
     "DexCategory": "Leaf-Wrapped Pokemon",
     "Height": {
-        "Deimeters": 5,
         "Meters": 0.5,
         "Feet": 1.6
     },
     "Weight": {
-        "Hectograms": 73,
         "Kilograms": 7.3,
         "Pounds": 16.1
     },
     "DexDescription": "Preferring dark and damp places, it spends the entire day inside rotting logs. It protects itself from the cold by wrapping up in leaves. It\u2019s kind of moody and it likes to remain undisturbed.",
-    "Baby": false,
-    "PrimaryEggGroup": "Bug",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Sewaddle",
@@ -57,5 +46,6 @@
             "Stat": "Happiness",
             "Value": 4
         }
-    ]
+    ],
+    "Image": "swadloon.png"
 }

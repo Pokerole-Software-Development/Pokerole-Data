@@ -19,37 +19,27 @@
     "Ability2": "",
     "HiddenAbility": "Plus",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Beginner",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "mareep.png",
     "GoodStarter": true,
     "_id": "mareep",
-    "HasForm": false,
-    "Learnset": "Mareep-Learnset",
-    "Abilities": "Static (Plus)",
-    "Type": "Electric",
     "DexCategory": "Wool Pokemon",
     "Height": {
-        "Deimeters": 6,
         "Meters": 0.6,
         "Feet": 2.0
     },
     "Weight": {
-        "Hectograms": 78,
         "Kilograms": 7.8,
         "Pounds": 17.2
     },
     "DexDescription": "Its fluffy coat of wool builds a static charge, the more static electricity, the more brightly the lightbulb at the tip of its tail glows. Farmers shed their wool by the summer but it grows back quickly.",
-    "Baby": false,
-    "PrimaryEggGroup": "Monster",
-    "SecondaryEggGroup": "Field",
     "Evolutions": [
         {
             "To": "Flaaffy",
             "Kind": "Level",
             "Speed": "Medium"
         }
-    ]
+    ],
+    "Image": "mareep.png"
 }

@@ -19,37 +19,27 @@
     "Ability2": "Technician",
     "HiddenAbility": "Skill Link",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Amateur",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "cinccino.png",
     "GoodStarter": false,
     "_id": "cinccino",
-    "HasForm": false,
-    "Learnset": "Cinccino-Learnset",
-    "Abilities": "Cute Charm / Technician (Skill Link)",
-    "Type": "Normal",
     "DexCategory": "Scarf Pokemon",
     "Height": {
-        "Deimeters": 5,
         "Meters": 0.5,
         "Feet": 1.6
     },
     "Weight": {
-        "Hectograms": 75,
         "Kilograms": 7.5,
         "Pounds": 16.5
     },
     "DexDescription": "Their fur feels amazing to the touch. It produces an oil that repels dust and prevents static electricity from building up. It loves to be groomed and pampered. The fur it sheds is highly valued.",
-    "Baby": false,
-    "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Minccino",
             "Kind": "Stone",
             "Item": "Shiny Stone"
         }
-    ]
+    ],
+    "Image": "cinccino.png"
 }

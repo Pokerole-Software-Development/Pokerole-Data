@@ -19,37 +19,27 @@
     "Ability2": "Flame Body",
     "HiddenAbility": "Infiltrator",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Beginner",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "litwick.png",
     "GoodStarter": true,
     "_id": "litwick",
-    "HasForm": false,
-    "Learnset": "Litwick-Learnset",
-    "Abilities": "Flash Fire / Flame Body (Infiltrator)",
-    "Type": "Ghost / Fire",
     "DexCategory": "Candle Pokemon",
     "Height": {
-        "Deimeters": 3,
         "Meters": 0.3,
         "Feet": 1.0
     },
     "Weight": {
-        "Hectograms": 31,
         "Kilograms": 3.1,
         "Pounds": 6.8
     },
     "DexDescription": "Its flame is usually out, but it starts burning whenever it absorbs the life force from others. They trick lost people into thinking they are helping them find their way in the dark but those who follow them never return.",
-    "Baby": false,
-    "PrimaryEggGroup": "Amorphous",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "To": "Lampent",
             "Kind": "Level",
             "Speed": "Medium"
         }
-    ]
+    ],
+    "Image": "litwick.png"
 }

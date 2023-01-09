@@ -19,37 +19,27 @@
     "Ability2": "Own Tempo",
     "HiddenAbility": "Gluttony",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Amateur",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "grumpig.png",
     "GoodStarter": false,
     "_id": "grumpig",
-    "HasForm": false,
-    "Learnset": "Grumpig-Learnset",
-    "Abilities": "Thick Fat / Own Tempo (Gluttony)",
-    "Type": "Psychic",
     "DexCategory": "Manipulate Pokemon",
     "Height": {
-        "Deimeters": 9,
         "Meters": 0.9,
         "Feet": 3.0
     },
     "Weight": {
-        "Hectograms": 715,
         "Kilograms": 71.5,
         "Pounds": 157.6
     },
     "DexDescription": "Grumpigs control their foes with their psychic powers amplified by the pearls on their head and a hypnotic dance. However, when they use their powers, they have a difficult time breathing.",
-    "Baby": false,
-    "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Spoink",
             "Kind": "Level",
             "Speed": "Medium"
         }
-    ]
+    ],
+    "Image": "grumpig.png"
 }

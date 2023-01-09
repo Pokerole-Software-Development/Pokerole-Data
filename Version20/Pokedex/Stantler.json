@@ -19,31 +19,21 @@
     "Ability2": "Frisk",
     "HiddenAbility": "Sap Sipper",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Amateur",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "stantler.png",
     "GoodStarter": false,
     "_id": "stantler",
-    "HasForm": false,
-    "Learnset": "Stantler-Learnset",
-    "Abilities": "Intimidate / Frisk (Sap Sipper)",
-    "Type": "Normal",
     "DexCategory": "Bighorn Pokemon",
     "Height": {
-        "Deimeters": 14,
         "Meters": 1.4,
         "Feet": 4.6
     },
     "Weight": {
-        "Hectograms": 712,
         "Kilograms": 71.2,
         "Pounds": 157.0
     },
     "DexDescription": "Their antlers create a distortion in space that causes confusion. They were hunted for their magnificent antlers that were traded at high prices. This drove Stantlers close to extinction.",
-    "Baby": false,
-    "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": "",
-    "Evolutions": []
+    "Evolutions": [],
+    "Image": "stantler.png"
 }

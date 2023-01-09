@@ -19,32 +19,21 @@
     "Ability2": "Poison Point",
     "HiddenAbility": "Leaf Guard",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Starter",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "budew.png",
     "GoodStarter": true,
     "_id": "budew",
-    "HasForm": false,
-    "Learnset": "Budew-Learnset",
-    "Abilities": "Natural Cure / Poison Point (Leaf Guard)",
-    "Type": "Grass / Poison",
     "DexCategory": "Bud Pokemon",
     "Height": {
-        "Deimeters": 2,
         "Meters": 0.2,
         "Feet": 0.7
     },
     "Weight": {
-        "Hectograms": 12,
         "Kilograms": 1.2,
         "Pounds": 2.6
     },
     "DexDescription": "It blossoms near clear ponds. Budew needs nurturing and care to grow healthy and beautiful, otherwise its bud will never bloom. If threatened, they will reveal their small but poisonous thorns.",
-    "Baby": true,
-    "PrimaryEggGroup": "Undiscovered",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "To": "Roselia",
@@ -52,5 +41,6 @@
             "Stat": "Happiness",
             "Value": 4
         }
-    ]
+    ],
+    "Image": "budew.png"
 }

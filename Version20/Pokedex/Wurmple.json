@@ -19,32 +19,21 @@
     "Ability2": "",
     "HiddenAbility": "Run Away",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Starter",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "wurmple.png",
     "GoodStarter": true,
     "_id": "wurmple",
-    "HasForm": false,
-    "Learnset": "Wurmple-Learnset",
-    "Abilities": "Shield Dust (Run Away)",
-    "Type": "Bug",
     "DexCategory": "Worm Pokemon",
     "Height": {
-        "Deimeters": 3,
         "Meters": 0.3,
         "Feet": 1.0
     },
     "Weight": {
-        "Hectograms": 36,
         "Kilograms": 3.6,
         "Pounds": 7.9
     },
     "DexDescription": "It uses the spikes on its rear to peel the trees and feed on their sap. Their feet have suction pads to climb easily. Wurmples are plentiful and live in forests, but they are often attacked by bird Pokemon.",
-    "Baby": false,
-    "PrimaryEggGroup": "Bug",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "To": "Silcoon",
@@ -56,5 +45,6 @@
             "Kind": "Level",
             "Speed": "Fast"
         }
-    ]
+    ],
+    "Image": "wurmple.png"
 }

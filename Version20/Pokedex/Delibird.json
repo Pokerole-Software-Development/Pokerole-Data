@@ -19,31 +19,21 @@
     "Ability2": "Hustle",
     "HiddenAbility": "Insomnia",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Amateur",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "delibird.png",
     "GoodStarter": false,
     "_id": "delibird",
-    "HasForm": false,
-    "Learnset": "Delibird-Learnset",
-    "Abilities": "Vital Spirit / Hustle (Insomnia)",
-    "Type": "Ice / Flying",
     "DexCategory": "Delivery Pokemon",
     "Height": {
-        "Deimeters": 9,
         "Meters": 0.9,
         "Feet": 3.0
     },
     "Weight": {
-        "Hectograms": 160,
         "Kilograms": 16.0,
         "Pounds": 35.3
     },
     "DexDescription": "Delibird is always carrying food for its chicks and people in need. They are related to the image of Santa Claus since they always carry presents for their good and naughty kids in their bag-looking tail.",
-    "Baby": false,
-    "PrimaryEggGroup": "Water 1",
-    "SecondaryEggGroup": "Field",
-    "Evolutions": []
+    "Evolutions": [],
+    "Image": "delibird.png"
 }

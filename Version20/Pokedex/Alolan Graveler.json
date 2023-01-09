@@ -19,32 +19,21 @@
     "Ability2": "Sturdy",
     "HiddenAbility": "Galvanize",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Amateur",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "graveler-alola.png",
     "GoodStarter": false,
     "_id": "alolan-graveler",
-    "HasForm": false,
-    "Learnset": "Alolan Graveler-Learnset",
-    "Abilities": "Magnet Pull / Sturdy (Galvanize)",
-    "Type": "Rock / Electric",
     "DexCategory": "Rock Pokemon",
     "Height": {
-        "Deimeters": 10,
         "Meters": 1.0,
         "Feet": 3.3
     },
     "Weight": {
-        "Hectograms": 1100,
         "Kilograms": 110.0,
         "Pounds": 242.5
     },
     "DexDescription": "These Pokemon charge themselves by rolling around, it is dangerous if two of them collide, a loud noise and a flash of light will be seen and heard at great distance. They feed on golden dravite.",
-    "Baby": false,
-    "PrimaryEggGroup": "Mineral",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Alolan Geodude",
@@ -55,5 +44,6 @@
             "To": "Alolan Golem",
             "Kind": "Trade"
         }
-    ]
+    ],
+    "Image": "graveler-alola.png"
 }

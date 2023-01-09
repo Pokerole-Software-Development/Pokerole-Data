@@ -19,37 +19,27 @@
     "Ability2": "Infiltrator",
     "HiddenAbility": "Chlorophyll",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Beginner",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "cottonee.png",
     "GoodStarter": true,
     "_id": "cottonee",
-    "HasForm": false,
-    "Learnset": "Cottonee-Learnset",
-    "Abilities": "Prankster / Infiltrator (Chlorophyll)",
-    "Type": "Grass / Fairy",
     "DexCategory": "Cotton Puff Pokemon",
     "Height": {
-        "Deimeters": 3,
         "Meters": 0.3,
         "Feet": 1.0
     },
     "Weight": {
-        "Hectograms": 6,
         "Kilograms": 0.6,
         "Pounds": 1.3
     },
     "DexDescription": "They go wherever the wind takes them. On rainy days they can\u2019t float, so they take shelter beneath big trees. To defend from predators they shed their cotton and leave it as a decoy while they escape.",
-    "Baby": false,
-    "PrimaryEggGroup": "Fairy",
-    "SecondaryEggGroup": "Grass",
     "Evolutions": [
         {
             "To": "Whimsicott",
             "Kind": "Stone",
             "Item": "Sun Stone"
         }
-    ]
+    ],
+    "Image": "cottonee.png"
 }

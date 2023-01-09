@@ -19,37 +19,27 @@
     "Ability2": "",
     "HiddenAbility": "Magician",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Starter",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "fennekin.png",
     "GoodStarter": true,
     "_id": "fennekin",
-    "HasForm": false,
-    "Learnset": "Fennekin-Learnset",
-    "Abilities": "Blaze (Magician)",
-    "Type": "Fire",
     "DexCategory": "Fox Pokemon",
     "Height": {
-        "Deimeters": 4,
         "Meters": 0.4,
         "Feet": 1.3
     },
     "Weight": {
-        "Hectograms": 94,
         "Kilograms": 9.4,
         "Pounds": 20.7
     },
     "DexDescription": "This small and elusive Pokemon intimidates opponents by puffing hot air out of its ears. It likes to keep twigs and sticks nearby to munch them instead of snacks. They make good pets but they are pretty rare.",
-    "Baby": false,
-    "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "To": "Braixen",
             "Kind": "Level",
             "Speed": "Medium"
         }
-    ]
+    ],
+    "Image": "fennekin.png"
 }

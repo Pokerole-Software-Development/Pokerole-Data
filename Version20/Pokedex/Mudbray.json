@@ -19,37 +19,27 @@
     "Ability2": "Stamina",
     "HiddenAbility": "Inner Focus",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Beginner",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "mudbray.png",
     "GoodStarter": true,
     "_id": "mudbray",
-    "HasForm": false,
-    "Learnset": "Mudbray-Learnset",
-    "Abilities": "Own Tempo / Stamina (Inner Focus)",
-    "Type": "Ground",
     "DexCategory": "Donkey Pokemon",
     "Height": {
-        "Deimeters": 10,
         "Meters": 1.0,
         "Feet": 3.3
     },
     "Weight": {
-        "Hectograms": 1100,
         "Kilograms": 110.0,
         "Pounds": 242.5
     },
     "DexDescription": "They are very strong, the mud on their hooves serves them as grip to pull themselves forward. They enjoy prancing in muddy places and will become stubborn and disobedient if denied that pleasure.",
-    "Baby": false,
-    "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "To": "Mudsdale",
             "Kind": "Level",
             "Speed": "Medium"
         }
-    ]
+    ],
+    "Image": "mudbray.png"
 }

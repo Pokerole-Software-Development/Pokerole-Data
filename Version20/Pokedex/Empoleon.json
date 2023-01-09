@@ -19,37 +19,27 @@
     "Ability2": "",
     "HiddenAbility": "Defiant",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Ace",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "empoleon.png",
     "GoodStarter": false,
     "_id": "empoleon",
-    "HasForm": false,
-    "Learnset": "Empoleon-Learnset",
-    "Abilities": "Torrent (Defiant)",
-    "Type": "Water / Steel",
     "DexCategory": "Emperor Pokemon",
     "Height": {
-        "Deimeters": 17,
         "Meters": 1.7,
         "Feet": 5.6
     },
     "Weight": {
-        "Hectograms": 845,
         "Kilograms": 84.5,
         "Pounds": 186.3
     },
     "DexDescription": "They are regal and arrogant. Their beaks slice apart the drifting ice while swimming as fast as a jet boat. They avoid unnecessary fights, but will crush and cleave anyone that hurts or threatens its pride.",
-    "Baby": false,
-    "PrimaryEggGroup": "Water 1",
-    "SecondaryEggGroup": "Field",
     "Evolutions": [
         {
             "From": "Prinplup",
             "Kind": "Level",
             "Speed": "Medium"
         }
-    ]
+    ],
+    "Image": "empoleon.png"
 }

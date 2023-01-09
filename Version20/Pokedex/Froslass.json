@@ -19,32 +19,21 @@
     "Ability2": "",
     "HiddenAbility": "Cursed Body",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Ace",
     "GenderType": "F",
     "Legendary": false,
-    "Sprite": "froslass.png",
     "GoodStarter": false,
     "_id": "froslass",
-    "HasForm": true,
-    "Learnset": "Froslass-Learnset",
-    "Abilities": "Snow Cloak (Cursed Body)",
-    "Type": "Ice / Ghost",
     "DexCategory": "Snow Land Pokemon",
     "Height": {
-        "Deimeters": 13,
         "Meters": 1.3,
         "Feet": 4.3
     },
     "Weight": {
-        "Hectograms": 266,
         "Kilograms": 26.6,
         "Pounds": 58.6
     },
     "DexDescription": "This Pokemon is female only. Legends in snowy regions say that a woman who was lost at an icy mountain was reborn as Froslass. It appears during blizzards to take lost people away.",
-    "Baby": false,
-    "PrimaryEggGroup": "Fairy",
-    "SecondaryEggGroup": "Mineral",
     "Evolutions": [
         {
             "From": "Snorunt",
@@ -52,5 +41,6 @@
             "Item": "Dawn Stone",
             "Gender": "Female"
         }
-    ]
+    ],
+    "Image": "froslass.png"
 }

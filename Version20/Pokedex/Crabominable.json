@@ -19,37 +19,27 @@
     "Ability2": "Iron Fist",
     "HiddenAbility": "Anger Point",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Ace",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "crabominable.png",
     "GoodStarter": false,
     "_id": "crabominable",
-    "HasForm": false,
-    "Learnset": "Crabominable-Learnset",
-    "Abilities": "Hyper Cutter / Iron Fist (Anger Point)",
-    "Type": "Fighting / Ice",
     "DexCategory": "Woolly Crab Pokemon",
     "Height": {
-        "Deimeters": 17,
         "Meters": 1.7,
         "Feet": 5.6
     },
     "Weight": {
-        "Hectograms": 1800,
         "Kilograms": 180.0,
         "Pounds": 396.8
     },
     "DexDescription": "Crawbrawlers who get lost in the snowy mountains of Alola are forced to evolve into a more suited form. Crabominables are not very smart and throw punches to friends and foes alike when they panic.",
-    "Baby": false,
-    "PrimaryEggGroup": "Water 3",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Crabrawler",
             "Kind": "Level",
             "Speed": "Medium"
         }
-    ]
+    ],
+    "Image": "crabominable.png"
 }

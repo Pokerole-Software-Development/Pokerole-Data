@@ -19,36 +19,26 @@
     "Ability2": "Sheer Force",
     "HiddenAbility": "Iron Fist",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Ace",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "conkeldurr.png",
     "GoodStarter": false,
     "_id": "conkeldurr",
-    "HasForm": false,
-    "Learnset": "Conkeldurr-Learnset",
-    "Abilities": "Guts / Sheer Force (Iron Fist)",
-    "Type": "Fighting",
     "DexCategory": "Muscular Pokemon",
     "Height": {
-        "Deimeters": 14,
         "Meters": 1.4,
         "Feet": 4.6
     },
     "Weight": {
-        "Hectograms": 870,
         "Kilograms": 87.0,
         "Pounds": 191.8
     },
     "DexDescription": "They use concrete pillars as walking canes and swing the pillars freely in battle. Anthropology research says that this Pokemon may have taught humans how to make concrete out of rocks thousands of years ago.",
-    "Baby": false,
-    "PrimaryEggGroup": "Human-Like",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Gurdurr",
             "Kind": "Trade"
         }
-    ]
+    ],
+    "Image": "conkeldurr.png"
 }

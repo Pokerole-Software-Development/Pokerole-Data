@@ -19,37 +19,27 @@
     "Ability2": "",
     "HiddenAbility": "",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Master",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "salamence-mega.png",
     "GoodStarter": false,
     "_id": "mega-salamence",
-    "HasForm": false,
-    "Learnset": "Mega-Salamence-Learnset",
-    "Abilities": "Aerilate",
-    "Type": "Dragon / Flying",
     "DexCategory": "Dragon Pokemon",
     "Height": {
-        "Deimeters": 18,
         "Meters": 1.8,
         "Feet": 5.9
     },
     "Weight": {
-        "Hectograms": 1126,
         "Kilograms": 112.6,
         "Pounds": 248.2
     },
     "DexDescription": "The power of the Mega Stone gives it the nickname \u201cThe blood-soaked Crescent\u201d. It is violent and very unpredictable, even turning on their own trainer. Many believe it is because its bent wings cause it pain.",
-    "Baby": false,
-    "PrimaryEggGroup": "Dragon",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Salamence",
             "Kind": "Mega",
             "Item": "Salamencite"
         }
-    ]
+    ],
+    "Image": "salamence-mega.png"
 }

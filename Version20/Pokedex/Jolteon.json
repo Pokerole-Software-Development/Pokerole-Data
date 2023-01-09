@@ -19,37 +19,27 @@
     "Ability2": "",
     "HiddenAbility": "Quick Feet",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Amateur",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "jolteon.png",
     "GoodStarter": false,
     "_id": "jolteon",
-    "HasForm": false,
-    "Learnset": "Jolteon-Learnset",
-    "Abilities": "Volt Absorb (Quick Feet)",
-    "Type": "Electric",
     "DexCategory": "Lightning Pokemon",
     "Height": {
-        "Deimeters": 8,
         "Meters": 0.8,
         "Feet": 2.6
     },
     "Weight": {
-        "Hectograms": 245,
         "Kilograms": 24.5,
         "Pounds": 54.0
     },
     "DexDescription": "This Pokemon evolved after being affected by electric radiation. Every hair on its body starts to stand sharply if it becomes charged with electricity. It shoots lightning from all around its body.",
-    "Baby": false,
-    "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Eevee",
             "Kind": "Stone",
             "Item": "Thunder Stone"
         }
-    ]
+    ],
+    "Image": "jolteon.png"
 }

@@ -19,37 +19,27 @@
     "Ability2": "Oblivious",
     "HiddenAbility": "Pressure",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Ace",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "wailord.png",
     "GoodStarter": false,
     "_id": "wailord",
-    "HasForm": false,
-    "Learnset": "Wailord-Learnset",
-    "Abilities": "Water Veil / Oblivious (Pressure)",
-    "Type": "Water",
     "DexCategory": "Float Whale Pokemon",
     "Height": {
-        "Deimeters": 145,
         "Meters": 14.5,
         "Feet": 47.6
     },
     "Weight": {
-        "Hectograms": 3980,
         "Kilograms": 398.0,
         "Pounds": 877.4
     },
     "DexDescription": "The largest Pokemon known to date. Wailords weight is really light so they can dive almost 10,000 feet with one breath. They live in open ocean herding fish to swallow in one gulp. They are used to being free.",
-    "Baby": false,
-    "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": "Water 2",
     "Evolutions": [
         {
             "From": "Wailmer",
             "Kind": "Level",
             "Speed": "Slow"
         }
-    ]
+    ],
+    "Image": "wailord.png"
 }

@@ -19,32 +19,21 @@
     "Ability2": "",
     "HiddenAbility": "Harvest",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Amateur",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "exeggutor-alola.png",
     "GoodStarter": false,
     "_id": "alolan-exeggutor",
-    "HasForm": false,
-    "Learnset": "Alolan Exeggutor-Learnset",
-    "Abilities": "Frisk (Harvest)",
-    "Type": "Grass / Dragon",
     "DexCategory": "Coconut Pokemon",
     "Height": {
-        "Deimeters": 109,
         "Meters": 10.9,
         "Feet": 35.8
     },
     "Weight": {
-        "Hectograms": 4156,
         "Kilograms": 415.6,
         "Pounds": 916.2
     },
     "DexDescription": "Alola is the native region for this Pokemon, only in there it can evolve into this form. With this size, its Psychic abilities are rarely needed and its trainer\u2019s order\u2019s rarely heard. They enjoy the sun in the beach..",
-    "Baby": false,
-    "PrimaryEggGroup": "Grass",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Exeggcute",
@@ -52,5 +41,6 @@
             "Item": "Leaf Stone",
             "Region": "Alola"
         }
-    ]
+    ],
+    "Image": "exeggutor-alola.png"
 }

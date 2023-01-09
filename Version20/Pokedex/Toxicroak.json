@@ -19,37 +19,27 @@
     "Ability2": "Dry Skin",
     "HiddenAbility": "Poison Touch",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Amateur",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "toxicroak.png",
     "GoodStarter": false,
     "_id": "toxicroak",
-    "HasForm": false,
-    "Learnset": "Toxicroak-Learnset",
-    "Abilities": "Anticipation / Dry Skin (Poison Touch)",
-    "Type": "Poison / Fighting",
     "DexCategory": "Toxic Mouth Pokemon",
     "Height": {
-        "Deimeters": 13,
         "Meters": 1.3,
         "Feet": 4.3
     },
     "Weight": {
-        "Hectograms": 444,
         "Kilograms": 44.4,
         "Pounds": 97.9
     },
     "DexDescription": "The toxin made in its poison sacs is pumped into the knuckle claws through tubes down its arms. Its toxins are so powerful that even a scratch from its knuckles could be fatal in a few hours.",
-    "Baby": false,
-    "PrimaryEggGroup": "Human-Like",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Croagunk",
             "Kind": "Level",
             "Speed": "Medium"
         }
-    ]
+    ],
+    "Image": "toxicroak.png"
 }

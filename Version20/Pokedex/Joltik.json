@@ -19,37 +19,27 @@
     "Ability2": "Unnerve",
     "HiddenAbility": "Swarm",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Starter",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "joltik.png",
     "GoodStarter": true,
     "_id": "joltik",
-    "HasForm": false,
-    "Learnset": "Joltik-Learnset",
-    "Abilities": "Compound Eyes / Unnerve (Swarm)",
-    "Type": "Bug / Electric",
     "DexCategory": "Attaching Pokemon",
     "Height": {
-        "Deimeters": 1,
         "Meters": 0.1,
         "Feet": 0.3
     },
     "Weight": {
-        "Hectograms": 6,
         "Kilograms": 0.6,
         "Pounds": 1.3
     },
     "DexDescription": "Since it can\u2019t generate its own charge, it sticks into larger Pokemon and absorbs the static electricity of their fur. In the cities they suck electricity from the outlets they find, skyrocketting the power bill.",
-    "Baby": false,
-    "PrimaryEggGroup": "Bug",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "To": "Galvantula",
             "Kind": "Level",
             "Speed": "Medium"
         }
-    ]
+    ],
+    "Image": "joltik.png"
 }

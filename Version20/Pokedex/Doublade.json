@@ -19,32 +19,21 @@
     "Ability2": "",
     "HiddenAbility": "",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Ace",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "doublade.png",
     "GoodStarter": false,
     "_id": "doublade",
-    "HasForm": false,
-    "Learnset": "Doublade-Learnset",
-    "Abilities": "No Guard",
-    "Type": "Steel / Ghost",
     "DexCategory": "Sword Pokemon",
     "Height": {
-        "Deimeters": 8,
         "Meters": 0.8,
         "Feet": 2.6
     },
     "Weight": {
-        "Hectograms": 45,
         "Kilograms": 4.5,
         "Pounds": 9.9
     },
     "DexDescription": "Both swords share a telepathic link to coordinate attacks and slash their enemies to shreds. They feed on the rage of their wielder and promise to make him unbeatable at the cost of his flesh and soul.",
-    "Baby": false,
-    "PrimaryEggGroup": "Mineral",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Honedge",
@@ -56,5 +45,6 @@
             "Kind": "Stone",
             "Item": "Dusk Stone"
         }
-    ]
+    ],
+    "Image": "doublade.png"
 }

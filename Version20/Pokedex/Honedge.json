@@ -19,37 +19,27 @@
     "Ability2": "",
     "HiddenAbility": "",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Amateur",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "honedge.png",
     "GoodStarter": true,
     "_id": "honedge",
-    "HasForm": false,
-    "Learnset": "Honedge-Learnset",
-    "Abilities": "No Guard",
-    "Type": "Steel / Ghost",
     "DexCategory": "Sword Pokemon",
     "Height": {
-        "Deimeters": 8,
         "Meters": 0.8,
         "Feet": 2.6
     },
     "Weight": {
-        "Hectograms": 20,
         "Kilograms": 2.0,
         "Pounds": 4.4
     },
     "DexDescription": "During ancient war times this ruthless Pokemon was born from the spirits of warriors who died in battle. It is a cursed sword that seeks revenge and bloodshed. It will drain the life energy of anyone that wields it.",
-    "Baby": false,
-    "PrimaryEggGroup": "Mineral",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "To": "Doublade",
             "Kind": "Level",
             "Speed": "Slow"
         }
-    ]
+    ],
+    "Image": "honedge.png"
 }

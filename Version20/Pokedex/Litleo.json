@@ -19,37 +19,27 @@
     "Ability2": "Unnerve",
     "HiddenAbility": "Moxie",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Amateur",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "litleo.png",
     "GoodStarter": true,
     "_id": "litleo",
-    "HasForm": false,
-    "Learnset": "Litleo-Learnset",
-    "Abilities": "Rivalry / Unnerve (Moxie)",
-    "Type": "Fire / Normal",
     "DexCategory": "Lion Cub Pokemon",
     "Height": {
-        "Deimeters": 6,
         "Meters": 0.6,
         "Feet": 2.0
     },
     "Weight": {
-        "Hectograms": 135,
         "Kilograms": 13.5,
         "Pounds": 29.8
     },
     "DexDescription": "Quick on temper and to take on a fight. They use their mane to scorch their enemies. Some of them set off from their pride to live alone. Only those who develop a full mane get to lead their own pride.",
-    "Baby": false,
-    "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "To": "Pyroar",
             "Kind": "Level",
             "Speed": "Medium"
         }
-    ]
+    ],
+    "Image": "litleo.png"
 }

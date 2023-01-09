@@ -19,37 +19,27 @@
     "Ability2": "",
     "HiddenAbility": "",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Ace",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "slaking.png",
     "GoodStarter": false,
     "_id": "slaking",
-    "HasForm": false,
-    "Learnset": "Slaking-Learnset",
-    "Abilities": "Truant",
-    "Type": "Normal",
     "DexCategory": "Lazy Pokemon",
     "Height": {
-        "Deimeters": 20,
         "Meters": 2.0,
         "Feet": 6.6
     },
     "Weight": {
-        "Hectograms": 1305,
         "Kilograms": 130.5,
         "Pounds": 287.7
     },
     "DexDescription": "They spend all day sleeping and eating grass that grows within their reach. Sometimes they live beneath trees, waiting for fruits to fall. They dislike intruders on their territory but rarely do anything about them.",
-    "Baby": false,
-    "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Vigoroth",
             "Kind": "Level",
             "Speed": "Fast"
         }
-    ]
+    ],
+    "Image": "slaking.png"
 }

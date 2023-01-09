@@ -19,37 +19,27 @@
     "Ability2": "",
     "HiddenAbility": "",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Pro",
     "GenderType": "N",
     "Legendary": true,
-    "Sprite": "diancie.png",
     "GoodStarter": false,
     "_id": "diancie",
-    "HasForm": false,
-    "Learnset": "Diancie-Learnset",
-    "Abilities": "Clear Body",
-    "Type": "Rock / Fairy",
     "DexCategory": "Registered as #703 Carbink",
     "Height": {
-        "Deimeters": 7,
         "Meters": 0.7,
         "Feet": 2.3
     },
     "Weight": {
-        "Hectograms": 88,
         "Kilograms": 8.8,
         "Pounds": 19.4
     },
     "DexDescription": "The popular saying goes like this: \u201cIf you put a Carbon under pressure you will get a Diamond\u201d But it surely was not referring to a Pokemon... or was it?",
-    "Baby": false,
-    "PrimaryEggGroup": "Undiscovered",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "To": "Mega-Diancie",
             "Kind": "Mega",
             "Item": "Diancite"
         }
-    ]
+    ],
+    "Image": "diancie.png"
 }

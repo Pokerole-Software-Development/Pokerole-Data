@@ -19,32 +19,21 @@
     "Ability2": "Rivalry",
     "HiddenAbility": "Hustle",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Amateur",
     "GenderType": "F",
     "Legendary": false,
-    "Sprite": "nidorina.png",
     "GoodStarter": false,
     "_id": "nidorina",
-    "HasForm": false,
-    "Learnset": "Nidorina-Learnset",
-    "Abilities": "Poison Point / Rivalry (Hustle)",
-    "Type": "Poison",
     "DexCategory": "Poison Pin Pokemon",
     "Height": {
-        "Deimeters": 8,
         "Meters": 0.8,
         "Feet": 2.6
     },
     "Weight": {
-        "Hectograms": 200,
         "Kilograms": 20.0,
         "Pounds": 44.1
     },
     "DexDescription": "Nidorinas are jealous creatures. They don\u2019t like other females near their mates. Otherwise, they are very social creatures. When it\u2019s around friends or family, its barbs are tucked away to prevent injury.",
-    "Baby": false,
-    "PrimaryEggGroup": "Undiscovered",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Nidoran F",
@@ -56,5 +45,6 @@
             "Kind": "Stone",
             "Item": "Moon Stone"
         }
-    ]
+    ],
+    "Image": "nidorina.png"
 }

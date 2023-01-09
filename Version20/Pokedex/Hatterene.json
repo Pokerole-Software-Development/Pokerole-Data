@@ -19,37 +19,27 @@
     "Ability2": "Anticipation",
     "HiddenAbility": "Magic Bounce",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Ace",
     "GenderType": "F",
     "Legendary": false,
-    "Sprite": "hatterene.png",
     "GoodStarter": false,
     "_id": "hatterene",
-    "HasForm": false,
-    "Learnset": "Hatterene-Learnset",
-    "Abilities": "Healer / Anticipation (Magic Bounce)",
-    "Type": "Psychic / Fairy",
     "DexCategory": "Silent Pokemon",
     "Height": {
-        "Deimeters": 21,
         "Meters": 2.1,
         "Feet": 6.9
     },
     "Weight": {
-        "Hectograms": 51,
         "Kilograms": 5.1,
         "Pounds": 11.2
     },
     "DexDescription": "If you\u2019re too loud around it, you risk being torn apart by the claws on its tentacle. This Pokemon is also known as the Forest Witch. It is very sensitive to the emotions of others if it senses doubt, fear or anger it will attack you.",
-    "Baby": false,
-    "PrimaryEggGroup": "Fairy",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Hattrem",
             "Kind": "Level",
             "Speed": "Medium"
         }
-    ]
+    ],
+    "Image": "hatterene.png"
 }

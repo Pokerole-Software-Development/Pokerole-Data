@@ -19,37 +19,27 @@
     "Ability2": "Compound Eyes",
     "HiddenAbility": "Frisk",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Amateur",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "yanma.png",
     "GoodStarter": true,
     "_id": "yanma",
-    "HasForm": false,
-    "Learnset": "Yanma-Learnset",
-    "Abilities": "Speed Boost / Compound Eyes (Frisk)",
-    "Type": "Bug / Flying",
     "DexCategory": "Clear Wing Pokemon",
     "Height": {
-        "Deimeters": 12,
         "Meters": 1.2,
         "Feet": 3.9
     },
     "Weight": {
-        "Hectograms": 380,
         "Kilograms": 38.0,
         "Pounds": 83.8
     },
     "DexDescription": "It lives near water sources. Its eyes can see 360 degrees without even moving. Yanma is a great flyer capable of making sudden stops and turning midair to quickly chase down targeted prey.",
-    "Baby": false,
-    "PrimaryEggGroup": "Bug",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "To": "Yanmega",
             "Kind": "Level",
             "Speed": "Medium"
         }
-    ]
+    ],
+    "Image": "yanma.png"
 }

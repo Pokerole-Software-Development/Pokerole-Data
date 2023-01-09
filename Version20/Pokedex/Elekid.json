@@ -19,37 +19,27 @@
     "Ability2": "",
     "HiddenAbility": "Vital Spirit",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Beginner",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "elekid.png",
     "GoodStarter": true,
     "_id": "elekid",
-    "HasForm": false,
-    "Learnset": "Elekid-Learnset",
-    "Abilities": "Static (Vital Spirit)",
-    "Type": "Electric",
     "DexCategory": "Electric Pokemon",
     "Height": {
-        "Deimeters": 6,
         "Meters": 0.6,
         "Feet": 2.0
     },
     "Weight": {
-        "Hectograms": 235,
         "Kilograms": 23.5,
         "Pounds": 51.8
     },
     "DexDescription": "They can be found following thunder storms. Elekids rotate their arms constantly to charge electricity. Beware, there is an electric current between their horns that may zap you if you touch them.",
-    "Baby": true,
-    "PrimaryEggGroup": "Undiscovered",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "To": "Electabuzz",
             "Kind": "Level",
             "Speed": "Medium"
         }
-    ]
+    ],
+    "Image": "elekid.png"
 }

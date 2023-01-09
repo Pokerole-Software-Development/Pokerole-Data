@@ -19,31 +19,21 @@
     "Ability2": "Triage",
     "HiddenAbility": "Natural Cure",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Starter",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "comfey.png",
     "GoodStarter": false,
     "_id": "comfey",
-    "HasForm": false,
-    "Learnset": "Comfey-Learnset",
-    "Abilities": "Flower Veil / Triage (Natural Cure)",
-    "Type": "Fairy",
     "DexCategory": "Posy Picker Pokemon",
     "Height": {
-        "Deimeters": 1,
         "Meters": 0.1,
         "Feet": 0.3
     },
     "Weight": {
-        "Hectograms": 3,
         "Kilograms": 0.3,
         "Pounds": 0.7
     },
     "DexDescription": "This tiny Pokemon gathers flowers and connects them to itself forming a ring. The flowers never wither and their aroma becomes soothing and therapeutic. If it likes you it will create a flower ring just for you.",
-    "Baby": false,
-    "PrimaryEggGroup": "Grass",
-    "SecondaryEggGroup": "",
-    "Evolutions": []
+    "Evolutions": [],
+    "Image": "comfey.png"
 }

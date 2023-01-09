@@ -19,37 +19,27 @@
     "Ability2": "Early Bird",
     "HiddenAbility": "Iron Fist",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Amateur",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "ledian.png",
     "GoodStarter": false,
     "_id": "ledian",
-    "HasForm": false,
-    "Learnset": "Ledian-Learnset",
-    "Abilities": "Swarm / Early Bird (Iron Fist)",
-    "Type": "Bug / Flying",
     "DexCategory": "Five Star Pokemon",
     "Height": {
-        "Deimeters": 14,
         "Meters": 1.4,
         "Feet": 4.6
     },
     "Weight": {
-        "Hectograms": 356,
         "Kilograms": 35.6,
         "Pounds": 78.5
     },
     "DexDescription": "When the stars flicker in the night sky, it flutters about scattering a glowing powder. The spot patterns on its back grow larger or smaller at night depending on the number of stars in the sky.",
-    "Baby": false,
-    "PrimaryEggGroup": "Bug",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Ledyba",
             "Kind": "Level",
             "Speed": "Medium"
         }
-    ]
+    ],
+    "Image": "ledian.png"
 }

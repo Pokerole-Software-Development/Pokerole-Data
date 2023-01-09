@@ -19,32 +19,21 @@
     "Ability2": "",
     "HiddenAbility": "Contrary",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Amateur",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "servine.png",
     "GoodStarter": false,
     "_id": "servine",
-    "HasForm": false,
-    "Learnset": "Servine-Learnset",
-    "Abilities": "Overgrow (Contrary)",
-    "Type": "Grass",
     "DexCategory": "Grass Snake Pokemon",
     "Height": {
-        "Deimeters": 8,
         "Meters": 0.8,
         "Feet": 2.6
     },
     "Weight": {
-        "Hectograms": 160,
         "Kilograms": 16.0,
         "Pounds": 35.3
     },
     "DexDescription": "It moves along the ground by sliding. Its swift movements befuddle its foes, then attacks with a vine whip. It always keeps itself clean and it demands care from its trainer, otherwise it will misbehave.",
-    "Baby": false,
-    "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": "Grass",
     "Evolutions": [
         {
             "From": "Snivy",
@@ -56,5 +45,6 @@
             "Kind": "Level",
             "Speed": "Medium"
         }
-    ]
+    ],
+    "Image": "servine.png"
 }

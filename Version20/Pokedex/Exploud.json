@@ -19,37 +19,27 @@
     "Ability2": "",
     "HiddenAbility": "Scrappy",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Ace",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "exploud.png",
     "GoodStarter": false,
     "_id": "exploud",
-    "HasForm": false,
-    "Learnset": "Exploud-Learnset",
-    "Abilities": "Soundproof (Scrappy)",
-    "Type": "Normal",
     "DexCategory": "Loud Noise Pokemon",
     "Height": {
-        "Deimeters": 15,
         "Meters": 1.5,
         "Feet": 4.9
     },
     "Weight": {
-        "Hectograms": 840,
         "Kilograms": 84.0,
         "Pounds": 185.2
     },
     "DexDescription": "It is said that some tremors are caused by the roars of this Pokemon. They communicate with soft noises, raising their voice only in battle. They can emit many different kinds of sounds.",
-    "Baby": false,
-    "PrimaryEggGroup": "Monster",
-    "SecondaryEggGroup": "Field",
     "Evolutions": [
         {
             "From": "Loudred",
             "Kind": "Level",
             "Speed": "Medium"
         }
-    ]
+    ],
+    "Image": "exploud.png"
 }

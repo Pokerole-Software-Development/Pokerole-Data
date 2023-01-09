@@ -19,37 +19,27 @@
     "Ability2": "",
     "HiddenAbility": "Sand Veil",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Ace",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "palossand.png",
     "GoodStarter": false,
     "_id": "palossand",
-    "HasForm": false,
-    "Learnset": "Palossand-Learnset",
-    "Abilities": "Water Compaction (Sand Veil)",
-    "Type": "Ghost / Ground",
     "DexCategory": "Sand Castle Pokemon",
     "Height": {
-        "Deimeters": 13,
         "Meters": 1.3,
         "Feet": 4.3
     },
     "Weight": {
-        "Hectograms": 2500,
         "Kilograms": 250.0,
         "Pounds": 551.2
     },
     "DexDescription": "The possessed people shaped this Pokemon into a castle, buried beneath the sand where it stands are the remains of all its victims. Some say these unmarked graves will give birth to a new Sandygast.",
-    "Baby": false,
-    "PrimaryEggGroup": "Amorphous",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Sandygast",
             "Kind": "Level",
             "Speed": "Slow"
         }
-    ]
+    ],
+    "Image": "palossand.png"
 }

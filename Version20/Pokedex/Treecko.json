@@ -19,37 +19,27 @@
     "Ability2": "",
     "HiddenAbility": "Unburden",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Beginner",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "treecko.png",
     "GoodStarter": true,
     "_id": "treecko",
-    "HasForm": false,
-    "Learnset": "Treecko-Learnset",
-    "Abilities": "Overgrow (Unburden)",
-    "Type": "Grass",
     "DexCategory": "Wood Gecko Pokemon",
     "Height": {
-        "Deimeters": 5,
         "Meters": 0.5,
         "Feet": 1.6
     },
     "Weight": {
-        "Hectograms": 50,
         "Kilograms": 5.0,
         "Pounds": 11.0
     },
     "DexDescription": "They climb trees with their spiked feet. They remain cool under stress, calmed under pressure and collected when endangered. They are found protecting the trees ferociously.",
-    "Baby": false,
-    "PrimaryEggGroup": "Monster",
-    "SecondaryEggGroup": "Dragon",
     "Evolutions": [
         {
             "To": "Grovyle",
             "Kind": "Level",
             "Speed": "Medium"
         }
-    ]
+    ],
+    "Image": "treecko.png"
 }

@@ -19,37 +19,27 @@
     "Ability2": "Compound Eyes",
     "HiddenAbility": "Telepathy",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Starter",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "blipbug.png",
     "GoodStarter": true,
     "_id": "blipbug",
-    "HasForm": false,
-    "Learnset": "Blipbug-Learnset",
-    "Abilities": "Swarm / Compound Eyes (Telepathy)",
-    "Type": "Bug",
     "DexCategory": "Larva Pokemon",
     "Height": {
-        "Deimeters": 4,
         "Meters": 0.4,
         "Feet": 1.3
     },
     "Weight": {
-        "Hectograms": 80,
         "Kilograms": 8.0,
         "Pounds": 17.6
     },
     "DexDescription": "Often found in gardens, Blipbug has hairs on its body that it uses to assess its surroundings. They are very smart and easy to teach but they are not very strong and other Pokemon bully them often.",
-    "Baby": false,
-    "PrimaryEggGroup": "Bug",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "To": "Dottler",
             "Kind": "Level",
             "Speed": "Fast"
         }
-    ]
+    ],
+    "Image": "blipbug.png"
 }

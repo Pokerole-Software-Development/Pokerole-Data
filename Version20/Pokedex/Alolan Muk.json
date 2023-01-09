@@ -19,37 +19,27 @@
     "Ability2": "Gluttony",
     "HiddenAbility": "Power of Alchemy",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Amateur",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "muk-alola.png",
     "GoodStarter": false,
     "_id": "alolan-muk",
-    "HasForm": false,
-    "Learnset": "Alolan Muk-Learnset",
-    "Abilities": "Poison Touch / Gluttony (Power of Alchemy)",
-    "Type": "Poison / Dark",
     "DexCategory": "Sludge Pokemon",
     "Height": {
-        "Deimeters": 10,
         "Meters": 1.0,
         "Feet": 3.3
     },
     "Weight": {
-        "Hectograms": 520,
         "Kilograms": 52.0,
         "Pounds": 114.6
     },
     "DexDescription": "It is as friendly as it is toxic, be careful for it tries to hug others regularly. A good diet does not help reduce its toxicity levels, it only makes it cranky and prone to destroy furniture. It releases toxic fumes all the time.",
-    "Baby": false,
-    "PrimaryEggGroup": "Amorphous",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Alolan Grimer",
             "Kind": "Level",
             "Speed": "Slow"
         }
-    ]
+    ],
+    "Image": "muk-alola.png"
 }

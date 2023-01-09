@@ -19,36 +19,26 @@
     "Ability2": "",
     "HiddenAbility": "",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Master",
     "GenderType": "N",
     "Legendary": true,
-    "Sprite": "zamazenta.png",
     "GoodStarter": false,
     "_id": "zamazenta",
-    "HasForm": true,
-    "Learnset": "Zamazenta-Learnset",
-    "Abilities": "Dauntless Shield",
-    "Type": "Fighting",
     "DexCategory": "No Data",
     "Height": {
-        "Deimeters": 29,
         "Meters": 2.9,
         "Feet": 9.5
     },
     "Weight": {
-        "Hectograms": 2100,
         "Kilograms": 210.0,
         "Pounds": 463.0
     },
     "DexDescription": "There is a legend of a hero who through sheer might wielded the shield of heroes to protect the people from the greatest evil.",
-    "Baby": false,
-    "PrimaryEggGroup": "Undiscovered",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "To": "Form Zamazenta",
             "Kind": "Form"
         }
-    ]
+    ],
+    "Image": "zamazenta.png"
 }

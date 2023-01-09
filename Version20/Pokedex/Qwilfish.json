@@ -19,31 +19,21 @@
     "Ability2": "Swift Swim",
     "HiddenAbility": "Intimidate",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Amateur",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "qwilfish.png",
     "GoodStarter": false,
     "_id": "qwilfish",
-    "HasForm": false,
-    "Learnset": "Qwilfish-Learnset",
-    "Abilities": "Poison Point / Swift Swim (Intimidate)",
-    "Type": "Water / Poison",
     "DexCategory": "Balloon Pokemon",
     "Height": {
-        "Deimeters": 5,
         "Meters": 0.5,
         "Feet": 1.6
     },
     "Weight": {
-        "Hectograms": 39,
         "Kilograms": 3.9,
         "Pounds": 8.6
     },
     "DexDescription": "It swallows water to inflate its body to appear bigger than its foes. Qwilfish must swallow 2 gallons of water to be able to shoot its stings. The poison produced by Qwilfish is known to cause fainting.",
-    "Baby": false,
-    "PrimaryEggGroup": "Water 2",
-    "SecondaryEggGroup": "",
-    "Evolutions": []
+    "Evolutions": [],
+    "Image": "qwilfish.png"
 }

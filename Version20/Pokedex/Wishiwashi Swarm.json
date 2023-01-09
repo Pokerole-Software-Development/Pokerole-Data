@@ -19,36 +19,26 @@
     "Ability2": "",
     "HiddenAbility": "",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Pro",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "wishiwashi-swarm.png",
     "GoodStarter": false,
     "_id": "wishiwashi-swarm",
-    "HasForm": false,
-    "Learnset": "Wishiwashi Swarm-Learnset",
-    "Abilities": "Schooling",
-    "Type": "Water",
     "DexCategory": "Small Fry Pokemon",
     "Height": {
-        "Deimeters": 82,
         "Meters": 8.2,
         "Feet": 26.9
     },
     "Weight": {
-        "Hectograms": 786,
         "Kilograms": 78.6,
         "Pounds": 173.3
     },
     "DexDescription": "A school of Wishiwashi is the demon of the sea. Even Gyarados flee in terror when one approaches. Since it is formed by lots of members, it\u2019s impossible to control. They disband after the threat is \u201cneutralized\u201d.",
-    "Baby": false,
-    "PrimaryEggGroup": "Water 2",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Wishiwashi",
             "Kind": "Form"
         }
-    ]
+    ],
+    "Image": "wishiwashi-swarm.png"
 }

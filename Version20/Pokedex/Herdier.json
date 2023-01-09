@@ -19,32 +19,21 @@
     "Ability2": "Sand Rush",
     "HiddenAbility": "Scrappy",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Amateur",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "herdier.png",
     "GoodStarter": false,
     "_id": "herdier",
-    "HasForm": false,
-    "Learnset": "Herdier-Learnset",
-    "Abilities": "Intimidate / Sand Rush (Scrappy)",
-    "Type": "Normal",
     "DexCategory": "Loyal Dog Pokemon",
     "Height": {
-        "Deimeters": 9,
         "Meters": 0.9,
         "Feet": 3.0
     },
     "Weight": {
-        "Hectograms": 147,
         "Kilograms": 14.7,
         "Pounds": 32.4
     },
     "DexDescription": "It loyally follows its Trainer\u2019s orders. For ages, they have helped Trainers to raise well behaved Pokemon. It has black, cape-like fur that is very hard and keeps it protected from the weather.",
-    "Baby": false,
-    "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Lillipup",
@@ -56,5 +45,6 @@
             "Kind": "Level",
             "Speed": "Medium"
         }
-    ]
+    ],
+    "Image": "herdier.png"
 }

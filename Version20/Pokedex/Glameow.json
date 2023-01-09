@@ -19,37 +19,27 @@
     "Ability2": "Own Tempo",
     "HiddenAbility": "Keen Eye",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Starter",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "glameow.png",
     "GoodStarter": true,
     "_id": "glameow",
-    "HasForm": false,
-    "Learnset": "Glameow-Learnset",
-    "Abilities": "Limber / Own Tempo (Keen Eye)",
-    "Type": "Normal",
     "DexCategory": "Catty Pokemon",
     "Height": {
-        "Deimeters": 5,
         "Meters": 0.5,
         "Feet": 1.6
     },
     "Weight": {
-        "Hectograms": 39,
         "Kilograms": 3.9,
         "Pounds": 8.6
     },
     "DexDescription": "It is plentiful in urban areas, as it is a popular pet. It has a very fickle nature, purring in happiness one second, then hooking its claws into its trainer\u2019s nose. It loves to be admired and pampered.",
-    "Baby": false,
-    "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "To": "Purugly",
             "Kind": "Level",
             "Speed": "Medium"
         }
-    ]
+    ],
+    "Image": "glameow.png"
 }

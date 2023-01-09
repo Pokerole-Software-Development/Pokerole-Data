@@ -19,37 +19,27 @@
     "Ability2": "Sniper",
     "HiddenAbility": "Moody",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Amateur",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "octillery.png",
     "GoodStarter": false,
     "_id": "octillery",
-    "HasForm": false,
-    "Learnset": "Octillery-Learnset",
-    "Abilities": "Suction Cups / Sniper (Moody)",
-    "Type": "Water",
     "DexCategory": "Jet Pokemon",
     "Height": {
-        "Deimeters": 9,
         "Meters": 0.9,
         "Feet": 3.0
     },
     "Weight": {
-        "Hectograms": 285,
         "Kilograms": 28.5,
         "Pounds": 62.8
     },
     "DexDescription": "Octillery sprays ink, traps its foes with its tentacles and then hits them with its rock-hard head. If the enemy is too strong, they escape. They can be found inside rocky holes deep in the sea floor.",
-    "Baby": false,
-    "PrimaryEggGroup": "Water 1",
-    "SecondaryEggGroup": "Water 2",
     "Evolutions": [
         {
             "From": "Remoraid",
             "Kind": "Level",
             "Speed": "Medium"
         }
-    ]
+    ],
+    "Image": "octillery.png"
 }

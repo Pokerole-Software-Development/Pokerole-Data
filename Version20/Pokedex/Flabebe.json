@@ -19,37 +19,27 @@
     "Ability2": "",
     "HiddenAbility": "Symbiosis",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Starter",
     "GenderType": "F",
     "Legendary": false,
-    "Sprite": "flabebe.png",
     "GoodStarter": true,
     "_id": "flabebe",
-    "HasForm": false,
-    "Learnset": "Flabebe-Learnset",
-    "Abilities": "Flower Veil (Symbiosis)",
-    "Type": "Fairy",
     "DexCategory": "Single Bloom Pokemon",
     "Height": {
-        "Deimeters": 1,
         "Meters": 0.1,
         "Feet": 0.3
     },
     "Weight": {
-        "Hectograms": 1,
         "Kilograms": 0.1,
         "Pounds": 0.2
     },
     "DexDescription": "This species is female only. They are so tiny it is difficult to spot them in the wild. They pick a flower as soon as they are born and it becomes a part of their body. These small Pokemon are shy but adorable.",
-    "Baby": false,
-    "PrimaryEggGroup": "Fairy",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "To": "Floette",
             "Kind": "Level",
             "Speed": "Fast"
         }
-    ]
+    ],
+    "Image": "flabebe.png"
 }

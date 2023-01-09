@@ -19,36 +19,26 @@
     "Ability2": "",
     "HiddenAbility": "",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Beginner",
     "GenderType": "N",
     "Legendary": false,
-    "Sprite": "minior-core.png",
     "GoodStarter": false,
     "_id": "minior-core",
-    "HasForm": true,
-    "Learnset": "Minior Core-Learnset",
-    "Abilities": "Shields Down",
-    "Type": "Rock / Flying",
     "DexCategory": "Meteor Pokemon",
     "Height": {
-        "Deimeters": 3,
         "Meters": 0.3,
         "Feet": 1.0
     },
     "Weight": {
-        "Hectograms": 3,
         "Kilograms": 0.3,
         "Pounds": 0.7
     },
     "DexDescription": "Without its shell Minior can move faster. They have playful and colorful personalities. If a Minior wants to regrow their shell they must go to the stratosphere for a few days. Some of them never return, though.",
-    "Baby": false,
-    "PrimaryEggGroup": "Mineral",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Minior",
             "Kind": "Form"
         }
-    ]
+    ],
+    "Image": "minior-core.png"
 }

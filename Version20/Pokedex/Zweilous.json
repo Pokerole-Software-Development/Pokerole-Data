@@ -19,32 +19,21 @@
     "Ability2": "",
     "HiddenAbility": "",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Ace",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "zweilous.png",
     "GoodStarter": false,
     "_id": "zweilous",
-    "HasForm": false,
-    "Learnset": "Zweilous-Learnset",
-    "Abilities": "Hustle",
-    "Type": "Dark / Dragon",
     "DexCategory": "Hostile Pokemon",
     "Height": {
-        "Deimeters": 14,
         "Meters": 1.4,
         "Feet": 4.6
     },
     "Weight": {
-        "Hectograms": 500,
         "Kilograms": 50.0,
         "Pounds": 110.2
     },
     "DexDescription": "The two heads do not get along with each other as they compete for food. For this reason , Zweilous usually eats more than it should. Touching it carelessly can get you attacked by one or both heads.",
-    "Baby": false,
-    "PrimaryEggGroup": "Dragon",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Deino",
@@ -56,5 +45,6 @@
             "Kind": "Level",
             "Speed": "Slow"
         }
-    ]
+    ],
+    "Image": "zweilous.png"
 }

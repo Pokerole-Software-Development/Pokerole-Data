@@ -19,31 +19,21 @@
     "Ability2": "Drought",
     "HiddenAbility": "Shell Armor",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Amateur",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "torkoal.png",
     "GoodStarter": false,
     "_id": "torkoal",
-    "HasForm": false,
-    "Learnset": "Torkoal-Learnset",
-    "Abilities": "White Smoke / Drought (Shell Armor)",
-    "Type": "Fire",
     "DexCategory": "Coal Pokemon",
     "Height": {
-        "Deimeters": 5,
         "Meters": 0.5,
         "Feet": 1.6
     },
     "Weight": {
-        "Hectograms": 804,
         "Kilograms": 80.4,
         "Pounds": 177.3
     },
     "DexDescription": "They constantly search for coal to add to their shell, digging mountains tirelessly because it is the source of their power. If they run out of coal, they grow weak. They are commonly found in abandoned coal mines.",
-    "Baby": false,
-    "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": "",
-    "Evolutions": []
+    "Evolutions": [],
+    "Image": "torkoal.png"
 }

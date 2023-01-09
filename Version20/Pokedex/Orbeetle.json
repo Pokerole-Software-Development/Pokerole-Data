@@ -19,37 +19,27 @@
     "Ability2": "Frisk",
     "HiddenAbility": "Telepathy",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Amateur",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "orbeetle.png",
     "GoodStarter": false,
     "_id": "orbeetle",
-    "HasForm": false,
-    "Learnset": "Orbeetle-Learnset",
-    "Abilities": "Swarm / Frisk (Telepathy)",
-    "Type": "Bug / Psychic",
     "DexCategory": "Seven Spot Pokemon",
     "Height": {
-        "Deimeters": 4,
         "Meters": 0.4,
         "Feet": 1.3
     },
     "Weight": {
-        "Hectograms": 408,
         "Kilograms": 40.8,
         "Pounds": 89.9
     },
     "DexDescription": "It\u2019s famous for its high intelligence and the large size of its brain. It has immense psychic power. They patrol their territory as floating sentries, focusing a ray of light over any  intruder, even if they are miles away.",
-    "Baby": false,
-    "PrimaryEggGroup": "Bug",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Dottler",
             "Kind": "Level",
             "Speed": "Medium"
         }
-    ]
+    ],
+    "Image": "orbeetle.png"
 }

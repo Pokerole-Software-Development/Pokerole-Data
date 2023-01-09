@@ -19,37 +19,27 @@
     "Ability2": "",
     "HiddenAbility": "Libero",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Starter",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "scorbunny.png",
     "GoodStarter": true,
     "_id": "scorbunny",
-    "HasForm": false,
-    "Learnset": "Scorbunny-Learnset",
-    "Abilities": "Blaze (Libero)",
-    "Type": "Fire",
     "DexCategory": "Rabbit Pokemon",
     "Height": {
-        "Deimeters": 3,
         "Meters": 0.3,
         "Feet": 1.0
     },
     "Weight": {
-        "Hectograms": 45,
         "Kilograms": 4.5,
         "Pounds": 9.9
     },
     "DexDescription": "Scorbunny is small and energetic, they love to run in large fields from one side to another for hours. There are heat pads on its feet and nose, as it runs or battles they can get burning hot.",
-    "Baby": false,
-    "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": "Human-Like",
     "Evolutions": [
         {
             "To": "Raboot",
             "Kind": "Level",
             "Speed": "Medium"
         }
-    ]
+    ],
+    "Image": "scorbunny.png"
 }

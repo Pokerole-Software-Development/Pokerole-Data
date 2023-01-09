@@ -19,37 +19,27 @@
     "Ability2": "Water Absorb",
     "HiddenAbility": "Water Veil",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Beginner",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "mantyke.png",
     "GoodStarter": true,
     "_id": "mantyke",
-    "HasForm": false,
-    "Learnset": "Mantyke-Learnset",
-    "Abilities": "Swift Swim / Water Absorb (Water Veil)",
-    "Type": "Water / Flying",
     "DexCategory": "Kite Pokemon",
     "Height": {
-        "Deimeters": 10,
         "Meters": 1.0,
         "Feet": 3.3
     },
     "Weight": {
-        "Hectograms": 650,
         "Kilograms": 65.0,
         "Pounds": 143.3
     },
     "DexDescription": "When it swims close the ocean\u2019s surface people aboard ships are able to observe the pattern on its back as it is different in every region. Mantyke is an intelligent and friendly Pokemon that rarely attacks others.",
-    "Baby": true,
-    "PrimaryEggGroup": "Undiscovered",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "To": "Mantine",
             "Kind": "Special",
             "Special": "Hit by Remoraid"
         }
-    ]
+    ],
+    "Image": "mantyke.png"
 }

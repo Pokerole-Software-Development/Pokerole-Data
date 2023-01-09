@@ -19,32 +19,21 @@
     "Ability2": "",
     "HiddenAbility": "",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Amateur",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "vigoroth.png",
     "GoodStarter": false,
     "_id": "vigoroth",
-    "HasForm": false,
-    "Learnset": "Vigoroth-Learnset",
-    "Abilities": "Vital Spirit",
-    "Type": "Normal",
     "DexCategory": "Wild Monkey Pokemon",
     "Height": {
-        "Deimeters": 14,
         "Meters": 1.4,
         "Feet": 4.6
     },
     "Weight": {
-        "Hectograms": 465,
         "Kilograms": 46.5,
         "Pounds": 102.5
     },
     "DexDescription": "They are always agitated, anxious, excited or upset, rampaging over anything. They can\u2019t be still and they can\u2019t sleep. They get angry if they get bored and violent if there is no activity for them.",
-    "Baby": false,
-    "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Slakoth",
@@ -56,5 +45,6 @@
             "Kind": "Level",
             "Speed": "Fast"
         }
-    ]
+    ],
+    "Image": "vigoroth.png"
 }

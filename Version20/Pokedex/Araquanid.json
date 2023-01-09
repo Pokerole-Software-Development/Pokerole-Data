@@ -19,37 +19,27 @@
     "Ability2": "",
     "HiddenAbility": "Water Absorb",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Amateur",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "araquanid.png",
     "GoodStarter": false,
     "_id": "araquanid",
-    "HasForm": false,
-    "Learnset": "Araquanid-Learnset",
-    "Abilities": "Water Bubble (Water Absorb)",
-    "Type": "Water / Bug",
     "DexCategory": "Water Bubble Pokemon",
     "Height": {
-        "Deimeters": 18,
         "Meters": 1.8,
         "Feet": 5.9
     },
     "Weight": {
-        "Hectograms": 820,
         "Kilograms": 82.0,
         "Pounds": 180.8
     },
     "DexDescription": "It\u2019s debated whether this is a caring or cruel Pokemon. It looks around for any vulnerable or weak pokemon, tenderly carries them and deposits them into its water bubble where they end up drowning.",
-    "Baby": false,
-    "PrimaryEggGroup": "Water 1",
-    "SecondaryEggGroup": "Bug",
     "Evolutions": [
         {
             "From": "Dewpider",
             "Kind": "Level",
             "Speed": "Medium"
         }
-    ]
+    ],
+    "Image": "araquanid.png"
 }

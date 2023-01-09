@@ -19,32 +19,21 @@
     "Ability2": "Sheer Force",
     "HiddenAbility": "Iron Fist",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Amateur",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "gurdurr.png",
     "GoodStarter": false,
     "_id": "gurdurr",
-    "HasForm": false,
-    "Learnset": "Gurdurr-Learnset",
-    "Abilities": "Guts / Sheer Force (Iron Fist)",
-    "Type": "Fighting",
     "DexCategory": "Muscular Pokemon",
     "Height": {
-        "Deimeters": 12,
         "Meters": 1.2,
         "Feet": 3.9
     },
     "Weight": {
-        "Hectograms": 400,
         "Kilograms": 40.0,
         "Pounds": 88.2
     },
     "DexDescription": "This Pokemon is very muscular and strongly built. It likes to show off it\u2019s strength and muscles. Some years back a famous wrestler got defeated in just a few seconds by one of these Pokemon.",
-    "Baby": false,
-    "PrimaryEggGroup": "Human-Like",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Timburr",
@@ -55,5 +44,6 @@
             "To": "Conkeldurr",
             "Kind": "Trade"
         }
-    ]
+    ],
+    "Image": "gurdurr.png"
 }

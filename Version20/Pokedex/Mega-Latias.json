@@ -19,37 +19,27 @@
     "Ability2": "",
     "HiddenAbility": "",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Master",
     "GenderType": "F",
     "Legendary": true,
-    "Sprite": "latias-mega.png",
     "GoodStarter": false,
     "_id": "mega-latias",
-    "HasForm": false,
-    "Learnset": "Mega-Latias-Learnset",
-    "Abilities": "Levitate",
-    "Type": "Dragon / Psychic",
     "DexCategory": "No Data",
     "Height": {
-        "Deimeters": 18,
         "Meters": 1.8,
         "Feet": 5.9
     },
     "Weight": {
-        "Hectograms": 520,
         "Kilograms": 52.0,
         "Pounds": 114.6
     },
     "DexDescription": "Latias is very in sync with human emotions, it can communicate using telepathy. With the power of the Mega Stone all of its capabilities are enhanced although its personality becomes more distant than usual.",
-    "Baby": false,
-    "PrimaryEggGroup": "Undiscovered",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Latias",
             "Kind": "Mega",
             "Item": "Latiasite"
         }
-    ]
+    ],
+    "Image": "latias-mega.png"
 }

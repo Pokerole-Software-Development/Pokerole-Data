@@ -19,37 +19,27 @@
     "Ability2": "",
     "HiddenAbility": "Hydration",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Amateur",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "vaporeon.png",
     "GoodStarter": false,
     "_id": "vaporeon",
-    "HasForm": false,
-    "Learnset": "Vaporeon-Learnset",
-    "Abilities": "Water Absorb (Hydration)",
-    "Type": "Water",
     "DexCategory": "Bubble Jet Pokemon",
     "Height": {
-        "Deimeters": 10,
         "Meters": 1.0,
         "Feet": 3.3
     },
     "Weight": {
-        "Hectograms": 290,
         "Kilograms": 29.0,
         "Pounds": 63.9
     },
     "DexDescription": "Vaporeon underwent through a strange mutation, it grew fins and gills that allow it to live underwater. This Pokemon has the ability to become translucent when it dives underwater.",
-    "Baby": false,
-    "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Eevee",
             "Kind": "Stone",
             "Item": "Water Stone"
         }
-    ]
+    ],
+    "Image": "vaporeon.png"
 }

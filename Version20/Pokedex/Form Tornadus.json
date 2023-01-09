@@ -19,36 +19,26 @@
     "Ability2": "",
     "HiddenAbility": "",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Master",
     "GenderType": "M",
     "Legendary": true,
-    "Sprite": "form-tornadus.png",
     "GoodStarter": false,
     "_id": "form-tornadus",
-    "HasForm": false,
-    "Learnset": "Form Tornadus-Learnset",
-    "Abilities": "Regenerator",
-    "Type": "Flying",
     "DexCategory": "No Data",
     "Height": {
-        "Deimeters": 14,
         "Meters": 1.4,
         "Feet": 4.6
     },
     "Weight": {
-        "Hectograms": 630,
         "Kilograms": 63.0,
         "Pounds": 138.9
     },
     "DexDescription": "Some Pokemon reveal their true forms after recovering power lost to them. Great forces of nature can help them recover their strength such as Tornadoes, Lightning, and even a Landslide.",
-    "Baby": false,
-    "PrimaryEggGroup": "Undiscovered",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Tornadus",
             "Kind": "Form"
         }
-    ]
+    ],
+    "Image": "form-tornadus.png"
 }

@@ -19,37 +19,27 @@
     "Ability2": "",
     "HiddenAbility": "",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Pro",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "hydreigon.png",
     "GoodStarter": false,
     "_id": "hydreigon",
-    "HasForm": true,
-    "Learnset": "Hydreigon-Learnset",
-    "Abilities": "Levitate",
-    "Type": "Dark / Dragon",
     "DexCategory": "Brutal Pokemon",
     "Height": {
-        "Deimeters": 18,
         "Meters": 1.8,
         "Feet": 5.9
     },
     "Weight": {
-        "Hectograms": 1600,
         "Kilograms": 160.0,
         "Pounds": 352.7
     },
     "DexDescription": "This brutal Pokemon flies in the sky. Anything that moves seems like a foe to it, triggering its aggression. The heads on its arms do not have brains. They use all three heads to consume and destroy everything.",
-    "Baby": false,
-    "PrimaryEggGroup": "Dragon",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Zweilous",
             "Kind": "Level",
             "Speed": "Slow"
         }
-    ]
+    ],
+    "Image": "hydreigon.png"
 }

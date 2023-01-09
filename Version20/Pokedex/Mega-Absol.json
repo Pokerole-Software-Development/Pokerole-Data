@@ -19,37 +19,27 @@
     "Ability2": "",
     "HiddenAbility": "",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Ace",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "absol-mega.png",
     "GoodStarter": false,
     "_id": "mega-absol",
-    "HasForm": false,
-    "Learnset": "Mega-Absol-Learnset",
-    "Abilities": "Magic Bounce",
-    "Type": "Dark",
     "DexCategory": "Disaster Pokemon",
     "Height": {
-        "Deimeters": 12,
         "Meters": 1.2,
         "Feet": 3.9
     },
     "Weight": {
-        "Hectograms": 490,
         "Kilograms": 49.0,
         "Pounds": 108.0
     },
     "DexDescription": "The power of the Mega Stone makes its fur elongate. What you see are not wings, just puffs of hair. It gets distressed by this form and dislikes going into fights, so it uses its intimidating aura to fend off foes.",
-    "Baby": false,
-    "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Absol",
             "Kind": "Mega",
             "Item": "Absolite"
         }
-    ]
+    ],
+    "Image": "absol-mega.png"
 }

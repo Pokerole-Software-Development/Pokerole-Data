@@ -19,31 +19,21 @@
     "Ability2": "",
     "HiddenAbility": "",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Master",
     "GenderType": "N",
     "Legendary": true,
-    "Sprite": "zekrom.png",
     "GoodStarter": false,
     "_id": "zekrom",
-    "HasForm": false,
-    "Learnset": "Zekrom-Learnset",
-    "Abilities": "Teravolt",
-    "Type": "Dragon / Electric",
     "DexCategory": "No Data",
     "Height": {
-        "Deimeters": 29,
         "Meters": 2.9,
         "Feet": 9.5
     },
     "Weight": {
-        "Hectograms": 3450,
         "Kilograms": 345.0,
         "Pounds": 760.6
     },
     "DexDescription": "An old rock tablet full of ancient symbols tells the story of two brothers. One of them wanted a world of ideals built with the energy of the young. The rest of the stone is broken as if struck by lightning.",
-    "Baby": false,
-    "PrimaryEggGroup": "Undiscovered",
-    "SecondaryEggGroup": "",
-    "Evolutions": []
+    "Evolutions": [],
+    "Image": "zekrom.png"
 }

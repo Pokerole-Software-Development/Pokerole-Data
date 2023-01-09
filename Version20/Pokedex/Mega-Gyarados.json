@@ -19,37 +19,27 @@
     "Ability2": "",
     "HiddenAbility": "",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Pro",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "gyarados-mega.png",
     "GoodStarter": false,
     "_id": "mega-gyarados",
-    "HasForm": false,
-    "Learnset": "Mega-Gyarados-Learnset",
-    "Abilities": "Mold Breaker",
-    "Type": "Water / Dark",
     "DexCategory": "Atrocious Pokemon",
     "Height": {
-        "Deimeters": 65,
         "Meters": 6.5,
         "Feet": 21.3
     },
     "Weight": {
-        "Hectograms": 3050,
         "Kilograms": 305.0,
         "Pounds": 672.4
     },
     "DexDescription": "With the power of the Mega Stone its body suffers a lot of strain, making it faster and stronger but also angrier and uncontrollable. It must have a strong bond or it will fall into a destructive rampage.",
-    "Baby": false,
-    "PrimaryEggGroup": "Water 2",
-    "SecondaryEggGroup": "Dragon",
     "Evolutions": [
         {
             "From": "Gyarados",
             "Kind": "Mega",
             "Item": "Gyaradosite"
         }
-    ]
+    ],
+    "Image": "gyarados-mega.png"
 }

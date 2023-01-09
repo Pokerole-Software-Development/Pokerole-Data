@@ -19,37 +19,27 @@
     "Ability2": "Neutralizing Gas",
     "HiddenAbility": "Stench",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Amateur",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "weezing.png",
     "GoodStarter": false,
     "_id": "weezing",
-    "HasForm": false,
-    "Learnset": "Weezing-Learnset",
-    "Abilities": "Levitate / Neutralizing Gas (Stench)",
-    "Type": "Poison",
     "DexCategory": "Poison Gas Pokemon",
     "Height": {
-        "Deimeters": 12,
         "Meters": 1.2,
         "Feet": 3.9
     },
     "Weight": {
-        "Hectograms": 95,
         "Kilograms": 9.5,
         "Pounds": 20.9
     },
     "DexDescription": "They are considered a pest in urban areas. They wait until night to roam and eat from the trash cans in the neighborhood. If it finds a filthy and unkempt house it will make its nest in there.",
-    "Baby": false,
-    "PrimaryEggGroup": "Amorphous",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Koffing",
             "Kind": "Level",
             "Speed": "Slow"
         }
-    ]
+    ],
+    "Image": "weezing.png"
 }

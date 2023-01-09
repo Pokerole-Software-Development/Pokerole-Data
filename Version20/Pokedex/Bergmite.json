@@ -19,37 +19,27 @@
     "Ability2": "Ice Body",
     "HiddenAbility": "Sturdy",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Beginner",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "bergmite.png",
     "GoodStarter": true,
     "_id": "bergmite",
-    "HasForm": false,
-    "Learnset": "Bergmite-Learnset",
-    "Abilities": "Own Tempo / Ice Body (Sturdy)",
-    "Type": "Ice",
     "DexCategory": "Ice Chunk Pokemon",
     "Height": {
-        "Deimeters": 10,
         "Meters": 1.0,
         "Feet": 3.3
     },
     "Weight": {
-        "Hectograms": 995,
         "Kilograms": 99.5,
         "Pounds": 219.4
     },
     "DexDescription": "They live in small herds close to the mountains. It blocks attacks with the ice that shields its body and uses cold air to repair any cracks with new ice. They are wary of humans as they rarely get to see one.",
-    "Baby": false,
-    "PrimaryEggGroup": "Monster",
-    "SecondaryEggGroup": "Mineral",
     "Evolutions": [
         {
             "To": "Avalugg",
             "Kind": "Level",
             "Speed": "Slow"
         }
-    ]
+    ],
+    "Image": "bergmite.png"
 }

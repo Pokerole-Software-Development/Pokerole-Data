@@ -19,37 +19,27 @@
     "Ability2": "Keen Eye",
     "HiddenAbility": "Analytic",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Beginner",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "patrat.png",
     "GoodStarter": true,
     "_id": "patrat",
-    "HasForm": false,
-    "Learnset": "Patrat-Learnset",
-    "Abilities": "Run Away / Keen Eye (Analytic)",
-    "Type": "Normal",
     "DexCategory": "Scout Pokemon",
     "Height": {
-        "Deimeters": 5,
         "Meters": 0.5,
         "Feet": 1.6
     },
     "Weight": {
-        "Hectograms": 116,
         "Kilograms": 11.6,
         "Pounds": 25.6
     },
     "DexDescription": "They live in grass fields in big groups. One of them is always looking out for predators. The group gathers food they store on their cheeks to bring it back home. They are wary and alert all the time.",
-    "Baby": false,
-    "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "To": "Watchog",
             "Kind": "Level",
             "Speed": "Fast"
         }
-    ]
+    ],
+    "Image": "patrat.png"
 }

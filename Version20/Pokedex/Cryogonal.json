@@ -19,31 +19,21 @@
     "Ability2": "",
     "HiddenAbility": "",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Starter",
     "GenderType": "N",
     "Legendary": false,
-    "Sprite": "cryogonal.png",
     "GoodStarter": false,
     "_id": "cryogonal",
-    "HasForm": false,
-    "Learnset": "Cryogonal-Learnset",
-    "Abilities": "Levitate",
-    "Type": "Ice",
     "DexCategory": "Crystallizing Pokemon",
     "Height": {
-        "Deimeters": 11,
         "Meters": 1.1,
         "Feet": 3.6
     },
     "Weight": {
-        "Hectograms": 1480,
         "Kilograms": 148.0,
         "Pounds": 326.3
     },
     "DexDescription": "They are born in snow clouds. Using chains made of ice crystals they capture prey. If their body temperature goes up, they turns into steam and vanish until it freezes and becomes ice again.",
-    "Baby": false,
-    "PrimaryEggGroup": "Mineral",
-    "SecondaryEggGroup": "",
-    "Evolutions": []
+    "Evolutions": [],
+    "Image": "cryogonal.png"
 }

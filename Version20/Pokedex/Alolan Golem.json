@@ -19,36 +19,26 @@
     "Ability2": "Sturdy",
     "HiddenAbility": "Galvanize",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Ace",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "golem-alola.png",
     "GoodStarter": false,
     "_id": "alolan-golem",
-    "HasForm": false,
-    "Learnset": "Alolan Golem-Learnset",
-    "Abilities": "Magnet Pull / Sturdy (Galvanize)",
-    "Type": "Rock / Electric",
     "DexCategory": "Megaton Pokemon",
     "Height": {
-        "Deimeters": 17,
         "Meters": 1.7,
         "Feet": 5.6
     },
     "Weight": {
-        "Hectograms": 3160,
         "Kilograms": 316.0,
         "Pounds": 696.7
     },
     "DexDescription": "The Alolan variant of Golem does not roll around like its counterpart, instead it loads rocks into the charger on its head and shoots them around, if the rocks miss, the electric shockwave doesn\u2019t.",
-    "Baby": false,
-    "PrimaryEggGroup": "Mineral",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Alolan Graveler",
             "Kind": "Trade"
         }
-    ]
+    ],
+    "Image": "golem-alola.png"
 }

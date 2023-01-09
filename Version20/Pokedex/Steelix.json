@@ -19,32 +19,21 @@
     "Ability2": "Sturdy",
     "HiddenAbility": "Sheer Force",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Pro",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "steelix.png",
     "GoodStarter": false,
     "_id": "steelix",
-    "HasForm": true,
-    "Learnset": "Steelix-Learnset",
-    "Abilities": "Rock Head / Sturdy (Sheer Force)",
-    "Type": "Steel / Ground",
     "DexCategory": "Iron Snake Pokemon",
     "Height": {
-        "Deimeters": 92,
         "Meters": 9.2,
         "Feet": 30.2
     },
     "Weight": {
-        "Hectograms": 4000,
         "Kilograms": 400.0,
         "Pounds": 881.8
     },
     "DexDescription": "Some say that when an Onix lives underground for 100 years it\u2019s body becomes hard as steel. Steelix lives deep underground, tempered by high pressure and heat. It can see in the darkness.",
-    "Baby": false,
-    "PrimaryEggGroup": "Mineral",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Onix",
@@ -56,5 +45,6 @@
             "Kind": "Mega",
             "Item": "Steelixite"
         }
-    ]
+    ],
+    "Image": "steelix.png"
 }

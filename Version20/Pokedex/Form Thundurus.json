@@ -19,36 +19,26 @@
     "Ability2": "",
     "HiddenAbility": "Defiant",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Master",
     "GenderType": "M",
     "Legendary": true,
-    "Sprite": "form-thundurus.png",
     "GoodStarter": false,
     "_id": "form-thundurus",
-    "HasForm": false,
-    "Learnset": "Form Thundurus-Learnset",
-    "Abilities": "Prankster (Defiant)",
-    "Type": "Electric / Flying",
     "DexCategory": "No Data",
     "Height": {
-        "Deimeters": 30,
         "Meters": 3.0,
         "Feet": 9.8
     },
     "Weight": {
-        "Hectograms": 610,
         "Kilograms": 61.0,
         "Pounds": 134.5
     },
     "DexDescription": "Some Pokemon reveal their true forms after recovering power lost to them. Great forces of nature can help them recover their strength such as Tornadoes, Lightning, and even a Landslide.",
-    "Baby": false,
-    "PrimaryEggGroup": "Undiscovered",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Thundurus",
             "Kind": "Form"
         }
-    ]
+    ],
+    "Image": "form-thundurus.png"
 }

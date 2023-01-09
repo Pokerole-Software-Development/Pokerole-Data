@@ -19,37 +19,27 @@
     "Ability2": "White Smoke",
     "HiddenAbility": "Flame Body",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Amateur",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "sizzlipede.png",
     "GoodStarter": true,
     "_id": "sizzlipede",
-    "HasForm": false,
-    "Learnset": "Sizzlipede-Learnset",
-    "Abilities": "Flash Fire / White Smoke (Flame Body)",
-    "Type": "Fire / Bug",
     "DexCategory": "Radiator Pokemon",
     "Height": {
-        "Deimeters": 7,
         "Meters": 0.7,
         "Feet": 2.3
     },
     "Weight": {
-        "Hectograms": 10,
         "Kilograms": 1.0,
         "Pounds": 2.2
     },
     "DexDescription": "It stores flammable gas in its body and uses it to generate heat. The yellow sections on its belly get very hot. It wraps prey with its body heated to cook them, the it nibbles them down until nothing remains.",
-    "Baby": false,
-    "PrimaryEggGroup": "Bug",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "To": "Centiskorch",
             "Kind": "Level",
             "Speed": "Slow"
         }
-    ]
+    ],
+    "Image": "sizzlipede.png"
 }

@@ -19,36 +19,26 @@
     "Ability2": "",
     "HiddenAbility": "",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Master",
     "GenderType": "N",
     "Legendary": true,
-    "Sprite": "groudon.png",
     "GoodStarter": false,
     "_id": "groudon",
-    "HasForm": true,
-    "Learnset": "Groudon-Learnset",
-    "Abilities": "Drought",
-    "Type": "Ground",
     "DexCategory": "No Data",
     "Height": {
-        "Deimeters": 35,
         "Meters": 3.5,
         "Feet": 11.5
     },
     "Weight": {
-        "Hectograms": 9500,
         "Kilograms": 950.0,
         "Pounds": 2094.4
     },
     "DexDescription": "Described in mythology as the God creator of lands, mountains, volcanoes and continents. Any water or clouds evaporate in its presence. It is the mortal enemy of Kyogre.",
-    "Baby": false,
-    "PrimaryEggGroup": "Undiscovered",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "To": "Primal Groudon",
             "Kind": "Form"
         }
-    ]
+    ],
+    "Image": "groudon.png"
 }

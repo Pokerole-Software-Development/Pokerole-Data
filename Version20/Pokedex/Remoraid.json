@@ -19,37 +19,27 @@
     "Ability2": "Sniper",
     "HiddenAbility": "Moody",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Beginner",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "remoraid.png",
     "GoodStarter": true,
     "_id": "remoraid",
-    "HasForm": false,
-    "Learnset": "Remoraid-Learnset",
-    "Abilities": "Hustle / Sniper (Moody)",
-    "Type": "Water",
     "DexCategory": "Jet Pokemon",
     "Height": {
-        "Deimeters": 6,
         "Meters": 0.6,
         "Feet": 2.0
     },
     "Weight": {
-        "Hectograms": 120,
         "Kilograms": 12.0,
         "Pounds": 26.5
     },
     "DexDescription": "Remoraid has a remarkable aim with its water gun. This ability is used to hunt down flying enemies above the sea. They can be seen clinging into Mantines to travel faster.",
-    "Baby": false,
-    "PrimaryEggGroup": "Water 1",
-    "SecondaryEggGroup": "Water 2",
     "Evolutions": [
         {
             "To": "Octillery",
             "Kind": "Level",
             "Speed": "Medium"
         }
-    ]
+    ],
+    "Image": "remoraid.png"
 }

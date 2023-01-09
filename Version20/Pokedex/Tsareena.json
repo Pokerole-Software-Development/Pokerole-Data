@@ -19,37 +19,27 @@
     "Ability2": "Queenly Majesty",
     "HiddenAbility": "Sweet Veil",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Amateur",
     "GenderType": "F",
     "Legendary": false,
-    "Sprite": "tsareena.png",
     "GoodStarter": false,
     "_id": "tsareena",
-    "HasForm": false,
-    "Learnset": "Tsareena-Learnset",
-    "Abilities": "Leaf Guard / Queenly Majesty (Sweet Veil)",
-    "Type": "Grass",
     "DexCategory": "Fruit Pokemon",
     "Height": {
-        "Deimeters": 12,
         "Meters": 1.2,
         "Feet": 3.9
     },
     "Weight": {
-        "Hectograms": 214,
         "Kilograms": 21.4,
         "Pounds": 47.2
     },
     "DexDescription": "Tsareena's elegant appearance is only matched by its boastful fight spirit. It is known for disobeying any Trainer giving it orders it dislikes, and will celebrate its victories by kicking its defeated foes while laughing.",
-    "Baby": false,
-    "PrimaryEggGroup": "Grass",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Steenee",
             "Kind": "Level",
             "Speed": "Medium"
         }
-    ]
+    ],
+    "Image": "tsareena.png"
 }

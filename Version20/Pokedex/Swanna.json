@@ -19,37 +19,27 @@
     "Ability2": "Big Pecks",
     "HiddenAbility": "Hydration",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Amateur",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "swanna.png",
     "GoodStarter": false,
     "_id": "swanna",
-    "HasForm": false,
-    "Learnset": "Swanna-Learnset",
-    "Abilities": "Keen Eye / Big Pecks (Hydration)",
-    "Type": "Water / Flying",
     "DexCategory": "White Bird Pokemon",
     "Height": {
-        "Deimeters": 13,
         "Meters": 1.3,
         "Feet": 4.3
     },
     "Weight": {
-        "Hectograms": 242,
         "Kilograms": 24.2,
         "Pounds": 53.4
     },
     "DexDescription": "Swanna come out to dance at dusk. The one dancing in the middle is the leader of the flock. Despite their elegant and frail appearance, they can flap their wings strongly and fly for thousands of miles.",
-    "Baby": false,
-    "PrimaryEggGroup": "Water 1",
-    "SecondaryEggGroup": "Flying",
     "Evolutions": [
         {
             "From": "Ducklett",
             "Kind": "Level",
             "Speed": "Medium"
         }
-    ]
+    ],
+    "Image": "swanna.png"
 }

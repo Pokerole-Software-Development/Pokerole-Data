@@ -19,32 +19,21 @@
     "Ability2": "",
     "HiddenAbility": "Unnerve",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Master",
     "GenderType": "N",
     "Legendary": true,
-    "Sprite": "mewtwo.png",
     "GoodStarter": false,
     "_id": "mewtwo",
-    "HasForm": true,
-    "Learnset": "Mewtwo-Learnset",
-    "Abilities": "Pressure (Unnerve)",
-    "Type": "Psychic",
     "DexCategory": "No Data",
     "Height": {
-        "Deimeters": 20,
         "Meters": 2.0,
         "Feet": 6.6
     },
     "Weight": {
-        "Hectograms": 1220,
         "Kilograms": 122.0,
         "Pounds": 269.0
     },
     "DexDescription": "An article in a science magazine talked about how much cloning research was progressing, but... could it be?",
-    "Baby": false,
-    "PrimaryEggGroup": "Undiscovered",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "To": "Mega-Mewtwo Y",
@@ -56,5 +45,6 @@
             "Kind": "Mega",
             "Item": "Mewtwonite X"
         }
-    ]
+    ],
+    "Image": "mewtwo.png"
 }

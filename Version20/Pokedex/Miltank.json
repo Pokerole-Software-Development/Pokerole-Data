@@ -19,31 +19,21 @@
     "Ability2": "Scrappy",
     "HiddenAbility": "Sap Sipper",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Amateur",
     "GenderType": "F",
     "Legendary": false,
-    "Sprite": "miltank.png",
     "GoodStarter": false,
     "_id": "miltank",
-    "HasForm": true,
-    "Learnset": "Miltank-Learnset",
-    "Abilities": "Thick Fat / Scrappy (Sap Sipper)",
-    "Type": "Normal",
     "DexCategory": "Milk Cow Pokemon",
     "Height": {
-        "Deimeters": 12,
         "Meters": 1.2,
         "Feet": 3.9
     },
     "Weight": {
-        "Hectograms": 755,
         "Kilograms": 75.5,
         "Pounds": 166.4
     },
     "DexDescription": "Their male counterpart is Tauros. A Miltank's milk is full of nutrients that may heal the sick and the injured, and they can produce up to 5 gallons a day. Healing serious injuries may require a lot of milk.",
-    "Baby": false,
-    "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": "",
-    "Evolutions": []
+    "Evolutions": [],
+    "Image": "miltank.png"
 }

@@ -19,37 +19,27 @@
     "Ability2": "Sheer Force",
     "HiddenAbility": "Defiant",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Ace",
     "GenderType": "M",
     "Legendary": false,
-    "Sprite": "braviary.png",
     "GoodStarter": false,
     "_id": "braviary",
-    "HasForm": false,
-    "Learnset": "Braviary-Learnset",
-    "Abilities": "Keen Eye / Sheer Force (Defiant)",
-    "Type": "Normal / Flying",
     "DexCategory": "Valiant Pokemon",
     "Height": {
-        "Deimeters": 15,
         "Meters": 1.5,
         "Feet": 4.9
     },
     "Weight": {
-        "Hectograms": 410,
         "Kilograms": 41.0,
         "Pounds": 90.4
     },
     "DexDescription": "Brave, strong, loyal, and selfless; this Pokemon embodies the virtues of what a Pokemon companion should be. They are very rare and valued not only for their bravery but for their beautiful feathers.",
-    "Baby": false,
-    "PrimaryEggGroup": "Flying",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Rufflet",
             "Kind": "Level",
             "Speed": "Slow"
         }
-    ]
+    ],
+    "Image": "braviary.png"
 }

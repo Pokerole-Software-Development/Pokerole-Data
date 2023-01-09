@@ -19,37 +19,27 @@
     "Ability2": "",
     "HiddenAbility": "Harvest",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Amateur",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "exeggutor.png",
     "GoodStarter": false,
     "_id": "exeggutor",
-    "HasForm": false,
-    "Learnset": "Exeggutor-Learnset",
-    "Abilities": "Chlorophyll (Harvest)",
-    "Type": "Grass / Psychic",
     "DexCategory": "Coconut Pokemon",
     "Height": {
-        "Deimeters": 20,
         "Meters": 2.0,
         "Feet": 6.6
     },
     "Weight": {
-        "Hectograms": 1200,
         "Kilograms": 120.0,
         "Pounds": 264.6
     },
     "DexDescription": "Originally from tropical areas. Exeggutor's heads grow larger with strong sunlight. Each head thinks independently. They are friendly and provide their shade to other Pokemon.",
-    "Baby": false,
-    "PrimaryEggGroup": "Grass",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Exeggcute",
             "Kind": "Stone",
             "Item": "Leaf Stone"
         }
-    ]
+    ],
+    "Image": "exeggutor.png"
 }

@@ -19,37 +19,27 @@
     "Ability2": "",
     "HiddenAbility": "Sand Force",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Ace",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "hippowdon.png",
     "GoodStarter": false,
     "_id": "hippowdon",
-    "HasForm": false,
-    "Learnset": "Hippowdon-Learnset",
-    "Abilities": "Sand Stream (Sand Force)",
-    "Type": "Ground",
     "DexCategory": "Heavyweight Pokemon",
     "Height": {
-        "Deimeters": 20,
         "Meters": 2.0,
         "Feet": 6.6
     },
     "Weight": {
-        "Hectograms": 3000,
         "Kilograms": 300.0,
         "Pounds": 661.4
     },
     "DexDescription": "It becomes territorial and aggressive after evolving. Its open mouth stands over 7 ft. tall. There are records of one that came out of the sand and crushed a truck that was passing over its territory.",
-    "Baby": false,
-    "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Hippopotas",
             "Kind": "Level",
             "Speed": "Medium"
         }
-    ]
+    ],
+    "Image": "hippowdon.png"
 }

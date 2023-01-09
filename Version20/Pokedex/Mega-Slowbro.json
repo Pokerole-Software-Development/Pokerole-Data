@@ -19,37 +19,27 @@
     "Ability2": "",
     "HiddenAbility": "",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Ace",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "slowbro-mega.png",
     "GoodStarter": false,
     "_id": "mega-slowbro",
-    "HasForm": false,
-    "Learnset": "Mega-Slowbro-Learnset",
-    "Abilities": "Shell Armor",
-    "Type": "Water / Psychic",
     "DexCategory": "Hermit Crab Pokemon",
     "Height": {
-        "Deimeters": 20,
         "Meters": 2.0,
         "Feet": 6.6
     },
     "Weight": {
-        "Hectograms": 1200,
         "Kilograms": 120.0,
         "Pounds": 264.6
     },
     "DexDescription": "With the power of the Mega Stone the Shellder on its tail becomes a bulletproof armor that swallows its host\u2019s whole body. Slowpoke doesn\u2019t seem to mind and looks pretty comfy to nest inside.",
-    "Baby": false,
-    "PrimaryEggGroup": "Monster",
-    "SecondaryEggGroup": "Water 1",
     "Evolutions": [
         {
             "From": "Slowbro",
             "Kind": "Mega",
             "Item": "Slowbronite"
         }
-    ]
+    ],
+    "Image": "slowbro-mega.png"
 }

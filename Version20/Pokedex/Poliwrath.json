@@ -19,37 +19,27 @@
     "Ability2": "Damp",
     "HiddenAbility": "Swift Swim",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Ace",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "poliwrath.png",
     "GoodStarter": false,
     "_id": "poliwrath",
-    "HasForm": true,
-    "Learnset": "Poliwrath-Learnset",
-    "Abilities": "Water Absorb / Damp (Swift Swim)",
-    "Type": "Water / Fighting",
     "DexCategory": "Tadpole Pokemon",
     "Height": {
-        "Deimeters": 13,
         "Meters": 1.3,
         "Feet": 4.3
     },
     "Weight": {
-        "Hectograms": 540,
         "Kilograms": 54.0,
         "Pounds": 119.0
     },
     "DexDescription": "It\u2019s not common to find it in the wild. Most sightings take place when it is on land. Once he is inside the water, it will swim far away. This Pokemon is an outstanding swimmer, capable of beating any human.",
-    "Baby": false,
-    "PrimaryEggGroup": "Water 1",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Poliwhirl",
             "Kind": "Stone",
             "Item": "Water Stone"
         }
-    ]
+    ],
+    "Image": "poliwrath.png"
 }

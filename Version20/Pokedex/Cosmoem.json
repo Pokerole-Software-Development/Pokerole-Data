@@ -19,32 +19,21 @@
     "Ability2": "",
     "HiddenAbility": "",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Amateur",
     "GenderType": "N",
     "Legendary": true,
-    "Sprite": "cosmoem.png",
     "GoodStarter": false,
     "_id": "cosmoem",
-    "HasForm": false,
-    "Learnset": "Cosmoem-Learnset",
-    "Abilities": "Sturdy",
-    "Type": "Psychic",
     "DexCategory": "No Data",
     "Height": {
-        "Deimeters": 1,
         "Meters": 0.1,
         "Feet": 0.3
     },
     "Weight": {
-        "Hectograms": 9999,
         "Kilograms": 999.9,
         "Pounds": 2204.4
     },
     "DexDescription": "The creature observed through the telescope changed shapes and remained motionless for the rest of the investigation. A strange energy was gathering on its core.",
-    "Baby": false,
-    "PrimaryEggGroup": "Undiscovered",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Cosmog",
@@ -61,5 +50,6 @@
             "Kind": "Level",
             "Game": "Shield"
         }
-    ]
+    ],
+    "Image": "cosmoem.png"
 }

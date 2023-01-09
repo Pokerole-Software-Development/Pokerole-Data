@@ -19,32 +19,21 @@
     "Ability2": "",
     "HiddenAbility": "",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Ace",
     "GenderType": "N",
     "Legendary": false,
-    "Sprite": "rotom.png",
     "GoodStarter": false,
     "_id": "rotom",
-    "HasForm": true,
-    "Learnset": "Rotom-Learnset",
-    "Abilities": "Levitate",
-    "Type": "Electric / Ghost",
     "DexCategory": "Plasma Pokemon",
     "Height": {
-        "Deimeters": 3,
         "Meters": 0.3,
         "Feet": 1.0
     },
     "Weight": {
-        "Hectograms": 3,
         "Kilograms": 0.3,
         "Pounds": 0.7
     },
     "DexDescription": "Its electric-like body can enter some kinds of machines and take control of them in order to cause mischief. It changes its form to that of the electric appliance, allowing it to become more powerful.",
-    "Baby": false,
-    "PrimaryEggGroup": "Amorphous",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "To": "Rotom Heat",
@@ -70,5 +59,6 @@
             "To": "Rotom Dex",
             "Kind": "Form"
         }
-    ]
+    ],
+    "Image": "rotom.png"
 }

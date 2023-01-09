@@ -19,37 +19,27 @@
     "Ability2": "Iron Fist",
     "HiddenAbility": "Anger Point",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Amateur",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "crabrawler.png",
     "GoodStarter": true,
     "_id": "crabrawler",
-    "HasForm": false,
-    "Learnset": "Crabrawler-Learnset",
-    "Abilities": "Hyper Cutter / Iron Fist (Anger Point)",
-    "Type": "Fighting",
     "DexCategory": "Boxing Pokemon",
     "Height": {
-        "Deimeters": 6,
         "Meters": 0.6,
         "Feet": 2.0
     },
     "Weight": {
-        "Hectograms": 70,
         "Kilograms": 7.0,
         "Pounds": 15.4
     },
     "DexDescription": "They can be found on the beach, but as they grow stronger they also venture more into the land where they fight for ripe berries. They punch with their pincers, which are delicious with butter by the way.",
-    "Baby": false,
-    "PrimaryEggGroup": "Water 3",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "To": "Crabominable",
             "Kind": "Level",
             "Speed": "Medium"
         }
-    ]
+    ],
+    "Image": "crabrawler.png"
 }

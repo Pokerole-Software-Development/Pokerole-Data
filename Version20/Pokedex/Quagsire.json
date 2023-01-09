@@ -19,37 +19,27 @@
     "Ability2": "Water Absorb",
     "HiddenAbility": "Unaware",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Amateur",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "quagsire.png",
     "GoodStarter": false,
     "_id": "quagsire",
-    "HasForm": false,
-    "Learnset": "Quagsire-Learnset",
-    "Abilities": "Damp / Water Absorb (Unaware)",
-    "Type": "Water / Ground",
     "DexCategory": "Water Fish Pokemon",
     "Height": {
-        "Deimeters": 14,
         "Meters": 1.4,
         "Feet": 4.6
     },
     "Weight": {
-        "Hectograms": 750,
         "Kilograms": 75.0,
         "Pounds": 165.3
     },
     "DexDescription": "You\u2019ll find its home at the bottom of the river. It hunts by leaving its mouth wide open in water and waiting for its prey to get in. Because it doesn\u2019t move a lot, it does not get very hungry.",
-    "Baby": false,
-    "PrimaryEggGroup": "Water 1",
-    "SecondaryEggGroup": "Field",
     "Evolutions": [
         {
             "From": "Wooper",
             "Kind": "Level",
             "Speed": "Medium"
         }
-    ]
+    ],
+    "Image": "quagsire.png"
 }

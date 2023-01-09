@@ -19,37 +19,27 @@
     "Ability2": "",
     "HiddenAbility": "",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Pro",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "charizard-mega-x.png",
     "GoodStarter": false,
     "_id": "mega-charizard-x",
-    "HasForm": false,
-    "Learnset": "Mega-Charizard X-Learnset",
-    "Abilities": "Tough Claws",
-    "Type": "Fire / Dragon",
     "DexCategory": "Flame Pokemon",
     "Height": {
-        "Deimeters": 17,
         "Meters": 1.7,
         "Feet": 5.6
     },
     "Weight": {
-        "Hectograms": 1105,
         "Kilograms": 110.5,
         "Pounds": 243.6
     },
     "DexDescription": "The power of the Mega Stone make its inner flames burn so hot that its body turns black as coal and blue fire escapes constantly from its mouth. It is filled with rage and its demeanor is unpredictable",
-    "Baby": false,
-    "PrimaryEggGroup": "Monster",
-    "SecondaryEggGroup": "Dragon",
     "Evolutions": [
         {
             "From": "Charizard",
             "Kind": "Mega",
             "Item": "Charizardite X"
         }
-    ]
+    ],
+    "Image": "charizard-mega-x.png"
 }

@@ -19,37 +19,27 @@
     "Ability2": "Regenerator",
     "HiddenAbility": "Reckless",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Amateur",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "mienshao.png",
     "GoodStarter": false,
     "_id": "mienshao",
-    "HasForm": false,
-    "Learnset": "Mienshao-Learnset",
-    "Abilities": "Inner Focus / Regenerator (Reckless)",
-    "Type": "Fighting",
     "DexCategory": "Martial Arts Pokemon",
     "Height": {
-        "Deimeters": 14,
         "Meters": 1.4,
         "Feet": 4.6
     },
     "Weight": {
-        "Hectograms": 355,
         "Kilograms": 35.5,
         "Pounds": 78.3
     },
     "DexDescription": "By the time they evolve they already have many years of experience in fighting. They use the long fur on their arms as a whip to strike their opponents and will not stop until the foe is defeated.",
-    "Baby": false,
-    "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": "Human-Like",
     "Evolutions": [
         {
             "From": "Mienfoo",
             "Kind": "Level",
             "Speed": "Medium"
         }
-    ]
+    ],
+    "Image": "mienshao.png"
 }

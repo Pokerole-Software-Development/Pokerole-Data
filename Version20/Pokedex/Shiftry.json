@@ -19,37 +19,27 @@
     "Ability2": "Early Bird",
     "HiddenAbility": "Pickpocket",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Amateur",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "shiftry.png",
     "GoodStarter": false,
     "_id": "shiftry",
-    "HasForm": true,
-    "Learnset": "Shiftry-Learnset",
-    "Abilities": "Chlorophyll / Early Bird (Pickpocket)",
-    "Type": "Grass / Dark",
     "DexCategory": "Wicked Pokemon",
     "Height": {
-        "Deimeters": 13,
         "Meters": 1.3,
         "Feet": 4.3
     },
     "Weight": {
-        "Hectograms": 596,
         "Kilograms": 59.6,
         "Pounds": 131.4
     },
     "DexDescription": "Feared as protectors of the forest. They are said to live atop towering trees dating back thousands of years, creating terrible wind storms. It is said they can read people\u2019s minds to prey on their fears.",
-    "Baby": false,
-    "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": "Grass",
     "Evolutions": [
         {
             "From": "Nuzleaf",
             "Kind": "Stone",
             "Item": "Leaf Stone"
         }
-    ]
+    ],
+    "Image": "shiftry.png"
 }

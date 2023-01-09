@@ -19,37 +19,27 @@
     "Ability2": "",
     "HiddenAbility": "Drought",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Beginner",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "vulpix.png",
     "GoodStarter": true,
     "_id": "vulpix",
-    "HasForm": false,
-    "Learnset": "Vulpix-Learnset",
-    "Abilities": "Flash Fire (Drought)",
-    "Type": "Fire",
     "DexCategory": "Fox Pokemon",
     "Height": {
-        "Deimeters": 6,
         "Meters": 0.6,
         "Feet": 2.0
     },
     "Weight": {
-        "Hectograms": 99,
         "Kilograms": 9.9,
         "Pounds": 21.8
     },
     "DexDescription": "It is born with just one tail. As it grows, its single white tail gains color and splits into six. It is quite warm and cuddly - very popular with the ladies . It is, however, uncommon to see one in the wild.",
-    "Baby": false,
-    "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "To": "Ninetales",
             "Kind": "Stone",
             "Item": "Fire Stone"
         }
-    ]
+    ],
+    "Image": "vulpix.png"
 }

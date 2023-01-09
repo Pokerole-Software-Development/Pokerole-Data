@@ -19,37 +19,27 @@
     "Ability2": "",
     "HiddenAbility": "",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Amateur",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "archen.png",
     "GoodStarter": false,
     "_id": "archen",
-    "HasForm": false,
-    "Learnset": "Archen-Learnset",
-    "Abilities": "Defeatist",
-    "Type": "Rock / Flying",
     "DexCategory": "First Bird Pokemon",
     "Height": {
-        "Deimeters": 5,
         "Meters": 0.5,
         "Feet": 1.6
     },
     "Weight": {
-        "Hectograms": 95,
         "Kilograms": 9.5,
         "Pounds": 20.9
     },
     "DexDescription": "Revived from a fossil, this Pokemon is thought to be the ancestor of all bird Pokemon. Its flight abilities are poor so it just hops up by jumping. They are ill tempered and will not eat processed Pokemon food.",
-    "Baby": false,
-    "PrimaryEggGroup": "Flying",
-    "SecondaryEggGroup": "Water 3",
     "Evolutions": [
         {
             "To": "Archeops",
             "Kind": "Level",
             "Speed": "Medium"
         }
-    ]
+    ],
+    "Image": "archen.png"
 }

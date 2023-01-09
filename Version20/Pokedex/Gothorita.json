@@ -19,32 +19,21 @@
     "Ability2": "Competitive",
     "HiddenAbility": "Shadow Tag",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Amateur",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "gothorita.png",
     "GoodStarter": false,
     "_id": "gothorita",
-    "HasForm": false,
-    "Learnset": "Gothorita-Learnset",
-    "Abilities": "Frisk / Competitive (Shadow Tag)",
-    "Type": "Psychic",
     "DexCategory": "Manipulate Pokemon",
     "Height": {
-        "Deimeters": 7,
         "Meters": 0.7,
         "Feet": 2.3
     },
     "Weight": {
-        "Hectograms": 180,
         "Kilograms": 18.0,
         "Pounds": 39.7
     },
     "DexDescription": "Starlight is the source of their power. At night, they mark star positions by using floating stones. According to many old tales, it creates friends for itself by controlling sleeping children on starry nights.",
-    "Baby": false,
-    "PrimaryEggGroup": "Human-Like",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Gothita",
@@ -56,5 +45,6 @@
             "Kind": "Level",
             "Speed": "Medium"
         }
-    ]
+    ],
+    "Image": "gothorita.png"
 }

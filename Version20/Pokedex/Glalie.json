@@ -19,32 +19,21 @@
     "Ability2": "Ice Body",
     "HiddenAbility": "Moody",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Amateur",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "glalie.png",
     "GoodStarter": false,
     "_id": "glalie",
-    "HasForm": false,
-    "Learnset": "Glalie-Learnset",
-    "Abilities": "Inner Focus / Ice Body (Moody)",
-    "Type": "Ice",
     "DexCategory": "Face Pokemon",
     "Height": {
-        "Deimeters": 15,
         "Meters": 1.5,
         "Feet": 4.9
     },
     "Weight": {
-        "Hectograms": 2565,
         "Kilograms": 256.5,
         "Pounds": 565.5
     },
     "DexDescription": "Its body is so hard it was thought to be made of rock. They can be aggressive if provoked. When they hunt, they freeze their prey solid before eating it. They can live in warm places without trouble.",
-    "Baby": false,
-    "PrimaryEggGroup": "Fairy",
-    "SecondaryEggGroup": "Mineral",
     "Evolutions": [
         {
             "From": "Snorunt",
@@ -57,5 +46,6 @@
             "Kind": "Mega",
             "Item": "Glalitite"
         }
-    ]
+    ],
+    "Image": "glalie.png"
 }

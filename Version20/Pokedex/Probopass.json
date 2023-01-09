@@ -19,37 +19,27 @@
     "Ability2": "Magnet Pull",
     "HiddenAbility": "Sand Force",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Amateur",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "probopass.png",
     "GoodStarter": false,
     "_id": "probopass",
-    "HasForm": false,
-    "Learnset": "Probopass-Learnset",
-    "Abilities": "Sturdy / Magnet Pull (Sand Force)",
-    "Type": "Rock / Steel",
     "DexCategory": "Compass Pokemon",
     "Height": {
-        "Deimeters": 14,
         "Meters": 1.4,
         "Feet": 4.6
     },
     "Weight": {
-        "Hectograms": 3400,
         "Kilograms": 340.0,
         "Pounds": 749.6
     },
     "DexDescription": "It exudes strong magnetism from all over. It controls three small units called Mini-Noses that float around and act as arms. It usually stays motionless unless attacked or provoked.",
-    "Baby": false,
-    "PrimaryEggGroup": "Mineral",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Nosepass",
             "Kind": "Special",
             "Special": "A trip to New Mauville"
         }
-    ]
+    ],
+    "Image": "probopass.png"
 }

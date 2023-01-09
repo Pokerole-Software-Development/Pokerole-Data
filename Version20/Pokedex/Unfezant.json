@@ -19,37 +19,27 @@
     "Ability2": "Super Luck",
     "HiddenAbility": "Rivalry",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Amateur",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "unfezant.png",
     "GoodStarter": false,
     "_id": "unfezant",
-    "HasForm": false,
-    "Learnset": "Unfezant-Learnset",
-    "Abilities": "Big Pecks / Super Luck (Rivalry)",
-    "Type": "Normal / Flying",
     "DexCategory": "Proud Pokemon",
     "Height": {
-        "Deimeters": 12,
         "Meters": 1.2,
         "Feet": 3.9
     },
     "Weight": {
-        "Hectograms": 290,
         "Kilograms": 29.0,
         "Pounds": 63.9
     },
     "DexDescription": "Males swing the beautiful plumage on their heads to threaten others and to court females. Although less visually appealing, females are better at flying. Once they form a pair they are mated for life.",
-    "Baby": false,
-    "PrimaryEggGroup": "Flying",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Tranquill",
             "Kind": "Level",
             "Speed": "Medium"
         }
-    ]
+    ],
+    "Image": "unfezant.png"
 }
