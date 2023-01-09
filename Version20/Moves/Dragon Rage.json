@@ -14,7 +14,9 @@
     "Attributes": {},
     "AddedEffects": {
         "FixedDamage": {
-            "Value": 2
+            "Type": "Absolute",
+            "Value": 2,
+            "Target": "Targets"
         }
     }
 }

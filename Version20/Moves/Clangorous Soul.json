@@ -27,8 +27,9 @@
             }
         ],
         "FixedDamage": {
-            "Percentage": 0.5,
-            "BasedOn": "MaxHp"
+            "Type": "MaxHpPercentage",
+            "Value": 0.5,
+            "Target": "Targets"
         }
     }
 }
