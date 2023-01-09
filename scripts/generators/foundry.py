@@ -13,7 +13,8 @@ secrets = json.load(open('../../secrets.json'))
 # - Struggle, Growl and Photon Geyser have attributes like "Strength/special", but there are specialized versions for each attribute
 IGNORED_MOVES = ['any-move', 'struggle', 'growl', 'photon-geyser']
 
-DEFAULT_MANEUVERS = ['Struggle (Physical)', 'Struggle (Special)', 'Grapple', 'Help Another', 'Cover an Ally', 'Stabilize an Ally', 'Run Away']
+# Stabilize An Ally is usually only used by trainers (Pokémon don't have the Medicine skill)
+DEFAULT_POKEMON_MANEUVERS = ['Struggle (Physical)', 'Struggle (Special)', 'Grapple', 'Help Another', 'Cover an Ally', 'Run Away']
 
 class Foundry(object):
     
@@ -89,8 +90,8 @@ class Foundry(object):
                         moves.append(x['Name'])
                         ranks.append(x['Learned'])
 
-                moves += DEFAULT_MANEUVERS
-                ranks += ['starter'] * len(DEFAULT_MANEUVERS)
+                moves += DEFAULT_POKEMON_MANEUVERS
+                ranks += ['starter'] * len(DEFAULT_POKEMON_MANEUVERS)
                 move_list = self._moves(moves, ranks)
 
                 abilities = self._abilities([entry['Ability1'], entry['Ability2']])
