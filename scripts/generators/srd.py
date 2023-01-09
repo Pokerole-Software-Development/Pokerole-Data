@@ -36,7 +36,7 @@ moves_template = '''### `= this.name`
 
 learnsets_template = '''## `= this.Name` Learnset
 
-**DexID:** `= this.DexID`
+**Pokedex Entry:** `= this.Pokedex`
 
 ```dataview
 TABLE WITHOUT ID
