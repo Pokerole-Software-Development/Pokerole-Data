@@ -19,32 +19,21 @@
     "Ability2": "Lightning Rod",
     "HiddenAbility": "Battle Armor",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Beginner",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "cubone.png",
     "GoodStarter": true,
     "_id": "cubone",
-    "HasForm": false,
-    "Learnset": "Cubone-Learnset",
-    "Abilities": "Rock Head / Lightning Rod (Battle Armor)",
-    "Type": "Ground",
     "DexCategory": "Lonely Pokemon",
     "Height": {
-        "Deimeters": 4,
         "Meters": 0.4,
         "Feet": 1.3
     },
     "Weight": {
-        "Hectograms": 65,
         "Kilograms": 6.5,
         "Pounds": 14.3
     },
     "DexDescription": "Cubone wears a skull helmet it never removes. It is said to be from its mother or someone dear to it. Lives in the mountains where it cries at night due to the sadness it feels. It is distrustful of humans.",
-    "Baby": false,
-    "PrimaryEggGroup": "Monster",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "To": "Marowak",
@@ -57,5 +46,6 @@
             "Speed": "Slow",
             "Region": "Alola"
         }
-    ]
+    ],
+    "Image": "cubone.png"
 }

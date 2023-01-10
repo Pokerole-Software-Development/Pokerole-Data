@@ -19,32 +19,21 @@
     "Ability2": "Neutralizing Gas",
     "HiddenAbility": "Misty Surge",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Amateur",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "weezing-galar.png",
     "GoodStarter": false,
     "_id": "galarian-weezing",
-    "HasForm": false,
-    "Learnset": "Galarian Weezing-Learnset",
-    "Abilities": "Levitate / Neutralizing Gas (Misty Surge)",
-    "Type": "Poison / Fairy",
     "DexCategory": "Poison Gas Pokemon",
     "Height": {
-        "Deimeters": 30,
         "Meters": 3.0,
         "Feet": 9.8
     },
     "Weight": {
-        "Hectograms": 160,
         "Kilograms": 16.0,
         "Pounds": 35.3
     },
     "DexDescription": "This Pokemon eats the contamination in the air, and instead of droppings, it expels clean air. Its Galar Form was first spotted long ago when factories polluted the City.",
-    "Baby": false,
-    "PrimaryEggGroup": "Amorphous",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Koffing",
@@ -52,5 +41,6 @@
             "Speed": "Slow",
             "Region": "Galar"
         }
-    ]
+    ],
+    "Image": "weezing-galar.png"
 }

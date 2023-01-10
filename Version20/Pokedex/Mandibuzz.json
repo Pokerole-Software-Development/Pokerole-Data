@@ -19,37 +19,27 @@
     "Ability2": "Overcoat",
     "HiddenAbility": "Weak Armor",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Amateur",
     "GenderType": "F",
     "Legendary": false,
-    "Sprite": "mandibuzz.png",
     "GoodStarter": false,
     "_id": "mandibuzz",
-    "HasForm": false,
-    "Learnset": "Mandibuzz-Learnset",
-    "Abilities": "Big Pecks / Overcoat (Weak Armor)",
-    "Type": "Dark / Flying",
     "DexCategory": "Bone Vulture Pokemon",
     "Height": {
-        "Deimeters": 12,
         "Meters": 1.2,
         "Feet": 3.9
     },
     "Weight": {
-        "Hectograms": 395,
         "Kilograms": 39.5,
         "Pounds": 87.1
     },
     "DexDescription": "They fly in circles around the sky when they spot prey. They carry the carcass back to their nest with ease. They like to look beautiful and create ornaments and jewelry using bone pieces.",
-    "Baby": false,
-    "PrimaryEggGroup": "Flying",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Vullaby",
             "Kind": "Level",
             "Speed": "Medium"
         }
-    ]
+    ],
+    "Image": "mandibuzz.png"
 }

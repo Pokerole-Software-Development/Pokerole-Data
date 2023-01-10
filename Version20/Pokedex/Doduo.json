@@ -19,37 +19,27 @@
     "Ability2": "Early Bird",
     "HiddenAbility": "Tangled Feet",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Beginner",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "doduo.png",
     "GoodStarter": true,
     "_id": "doduo",
-    "HasForm": false,
-    "Learnset": "Doduo-Learnset",
-    "Abilities": "Run Away / Early Bird (Tangled Feet)",
-    "Type": "Normal / Flying",
     "DexCategory": "Twin Bird Pokemon",
     "Height": {
-        "Deimeters": 14,
         "Meters": 1.4,
         "Feet": 4.6
     },
     "Weight": {
-        "Hectograms": 392,
         "Kilograms": 39.2,
         "Pounds": 86.4
     },
     "DexDescription": "It can fly, but it prefers to run in the prairies. The two heads usually get along. While one is eating or sleeping, the other one is alert for predators. It is known that they share a brain and their ideas are connected.",
-    "Baby": false,
-    "PrimaryEggGroup": "Flying",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "To": "Dodrio",
             "Kind": "Level",
             "Speed": "Slow"
         }
-    ]
+    ],
+    "Image": "doduo.png"
 }

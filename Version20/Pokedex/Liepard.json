@@ -19,37 +19,27 @@
     "Ability2": "Unburden",
     "HiddenAbility": "Prankster",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Amateur",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "liepard.png",
     "GoodStarter": false,
     "_id": "liepard",
-    "HasForm": false,
-    "Learnset": "Liepard-Learnset",
-    "Abilities": "Limber / Unburden (Prankster)",
-    "Type": "Dark",
     "DexCategory": "Cruel Pokemon",
     "Height": {
-        "Deimeters": 11,
         "Meters": 1.1,
         "Feet": 3.6
     },
     "Weight": {
-        "Hectograms": 375,
         "Kilograms": 37.5,
         "Pounds": 82.7
     },
     "DexDescription": "It\u2019s difficult to see one in the wild. These Pokemon vanish and appear attacking unexpectedly. Many Trainers are drawn to their beautiful fur and elegant appeal. But they can be quite dangerous.",
-    "Baby": false,
-    "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Purrloin",
             "Kind": "Level",
             "Speed": "Medium"
         }
-    ]
+    ],
+    "Image": "liepard.png"
 }

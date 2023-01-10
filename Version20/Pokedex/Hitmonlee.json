@@ -19,32 +19,21 @@
     "Ability2": "Reckless",
     "HiddenAbility": "Unburden",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Amateur",
     "GenderType": "M",
     "Legendary": false,
-    "Sprite": "hitmonlee.png",
     "GoodStarter": false,
     "_id": "hitmonlee",
-    "HasForm": false,
-    "Learnset": "Hitmonlee-Learnset",
-    "Abilities": "Limber / Reckless (Unburden)",
-    "Type": "Fighting",
     "DexCategory": "Kicking Pokemon",
     "Height": {
-        "Deimeters": 15,
         "Meters": 1.5,
         "Feet": 4.9
     },
     "Weight": {
-        "Hectograms": 498,
         "Kilograms": 49.8,
         "Pounds": 109.8
     },
     "DexDescription": "Kicking Pokemon Its legs freely stretch and contract. It bowls over foes with devastating kicks. It is very disciplined and trains every day. It is very rare in the wild, and it is mostly found in urban areas",
-    "Baby": false,
-    "PrimaryEggGroup": "Human-Like",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Tyrogue",
@@ -52,5 +41,6 @@
             "Stat": "Strength",
             "Value": -1
         }
-    ]
+    ],
+    "Image": "hitmonlee.png"
 }

@@ -19,37 +19,27 @@
     "Ability2": "Skill Link",
     "HiddenAbility": "Sheer Force",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Amateur",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "toucannon.png",
     "GoodStarter": false,
     "_id": "toucannon",
-    "HasForm": false,
-    "Learnset": "Toucannon-Learnset",
-    "Abilities": "Keen Eye / Skill Link (Sheer Force)",
-    "Type": "Normal / Flying",
     "DexCategory": "Blade Quill Pokemon",
     "Height": {
-        "Deimeters": 11,
         "Meters": 1.1,
         "Feet": 3.6
     },
     "Weight": {
-        "Hectograms": 260,
         "Kilograms": 26.0,
         "Pounds": 57.3
     },
     "DexDescription": "It can store and expel an extremely hot gas through its beak that ignites easily. The berry seeds it shoots can pierce boulders, leaving perfectly round holes on them. Fortunately, they nest deep in the jungle.",
-    "Baby": false,
-    "PrimaryEggGroup": "Flying",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Trumbeak",
             "Kind": "Level",
             "Speed": "Medium"
         }
-    ]
+    ],
+    "Image": "toucannon.png"
 }

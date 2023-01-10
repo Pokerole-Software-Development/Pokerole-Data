@@ -19,36 +19,26 @@
     "Ability2": "",
     "HiddenAbility": "",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Amateur",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "darmanitan-zen.png",
     "GoodStarter": false,
     "_id": "zen-darmanitan",
-    "HasForm": true,
-    "Learnset": "Zen Darmanitan-Learnset",
-    "Abilities": "Zen Mode",
-    "Type": "Fire / Psychic",
     "DexCategory": "Blazing Pokemon",
     "Height": {
-        "Deimeters": 13,
         "Meters": 1.3,
         "Feet": 4.3
     },
     "Weight": {
-        "Hectograms": 929,
         "Kilograms": 92.9,
         "Pounds": 204.8
     },
     "DexDescription": "Apparently this Darmanitan just became a statue after receiving a lot of damage. It remained immobile, but as soon as it\u2019s health recovered it returned to it\u2019s original state and lost its psychic powers.",
-    "Baby": false,
-    "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Darmanitan",
             "Kind": "Form"
         }
-    ]
+    ],
+    "Image": "darmanitan-zen.png"
 }

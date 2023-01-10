@@ -19,37 +19,27 @@
     "Ability2": "Moxie",
     "HiddenAbility": "Intimidate",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Beginner",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "scraggy.png",
     "GoodStarter": true,
     "_id": "scraggy",
-    "HasForm": false,
-    "Learnset": "Scraggy-Learnset",
-    "Abilities": "Shed Skin / Moxie (Intimidate)",
-    "Type": "Dark / Fighting",
     "DexCategory": "Shedding Pokemon",
     "Height": {
-        "Deimeters": 6,
         "Meters": 0.6,
         "Feet": 2.0
     },
     "Weight": {
-        "Hectograms": 118,
         "Kilograms": 11.8,
         "Pounds": 26.0
     },
     "DexDescription": "It sheds skin constantly, but keeps wearing it since the old skin has a rubber-like texture and it can pull it all the way up to its head. It bashes foes with headbutts and is known for making dirty moves on fights.",
-    "Baby": false,
-    "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": "Dragon",
     "Evolutions": [
         {
             "To": "Scrafty",
             "Kind": "Level",
             "Speed": "Medium"
         }
-    ]
+    ],
+    "Image": "scraggy.png"
 }

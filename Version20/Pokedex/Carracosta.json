@@ -19,37 +19,27 @@
     "Ability2": "Sturdy",
     "HiddenAbility": "Swift Swim",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Ace",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "carracosta.png",
     "GoodStarter": false,
     "_id": "carracosta",
-    "HasForm": false,
-    "Learnset": "Carracosta-Learnset",
-    "Abilities": "Solid Rock / Sturdy (Swift Swim)",
-    "Type": "Water / Rock",
     "DexCategory": "Prototurtle Pokemon",
     "Height": {
-        "Deimeters": 12,
         "Meters": 1.2,
         "Feet": 3.9
     },
     "Weight": {
-        "Hectograms": 810,
         "Kilograms": 81.0,
         "Pounds": 178.6
     },
     "DexDescription": "They can live both in ocean and land. It can knock out a foe with a slap from one of its powerful front fins and chew it up whole. Fortunately, only one specimen on captivity remains.",
-    "Baby": false,
-    "PrimaryEggGroup": "Water 1",
-    "SecondaryEggGroup": "Water 3",
     "Evolutions": [
         {
             "From": "Tirtouga",
             "Kind": "Level",
             "Speed": "Medium"
         }
-    ]
+    ],
+    "Image": "carracosta.png"
 }

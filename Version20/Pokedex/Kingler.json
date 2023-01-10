@@ -19,37 +19,27 @@
     "Ability2": "Shell Armor",
     "HiddenAbility": "Sheer Force",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Amateur",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "kingler.png",
     "GoodStarter": false,
     "_id": "kingler",
-    "HasForm": false,
-    "Learnset": "Kingler-Learnset",
-    "Abilities": "Hyper Cutter / Shell Armor (Sheer Force)",
-    "Type": "Water",
     "DexCategory": "Pincer Pokemon",
     "Height": {
-        "Deimeters": 13,
         "Meters": 1.3,
         "Feet": 4.3
     },
     "Weight": {
-        "Hectograms": 600,
         "Kilograms": 60.0,
         "Pounds": 132.3
     },
     "DexDescription": "Its pincers grow peculiarly large. If it lifts the pincers too fast, it may lose its balance and stagger. If one of its pincers is damaged, it will detach it from its body. It will regrow after a few days..",
-    "Baby": false,
-    "PrimaryEggGroup": "Water 3",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Krabby",
             "Kind": "Level",
             "Speed": "Slow"
         }
-    ]
+    ],
+    "Image": "kingler.png"
 }

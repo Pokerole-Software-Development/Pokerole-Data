@@ -19,36 +19,26 @@
     "Ability2": "",
     "HiddenAbility": "",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Amateur",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "eiscue.png",
     "GoodStarter": false,
     "_id": "eiscue",
-    "HasForm": true,
-    "Learnset": "Eiscue-Learnset",
-    "Abilities": "Ice Face",
-    "Type": "Ice",
     "DexCategory": "Penguin Pokemon",
     "Height": {
-        "Deimeters": 14,
         "Meters": 1.4,
         "Feet": 4.6
     },
     "Weight": {
-        "Hectograms": 890,
         "Kilograms": 89.0,
         "Pounds": 196.2
     },
     "DexDescription": "This Pokemon keeps its head cool with ice. It fishes for its food by dangling its single hair into the sea to lure in prey. When they tire of swimming they simply let their ice hear be drifted away by the sea.",
-    "Baby": false,
-    "PrimaryEggGroup": "Water 1",
-    "SecondaryEggGroup": "Field",
     "Evolutions": [
         {
             "To": "Form Eiscue",
             "Kind": "Form"
         }
-    ]
+    ],
+    "Image": "eiscue.png"
 }

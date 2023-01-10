@@ -19,37 +19,27 @@
     "Ability2": "Solid Rock",
     "HiddenAbility": "Reckless",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Pro",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "rhyperior.png",
     "GoodStarter": false,
     "_id": "rhyperior",
-    "HasForm": false,
-    "Learnset": "Rhyperior-Learnset",
-    "Abilities": "Lightning Rod / Solid Rock (Reckless)",
-    "Type": "Ground / Rock",
     "DexCategory": "Drill Pokemon",
     "Height": {
-        "Deimeters": 24,
         "Meters": 2.4,
         "Feet": 7.9
     },
     "Weight": {
-        "Hectograms": 2828,
         "Kilograms": 282.8,
         "Pounds": 623.5
     },
     "DexDescription": "They have rarely been seen in the wild and only in the tallest mountains. It has holes on its hands which are used like canons to shoot boulders. Be careful, they are very aggressive but not very smart.",
-    "Baby": false,
-    "PrimaryEggGroup": "Monster",
-    "SecondaryEggGroup": "Field",
     "Evolutions": [
         {
             "From": "Rhydon",
             "Kind": "Trade",
             "Item": "Protector"
         }
-    ]
+    ],
+    "Image": "rhyperior.png"
 }

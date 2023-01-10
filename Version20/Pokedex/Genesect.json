@@ -19,31 +19,21 @@
     "Ability2": "",
     "HiddenAbility": "",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Master",
     "GenderType": "N",
     "Legendary": true,
-    "Sprite": "genesect.png",
     "GoodStarter": false,
     "_id": "genesect",
-    "HasForm": false,
-    "Learnset": "Genesect-Learnset",
-    "Abilities": "Download",
-    "Type": "Bug / Steel",
     "DexCategory": "No Data",
     "Height": {
-        "Deimeters": 15,
         "Meters": 1.5,
         "Feet": 4.9
     },
     "Weight": {
-        "Hectograms": 825,
         "Kilograms": 82.5,
         "Pounds": 181.9
     },
     "DexDescription": "Fossil revival is now possible with our incredible technology. Recently, some researchers sparked a controversial debate by altering the original forms of the revived Pokemon through artificial means.",
-    "Baby": false,
-    "PrimaryEggGroup": "Undiscovered",
-    "SecondaryEggGroup": "",
-    "Evolutions": []
+    "Evolutions": [],
+    "Image": "genesect.png"
 }

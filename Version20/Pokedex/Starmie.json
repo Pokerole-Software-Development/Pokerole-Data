@@ -19,37 +19,27 @@
     "Ability2": "Natural Cure",
     "HiddenAbility": "Analytic",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Amateur",
     "GenderType": "N",
     "Legendary": false,
-    "Sprite": "starmie.png",
     "GoodStarter": false,
     "_id": "starmie",
-    "HasForm": false,
-    "Learnset": "Starmie-Learnset",
-    "Abilities": "Illuminate / Natural Cure (Analytic)",
-    "Type": "Water / Psychic",
     "DexCategory": "Mysterious Pokemon",
     "Height": {
-        "Deimeters": 11,
         "Meters": 1.1,
         "Feet": 3.6
     },
     "Weight": {
-        "Hectograms": 800,
         "Kilograms": 80.0,
         "Pounds": 176.4
     },
     "DexDescription": "This Pokemon has been given the nickname \u201cthe gem of the sea.\u201d It swims through water by spinning its star-shaped body as if it were a propeller on a ship. The core at the center glows with different colors.",
-    "Baby": false,
-    "PrimaryEggGroup": "Water 3",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Staryu",
             "Kind": "Stone",
             "Item": "Water Stone"
         }
-    ]
+    ],
+    "Image": "starmie.png"
 }

@@ -19,32 +19,21 @@
     "Ability2": "",
     "HiddenAbility": "Leaf Guard",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Amateur",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "bayleef.png",
     "GoodStarter": false,
     "_id": "bayleef",
-    "HasForm": false,
-    "Learnset": "Bayleef-Learnset",
-    "Abilities": "Overgrow (Leaf Guard)",
-    "Type": "Grass",
     "DexCategory": "Leaf Pokemon",
     "Height": {
-        "Deimeters": 12,
         "Meters": 1.2,
         "Feet": 3.9
     },
     "Weight": {
-        "Hectograms": 158,
         "Kilograms": 15.8,
         "Pounds": 34.8
     },
     "DexDescription": "A spicy fragrance emanates from around its neck that makes it feisty and impetuous. It sheds its leaves every couple of weeks after the aroma diminishes and its mood also becomes calmer.",
-    "Baby": false,
-    "PrimaryEggGroup": "Monster",
-    "SecondaryEggGroup": "Grass",
     "Evolutions": [
         {
             "From": "Chikorita",
@@ -56,5 +45,6 @@
             "Kind": "Level",
             "Speed": "Medium"
         }
-    ]
+    ],
+    "Image": "bayleef.png"
 }

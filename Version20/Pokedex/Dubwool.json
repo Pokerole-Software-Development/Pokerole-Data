@@ -19,37 +19,27 @@
     "Ability2": "Steadfast",
     "HiddenAbility": "Bulletproof",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Amateur",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "dubwool.png",
     "GoodStarter": false,
     "_id": "dubwool",
-    "HasForm": false,
-    "Learnset": "Dubwool-Learnset",
-    "Abilities": "Fluffy / Steadfast (Bulletproof)",
-    "Type": "Normal",
     "DexCategory": "Sheep Pokemon",
     "Height": {
-        "Deimeters": 13,
         "Meters": 1.3,
         "Feet": 4.3
     },
     "Weight": {
-        "Hectograms": 430,
         "Kilograms": 43.0,
         "Pounds": 94.8
     },
     "DexDescription": "Humble and calm, their wool has springy properties. A king in ancient times ordered a carpet made from 100 Dubwool, when it was done, those who step on it started to bounce the moment they set foot on it.",
-    "Baby": false,
-    "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Wooloo",
             "Kind": "Level",
             "Speed": "Medium"
         }
-    ]
+    ],
+    "Image": "dubwool.png"
 }

@@ -19,37 +19,27 @@
     "Ability2": "",
     "HiddenAbility": "",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Pro",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "altaria-mega.png",
     "GoodStarter": false,
     "_id": "mega-altaria",
-    "HasForm": false,
-    "Learnset": "Mega-Altaria-Learnset",
-    "Abilities": "Pixilate",
-    "Type": "Dragon / Fairy",
     "DexCategory": "Humming Pokemon",
     "Height": {
-        "Deimeters": 15,
         "Meters": 1.5,
         "Feet": 4.9
     },
     "Weight": {
-        "Hectograms": 206,
         "Kilograms": 20.6,
         "Pounds": 45.4
     },
     "DexDescription": "The power of the Mega Stone awakens a part of it full of wonder. Mega-Alatarias can be benevolent or ruthless depending on who they are dealing with. Its lush cloud-wings turn dark whenever it gets angry.",
-    "Baby": false,
-    "PrimaryEggGroup": "Flying",
-    "SecondaryEggGroup": "Dragon",
     "Evolutions": [
         {
             "From": "Altaria",
             "Kind": "Mega",
             "Item": "Altarianite"
         }
-    ]
+    ],
+    "Image": "altaria-mega.png"
 }

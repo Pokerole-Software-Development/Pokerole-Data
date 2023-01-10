@@ -19,37 +19,27 @@
     "Ability2": "Ice Body",
     "HiddenAbility": "Oblivious",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Ace",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "walrein.png",
     "GoodStarter": false,
     "_id": "walrein",
-    "HasForm": false,
-    "Learnset": "Walrein-Learnset",
-    "Abilities": "Thick Fat / Ice Body (Oblivious)",
-    "Type": "Ice / Water",
     "DexCategory": "Ice Break Pokemon",
     "Height": {
-        "Deimeters": 14,
         "Meters": 1.4,
         "Feet": 4.6
     },
     "Weight": {
-        "Hectograms": 1506,
         "Kilograms": 150.6,
         "Pounds": 332.0
     },
     "DexDescription": "The leader of the herd is a powerful Walrein. They are very aggressive and will protect their herd even at the cost of their lives. Their tusks can shatter giant blocks of ice. It is relentless and unpredictable.",
-    "Baby": false,
-    "PrimaryEggGroup": "Water 1",
-    "SecondaryEggGroup": "Field",
     "Evolutions": [
         {
             "From": "Sealeo",
             "Kind": "Level",
             "Speed": "Medium"
         }
-    ]
+    ],
+    "Image": "walrein.png"
 }

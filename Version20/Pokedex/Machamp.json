@@ -19,36 +19,26 @@
     "Ability2": "No Guard",
     "HiddenAbility": "Steadfast",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Ace",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "machamp.png",
     "GoodStarter": false,
     "_id": "machamp",
-    "HasForm": false,
-    "Learnset": "Machamp-Learnset",
-    "Abilities": "Guts / No Guard (Steadfast)",
-    "Type": "Fighting",
     "DexCategory": "Superpower Pokemon",
     "Height": {
-        "Deimeters": 16,
         "Meters": 1.6,
         "Feet": 5.2
     },
     "Weight": {
-        "Hectograms": 1300,
         "Kilograms": 130.0,
         "Pounds": 286.6
     },
     "DexDescription": "There are a few roaming in the mountains. Machamp has the power to hurl anything aside. However, trying to do any work that requires care and dexterity may cause its arms to get tangled.",
-    "Baby": false,
-    "PrimaryEggGroup": "Human-Like",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Machoke",
             "Kind": "Trade"
         }
-    ]
+    ],
+    "Image": "machamp.png"
 }

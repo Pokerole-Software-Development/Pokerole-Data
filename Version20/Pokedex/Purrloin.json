@@ -19,37 +19,27 @@
     "Ability2": "Unburden",
     "HiddenAbility": "Prankster",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Beginner",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "purrloin.png",
     "GoodStarter": true,
     "_id": "purrloin",
-    "HasForm": false,
-    "Learnset": "Purrloin-Learnset",
-    "Abilities": "Limber / Unburden (Prankster)",
-    "Type": "Dark",
     "DexCategory": "Devious Pokemon",
     "Height": {
-        "Deimeters": 4,
         "Meters": 0.4,
         "Feet": 1.3
     },
     "Weight": {
-        "Hectograms": 101,
         "Kilograms": 10.1,
         "Pounds": 22.3
     },
     "DexDescription": "They have adapted to live in the streets of big cities. They steal for fun but their victims can\u2019t help but forgive them. Their cute act is a ruse. People who keep them as pets often regret it.",
-    "Baby": false,
-    "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "To": "Liepard",
             "Kind": "Level",
             "Speed": "Medium"
         }
-    ]
+    ],
+    "Image": "purrloin.png"
 }

@@ -19,37 +19,27 @@
     "Ability2": "Shell Armor",
     "HiddenAbility": "Swift Swim",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Beginner",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "chewtle.png",
     "GoodStarter": true,
     "_id": "chewtle",
-    "HasForm": false,
-    "Learnset": "Chewtle-Learnset",
-    "Abilities": "Strong Jaw / Shell Armor (Swift Swim)",
-    "Type": "Water",
     "DexCategory": "Snapping Pokemon",
     "Height": {
-        "Deimeters": 3,
         "Meters": 0.3,
         "Feet": 1.0
     },
     "Weight": {
-        "Hectograms": 85,
         "Kilograms": 8.5,
         "Pounds": 18.7
     },
     "DexDescription": "It uses its horn as its primary weapon, but it has a reputation as a biter. Apparently its gums are itchy and the only way to soothe them is biting and chewing on stuff. It is kinda cranky but relatively harmless.",
-    "Baby": false,
-    "PrimaryEggGroup": "Monster",
-    "SecondaryEggGroup": "Water 1",
     "Evolutions": [
         {
             "To": "Drednaw",
             "Kind": "Level",
             "Speed": "Medium"
         }
-    ]
+    ],
+    "Image": "chewtle.png"
 }

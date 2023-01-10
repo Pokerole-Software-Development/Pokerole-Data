@@ -19,37 +19,27 @@
     "Ability2": "Unburden",
     "HiddenAbility": "Stakeout",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Beginner",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "nickit.png",
     "GoodStarter": true,
     "_id": "nickit",
-    "HasForm": false,
-    "Learnset": "Nickit-Learnset",
-    "Abilities": "Run Away / Unburden (Stakeout)",
-    "Type": "Dark",
     "DexCategory": "Fox Pokemon",
     "Height": {
-        "Deimeters": 6,
         "Meters": 0.6,
         "Feet": 2.0
     },
     "Weight": {
-        "Hectograms": 89,
         "Kilograms": 8.9,
         "Pounds": 19.6
     },
     "DexDescription": "Cunning and cautious, Nickit survive by stealing food. It erases its tracks with swipes of its tail so it\u2019s very difficult to track one. They have thrived in the cities and come at night to steal from stores.",
-    "Baby": false,
-    "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "To": "Thievul",
             "Kind": "Level",
             "Speed": "Medium"
         }
-    ]
+    ],
+    "Image": "nickit.png"
 }

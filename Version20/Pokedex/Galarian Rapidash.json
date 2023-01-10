@@ -19,37 +19,27 @@
     "Ability2": "Pastel Veil",
     "HiddenAbility": "Anticipation",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Ace",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "rapidash-galar.png",
     "GoodStarter": false,
     "_id": "galarian-rapidash",
-    "HasForm": false,
-    "Learnset": "Galarian Rapidash-Learnset",
-    "Abilities": "Run Away / Pastel Veil (Anticipation)",
-    "Type": "Psychic / Fairy",
     "DexCategory": "Unique Horn Pokemonn",
     "Height": {
-        "Deimeters": 17,
         "Meters": 1.7,
         "Feet": 5.6
     },
     "Weight": {
-        "Hectograms": 800,
         "Kilograms": 80.0,
         "Pounds": 176.4
     },
     "DexDescription": "Those with evil in their hearts will be disdained by this proud and beautiful Pokemon as it dashes on the air using its psychic power. It is said that only a true princess can mount a Galarian Rapidash.",
-    "Baby": false,
-    "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Galarian Ponyta",
             "Kind": "Level",
             "Speed": "Medium"
         }
-    ]
+    ],
+    "Image": "rapidash-galar.png"
 }

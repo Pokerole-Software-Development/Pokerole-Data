@@ -19,32 +19,21 @@
     "Ability2": "",
     "HiddenAbility": "Iron Fist",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Amateur",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "monferno.png",
     "GoodStarter": false,
     "_id": "monferno",
-    "HasForm": false,
-    "Learnset": "Monferno-Learnset",
-    "Abilities": "Blaze (Iron Fist)",
-    "Type": "Fire / Fighting",
     "DexCategory": "Playful Pokemon",
     "Height": {
-        "Deimeters": 9,
         "Meters": 0.9,
         "Feet": 3.0
     },
     "Weight": {
-        "Hectograms": 220,
         "Kilograms": 22.0,
         "Pounds": 48.5
     },
     "DexDescription": "It bounces off walls and ceilings to launch aerial attacks. They live in packs in distant mountains. The size of their flame and the blue pattern on their faces determine their rank. They are small but very strong.",
-    "Baby": false,
-    "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": "Human-Like",
     "Evolutions": [
         {
             "From": "Chimchar",
@@ -56,5 +45,6 @@
             "Kind": "Level",
             "Speed": "Medium"
         }
-    ]
+    ],
+    "Image": "monferno.png"
 }

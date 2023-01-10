@@ -19,37 +19,27 @@
     "Ability2": "",
     "HiddenAbility": "Aroma Veil",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Beginner",
     "GenderType": "F",
     "Legendary": false,
-    "Sprite": "alcremie.png",
     "GoodStarter": false,
     "_id": "alcremie",
-    "HasForm": false,
-    "Learnset": "Alcremie-Learnset",
-    "Abilities": "Sweet Veil (Aroma Veil)",
-    "Type": "Fairy",
     "DexCategory": "Cream Pokemon",
     "Height": {
-        "Deimeters": 3,
         "Meters": 0.3,
         "Feet": 1.0
     },
     "Weight": {
-        "Hectograms": 5,
         "Kilograms": 0.5,
         "Pounds": 1.1
     },
     "DexDescription": "There is a vast number of recipes to evolve an Alcremie, changing their color and flavor, some are sweet, some are sour but they are all delicious. Cakes baked with its help can be sold for a lot of money.",
-    "Baby": false,
-    "PrimaryEggGroup": "Fairy",
-    "SecondaryEggGroup": "Amorphous",
     "Evolutions": [
         {
             "From": "Milcery",
             "Kind": "Special",
             "Special": "Berry & spin"
         }
-    ]
+    ],
+    "Image": "alcremie.png"
 }

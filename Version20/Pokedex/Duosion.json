@@ -19,32 +19,21 @@
     "Ability2": "Magic Guard",
     "HiddenAbility": "Regenerator",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Amateur",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "duosion.png",
     "GoodStarter": false,
     "_id": "duosion",
-    "HasForm": false,
-    "Learnset": "Duosion-Learnset",
-    "Abilities": "Overcoat / Magic Guard (Regenerator)",
-    "Type": "Psychic",
     "DexCategory": "Mitosis Pokemon",
     "Height": {
-        "Deimeters": 6,
         "Meters": 0.6,
         "Feet": 2.0
     },
     "Weight": {
-        "Hectograms": 80,
         "Kilograms": 8.0,
         "Pounds": 17.6
     },
     "DexDescription": "It developed two brains when it evolved, due to this it has a split personality. At times it may suddenly try to take two different actions at once. When the two brains finally synchronize it shows it\u2019s max power.",
-    "Baby": false,
-    "PrimaryEggGroup": "Amorphous",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Solosis",
@@ -56,5 +45,6 @@
             "Kind": "Level",
             "Speed": "Medium"
         }
-    ]
+    ],
+    "Image": "duosion.png"
 }

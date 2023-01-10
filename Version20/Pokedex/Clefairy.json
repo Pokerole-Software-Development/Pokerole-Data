@@ -19,32 +19,21 @@
     "Ability2": "Magic Guard",
     "HiddenAbility": "Friend Guard",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Beginner",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "clefairy.png",
     "GoodStarter": true,
     "_id": "clefairy",
-    "HasForm": false,
-    "Learnset": "Clefairy-Learnset",
-    "Abilities": "Cute Charm / Magic Guard (Friend Guard)",
-    "Type": "Fairy",
     "DexCategory": "Fairy Pokemon",
     "Height": {
-        "Deimeters": 6,
         "Meters": 0.6,
         "Feet": 2.0
     },
     "Weight": {
-        "Hectograms": 75,
         "Kilograms": 7.5,
         "Pounds": 16.5
     },
     "DexDescription": "Very rare to find. Clefairies are said to come from the moon. They are drawn to the light of this celestial body and come out of hiding at night to dance and play in the moonlight.",
-    "Baby": false,
-    "PrimaryEggGroup": "Fairy",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Cleffa",
@@ -57,5 +46,6 @@
             "Kind": "Stone",
             "Item": "Moon Stone"
         }
-    ]
+    ],
+    "Image": "clefairy.png"
 }

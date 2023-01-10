@@ -19,32 +19,21 @@
     "Ability2": "Oblivious",
     "HiddenAbility": "Sweet Veil",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Beginner",
     "GenderType": "F",
     "Legendary": false,
-    "Sprite": "steenee.png",
     "GoodStarter": false,
     "_id": "steenee",
-    "HasForm": false,
-    "Learnset": "Steenee-Learnset",
-    "Abilities": "Leaf Guard / Oblivious (Sweet Veil)",
-    "Type": "Grass",
     "DexCategory": "Fruit Pokemon",
     "Height": {
-        "Deimeters": 7,
         "Meters": 0.7,
         "Feet": 2.3
     },
     "Weight": {
-        "Hectograms": 82,
         "Kilograms": 8.2,
         "Pounds": 18.1
     },
     "DexDescription": "Its sweet aroma keeps attracting predators but it fends them away with its hard and bitter head leaves. It likes to be taken seriously and can be hard to deal with, if you make it mad you\u2019ll receive a kick.",
-    "Baby": false,
-    "PrimaryEggGroup": "Grass",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Bounsweet",
@@ -56,5 +45,6 @@
             "Kind": "Level",
             "Speed": "Medium"
         }
-    ]
+    ],
+    "Image": "steenee.png"
 }

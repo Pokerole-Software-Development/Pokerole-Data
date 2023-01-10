@@ -19,37 +19,27 @@
     "Ability2": "Sturdy",
     "HiddenAbility": "Weak Armor",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Amateur",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "onix.png",
     "GoodStarter": false,
     "_id": "onix",
-    "HasForm": false,
-    "Learnset": "Onix-Learnset",
-    "Abilities": "Rock Head / Sturdy (Weak Armor)",
-    "Type": "Rock / Ground",
     "DexCategory": "Rock Snake Pokemon",
     "Height": {
-        "Deimeters": 88,
         "Meters": 8.8,
         "Feet": 28.9
     },
     "Weight": {
-        "Hectograms": 2100,
         "Kilograms": 210.0,
         "Pounds": 463.0
     },
     "DexDescription": "It is not full-size when it\u2019s born. Years of eating boulders make it a real giant. It lives on mountains and dark tunnels. Its frightening roars travel as echo through the cave. It is very aggressive towards others.",
-    "Baby": false,
-    "PrimaryEggGroup": "Mineral",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "To": "Steelix",
             "Kind": "Trade",
             "Item": "Metal Coat"
         }
-    ]
+    ],
+    "Image": "onix.png"
 }

@@ -19,37 +19,27 @@
     "Ability2": "Rock Head",
     "HiddenAbility": "Reckless",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Beginner",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "rhyhorn.png",
     "GoodStarter": true,
     "_id": "rhyhorn",
-    "HasForm": false,
-    "Learnset": "Rhyhorn-Learnset",
-    "Abilities": "Lightning Rod / Rock Head (Reckless)",
-    "Type": "Ground / Rock",
     "DexCategory": "Spikes Pokemon",
     "Height": {
-        "Deimeters": 10,
         "Meters": 1.0,
         "Feet": 3.3
     },
     "Weight": {
-        "Hectograms": 1150,
         "Kilograms": 115.0,
         "Pounds": 253.5
     },
     "DexDescription": "It lives in grasslands and rough terrains. It is covered with a thick hide and it tramples any threats by running towards them. It is not very smart, though. It can keep trampling things for hours just because.",
-    "Baby": false,
-    "PrimaryEggGroup": "Monster",
-    "SecondaryEggGroup": "Field",
     "Evolutions": [
         {
             "To": "Rhydon",
             "Kind": "Level",
             "Speed": "Slow"
         }
-    ]
+    ],
+    "Image": "rhyhorn.png"
 }

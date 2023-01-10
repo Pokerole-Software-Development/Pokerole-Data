@@ -19,37 +19,27 @@
     "Ability2": "Sand Veil",
     "HiddenAbility": "Solar Power",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Amateur",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "heliolisk.png",
     "GoodStarter": false,
     "_id": "heliolisk",
-    "HasForm": false,
-    "Learnset": "Heliolisk-Learnset",
-    "Abilities": "Dry Skin / Sand Veil (Solar Power)",
-    "Type": "Electric / Normal",
     "DexCategory": "Generator Pokemon",
     "Height": {
-        "Deimeters": 10,
         "Meters": 1.0,
         "Feet": 3.3
     },
     "Weight": {
-        "Hectograms": 210,
         "Kilograms": 21.0,
         "Pounds": 46.3
     },
     "DexDescription": "They flare their frills and generate energy. A single Heliolisk is able to generate enough power to light a skyscraper. Due to this, electricity companies are investing on breeding and research for this species.",
-    "Baby": false,
-    "PrimaryEggGroup": "Monster",
-    "SecondaryEggGroup": "Dragon",
     "Evolutions": [
         {
             "From": "Helioptile",
             "Kind": "Stone",
             "Item": "Sun Stone"
         }
-    ]
+    ],
+    "Image": "heliolisk.png"
 }

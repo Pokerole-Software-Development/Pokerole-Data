@@ -19,37 +19,27 @@
     "Ability2": "Slush Rush",
     "HiddenAbility": "Rattled",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Beginner",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "cubchoo.png",
     "GoodStarter": true,
     "_id": "cubchoo",
-    "HasForm": false,
-    "Learnset": "Cubchoo-Learnset",
-    "Abilities": "Snow Cloak / Slush Rush (Rattled)",
-    "Type": "Ice",
     "DexCategory": "Chill Pokemon",
     "Height": {
-        "Deimeters": 5,
         "Meters": 0.5,
         "Feet": 1.6
     },
     "Weight": {
-        "Hectograms": 85,
         "Kilograms": 8.5,
         "Pounds": 18.7
     },
     "DexDescription": "They are born by the end of winter and stay with their mothers for a couple of seasons. Their running nose is used to practice their ice powers. In fact, when they get sick their nose is completely dry.",
-    "Baby": false,
-    "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "To": "Beartic",
             "Kind": "Level",
             "Speed": "Medium"
         }
-    ]
+    ],
+    "Image": "cubchoo.png"
 }

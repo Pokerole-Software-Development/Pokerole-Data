@@ -19,37 +19,27 @@
     "Ability2": "",
     "HiddenAbility": "",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Amateur",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "clawitzer.png",
     "GoodStarter": false,
     "_id": "clawitzer",
-    "HasForm": false,
-    "Learnset": "Clawitzer-Learnset",
-    "Abilities": "Mega Launcher",
-    "Type": "Water",
     "DexCategory": "Howitzer Pokemon",
     "Height": {
-        "Deimeters": 13,
         "Meters": 1.3,
         "Feet": 4.3
     },
     "Weight": {
-        "Hectograms": 353,
         "Kilograms": 35.3,
         "Pounds": 77.8
     },
     "DexDescription": "They can be seen swimming backwards using their launcher as A propulsor, but they usually stay at the bottom of the sea. Their meat is tough and bitter so people don\u2019t use them as food anymore.",
-    "Baby": false,
-    "PrimaryEggGroup": "Water 1",
-    "SecondaryEggGroup": "Water 3",
     "Evolutions": [
         {
             "From": "Clauncher",
             "Kind": "Level",
             "Speed": "Medium"
         }
-    ]
+    ],
+    "Image": "clawitzer.png"
 }

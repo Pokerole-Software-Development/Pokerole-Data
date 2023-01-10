@@ -19,37 +19,27 @@
     "Ability2": "Gluttony",
     "HiddenAbility": "Quick Feet",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Beginner",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "zigzagoon-galar.png",
     "GoodStarter": true,
     "_id": "galarian-zigzagoon",
-    "HasForm": false,
-    "Learnset": "Galarian Zigzagoon-Learnset",
-    "Abilities": "Pickup / Gluttony (Quick Feet)",
-    "Type": "Dark / Normal",
     "DexCategory": "Tiny Racoon Pokemon",
     "Height": {
-        "Deimeters": 4,
         "Meters": 0.4,
         "Feet": 1.3
     },
     "Weight": {
-        "Hectograms": 175,
         "Kilograms": 17.5,
         "Pounds": 38.6
     },
     "DexDescription": "Zigzagoons raised in Galar grow to be punks. If they see another Pokemon, they will purposely run into them to start a fight. The only way to calm them down is with a lot of loud noise.",
-    "Baby": false,
-    "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "To": "Galarian Linoone",
             "Kind": "Level",
             "Speed": "Medium"
         }
-    ]
+    ],
+    "Image": "zigzagoon-galar.png"
 }

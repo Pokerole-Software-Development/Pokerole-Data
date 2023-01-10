@@ -19,37 +19,27 @@
     "Ability2": "Normalize",
     "HiddenAbility": "Wonder Skin",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Beginner",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "delcatty.png",
     "GoodStarter": false,
     "_id": "delcatty",
-    "HasForm": false,
-    "Learnset": "Delcatty-Learnset",
-    "Abilities": "Cute Charm / Normalize (Wonder Skin)",
-    "Type": "Normal",
     "DexCategory": "Prim Pokemon",
     "Height": {
-        "Deimeters": 11,
         "Meters": 1.1,
         "Feet": 3.6
     },
     "Weight": {
-        "Hectograms": 326,
         "Kilograms": 32.6,
         "Pounds": 71.9
     },
     "DexDescription": "They like to live without restrictions, spending their time eating and sleeping whenever they feel like it. Popular among females. Delcatties love clean places, good food and to groom themselves.",
-    "Baby": false,
-    "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": "Fairy",
     "Evolutions": [
         {
             "From": "Skitty",
             "Kind": "Stone",
             "Item": "Moon Stone"
         }
-    ]
+    ],
+    "Image": "delcatty.png"
 }

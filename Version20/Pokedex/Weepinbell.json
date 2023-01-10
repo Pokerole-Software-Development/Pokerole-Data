@@ -19,32 +19,21 @@
     "Ability2": "",
     "HiddenAbility": "Gluttony",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Beginner",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "weepinbell.png",
     "GoodStarter": false,
     "_id": "weepinbell",
-    "HasForm": false,
-    "Learnset": "Weepinbell-Learnset",
-    "Abilities": "Chlorophyll (Gluttony)",
-    "Type": "Grass / Poison",
     "DexCategory": "Flycatcher Pokemon",
     "Height": {
-        "Deimeters": 10,
         "Meters": 1.0,
         "Feet": 3.3
     },
     "Weight": {
-        "Hectograms": 64,
         "Kilograms": 6.4,
         "Pounds": 14.1
     },
     "DexDescription": "It sprays its stun powder to immobilize a prey coming close to it, then eats it calmly. If the prey is bigger than itself, it uses its sharp leaves to slice it into smaller pieces. Beware of the toxic liquid in its mouth.",
-    "Baby": false,
-    "PrimaryEggGroup": "Grass",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Bellsprout",
@@ -56,5 +45,6 @@
             "Kind": "Stone",
             "Item": "Leaf Stone"
         }
-    ]
+    ],
+    "Image": "weepinbell.png"
 }

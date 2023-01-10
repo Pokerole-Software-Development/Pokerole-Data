@@ -19,37 +19,27 @@
     "Ability2": "",
     "HiddenAbility": "",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Amateur",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "audino-mega.png",
     "GoodStarter": false,
     "_id": "mega-audino",
-    "HasForm": false,
-    "Learnset": "Mega-Audino-Learnset",
-    "Abilities": "Inner Focus",
-    "Type": "Normal / Fairy",
     "DexCategory": "Hearing Pokemon",
     "Height": {
-        "Deimeters": 15,
         "Meters": 1.5,
         "Feet": 4.9
     },
     "Weight": {
-        "Hectograms": 320,
         "Kilograms": 32.0,
         "Pounds": 70.5
     },
     "DexDescription": "The power of the Mega Stone increases the purity of this Pokemon, revealing its Fairy type. It is so caring and protective of its trainer that it can hear its cries for help from miles away. It loves to soothe and care for others.",
-    "Baby": false,
-    "PrimaryEggGroup": "Fairy",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Audino",
             "Kind": "Mega",
             "Item": "Audinite"
         }
-    ]
+    ],
+    "Image": "audino-mega.png"
 }

@@ -19,32 +19,21 @@
     "Ability2": "Rain Dish",
     "HiddenAbility": "Own Tempo",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Beginner",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "lombre.png",
     "GoodStarter": false,
     "_id": "lombre",
-    "HasForm": false,
-    "Learnset": "Lombre-Learnset",
-    "Abilities": "Swift Swim / Rain Dish (Own Tempo)",
-    "Type": "Water / Grass",
     "DexCategory": "Jolly Pokemon",
     "Height": {
-        "Deimeters": 12,
         "Meters": 1.2,
         "Feet": 3.9
     },
     "Weight": {
-        "Hectograms": 325,
         "Kilograms": 32.5,
         "Pounds": 71.7
     },
     "DexDescription": "This nocturnal Pokemon has a mischievous and impish personality. While playing pranks on people, Lombres are commonly mistaken for human children. It enjoys to startle unaware swimmers.",
-    "Baby": false,
-    "PrimaryEggGroup": "Water 1",
-    "SecondaryEggGroup": "Grass",
     "Evolutions": [
         {
             "From": "Lotad",
@@ -56,5 +45,6 @@
             "Kind": "Stone",
             "Item": "Water Stone"
         }
-    ]
+    ],
+    "Image": "lombre.png"
 }

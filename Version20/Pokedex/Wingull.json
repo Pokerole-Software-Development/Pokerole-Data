@@ -19,37 +19,27 @@
     "Ability2": "Hydration",
     "HiddenAbility": "Rain Dish",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Beginner",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "wingull.png",
     "GoodStarter": true,
     "_id": "wingull",
-    "HasForm": false,
-    "Learnset": "Wingull-Learnset",
-    "Abilities": "Keen Eye / Hydration (Rain Dish)",
-    "Type": "Water / Flying",
     "DexCategory": "Seagull Pokemon",
     "Height": {
-        "Deimeters": 6,
         "Meters": 0.6,
         "Feet": 2.0
     },
     "Weight": {
-        "Hectograms": 95,
         "Kilograms": 9.5,
         "Pounds": 20.9
     },
     "DexDescription": "They carry prey and precious items in their beaks, hiding them in strange locations. They nest in sheer cliffs at the sea\u2019s edge. They often harass fishing boats to steal an easy meal for themselves.",
-    "Baby": false,
-    "PrimaryEggGroup": "Water 1",
-    "SecondaryEggGroup": "Flying",
     "Evolutions": [
         {
             "To": "Pelipper",
             "Kind": "Level",
             "Speed": "Medium"
         }
-    ]
+    ],
+    "Image": "wingull.png"
 }

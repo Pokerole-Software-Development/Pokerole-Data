@@ -19,37 +19,27 @@
     "Ability2": "",
     "HiddenAbility": "",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Master",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "aggron-mega.png",
     "GoodStarter": false,
     "_id": "mega-aggron",
-    "HasForm": false,
-    "Learnset": "Mega-Aggron-Learnset",
-    "Abilities": "Filter",
-    "Type": "Steel",
     "DexCategory": "Iron Armor Pokemon",
     "Height": {
-        "Deimeters": 22,
         "Meters": 2.2,
         "Feet": 7.2
     },
     "Weight": {
-        "Hectograms": 3950,
         "Kilograms": 395.0,
         "Pounds": 870.8
     },
     "DexDescription": "The power of the Mega Stone makes their already-small caring nature disappear. They become relentless and more machine-like, trampling their way around as nothing can penetrate their armor.",
-    "Baby": false,
-    "PrimaryEggGroup": "Monster",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Aggron",
             "Kind": "Mega",
             "Item": "Aggronite"
         }
-    ]
+    ],
+    "Image": "aggron-mega.png"
 }

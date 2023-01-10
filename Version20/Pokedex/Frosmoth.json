@@ -19,32 +19,21 @@
     "Ability2": "",
     "HiddenAbility": "Ice Scales",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Amateur",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "frosmoth.png",
     "GoodStarter": false,
     "_id": "frosmoth",
-    "HasForm": false,
-    "Learnset": "Frosmoth-Learnset",
-    "Abilities": "Shield Dust (Ice Scales)",
-    "Type": "Ice / Bug",
     "DexCategory": "Frost Moth Pokemon",
     "Height": {
-        "Deimeters": 13,
         "Meters": 1.3,
         "Feet": 4.3
     },
     "Weight": {
-        "Hectograms": 420,
         "Kilograms": 42.0,
         "Pounds": 92.6
     },
     "DexDescription": "It shows no mercy to any who desecrates its snowfields and mountains. It will fly around on its icy wings, causing a blizzard to chase offenders away. It is very regal and soft-mannered otherwise",
-    "Baby": false,
-    "PrimaryEggGroup": "Bug",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Snom",
@@ -52,5 +41,6 @@
             "Stat": "Happiness",
             "Value": 5
         }
-    ]
+    ],
+    "Image": "frosmoth.png"
 }

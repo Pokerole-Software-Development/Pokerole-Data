@@ -19,37 +19,27 @@
     "Ability2": "",
     "HiddenAbility": "Overcoat",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Amateur",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "forretress.png",
     "GoodStarter": false,
     "_id": "forretress",
-    "HasForm": false,
-    "Learnset": "Forretress-Learnset",
-    "Abilities": "Sturdy (Overcoat)",
-    "Type": "Bug / Steel",
     "DexCategory": "Bagworm Pokemon",
     "Height": {
-        "Deimeters": 12,
         "Meters": 1.2,
         "Feet": 3.9
     },
     "Weight": {
-        "Hectograms": 1258,
         "Kilograms": 125.8,
         "Pounds": 277.3
     },
     "DexDescription": "It can be found completely rooted to huge tree trunks. It protects itself and its tree by scattering spiked pieces from its shell and turning its home into a fortress that won\u2019t go down without a fight.",
-    "Baby": false,
-    "PrimaryEggGroup": "Bug",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Pineco",
             "Kind": "Level",
             "Speed": "Medium"
         }
-    ]
+    ],
+    "Image": "forretress.png"
 }

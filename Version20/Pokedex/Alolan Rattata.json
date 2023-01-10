@@ -19,37 +19,27 @@
     "Ability2": "Hustle",
     "HiddenAbility": "Thick Fat",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Starter",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "rattata-alola.png",
     "GoodStarter": true,
     "_id": "alolan-rattata",
-    "HasForm": false,
-    "Learnset": "Alolan Rattata-Learnset",
-    "Abilities": "Gluttony / Hustle (Thick Fat)",
-    "Type": "Dark / Normal",
     "DexCategory": "Mouse Pokemon",
     "Height": {
-        "Deimeters": 3,
         "Meters": 0.3,
         "Feet": 1.0
     },
     "Weight": {
-        "Hectograms": 38,
         "Kilograms": 3.8,
         "Pounds": 8.4
     },
     "DexDescription": "Rattata first came to Alola through cargo ships, it thrived and almost destroyed the region\u2019s ecosystem. Attempts to exterminate this Pokemon made it more vicious than its regular counterpart.",
-    "Baby": false,
-    "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "To": "Alolan Raticate",
             "Kind": "Level",
             "Speed": "Medium"
         }
-    ]
+    ],
+    "Image": "rattata-alola.png"
 }

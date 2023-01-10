@@ -19,32 +19,21 @@
     "Ability2": "",
     "HiddenAbility": "",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Ace",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "gengar.png",
     "GoodStarter": false,
     "_id": "gengar",
-    "HasForm": true,
-    "Learnset": "Gengar-Learnset",
-    "Abilities": "Cursed Body",
-    "Type": "Ghost / Poison",
     "DexCategory": "Shadow Pokemon",
     "Height": {
-        "Deimeters": 15,
         "Meters": 1.5,
         "Feet": 4.9
     },
     "Weight": {
-        "Hectograms": 405,
         "Kilograms": 40.5,
         "Pounds": 89.3
     },
     "DexDescription": "This Pokemon is mischievous but it can be downright evil. It takes joy in casting curses upon innocents and eating the life of people and Pokemon. It lurks in the shadows and disguises itself as one.",
-    "Baby": false,
-    "PrimaryEggGroup": "Amorphous",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Haunter",
@@ -55,5 +44,6 @@
             "Kind": "Mega",
             "Item": "Gengarite"
         }
-    ]
+    ],
+    "Image": "gengar.png"
 }

@@ -19,32 +19,21 @@
     "Ability2": "",
     "HiddenAbility": "",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Beginner",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "charjabug.png",
     "GoodStarter": false,
     "_id": "charjabug",
-    "HasForm": false,
-    "Learnset": "Charjabug-Learnset",
-    "Abilities": "Battery",
-    "Type": "Bug / Electric",
     "DexCategory": "Battery Pokemon",
     "Height": {
-        "Deimeters": 5,
         "Meters": 0.5,
         "Feet": 1.6
     },
     "Weight": {
-        "Hectograms": 105,
         "Kilograms": 10.5,
         "Pounds": 23.1
     },
     "DexDescription": "Whatever this Pokemon eats is transformed to electricity. People often use them to power up small appliances in their homes. This Pokemon rarely moves since it is preparing to evolve.",
-    "Baby": false,
-    "PrimaryEggGroup": "Bug",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Grubbin",
@@ -56,5 +45,6 @@
             "Kind": "Level",
             "Speed": "Medium"
         }
-    ]
+    ],
+    "Image": "charjabug.png"
 }

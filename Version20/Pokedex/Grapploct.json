@@ -19,37 +19,27 @@
     "Ability2": "",
     "HiddenAbility": "Technician",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Amateur",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "grapploct.png",
     "GoodStarter": false,
     "_id": "grapploct",
-    "HasForm": false,
-    "Learnset": "Grapploct-Learnset",
-    "Abilities": "Limber (Technician)",
-    "Type": "Fighting",
     "DexCategory": "Jujitsu Pokemon",
     "Height": {
-        "Deimeters": 16,
         "Meters": 1.6,
         "Feet": 5.2
     },
     "Weight": {
-        "Hectograms": 390,
         "Kilograms": 39.0,
         "Pounds": 86.0
     },
     "DexDescription": "A body made up of nothing but muscle makes its tentacles very powerful. They come out of the ocean to find opponents to battle, once the fight is over they go back into the sea.",
-    "Baby": false,
-    "PrimaryEggGroup": "Water 1",
-    "SecondaryEggGroup": "Human-Like",
     "Evolutions": [
         {
             "From": "Clobbopus",
             "Kind": "Level",
             "Speed": "Medium"
         }
-    ]
+    ],
+    "Image": "grapploct.png"
 }

@@ -19,37 +19,27 @@
     "Ability2": "",
     "HiddenAbility": "Technician",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Beginner",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "clobbopus.png",
     "GoodStarter": true,
     "_id": "clobbopus",
-    "HasForm": false,
-    "Learnset": "Clobbopus-Learnset",
-    "Abilities": "Limber (Technician)",
-    "Type": "Fighting",
     "DexCategory": "Tantrum Pokemon",
     "Height": {
-        "Deimeters": 6,
         "Meters": 0.6,
         "Feet": 2.0
     },
     "Weight": {
-        "Hectograms": 40,
         "Kilograms": 4.0,
         "Pounds": 8.8
     },
     "DexDescription": "It\u2019s very curious and child-like, but it investigates things by try to punch them with its tentacles, despite this, the tentacles tear off easily, but don\u2019t be alarmed for they\u2019ll regrow in a few days.",
-    "Baby": false,
-    "PrimaryEggGroup": "Water 1",
-    "SecondaryEggGroup": "Human-Like",
     "Evolutions": [
         {
             "To": "Grapploct",
             "Kind": "Level",
             "Speed": "Medium"
         }
-    ]
+    ],
+    "Image": "clobbopus.png"
 }

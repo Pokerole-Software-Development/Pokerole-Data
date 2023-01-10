@@ -19,37 +19,27 @@
     "Ability2": "Battle Armor",
     "HiddenAbility": "Weak Armor",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Ace",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "kabutops.png",
     "GoodStarter": false,
     "_id": "kabutops",
-    "HasForm": false,
-    "Learnset": "Kabutops-Learnset",
-    "Abilities": "Swift Swim / Battle Armor (Weak Armor)",
-    "Type": "Rock / Water",
     "DexCategory": "Shellfish Pokemon",
     "Height": {
-        "Deimeters": 13,
         "Meters": 1.3,
         "Feet": 4.3
     },
     "Weight": {
-        "Hectograms": 405,
         "Kilograms": 40.5,
         "Pounds": 89.3
     },
     "DexDescription": "Kabutops swarmed underwater to hunt for prey. It was apparently evolving from being a water dweller to living on land. It\u2019s evident from the changes in its gills and legs. Its fossils suggests it was aggressive.",
-    "Baby": false,
-    "PrimaryEggGroup": "Water 1",
-    "SecondaryEggGroup": "Water 3",
     "Evolutions": [
         {
             "From": "Kabuto",
             "Kind": "Level",
             "Speed": "Slow"
         }
-    ]
+    ],
+    "Image": "kabutops.png"
 }

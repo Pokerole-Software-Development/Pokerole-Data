@@ -19,37 +19,27 @@
     "Ability2": "Trace",
     "HiddenAbility": "Telepathy",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Beginner",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "ralts.png",
     "GoodStarter": true,
     "_id": "ralts",
-    "HasForm": false,
-    "Learnset": "Ralts-Learnset",
-    "Abilities": "Synchronize / Trace (Telepathy)",
-    "Type": "Psychic / Fairy",
     "DexCategory": "Feeling Pokemon",
     "Height": {
-        "Deimeters": 4,
         "Meters": 0.4,
         "Feet": 1.3
     },
     "Weight": {
-        "Hectograms": 66,
         "Kilograms": 6.6,
         "Pounds": 14.6
     },
     "DexDescription": "They sense the emotions of people and Pokemon, usually sharing the mood of anyone nearby. They show if they feel joy and cheer, but hide if they sense hostility. They dislike fighting and negativity.",
-    "Baby": false,
-    "PrimaryEggGroup": "Human-Like",
-    "SecondaryEggGroup": "Amorphous",
     "Evolutions": [
         {
             "To": "Kirlia",
             "Kind": "Level",
             "Speed": "Medium"
         }
-    ]
+    ],
+    "Image": "ralts.png"
 }

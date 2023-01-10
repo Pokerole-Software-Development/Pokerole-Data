@@ -19,32 +19,21 @@
     "Ability2": "Serene Grace",
     "HiddenAbility": "Healer",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Ace",
     "GenderType": "F",
     "Legendary": false,
-    "Sprite": "blissey.png",
     "GoodStarter": false,
     "_id": "blissey",
-    "HasForm": false,
-    "Learnset": "Blissey-Learnset",
-    "Abilities": "Natural Cure / Serene Grace (Healer)",
-    "Type": "Normal",
     "DexCategory": "Happiness Pokemon",
     "Height": {
-        "Deimeters": 15,
         "Meters": 1.5,
         "Feet": 4.9
     },
     "Weight": {
-        "Hectograms": 468,
         "Kilograms": 46.8,
         "Pounds": 103.2
     },
     "DexDescription": "Whoever takes a bite on a Blissey's egg becomes loving and caring to everyone. They are compassionate, healing anyone who\u2019s injured. Their presence makes everyone smile. An intelligent and emphatic Pokemon.",
-    "Baby": false,
-    "PrimaryEggGroup": "Fairy",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Chansey",
@@ -52,5 +41,6 @@
             "Stat": "Happiness",
             "Value": 5
         }
-    ]
+    ],
+    "Image": "blissey.png"
 }

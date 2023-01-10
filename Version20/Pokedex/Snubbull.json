@@ -19,37 +19,27 @@
     "Ability2": "Run Away",
     "HiddenAbility": "Rattled",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Starter",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "snubbull.png",
     "GoodStarter": true,
     "_id": "snubbull",
-    "HasForm": false,
-    "Learnset": "Snubbull-Learnset",
-    "Abilities": "Intimidate / Run Away (Rattled)",
-    "Type": "Fairy",
     "DexCategory": "Fairy Pokemon",
     "Height": {
-        "Deimeters": 6,
         "Meters": 0.6,
         "Feet": 2.0
     },
     "Weight": {
-        "Hectograms": 78,
         "Kilograms": 7.8,
         "Pounds": 17.2
     },
     "DexDescription": "It may look frightening but it is a loving and caring creature, active and playful. Snubbulls are easily scared. When threatened by bigger foes they run away or make scary faces, that makes them sad though.",
-    "Baby": false,
-    "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": "Fairy",
     "Evolutions": [
         {
             "To": "Granbull",
             "Kind": "Level",
             "Speed": "Medium"
         }
-    ]
+    ],
+    "Image": "snubbull.png"
 }

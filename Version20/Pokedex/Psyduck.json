@@ -19,37 +19,27 @@
     "Ability2": "Cloud Nine",
     "HiddenAbility": "Swift Swim",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Beginner",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "psyduck.png",
     "GoodStarter": true,
     "_id": "psyduck",
-    "HasForm": false,
-    "Learnset": "Psyduck-Learnset",
-    "Abilities": "Damp / Cloud Nine (Swift Swim)",
-    "Type": "Water",
     "DexCategory": "Duck Pokemon",
     "Height": {
-        "Deimeters": 8,
         "Meters": 0.8,
         "Feet": 2.6
     },
     "Weight": {
-        "Hectograms": 196,
         "Kilograms": 19.6,
         "Pounds": 43.2
     },
     "DexDescription": "It lives near lakes and ponds but it\u2019s not very good at swimming. It is always tormented by headaches that worsen when it uses psychic powers. Psyducks seem unaware of their own power.",
-    "Baby": false,
-    "PrimaryEggGroup": "Water 1",
-    "SecondaryEggGroup": "Field",
     "Evolutions": [
         {
             "To": "Golduck",
             "Kind": "Level",
             "Speed": "Medium"
         }
-    ]
+    ],
+    "Image": "psyduck.png"
 }

@@ -19,32 +19,21 @@
     "Ability2": "",
     "HiddenAbility": "Tinted Lens",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Amateur",
     "GenderType": "M",
     "Legendary": false,
-    "Sprite": "mothim.png",
     "GoodStarter": false,
     "_id": "mothim",
-    "HasForm": false,
-    "Learnset": "Mothim-Learnset",
-    "Abilities": "Swarm (Tinted Lens)",
-    "Type": "Bug / Flying",
     "DexCategory": "Moth Pokemon",
     "Height": {
-        "Deimeters": 9,
         "Meters": 0.9,
         "Feet": 3.0
     },
     "Weight": {
-        "Hectograms": 233,
         "Kilograms": 23.3,
         "Pounds": 51.4
     },
     "DexDescription": "It flies near the mountains in search of honey. It is an opportunist and won\u2019t gather any honey by itself, instead Mothim steals from Combee hives and other Pokemon. This Pokemon is male only.",
-    "Baby": false,
-    "PrimaryEggGroup": "Bug",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Burmy",
@@ -52,5 +41,6 @@
             "Speed": "Fast",
             "Gender": "Male"
         }
-    ]
+    ],
+    "Image": "mothim.png"
 }

@@ -19,37 +19,27 @@
     "Ability2": "",
     "HiddenAbility": "Water Veil",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Amateur",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "huntail.png",
     "GoodStarter": false,
     "_id": "huntail",
-    "HasForm": false,
-    "Learnset": "Huntail-Learnset",
-    "Abilities": "Swift Swim (Water Veil)",
-    "Type": "Water",
     "DexCategory": "Deep Sea Pokemon",
     "Height": {
-        "Deimeters": 17,
         "Meters": 1.7,
         "Feet": 5.6
     },
     "Weight": {
-        "Hectograms": 270,
         "Kilograms": 27.0,
         "Pounds": 59.5
     },
     "DexDescription": "It lives at extreme depths of the sea. Their eyes can see perfectly in complete darkness. Huntails light up their tail to attract their prey, then swallow them whole with a single bite.",
-    "Baby": false,
-    "PrimaryEggGroup": "Water 1",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Clamperl",
             "Kind": "Trade",
             "Item": "Dragon Fang"
         }
-    ]
+    ],
+    "Image": "huntail.png"
 }

@@ -19,37 +19,27 @@
     "Ability2": "Frisk",
     "HiddenAbility": "Pickpocket",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Ace",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "obstagoon.png",
     "GoodStarter": false,
     "_id": "obstagoon",
-    "HasForm": false,
-    "Learnset": "Obstagoon-Learnset",
-    "Abilities": "Prankster / Frisk (Pickpocket)",
-    "Type": "Dark / Normal",
     "DexCategory": "Blocking Pokemon",
     "Height": {
-        "Deimeters": 16,
         "Meters": 1.6,
         "Feet": 5.2
     },
     "Weight": {
-        "Hectograms": 460,
         "Kilograms": 46.0,
         "Pounds": 101.4
     },
     "DexDescription": "Its voice has a very loud volume and it is a noisy and rude Pokemon. Obstagoon has a tendency to take on a threatening posture and shout at anyone that is in front of it. They rarely take things seriously.",
-    "Baby": false,
-    "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Galarian Linoone",
             "Kind": "Level",
             "Speed": "Medium"
         }
-    ]
+    ],
+    "Image": "obstagoon.png"
 }

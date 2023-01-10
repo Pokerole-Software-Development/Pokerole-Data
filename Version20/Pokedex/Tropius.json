@@ -19,31 +19,21 @@
     "Ability2": "Solar Power",
     "HiddenAbility": "Harvest",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Amateur",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "tropius.png",
     "GoodStarter": false,
     "_id": "tropius",
-    "HasForm": false,
-    "Learnset": "Tropius-Learnset",
-    "Abilities": "Chlorophyll / Solar Power (Harvest)",
-    "Type": "Grass / Flying",
     "DexCategory": "Fruit Pokemon",
     "Height": {
-        "Deimeters": 20,
         "Meters": 2.0,
         "Feet": 6.6
     },
     "Weight": {
-        "Hectograms": 1000,
         "Kilograms": 100.0,
         "Pounds": 220.5
     },
     "DexDescription": "It is very common in humid and hot regions. It can grow back the fruit it has eaten. Mothers prefer Tropius fruits to feed their children as it is more nutritive and sweet. They are mellow and friendly Pokemon.",
-    "Baby": false,
-    "PrimaryEggGroup": "Monster",
-    "SecondaryEggGroup": "Grass",
-    "Evolutions": []
+    "Evolutions": [],
+    "Image": "tropius.png"
 }

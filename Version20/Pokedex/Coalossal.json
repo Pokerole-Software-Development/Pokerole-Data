@@ -19,37 +19,27 @@
     "Ability2": "Flame Body",
     "HiddenAbility": "Flash Fire",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Ace",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "coalossal.png",
     "GoodStarter": false,
     "_id": "coalossal",
-    "HasForm": false,
-    "Learnset": "Coalossal-Learnset",
-    "Abilities": "Steam Engine / Flame Body (Flash Fire)",
-    "Type": "Rock / Fire",
     "DexCategory": "Coal Pokemon",
     "Height": {
-        "Deimeters": 28,
         "Meters": 2.8,
         "Feet": 9.2
     },
     "Weight": {
-        "Hectograms": 3105,
         "Kilograms": 310.5,
         "Pounds": 684.5
     },
     "DexDescription": "They are usually calm creatures, if they see you are kind they\u2019ll share their warmth with you but if you enrage one you risk being burned down to ashes. They spit tarry substance that is very flammable.",
-    "Baby": false,
-    "PrimaryEggGroup": "Mineral",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Carkol",
             "Kind": "Level",
             "Speed": "Medium"
         }
-    ]
+    ],
+    "Image": "coalossal.png"
 }

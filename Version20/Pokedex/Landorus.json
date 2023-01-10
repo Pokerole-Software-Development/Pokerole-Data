@@ -19,36 +19,26 @@
     "Ability2": "",
     "HiddenAbility": "Sheer Force",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Master",
     "GenderType": "M",
     "Legendary": true,
-    "Sprite": "landorus.png",
     "GoodStarter": false,
     "_id": "landorus",
-    "HasForm": true,
-    "Learnset": "Landorus-Learnset",
-    "Abilities": "Sand Force (Sheer Force)",
-    "Type": "Ground / Flying",
     "DexCategory": "No Data",
     "Height": {
-        "Deimeters": 15,
         "Meters": 1.5,
         "Feet": 4.9
     },
     "Weight": {
-        "Hectograms": 680,
         "Kilograms": 68.0,
         "Pounds": 149.9
     },
     "DexDescription": "Earthquakes and landslides raze Unova with frequency, but the places who suffer them are left with a plentiful harvest that year. Feared by some, revered by others who claim to have seen it.",
-    "Baby": false,
-    "PrimaryEggGroup": "Undiscovered",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "To": "Form Landorus",
             "Kind": "Form"
         }
-    ]
+    ],
+    "Image": "landorus.png"
 }

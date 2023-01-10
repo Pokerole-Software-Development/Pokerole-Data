@@ -19,32 +19,21 @@
     "Ability2": "Inner Focus",
     "HiddenAbility": "Magic Guard",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Ace",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "alakazam.png",
     "GoodStarter": false,
     "_id": "alakazam",
-    "HasForm": true,
-    "Learnset": "Alakazam-Learnset",
-    "Abilities": "Synchronize / Inner Focus (Magic Guard)",
-    "Type": "Psychic",
     "DexCategory": "Psi Pokemon",
     "Height": {
-        "Deimeters": 15,
         "Meters": 1.5,
         "Feet": 4.9
     },
     "Weight": {
-        "Hectograms": 480,
         "Kilograms": 48.0,
         "Pounds": 105.8
     },
     "DexDescription": "A Pokemon that can memorize anything and never forgets what it learns. Over time it becomes too smart to allow anyone to be its master. Alakazam's psychic powers can be terrifying.",
-    "Baby": false,
-    "PrimaryEggGroup": "Human-Like",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Kadabra",
@@ -55,5 +44,6 @@
             "Kind": "Mega",
             "Item": "Alakazite"
         }
-    ]
+    ],
+    "Image": "alakazam.png"
 }

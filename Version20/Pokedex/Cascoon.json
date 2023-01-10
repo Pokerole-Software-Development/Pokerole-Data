@@ -19,32 +19,21 @@
     "Ability2": "",
     "HiddenAbility": "",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Beginner",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "cascoon.png",
     "GoodStarter": true,
     "_id": "cascoon",
-    "HasForm": false,
-    "Learnset": "Cascoon-Learnset",
-    "Abilities": "Shed Skin",
-    "Type": "Bug",
     "DexCategory": "Cocoon Pokemon",
     "Height": {
-        "Deimeters": 7,
         "Meters": 0.7,
         "Feet": 2.3
     },
     "Weight": {
-        "Hectograms": 115,
         "Kilograms": 11.5,
         "Pounds": 25.4
     },
     "DexDescription": "They hide between huge leaves and gaps between branches, if they were to move, their evolution would be weaker. Due to this, Cascoon will remain motionless. If Wrumple lived in a dark place, it evolves to Cascoon.",
-    "Baby": false,
-    "PrimaryEggGroup": "Bug",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Wurmple",
@@ -56,5 +45,6 @@
             "Kind": "Level",
             "Speed": "Fast"
         }
-    ]
+    ],
+    "Image": "cascoon.png"
 }

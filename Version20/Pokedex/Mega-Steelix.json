@@ -19,37 +19,27 @@
     "Ability2": "",
     "HiddenAbility": "",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Master",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "steelix-mega.png",
     "GoodStarter": false,
     "_id": "mega-steelix",
-    "HasForm": false,
-    "Learnset": "Mega-Steelix-Learnset",
-    "Abilities": "Sand Force",
-    "Type": "Steel / Ground",
     "DexCategory": "Iron Snake Pokemon",
     "Height": {
-        "Deimeters": 105,
         "Meters": 10.5,
         "Feet": 34.4
     },
     "Weight": {
-        "Hectograms": 7400,
         "Kilograms": 740.0,
         "Pounds": 1631.4
     },
     "DexDescription": "With the power of the Mega Stone its body goes through so much pressure that part of it becomes diamond crystals. Its defense is almost unbreakable but its temper is short and it\u2019s easily angered.",
-    "Baby": false,
-    "PrimaryEggGroup": "Mineral",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Steelix",
             "Kind": "Mega",
             "Item": "Steelixite"
         }
-    ]
+    ],
+    "Image": "steelix-mega.png"
 }

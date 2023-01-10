@@ -19,37 +19,27 @@
     "Ability2": "Effect Spore",
     "HiddenAbility": "Rain Dish",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Starter",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "morelull.png",
     "GoodStarter": true,
     "_id": "morelull",
-    "HasForm": false,
-    "Learnset": "Morelull-Learnset",
-    "Abilities": "Illuminate / Effect Spore (Rain Dish)",
-    "Type": "Grass / Fairy",
     "DexCategory": "Illuminating Pokemon",
     "Height": {
-        "Deimeters": 2,
         "Meters": 0.2,
         "Feet": 0.7
     },
     "Weight": {
-        "Hectograms": 15,
         "Kilograms": 1.5,
         "Pounds": 3.3
     },
     "DexDescription": "Morellul are nocturnal Pokemon whose headbulbs emit a faint glow. They root into a tree and use its nutrients to power their light, when the tree is all dried up they are ready to evolve.",
-    "Baby": false,
-    "PrimaryEggGroup": "Grass",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "To": "Shiinotic",
             "Kind": "Level",
             "Speed": "Medium"
         }
-    ]
+    ],
+    "Image": "morelull.png"
 }

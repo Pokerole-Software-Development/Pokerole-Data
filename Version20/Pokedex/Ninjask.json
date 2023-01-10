@@ -19,37 +19,27 @@
     "Ability2": "",
     "HiddenAbility": "Infiltrator",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Amateur",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "ninjask.png",
     "GoodStarter": false,
     "_id": "ninjask",
-    "HasForm": false,
-    "Learnset": "Ninjask-Learnset",
-    "Abilities": "Speed Boost (Infiltrator)",
-    "Type": "Bug / Flying",
     "DexCategory": "Ninja Pokemon",
     "Height": {
-        "Deimeters": 8,
         "Meters": 0.8,
         "Feet": 2.6
     },
     "Weight": {
-        "Hectograms": 120,
         "Kilograms": 12.0,
         "Pounds": 26.5
     },
     "DexDescription": "Due to their speed and stealthiness, this Pokemon was believed to be invisible. They refuse to obey people and cry continuously if forced. People burn their cocoons as they are said to be cursed.",
-    "Baby": false,
-    "PrimaryEggGroup": "Bug",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Nincada",
             "Kind": "Level",
             "Speed": "Medium"
         }
-    ]
+    ],
+    "Image": "ninjask.png"
 }

@@ -19,37 +19,27 @@
     "Ability2": "Sheer Force",
     "HiddenAbility": "Iron Fist",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Beginner",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "timburr.png",
     "GoodStarter": true,
     "_id": "timburr",
-    "HasForm": false,
-    "Learnset": "Timburr-Learnset",
-    "Abilities": "Guts / Sheer Force (Iron Fist)",
-    "Type": "Fighting",
     "DexCategory": "Muscular Pokemon",
     "Height": {
-        "Deimeters": 6,
         "Meters": 0.6,
         "Feet": 2.0
     },
     "Weight": {
-        "Hectograms": 125,
         "Kilograms": 12.5,
         "Pounds": 27.6
     },
     "DexDescription": "They carry a big log as a tool and as a weapon. You may see them helping with construction work as they strive to challenge their strength. When it can swing the log without problems it is close to evolve.",
-    "Baby": false,
-    "PrimaryEggGroup": "Human-Like",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "To": "Gurdurr",
             "Kind": "Level",
             "Speed": "Medium"
         }
-    ]
+    ],
+    "Image": "timburr.png"
 }

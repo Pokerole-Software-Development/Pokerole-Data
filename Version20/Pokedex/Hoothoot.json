@@ -19,37 +19,27 @@
     "Ability2": "Keen Eye",
     "HiddenAbility": "Tinted Lens",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Beginner",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "hoothoot.png",
     "GoodStarter": true,
     "_id": "hoothoot",
-    "HasForm": false,
-    "Learnset": "Hoothoot-Learnset",
-    "Abilities": "Insomnia / Keen Eye (Tinted Lens)",
-    "Type": "Normal / Flying",
     "DexCategory": "Owl Pokemon",
     "Height": {
-        "Deimeters": 7,
         "Meters": 0.7,
         "Feet": 2.3
     },
     "Weight": {
-        "Hectograms": 212,
         "Kilograms": 21.2,
         "Pounds": 46.7
     },
     "DexDescription": "A nocturnal Pokemon found in dark forests. It has an internal organ that senses the earth\u2019s rotation. By using this special organ a Hoothoot begins hooting at precisely the same time every day.",
-    "Baby": false,
-    "PrimaryEggGroup": "Flying",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "To": "Noctowl",
             "Kind": "Level",
             "Speed": "Medium"
         }
-    ]
+    ],
+    "Image": "hoothoot.png"
 }

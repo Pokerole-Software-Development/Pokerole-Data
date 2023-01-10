@@ -19,32 +19,21 @@
     "Ability2": "Download",
     "HiddenAbility": "Analytic",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Ace",
     "GenderType": "N",
     "Legendary": false,
-    "Sprite": "porygon2.png",
     "GoodStarter": false,
     "_id": "porygon2",
-    "HasForm": false,
-    "Learnset": "Porygon2-Learnset",
-    "Abilities": "Trace / Download (Analytic)",
-    "Type": "Normal",
     "DexCategory": "Virtual Pokemon",
     "Height": {
-        "Deimeters": 6,
         "Meters": 0.6,
         "Feet": 2.0
     },
     "Weight": {
-        "Hectograms": 325,
         "Kilograms": 32.5,
         "Pounds": 71.7
     },
     "DexDescription": "This man-made Pokemon is an upgraded version of Porygon. Used for space exploration and planetary development, boasting the power of science. Its AI software allows it to learn on its own.",
-    "Baby": false,
-    "PrimaryEggGroup": "Mineral",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Porygon",
@@ -56,5 +45,6 @@
             "Kind": "Trade",
             "Item": "Dubious Disc"
         }
-    ]
+    ],
+    "Image": "porygon2.png"
 }

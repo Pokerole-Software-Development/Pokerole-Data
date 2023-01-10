@@ -19,37 +19,27 @@
     "Ability2": "Cursed Body",
     "HiddenAbility": "Damp",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Ace",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "jellicent.png",
     "GoodStarter": false,
     "_id": "jellicent",
-    "HasForm": false,
-    "Learnset": "Jellicent-Learnset",
-    "Abilities": "Water Absorb / Cursed Body (Damp)",
-    "Type": "Water / Ghost",
     "DexCategory": "Floating Pokemon",
     "Height": {
-        "Deimeters": 22,
         "Meters": 2.2,
         "Feet": 7.2
     },
     "Weight": {
-        "Hectograms": 1350,
         "Kilograms": 135.0,
         "Pounds": 297.6
     },
     "DexDescription": "Its body is mostly seawater. It feeds on the life energy of its victims. It is regal, pompous, and hates orders. The fate of the ships and crew that wander into Jellicent's territory: All sunken, all lost, all vanished.",
-    "Baby": false,
-    "PrimaryEggGroup": "Amorphous",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Frillish",
             "Kind": "Level",
             "Speed": "Medium"
         }
-    ]
+    ],
+    "Image": "jellicent.png"
 }

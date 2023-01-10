@@ -19,37 +19,27 @@
     "Ability2": "",
     "HiddenAbility": "",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Master",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "garchomp-mega.png",
     "GoodStarter": false,
     "_id": "mega-garchomp",
-    "HasForm": false,
-    "Learnset": "Mega-Garchomp-Learnset",
-    "Abilities": "Sand Force",
-    "Type": "Dragon / Ground",
     "DexCategory": "Mach Pokemon",
     "Height": {
-        "Deimeters": 19,
         "Meters": 1.9,
         "Feet": 6.2
     },
     "Weight": {
-        "Hectograms": 950,
         "Kilograms": 95.0,
         "Pounds": 209.4
     },
     "DexDescription": "The excess of power from the Mega Stone melted its fins and claws together forming sharp, dangerous scythes. If its disposition was already violent, it grows now by a tenfold. They can be vicious and feral.",
-    "Baby": false,
-    "PrimaryEggGroup": "Monster",
-    "SecondaryEggGroup": "Dragon",
     "Evolutions": [
         {
             "From": "Garchomp",
             "Kind": "Mega",
             "Item": "Garchompite"
         }
-    ]
+    ],
+    "Image": "garchomp-mega.png"
 }

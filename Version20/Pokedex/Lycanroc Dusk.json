@@ -19,32 +19,21 @@
     "Ability2": "",
     "HiddenAbility": "",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Amateur",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "lycanroc-dusk.png",
     "GoodStarter": false,
     "_id": "lycanroc-dusk",
-    "HasForm": true,
-    "Learnset": "Lycanroc Dusk-Learnset",
-    "Abilities": "Tough Claws",
-    "Type": "Rock",
     "DexCategory": "Wolf Pokemon",
     "Height": {
-        "Deimeters": 8,
         "Meters": 0.8,
         "Feet": 2.6
     },
     "Weight": {
-        "Hectograms": 250,
         "Kilograms": 25.0,
         "Pounds": 55.1
     },
     "DexDescription": "An independent but loyal Rockruff will evolve at dusk. This evolved for is very hard to achieve. An intense fighting spirit lies underneath its calm exterior. Prone to act on its own.",
-    "Baby": false,
-    "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Rockruff",
@@ -52,5 +41,6 @@
             "Speed": "Medium",
             "Special": "Dawn"
         }
-    ]
+    ],
+    "Image": "lycanroc-dusk.png"
 }

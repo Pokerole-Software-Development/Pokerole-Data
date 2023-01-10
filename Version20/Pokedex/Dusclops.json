@@ -19,32 +19,21 @@
     "Ability2": "",
     "HiddenAbility": "Frisk",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Amateur",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "dusclops.png",
     "GoodStarter": false,
     "_id": "dusclops",
-    "HasForm": false,
-    "Learnset": "Dusclops-Learnset",
-    "Abilities": "Levitate (Frisk)",
-    "Type": "Ghost",
     "DexCategory": "Beckon Pokemon",
     "Height": {
-        "Deimeters": 16,
         "Meters": 1.6,
         "Feet": 5.2
     },
     "Weight": {
-        "Hectograms": 306,
         "Kilograms": 30.6,
         "Pounds": 67.5
     },
     "DexDescription": "Its body is hollow. Some paranormal experts say there is a spectral energy ball inside them but it is not confirmed. If it absorbs an object or a creature there\u2019s the risk that nothing will come back out.",
-    "Baby": false,
-    "PrimaryEggGroup": "Amorphous",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Duskull",
@@ -56,5 +45,6 @@
             "Kind": "Trade",
             "Item": "Reaper Cloth"
         }
-    ]
+    ],
+    "Image": "dusclops.png"
 }

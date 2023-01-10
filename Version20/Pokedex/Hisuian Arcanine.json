@@ -19,37 +19,27 @@
     "Ability2": "Justified",
     "HiddenAbility": "",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Ace",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "arcanine-hisui.png",
     "GoodStarter": false,
     "_id": "hisuian-arcanine",
-    "HasForm": false,
-    "Learnset": "Hisuian-Arcanine-Learnset",
-    "Abilities": "Intimidate / Justified",
-    "Type": "Fire / Rock",
     "DexCategory": "Legendary Pokemon",
     "Height": {
-        "Deimeters": 0,
         "Meters": 1.9,
         "Feet": 6.3
     },
     "Weight": {
-        "Hectograms": 0,
         "Kilograms": 155,
         "Pounds": 340
     },
     "DexDescription": "In the ancient land of Hisui there were myths of a might beast made of fire and stone. It is believed to have been an Arcanine, but today's specimens barly resemble the mighty creatures in the old scrolls.",
-    "Baby": false,
-    "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Hisuian Growlithe",
             "Kind": "Stone",
             "Item": "Fire Stone"
         }
-    ]
+    ],
+    "Image": "arcanine-hisui.png"
 }

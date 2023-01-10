@@ -19,32 +19,21 @@
     "Ability2": "Technician",
     "HiddenAbility": "Light Metal",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Ace",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "scizor.png",
     "GoodStarter": false,
     "_id": "scizor",
-    "HasForm": true,
-    "Learnset": "Scizor-Learnset",
-    "Abilities": "Swarm / Technician (Light Metal)",
-    "Type": "Bug / Steel",
     "DexCategory": "Pincer Pokemon",
     "Height": {
-        "Deimeters": 18,
         "Meters": 1.8,
         "Feet": 5.9
     },
     "Weight": {
-        "Hectograms": 1180,
         "Kilograms": 118.0,
         "Pounds": 260.1
     },
     "DexDescription": "Its pincers appear to be two more heads and its wings are not for flying, but to regulate its body temperature. Scizor's body can shrug off most attacks and its pincers can crush almost any object.",
-    "Baby": false,
-    "PrimaryEggGroup": "Bug",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Scyther",
@@ -56,5 +45,6 @@
             "Kind": "Mega",
             "Item": "Scizorite"
         }
-    ]
+    ],
+    "Image": "scizor.png"
 }

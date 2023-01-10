@@ -19,37 +19,27 @@
     "Ability2": "",
     "HiddenAbility": "",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Master",
     "GenderType": "N",
     "Legendary": true,
-    "Sprite": "mewtwo-mega-x.png",
     "GoodStarter": false,
     "_id": "mega-mewtwo-x",
-    "HasForm": false,
-    "Learnset": "Mega-Mewtwo X-Learnset",
-    "Abilities": "Steadfast",
-    "Type": "Psychic / Fighting",
     "DexCategory": "No Data",
     "Height": {
-        "Deimeters": 23,
         "Meters": 2.3,
         "Feet": 7.5
     },
     "Weight": {
-        "Hectograms": 1270,
         "Kilograms": 127.0,
         "Pounds": 280.0
     },
     "DexDescription": "The power of the Mega Stone was absorbed into its muscles if it grapples you and its psychic force does not crack you its strong arms will.",
-    "Baby": false,
-    "PrimaryEggGroup": "Undiscovered",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Mewtwo",
             "Kind": "Mega",
             "Item": "Mewtwonite X"
         }
-    ]
+    ],
+    "Image": "mewtwo-mega-x.png"
 }

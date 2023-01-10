@@ -19,37 +19,27 @@
     "Ability2": "White Smoke",
     "HiddenAbility": "Flame Body",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Ace",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "centiskorch.png",
     "GoodStarter": false,
     "_id": "centiskorch",
-    "HasForm": false,
-    "Learnset": "Centiskorch-Learnset",
-    "Abilities": "Flash Fire / White Smoke (Flame Body)",
-    "Type": "Fire / Bug",
     "DexCategory": "Radiator Pokemon",
     "Height": {
-        "Deimeters": 30,
         "Meters": 3.0,
         "Feet": 9.8
     },
     "Weight": {
-        "Hectograms": 1200,
         "Kilograms": 120.0,
         "Pounds": 264.6
     },
     "DexDescription": "It lashes its body like a whip and launches itself at enemies, while its burning body is already dangerous on its own, this excessively hostile Pokemon also has large and very sharp fangs.",
-    "Baby": false,
-    "PrimaryEggGroup": "Bug",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Sizzlipede",
             "Kind": "Level",
             "Speed": "Slow"
         }
-    ]
+    ],
+    "Image": "centiskorch.png"
 }

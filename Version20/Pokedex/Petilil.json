@@ -19,37 +19,27 @@
     "Ability2": "Own Tempo",
     "HiddenAbility": "Leaf Guard",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Beginner",
     "GenderType": "F",
     "Legendary": false,
-    "Sprite": "petilil.png",
     "GoodStarter": true,
     "_id": "petilil",
-    "HasForm": false,
-    "Learnset": "Petilil-Learnset",
-    "Abilities": "Chlorophyll / Own Tempo (Leaf Guard)",
-    "Type": "Grass",
     "DexCategory": "Bulb Pokemon",
     "Height": {
-        "Deimeters": 5,
         "Meters": 0.5,
         "Feet": 1.6
     },
     "Weight": {
-        "Hectograms": 66,
         "Kilograms": 6.6,
         "Pounds": 14.6
     },
     "DexDescription": "Since they prefer moist and nutritive soil, the areas where Petilil live are known to be good for growing plants. The leaves on its head can be used for medicinal purposes, but they are extra bitter.",
-    "Baby": false,
-    "PrimaryEggGroup": "Grass",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "To": "Lilligant",
             "Kind": "Stone",
             "Item": "Sun Stone"
         }
-    ]
+    ],
+    "Image": "petilil.png"
 }

@@ -19,32 +19,21 @@
     "Ability2": "",
     "HiddenAbility": "Protean",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Amateur",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "frogadier.png",
     "GoodStarter": false,
     "_id": "frogadier",
-    "HasForm": false,
-    "Learnset": "Frogadier-Learnset",
-    "Abilities": "Torrent (Protean)",
-    "Type": "Water",
     "DexCategory": "Bubble Frog Pokemon",
     "Height": {
-        "Deimeters": 6,
         "Meters": 0.6,
         "Feet": 2.0
     },
     "Weight": {
-        "Hectograms": 109,
         "Kilograms": 10.9,
         "Pounds": 24.0
     },
     "DexDescription": "It is incredibly hard to catch. It starts practicing its skills by throwing foam covered pebbles at foes. Many trainers find this rebellious stage very challenging to handle and end up being its targets of practice.",
-    "Baby": false,
-    "PrimaryEggGroup": "Water 1",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Froakie",
@@ -60,5 +49,6 @@
             "To": "BBF Greninja",
             "Kind": "Form"
         }
-    ]
+    ],
+    "Image": "frogadier.png"
 }

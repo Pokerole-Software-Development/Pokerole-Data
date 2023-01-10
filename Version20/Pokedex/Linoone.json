@@ -19,37 +19,27 @@
     "Ability2": "Gluttony",
     "HiddenAbility": "Quick Feet",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Amateur",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "linoone.png",
     "GoodStarter": false,
     "_id": "linoone",
-    "HasForm": false,
-    "Learnset": "Linoone-Learnset",
-    "Abilities": "Pickup / Gluttony (Quick Feet)",
-    "Type": "Normal",
     "DexCategory": "Rushing Pokemon",
     "Height": {
-        "Deimeters": 5,
         "Meters": 0.5,
         "Feet": 1.6
     },
     "Weight": {
-        "Hectograms": 325,
         "Kilograms": 32.5,
         "Pounds": 71.7
     },
     "DexDescription": "Linoones are always running at full speed, but they can only do so in straight lines. They find it very difficult to deal with a curved road. They excel at hunting but tend to eat a lot to recover from their tiring runs.",
-    "Baby": false,
-    "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Zigzagoon",
             "Kind": "Level",
             "Speed": "Medium"
         }
-    ]
+    ],
+    "Image": "linoone.png"
 }

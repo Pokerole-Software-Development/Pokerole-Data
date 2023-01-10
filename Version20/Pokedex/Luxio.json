@@ -19,32 +19,21 @@
     "Ability2": "Intimidate",
     "HiddenAbility": "Guts",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Amateur",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "luxio.png",
     "GoodStarter": false,
     "_id": "luxio",
-    "HasForm": false,
-    "Learnset": "Luxio-Learnset",
-    "Abilities": "Rivalry / Intimidate (Guts)",
-    "Type": "Electric",
     "DexCategory": "Spark Pokemon",
     "Height": {
-        "Deimeters": 9,
         "Meters": 0.9,
         "Feet": 3.0
     },
     "Weight": {
-        "Hectograms": 305,
         "Kilograms": 30.5,
         "Pounds": 67.2
     },
     "DexDescription": "Female Luxios stay with the pride but males roam in marauding groups, trying to become strong enough to make their own pride. Its claws and teeth are charged with electricity, approach with caution.",
-    "Baby": false,
-    "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Shinx",
@@ -56,5 +45,6 @@
             "Kind": "Level",
             "Speed": "Medium"
         }
-    ]
+    ],
+    "Image": "luxio.png"
 }

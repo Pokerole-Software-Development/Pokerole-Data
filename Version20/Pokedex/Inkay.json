@@ -19,37 +19,27 @@
     "Ability2": "Suction Cups",
     "HiddenAbility": "Infiltrator",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Beginner",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "inkay.png",
     "GoodStarter": true,
     "_id": "inkay",
-    "HasForm": false,
-    "Learnset": "Inkay-Learnset",
-    "Abilities": "Contrary / Suction Cups (Infiltrator)",
-    "Type": "Dark / Psychic",
     "DexCategory": "Revolving Pokemon",
     "Height": {
-        "Deimeters": 4,
         "Meters": 0.4,
         "Feet": 1.3
     },
     "Weight": {
-        "Hectograms": 35,
         "Kilograms": 3.5,
         "Pounds": 7.7
     },
     "DexDescription": "It lives at the darkest parts of the sea. The spots on its body flash to confuse predators and give it the opportunity to scuttle away. From time to time it likes to float upside down, it means it\u2019s close to evolving.",
-    "Baby": false,
-    "PrimaryEggGroup": "Water 1",
-    "SecondaryEggGroup": "Water 2",
     "Evolutions": [
         {
             "To": "Malamar",
             "Kind": "Level",
             "Speed": "Medium"
         }
-    ]
+    ],
+    "Image": "inkay.png"
 }

@@ -19,37 +19,27 @@
     "Ability2": "",
     "HiddenAbility": "Swarm",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Amateur",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "larvesta.png",
     "GoodStarter": true,
     "_id": "larvesta",
-    "HasForm": false,
-    "Learnset": "Larvesta-Learnset",
-    "Abilities": "Flame Body (Swarm)",
-    "Type": "Bug / Fire",
     "DexCategory": "Torch Pokemon",
     "Height": {
-        "Deimeters": 11,
         "Meters": 1.1,
         "Feet": 3.6
     },
     "Weight": {
-        "Hectograms": 288,
         "Kilograms": 28.8,
         "Pounds": 63.5
     },
     "DexDescription": "Very Rare. The base of volcanoes is where they make their homes. They shoot fire from their horns to repel attacks from enemies. It becomes a flaming cocoon for months before it finally evolves.",
-    "Baby": false,
-    "PrimaryEggGroup": "Bug",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "To": "Volcarona",
             "Kind": "Level",
             "Speed": "Medium"
         }
-    ]
+    ],
+    "Image": "larvesta.png"
 }

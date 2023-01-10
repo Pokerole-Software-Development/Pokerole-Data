@@ -19,37 +19,27 @@
     "Ability2": "Weak Armor",
     "HiddenAbility": "Aftermath",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Amateur",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "garbodor.png",
     "GoodStarter": false,
     "_id": "garbodor",
-    "HasForm": false,
-    "Learnset": "Garbodor-Learnset",
-    "Abilities": "Stench / Weak Armor (Aftermath)",
-    "Type": "Poison",
     "DexCategory": "Trash Heap Pokemon",
     "Height": {
-        "Deimeters": 19,
         "Meters": 1.9,
         "Feet": 6.2
     },
     "Weight": {
-        "Hectograms": 1073,
         "Kilograms": 107.3,
         "Pounds": 236.6
     },
     "DexDescription": "They absorb garbage to make it part of their bodies and use it to produce toxic substances from their finger tips. They like to remain undisturbed and produce a terrible smell to repel others.",
-    "Baby": false,
-    "PrimaryEggGroup": "Mineral",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Trubbish",
             "Kind": "Level",
             "Speed": "Medium"
         }
-    ]
+    ],
+    "Image": "garbodor.png"
 }

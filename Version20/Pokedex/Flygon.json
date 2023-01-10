@@ -19,37 +19,27 @@
     "Ability2": "",
     "HiddenAbility": "",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Ace",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "flygon.png",
     "GoodStarter": false,
     "_id": "flygon",
-    "HasForm": true,
-    "Learnset": "Flygon-Learnset",
-    "Abilities": "Levitate",
-    "Type": "Ground / Dragon",
     "DexCategory": "Mystic Pokemon",
     "Height": {
-        "Deimeters": 20,
         "Meters": 2.0,
         "Feet": 6.6
     },
     "Weight": {
-        "Hectograms": 820,
         "Kilograms": 82.0,
         "Pounds": 180.8
     },
     "DexDescription": "Known as the \u201cElemental Spirit of the Desert\u201d. Their wings create a cloud of dust that surrounds this Pokemon while flying, while their flapping produces a sound that resembles a woman singing.",
-    "Baby": false,
-    "PrimaryEggGroup": "Bug",
-    "SecondaryEggGroup": "Dragon",
     "Evolutions": [
         {
             "From": "Vibrava",
             "Kind": "Level",
             "Speed": "Slow"
         }
-    ]
+    ],
+    "Image": "flygon.png"
 }

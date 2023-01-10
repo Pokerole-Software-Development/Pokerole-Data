@@ -19,37 +19,27 @@
     "Ability2": "",
     "HiddenAbility": "",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Pro",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "scizor-mega.png",
     "GoodStarter": false,
     "_id": "mega-scizor",
-    "HasForm": false,
-    "Learnset": "Mega-Scizor-Learnset",
-    "Abilities": "Technician",
-    "Type": "Bug / Steel",
     "DexCategory": "Pincer Pokemon",
     "Height": {
-        "Deimeters": 20,
         "Meters": 2.0,
         "Feet": 6.6
     },
     "Weight": {
-        "Hectograms": 1250,
         "Kilograms": 125.0,
         "Pounds": 275.6
     },
     "DexDescription": "The power of the Mega Stone puts its body trough tremendous stress, if it is inexperienced at wielding it and the battle is too long its pincers will feel heavy and even melt. They must be fast to rip their foes apart.",
-    "Baby": false,
-    "PrimaryEggGroup": "Bug",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Scizor",
             "Kind": "Mega",
             "Item": "Scizorite"
         }
-    ]
+    ],
+    "Image": "scizor-mega.png"
 }

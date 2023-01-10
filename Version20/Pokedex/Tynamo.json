@@ -19,37 +19,27 @@
     "Ability2": "",
     "HiddenAbility": "",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Starter",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "tynamo.png",
     "GoodStarter": true,
     "_id": "tynamo",
-    "HasForm": false,
-    "Learnset": "Tynamo-Learnset",
-    "Abilities": "Levitate",
-    "Type": "Electric",
     "DexCategory": "EleFish Pokemon",
     "Height": {
-        "Deimeters": 2,
         "Meters": 0.2,
         "Feet": 0.7
     },
     "Weight": {
-        "Hectograms": 3,
         "Kilograms": 0.3,
         "Pounds": 0.7
     },
     "DexDescription": "These Pokemon move in schools. They have an electricity-storing organ at their sides but they can\u2019t generate their own power. They only discharge electricity if they are in danger.",
-    "Baby": false,
-    "PrimaryEggGroup": "Amorphous",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "To": "Eelektrik",
             "Kind": "Level",
             "Speed": "Medium"
         }
-    ]
+    ],
+    "Image": "tynamo.png"
 }

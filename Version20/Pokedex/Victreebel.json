@@ -19,37 +19,27 @@
     "Ability2": "",
     "HiddenAbility": "Gluttony",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Amateur",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "victreebel.png",
     "GoodStarter": false,
     "_id": "victreebel",
-    "HasForm": false,
-    "Learnset": "Victreebel-Learnset",
-    "Abilities": "Chlorophyll (Gluttony)",
-    "Type": "Grass / Poison",
     "DexCategory": "Flycatcher Pokemon",
     "Height": {
-        "Deimeters": 17,
         "Meters": 1.7,
         "Feet": 5.6
     },
     "Weight": {
-        "Hectograms": 155,
         "Kilograms": 15.5,
         "Pounds": 34.2
     },
     "DexDescription": "They live together in small groups at tropical areas. Victreebel uses a sweet honey-like smell to lure and attract prey. They also use their long vines to rustle bushes around. They are territorial and aggressive.",
-    "Baby": false,
-    "PrimaryEggGroup": "Grass",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Weepinbell",
             "Kind": "Stone",
             "Item": "Leaf Stone"
         }
-    ]
+    ],
+    "Image": "victreebel.png"
 }

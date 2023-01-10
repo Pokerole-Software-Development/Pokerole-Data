@@ -19,37 +19,27 @@
     "Ability2": "Frisk",
     "HiddenAbility": "Cursed Body",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Beginner",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "shuppet.png",
     "GoodStarter": true,
     "_id": "shuppet",
-    "HasForm": false,
-    "Learnset": "Shuppet-Learnset",
-    "Abilities": "Insomnia / Frisk (Cursed Body)",
-    "Type": "Ghost",
     "DexCategory": "Puppet Pokemon",
     "Height": {
-        "Deimeters": 6,
         "Meters": 0.6,
         "Feet": 2.0
     },
     "Weight": {
-        "Hectograms": 23,
         "Kilograms": 2.3,
         "Pounds": 5.1
     },
     "DexDescription": "They feed on dark emotions such as envy, jealousy and vengefulness. If they sting you, they\u2019ll fill you with a vindictive desire. They don\u2019t have bodies under their blanket and they are looking for a body to possess",
-    "Baby": false,
-    "PrimaryEggGroup": "Amorphous",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "To": "Banette",
             "Kind": "Level",
             "Speed": "Medium"
         }
-    ]
+    ],
+    "Image": "shuppet.png"
 }

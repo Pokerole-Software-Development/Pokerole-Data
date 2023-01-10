@@ -19,37 +19,27 @@
     "Ability2": "Poison Heal",
     "HiddenAbility": "Technician",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Amateur",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "breloom.png",
     "GoodStarter": false,
     "_id": "breloom",
-    "HasForm": false,
-    "Learnset": "Breloom-Learnset",
-    "Abilities": "Effect Spore / Poison Heal (Technician)",
-    "Type": "Grass / Fighting",
     "DexCategory": "Mushroom Pokemon",
     "Height": {
-        "Deimeters": 12,
         "Meters": 1.2,
         "Feet": 3.9
     },
     "Weight": {
-        "Hectograms": 392,
         "Kilograms": 39.2,
         "Pounds": 86.4
     },
     "DexDescription": "Their flexible arms and quick footwork can put good fighters to shame. The seeds on their tail and the cap on their head release poison spores. They love humid and hot climates.",
-    "Baby": false,
-    "PrimaryEggGroup": "Fairy",
-    "SecondaryEggGroup": "Grass",
     "Evolutions": [
         {
             "From": "Shroomish",
             "Kind": "Level",
             "Speed": "Medium"
         }
-    ]
+    ],
+    "Image": "breloom.png"
 }

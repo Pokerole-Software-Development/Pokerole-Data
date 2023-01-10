@@ -19,36 +19,26 @@
     "Ability2": "",
     "HiddenAbility": "",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Master",
     "GenderType": "N",
     "Legendary": true,
-    "Sprite": "giratina-origin.png",
     "GoodStarter": false,
     "_id": "origin-giratina",
-    "HasForm": true,
-    "Learnset": "Origin Giratina-Learnset",
-    "Abilities": "Levitate",
-    "Type": "Ghost / Dragon",
     "DexCategory": "Plot Device",
     "Height": {
-        "Deimeters": 69,
         "Meters": 6.9,
         "Feet": 22.6
     },
     "Weight": {
-        "Hectograms": 6500,
         "Kilograms": 650.0,
         "Pounds": 1433.0
     },
     "DexDescription": "Plot Device",
-    "Baby": false,
-    "PrimaryEggGroup": "Undiscovered",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Giratina",
             "Kind": "Form"
         }
-    ]
+    ],
+    "Image": "giratina-origin.png"
 }

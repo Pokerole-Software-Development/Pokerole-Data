@@ -19,37 +19,27 @@
     "Ability2": "",
     "HiddenAbility": "Water Absorb",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Amateur",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "cacturne.png",
     "GoodStarter": false,
     "_id": "cacturne",
-    "HasForm": true,
-    "Learnset": "Cacturne-Learnset",
-    "Abilities": "Sand Veil (Water Absorb)",
-    "Type": "Grass / Dark",
     "DexCategory": "Scarecrow Pokemon",
     "Height": {
-        "Deimeters": 13,
         "Meters": 1.3,
         "Feet": 4.3
     },
     "Weight": {
-        "Hectograms": 774,
         "Kilograms": 77.4,
         "Pounds": 170.6
     },
     "DexDescription": "They only move during the night. If they spot a traveler, Cacturnes will stalk them in groups, waiting for the exhausted creatures to sleep before attacking. Their insides are actually sand.",
-    "Baby": false,
-    "PrimaryEggGroup": "Grass",
-    "SecondaryEggGroup": "Human-Like",
     "Evolutions": [
         {
             "From": "Cacnea",
             "Kind": "Level",
             "Speed": "Medium"
         }
-    ]
+    ],
+    "Image": "cacturne.png"
 }

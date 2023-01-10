@@ -19,37 +19,27 @@
     "Ability2": "",
     "HiddenAbility": "Telepathy",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Amateur",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "wobbuffet.png",
     "GoodStarter": false,
     "_id": "wobbuffet",
-    "HasForm": false,
-    "Learnset": "Wobbuffet-Learnset",
-    "Abilities": "Shadow Tag (Telepathy)",
-    "Type": "Psychic",
     "DexCategory": "Patient Pokemon",
     "Height": {
-        "Deimeters": 13,
         "Meters": 1.3,
         "Feet": 4.3
     },
     "Weight": {
-        "Hectograms": 285,
         "Kilograms": 28.5,
         "Pounds": 62.8
     },
     "DexDescription": "Wobbuffet looks somewhat deflated until it senses an aggressor, then it inflates. It will do nothing besides endure and counter attacks. It always keeps its black tail hidden, the reasons are still a mystery.",
-    "Baby": false,
-    "PrimaryEggGroup": "Amorphous",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Wynaut",
             "Kind": "Level",
             "Speed": "Medium"
         }
-    ]
+    ],
+    "Image": "wobbuffet.png"
 }

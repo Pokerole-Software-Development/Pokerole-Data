@@ -19,37 +19,27 @@
     "Ability2": "",
     "HiddenAbility": "Speed Boost",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Beginner",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "carvanha.png",
     "GoodStarter": true,
     "_id": "carvanha",
-    "HasForm": false,
-    "Learnset": "Carvanha-Learnset",
-    "Abilities": "Rough Skin (Speed Boost)",
-    "Type": "Water / Dark",
     "DexCategory": "Savage Pokemon",
     "Height": {
-        "Deimeters": 8,
         "Meters": 0.8,
         "Feet": 2.6
     },
     "Weight": {
-        "Hectograms": 208,
         "Kilograms": 20.8,
         "Pounds": 45.9
     },
     "DexDescription": "Anything near a Carvanha school will be swarmed, attacked and tore to bits. However, they are very timid when they are on their own. They live in rivers in the jungle and dislike salt water.",
-    "Baby": false,
-    "PrimaryEggGroup": "Water 2",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "To": "Sharpedo",
             "Kind": "Level",
             "Speed": "Medium"
         }
-    ]
+    ],
+    "Image": "carvanha.png"
 }

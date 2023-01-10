@@ -19,37 +19,27 @@
     "Ability2": "Intimidate",
     "HiddenAbility": "Sheer Force",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Amateur",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "mawile.png",
     "GoodStarter": false,
     "_id": "mawile",
-    "HasForm": true,
-    "Learnset": "Mawile-Learnset",
-    "Abilities": "Hyper Cutter / Intimidate (Sheer Force)",
-    "Type": "Steel / Fairy",
     "DexCategory": "Deceiver Pokemon",
     "Height": {
-        "Deimeters": 6,
         "Meters": 0.6,
         "Feet": 2.0
     },
     "Weight": {
-        "Hectograms": 115,
         "Kilograms": 11.5,
         "Pounds": 25.4
     },
     "DexDescription": "They appear to be cute and docile, luring their prey and lowering their guards, then, Mawile chomps the prey with huge steel jaws. They are very rare, though. Only a few have been seen in Hoenn's Victory Road.",
-    "Baby": false,
-    "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": "Fairy",
     "Evolutions": [
         {
             "To": "Mega-Mawile",
             "Kind": "Mega",
             "Item": "Mawilite"
         }
-    ]
+    ],
+    "Image": "mawile.png"
 }

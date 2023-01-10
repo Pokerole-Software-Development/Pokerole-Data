@@ -19,37 +19,27 @@
     "Ability2": "",
     "HiddenAbility": "Aroma Veil",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Amateur",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "aromatisse.png",
     "GoodStarter": false,
     "_id": "aromatisse",
-    "HasForm": false,
-    "Learnset": "Aromatisse-Learnset",
-    "Abilities": "Healer (Aroma Veil)",
-    "Type": "Fairy",
     "DexCategory": "Fragance Pokemon",
     "Height": {
-        "Deimeters": 8,
         "Meters": 0.8,
         "Feet": 2.6
     },
     "Weight": {
-        "Hectograms": 155,
         "Kilograms": 15.5,
         "Pounds": 34.2
     },
     "DexDescription": "Its scent is so overpowering that makes it difficult to simply be in close proximity to it. It emits scents that its foes dislike in order to gain an edge in battle. They can also produce pleasant and healing aromas.",
-    "Baby": false,
-    "PrimaryEggGroup": "Fairy",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Spritzee",
             "Kind": "Trade",
             "Item": "Sachet"
         }
-    ]
+    ],
+    "Image": "aromatisse.png"
 }

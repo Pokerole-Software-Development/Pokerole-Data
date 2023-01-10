@@ -19,37 +19,27 @@
     "Ability2": "",
     "HiddenAbility": "",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Pro",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "blaziken-mega.png",
     "GoodStarter": false,
     "_id": "mega-blaziken",
-    "HasForm": false,
-    "Learnset": "Mega-Blaziken-Learnset",
-    "Abilities": "Speed Boost",
-    "Type": "Fire / Fighting",
     "DexCategory": "Blaze Pokemon",
     "Height": {
-        "Deimeters": 19,
         "Meters": 1.9,
         "Feet": 6.2
     },
     "Weight": {
-        "Hectograms": 520,
         "Kilograms": 52.0,
         "Pounds": 114.6
     },
     "DexDescription": "The power of the Mega Stone makes its inner fire burn so strong that it sets its limbs ablaze. This allows it to move faster than ever but it also takes a toll on its feathers as they burn to black cinders.",
-    "Baby": false,
-    "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Blaziken",
             "Kind": "Mega",
             "Item": "Blazikenite"
         }
-    ]
+    ],
+    "Image": "blaziken-mega.png"
 }

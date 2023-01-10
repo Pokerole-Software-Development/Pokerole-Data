@@ -19,32 +19,21 @@
     "Ability2": "",
     "HiddenAbility": "Infiltrator",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Ace",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "crobat.png",
     "GoodStarter": false,
     "_id": "crobat",
-    "HasForm": false,
-    "Learnset": "Crobat-Learnset",
-    "Abilities": "Inner Focus (Infiltrator)",
-    "Type": "Poison / Flying",
     "DexCategory": "Bat Pokemon",
     "Height": {
-        "Deimeters": 18,
         "Meters": 1.8,
         "Feet": 5.9
     },
     "Weight": {
-        "Hectograms": 750,
         "Kilograms": 75.0,
         "Pounds": 165.3
     },
     "DexDescription": "Very rare in the wild. People have called it a vampire. It sneaks up on its intended prey using wings that barely make a sound. Crobat is a surprisingly loyal Pokemon.",
-    "Baby": false,
-    "PrimaryEggGroup": "Flying",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Golbat",
@@ -52,5 +41,6 @@
             "Stat": "Happiness",
             "Value": 4
         }
-    ]
+    ],
+    "Image": "crobat.png"
 }

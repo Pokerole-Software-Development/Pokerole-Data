@@ -19,37 +19,27 @@
     "Ability2": "Cheek Pouch",
     "HiddenAbility": "Huge Power",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Amateur",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "diggersby.png",
     "GoodStarter": false,
     "_id": "diggersby",
-    "HasForm": false,
-    "Learnset": "Diggersby-Learnset",
-    "Abilities": "Pickup / Cheek Pouch (Huge Power)",
-    "Type": "Normal / Ground",
     "DexCategory": "Digging Pokemon",
     "Height": {
-        "Deimeters": 10,
         "Meters": 1.0,
         "Feet": 3.3
     },
     "Weight": {
-        "Hectograms": 424,
         "Kilograms": 42.4,
         "Pounds": 93.5
     },
     "DexDescription": "A powerful excavator, its ears can reduce dense bedrock to rubble. After it has finished digging, it just lounges lazily. Some of them have been trained to work at construction sites with good results.",
-    "Baby": false,
-    "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Bunnelby",
             "Kind": "Level",
             "Speed": "Medium"
         }
-    ]
+    ],
+    "Image": "diggersby.png"
 }

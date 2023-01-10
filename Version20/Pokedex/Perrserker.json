@@ -19,37 +19,27 @@
     "Ability2": "Tough Claws",
     "HiddenAbility": "Steely Spirit",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Amateur",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "perrserker.png",
     "GoodStarter": false,
     "_id": "perrserker",
-    "HasForm": false,
-    "Learnset": "Perrserker-Learnset",
-    "Abilities": "Battle Armor / Tough Claws (Steely Spirit)",
-    "Type": "Steel",
     "DexCategory": "Viking Pokemon",
     "Height": {
-        "Deimeters": 8,
         "Meters": 0.8,
         "Feet": 2.6
     },
     "Weight": {
-        "Hectograms": 280,
         "Kilograms": 28.0,
         "Pounds": 61.7
     },
     "DexDescription": "What appears to be an iron helmet is actually hardened hair. Unlike other Meowth evolutions, Perrserker does not want riches and luxury, it enjoys battles, the outdoors and traveling though the sea.",
-    "Baby": false,
-    "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Galarian Meowth",
             "Kind": "Level",
             "Speed": "Medium"
         }
-    ]
+    ],
+    "Image": "perrserker.png"
 }

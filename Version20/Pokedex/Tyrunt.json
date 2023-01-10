@@ -19,37 +19,27 @@
     "Ability2": "",
     "HiddenAbility": "Sturdy",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Amateur",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "tyrunt.png",
     "GoodStarter": false,
     "_id": "tyrunt",
-    "HasForm": false,
-    "Learnset": "Tyrunt-Learnset",
-    "Abilities": "Strong Jaw (Sturdy)",
-    "Type": "Rock / Dragon",
     "DexCategory": "Royal Heir Pokemon",
     "Height": {
-        "Deimeters": 8,
         "Meters": 0.8,
         "Feet": 2.6
     },
     "Weight": {
-        "Hectograms": 260,
         "Kilograms": 26.0,
         "Pounds": 57.3
     },
     "DexDescription": "This Pokemon was restored from a fossil. If something happens that it doesn\u2019t like, it throws a tantrum and runs wild. Many of the researchers that brought it back were attacked by its powerful jaws.",
-    "Baby": false,
-    "PrimaryEggGroup": "Monster",
-    "SecondaryEggGroup": "Dragon",
     "Evolutions": [
         {
             "To": "Tyrantrum",
             "Kind": "Level",
             "Speed": "Slow"
         }
-    ]
+    ],
+    "Image": "tyrunt.png"
 }

@@ -19,37 +19,27 @@
     "Ability2": "",
     "HiddenAbility": "Soundproof",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Ace",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "bastiodon.png",
     "GoodStarter": false,
     "_id": "bastiodon",
-    "HasForm": false,
-    "Learnset": "Bastiodon-Learnset",
-    "Abilities": "Sturdy (Soundproof)",
-    "Type": "Rock / Steel",
     "DexCategory": "Shield Pokemon",
     "Height": {
-        "Deimeters": 13,
         "Meters": 1.3,
         "Feet": 4.3
     },
     "Weight": {
-        "Hectograms": 1495,
         "Kilograms": 149.5,
         "Pounds": 329.6
     },
     "DexDescription": "They lived in herds, millions of years ago. They would line together to shield their young. Despite its rough and scary exterior, this Pokemon is calm, gentle natured and a strict herbivore.",
-    "Baby": false,
-    "PrimaryEggGroup": "Monster",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Shieldon",
             "Kind": "Level",
             "Speed": "Medium"
         }
-    ]
+    ],
+    "Image": "bastiodon.png"
 }

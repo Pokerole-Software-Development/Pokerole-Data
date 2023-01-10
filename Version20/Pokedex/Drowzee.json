@@ -19,37 +19,27 @@
     "Ability2": "Forewarn",
     "HiddenAbility": "Inner Focus",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Beginner",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "drowzee.png",
     "GoodStarter": true,
     "_id": "drowzee",
-    "HasForm": false,
-    "Learnset": "Drowzee-Learnset",
-    "Abilities": "Insomnia / Forewarn (Inner Focus)",
-    "Type": "Psychic",
     "DexCategory": "Hypnosis Pokemon",
     "Height": {
-        "Deimeters": 10,
         "Meters": 1.0,
         "Feet": 3.3
     },
     "Weight": {
-        "Hectograms": 324,
         "Kilograms": 32.4,
         "Pounds": 71.4
     },
     "DexDescription": "It eats the dreams of a sleeping person or Pokemon and shows fondness to the dreams of young children. Once the victim is deep in slumber it will extract and eat the dream through the nose.",
-    "Baby": false,
-    "PrimaryEggGroup": "Human-Like",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "To": "Hypno",
             "Kind": "Level",
             "Speed": "Slow"
         }
-    ]
+    ],
+    "Image": "drowzee.png"
 }

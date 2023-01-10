@@ -19,37 +19,27 @@
     "Ability2": "",
     "HiddenAbility": "Shell Armor",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Ace",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "samurott.png",
     "GoodStarter": false,
     "_id": "samurott",
-    "HasForm": false,
-    "Learnset": "Samurott-Learnset",
-    "Abilities": "Torrent (Shell Armor)",
-    "Type": "Water",
     "DexCategory": "Formidable Pokemon",
     "Height": {
-        "Deimeters": 15,
         "Meters": 1.5,
         "Feet": 4.9
     },
     "Weight": {
-        "Hectograms": 946,
         "Kilograms": 94.6,
         "Pounds": 208.6
     },
     "DexDescription": "It uses the horn on it\u2019s head and both scimitars attached to it\u2019s front legs as weapons. In the late spring and fall, they gather on cold beaches and fight each other. The winner lets out an intimidating roar.",
-    "Baby": false,
-    "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Dewott",
             "Kind": "Level",
             "Speed": "Medium"
         }
-    ]
+    ],
+    "Image": "samurott.png"
 }

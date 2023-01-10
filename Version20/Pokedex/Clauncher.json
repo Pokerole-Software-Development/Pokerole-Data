@@ -19,37 +19,27 @@
     "Ability2": "",
     "HiddenAbility": "",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Beginner",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "clauncher.png",
     "GoodStarter": true,
     "_id": "clauncher",
-    "HasForm": false,
-    "Learnset": "Clauncher-Learnset",
-    "Abilities": "Mega Launcher",
-    "Type": "Water",
     "DexCategory": "Water Gun Pokemon",
     "Height": {
-        "Deimeters": 5,
         "Meters": 0.5,
         "Feet": 1.6
     },
     "Weight": {
-        "Hectograms": 83,
         "Kilograms": 8.3,
         "Pounds": 18.3
     },
     "DexDescription": "They live in beaches and shallow waters. They can knock down a flying prey by shooting water from their massive claws. Their shell is very though but their meat is delicious.",
-    "Baby": false,
-    "PrimaryEggGroup": "Water 1",
-    "SecondaryEggGroup": "Water 3",
     "Evolutions": [
         {
             "To": "Clawitzer",
             "Kind": "Level",
             "Speed": "Medium"
         }
-    ]
+    ],
+    "Image": "clauncher.png"
 }

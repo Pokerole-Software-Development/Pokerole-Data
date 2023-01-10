@@ -19,37 +19,27 @@
     "Ability2": "",
     "HiddenAbility": "Sand Veil",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Amateur",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "donphan.png",
     "GoodStarter": false,
     "_id": "donphan",
-    "HasForm": false,
-    "Learnset": "Donphan-Learnset",
-    "Abilities": "Pickup (Sand Veil)",
-    "Type": "Ground",
     "DexCategory": "Armor Pokemon",
     "Height": {
-        "Deimeters": 11,
         "Meters": 1.1,
         "Feet": 3.6
     },
     "Weight": {
-        "Hectograms": 1200,
         "Kilograms": 120.0,
         "Pounds": 264.6
     },
     "DexDescription": "Strong enough to knock down a house. They like to attack by rolling as a ball at high speed, however once they start rolling, they have a hard time stopping. Some may keep their loving Phanpy nature.",
-    "Baby": false,
-    "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Phanpy",
             "Kind": "Level",
             "Speed": "Medium"
         }
-    ]
+    ],
+    "Image": "donphan.png"
 }

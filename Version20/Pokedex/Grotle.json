@@ -19,32 +19,21 @@
     "Ability2": "",
     "HiddenAbility": "Shell Armor",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Amateur",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "grotle.png",
     "GoodStarter": false,
     "_id": "grotle",
-    "HasForm": false,
-    "Learnset": "Grotle-Learnset",
-    "Abilities": "Overgrow (Shell Armor)",
-    "Type": "Grass",
     "DexCategory": "Grove Pokemon",
     "Height": {
-        "Deimeters": 11,
         "Meters": 1.1,
         "Feet": 3.6
     },
     "Weight": {
-        "Hectograms": 970,
         "Kilograms": 97.0,
         "Pounds": 213.8
     },
     "DexDescription": "Other Pokemon harass Grotle when the bushes on its back have berries or fruit. It patiently waits for others to finish eating before moving. It loves clear water and it\u2019s good at finding cool ponds and springs.",
-    "Baby": false,
-    "PrimaryEggGroup": "Monster",
-    "SecondaryEggGroup": "Grass",
     "Evolutions": [
         {
             "From": "Turtwig",
@@ -56,5 +45,6 @@
             "Kind": "Level",
             "Speed": "Medium"
         }
-    ]
+    ],
+    "Image": "grotle.png"
 }

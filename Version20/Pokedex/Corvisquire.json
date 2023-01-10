@@ -19,32 +19,21 @@
     "Ability2": "Unnerve",
     "HiddenAbility": "Big Pecks",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Amateur",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "corvisquire.png",
     "GoodStarter": false,
     "_id": "corvisquire",
-    "HasForm": false,
-    "Learnset": "Corvisquire-Learnset",
-    "Abilities": "Keen Eye / Unnerve (Big Pecks)",
-    "Type": "Flying",
     "DexCategory": "Raven Pokemon",
     "Height": {
-        "Deimeters": 8,
         "Meters": 0.8,
         "Feet": 2.6
     },
     "Weight": {
-        "Hectograms": 160,
         "Kilograms": 16.0,
         "Pounds": 35.3
     },
     "DexDescription": "They are smart enough to use tools in battle, these Pokemon have been seen picking up rocks and flinging them or using ropes to wrap up foes. They choose their battles carefully and do not retreat.",
-    "Baby": false,
-    "PrimaryEggGroup": "Flying",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Rookidee",
@@ -56,5 +45,6 @@
             "Kind": "Level",
             "Speed": "Medium"
         }
-    ]
+    ],
+    "Image": "corvisquire.png"
 }

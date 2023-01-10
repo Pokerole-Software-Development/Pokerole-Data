@@ -19,36 +19,26 @@
     "Ability2": "",
     "HiddenAbility": "",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Master",
     "GenderType": "N",
     "Legendary": true,
-    "Sprite": "necrozma-dawn.png",
     "GoodStarter": false,
     "_id": "necrozma-dawn-wings",
-    "HasForm": false,
-    "Learnset": "Necrozma Dawn Wings-Learnset",
-    "Abilities": "Prism Armor",
-    "Type": "Psychic / Ghost",
     "DexCategory": "Aether Foundation Log #182",
     "Height": {
-        "Deimeters": 42,
         "Meters": 4.2,
         "Feet": 13.8
     },
     "Weight": {
-        "Hectograms": 3500,
         "Kilograms": 350.0,
         "Pounds": 771.6
     },
     "DexDescription": "The shadowy creature is in pain, and it hungers for any light it can find. I wonder how would it fare on the other side, back in our world. Would the moonlight ease its spirit or release a terrible monster?",
-    "Baby": false,
-    "PrimaryEggGroup": "Undiscovered",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Necrozma",
             "Kind": "Special"
         }
-    ]
+    ],
+    "Image": "necrozma-dawn.png"
 }

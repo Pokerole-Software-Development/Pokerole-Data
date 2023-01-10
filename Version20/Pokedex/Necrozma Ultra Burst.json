@@ -19,36 +19,26 @@
     "Ability2": "",
     "HiddenAbility": "",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Master",
     "GenderType": "N",
     "Legendary": true,
-    "Sprite": "necrozma-ultra.png",
     "GoodStarter": false,
     "_id": "necrozma-ultra-burst",
-    "HasForm": false,
-    "Learnset": "Necrozma Ultra Burst-Learnset",
-    "Abilities": "Neuroforce",
-    "Type": "Psychic / Dragon",
     "DexCategory": "Aether Foundation S.O.S Message",
     "Height": {
-        "Deimeters": 75,
         "Meters": 7.5,
         "Feet": 24.6
     },
     "Weight": {
-        "Hectograms": 2300,
         "Kilograms": 230.0,
         "Pounds": 507.1
     },
     "DexDescription": "Alert to national authorities we had a serious breach of security! This is an emergency! Close the port- (White Noise).",
-    "Baby": false,
-    "PrimaryEggGroup": "Undiscovered",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Necrozma",
             "Kind": "Special"
         }
-    ]
+    ],
+    "Image": "necrozma-ultra.png"
 }

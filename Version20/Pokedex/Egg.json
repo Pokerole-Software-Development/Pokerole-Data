@@ -19,33 +19,23 @@
     "Ability2": "",
     "HiddenAbility": "",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Starter",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "egg.png",
     "GoodStarter": false,
     "_id": "egg",
-    "HasForm": false,
-    "Learnset": "Egg-Learnset",
-    "Abilities": "",
-    "Type": "Normal",
     "DexCategory": "",
     "Height": {
-        "Deimeters": 0,
         "Meters": 0,
         "Feet": 0.0
     },
     "Weight": {
-        "Hectograms": 0,
         "Kilograms": 0,
         "Pounds": 0
     },
     "DexDescription": "",
-    "Baby": false,
-    "PrimaryEggGroup": "",
-    "SecondaryEggGroup": "",
     "BookImageName": "",
     "BookShinyImageName": "",
-    "Evolutions": []
+    "Evolutions": [],
+    "Image": "egg.png"
 }

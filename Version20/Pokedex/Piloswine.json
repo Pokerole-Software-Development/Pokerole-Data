@@ -19,32 +19,21 @@
     "Ability2": "Snow Cloak",
     "HiddenAbility": "Thick Fat",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Amateur",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "piloswine.png",
     "GoodStarter": false,
     "_id": "piloswine",
-    "HasForm": false,
-    "Learnset": "Piloswine-Learnset",
-    "Abilities": "Oblivious / Snow Cloak (Thick Fat)",
-    "Type": "Ice / Ground",
     "DexCategory": "Swine Pokemon",
     "Height": {
-        "Deimeters": 11,
         "Meters": 1.1,
         "Feet": 3.6
     },
     "Weight": {
-        "Hectograms": 558,
         "Kilograms": 55.8,
         "Pounds": 123.0
     },
     "DexDescription": "Their long hair obscure their sight, but they\u2019re sensitive to sound and smells. Piloswine's rugged hooves prevent it from slipping on icy terrains. Amazingly, their tusks are made of solid ice.",
-    "Baby": false,
-    "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Swinub",
@@ -56,5 +45,6 @@
             "Kind": "Level",
             "Speed": "Slow"
         }
-    ]
+    ],
+    "Image": "piloswine.png"
 }

@@ -19,37 +19,27 @@
     "Ability2": "Hydration",
     "HiddenAbility": "Ice Body",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Amateur",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "dewgong.png",
     "GoodStarter": false,
     "_id": "dewgong",
-    "HasForm": false,
-    "Learnset": "Dewgong-Learnset",
-    "Abilities": "Thick Fat / Hydration (Ice Body)",
-    "Type": "Water / Ice",
     "DexCategory": "Sea Lion Pokemon",
     "Height": {
-        "Deimeters": 17,
         "Meters": 1.7,
         "Feet": 5.6
     },
     "Weight": {
-        "Hectograms": 1200,
         "Kilograms": 120.0,
         "Pounds": 264.6
     },
     "DexDescription": "Its body is covered with a pure white fur. The colder the weather, the more active it becomes. It hunts at night and it\u2019s excellent at catching fish Pokemon. It is also very intelligent and playful.",
-    "Baby": false,
-    "PrimaryEggGroup": "Water 1",
-    "SecondaryEggGroup": "Field",
     "Evolutions": [
         {
             "From": "Seel",
             "Kind": "Level",
             "Speed": "Slow"
         }
-    ]
+    ],
+    "Image": "dewgong.png"
 }

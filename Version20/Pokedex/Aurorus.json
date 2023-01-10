@@ -19,37 +19,27 @@
     "Ability2": "",
     "HiddenAbility": "Snow Warning",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Ace",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "aurorus.png",
     "GoodStarter": false,
     "_id": "aurorus",
-    "HasForm": false,
-    "Learnset": "Aurorus-Learnset",
-    "Abilities": "Refrigerate (Snow Warning)",
-    "Type": "Rock / Ice",
     "DexCategory": "Tundra Pokemon",
     "Height": {
-        "Deimeters": 27,
         "Meters": 2.7,
         "Feet": 8.9
     },
     "Weight": {
-        "Hectograms": 2250,
         "Kilograms": 225.0,
         "Pounds": 496.0
     },
     "DexDescription": "It produced a freezing cold mist from the crystals on its sides and relied on size to deter predators. It also created tall walls of ice to block them. The one restored from the fossil is calm and has adapted well.",
-    "Baby": false,
-    "PrimaryEggGroup": "Monster",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Amaura",
             "Kind": "Level",
             "Speed": "Medium"
         }
-    ]
+    ],
+    "Image": "aurorus.png"
 }

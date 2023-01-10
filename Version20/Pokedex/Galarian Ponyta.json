@@ -19,37 +19,27 @@
     "Ability2": "Pastel Veil",
     "HiddenAbility": "Anticipation",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Amateur",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "ponyta-galar.png",
     "GoodStarter": false,
     "_id": "galarian-ponyta",
-    "HasForm": false,
-    "Learnset": "Galarian Ponyta-Learnset",
-    "Abilities": "Run Away / Pastel Veil (Anticipation)",
-    "Type": "Psychic",
     "DexCategory": "Unique Horn Pokemonn",
     "Height": {
-        "Deimeters": 8,
         "Meters": 0.8,
         "Feet": 2.6
     },
     "Weight": {
-        "Hectograms": 240,
         "Kilograms": 24.0,
         "Pounds": 52.9
     },
     "DexDescription": "The old magical forests of Galar made Ponytas adopt a mystic nature. Their miraculous horn can heal most wounds and sense the purity in your heart, if you hold evil, you\u2019ll never see this Pokemon in the wild.",
-    "Baby": false,
-    "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "To": "Galarian Rapidash",
             "Kind": "Level",
             "Speed": "Medium"
         }
-    ]
+    ],
+    "Image": "ponyta-galar.png"
 }

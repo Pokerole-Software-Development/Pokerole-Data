@@ -19,37 +19,27 @@
     "Ability2": "Infiltrator",
     "HiddenAbility": "Telepathy",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Amateur",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "noibat.png",
     "GoodStarter": true,
     "_id": "noibat",
-    "HasForm": false,
-    "Learnset": "Noibat-Learnset",
-    "Abilities": "Frisk / Infiltrator (Telepathy)",
-    "Type": "Flying / Dragon",
     "DexCategory": "Sound Wave Pokemon",
     "Height": {
-        "Deimeters": 5,
         "Meters": 0.5,
         "Feet": 1.6
     },
     "Weight": {
-        "Hectograms": 80,
         "Kilograms": 8.0,
         "Pounds": 17.6
     },
     "DexDescription": "They live in dark caves and use echolocation to move around. Their enormous ears can emit ultrasonic waves that cause dizziness. Groups of them can even take on prey several times their size.",
-    "Baby": false,
-    "PrimaryEggGroup": "Flying",
-    "SecondaryEggGroup": "Dragon",
     "Evolutions": [
         {
             "To": "Noivern",
             "Kind": "Level",
             "Speed": "Slow"
         }
-    ]
+    ],
+    "Image": "noibat.png"
 }

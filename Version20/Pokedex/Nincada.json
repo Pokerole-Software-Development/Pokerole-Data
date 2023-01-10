@@ -19,32 +19,21 @@
     "Ability2": "",
     "HiddenAbility": "Run Away",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Beginner",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "nincada.png",
     "GoodStarter": true,
     "_id": "nincada",
-    "HasForm": false,
-    "Learnset": "Nincada-Learnset",
-    "Abilities": "Compound Eyes (Run Away)",
-    "Type": "Bug / Ground",
     "DexCategory": "Trainee Pokemon",
     "Height": {
-        "Deimeters": 5,
         "Meters": 0.5,
         "Feet": 1.6
     },
     "Weight": {
-        "Hectograms": 55,
         "Kilograms": 5.5,
         "Pounds": 12.1
     },
     "DexDescription": "They live underground for decades, absorbing nutrients from roots and waiting for evolution. Nincadas are nearly blind and cannot stand bright lights. They only come out to make a cocoon to evolve.",
-    "Baby": false,
-    "PrimaryEggGroup": "Bug",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "To": "Ninjask",
@@ -56,5 +45,6 @@
             "Kind": "Level",
             "Speed": "Medium"
         }
-    ]
+    ],
+    "Image": "nincada.png"
 }

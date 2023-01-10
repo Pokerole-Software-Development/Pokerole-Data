@@ -19,37 +19,27 @@
     "Ability2": "",
     "HiddenAbility": "",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Pro",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "cofagrigus.png",
     "GoodStarter": false,
     "_id": "cofagrigus",
-    "HasForm": false,
-    "Learnset": "Cofagrigus-Learnset",
-    "Abilities": "Mummy",
-    "Type": "Ghost",
     "DexCategory": "Coffin Pokemon",
     "Height": {
-        "Deimeters": 17,
         "Meters": 1.7,
         "Feet": 5.6
     },
     "Weight": {
-        "Hectograms": 765,
         "Kilograms": 76.5,
         "Pounds": 168.7
     },
     "DexDescription": "This Pokemon has only been seen few times in the ruins and tombs of ancient civilizations. It curses and transforms people and Pokemon into mummy-like creatures. It is said it feeds on pure gold.",
-    "Baby": false,
-    "PrimaryEggGroup": "Mineral",
-    "SecondaryEggGroup": "Amorphous",
     "Evolutions": [
         {
             "From": "Yamask",
             "Kind": "Level",
             "Speed": "Slow"
         }
-    ]
+    ],
+    "Image": "cofagrigus.png"
 }

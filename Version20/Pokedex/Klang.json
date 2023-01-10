@@ -19,32 +19,21 @@
     "Ability2": "Minus",
     "HiddenAbility": "Clear Body",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Amateur",
     "GenderType": "N",
     "Legendary": false,
-    "Sprite": "klang.png",
     "GoodStarter": false,
     "_id": "klang",
-    "HasForm": false,
-    "Learnset": "Klang-Learnset",
-    "Abilities": "Plus / Minus (Clear Body)",
-    "Type": "Steel",
     "DexCategory": "Gear Pokemon",
     "Height": {
-        "Deimeters": 6,
         "Meters": 0.6,
         "Feet": 2.0
     },
     "Weight": {
-        "Hectograms": 510,
         "Kilograms": 51.0,
         "Pounds": 112.4
     },
     "DexDescription": "Minigear and big gear comprise its body. If the minigear is detached it will turn off both gears. It communicates with others by rotating. When its angry or afraid, it rotates faster.",
-    "Baby": false,
-    "PrimaryEggGroup": "Mineral",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Klink",
@@ -56,5 +45,6 @@
             "Kind": "Level",
             "Speed": "Medium"
         }
-    ]
+    ],
+    "Image": "klang.png"
 }

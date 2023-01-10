@@ -19,37 +19,27 @@
     "Ability2": "",
     "HiddenAbility": "Water Absorb",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Starter",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "dewpider.png",
     "GoodStarter": true,
     "_id": "dewpider",
-    "HasForm": false,
-    "Learnset": "Dewpider-Learnset",
-    "Abilities": "Water Bubble (Water Absorb)",
-    "Type": "Water / Bug",
     "DexCategory": "Water Bubble Pokemon",
     "Height": {
-        "Deimeters": 3,
         "Meters": 0.3,
         "Feet": 1.0
     },
     "Weight": {
-        "Hectograms": 40,
         "Kilograms": 4.0,
         "Pounds": 8.8
     },
     "DexDescription": "It lives on shallow water pools, but goes into the land to find prey. Its water bubble allows it to breath outside of its pool and serves as a weapon to hunt or defend itself. As it grows its bubble grows as well.",
-    "Baby": false,
-    "PrimaryEggGroup": "Water 1",
-    "SecondaryEggGroup": "Bug",
     "Evolutions": [
         {
             "To": "Araquanid",
             "Kind": "Level",
             "Speed": "Medium"
         }
-    ]
+    ],
+    "Image": "dewpider.png"
 }

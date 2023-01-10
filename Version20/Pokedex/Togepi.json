@@ -19,32 +19,21 @@
     "Ability2": "Serene Grace",
     "HiddenAbility": "Super Luck",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Starter",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "togepi.png",
     "GoodStarter": true,
     "_id": "togepi",
-    "HasForm": false,
-    "Learnset": "Togepi-Learnset",
-    "Abilities": "Hustle / Serene Grace (Super Luck)",
-    "Type": "Fairy",
     "DexCategory": "Spike Ball Pokemon",
     "Height": {
-        "Deimeters": 3,
         "Meters": 0.3,
         "Feet": 1.0
     },
     "Weight": {
-        "Hectograms": 15,
         "Kilograms": 1.5,
         "Pounds": 3.3
     },
     "DexDescription": "This Pokemon stores all the kindness and good feelings inside of it\u2019s shell and shares them with others, when the shell is full it becomes so happy that it finally evolves. It is said that it\u2019ll bring good fortune to its trainer.",
-    "Baby": true,
-    "PrimaryEggGroup": "Undiscovered",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "To": "Togetic",
@@ -52,5 +41,6 @@
             "Stat": "Happiness",
             "Value": 5
         }
-    ]
+    ],
+    "Image": "togepi.png"
 }

@@ -19,37 +19,27 @@
     "Ability2": "",
     "HiddenAbility": "Reckless",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Ace",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "staraptor.png",
     "GoodStarter": false,
     "_id": "staraptor",
-    "HasForm": false,
-    "Learnset": "Staraptor-Learnset",
-    "Abilities": "Intimidate (Reckless)",
-    "Type": "Normal / Flying",
     "DexCategory": "Predator Pokemon",
     "Height": {
-        "Deimeters": 12,
         "Meters": 1.2,
         "Feet": 3.9
     },
     "Weight": {
-        "Hectograms": 249,
         "Kilograms": 24.9,
         "Pounds": 54.9
     },
     "DexDescription": "Staraptor is a savage creature. They will never stop attacking even if they get injured,and will fight foes bigger than themselves. They are known to leave their flock to live on their own when they evolve.",
-    "Baby": false,
-    "PrimaryEggGroup": "Flying",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Staravia",
             "Kind": "Level",
             "Speed": "Medium"
         }
-    ]
+    ],
+    "Image": "staraptor.png"
 }

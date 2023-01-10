@@ -19,36 +19,26 @@
     "Ability2": "",
     "HiddenAbility": "Defiant",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Master",
     "GenderType": "M",
     "Legendary": true,
-    "Sprite": "tornadus.png",
     "GoodStarter": false,
     "_id": "tornadus",
-    "HasForm": true,
-    "Learnset": "Tornadus-Learnset",
-    "Abilities": "Prankster (Defiant)",
-    "Type": "Flying",
     "DexCategory": "No Data",
     "Height": {
-        "Deimeters": 15,
         "Meters": 1.5,
         "Feet": 4.9
     },
     "Weight": {
-        "Hectograms": 630,
         "Kilograms": 63.0,
         "Pounds": 138.9
     },
     "DexDescription": "Unova suffers from terrible tornadoes and devastating wind currents that leave houses and buildings in ruins. Some people claim a Pokemon riding the winds is responsible for all the devastation.",
-    "Baby": false,
-    "PrimaryEggGroup": "Undiscovered",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "To": "Form Tornadus",
             "Kind": "Form"
         }
-    ]
+    ],
+    "Image": "tornadus.png"
 }

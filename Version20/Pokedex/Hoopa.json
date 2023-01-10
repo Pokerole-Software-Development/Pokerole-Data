@@ -19,36 +19,26 @@
     "Ability2": "",
     "HiddenAbility": "",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Pro",
     "GenderType": "N",
     "Legendary": true,
-    "Sprite": "hoopa.png",
     "GoodStarter": false,
     "_id": "hoopa",
-    "HasForm": true,
-    "Learnset": "Hoopa-Learnset",
-    "Abilities": "Magician",
-    "Type": "Psychic / Ghost",
     "DexCategory": "No Data",
     "Height": {
-        "Deimeters": 5,
         "Meters": 0.5,
         "Feet": 1.6
     },
     "Weight": {
-        "Hectograms": 90,
         "Kilograms": 9.0,
         "Pounds": 19.8
     },
     "DexDescription": "There is a story of an old demon whose power had to be contained by a spell. The spell was a partial success as the demon could still roam free, but its power and evil was greatly diminished.",
-    "Baby": false,
-    "PrimaryEggGroup": "Undiscovered",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "To": "Hoopa Unbound",
             "Kind": "Form"
         }
-    ]
+    ],
+    "Image": "hoopa.png"
 }

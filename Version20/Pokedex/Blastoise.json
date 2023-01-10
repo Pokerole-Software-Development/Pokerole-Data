@@ -19,32 +19,21 @@
     "Ability2": "",
     "HiddenAbility": "Rain Dish",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Ace",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "blastoise.png",
     "GoodStarter": false,
     "_id": "blastoise",
-    "HasForm": true,
-    "Learnset": "Blastoise-Learnset",
-    "Abilities": "Torrent (Rain Dish)",
-    "Type": "Water",
     "DexCategory": "Shellfish Pokemon",
     "Height": {
-        "Deimeters": 16,
         "Meters": 1.6,
         "Feet": 5.2
     },
     "Weight": {
-        "Hectograms": 855,
         "Kilograms": 85.5,
         "Pounds": 188.5
     },
     "DexDescription": "The jets of water it spouts from the rocket cannons on its shell have been recorded to punch through steel. It is confident on its great defense and water spouts to overcome any obstacle.",
-    "Baby": false,
-    "PrimaryEggGroup": "Monster",
-    "SecondaryEggGroup": "Water 1",
     "Evolutions": [
         {
             "From": "Wartortle",
@@ -56,5 +45,6 @@
             "Kind": "Mega",
             "Item": "Blastoisinite"
         }
-    ]
+    ],
+    "Image": "blastoise.png"
 }

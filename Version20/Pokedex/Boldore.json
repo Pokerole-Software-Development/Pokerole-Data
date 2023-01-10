@@ -19,32 +19,21 @@
     "Ability2": "Weak Armor",
     "HiddenAbility": "Sand Force",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Amateur",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "boldore.png",
     "GoodStarter": false,
     "_id": "boldore",
-    "HasForm": false,
-    "Learnset": "Boldore-Learnset",
-    "Abilities": "Sturdy / Weak Armor (Sand Force)",
-    "Type": "Rock",
     "DexCategory": "Ore Pokemon",
     "Height": {
-        "Deimeters": 9,
         "Meters": 0.9,
         "Feet": 3.0
     },
     "Weight": {
-        "Hectograms": 1020,
         "Kilograms": 102.0,
         "Pounds": 224.9
     },
     "DexDescription": "It releases the excess of energy in the form of red crystals. It is still blind, it looks for for water sources inside underground caves by using echo location. It is a pacific creature that keeps to itself most of the time.",
-    "Baby": false,
-    "PrimaryEggGroup": "Mineral",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Roggenrola",
@@ -55,5 +44,6 @@
             "To": "Gigalith",
             "Kind": "Trade"
         }
-    ]
+    ],
+    "Image": "boldore.png"
 }

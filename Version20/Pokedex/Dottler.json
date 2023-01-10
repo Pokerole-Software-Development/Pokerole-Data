@@ -19,32 +19,21 @@
     "Ability2": "Compound Eyes",
     "HiddenAbility": "Telepathy",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Beginner",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "dottler.png",
     "GoodStarter": false,
     "_id": "dottler",
-    "HasForm": false,
-    "Learnset": "Dottler-Learnset",
-    "Abilities": "Swarm / Compound Eyes (Telepathy)",
-    "Type": "Bug / Psychic",
     "DexCategory": "Radome Pokemon",
     "Height": {
-        "Deimeters": 4,
         "Meters": 0.4,
         "Feet": 1.3
     },
     "Weight": {
-        "Hectograms": 195,
         "Kilograms": 19.5,
         "Pounds": 43.0
     },
     "DexDescription": "It grows into its final stage inside a hard shell. It barely moves and it won\u2019t eat or drink during this time, due to this many believe it to be dead until its psychic powers awaken and it starts communicating telepathically.",
-    "Baby": false,
-    "PrimaryEggGroup": "Bug",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Blipbug",
@@ -56,5 +45,6 @@
             "Kind": "Level",
             "Speed": "Medium"
         }
-    ]
+    ],
+    "Image": "dottler.png"
 }

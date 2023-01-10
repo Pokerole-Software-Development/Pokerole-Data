@@ -19,37 +19,27 @@
     "Ability2": "",
     "HiddenAbility": "",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Master",
     "GenderType": "N",
     "Legendary": false,
-    "Sprite": "metagross-mega.png",
     "GoodStarter": false,
     "_id": "mega-metagross",
-    "HasForm": false,
-    "Learnset": "Mega-Metagross-Learnset",
-    "Abilities": "Tough Claws",
-    "Type": "Steel / Psychic",
     "DexCategory": "Iron Leg Pokemon",
     "Height": {
-        "Deimeters": 25,
         "Meters": 2.5,
         "Feet": 8.2
     },
     "Weight": {
-        "Hectograms": 9429,
         "Kilograms": 942.9,
         "Pounds": 2078.7
     },
     "DexDescription": "The power of the Mega Stone made its four minds combine. It is now a merciless machine-like beast. If it calculates its chances to win are diminishing it will clutch itself into its foe and self-destruct.",
-    "Baby": false,
-    "PrimaryEggGroup": "Mineral",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Metagross",
             "Kind": "Mega",
             "Item": "Metagrossite"
         }
-    ]
+    ],
+    "Image": "metagross-mega.png"
 }

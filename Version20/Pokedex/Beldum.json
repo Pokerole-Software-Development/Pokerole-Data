@@ -19,37 +19,27 @@
     "Ability2": "",
     "HiddenAbility": "Light Metal",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Beginner",
     "GenderType": "N",
     "Legendary": false,
-    "Sprite": "beldum.png",
     "GoodStarter": true,
     "_id": "beldum",
-    "HasForm": false,
-    "Learnset": "Beldum-Learnset",
-    "Abilities": "Clear Body (Light Metal)",
-    "Type": "Steel / Psychic",
     "DexCategory": "Iron Ball Pokemon",
     "Height": {
-        "Deimeters": 6,
         "Meters": 0.6,
         "Feet": 2.0
     },
     "Weight": {
-        "Hectograms": 952,
         "Kilograms": 95.2,
         "Pounds": 209.9
     },
     "DexDescription": "Beldum uses magnetic pulses to float and communicate. When it finds others, they move in perfect unison. It needs to develop a new brain to evolve; two of them may merge or it could develop a new one with time.",
-    "Baby": false,
-    "PrimaryEggGroup": "Mineral",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "To": "Metang",
             "Kind": "Level",
             "Speed": "Medium"
         }
-    ]
+    ],
+    "Image": "beldum.png"
 }

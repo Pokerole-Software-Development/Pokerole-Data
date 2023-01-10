@@ -19,36 +19,26 @@
     "Ability2": "",
     "HiddenAbility": "",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Beginner",
     "GenderType": "N",
     "Legendary": false,
-    "Sprite": "minior.png",
     "GoodStarter": false,
     "_id": "minior",
-    "HasForm": true,
-    "Learnset": "Minior-Learnset",
-    "Abilities": "Shields Down",
-    "Type": "Rock / Flying",
     "DexCategory": "Meteor Pokemon",
     "Height": {
-        "Deimeters": 3,
         "Meters": 0.3,
         "Feet": 1.0
     },
     "Weight": {
-        "Hectograms": 400,
         "Kilograms": 40.0,
         "Pounds": 88.2
     },
     "DexDescription": "They live on the stratosphere, absorbing particles to grow their cores and shells, when they become too heavy they fall to the ground. Move damage can break the shell and leave the core exposed.",
-    "Baby": false,
-    "PrimaryEggGroup": "Mineral",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "To": "Minior Core",
             "Kind": "Form"
         }
-    ]
+    ],
+    "Image": "minior.png"
 }

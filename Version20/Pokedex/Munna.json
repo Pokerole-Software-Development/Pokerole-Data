@@ -19,37 +19,27 @@
     "Ability2": "Synchronize",
     "HiddenAbility": "Telepathy",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Beginner",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "munna.png",
     "GoodStarter": true,
     "_id": "munna",
-    "HasForm": false,
-    "Learnset": "Munna-Learnset",
-    "Abilities": "Forewarn / Synchronize (Telepathy)",
-    "Type": "Psychic",
     "DexCategory": "Dream Eater Pokemon",
     "Height": {
-        "Deimeters": 6,
         "Meters": 0.6,
         "Feet": 2.0
     },
     "Weight": {
-        "Hectograms": 233,
         "Kilograms": 23.3,
         "Pounds": 51.4
     },
     "DexDescription": "It lurks close to towns and eats the dreams of people and Pokemon. When it eats a pleasant dream, it expels pink-colored mist. If you forgot what you dreamed, a Munna must have eaten your dream.",
-    "Baby": false,
-    "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "To": "Musharna",
             "Kind": "Stone",
             "Item": "Moon Stone"
         }
-    ]
+    ],
+    "Image": "munna.png"
 }

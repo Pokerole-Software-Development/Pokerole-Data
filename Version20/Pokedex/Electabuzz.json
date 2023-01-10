@@ -19,32 +19,21 @@
     "Ability2": "",
     "HiddenAbility": "Vital Spirit",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Amateur",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "electabuzz.png",
     "GoodStarter": false,
     "_id": "electabuzz",
-    "HasForm": false,
-    "Learnset": "Electabuzz-Learnset",
-    "Abilities": "Static (Vital Spirit)",
-    "Type": "Electric",
     "DexCategory": "Electric Pokemon",
     "Height": {
-        "Deimeters": 11,
         "Meters": 1.1,
         "Feet": 3.6
     },
     "Weight": {
-        "Hectograms": 300,
         "Kilograms": 30.0,
         "Pounds": 66.1
     },
     "DexDescription": "A violent Pokemon. It searches for spots where it can feed on electricity and has been seen absorbing lightning from the sky. It\u2019s competitive and aggressive with others.",
-    "Baby": false,
-    "PrimaryEggGroup": "Human-Like",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Elekid",
@@ -56,5 +45,6 @@
             "Kind": "Trade",
             "Item": "Electirizer"
         }
-    ]
+    ],
+    "Image": "electabuzz.png"
 }

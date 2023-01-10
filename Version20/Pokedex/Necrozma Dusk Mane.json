@@ -19,36 +19,26 @@
     "Ability2": "",
     "HiddenAbility": "",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Master",
     "GenderType": "N",
     "Legendary": true,
-    "Sprite": "necrozma-dusk.png",
     "GoodStarter": false,
     "_id": "necrozma-dusk-mane",
-    "HasForm": false,
-    "Learnset": "Necrozma Dusk Mane-Learnset",
-    "Abilities": "Prism Armor",
-    "Type": "Psychic / Steel",
     "DexCategory": "Aether Foundation Log #182",
     "Height": {
-        "Deimeters": 38,
         "Meters": 3.8,
         "Feet": 12.5
     },
     "Weight": {
-        "Hectograms": 4600,
         "Kilograms": 460.0,
         "Pounds": 1014.1
     },
     "DexDescription": "The shadowy creature is in pain, and it hungers for any light it can find. I wonder how would it fare on the other side, back in our world. Would the sunlight ease its spirit or release a terrible monster?",
-    "Baby": false,
-    "PrimaryEggGroup": "Undiscovered",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Necrozma",
             "Kind": "Special"
         }
-    ]
+    ],
+    "Image": "necrozma-dusk.png"
 }

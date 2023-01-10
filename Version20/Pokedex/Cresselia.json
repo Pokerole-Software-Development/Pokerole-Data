@@ -19,31 +19,21 @@
     "Ability2": "",
     "HiddenAbility": "",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Pro",
     "GenderType": "F",
     "Legendary": true,
-    "Sprite": "cresselia.png",
     "GoodStarter": false,
     "_id": "cresselia",
-    "HasForm": false,
-    "Learnset": "Cresselia-Learnset",
-    "Abilities": "Levitate",
-    "Type": "Psychic",
     "DexCategory": "No Data",
     "Height": {
-        "Deimeters": 15,
         "Meters": 1.5,
         "Feet": 4.9
     },
     "Weight": {
-        "Hectograms": 856,
         "Kilograms": 85.6,
         "Pounds": 188.7
     },
     "DexDescription": "The embodiment of dreams comes to life during the crescent moon nights. You will be blessed with peaceful bedtimes If you keep one of its feathers. Or so they say.",
-    "Baby": false,
-    "PrimaryEggGroup": "Undiscovered",
-    "SecondaryEggGroup": "",
-    "Evolutions": []
+    "Evolutions": [],
+    "Image": "cresselia.png"
 }

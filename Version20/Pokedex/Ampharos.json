@@ -19,32 +19,21 @@
     "Ability2": "",
     "HiddenAbility": "Plus",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Ace",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "ampharos.png",
     "GoodStarter": false,
     "_id": "ampharos",
-    "HasForm": true,
-    "Learnset": "Ampharos-Learnset",
-    "Abilities": "Static (Plus)",
-    "Type": "Electric",
     "DexCategory": "Light Pokemon",
     "Height": {
-        "Deimeters": 14,
         "Meters": 1.4,
         "Feet": 4.6
     },
     "Weight": {
-        "Hectograms": 615,
         "Kilograms": 61.5,
         "Pounds": 135.6
     },
     "DexDescription": "It\u2019s not common to see it in the wild. The tip of its tail shines brightly and in the old days, people sent light signals with the help of this Pokemon. It has a good disposition towards people in general.",
-    "Baby": false,
-    "PrimaryEggGroup": "Monster",
-    "SecondaryEggGroup": "Field",
     "Evolutions": [
         {
             "From": "Flaaffy",
@@ -56,5 +45,6 @@
             "Kind": "Mega",
             "Item": "Ampharosite"
         }
-    ]
+    ],
+    "Image": "ampharos.png"
 }

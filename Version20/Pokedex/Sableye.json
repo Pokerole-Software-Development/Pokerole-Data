@@ -19,37 +19,27 @@
     "Ability2": "Stall",
     "HiddenAbility": "Prankster",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Amateur",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "sableye.png",
     "GoodStarter": false,
     "_id": "sableye",
-    "HasForm": true,
-    "Learnset": "Sableye-Learnset",
-    "Abilities": "Keen Eye / Stall (Prankster)",
-    "Type": "Dark / Ghost",
     "DexCategory": "Darkness Pokemon",
     "Height": {
-        "Deimeters": 5,
         "Meters": 0.5,
         "Feet": 1.6
     },
     "Weight": {
-        "Hectograms": 110,
         "Kilograms": 11.0,
         "Pounds": 24.3
     },
     "DexDescription": "Feared for stealing the souls of men with their sinister eyes glowing in the dark. They lurk deep inside caves, eating rocks, gemstones and crystals. Luckily, Sableyes are rarely seen. They love jewels and treasure.",
-    "Baby": false,
-    "PrimaryEggGroup": "Human-Like",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "To": "Mega-Sableye",
             "Kind": "Mega",
             "Item": "Sablenite"
         }
-    ]
+    ],
+    "Image": "sableye.png"
 }

@@ -19,37 +19,27 @@
     "Ability2": "",
     "HiddenAbility": "Blaze",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Beginner",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "pansear.png",
     "GoodStarter": true,
     "_id": "pansear",
-    "HasForm": false,
-    "Learnset": "Pansear-Learnset",
-    "Abilities": "Gluttony (Blaze)",
-    "Type": "Fire",
     "DexCategory": "High Temp Pokemon",
     "Height": {
-        "Deimeters": 6,
         "Meters": 0.6,
         "Feet": 2.0
     },
     "Weight": {
-        "Hectograms": 110,
         "Kilograms": 11.0,
         "Pounds": 24.3
     },
     "DexDescription": "It lives close to volcanic mountains. It\u2019s very intelligent, it roasts berries before eating them and helps lost people. When angered the tuft of hair on it\u2019s head and tail can burst into flames.",
-    "Baby": false,
-    "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "To": "Simisear",
             "Kind": "Stone",
             "Item": "Fire Stone"
         }
-    ]
+    ],
+    "Image": "pansear.png"
 }

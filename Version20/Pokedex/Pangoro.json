@@ -19,37 +19,27 @@
     "Ability2": "Mold Breaker",
     "HiddenAbility": "Scrappy",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Ace",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "pangoro.png",
     "GoodStarter": false,
     "_id": "pangoro",
-    "HasForm": false,
-    "Learnset": "Pangoro-Learnset",
-    "Abilities": "Iron Fist / Mold Breaker (Scrappy)",
-    "Type": "Fighting / Dark",
     "DexCategory": "Daunting Pokemon",
     "Height": {
-        "Deimeters": 21,
         "Meters": 2.1,
         "Feet": 6.9
     },
     "Weight": {
-        "Hectograms": 1360,
         "Kilograms": 136.0,
         "Pounds": 299.8
     },
     "DexDescription": "Although this pokemon has a violent temperament, it won\u2019t put up with bullying. It charges ahead and slams its opponents like a berserker, totally disregarding its own safety. Its mighty arms can send you flying.",
-    "Baby": false,
-    "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": "Human-Like",
     "Evolutions": [
         {
             "From": "Pancham",
             "Kind": "Level",
             "Speed": "Medium"
         }
-    ]
+    ],
+    "Image": "pangoro.png"
 }

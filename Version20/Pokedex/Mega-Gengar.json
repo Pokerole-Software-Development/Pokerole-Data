@@ -19,37 +19,27 @@
     "Ability2": "",
     "HiddenAbility": "",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Pro",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "gengar-mega.png",
     "GoodStarter": false,
     "_id": "mega-gengar",
-    "HasForm": false,
-    "Learnset": "Mega-Gengar-Learnset",
-    "Abilities": "Shadow Tag",
-    "Type": "Ghost / Poison",
     "DexCategory": "Shadow Pokemon",
     "Height": {
-        "Deimeters": 14,
         "Meters": 1.4,
         "Feet": 4.6
     },
     "Weight": {
-        "Hectograms": 405,
         "Kilograms": 40.5,
         "Pounds": 89.3
     },
     "DexDescription": "With the power of the Mega Stone Gengar can now teleport through dimensions, whatever horrors it witnesses there make it try to curse anything or anyone it perceives as prey, even its beloved trainer!",
-    "Baby": false,
-    "PrimaryEggGroup": "Amorphous",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Gengar",
             "Kind": "Mega",
             "Item": "Gengarite"
         }
-    ]
+    ],
+    "Image": "gengar-mega.png"
 }

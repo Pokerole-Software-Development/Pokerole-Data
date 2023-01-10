@@ -19,37 +19,27 @@
     "Ability2": "",
     "HiddenAbility": "Rattled",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Starter",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "magikarp.png",
     "GoodStarter": true,
     "_id": "magikarp",
-    "HasForm": false,
-    "Learnset": "Magikarp-Learnset",
-    "Abilities": "Swift Swim (Rattled)",
-    "Type": "Water",
     "DexCategory": "Fish Pokemon",
     "Height": {
-        "Deimeters": 9,
         "Meters": 0.9,
         "Feet": 3.0
     },
     "Weight": {
-        "Hectograms": 100,
         "Kilograms": 10.0,
         "Pounds": 22.0
     },
     "DexDescription": "Magikarp is a pathetic excuse of a Pokemon that is not even good to eat. It\u2019s only capable of flopping and splashing. However, it can survive in any body of water no matter how polluted it is.",
-    "Baby": false,
-    "PrimaryEggGroup": "Water 2",
-    "SecondaryEggGroup": "Dragon",
     "Evolutions": [
         {
             "To": "Gyarados",
             "Kind": "Level",
             "Speed": "Slow"
         }
-    ]
+    ],
+    "Image": "magikarp.png"
 }

@@ -19,32 +19,21 @@
     "Ability2": "Klutz",
     "HiddenAbility": "Simple",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Amateur",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "swoobat.png",
     "GoodStarter": false,
     "_id": "swoobat",
-    "HasForm": false,
-    "Learnset": "Swoobat-Learnset",
-    "Abilities": "Unaware / Klutz (Simple)",
-    "Type": "Psychic / Flying",
     "DexCategory": "Courting Pokemon",
     "Height": {
-        "Deimeters": 9,
         "Meters": 0.9,
         "Feet": 3.0
     },
     "Weight": {
-        "Hectograms": 105,
         "Kilograms": 10.5,
         "Pounds": 23.1
     },
     "DexDescription": "They communicate by emitting ultrasonic waves through their noses. This sound is not perceived by humans but it can affect their mood and emotions. It hunts Bug Pokemon and loves fresh fruit.",
-    "Baby": false,
-    "PrimaryEggGroup": "Flying",
-    "SecondaryEggGroup": "Field",
     "Evolutions": [
         {
             "From": "Woobat",
@@ -52,5 +41,6 @@
             "Stat": "Happiness",
             "Value": 4
         }
-    ]
+    ],
+    "Image": "swoobat.png"
 }

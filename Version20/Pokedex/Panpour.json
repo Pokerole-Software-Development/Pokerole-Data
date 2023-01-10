@@ -19,37 +19,27 @@
     "Ability2": "",
     "HiddenAbility": "Torrent",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Beginner",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "panpour.png",
     "GoodStarter": true,
     "_id": "panpour",
-    "HasForm": false,
-    "Learnset": "Panpour-Learnset",
-    "Abilities": "Gluttony (Torrent)",
-    "Type": "Water",
     "DexCategory": "Spray Pokemon",
     "Height": {
-        "Deimeters": 6,
         "Meters": 0.6,
         "Feet": 2.0
     },
     "Weight": {
-        "Hectograms": 135,
         "Kilograms": 13.5,
         "Pounds": 29.8
     },
     "DexDescription": "It does not thrive in dry climates. It keeps itself damp by shooting the water stored in its head tuft. Its water is valued by gardeners and Grass Pokemon breeders as it makes plants grow beautiful.",
-    "Baby": false,
-    "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "To": "Simipour",
             "Kind": "Stone",
             "Item": "Water Stone"
         }
-    ]
+    ],
+    "Image": "panpour.png"
 }

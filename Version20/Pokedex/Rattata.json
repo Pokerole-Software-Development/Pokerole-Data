@@ -19,37 +19,27 @@
     "Ability2": "Guts",
     "HiddenAbility": "Hustle",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Starter",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "rattata.png",
     "GoodStarter": true,
     "_id": "rattata",
-    "HasForm": false,
-    "Learnset": "Rattata-Learnset",
-    "Abilities": "Run Away / Guts (Hustle)",
-    "Type": "Normal",
     "DexCategory": "Mouse Pokemon",
     "Height": {
-        "Deimeters": 3,
         "Meters": 0.3,
         "Feet": 1.0
     },
     "Weight": {
-        "Hectograms": 35,
         "Kilograms": 3.5,
         "Pounds": 7.7
     },
     "DexDescription": "It can live anywhere it can find food, but they are often in cities and fields. They form large families in their burrows. Since they are often preyed on, Rattatas are always alert and quick to flee.",
-    "Baby": false,
-    "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "To": "Raticate",
             "Kind": "Level",
             "Speed": "Medium"
         }
-    ]
+    ],
+    "Image": "rattata.png"
 }

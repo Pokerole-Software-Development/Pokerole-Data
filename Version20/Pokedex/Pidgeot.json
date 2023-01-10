@@ -19,32 +19,21 @@
     "Ability2": "Tangled Feet",
     "HiddenAbility": "Big Pecks",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Ace",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "pidgeot.png",
     "GoodStarter": false,
     "_id": "pidgeot",
-    "HasForm": true,
-    "Learnset": "Pidgeot-Learnset",
-    "Abilities": "Keen Eye / Tangled Feet (Big Pecks)",
-    "Type": "Normal / Flying",
     "DexCategory": "Bird Pokemon",
     "Height": {
-        "Deimeters": 15,
         "Meters": 1.5,
         "Feet": 4.9
     },
     "Weight": {
-        "Hectograms": 395,
         "Kilograms": 39.5,
         "Pounds": 87.1
     },
     "DexDescription": "This Pokemon\u2019s plumage is made of beautiful glossy feathers. Pidgeot is an excellent hunter with well developed wing muscles that make it strong enough to whip up a gusty windstorm with just a few flaps.",
-    "Baby": false,
-    "PrimaryEggGroup": "Flying",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Pidgeotto",
@@ -56,5 +45,6 @@
             "Kind": "Mega",
             "Item": "Pidgeotite"
         }
-    ]
+    ],
+    "Image": "pidgeot.png"
 }

@@ -19,37 +19,27 @@
     "Ability2": "Oblivious",
     "HiddenAbility": "Pressure",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Amateur",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "wailmer.png",
     "GoodStarter": true,
     "_id": "wailmer",
-    "HasForm": false,
-    "Learnset": "Wailmer-Learnset",
-    "Abilities": "Water Veil / Oblivious (Pressure)",
-    "Type": "Water",
     "DexCategory": "Ball Whale Pokemon",
     "Height": {
-        "Deimeters": 20,
         "Meters": 2.0,
         "Feet": 6.6
     },
     "Weight": {
-        "Hectograms": 1300,
         "Kilograms": 130.0,
         "Pounds": 286.6
     },
     "DexDescription": "Wailmer has a playful nature. They can store water inside their body to inflate like a ball and bounce, then startle people by snorting the water from their nostrils. This Pokemon needs lots of food everyday.",
-    "Baby": false,
-    "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": "Water 2",
     "Evolutions": [
         {
             "To": "Wailord",
             "Kind": "Level",
             "Speed": "Slow"
         }
-    ]
+    ],
+    "Image": "wailmer.png"
 }

@@ -19,37 +19,27 @@
     "Ability2": "",
     "HiddenAbility": "Swift Swim",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Beginner",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "anorith.png",
     "GoodStarter": false,
     "_id": "anorith",
-    "HasForm": false,
-    "Learnset": "Anorith-Learnset",
-    "Abilities": "Battle Armor (Swift Swim)",
-    "Type": "Rock / Bug",
     "DexCategory": "Old Shrimp Pokemon",
     "Height": {
-        "Deimeters": 7,
         "Meters": 0.7,
         "Feet": 2.3
     },
     "Weight": {
-        "Hectograms": 125,
         "Kilograms": 12.5,
         "Pounds": 27.6
     },
     "DexDescription": "This ancient Pokemon is thought to be the common ancestor of many modern Bug Pokemon. The fossils show it lived in big schools and it preferred warm waters. Anoriths used their claws to catch small prey.",
-    "Baby": false,
-    "PrimaryEggGroup": "Water 3",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "To": "Armaldo",
             "Kind": "Level",
             "Speed": "Medium"
         }
-    ]
+    ],
+    "Image": "anorith.png"
 }

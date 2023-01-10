@@ -19,37 +19,27 @@
     "Ability2": "Oblivious",
     "HiddenAbility": "Sweet Veil",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Starter",
     "GenderType": "F",
     "Legendary": false,
-    "Sprite": "bounsweet.png",
     "GoodStarter": true,
     "_id": "bounsweet",
-    "HasForm": false,
-    "Learnset": "Bounsweet-Learnset",
-    "Abilities": "Leaf Guard / Oblivious (Sweet Veil)",
-    "Type": "Grass",
     "DexCategory": "Fruit Pokemon",
     "Height": {
-        "Deimeters": 3,
         "Meters": 0.3,
         "Feet": 1.0
     },
     "Weight": {
-        "Hectograms": 32,
         "Kilograms": 3.2,
         "Pounds": 7.1
     },
     "DexDescription": "This happy-go-lucky Pokemon produces a delicious aroma that unfortunately attracts predators to it, when it escapes, it looks as if it\u2019s happily skipping around so it rarely gets help.",
-    "Baby": false,
-    "PrimaryEggGroup": "Grass",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "To": "Steenee",
             "Kind": "Level",
             "Speed": "Medium"
         }
-    ]
+    ],
+    "Image": "bounsweet.png"
 }

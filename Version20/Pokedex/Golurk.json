@@ -19,37 +19,27 @@
     "Ability2": "Klutz",
     "HiddenAbility": "No Guard",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Pro",
     "GenderType": "N",
     "Legendary": false,
-    "Sprite": "golurk.png",
     "GoodStarter": false,
     "_id": "golurk",
-    "HasForm": false,
-    "Learnset": "Golurk-Learnset",
-    "Abilities": "Iron Fist / Klutz (No Guard)",
-    "Type": "Ground / Ghost",
     "DexCategory": "Automaton Pokemon",
     "Height": {
-        "Deimeters": 28,
         "Meters": 2.8,
         "Feet": 9.2
     },
     "Weight": {
-        "Hectograms": 3300,
         "Kilograms": 330.0,
         "Pounds": 727.5
     },
     "DexDescription": "It is said that Golurk were ordered to protect people and Pokemon by the ancient people who created them. There are records of only one still alive found on the ruin, the rest are just statues now.",
-    "Baby": false,
-    "PrimaryEggGroup": "Mineral",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Golett",
             "Kind": "Level",
             "Speed": "Medium"
         }
-    ]
+    ],
+    "Image": "golurk.png"
 }

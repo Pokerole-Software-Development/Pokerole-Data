@@ -19,37 +19,27 @@
     "Ability2": "Limber",
     "HiddenAbility": "Regenerator",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Amateur",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "toxapex.png",
     "GoodStarter": false,
     "_id": "toxapex",
-    "HasForm": false,
-    "Learnset": "Toxapex-Learnset",
-    "Abilities": "Merciless / Limber (Regenerator)",
-    "Type": "Poison / Water",
     "DexCategory": "Brutal Star Pokemon",
     "Height": {
-        "Deimeters": 7,
         "Meters": 0.7,
         "Feet": 2.3
     },
     "Weight": {
-        "Hectograms": 145,
         "Kilograms": 14.5,
         "Pounds": 32.0
     },
     "DexDescription": "It crawls through the ocean floor, using its tentacles as a fortress. Its venom has the victim suffering for three days and nights, and even if it\u2019s healed there are aftereffects for it is a powerful toxin.",
-    "Baby": false,
-    "PrimaryEggGroup": "Water 1",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Mareanie",
             "Kind": "Level",
             "Speed": "Medium"
         }
-    ]
+    ],
+    "Image": "toxapex.png"
 }

@@ -19,37 +19,27 @@
     "Ability2": "Sand Veil",
     "HiddenAbility": "Solar Power",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Beginner",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "helioptile.png",
     "GoodStarter": true,
     "_id": "helioptile",
-    "HasForm": false,
-    "Learnset": "Helioptile-Learnset",
-    "Abilities": "Dry Skin / Sand Veil (Solar Power)",
-    "Type": "Electric / Normal",
     "DexCategory": "Generator Pokemon",
     "Height": {
-        "Deimeters": 5,
         "Meters": 0.5,
         "Feet": 1.6
     },
     "Weight": {
-        "Hectograms": 60,
         "Kilograms": 6.0,
         "Pounds": 13.2
     },
     "DexDescription": "They make their home in deserts. Using the sun, they can generate their energy by basking their frills since food is scarce where they live. They run pretty fast as to not burn themselves with the hot sand.",
-    "Baby": false,
-    "PrimaryEggGroup": "Monster",
-    "SecondaryEggGroup": "Dragon",
     "Evolutions": [
         {
             "To": "Heliolisk",
             "Kind": "Stone",
             "Item": "Sun Stone"
         }
-    ]
+    ],
+    "Image": "helioptile.png"
 }

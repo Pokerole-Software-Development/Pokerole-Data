@@ -19,37 +19,27 @@
     "Ability2": "Cheek Pouch",
     "HiddenAbility": "Huge Power",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Beginner",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "bunnelby.png",
     "GoodStarter": true,
     "_id": "bunnelby",
-    "HasForm": false,
-    "Learnset": "Bunnelby-Learnset",
-    "Abilities": "Pickup / Cheek Pouch (Huge Power)",
-    "Type": "Normal",
     "DexCategory": "Digging Pokemon",
     "Height": {
-        "Deimeters": 4,
         "Meters": 0.4,
         "Feet": 1.3
     },
     "Weight": {
-        "Hectograms": 50,
         "Kilograms": 5.0,
         "Pounds": 11.0
     },
     "DexDescription": "It uses its ears as shovels, digging holes strengthens them so much that they can sever thick roots easily. They reproduce quickly and a handful of them can ravage a field of vegetables in just a few hours.",
-    "Baby": false,
-    "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "To": "Diggersby",
             "Kind": "Level",
             "Speed": "Medium"
         }
-    ]
+    ],
+    "Image": "bunnelby.png"
 }

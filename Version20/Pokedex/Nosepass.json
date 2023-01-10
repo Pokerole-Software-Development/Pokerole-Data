@@ -19,37 +19,27 @@
     "Ability2": "Magnet Pull",
     "HiddenAbility": "Sand Force",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Beginner",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "nosepass.png",
     "GoodStarter": true,
     "_id": "nosepass",
-    "HasForm": false,
-    "Learnset": "Nosepass-Learnset",
-    "Abilities": "Sturdy / Magnet Pull (Sand Force)",
-    "Type": "Rock",
     "DexCategory": "Nosepass Pokemon",
     "Height": {
-        "Deimeters": 10,
         "Meters": 1.0,
         "Feet": 3.3
     },
     "Weight": {
-        "Hectograms": 970,
         "Kilograms": 97.0,
         "Pounds": 213.8
     },
     "DexDescription": "Their magnetic noses always point to the north. They were thought to be immobile, but it was recently revealed that they actually move 3/8 of an inch every year. They get a little crazy when magnets are close.",
-    "Baby": false,
-    "PrimaryEggGroup": "Mineral",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "To": "Probopass",
             "Kind": "Special",
             "Special": "A trip to New Mauville"
         }
-    ]
+    ],
+    "Image": "nosepass.png"
 }

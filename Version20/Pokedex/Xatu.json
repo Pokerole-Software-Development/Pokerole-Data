@@ -19,37 +19,27 @@
     "Ability2": "Early Bird",
     "HiddenAbility": "Magic Bounce",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Amateur",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "xatu.png",
     "GoodStarter": false,
     "_id": "xatu",
-    "HasForm": false,
-    "Learnset": "Xatu-Learnset",
-    "Abilities": "Synchronize / Early Bird (Magic Bounce)",
-    "Type": "Psychic / Flying",
     "DexCategory": "Mystic Pokemon",
     "Height": {
-        "Deimeters": 15,
         "Meters": 1.5,
         "Feet": 4.9
     },
     "Weight": {
-        "Hectograms": 150,
         "Kilograms": 15.0,
         "Pounds": 33.1
     },
     "DexDescription": "Xatu is known to stand motionless while staring at the sun all day long. Some people revere it as a mystical Pokemon out of their belief that Xatus have the power to see into the future.",
-    "Baby": false,
-    "PrimaryEggGroup": "Flying",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Natu",
             "Kind": "Level",
             "Speed": "Medium"
         }
-    ]
+    ],
+    "Image": "xatu.png"
 }

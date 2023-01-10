@@ -19,37 +19,27 @@
     "Ability2": "",
     "HiddenAbility": "",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Amateur",
     "GenderType": "N",
     "Legendary": false,
-    "Sprite": "poipole.png",
     "GoodStarter": false,
     "_id": "poipole",
-    "HasForm": false,
-    "Learnset": "Poipole-Learnset",
-    "Abilities": "Beast Boost",
-    "Type": "Poison",
     "DexCategory": "Aether Foundation Log #162",
     "Height": {
-        "Deimeters": 6,
         "Meters": 0.6,
         "Feet": 2.0
     },
     "Weight": {
-        "Hectograms": 18,
         "Kilograms": 1.8,
         "Pounds": 4.0
     },
     "DexDescription": "Thanks to the Recon Squad we\u2019ve managed to secure a location on the other side. UB- Adhesive have been a great help; their intelligence and friendliness would make them very popular in our world.",
-    "Baby": false,
-    "PrimaryEggGroup": "Undiscovered",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "To": "Naganadel",
             "Kind": "Level",
             "Move": "Dragon Pulse"
         }
-    ]
+    ],
+    "Image": "poipole.png"
 }

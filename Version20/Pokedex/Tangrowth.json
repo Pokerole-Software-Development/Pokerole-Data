@@ -19,37 +19,27 @@
     "Ability2": "Leaf Guard",
     "HiddenAbility": "Regenerator",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Ace",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "tangrowth.png",
     "GoodStarter": false,
     "_id": "tangrowth",
-    "HasForm": false,
-    "Learnset": "Tangrowth-Learnset",
-    "Abilities": "Chlorophyll / Leaf Guard (Regenerator)",
-    "Type": "Grass",
     "DexCategory": "Vine Pokemon",
     "Height": {
-        "Deimeters": 20,
         "Meters": 2.0,
         "Feet": 6.6
     },
     "Weight": {
-        "Hectograms": 1286,
         "Kilograms": 128.6,
         "Pounds": 283.5
     },
     "DexDescription": "While it remains still, it appears to be a large shrub. Unsuspecting prey that wander near get ensnared by its vines. In the summer months, its vines grow so large that you can\u2019t even see its eyes.",
-    "Baby": false,
-    "PrimaryEggGroup": "Grass",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Tangela",
             "Kind": "Level",
             "Speed": "Slow"
         }
-    ]
+    ],
+    "Image": "tangrowth.png"
 }

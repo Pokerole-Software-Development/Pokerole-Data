@@ -19,32 +19,21 @@
     "Ability2": "",
     "HiddenAbility": "Bulletproof",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Amateur",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "quilladin.png",
     "GoodStarter": false,
     "_id": "quilladin",
-    "HasForm": false,
-    "Learnset": "Quilladin-Learnset",
-    "Abilities": "Overgrow (Bulletproof)",
-    "Type": "Grass",
     "DexCategory": "Spiny Armor Pokemon",
     "Height": {
-        "Deimeters": 7,
         "Meters": 0.7,
         "Feet": 2.3
     },
     "Weight": {
-        "Hectograms": 290,
         "Kilograms": 29.0,
         "Pounds": 63.9
     },
     "DexDescription": "It strengthens its lower body by running into sturdy things. It is a kind Pokemon that relies on its sturdy shell and sharp quills to deflect any foe trying to attack it. They never start a fight.",
-    "Baby": false,
-    "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Chespin",
@@ -56,5 +45,6 @@
             "Kind": "Level",
             "Speed": "Medium"
         }
-    ]
+    ],
+    "Image": "quilladin.png"
 }

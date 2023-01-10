@@ -19,37 +19,27 @@
     "Ability2": "",
     "HiddenAbility": "Gale Wings",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Starter",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "fletchling.png",
     "GoodStarter": true,
     "_id": "fletchling",
-    "HasForm": false,
-    "Learnset": "Fletchling-Learnset",
-    "Abilities": "Big Pecks (Gale Wings)",
-    "Type": "Normal / Flying",
     "DexCategory": "Tiny Robin Pokemon",
     "Height": {
-        "Deimeters": 3,
         "Meters": 0.3,
         "Feet": 1.0
     },
     "Weight": {
-        "Hectograms": 17,
         "Kilograms": 1.7,
         "Pounds": 3.7
     },
     "DexDescription": "These cute Pokemon send signals to one another with beautiful chirps and feather movements. But despite the beauty of its lilting voice it is merciless to intruders that come close to its nest.",
-    "Baby": false,
-    "PrimaryEggGroup": "Flying",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "To": "Fletchinder",
             "Kind": "Level",
             "Speed": "Medium"
         }
-    ]
+    ],
+    "Image": "fletchling.png"
 }

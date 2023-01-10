@@ -19,37 +19,27 @@
     "Ability2": "",
     "HiddenAbility": "",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Ace",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "archeops.png",
     "GoodStarter": false,
     "_id": "archeops",
-    "HasForm": false,
-    "Learnset": "Archeops-Learnset",
-    "Abilities": "Defeatist",
-    "Type": "Rock / Flying",
     "DexCategory": "First Bird Pokemon",
     "Height": {
-        "Deimeters": 14,
         "Meters": 1.4,
         "Feet": 4.6
     },
     "Weight": {
-        "Hectograms": 320,
         "Kilograms": 32.0,
         "Pounds": 70.5
     },
     "DexDescription": "They used to form groups that cooperated to catch prey. From the ground, they used a running start to take flight. It is believed that they got extinct due to their poor tolerance to pain.",
-    "Baby": false,
-    "PrimaryEggGroup": "Flying",
-    "SecondaryEggGroup": "Water 3",
     "Evolutions": [
         {
             "From": "Archen",
             "Kind": "Level",
             "Speed": "Medium"
         }
-    ]
+    ],
+    "Image": "archeops.png"
 }

@@ -19,32 +19,21 @@
     "Ability2": "",
     "HiddenAbility": "Chlorophyll",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Amateur",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "ivysaur.png",
     "GoodStarter": false,
     "_id": "ivysaur",
-    "HasForm": false,
-    "Learnset": "Ivysaur-Learnset",
-    "Abilities": "Overgrow (Chlorophyll)",
-    "Type": "Grass / Poison",
     "DexCategory": "Seed Pokemon",
     "Height": {
-        "Deimeters": 10,
         "Meters": 1.0,
         "Feet": 3.3
     },
     "Weight": {
-        "Hectograms": 130,
         "Kilograms": 13.0,
         "Pounds": 28.7
     },
     "DexDescription": "There is a bud on this Pokemon's back. To support its weight, Ivysaur's legs and trunk grow thick and strong. It becomes kind of a loner after evolving and may stray away from its group to take sunbaths.",
-    "Baby": false,
-    "PrimaryEggGroup": "Monster",
-    "SecondaryEggGroup": "Grass",
     "Evolutions": [
         {
             "From": "Bulbasaur",
@@ -56,5 +45,6 @@
             "Kind": "Level",
             "Speed": "Medium"
         }
-    ]
+    ],
+    "Image": "ivysaur.png"
 }

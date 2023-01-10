@@ -19,32 +19,21 @@
     "Ability2": "",
     "HiddenAbility": "Hustle",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Starter",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "combee.png",
     "GoodStarter": true,
     "_id": "combee",
-    "HasForm": false,
-    "Learnset": "Combee-Learnset",
-    "Abilities": "Honey Gather (Hustle)",
-    "Type": "Bug / Flying",
     "DexCategory": "Tiny Bee Pokemon",
     "Height": {
-        "Deimeters": 3,
         "Meters": 0.3,
         "Feet": 1.0
     },
     "Weight": {
-        "Hectograms": 55,
         "Kilograms": 5.5,
         "Pounds": 12.1
     },
     "DexDescription": "It forms hives around trees. It flies all day sipping the nectar from flowers to make honey. It is usually born a male. If a female is born, it will grow into a Vespiqueen and start its own Hive.",
-    "Baby": false,
-    "PrimaryEggGroup": "Bug",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "To": "Vespiquen",
@@ -52,5 +41,6 @@
             "Speed": "Slow",
             "Gender": "Female"
         }
-    ]
+    ],
+    "Image": "combee.png"
 }

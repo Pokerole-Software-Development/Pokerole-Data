@@ -19,37 +19,27 @@
     "Ability2": "Sand Veil",
     "HiddenAbility": "Poison Heal",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Ace",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "gliscor.png",
     "GoodStarter": false,
     "_id": "gliscor",
-    "HasForm": false,
-    "Learnset": "Gliscor-Learnset",
-    "Abilities": "Hyper Cutter / Sand Veil (Poison Heal)",
-    "Type": "Ground / Flying",
     "DexCategory": "Fang Scorp Pokemon",
     "Height": {
-        "Deimeters": 20,
         "Meters": 2.0,
         "Feet": 6.6
     },
     "Weight": {
-        "Hectograms": 425,
         "Kilograms": 42.5,
         "Pounds": 93.7
     },
     "DexDescription": "Its flight is soundless. It uses its lengthy tail to carry off its prey, then uses its long fangs to do the rest. It is more playful than aggressive but it is dangerous if you get close to the enormous claws.",
-    "Baby": false,
-    "PrimaryEggGroup": "Bug",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Gligar",
             "Kind": "Level",
             "Item": "Razor Fang"
         }
-    ]
+    ],
+    "Image": "gliscor.png"
 }

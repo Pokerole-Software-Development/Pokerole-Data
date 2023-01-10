@@ -19,37 +19,27 @@
     "Ability2": "Guts",
     "HiddenAbility": "Hustle",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Amateur",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "raticate.png",
     "GoodStarter": false,
     "_id": "raticate",
-    "HasForm": false,
-    "Learnset": "Raticate-Learnset",
-    "Abilities": "Run Away / Guts (Hustle)",
-    "Type": "Normal",
     "DexCategory": "Mouse Pokemon",
     "Height": {
-        "Deimeters": 7,
         "Meters": 0.7,
         "Feet": 2.3
     },
     "Weight": {
-        "Hectograms": 185,
         "Kilograms": 18.5,
         "Pounds": 40.8
     },
     "DexDescription": "Raticate's sturdy fangs grow quickly. To keep them ground down, it gnaws on hard materials. It may even chew on the walls of houses. Its has water-proof fur, webbed feet and its a capable swimmer.",
-    "Baby": false,
-    "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Rattata",
             "Kind": "Level",
             "Speed": "Medium"
         }
-    ]
+    ],
+    "Image": "raticate.png"
 }

@@ -19,32 +19,21 @@
     "Ability2": "Competitive",
     "HiddenAbility": "Friend Guard",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Beginner",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "jigglypuff.png",
     "GoodStarter": true,
     "_id": "jigglypuff",
-    "HasForm": false,
-    "Learnset": "Jigglypuff-Learnset",
-    "Abilities": "Cute Charm / Competitive (Friend Guard)",
-    "Type": "Normal / Fairy",
     "DexCategory": "Balloon Pokemon",
     "Height": {
-        "Deimeters": 5,
         "Meters": 0.5,
         "Feet": 1.6
     },
     "Weight": {
-        "Hectograms": 55,
         "Kilograms": 5.5,
         "Pounds": 12.1
     },
     "DexDescription": "They live in grassy fields near the mountains. To climb they inflate their bodies and bounce up. It captivates foes with its huge, round eyes, then lulls them to sleep by singing a sweet soothing melody.",
-    "Baby": false,
-    "PrimaryEggGroup": "Fairy",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Igglybuff",
@@ -57,5 +46,6 @@
             "Kind": "Stone",
             "Item": "Moon Stone"
         }
-    ]
+    ],
+    "Image": "jigglypuff.png"
 }

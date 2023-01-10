@@ -19,32 +19,21 @@
     "Ability2": "Lightning Rod",
     "HiddenAbility": "Rock Head",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Amateur",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "marowak-alola.png",
     "GoodStarter": false,
     "_id": "alolan-marowak",
-    "HasForm": false,
-    "Learnset": "Alolan Marowak-Learnset",
-    "Abilities": "Cursed Body / Lightning Rod (Rock Head)",
-    "Type": "Fire / Ghost",
     "DexCategory": "Bone Keeper Pokemon",
     "Height": {
-        "Deimeters": 10,
         "Meters": 1.0,
         "Feet": 3.3
     },
     "Weight": {
-        "Hectograms": 340,
         "Kilograms": 34.0,
         "Pounds": 75.0
     },
     "DexDescription": "Alola has many predators for an orphaned Cubone, so its mother\u2019s spirit lingered close to protect her baby. This otherworldly influence made Marowak fiercer and changed its type completely.",
-    "Baby": false,
-    "PrimaryEggGroup": "Monster",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Cubone",
@@ -52,5 +41,6 @@
             "Speed": "Slow",
             "Region": "Alola"
         }
-    ]
+    ],
+    "Image": "marowak-alola.png"
 }

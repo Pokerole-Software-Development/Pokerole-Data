@@ -19,37 +19,27 @@
     "Ability2": "Leaf Guard",
     "HiddenAbility": "Regenerator",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Amateur",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "tangela.png",
     "GoodStarter": true,
     "_id": "tangela",
-    "HasForm": false,
-    "Learnset": "Tangela-Learnset",
-    "Abilities": "Chlorophyll / Leaf Guard (Regenerator)",
-    "Type": "Grass",
     "DexCategory": "Vine Pokemon",
     "Height": {
-        "Deimeters": 10,
         "Meters": 1.0,
         "Feet": 3.3
     },
     "Weight": {
-        "Hectograms": 350,
         "Kilograms": 35.0,
         "Pounds": 77.2
     },
     "DexDescription": "It blends with foliage on jungle and forest areas. Its vines snap off easily and painlessly if they are grabbed, allowing it to make a quick getaway. The lost vines are replaced by new growth the very next day.",
-    "Baby": false,
-    "PrimaryEggGroup": "Grass",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "To": "Tangrowth",
             "Kind": "Level",
             "Speed": "Slow"
         }
-    ]
+    ],
+    "Image": "tangela.png"
 }

@@ -19,37 +19,27 @@
     "Ability2": "Poison Heal",
     "HiddenAbility": "Quick Feet",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Beginner",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "shroomish.png",
     "GoodStarter": true,
     "_id": "shroomish",
-    "HasForm": false,
-    "Learnset": "Shroomish-Learnset",
-    "Abilities": "Effect Spore / Poison Heal (Quick Feet)",
-    "Type": "Grass",
     "DexCategory": "Mushroom Pokemon",
     "Height": {
-        "Deimeters": 4,
         "Meters": 0.4,
         "Feet": 1.3
     },
     "Weight": {
-        "Hectograms": 45,
         "Kilograms": 4.5,
         "Pounds": 9.9
     },
     "DexDescription": "They live in damp soil in forests, surrounded by moss. They suddenly release toxic spores that make plants dry up. These spores cause serious pain if inhaled. They grow taller with moisture and heat.",
-    "Baby": false,
-    "PrimaryEggGroup": "Fairy",
-    "SecondaryEggGroup": "Grass",
     "Evolutions": [
         {
             "To": "Breloom",
             "Kind": "Level",
             "Speed": "Medium"
         }
-    ]
+    ],
+    "Image": "shroomish.png"
 }

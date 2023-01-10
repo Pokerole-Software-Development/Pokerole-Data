@@ -19,37 +19,27 @@
     "Ability2": "",
     "HiddenAbility": "Leaf Guard",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Starter",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "chikorita.png",
     "GoodStarter": true,
     "_id": "chikorita",
-    "HasForm": false,
-    "Learnset": "Chikorita-Learnset",
-    "Abilities": "Overgrow (Leaf Guard)",
-    "Type": "Grass",
     "DexCategory": "Leaf Pokemon",
     "Height": {
-        "Deimeters": 9,
         "Meters": 0.9,
         "Feet": 3.0
     },
     "Weight": {
-        "Hectograms": 64,
         "Kilograms": 6.4,
         "Pounds": 14.1
     },
     "DexDescription": "It is docile and loves to bathe in the sunlight. It waves its leaf around to keep foes at bay. The sweet fragrance from its leaf, has a strong calming and relaxing effect on people and Pokemon.",
-    "Baby": false,
-    "PrimaryEggGroup": "Monster",
-    "SecondaryEggGroup": "Grass",
     "Evolutions": [
         {
             "To": "Bayleef",
             "Kind": "Level",
             "Speed": "Medium"
         }
-    ]
+    ],
+    "Image": "chikorita.png"
 }

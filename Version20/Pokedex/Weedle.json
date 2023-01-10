@@ -19,37 +19,27 @@
     "Ability2": "",
     "HiddenAbility": "Run Away",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Starter",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "weedle.png",
     "GoodStarter": true,
     "_id": "weedle",
-    "HasForm": false,
-    "Learnset": "Weedle-Learnset",
-    "Abilities": "Shield Dust (Run Away)",
-    "Type": "Bug / Poison",
     "DexCategory": "Hairy Pokemon",
     "Height": {
-        "Deimeters": 3,
         "Meters": 0.3,
         "Feet": 1.0
     },
     "Weight": {
-        "Hectograms": 32,
         "Kilograms": 3.2,
         "Pounds": 7.1
     },
     "DexDescription": "Often found in forests eating leaves. It has a sharp, venomous stinger on its head for defense. It has an acute sense of smell to find food, and its bright-colored body is intended to warn off predators.",
-    "Baby": false,
-    "PrimaryEggGroup": "Bug",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "To": "Kakuna",
             "Kind": "Level",
             "Speed": "Fast"
         }
-    ]
+    ],
+    "Image": "weedle.png"
 }

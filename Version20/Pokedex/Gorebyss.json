@@ -19,37 +19,27 @@
     "Ability2": "",
     "HiddenAbility": "Hydration",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Amateur",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "gorebyss.png",
     "GoodStarter": false,
     "_id": "gorebyss",
-    "HasForm": false,
-    "Learnset": "Gorebyss-Learnset",
-    "Abilities": "Swift Swim (Hydration)",
-    "Type": "Water",
     "DexCategory": "South Sea Pokemon",
     "Height": {
-        "Deimeters": 18,
         "Meters": 1.8,
         "Feet": 5.9
     },
     "Weight": {
-        "Hectograms": 226,
         "Kilograms": 22.6,
         "Pounds": 49.8
     },
     "DexDescription": "Found in the depths of the southern seas. Their body is built to withstand the sea pressure. While it appears to be beautiful and harmless, it is a cruel and deceitful creature.",
-    "Baby": false,
-    "PrimaryEggGroup": "Water 1",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Clamperl",
             "Kind": "Trade",
             "Item": "Dragon Scale"
         }
-    ]
+    ],
+    "Image": "gorebyss.png"
 }

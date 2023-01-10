@@ -19,37 +19,27 @@
     "Ability2": "Shell Armor",
     "HiddenAbility": "Adaptability",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Amateur",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "crawdaunt.png",
     "GoodStarter": false,
     "_id": "crawdaunt",
-    "HasForm": true,
-    "Learnset": "Crawdaunt-Learnset",
-    "Abilities": "Hyper Cutter / Shell Armor (Adaptability)",
-    "Type": "Water / Dark",
     "DexCategory": "Rogue Pokemon",
     "Height": {
-        "Deimeters": 11,
         "Meters": 1.1,
         "Feet": 3.6
     },
     "Weight": {
-        "Hectograms": 328,
         "Kilograms": 32.8,
         "Pounds": 72.3
     },
     "DexDescription": "Crawdaunt is extremely violent and territorial. The ponds where it lives look like desolated places due to them attacking anything that comes close. It sheds its shell once a year, this weakens it for a few days.",
-    "Baby": false,
-    "PrimaryEggGroup": "Water 1",
-    "SecondaryEggGroup": "Water 3",
     "Evolutions": [
         {
             "From": "Corphish",
             "Kind": "Level",
             "Speed": "Medium"
         }
-    ]
+    ],
+    "Image": "crawdaunt.png"
 }

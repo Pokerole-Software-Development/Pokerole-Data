@@ -19,37 +19,27 @@
     "Ability2": "",
     "HiddenAbility": "Drought",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Amateur",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "ninetales.png",
     "GoodStarter": false,
     "_id": "ninetales",
-    "HasForm": false,
-    "Learnset": "Ninetales-Learnset",
-    "Abilities": "Flash Fire (Drought)",
-    "Type": "Fire",
     "DexCategory": "Fox Pokemon",
     "Height": {
-        "Deimeters": 11,
         "Meters": 1.1,
         "Feet": 3.6
     },
     "Weight": {
-        "Hectograms": 199,
         "Kilograms": 19.9,
         "Pounds": 43.9
     },
     "DexDescription": "It is known to understand human speech. It is very valued for its exuberant golden fur and the mystical power of its nine tails. It is, however, known to hold a grudge against those who mistreat it.",
-    "Baby": false,
-    "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Vulpix",
             "Kind": "Stone",
             "Item": "Fire Stone"
         }
-    ]
+    ],
+    "Image": "ninetales.png"
 }

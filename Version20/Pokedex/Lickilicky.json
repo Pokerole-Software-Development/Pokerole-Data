@@ -19,37 +19,27 @@
     "Ability2": "Oblivious",
     "HiddenAbility": "Cloud Nine",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Ace",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "lickilicky.png",
     "GoodStarter": false,
     "_id": "lickilicky",
-    "HasForm": false,
-    "Learnset": "Lickilicky-Learnset",
-    "Abilities": "Own Tempo / Oblivious (Cloud Nine)",
-    "Type": "Normal",
     "DexCategory": "Licking Pokemon",
     "Height": {
-        "Deimeters": 17,
         "Meters": 1.7,
         "Feet": 5.6
     },
     "Weight": {
-        "Hectograms": 1400,
         "Kilograms": 140.0,
         "Pounds": 308.6
     },
     "DexDescription": "It uses its tongue as an stretchable arm. It will wrap prey with it and then proceed to eat it. Its saliva causes numbness. Try not to touch its tongue, it might try to eat you by reflex.",
-    "Baby": false,
-    "PrimaryEggGroup": "Monster",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Lickitung",
             "Kind": "Level",
             "Speed": "Slow"
         }
-    ]
+    ],
+    "Image": "lickilicky.png"
 }

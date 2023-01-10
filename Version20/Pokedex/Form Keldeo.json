@@ -19,36 +19,26 @@
     "Ability2": "",
     "HiddenAbility": "",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Master",
     "GenderType": "N",
     "Legendary": true,
-    "Sprite": "form-keldeo.png",
     "GoodStarter": false,
     "_id": "form-keldeo",
-    "HasForm": false,
-    "Learnset": "Form Keldeo-Learnset",
-    "Abilities": "Justified",
-    "Type": "Water / Fighting",
     "DexCategory": "No Data",
     "Height": {
-        "Deimeters": 14,
         "Meters": 1.4,
         "Feet": 4.6
     },
     "Weight": {
-        "Hectograms": 485,
         "Kilograms": 48.5,
         "Pounds": 106.9
     },
     "DexDescription": "The old fairy tale ends with the youngest Pokemon rising above evil and injustice due to its resolute and determined desire for justice. The mentorship of the other Pokemon bearing fruits.",
-    "Baby": false,
-    "PrimaryEggGroup": "Undiscovered",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Keldeo",
             "Kind": "Form"
         }
-    ]
+    ],
+    "Image": "form-keldeo.png"
 }

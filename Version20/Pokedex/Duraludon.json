@@ -19,31 +19,21 @@
     "Ability2": "Heavy Metal",
     "HiddenAbility": "Stalwart",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Ace",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "duraludon.png",
     "GoodStarter": false,
     "_id": "duraludon",
-    "HasForm": false,
-    "Learnset": "Duraludon-Learnset",
-    "Abilities": "Light Metal / Heavy Metal (Stalwart)",
-    "Type": "Steel / Dragon",
     "DexCategory": "Alloy Pokemon",
     "Height": {
-        "Deimeters": 18,
         "Meters": 1.8,
         "Feet": 5.9
     },
     "Weight": {
-        "Hectograms": 400,
         "Kilograms": 40.0,
         "Pounds": 88.2
     },
     "DexDescription": "Its body resembles a shiny polished metal and it\u2019s both lightweight and strong. The only drawback is that it rusts easily. It lives on dry climates and deep inside caves because rain and moisture make it cranky.",
-    "Baby": false,
-    "PrimaryEggGroup": "Mineral",
-    "SecondaryEggGroup": "Dragon",
-    "Evolutions": []
+    "Evolutions": [],
+    "Image": "duraludon.png"
 }

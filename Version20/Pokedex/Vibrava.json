@@ -19,32 +19,21 @@
     "Ability2": "",
     "HiddenAbility": "",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Amateur",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "vibrava.png",
     "GoodStarter": false,
     "_id": "vibrava",
-    "HasForm": false,
-    "Learnset": "Vibrava-Learnset",
-    "Abilities": "Levitate",
-    "Type": "Ground / Dragon",
     "DexCategory": "Vibration Pokemon",
     "Height": {
-        "Deimeters": 11,
         "Meters": 1.1,
         "Feet": 3.6
     },
     "Weight": {
-        "Hectograms": 153,
         "Kilograms": 15.3,
         "Pounds": 33.7
     },
     "DexDescription": "This Pokemon\u2019s vibrations can cause severe headaches or even fainting. If their prey faints, they proceed to melt them with acid. Vibrava's wings are still growing, making it a clumsy flier with low endurance.",
-    "Baby": false,
-    "PrimaryEggGroup": "Bug",
-    "SecondaryEggGroup": "Dragon",
     "Evolutions": [
         {
             "From": "Trapinch",
@@ -56,5 +45,6 @@
             "Kind": "Level",
             "Speed": "Slow"
         }
-    ]
+    ],
+    "Image": "vibrava.png"
 }

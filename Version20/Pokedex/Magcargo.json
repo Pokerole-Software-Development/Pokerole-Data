@@ -19,37 +19,27 @@
     "Ability2": "Flame Body",
     "HiddenAbility": "Weak Armor",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Amateur",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "magcargo.png",
     "GoodStarter": false,
     "_id": "magcargo",
-    "HasForm": true,
-    "Learnset": "Magcargo-Learnset",
-    "Abilities": "Magma Armor / Flame Body (Weak Armor)",
-    "Type": "Fire / Rock",
     "DexCategory": "Lava Pokemon",
     "Height": {
-        "Deimeters": 8,
         "Meters": 0.8,
         "Feet": 2.6
     },
     "Weight": {
-        "Hectograms": 550,
         "Kilograms": 55.0,
         "Pounds": 121.3
     },
     "DexDescription": "Their shell is molten body that cooled off and hardened, it may appear solid, but it may burst into flames with a single touch. Water vaporizes on contact and rain turns into a cloud of steam.",
-    "Baby": false,
-    "PrimaryEggGroup": "Amorphous",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Slugma",
             "Kind": "Level",
             "Speed": "Slow"
         }
-    ]
+    ],
+    "Image": "magcargo.png"
 }

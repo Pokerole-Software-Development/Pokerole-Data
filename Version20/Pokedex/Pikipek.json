@@ -19,37 +19,27 @@
     "Ability2": "Skill Link",
     "HiddenAbility": "Pickup",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Starter",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "pikipek.png",
     "GoodStarter": true,
     "_id": "pikipek",
-    "HasForm": false,
-    "Learnset": "Pikipek-Learnset",
-    "Abilities": "Keen Eye / Skill Link (Pickup)",
-    "Type": "Normal / Flying",
     "DexCategory": "Woodpecker Pokemon",
     "Height": {
-        "Deimeters": 3,
         "Meters": 0.3,
         "Feet": 1.0
     },
     "Weight": {
-        "Hectograms": 12,
         "Kilograms": 1.2,
         "Pounds": 2.6
     },
     "DexDescription": "Their beaks are incredibly strong, it takes them a few minutes to shatter rock. They eat berries and shoot the seeds to defend themselves. Pikipek don\u2019t sing, but communicate with pecking sounds.",
-    "Baby": false,
-    "PrimaryEggGroup": "Flying",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "To": "Trumbeak",
             "Kind": "Level",
             "Speed": "Medium"
         }
-    ]
+    ],
+    "Image": "pikipek.png"
 }

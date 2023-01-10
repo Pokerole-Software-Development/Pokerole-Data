@@ -19,32 +19,21 @@
     "Ability2": "",
     "HiddenAbility": "Soundproof",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Ace",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "abomasnow.png",
     "GoodStarter": false,
     "_id": "abomasnow",
-    "HasForm": true,
-    "Learnset": "Abomasnow-Learnset",
-    "Abilities": "Snow Warning (Soundproof)",
-    "Type": "Grass / Ice",
     "DexCategory": "Frosted Tree Pokemon",
     "Height": {
-        "Deimeters": 22,
         "Meters": 2.2,
         "Feet": 7.2
     },
     "Weight": {
-        "Hectograms": 1355,
         "Kilograms": 135.5,
         "Pounds": 298.7
     },
     "DexDescription": "There was a legend for a long time that called this Pokemon \u201cThe Ice Monster\u201d. Now we know it is a Pokemon that can cover everything around with deep snow. It likes quiet places and only attacks if provoked.",
-    "Baby": false,
-    "PrimaryEggGroup": "Monster",
-    "SecondaryEggGroup": "Grass",
     "Evolutions": [
         {
             "From": "Snover",
@@ -56,5 +45,6 @@
             "Kind": "Mega",
             "Item": "Abomasite"
         }
-    ]
+    ],
+    "Image": "abomasnow.png"
 }

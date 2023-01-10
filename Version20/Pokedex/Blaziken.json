@@ -19,32 +19,21 @@
     "Ability2": "",
     "HiddenAbility": "Speed Boost",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Ace",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "blaziken.png",
     "GoodStarter": false,
     "_id": "blaziken",
-    "HasForm": true,
-    "Learnset": "Blaziken-Learnset",
-    "Abilities": "Blaze (Speed Boost)",
-    "Type": "Fire / Fighting",
     "DexCategory": "Blaze Pokemon",
     "Height": {
-        "Deimeters": 19,
         "Meters": 1.9,
         "Feet": 6.2
     },
     "Weight": {
-        "Hectograms": 520,
         "Kilograms": 52.0,
         "Pounds": 114.6
     },
     "DexDescription": "They can jump incredible heights. As they grow older, their feathers combust as new feathers grow back. They are courageous fighters and expert martial artists. Their wrists light in flames when it\u2019s about to attack.",
-    "Baby": false,
-    "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Combusken",
@@ -56,5 +45,6 @@
             "Kind": "Mega",
             "Item": "Blazikenite"
         }
-    ]
+    ],
+    "Image": "blaziken.png"
 }

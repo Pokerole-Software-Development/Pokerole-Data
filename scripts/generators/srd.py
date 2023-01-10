@@ -36,7 +36,7 @@ moves_template = '''### `= this.name`
 
 learnsets_template = '''## `= this.Name` Learnset
 
-**DexID:** `= this.DexID`
+**Pokedex Entry:** `= this.Pokedex`
 
 ```dataview
 TABLE WITHOUT ID
@@ -122,17 +122,15 @@ class SRD(object):
     def _pokedex(self):
         for src in glob(self.pokedex_path+"/*.json"):
             entry = json.loads(open(src).read())
-            sname = entry['Sprite'].split('.')
+            name = entry['Name']
+            sname = entry['Image'].split('.')
             entry['BoxSprite'] = f"SRD-{sname[0]}-BoxSprite.{sname[1]}"
             entry['HomeSprite'] = f"SRD-{sname[0]}-HomeSprite.{sname[1]}"
             entry['BookSprite'] = f"SRD-{sname[0]}-BookSprite.{sname[1]}"
             entry['ShuffleToken'] = f"SRD-{sname[0]}-ShuffleToken.{sname[1]}"
             
-            entry['Unevolved'] = 'Yes' if entry['Unevolved'] else 'No'
-            entry['HasForm'] = 'Yes' if entry['HasForm'] else 'No'
             entry['Legendary'] = 'Yes' if entry['Legendary'] else 'No'
             entry['GoodStarter'] = 'Yes' if entry['GoodStarter'] else 'No'
-            entry['Baby'] = 'Yes' if entry['Baby'] else 'No'
             entry['Learnset'] = f"[[SRD-{entry['Name']}-Learnset]]"
             
             if entry.get('Evolutions'):
@@ -176,8 +174,8 @@ class SRD(object):
 *{entry['DexDescription']}*
 
 **DexID**:: {entry['DexID']}
-**Species**:: {entry['Name']}
-**Type**:: {entry['Type']}
+**Name**:: {name}
+**Type**:: {entry['Type1']}{f' / {entry["Type2"]}' if entry['Type2'] else ''}
 **Abilities**:: {abilities}
 **Base HP**:: {entry['BaseHP']}
 
@@ -194,15 +192,15 @@ class SRD(object):
 **Good Starter**:: {entry['GoodStarter']}
 **Recommended Rank**:: {entry['RecommendedRank']}
 {evostring}
-![[SRD-{entry['Name']}-Learnset]]"""
+![[SRD-{name}-Learnset]]"""
                 
             for x in ['DexID','Strength','MaxStrength','Dexterity','MaxDexterity',
                     'Vitality','MaxVitality','Special','MaxSpecial','Insight','MaxInsight',
-                    'BaseHP', 'RecommendedRank', 'GoodStarter', 'Unevolved', '_id', "Abilities", "Type"]:
+                    'BaseHP', 'RecommendedRank', 'GoodStarter', '_id', 'Name']:
                 del entry[x]
             
             self.entry_output = f"---\n{yaml.dump(entry)}---\n\n#PokeroleSRD/Pokedex\n\n{template}"
-            open(self.pokedex_output+f"SRD-{entry['Name']}.md",'w').write(self.entry_output)
+            open(self.pokedex_output+f"SRD-{name}.md",'w').write(self.entry_output)
     
     def _abilities(self):
         for src in glob(self.abilities_path+"/*.json"):
@@ -223,7 +221,7 @@ class SRD(object):
             entry = json.loads(open(src).read())
             del entry['_id']
             
-            entry['Species'] = f"[[SRD-{entry['Name']}|{entry['Name']}]]"
+            entry['Pokedex'] = f"[[SRD-{entry['Name']}|{entry['Name']}]]"
             moves = []
             for m in entry["Moves"]:
                 if moves and m["Learned"] != moves[-1][0]:

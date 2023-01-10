@@ -19,37 +19,27 @@
     "Ability2": "Flame Body",
     "HiddenAbility": "Weak Armor",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Beginner",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "slugma.png",
     "GoodStarter": false,
     "_id": "slugma",
-    "HasForm": false,
-    "Learnset": "Slugma-Learnset",
-    "Abilities": "Magma Armor / Flame Body (Weak Armor)",
-    "Type": "Fire",
     "DexCategory": "Lava Pokemon",
     "Height": {
-        "Deimeters": 7,
         "Meters": 0.7,
         "Feet": 2.3
     },
     "Weight": {
-        "Hectograms": 350,
         "Kilograms": 35.0,
         "Pounds": 77.2
     },
     "DexDescription": "They are extremely common in volcanic areas where they group together. They are made of molten magma instead of blood and flesh. Slugmas replenish parts of their body by absorbing molted rocks.",
-    "Baby": false,
-    "PrimaryEggGroup": "Amorphous",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "To": "Magcargo",
             "Kind": "Level",
             "Speed": "Slow"
         }
-    ]
+    ],
+    "Image": "slugma.png"
 }

@@ -19,37 +19,27 @@
     "Ability2": "",
     "HiddenAbility": "Vital Spirit",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Ace",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "electivire.png",
     "GoodStarter": false,
     "_id": "electivire",
-    "HasForm": false,
-    "Learnset": "Electivire-Learnset",
-    "Abilities": "Motor Drive (Vital Spirit)",
-    "Type": "Electric",
     "DexCategory": "Thunderbolt Pokemon",
     "Height": {
-        "Deimeters": 18,
         "Meters": 1.8,
         "Feet": 5.9
     },
     "Weight": {
-        "Hectograms": 1386,
         "Kilograms": 138.6,
         "Pounds": 305.6
     },
     "DexDescription": "This Pokemon is reckless and has a short temper. As its electric charge amplifies, blue sparks begin to crackle between its horns. It has registered charge levels of over 20,000 Volts.",
-    "Baby": false,
-    "PrimaryEggGroup": "Human-Like",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Electabuzz",
             "Kind": "Trade",
             "Item": "Electirizer"
         }
-    ]
+    ],
+    "Image": "electivire.png"
 }

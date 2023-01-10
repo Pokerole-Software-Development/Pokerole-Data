@@ -19,37 +19,27 @@
     "Ability2": "Infiltrator",
     "HiddenAbility": "Chlorophyll",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Amateur",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "whimsicott.png",
     "GoodStarter": false,
     "_id": "whimsicott",
-    "HasForm": false,
-    "Learnset": "Whimsicott-Learnset",
-    "Abilities": "Prankster / Infiltrator (Chlorophyll)",
-    "Type": "Grass / Fairy",
     "DexCategory": "Windveiled Pokemon",
     "Height": {
-        "Deimeters": 7,
         "Meters": 0.7,
         "Feet": 2.3
     },
     "Weight": {
-        "Hectograms": 66,
         "Kilograms": 6.6,
         "Pounds": 14.6
     },
     "DexDescription": "Riding whirlwinds, they appear and disappear. These Pokemon sneak through even the smallest gaps into houses and cause all sorts of mischief the balls of white fluff it leaves behind reveal its presence.",
-    "Baby": false,
-    "PrimaryEggGroup": "Fairy",
-    "SecondaryEggGroup": "Grass",
     "Evolutions": [
         {
             "From": "Cottonee",
             "Kind": "Stone",
             "Item": "Sun Stone"
         }
-    ]
+    ],
+    "Image": "whimsicott.png"
 }

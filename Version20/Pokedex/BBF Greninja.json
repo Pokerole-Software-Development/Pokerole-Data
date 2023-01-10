@@ -19,36 +19,26 @@
     "Ability2": "",
     "HiddenAbility": "Protean",
     "EventAbilities": "Battle Bond",
-    "Unevolved": false,
     "RecommendedRank": "Ace",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "form-greninja.png",
     "GoodStarter": false,
     "_id": "bbf-greninja",
-    "HasForm": true,
-    "Learnset": "BBF Greninja-Learnset",
-    "Abilities": "Torrent (Protean) <Battle Bond>",
-    "Type": "Water / Dark",
     "DexCategory": "Ninja Pokemon",
     "Height": {
-        "Deimeters": 15,
         "Meters": 1.5,
         "Feet": 4.9
     },
     "Weight": {
-        "Hectograms": 400,
         "Kilograms": 40.0,
         "Pounds": 88.2
     },
     "DexDescription": "The mysteries of the Pokemon world are vast. There is something called \u201cThe Bond Phenomenon\u201d were a Pokemon and its trainer share a connection so strong that the Pokemon changes due to it.",
-    "Baby": false,
-    "PrimaryEggGroup": "Water 1",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Frogadier",
             "Kind": "Form"
         }
-    ]
+    ],
+    "Image": "form-greninja.png"
 }

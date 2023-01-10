@@ -19,37 +19,27 @@
     "Ability2": "Synchronize",
     "HiddenAbility": "Telepathy",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Amateur",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "musharna.png",
     "GoodStarter": false,
     "_id": "musharna",
-    "HasForm": false,
-    "Learnset": "Musharna-Learnset",
-    "Abilities": "Forewarn / Synchronize (Telepathy)",
-    "Type": "Psychic",
     "DexCategory": "Drowsing Pokemon",
     "Height": {
-        "Deimeters": 11,
         "Meters": 1.1,
         "Feet": 3.6
     },
     "Weight": {
-        "Hectograms": 605,
         "Kilograms": 60.5,
         "Pounds": 133.4
     },
     "DexDescription": "It communicates with the mist on its forehead, it can create shapes and images from dreams it has eaten. It is said that this Pokemon is a link between this world and a another one made entirely of dreams.",
-    "Baby": false,
-    "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Munna",
             "Kind": "Stone",
             "Item": "Moon Stone"
         }
-    ]
+    ],
+    "Image": "musharna.png"
 }

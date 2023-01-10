@@ -115,7 +115,7 @@ class Foundry(object):
                             "_id": f"pokemon-{id}",
                             "name": entry['Name'],
                             "type": "pokemon",
-                            "img": f"systems/pokerole/images/pokemon/{sheet_img}/{entry['Sprite']}",
+                            "img": f"systems/pokerole/images/pokemon/{sheet_img}/{entry['Image']}",
                             "system": {
                                 "hp": {
                                     "value": entry['Vitality']+entry['BaseHP'],
@@ -266,7 +266,7 @@ class Foundry(object):
                                 "displayName": 0,
                                 "actorLink": False,
                                 "texture": {
-                                "src": f"systems/pokerole/images/pokemon/{token_img}/{entry['Sprite']}",
+                                "src": f"systems/pokerole/images/pokemon/{token_img}/{entry['Image']}",
                                 "scaleX": 1,
                                 "scaleY": 1,
                                 "offsetX": 0,

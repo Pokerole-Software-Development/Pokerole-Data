@@ -19,32 +19,21 @@
     "Ability2": "",
     "HiddenAbility": "Overcoat",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Starter",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "burmy.png",
     "GoodStarter": true,
     "_id": "burmy",
-    "HasForm": true,
-    "Learnset": "Burmy-Learnset",
-    "Abilities": "Shed Skin (Overcoat)",
-    "Type": "Bug",
     "DexCategory": "Bagworm Pokemon",
     "Height": {
-        "Deimeters": 2,
         "Meters": 0.2,
         "Feet": 0.7
     },
     "Weight": {
-        "Hectograms": 34,
         "Kilograms": 3.4,
         "Pounds": 7.5
     },
     "DexDescription": "This Pokemon has adapted to live in the forests, deserts and in the city. It makes a cloak with the materials close to it to protect itself from the weather. Males evolve into a Mothim and females into a Wormadam.",
-    "Baby": false,
-    "PrimaryEggGroup": "Bug",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "To": "Grass Wormadam",
@@ -70,5 +59,6 @@
             "Speed": "Fast",
             "Gender": "Male"
         }
-    ]
+    ],
+    "Image": "burmy.png"
 }

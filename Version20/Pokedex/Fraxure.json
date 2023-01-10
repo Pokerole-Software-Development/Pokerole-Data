@@ -19,32 +19,21 @@
     "Ability2": "Mold Breaker",
     "HiddenAbility": "Unnerve",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Ace",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "fraxure.png",
     "GoodStarter": false,
     "_id": "fraxure",
-    "HasForm": false,
-    "Learnset": "Fraxure-Learnset",
-    "Abilities": "Rivalry / Mold Breaker (Unnerve)",
-    "Type": "Dragon",
     "DexCategory": "Axe Jaw Pokemon",
     "Height": {
-        "Deimeters": 10,
         "Meters": 1.0,
         "Feet": 3.3
     },
     "Weight": {
-        "Hectograms": 360,
         "Kilograms": 36.0,
         "Pounds": 79.4
     },
     "DexDescription": "Their tusks can shatter rocks. Territory battles between Fraxure can be intensely violent. The tusks don\u2019t grow back anymore, if you find a Fraxure with both tusks whole, it means it\u2019s one of the strongest.",
-    "Baby": false,
-    "PrimaryEggGroup": "Monster",
-    "SecondaryEggGroup": "Dragon",
     "Evolutions": [
         {
             "From": "Axew",
@@ -56,5 +45,6 @@
             "Kind": "Level",
             "Speed": "Slow"
         }
-    ]
+    ],
+    "Image": "fraxure.png"
 }

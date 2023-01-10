@@ -19,37 +19,27 @@
     "Ability2": "Super Luck",
     "HiddenAbility": "Justified",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Amateur",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "absol.png",
     "GoodStarter": false,
     "_id": "absol",
-    "HasForm": true,
-    "Learnset": "Absol-Learnset",
-    "Abilities": "Pressure / Super Luck (Justified)",
-    "Type": "Dark",
     "DexCategory": "Disaster Pokemon",
     "Height": {
-        "Deimeters": 12,
         "Meters": 1.2,
         "Feet": 3.9
     },
     "Weight": {
-        "Hectograms": 470,
         "Kilograms": 47.0,
         "Pounds": 103.6
     },
     "DexDescription": "It is said that this Pokemon can live for 100 years. It has a bad reputation: Whenever one is seen, a disaster is soon to follow - earthquakes, forest fires and tidal waves. Absols lead a lonely life.",
-    "Baby": false,
-    "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "To": "Mega-Absol",
             "Kind": "Mega",
             "Item": "Absolite"
         }
-    ]
+    ],
+    "Image": "absol.png"
 }

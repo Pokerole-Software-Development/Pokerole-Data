@@ -19,37 +19,27 @@
     "Ability2": "",
     "HiddenAbility": "",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Pro",
     "GenderType": "N",
     "Legendary": false,
-    "Sprite": "melmetal.png",
     "GoodStarter": false,
     "_id": "melmetal",
-    "HasForm": false,
-    "Learnset": "Melmetal-Learnset",
-    "Abilities": "Iron Fist",
-    "Type": "Steel",
     "DexCategory": "Hex Nut Pokemon",
     "Height": {
-        "Deimeters": 25,
         "Meters": 2.5,
         "Feet": 8.2
     },
     "Weight": {
-        "Hectograms": 8000,
         "Kilograms": 800.0,
         "Pounds": 1763.7
     },
     "DexDescription": "There is an ancient myth that a Pokemon once taught a group of humans how to work the iron, melt it and shape it into tools; but it was punished for this and cast away, never to be seen again.",
-    "Baby": false,
-    "PrimaryEggGroup": "Undiscovered",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Meltan",
             "Kind": "Level",
             "Speed": "Unknown"
         }
-    ]
+    ],
+    "Image": "melmetal.png"
 }

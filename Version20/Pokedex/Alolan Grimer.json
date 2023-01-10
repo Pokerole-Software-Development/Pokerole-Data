@@ -19,37 +19,27 @@
     "Ability2": "Gluttony",
     "HiddenAbility": "Power of Alchemy",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Beginner",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "grimer-alola.png",
     "GoodStarter": true,
     "_id": "alolan-grimer",
-    "HasForm": false,
-    "Learnset": "Alolan Grimer-Learnset",
-    "Abilities": "Poison Touch / Gluttony (Power of Alchemy)",
-    "Type": "Poison / Dark",
     "DexCategory": "Sludge Pokemon",
     "Height": {
-        "Deimeters": 7,
         "Meters": 0.7,
         "Feet": 2.3
     },
     "Weight": {
-        "Hectograms": 420,
         "Kilograms": 42.0,
         "Pounds": 92.6
     },
     "DexDescription": "Grimer were brought into Alola to eat garbage on the region. It seemed like a counterintuitive measure but ended up solving the problem. But now Grimer are incredibly noxious, much more toxic than usual.",
-    "Baby": false,
-    "PrimaryEggGroup": "Amorphous",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "To": "Alolan Muk",
             "Kind": "Level",
             "Speed": "Slow"
         }
-    ]
+    ],
+    "Image": "grimer-alola.png"
 }

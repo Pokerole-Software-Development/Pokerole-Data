@@ -19,32 +19,21 @@
     "Ability2": "",
     "HiddenAbility": "Pixilate",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Amateur",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "sylveon.png",
     "GoodStarter": false,
     "_id": "sylveon",
-    "HasForm": false,
-    "Learnset": "Sylveon-Learnset",
-    "Abilities": "Cute Charm (Pixilate)",
-    "Type": "Fairy",
     "DexCategory": "Intertwining Pokemon",
     "Height": {
-        "Deimeters": 10,
         "Meters": 1.0,
         "Feet": 3.3
     },
     "Weight": {
-        "Hectograms": 235,
         "Kilograms": 23.5,
         "Pounds": 51.8
     },
     "DexDescription": "This rare and adorable Pokemon emanates a soothing aura to calm disturbances. It is said that only the Trainers who form an unbreakable bond with their Eevee can ever see this Pokemon.",
-    "Baby": false,
-    "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Eevee",
@@ -52,5 +41,6 @@
             "Stat": "Loyalty",
             "Value": 5
         }
-    ]
+    ],
+    "Image": "sylveon.png"
 }

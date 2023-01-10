@@ -19,36 +19,26 @@
     "Ability2": "",
     "HiddenAbility": "Defiant",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Master",
     "GenderType": "M",
     "Legendary": true,
-    "Sprite": "thundurus.png",
     "GoodStarter": false,
     "_id": "thundurus",
-    "HasForm": true,
-    "Learnset": "Thundurus-Learnset",
-    "Abilities": "Prankster (Defiant)",
-    "Type": "Electric / Flying",
     "DexCategory": "No Data",
     "Height": {
-        "Deimeters": 15,
         "Meters": 1.5,
         "Feet": 4.9
     },
     "Weight": {
-        "Hectograms": 610,
         "Kilograms": 61.0,
         "Pounds": 134.5
     },
     "DexDescription": "There are constant forest fires all through the Unova region. These fires are always the result of a giant thunder storm. Forest rangers tell about a blue demon\u2019s shadow that was inside the storm clouds.",
-    "Baby": false,
-    "PrimaryEggGroup": "Undiscovered",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "To": "Form Thundurus",
             "Kind": "Form"
         }
-    ]
+    ],
+    "Image": "thundurus.png"
 }

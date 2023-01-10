@@ -19,32 +19,21 @@
     "Ability2": "",
     "HiddenAbility": "Libero",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Amateur",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "raboot.png",
     "GoodStarter": false,
     "_id": "raboot",
-    "HasForm": false,
-    "Learnset": "Raboot-Learnset",
-    "Abilities": "Blaze (Libero)",
-    "Type": "Fire",
     "DexCategory": "Rabbit Pokemon",
     "Height": {
-        "Deimeters": 6,
         "Meters": 0.6,
         "Feet": 2.0
     },
     "Weight": {
-        "Hectograms": 90,
         "Kilograms": 9.0,
         "Pounds": 19.8
     },
     "DexDescription": "This Pokemon loves to kick and trains each day to get better at it. Its fur is now very thick, some debate it is to protect it from the cold weather others say it is to produce hotter flames.",
-    "Baby": false,
-    "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": "Human-Like",
     "Evolutions": [
         {
             "From": "Scorbunny",
@@ -56,5 +45,6 @@
             "Kind": "Level",
             "Speed": "Medium"
         }
-    ]
+    ],
+    "Image": "raboot.png"
 }

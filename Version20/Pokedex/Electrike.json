@@ -19,37 +19,27 @@
     "Ability2": "Lightning Rod",
     "HiddenAbility": "Minus",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Beginner",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "electrike.png",
     "GoodStarter": true,
     "_id": "electrike",
-    "HasForm": false,
-    "Learnset": "Electrike-Learnset",
-    "Abilities": "Static / Lightning Rod (Minus)",
-    "Type": "Electric",
     "DexCategory": "Lightning Pokemon",
     "Height": {
-        "Deimeters": 6,
         "Meters": 0.6,
         "Feet": 2.0
     },
     "Weight": {
-        "Hectograms": 152,
         "Kilograms": 15.2,
         "Pounds": 33.5
     },
     "DexDescription": "Their fur stores electricity, leaving a trail of sparks as they run. By stimulating their legs with voltage, Electrike's speed and power is greatly increased. They are not very common, though.",
-    "Baby": false,
-    "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "To": "Manectric",
             "Kind": "Level",
             "Speed": "Medium"
         }
-    ]
+    ],
+    "Image": "electrike.png"
 }

@@ -19,37 +19,27 @@
     "Ability2": "",
     "HiddenAbility": "Contrary",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Ace",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "serperior.png",
     "GoodStarter": false,
     "_id": "serperior",
-    "HasForm": false,
-    "Learnset": "Serperior-Learnset",
-    "Abilities": "Overgrow (Contrary)",
-    "Type": "Grass",
     "DexCategory": "Regal Pokemon",
     "Height": {
-        "Deimeters": 33,
         "Meters": 3.3,
         "Feet": 10.8
     },
     "Weight": {
-        "Hectograms": 630,
         "Kilograms": 63.0,
         "Pounds": 138.9
     },
     "DexDescription": "It stops enemies dead in their tracks with just one intense glare. It is a noble and proud Pokemon. It is not aggressive but it can be very stubborn. It takes a really strong foe for it to take the fight seriously.",
-    "Baby": false,
-    "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": "Grass",
     "Evolutions": [
         {
             "From": "Servine",
             "Kind": "Level",
             "Speed": "Medium"
         }
-    ]
+    ],
+    "Image": "serperior.png"
 }

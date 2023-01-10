@@ -19,32 +19,21 @@
     "Ability2": "Vital Spirit",
     "HiddenAbility": "No Guard",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Amateur",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "lycanroc-midnight.png",
     "GoodStarter": false,
     "_id": "lycanroc-midnight",
-    "HasForm": true,
-    "Learnset": "Lycanroc Midnight-Learnset",
-    "Abilities": "Keen Eye / Vital Spirit (No Guard)",
-    "Type": "Rock",
     "DexCategory": "Wolf Pokemon",
     "Height": {
-        "Deimeters": 11,
         "Meters": 1.1,
         "Feet": 3.6
     },
     "Weight": {
-        "Hectograms": 250,
         "Kilograms": 25.0,
         "Pounds": 55.1
     },
     "DexDescription": "A poorly-behaved Rockruff will evolve at midnight. This Pokemon is savage and has no regard for its own safety. It taunts and provokes foes a lot stronger just to get its own blood boiling.",
-    "Baby": false,
-    "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Rockruff",
@@ -52,5 +41,6 @@
             "Speed": "Medium",
             "Special": "Night"
         }
-    ]
+    ],
+    "Image": "lycanroc-midnight.png"
 }

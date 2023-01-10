@@ -19,37 +19,27 @@
     "Ability2": "",
     "HiddenAbility": "",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Pro",
     "GenderType": "N",
     "Legendary": true,
-    "Sprite": "naganadel.png",
     "GoodStarter": false,
     "_id": "naganadel",
-    "HasForm": false,
-    "Learnset": "Naganadel-Learnset",
-    "Abilities": "Beast Boost",
-    "Type": "Poison / Dragon",
     "DexCategory": "Aether Foundation Log #164",
     "Height": {
-        "Deimeters": 36,
         "Meters": 3.6,
         "Feet": 11.8
     },
     "Weight": {
-        "Hectograms": 1500,
         "Kilograms": 150.0,
         "Pounds": 330.7
     },
     "DexDescription": "One specimen of UB- Adhesive has apparently evolved. Its friendly demeanor is gone. The large streams of corrosive poison it shot seriously damaged our equipment, I must take a sample to study it",
-    "Baby": false,
-    "PrimaryEggGroup": "Undiscovered",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Poipole",
             "Kind": "Level",
             "Move": "Dragon Pulse"
         }
-    ]
+    ],
+    "Image": "naganadel.png"
 }

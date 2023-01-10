@@ -19,37 +19,27 @@
     "Ability2": "",
     "HiddenAbility": "",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Pro",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "aerodactyl-mega.png",
     "GoodStarter": false,
     "_id": "mega-aerodactyl",
-    "HasForm": false,
-    "Learnset": "Mega-Aerodactyl-Learnset",
-    "Abilities": "Tough Claws",
-    "Type": "Rock / Flying",
     "DexCategory": "Fossil Pokemon",
     "Height": {
-        "Deimeters": 21,
         "Meters": 2.1,
         "Feet": 6.9
     },
     "Weight": {
-        "Hectograms": 790,
         "Kilograms": 79.0,
         "Pounds": 174.2
     },
     "DexDescription": "With the power of the Mega Stone it restores the original appearance it had millions of years ago with its body covered in sharp rocks. It is very aggressive and will attack anything that moves.",
-    "Baby": false,
-    "PrimaryEggGroup": "Flying",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Aerodactyl",
             "Kind": "Mega",
             "Item": "Aerodactylite"
         }
-    ]
+    ],
+    "Image": "aerodactyl-mega.png"
 }

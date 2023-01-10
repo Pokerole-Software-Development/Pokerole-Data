@@ -19,37 +19,27 @@
     "Ability2": "Moxie",
     "HiddenAbility": "Anger Point",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Beginner",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "sandile.png",
     "GoodStarter": true,
     "_id": "sandile",
-    "HasForm": false,
-    "Learnset": "Sandile-Learnset",
-    "Abilities": "Intimidate / Moxie (Anger Point)",
-    "Type": "Ground / Dark",
     "DexCategory": "Desert Croc Pokemon",
     "Height": {
-        "Deimeters": 7,
         "Meters": 0.7,
         "Feet": 2.3
     },
     "Weight": {
-        "Hectograms": 152,
         "Kilograms": 15.2,
         "Pounds": 33.5
     },
     "DexDescription": "They live hidden under the desert sands with only their eyes and nostrils visible. They don\u2019t prey on anything bigger than themselves but can be troublesome if they are being leaded by one of it\u2019s evolved forms.",
-    "Baby": false,
-    "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "To": "Krokorok",
             "Kind": "Level",
             "Speed": "Medium"
         }
-    ]
+    ],
+    "Image": "sandile.png"
 }

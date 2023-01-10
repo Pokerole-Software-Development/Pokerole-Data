@@ -19,37 +19,27 @@
     "Ability2": "Unnerve",
     "HiddenAbility": "Swarm",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Amateur",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "galvantula.png",
     "GoodStarter": false,
     "_id": "galvantula",
-    "HasForm": false,
-    "Learnset": "Galvantula-Learnset",
-    "Abilities": "Compound Eyes / Unnerve (Swarm)",
-    "Type": "Bug / Electric",
     "DexCategory": "EleSpider Pokemon",
     "Height": {
-        "Deimeters": 8,
         "Meters": 0.8,
         "Feet": 2.6
     },
     "Weight": {
-        "Hectograms": 143,
         "Kilograms": 14.3,
         "Pounds": 31.5
     },
     "DexDescription": "They employ an electrically charged web to trap their prey. While it is immobilized by shock, they leisurely consume it. They usually live alone but there have been cases of large swarms living together in caves.",
-    "Baby": false,
-    "PrimaryEggGroup": "Bug",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Joltik",
             "Kind": "Level",
             "Speed": "Medium"
         }
-    ]
+    ],
+    "Image": "galvantula.png"
 }

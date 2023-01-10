@@ -19,37 +19,27 @@
     "Ability2": "Intimidate",
     "HiddenAbility": "Guts",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Beginner",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "shinx.png",
     "GoodStarter": true,
     "_id": "shinx",
-    "HasForm": false,
-    "Learnset": "Shinx-Learnset",
-    "Abilities": "Rivalry / Intimidate (Guts)",
-    "Type": "Electric",
     "DexCategory": "Flash Pokemon",
     "Height": {
-        "Deimeters": 5,
         "Meters": 0.5,
         "Feet": 1.6
     },
     "Weight": {
-        "Hectograms": 95,
         "Kilograms": 9.5,
         "Pounds": 20.9
     },
     "DexDescription": "Its body transforms the energy of its own muscles into electricity. When in danger, their whole fur shines in a flash to blind the foes. They live with their parents and siblings in small prides.",
-    "Baby": false,
-    "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "To": "Luxio",
             "Kind": "Level",
             "Speed": "Medium"
         }
-    ]
+    ],
+    "Image": "shinx.png"
 }

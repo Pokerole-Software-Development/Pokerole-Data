@@ -19,32 +19,21 @@
     "Ability2": "Zen Mode",
     "HiddenAbility": "",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Amateur",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "darmanitan-galar.png",
     "GoodStarter": false,
     "_id": "galarian-darmanitan",
-    "HasForm": true,
-    "Learnset": "Galarian Darmanitan-Learnset",
-    "Abilities": "Gorilla Tactics / Zen Mode",
-    "Type": "Ice",
     "DexCategory": "Zen Charm Pokemon",
     "Height": {
-        "Deimeters": 17,
         "Meters": 1.7,
         "Feet": 5.6
     },
     "Weight": {
-        "Hectograms": 1200,
         "Kilograms": 120.0,
         "Pounds": 264.6
     },
     "DexDescription": "The Galarian form of Darmanitan. They walk into towns during the blizzards to steal food. Darmanitans seem mean, but they are gentle and shy.",
-    "Baby": false,
-    "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Galarian Darumaka",
@@ -55,5 +44,6 @@
             "To": "Galarian Zen Darmanitan",
             "Kind": "Form"
         }
-    ]
+    ],
+    "Image": "darmanitan-galar.png"
 }

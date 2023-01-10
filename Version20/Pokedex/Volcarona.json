@@ -19,37 +19,27 @@
     "Ability2": "",
     "HiddenAbility": "Swarm",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Ace",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "volcarona.png",
     "GoodStarter": false,
     "_id": "volcarona",
-    "HasForm": false,
-    "Learnset": "Volcarona-Learnset",
-    "Abilities": "Flame Body (Swarm)",
-    "Type": "Bug / Fire",
     "DexCategory": "Sun Pokemon",
     "Height": {
-        "Deimeters": 16,
         "Meters": 1.6,
         "Feet": 5.2
     },
     "Weight": {
-        "Hectograms": 460,
         "Kilograms": 46.0,
         "Pounds": 101.4
     },
     "DexDescription": "A sea of fire engulfs the surroundings of its battles, since it uses six wings to scatter blazing scales. There are stories of how its fire saved villages during winter and how it shone like the sun over the mountains.",
-    "Baby": false,
-    "PrimaryEggGroup": "Bug",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Larvesta",
             "Kind": "Level",
             "Speed": "Medium"
         }
-    ]
+    ],
+    "Image": "volcarona.png"
 }

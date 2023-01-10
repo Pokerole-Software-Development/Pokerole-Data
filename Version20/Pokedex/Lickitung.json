@@ -19,37 +19,27 @@
     "Ability2": "Oblivious",
     "HiddenAbility": "Cloud Nine",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Amateur",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "lickitung.png",
     "GoodStarter": true,
     "_id": "lickitung",
-    "HasForm": false,
-    "Learnset": "Lickitung-Learnset",
-    "Abilities": "Own Tempo / Oblivious (Cloud Nine)",
-    "Type": "Normal",
     "DexCategory": "Licking Pokemon",
     "Height": {
-        "Deimeters": 12,
         "Meters": 1.2,
         "Feet": 3.9
     },
     "Weight": {
-        "Hectograms": 655,
         "Kilograms": 65.5,
         "Pounds": 144.4
     },
     "DexDescription": "Its tongue is twice as long as its body and it is used for everything, from capturing prey to feeling it\u2019s surroundings and cleaning itself. It really dislikes sour and bitter flavors.",
-    "Baby": false,
-    "PrimaryEggGroup": "Monster",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "To": "Lickilicky",
             "Kind": "Level",
             "Speed": "Slow"
         }
-    ]
+    ],
+    "Image": "lickitung.png"
 }

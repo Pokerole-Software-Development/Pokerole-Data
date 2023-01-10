@@ -19,37 +19,27 @@
     "Ability2": "Screen Cleaner",
     "HiddenAbility": "Ice Body",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Amateur",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "mr-rime.png",
     "GoodStarter": false,
     "_id": "mr.-rime",
-    "HasForm": false,
-    "Learnset": "Mr. Rime-Learnset",
-    "Abilities": "Tangled Feet / Screen Cleaner (Ice Body)",
-    "Type": "Ice / Psychic",
     "DexCategory": "Comedian Pokemon",
     "Height": {
-        "Deimeters": 15,
         "Meters": 1.5,
         "Feet": 4.9
     },
     "Weight": {
-        "Hectograms": 582,
         "Kilograms": 58.2,
         "Pounds": 128.3
     },
     "DexDescription": "It\u2019s highly skilled at tap-dancing. It waves its cane of ice in time, its amusing movements make it very popular and they love to entertain children. It releases all of its psychic power from the pattern on its belly.",
-    "Baby": false,
-    "PrimaryEggGroup": "Human-Like",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Galarian Mr. Mime",
             "Kind": "Level",
             "Speed": "Medium"
         }
-    ]
+    ],
+    "Image": "mr-rime.png"
 }

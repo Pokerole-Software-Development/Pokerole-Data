@@ -19,32 +19,21 @@
     "Ability2": "",
     "HiddenAbility": "Plus",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Amateur",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "flaaffy.png",
     "GoodStarter": false,
     "_id": "flaaffy",
-    "HasForm": false,
-    "Learnset": "Flaaffy-Learnset",
-    "Abilities": "Static (Plus)",
-    "Type": "Electric",
     "DexCategory": "Wool Pokemon",
     "Height": {
-        "Deimeters": 8,
         "Meters": 0.8,
         "Feet": 2.6
     },
     "Weight": {
-        "Hectograms": 133,
         "Kilograms": 13.3,
         "Pounds": 29.3
     },
     "DexDescription": "Its wool quality changes so that it can generate a higher amount of static electricity with a smaller amount of wool. The bare and slick parts of its hide are shielded with small electric impulses.",
-    "Baby": false,
-    "PrimaryEggGroup": "Monster",
-    "SecondaryEggGroup": "Field",
     "Evolutions": [
         {
             "From": "Mareep",
@@ -56,5 +45,6 @@
             "Kind": "Level",
             "Speed": "Medium"
         }
-    ]
+    ],
+    "Image": "flaaffy.png"
 }

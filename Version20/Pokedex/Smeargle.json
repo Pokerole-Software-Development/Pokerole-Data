@@ -19,31 +19,21 @@
     "Ability2": "Technician",
     "HiddenAbility": "Moody",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Amateur",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "smeargle.png",
     "GoodStarter": false,
     "_id": "smeargle",
-    "HasForm": false,
-    "Learnset": "Smeargle-Learnset",
-    "Abilities": "Own Tempo / Technician (Moody)",
-    "Type": "Normal",
     "DexCategory": "Painter Pokemon",
     "Height": {
-        "Deimeters": 12,
         "Meters": 1.2,
         "Feet": 3.9
     },
     "Weight": {
-        "Hectograms": 580,
         "Kilograms": 58.0,
         "Pounds": 127.9
     },
     "DexDescription": "A special ink oozes from its tail to mark its territory. They are skilled artists, known for painting action scenes from great battles. If they study their painting for a long time, they learn those moves.",
-    "Baby": false,
-    "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": "",
-    "Evolutions": []
+    "Evolutions": [],
+    "Image": "smeargle.png"
 }

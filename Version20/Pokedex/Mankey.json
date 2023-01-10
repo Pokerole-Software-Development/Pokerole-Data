@@ -19,37 +19,27 @@
     "Ability2": "Anger Point",
     "HiddenAbility": "Defiant",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Beginner",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "mankey.png",
     "GoodStarter": true,
     "_id": "mankey",
-    "HasForm": false,
-    "Learnset": "Mankey-Learnset",
-    "Abilities": "Vital Spirit / Anger Point (Defiant)",
-    "Type": "Fighting",
     "DexCategory": "Pig Monkey Pokemon",
     "Height": {
-        "Deimeters": 5,
         "Meters": 0.5,
         "Feet": 1.6
     },
     "Weight": {
-        "Hectograms": 280,
         "Kilograms": 28.0,
         "Pounds": 61.7
     },
     "DexDescription": "It lives on the mountains or at the top of fruit trees. Light and agile on its feet and ferocious in temperament. When it gets angry, it goes into a frenzy and cannot be controlled.",
-    "Baby": false,
-    "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "To": "Primeape",
             "Kind": "Level",
             "Speed": "Slow"
         }
-    ]
+    ],
+    "Image": "mankey.png"
 }

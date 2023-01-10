@@ -19,37 +19,27 @@
     "Ability2": "",
     "HiddenAbility": "Sand Veil",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Beginner",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "phanpy.png",
     "GoodStarter": true,
     "_id": "phanpy",
-    "HasForm": false,
-    "Learnset": "Phanpy-Learnset",
-    "Abilities": "Pickup (Sand Veil)",
-    "Type": "Ground",
     "DexCategory": "Long Nose Pokemon",
     "Height": {
-        "Deimeters": 5,
         "Meters": 0.5,
         "Feet": 1.6
     },
     "Weight": {
-        "Hectograms": 335,
         "Kilograms": 33.5,
         "Pounds": 73.9
     },
     "DexDescription": "They are affectionate and playful, but their snout is so strong that they may hurt others while playing. They dig pits at the edge of rivers and mark them so everyone knows that place is taken.",
-    "Baby": false,
-    "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "To": "Donphan",
             "Kind": "Level",
             "Speed": "Medium"
         }
-    ]
+    ],
+    "Image": "phanpy.png"
 }

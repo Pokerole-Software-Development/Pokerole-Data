@@ -19,37 +19,27 @@
     "Ability2": "",
     "HiddenAbility": "",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Ace",
     "GenderType": "F",
     "Legendary": false,
-    "Sprite": "kangaskhan-mega.png",
     "GoodStarter": false,
     "_id": "mega-kangaskhan",
-    "HasForm": false,
-    "Learnset": "Mega-Kangaskhan-Learnset",
-    "Abilities": "Parental Bond",
-    "Type": "Normal",
     "DexCategory": "Parent Pokemon",
     "Height": {
-        "Deimeters": 22,
         "Meters": 2.2,
         "Feet": 7.2
     },
     "Weight": {
-        "Hectograms": 1000,
         "Kilograms": 100.0,
         "Pounds": 220.5
     },
     "DexDescription": "The mother gives all the power of the Mega Stone to her child. The child grows violent and both team up as formidable fighters. But the mother worries about her child\u2019s future as she raised it better than that.",
-    "Baby": false,
-    "PrimaryEggGroup": "Monster",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Kangaskhan",
             "Kind": "Mega",
             "Item": "Kangaskhanite"
         }
-    ]
+    ],
+    "Image": "kangaskhan-mega.png"
 }

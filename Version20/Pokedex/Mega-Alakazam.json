@@ -19,37 +19,27 @@
     "Ability2": "",
     "HiddenAbility": "",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Pro",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "alakazam-mega.png",
     "GoodStarter": false,
     "_id": "mega-alakazam",
-    "HasForm": false,
-    "Learnset": "Mega-Alakazam-Learnset",
-    "Abilities": "Trace",
-    "Type": "Psychic",
     "DexCategory": "Psi Pokemon",
     "Height": {
-        "Deimeters": 12,
         "Meters": 1.2,
         "Feet": 3.9
     },
     "Weight": {
-        "Hectograms": 480,
         "Kilograms": 48.0,
         "Pounds": 105.8
     },
     "DexDescription": "With the power of the Mega Stone it is constantly plagued with visions of the future which make it great at evading attacks. Its body is feeble and it moves purely through psychic energy.",
-    "Baby": false,
-    "PrimaryEggGroup": "Human-Like",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Alakazam",
             "Kind": "Mega",
             "Item": "Alakazite"
         }
-    ]
+    ],
+    "Image": "alakazam-mega.png"
 }

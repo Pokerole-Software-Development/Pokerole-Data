@@ -19,37 +19,27 @@
     "Ability2": "",
     "HiddenAbility": "Contrary",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Beginner",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "snivy.png",
     "GoodStarter": true,
     "_id": "snivy",
-    "HasForm": false,
-    "Learnset": "Snivy-Learnset",
-    "Abilities": "Overgrow (Contrary)",
-    "Type": "Grass",
     "DexCategory": "Grass Snake Pokemon",
     "Height": {
-        "Deimeters": 6,
         "Meters": 0.6,
         "Feet": 2.0
     },
     "Weight": {
-        "Hectograms": 81,
         "Kilograms": 8.1,
         "Pounds": 17.9
     },
     "DexDescription": "It is very intelligent and independent, although it seems calm it doesn\u2019t like being bossed around. Being exposed to lots of sunlight makes its movements swifter. The tail drops if it is not feeling well.",
-    "Baby": false,
-    "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": "Grass",
     "Evolutions": [
         {
             "To": "Servine",
             "Kind": "Level",
             "Speed": "Medium"
         }
-    ]
+    ],
+    "Image": "snivy.png"
 }

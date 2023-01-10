@@ -19,37 +19,27 @@
     "Ability2": "",
     "HiddenAbility": "Contrary",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Starter",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "fomantis.png",
     "GoodStarter": true,
     "_id": "fomantis",
-    "HasForm": false,
-    "Learnset": "Fomantis-Learnset",
-    "Abilities": "Leaf Guard (Contrary)",
-    "Type": "Grass",
     "DexCategory": "Sickle Grass Pokemon",
     "Height": {
-        "Deimeters": 3,
         "Meters": 0.3,
         "Feet": 1.0
     },
     "Weight": {
-        "Hectograms": 15,
         "Kilograms": 1.5,
         "Pounds": 3.3
     },
     "DexDescription": "They sleep during the day, absorbing sunlight in a flower meadow; by night they become active and search for another spot to sleep. Their arms are made or sharp grass leaves to defend themselves.",
-    "Baby": false,
-    "PrimaryEggGroup": "Grass",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "To": "Lurantis",
             "Kind": "Level",
             "Speed": "Medium"
         }
-    ]
+    ],
+    "Image": "fomantis.png"
 }

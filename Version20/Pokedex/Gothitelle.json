@@ -19,37 +19,27 @@
     "Ability2": "Competitive",
     "HiddenAbility": "Shadow Tag",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Ace",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "gothitelle.png",
     "GoodStarter": false,
     "_id": "gothitelle",
-    "HasForm": true,
-    "Learnset": "Gothitelle-Learnset",
-    "Abilities": "Frisk / Competitive (Shadow Tag)",
-    "Type": "Psychic",
     "DexCategory": "Astral Body Pokemon",
     "Height": {
-        "Deimeters": 15,
         "Meters": 1.5,
         "Feet": 4.9
     },
     "Weight": {
-        "Hectograms": 440,
         "Kilograms": 44.0,
         "Pounds": 97.0
     },
     "DexDescription": "They can predict the future from the placement and movement of the stars. They get restless if someone they know will be in danger. They are emphatic creatures that can understand human emotion.",
-    "Baby": false,
-    "PrimaryEggGroup": "Human-Like",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Gothorita",
             "Kind": "Level",
             "Speed": "Medium"
         }
-    ]
+    ],
+    "Image": "gothitelle.png"
 }

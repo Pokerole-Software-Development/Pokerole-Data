@@ -19,37 +19,27 @@
     "Ability2": "Sticky Hold",
     "HiddenAbility": "Poison Touch",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Beginner",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "grimer.png",
     "GoodStarter": true,
     "_id": "grimer",
-    "HasForm": false,
-    "Learnset": "Grimer-Learnset",
-    "Abilities": "Stench / Sticky Hold (Poison Touch)",
-    "Type": "Poison",
     "DexCategory": "Sludge Pokemon",
     "Height": {
-        "Deimeters": 9,
         "Meters": 0.9,
         "Feet": 3.0
     },
     "Weight": {
-        "Hectograms": 300,
         "Kilograms": 30.0,
         "Pounds": 66.1
     },
     "DexDescription": "It was born from polluted sludge in the sea. Grimer's favorite food is anything filthy like waste water pumped out from factories. Grime and sludge stick to their body making them grow larger over time.",
-    "Baby": false,
-    "PrimaryEggGroup": "Amorphous",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "To": "Muk",
             "Kind": "Level",
             "Speed": "Slow"
         }
-    ]
+    ],
+    "Image": "grimer.png"
 }

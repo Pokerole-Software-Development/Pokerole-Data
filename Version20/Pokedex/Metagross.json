@@ -19,32 +19,21 @@
     "Ability2": "",
     "HiddenAbility": "Light Metal",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Pro",
     "GenderType": "N",
     "Legendary": false,
-    "Sprite": "metagross.png",
     "GoodStarter": false,
     "_id": "metagross",
-    "HasForm": true,
-    "Learnset": "Metagross-Learnset",
-    "Abilities": "Clear Body (Light Metal)",
-    "Type": "Steel / Psychic",
     "DexCategory": "Iron Leg Pokemon",
     "Height": {
-        "Deimeters": 16,
         "Meters": 1.6,
         "Feet": 5.2
     },
     "Weight": {
-        "Hectograms": 5500,
         "Kilograms": 550.0,
         "Pounds": 1212.5
     },
     "DexDescription": "It has four powerful brains that allow it to react at the speed of a super computer. It pins its prey under its massive body, then eats it using the large mouth on its stomach. A powerful and ruthless Pokemon.",
-    "Baby": false,
-    "PrimaryEggGroup": "Mineral",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Metang",
@@ -56,5 +45,6 @@
             "Kind": "Mega",
             "Item": "Metagrossite"
         }
-    ]
+    ],
+    "Image": "metagross.png"
 }

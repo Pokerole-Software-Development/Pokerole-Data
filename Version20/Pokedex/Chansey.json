@@ -19,32 +19,21 @@
     "Ability2": "Serene Grace",
     "HiddenAbility": "Healer",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Beginner",
     "GenderType": "F",
     "Legendary": false,
-    "Sprite": "chansey.png",
     "GoodStarter": true,
     "_id": "chansey",
-    "HasForm": false,
-    "Learnset": "Chansey-Learnset",
-    "Abilities": "Natural Cure / Serene Grace (Healer)",
-    "Type": "Normal",
     "DexCategory": "Egg Pokemon",
     "Height": {
-        "Deimeters": 11,
         "Meters": 1.1,
         "Feet": 3.6
     },
     "Weight": {
-        "Hectograms": 346,
         "Kilograms": 34.6,
         "Pounds": 76.3
     },
     "DexDescription": "There are only females in this species. Chansey lays a nutritive egg every day. These eggs are fed to the sick to give them strength. It is a loving and smart Pokemon, but it\u2019s pretty rare and elusive in the wild.",
-    "Baby": false,
-    "PrimaryEggGroup": "Fairy",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Happiny",
@@ -57,5 +46,6 @@
             "Stat": "Happiness",
             "Value": 5
         }
-    ]
+    ],
+    "Image": "chansey.png"
 }

@@ -19,37 +19,27 @@
     "Ability2": "",
     "HiddenAbility": "",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Master",
     "GenderType": "N",
     "Legendary": true,
-    "Sprite": "rayquaza.png",
     "GoodStarter": false,
     "_id": "rayquaza",
-    "HasForm": true,
-    "Learnset": "Rayquaza-Learnset",
-    "Abilities": "Air Lock",
-    "Type": "Dragon / Flying",
     "DexCategory": "No Data",
     "Height": {
-        "Deimeters": 70,
         "Meters": 7.0,
         "Feet": 23.0
     },
     "Weight": {
-        "Hectograms": 2065,
         "Kilograms": 206.5,
         "Pounds": 455.3
     },
     "DexDescription": "The legend tells how Rayquaza lived in the outer layer of this world. It came to end the quarrel between Groudon and Kyogre, granted the world with blue skies and then left.",
-    "Baby": false,
-    "PrimaryEggGroup": "Undiscovered",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "To": "Mega-Rayquaza",
             "Kind": "Mega",
             "Item": "Pokeball"
         }
-    ]
+    ],
+    "Image": "rayquaza.png"
 }

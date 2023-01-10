@@ -19,37 +19,27 @@
     "Ability2": "Quick Feet",
     "HiddenAbility": "Honey Gather",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Beginner",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "teddiursa.png",
     "GoodStarter": false,
     "_id": "teddiursa",
-    "HasForm": false,
-    "Learnset": "Teddiursa-Learnset",
-    "Abilities": "Pickup / Quick Feet (Honey Gather)",
-    "Type": "Normal",
     "DexCategory": "Little Bear Pokemon",
     "Height": {
-        "Deimeters": 6,
         "Meters": 0.6,
         "Feet": 2.0
     },
     "Weight": {
-        "Hectograms": 88,
         "Kilograms": 8.8,
         "Pounds": 19.4
     },
     "DexDescription": "If they find honey, their crescent moon mark glows. They hoard food for winter and concoct their own honey by mixing fruits and pollen collected by Beedrills. They live in forests with their mothers.",
-    "Baby": false,
-    "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "To": "Ursaring",
             "Kind": "Level",
             "Speed": "Slow"
         }
-    ]
+    ],
+    "Image": "teddiursa.png"
 }

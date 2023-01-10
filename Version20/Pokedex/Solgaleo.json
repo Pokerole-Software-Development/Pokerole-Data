@@ -19,37 +19,27 @@
     "Ability2": "",
     "HiddenAbility": "",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Master",
     "GenderType": "N",
     "Legendary": true,
-    "Sprite": "solgaleo.png",
     "GoodStarter": false,
     "_id": "solgaleo",
-    "HasForm": false,
-    "Learnset": "Solgaleo-Learnset",
-    "Abilities": "Full Metal Body",
-    "Type": "Psychic / Steel",
     "DexCategory": "No Data",
     "Height": {
-        "Deimeters": 34,
         "Meters": 3.4,
         "Feet": 11.2
     },
     "Weight": {
-        "Hectograms": 2300,
         "Kilograms": 230.0,
         "Pounds": 507.1
     },
     "DexDescription": "There are legends about a being that radiated with the sun, on its forehead a third eye that connected to another dimension.",
-    "Baby": false,
-    "PrimaryEggGroup": "Undiscovered",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Cosmoem",
             "Kind": "Level",
             "Game": "Sword"
         }
-    ]
+    ],
+    "Image": "solgaleo.png"
 }

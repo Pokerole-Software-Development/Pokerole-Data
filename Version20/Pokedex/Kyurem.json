@@ -19,32 +19,21 @@
     "Ability2": "",
     "HiddenAbility": "",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Master",
     "GenderType": "N",
     "Legendary": true,
-    "Sprite": "kyurem.png",
     "GoodStarter": false,
     "_id": "kyurem",
-    "HasForm": false,
-    "Learnset": "Kyurem-Learnset",
-    "Abilities": "Pressure",
-    "Type": "Dragon / Ice",
     "DexCategory": "No Data",
     "Height": {
-        "Deimeters": 30,
         "Meters": 3.0,
         "Feet": 9.8
     },
     "Weight": {
-        "Hectograms": 3250,
         "Kilograms": 325.0,
         "Pounds": 716.5
     },
     "DexDescription": "Inside a remote and frozen cave there are some old paintings. They depict a giant dragon being thorn apart into a black and white shards Of the rest of the picture only shattered fragments of ice remain.",
-    "Baby": false,
-    "PrimaryEggGroup": "Undiscovered",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "To": "Black Kyurem",
@@ -54,5 +43,6 @@
             "To": "White Kyurem",
             "Kind": "Form"
         }
-    ]
+    ],
+    "Image": "kyurem.png"
 }

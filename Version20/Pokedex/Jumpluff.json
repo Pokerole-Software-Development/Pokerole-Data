@@ -19,37 +19,27 @@
     "Ability2": "Leaf Guard",
     "HiddenAbility": "Infiltrator",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Amateur",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "jumpluff.png",
     "GoodStarter": false,
     "_id": "jumpluff",
-    "HasForm": false,
-    "Learnset": "Jumpluff-Learnset",
-    "Abilities": "Chlorophyll / Leaf Guard (Infiltrator)",
-    "Type": "Grass / Flying",
     "DexCategory": "Cottonweed Pokemon",
     "Height": {
-        "Deimeters": 8,
         "Meters": 0.8,
         "Feet": 2.6
     },
     "Weight": {
-        "Hectograms": 30,
         "Kilograms": 3.0,
         "Pounds": 6.6
     },
     "DexDescription": "It flies along the wind and spreads its cotton-like spores all over the world to make more offspring. It is always looking for warm places, if it gets caught by a cold front, it will land to find shelter.",
-    "Baby": false,
-    "PrimaryEggGroup": "Fairy",
-    "SecondaryEggGroup": "Grass",
     "Evolutions": [
         {
             "From": "Skiploom",
             "Kind": "Level",
             "Speed": "Medium"
         }
-    ]
+    ],
+    "Image": "jumpluff.png"
 }

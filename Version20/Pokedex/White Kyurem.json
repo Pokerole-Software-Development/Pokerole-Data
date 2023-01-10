@@ -19,36 +19,26 @@
     "Ability2": "",
     "HiddenAbility": "",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Master",
     "GenderType": "N",
     "Legendary": true,
-    "Sprite": "kyurem-white.png",
     "GoodStarter": false,
     "_id": "white-kyurem",
-    "HasForm": false,
-    "Learnset": "White Kyurem-Learnset",
-    "Abilities": "Pressure",
-    "Type": "Dragon / Ice",
     "DexCategory": "No Data",
     "Height": {
-        "Deimeters": 36,
         "Meters": 3.6,
         "Feet": 11.8
     },
     "Weight": {
-        "Hectograms": 3250,
         "Kilograms": 325.0,
         "Pounds": 716.5
     },
     "DexDescription": "In the Icy mountains at the west of Unova, you can hear the wails of a creature suffering as if it missed a part of its very soul. Explosions and blue fires are sure to follow.",
-    "Baby": false,
-    "PrimaryEggGroup": "Undiscovered",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Kyurem",
             "Kind": "Form"
         }
-    ]
+    ],
+    "Image": "kyurem-white.png"
 }

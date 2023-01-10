@@ -19,32 +19,21 @@
     "Ability2": "Anticipation",
     "HiddenAbility": "Magic Bounce",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Amateur",
     "GenderType": "F",
     "Legendary": false,
-    "Sprite": "hattrem.png",
     "GoodStarter": false,
     "_id": "hattrem",
-    "HasForm": false,
-    "Learnset": "Hattrem-Learnset",
-    "Abilities": "Healer / Anticipation (Magic Bounce)",
-    "Type": "Psychic",
     "DexCategory": "Serene Pokemon",
     "Height": {
-        "Deimeters": 6,
         "Meters": 0.6,
         "Feet": 2.0
     },
     "Weight": {
-        "Hectograms": 48,
         "Kilograms": 4.8,
         "Pounds": 10.6
     },
     "DexDescription": "It may seem friendly but it is actually quite the loner. No matter who you are, if you bring strong emotions near it, it will silence you violently by hitting you with its braids. It dislikes crowded places.",
-    "Baby": false,
-    "PrimaryEggGroup": "Fairy",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Hatenna",
@@ -56,5 +45,6 @@
             "Kind": "Level",
             "Speed": "Medium"
         }
-    ]
+    ],
+    "Image": "hattrem.png"
 }

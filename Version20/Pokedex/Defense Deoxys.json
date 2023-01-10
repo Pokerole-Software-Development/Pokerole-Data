@@ -19,36 +19,26 @@
     "Ability2": "",
     "HiddenAbility": "",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Master",
     "GenderType": "N",
     "Legendary": true,
-    "Sprite": "deoxys-defense.png",
     "GoodStarter": false,
     "_id": "defense-deoxys",
-    "HasForm": true,
-    "Learnset": "Defense Deoxys-Learnset",
-    "Abilities": "Pressure",
-    "Type": "Psychic",
     "DexCategory": "No Data",
     "Height": {
-        "Deimeters": 17,
         "Meters": 1.7,
         "Feet": 5.6
     },
     "Weight": {
-        "Hectograms": 608,
         "Kilograms": 60.8,
         "Pounds": 134.0
     },
     "DexDescription": "One member of the space crew mentioned a broad creature that could reflect their weapon\u2019s attacks back at them. There was an explosion and the creature left, unscathed.",
-    "Baby": false,
-    "PrimaryEggGroup": "Undiscovered",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Deoxys",
             "Kind": "Form"
         }
-    ]
+    ],
+    "Image": "deoxys-defense.png"
 }

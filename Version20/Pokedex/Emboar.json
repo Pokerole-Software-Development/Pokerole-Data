@@ -19,37 +19,27 @@
     "Ability2": "",
     "HiddenAbility": "Reckless",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Ace",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "emboar.png",
     "GoodStarter": false,
     "_id": "emboar",
-    "HasForm": false,
-    "Learnset": "Emboar-Learnset",
-    "Abilities": "Blaze (Reckless)",
-    "Type": "Fire / Fighting",
     "DexCategory": "Mega Fire Pig Pokemon",
     "Height": {
-        "Deimeters": 16,
         "Meters": 1.6,
         "Feet": 5.2
     },
     "Weight": {
-        "Hectograms": 1500,
         "Kilograms": 150.0,
         "Pounds": 330.7
     },
     "DexDescription": "Although it has a scary exterior, it is a very gentle Pokemon that cares deeply for family and friends. It can burst its punches and beard on fire, it also shows proficiency on martial arts like Judo.",
-    "Baby": false,
-    "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Pignite",
             "Kind": "Level",
             "Speed": "Medium"
         }
-    ]
+    ],
+    "Image": "emboar.png"
 }

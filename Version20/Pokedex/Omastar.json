@@ -19,37 +19,27 @@
     "Ability2": "Shell Armor",
     "HiddenAbility": "Weak Armor",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Ace",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "omastar.png",
     "GoodStarter": false,
     "_id": "omastar",
-    "HasForm": false,
-    "Learnset": "Omastar-Learnset",
-    "Abilities": "Swift Swim / Shell Armor (Weak Armor)",
-    "Type": "Rock / Water",
     "DexCategory": "Spiral Pokemon",
     "Height": {
-        "Deimeters": 10,
         "Meters": 1.0,
         "Feet": 3.3
     },
     "Weight": {
-        "Hectograms": 350,
         "Kilograms": 35.0,
         "Pounds": 77.2
     },
     "DexDescription": "An Omastar used its tentacles to ensnare and capture its prey. It is believed to have become extinct because the shell grew too large, making it slow and ponderous. It is not found in the wild anymore.",
-    "Baby": false,
-    "PrimaryEggGroup": "Water 1",
-    "SecondaryEggGroup": "Water 3",
     "Evolutions": [
         {
             "From": "Omanyte",
             "Kind": "Level",
             "Speed": "Slow"
         }
-    ]
+    ],
+    "Image": "omastar.png"
 }

@@ -19,37 +19,27 @@
     "Ability2": "",
     "HiddenAbility": "Iron Fist",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Ace",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "infernape.png",
     "GoodStarter": false,
     "_id": "infernape",
-    "HasForm": false,
-    "Learnset": "Infernape-Learnset",
-    "Abilities": "Blaze (Iron Fist)",
-    "Type": "Fire / Fighting",
     "DexCategory": "Flame Pokemon",
     "Height": {
-        "Deimeters": 12,
         "Meters": 1.2,
         "Feet": 3.9
     },
     "Weight": {
-        "Hectograms": 550,
         "Kilograms": 55.0,
         "Pounds": 121.3
     },
     "DexDescription": "Its fire crown showcases its proud and fiery nature. Infernape won\u2019t hesitate to fight bigger foes and will take on any challenge they face. Once Infernape enters a battle, it won\u2019t back down until it wins.",
-    "Baby": false,
-    "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": "Human-Like",
     "Evolutions": [
         {
             "From": "Monferno",
             "Kind": "Level",
             "Speed": "Medium"
         }
-    ]
+    ],
+    "Image": "infernape.png"
 }

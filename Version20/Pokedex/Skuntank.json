@@ -19,37 +19,27 @@
     "Ability2": "Aftermath",
     "HiddenAbility": "Keen Eye",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Amateur",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "skuntank.png",
     "GoodStarter": false,
     "_id": "skuntank",
-    "HasForm": false,
-    "Learnset": "Skuntank-Learnset",
-    "Abilities": "Stench / Aftermath (Keen Eye)",
-    "Type": "Poison / Dark",
     "DexCategory": "Skunk Pokemon",
     "Height": {
-        "Deimeters": 10,
         "Meters": 1.0,
         "Feet": 3.3
     },
     "Weight": {
-        "Hectograms": 380,
         "Kilograms": 38.0,
         "Pounds": 83.8
     },
     "DexDescription": "It sprays a reeking fluid from its tail. The fluid smells worse the longer it is allowed to fester. It is vulnerable to attacks that come from above due to its exuberant tail. When it\u2019s relaxed it doesn\u2019t smell bad.",
-    "Baby": false,
-    "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Stunky",
             "Kind": "Level",
             "Speed": "Medium"
         }
-    ]
+    ],
+    "Image": "skuntank.png"
 }

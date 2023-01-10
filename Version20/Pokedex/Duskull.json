@@ -19,37 +19,27 @@
     "Ability2": "",
     "HiddenAbility": "Frisk",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Beginner",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "duskull.png",
     "GoodStarter": true,
     "_id": "duskull",
-    "HasForm": false,
-    "Learnset": "Duskull-Learnset",
-    "Abilities": "Levitate (Frisk)",
-    "Type": "Ghost",
     "DexCategory": "Requiem Pokemon",
     "Height": {
-        "Deimeters": 8,
         "Meters": 0.8,
         "Feet": 2.6
     },
     "Weight": {
-        "Hectograms": 150,
         "Kilograms": 15.0,
         "Pounds": 33.1
     },
     "DexDescription": "They wander at night. They can make themselves invisible and they follow travelers all night until dawn breaks. It loves the crying of little children, they can be seen scaring kids who misbehaved during the day.",
-    "Baby": false,
-    "PrimaryEggGroup": "Amorphous",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "To": "Dusclops",
             "Kind": "Level",
             "Speed": "Medium"
         }
-    ]
+    ],
+    "Image": "duskull.png"
 }

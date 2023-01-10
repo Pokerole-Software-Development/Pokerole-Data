@@ -19,37 +19,27 @@
     "Ability2": "",
     "HiddenAbility": "Grass Pelt",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Amateur",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "gogoat.png",
     "GoodStarter": false,
     "_id": "gogoat",
-    "HasForm": false,
-    "Learnset": "Gogoat-Learnset",
-    "Abilities": "Sap Sipper (Grass Pelt)",
-    "Type": "Grass",
     "DexCategory": "Mount Pokemon",
     "Height": {
-        "Deimeters": 17,
         "Meters": 1.7,
         "Feet": 5.6
     },
     "Weight": {
-        "Hectograms": 910,
         "Kilograms": 91.0,
         "Pounds": 200.6
     },
     "DexDescription": "In the wild, they inhabit mountain regions with the leader of the herd decided by a battle of clashing horns. People rely on Gogoat to get them through harsh terrains as it always knows where you want to go.",
-    "Baby": false,
-    "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Skiddo",
             "Kind": "Level",
             "Speed": "Medium"
         }
-    ]
+    ],
+    "Image": "gogoat.png"
 }

@@ -19,37 +19,27 @@
     "Ability2": "",
     "HiddenAbility": "Vital Spirit",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Beginner",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "magby.png",
     "GoodStarter": true,
     "_id": "magby",
-    "HasForm": false,
-    "Learnset": "Magby-Learnset",
-    "Abilities": "Flame Body (Vital Spirit)",
-    "Type": "Fire",
     "DexCategory": "Live Coal Pokemon",
     "Height": {
-        "Deimeters": 7,
         "Meters": 0.7,
         "Feet": 2.3
     },
     "Weight": {
-        "Hectograms": 214,
         "Kilograms": 21.4,
         "Pounds": 47.2
     },
     "DexDescription": "They inhale and exhale embers from their mouth and nostrils. Their body temperature is so hot, they may ignite anything they touch and the floor they walk. Magby can be found in volcanoes.",
-    "Baby": true,
-    "PrimaryEggGroup": "Undiscovered",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "To": "Magmar",
             "Kind": "Level",
             "Speed": "Medium"
         }
-    ]
+    ],
+    "Image": "magby.png"
 }

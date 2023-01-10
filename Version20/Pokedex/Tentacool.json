@@ -19,37 +19,27 @@
     "Ability2": "Liquid Ooze",
     "HiddenAbility": "Rain Dish",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Beginner",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "tentacool.png",
     "GoodStarter": true,
     "_id": "tentacool",
-    "HasForm": false,
-    "Learnset": "Tentacool-Learnset",
-    "Abilities": "Clear Body / Liquid Ooze (Rain Dish)",
-    "Type": "Water / Poison",
     "DexCategory": "Jellyfish Pokemon",
     "Height": {
-        "Deimeters": 9,
         "Meters": 0.9,
         "Feet": 3.0
     },
     "Weight": {
-        "Hectograms": 455,
         "Kilograms": 45.5,
         "Pounds": 100.3
     },
     "DexDescription": "It lives in the seas all around the world. They release a toxic ink if startled. It is a surprisingly intelligent Pokemon and can use its tentacles to briefly establish a link between its mind and another creature.",
-    "Baby": false,
-    "PrimaryEggGroup": "Water 3",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "To": "Tentacruel",
             "Kind": "Level",
             "Speed": "Slow"
         }
-    ]
+    ],
+    "Image": "tentacool.png"
 }

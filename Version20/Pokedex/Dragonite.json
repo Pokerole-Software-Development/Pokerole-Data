@@ -19,37 +19,27 @@
     "Ability2": "",
     "HiddenAbility": "Multiscale",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Master",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "dragonite.png",
     "GoodStarter": false,
     "_id": "dragonite",
-    "HasForm": false,
-    "Learnset": "Dragonite-Learnset",
-    "Abilities": "Inner Focus (Multiscale)",
-    "Type": "Dragon / Flying",
     "DexCategory": "Dragon Pokemon",
     "Height": {
-        "Deimeters": 22,
         "Meters": 2.2,
         "Feet": 7.2
     },
     "Weight": {
-        "Hectograms": 2100,
         "Kilograms": 210.0,
         "Pounds": 463.0
     },
     "DexDescription": "Very few people have ever seen this Pokemon. Its intelligence matches that of humans. There are records of a Pokemon with a similar description that helped rescue a ship full of people during a hurricane.",
-    "Baby": false,
-    "PrimaryEggGroup": "Water 1",
-    "SecondaryEggGroup": "Dragon",
     "Evolutions": [
         {
             "From": "Dragonair",
             "Kind": "Level",
             "Speed": "Slow"
         }
-    ]
+    ],
+    "Image": "dragonite.png"
 }

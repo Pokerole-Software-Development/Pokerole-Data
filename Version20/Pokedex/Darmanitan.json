@@ -19,32 +19,21 @@
     "Ability2": "",
     "HiddenAbility": "Zen Mode",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Amateur",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "darmanitan.png",
     "GoodStarter": false,
     "_id": "darmanitan",
-    "HasForm": true,
-    "Learnset": "Darmanitan-Learnset",
-    "Abilities": "Sheer Force (Zen Mode)",
-    "Type": "Fire",
     "DexCategory": "Blazing Pokemon",
     "Height": {
-        "Deimeters": 13,
         "Meters": 1.3,
         "Feet": 4.3
     },
     "Weight": {
-        "Hectograms": 929,
         "Kilograms": 92.9,
         "Pounds": 204.8
     },
     "DexDescription": "This Pokemon is shrouded in mystery as old writings and mural paintings describe it as being blue and using psychic powers, but years of study have not seen those traits on this Pokemon that relies on brute force.",
-    "Baby": false,
-    "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Darumaka",
@@ -55,5 +44,6 @@
             "To": "Zen Darmanitan",
             "Kind": "Form"
         }
-    ]
+    ],
+    "Image": "darmanitan.png"
 }

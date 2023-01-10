@@ -19,32 +19,21 @@
     "Ability2": "",
     "HiddenAbility": "Rough Skin",
     "EventAbilities": "",
-    "Unevolved": false,
     "RecommendedRank": "Pro",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "garchomp.png",
     "GoodStarter": false,
     "_id": "garchomp",
-    "HasForm": true,
-    "Learnset": "Garchomp-Learnset",
-    "Abilities": "Sand Veil (Rough Skin)",
-    "Type": "Dragon / Ground",
     "DexCategory": "Mach Pokemon",
     "Height": {
-        "Deimeters": 19,
         "Meters": 1.9,
         "Feet": 6.2
     },
     "Weight": {
-        "Hectograms": 950,
         "Kilograms": 95.0,
         "Pounds": 209.4
     },
     "DexDescription": "Garchomps are scarce in the wild and very dangerous. It folds its arms and uses its fins to fly extremely fast at low heights. Territorial and aggressive it will not rest until it catches any daring trespasser.",
-    "Baby": false,
-    "PrimaryEggGroup": "Monster",
-    "SecondaryEggGroup": "Dragon",
     "Evolutions": [
         {
             "From": "Gabite",
@@ -56,5 +45,6 @@
             "Kind": "Mega",
             "Item": "Garchompite"
         }
-    ]
+    ],
+    "Image": "garchomp.png"
 }

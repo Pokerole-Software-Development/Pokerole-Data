@@ -19,32 +19,21 @@
     "Ability2": "",
     "HiddenAbility": "Shell Armor",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Amateur",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "dewott.png",
     "GoodStarter": false,
     "_id": "dewott",
-    "HasForm": false,
-    "Learnset": "Dewott-Learnset",
-    "Abilities": "Torrent (Shell Armor)",
-    "Type": "Water",
     "DexCategory": "Discipline Pokemon",
     "Height": {
-        "Deimeters": 8,
         "Meters": 0.8,
         "Feet": 2.6
     },
     "Weight": {
-        "Hectograms": 245,
         "Kilograms": 24.5,
         "Pounds": 54.0
     },
     "DexDescription": "It isolates itself from others and trains every day to perform a double scalchop slash technique. This Pokemon takes itself very seriously and won\u2019t back down from any challenge.",
-    "Baby": false,
-    "PrimaryEggGroup": "Field",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Oshawott",
@@ -56,5 +45,6 @@
             "Kind": "Level",
             "Speed": "Medium"
         }
-    ]
+    ],
+    "Image": "dewott.png"
 }

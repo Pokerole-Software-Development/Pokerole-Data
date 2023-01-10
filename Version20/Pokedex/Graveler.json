@@ -19,32 +19,21 @@
     "Ability2": "Sturdy",
     "HiddenAbility": "Sand Veil",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Amateur",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "graveler.png",
     "GoodStarter": false,
     "_id": "graveler",
-    "HasForm": false,
-    "Learnset": "Graveler-Learnset",
-    "Abilities": "Rock Head / Sturdy (Sand Veil)",
-    "Type": "Rock / Ground",
     "DexCategory": "Rock Pokemon",
     "Height": {
-        "Deimeters": 10,
         "Meters": 1.0,
         "Feet": 3.3
     },
     "Weight": {
-        "Hectograms": 1050,
         "Kilograms": 105.0,
         "Pounds": 231.5
     },
     "DexDescription": "It walks slowly, but it can get a nice speed by rolling downhill. It is good at climbing. Groups of them have been seen clinging from rock formations and cliffs to eat the tasty rocks covered in moss.",
-    "Baby": false,
-    "PrimaryEggGroup": "Mineral",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Geodude",
@@ -55,5 +44,6 @@
             "To": "Golem",
             "Kind": "Trade"
         }
-    ]
+    ],
+    "Image": "graveler.png"
 }

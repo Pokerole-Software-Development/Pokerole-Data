@@ -19,32 +19,21 @@
     "Ability2": "Soundproof",
     "HiddenAbility": "Overcoat",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Amateur",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "hakamo-o.png",
     "GoodStarter": false,
     "_id": "hakamo-o",
-    "HasForm": false,
-    "Learnset": "Hakamo-o-Learnset",
-    "Abilities": "Bulletproof / Soundproof (Overcoat)",
-    "Type": "Dragon / Fighting",
     "DexCategory": "Scaly Pokemon",
     "Height": {
-        "Deimeters": 12,
         "Meters": 1.2,
         "Feet": 3.9
     },
     "Weight": {
-        "Hectograms": 470,
         "Kilograms": 47.0,
         "Pounds": 103.6
     },
     "DexDescription": "The scales on its body are shed and regrow sharper each time. It is a courageous and diligent Pokemon who always lets out a war cry before the battle. Any marks on its scale armor is worn with pride.",
-    "Baby": false,
-    "PrimaryEggGroup": "Dragon",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Jangmo-o",
@@ -56,5 +45,6 @@
             "Kind": "Level",
             "Speed": "Slow"
         }
-    ]
+    ],
+    "Image": "hakamo-o.png"
 }

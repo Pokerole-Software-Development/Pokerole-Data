@@ -19,32 +19,21 @@
     "Ability2": "",
     "HiddenAbility": "Gale Wings",
     "EventAbilities": "",
-    "Unevolved": true,
     "RecommendedRank": "Beginner",
     "GenderType": "",
     "Legendary": false,
-    "Sprite": "fletchinder.png",
     "GoodStarter": false,
     "_id": "fletchinder",
-    "HasForm": false,
-    "Learnset": "Fletchinder-Learnset",
-    "Abilities": "Flame Body (Gale Wings)",
-    "Type": "Fire / Flying",
     "DexCategory": "Ember Pokemon",
     "Height": {
-        "Deimeters": 7,
         "Meters": 0.7,
         "Feet": 2.3
     },
     "Weight": {
-        "Hectograms": 160,
         "Kilograms": 16.0,
         "Pounds": 35.3
     },
     "DexDescription": "From its beak, it expels embers to set tall grass on fire, then it pounces on the bewildered prey that pop out of the grass. Its body becomes engulfed in flames when it starts to battle. It is a fierce Pokemon.",
-    "Baby": false,
-    "PrimaryEggGroup": "Flying",
-    "SecondaryEggGroup": "",
     "Evolutions": [
         {
             "From": "Fletchling",
@@ -56,5 +45,6 @@
             "Kind": "Level",
             "Speed": "Medium"
         }
-    ]
+    ],
+    "Image": "fletchinder.png"
 }
