@@ -1,0 +1,45 @@
+{
+    "Number": 380,
+    "DexID": "0380M1",
+    "Name": "Latias (Mega Form)",
+    "Type1": "Dragon",
+    "Type2": "Psychic",
+    "BaseHP": 5,
+    "Strength": 6,
+    "MaxStrength": 6,
+    "Dexterity": 6,
+    "MaxDexterity": 6,
+    "Vitality": 7,
+    "MaxVitality": 7,
+    "Special": 7,
+    "MaxSpecial": 7,
+    "Insight": 8,
+    "MaxInsight": 8,
+    "Ability1": "Levitate",
+    "Ability2": "",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Master",
+    "GenderType": "F",
+    "Legendary": true,
+    "GoodStarter": false,
+    "_id": "latias-mega-form",
+    "DexCategory": "No Data",
+    "Height": {
+        "Meters": 1.8,
+        "Feet": 5.9
+    },
+    "Weight": {
+        "Kilograms": 52.0,
+        "Pounds": 114.6
+    },
+    "DexDescription": "Latias is very in sync with human emotions, it can communicate using telepathy. With the power of the Mega Stone all of its capabilities are enhanced although its personality becomes more distant than usual.",
+    "Evolutions": [
+        {
+            "From": "Latias",
+            "Kind": "Mega",
+            "Item": "Latiasite"
+        }
+    ],
+    "Image": "latias-mega-form.png"
+}

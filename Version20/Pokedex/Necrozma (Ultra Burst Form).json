@@ -1,0 +1,44 @@
+{
+    "Number": 800,
+    "DexID": "0800F3",
+    "Name": "Necrozma (Ultra Burst Form)",
+    "Type1": "Psychic",
+    "Type2": "Dragon",
+    "BaseHP": 5,
+    "Strength": 8,
+    "MaxStrength": 8,
+    "Dexterity": 7,
+    "MaxDexterity": 7,
+    "Vitality": 6,
+    "MaxVitality": 6,
+    "Special": 8,
+    "MaxSpecial": 8,
+    "Insight": 6,
+    "MaxInsight": 6,
+    "Ability1": "Neuroforce",
+    "Ability2": "",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Master",
+    "GenderType": "N",
+    "Legendary": true,
+    "GoodStarter": false,
+    "_id": "necrozma-ultra-burst-form",
+    "DexCategory": "Aether Foundation S.O.S Message",
+    "Height": {
+        "Meters": 7.5,
+        "Feet": 24.6
+    },
+    "Weight": {
+        "Kilograms": 230.0,
+        "Pounds": 507.1
+    },
+    "DexDescription": "Alert to national authorities we had a serious breach of security! This is an emergency! Close the port- (White Noise).",
+    "Evolutions": [
+        {
+            "From": "Necrozma",
+            "Kind": "Special"
+        }
+    ],
+    "Image": "necrozma-ultra-burst-form.png"
+}

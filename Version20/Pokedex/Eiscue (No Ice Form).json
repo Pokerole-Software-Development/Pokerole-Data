@@ -1,0 +1,44 @@
+{
+    "Number": 875,
+    "DexID": "0875F1",
+    "Name": "Eiscue (No Ice Form)",
+    "Type1": "Ice",
+    "Type2": "",
+    "BaseHP": 4,
+    "Strength": 2,
+    "MaxStrength": 5,
+    "Dexterity": 3,
+    "MaxDexterity": 7,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Ice Face",
+    "Ability2": "",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Amateur",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "eiscue-no-ice-form",
+    "DexCategory": "Penguin Pokemon",
+    "Height": {
+        "Meters": 1.4,
+        "Feet": 4.6
+    },
+    "Weight": {
+        "Kilograms": 89.0,
+        "Pounds": 196.2
+    },
+    "DexDescription": "Eiscue \u201cNo-Ice\u201d Form is actually its true Form. Without the ice to protect it you can see its worried expression, it\u2019s actually quite endearing. It can now move faster but you can see it feels anxious.",
+    "Evolutions": [
+        {
+            "From": "Eiscue",
+            "Kind": "Form"
+        }
+    ],
+    "Image": "eiscue-no-ice-form.png"
+}

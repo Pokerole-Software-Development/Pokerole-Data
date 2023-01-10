@@ -1,0 +1,45 @@
+{
+    "Number": 58,
+    "DexID": "0058H",
+    "Name": "Growlithe (Hisuian Form)",
+    "Type1": "Fire",
+    "Type2": "Rock",
+    "BaseHP": 3,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Intimidate",
+    "Ability2": "Justified",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Beginner",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "growlithe-hisuian-form",
+    "DexCategory": "Puppy Pokemon",
+    "Height": {
+        "Meters": 0.8,
+        "Feet": 2.7
+    },
+    "Weight": {
+        "Kilograms": 25,
+        "Pounds": 50
+    },
+    "DexDescription": "There are records of it's existence on old Hisuian territories, but all that remains today are old stone statues of fierce and vigilant pokemon. It was said to live in pairs, deep inside the mountains and away from humans.",
+    "Evolutions": [
+        {
+            "To": "Arcanine (Hisuian Form)",
+            "Kind": "Stone",
+            "Item": "Fire Stone"
+        }
+    ],
+    "Image": "growlithe-hisuian-form.png"
+}

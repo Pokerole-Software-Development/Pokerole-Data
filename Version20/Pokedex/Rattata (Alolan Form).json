@@ -1,0 +1,45 @@
+{
+    "Number": 19,
+    "DexID": "0019A",
+    "Name": "Rattata (Alolan Form)",
+    "Type1": "Dark",
+    "Type2": "Normal",
+    "BaseHP": 3,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 2,
+    "MaxDexterity": 5,
+    "Vitality": 1,
+    "MaxVitality": 3,
+    "Special": 1,
+    "MaxSpecial": 3,
+    "Insight": 1,
+    "MaxInsight": 3,
+    "Ability1": "Gluttony",
+    "Ability2": "Hustle",
+    "HiddenAbility": "Thick Fat",
+    "EventAbilities": "",
+    "RecommendedRank": "Starter",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "rattata-alolan-form",
+    "DexCategory": "Mouse Pokemon",
+    "Height": {
+        "Meters": 0.3,
+        "Feet": 1.0
+    },
+    "Weight": {
+        "Kilograms": 3.8,
+        "Pounds": 8.4
+    },
+    "DexDescription": "Rattata first came to Alola through cargo ships, it thrived and almost destroyed the region\u2019s ecosystem. Attempts to exterminate this Pokemon made it more vicious than its regular counterpart.",
+    "Evolutions": [
+        {
+            "To": "Raticate (Alolan Form)",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "rattata-alolan-form.png"
+}

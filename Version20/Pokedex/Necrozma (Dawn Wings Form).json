@@ -1,0 +1,44 @@
+{
+    "Number": 800,
+    "DexID": "0800F2",
+    "Name": "Necrozma (Dawn Wings Form)",
+    "Type1": "Psychic",
+    "Type2": "Ghost",
+    "BaseHP": 4,
+    "Strength": 6,
+    "MaxStrength": 6,
+    "Dexterity": 5,
+    "MaxDexterity": 5,
+    "Vitality": 6,
+    "MaxVitality": 6,
+    "Special": 8,
+    "MaxSpecial": 8,
+    "Insight": 7,
+    "MaxInsight": 7,
+    "Ability1": "Prism Armor",
+    "Ability2": "",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Master",
+    "GenderType": "N",
+    "Legendary": true,
+    "GoodStarter": false,
+    "_id": "necrozma-dawn-wings-form",
+    "DexCategory": "Aether Foundation Log #182",
+    "Height": {
+        "Meters": 4.2,
+        "Feet": 13.8
+    },
+    "Weight": {
+        "Kilograms": 350.0,
+        "Pounds": 771.6
+    },
+    "DexDescription": "The shadowy creature is in pain, and it hungers for any light it can find. I wonder how would it fare on the other side, back in our world. Would the moonlight ease its spirit or release a terrible monster?",
+    "Evolutions": [
+        {
+            "From": "Necrozma",
+            "Kind": "Special"
+        }
+    ],
+    "Image": "necrozma-dawn-wings-form.png"
+}

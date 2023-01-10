@@ -1,0 +1,44 @@
+{
+    "Number": 648,
+    "DexID": "0648F1",
+    "Name": "Meloetta (Pirouette Form)",
+    "Type1": "Normal",
+    "Type2": "Fighting",
+    "BaseHP": 5,
+    "Strength": 7,
+    "MaxStrength": 7,
+    "Dexterity": 7,
+    "MaxDexterity": 7,
+    "Vitality": 5,
+    "MaxVitality": 5,
+    "Special": 5,
+    "MaxSpecial": 5,
+    "Insight": 5,
+    "MaxInsight": 5,
+    "Ability1": "Serene Grace",
+    "Ability2": "",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Master",
+    "GenderType": "N",
+    "Legendary": true,
+    "GoodStarter": false,
+    "_id": "meloetta-pirouette-form",
+    "DexCategory": "No Data",
+    "Height": {
+        "Meters": 0.6,
+        "Feet": 2.0
+    },
+    "Weight": {
+        "Kilograms": 6.5,
+        "Pounds": 14.3
+    },
+    "DexDescription": "There are old songs about a beautiful Pokemon that inspired the hearts of artists through its graceful dance and singing.",
+    "Evolutions": [
+        {
+            "From": "Meloetta",
+            "Kind": "Form"
+        }
+    ],
+    "Image": "meloetta-pirouette-form.png"
+}

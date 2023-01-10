@@ -1,0 +1,45 @@
+{
+    "Number": 254,
+    "DexID": "0254M1",
+    "Name": "Sceptile (Mega Form)",
+    "Type1": "Grass",
+    "Type2": "Dragon",
+    "BaseHP": 6,
+    "Strength": 3,
+    "MaxStrength": 6,
+    "Dexterity": 4,
+    "MaxDexterity": 8,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 4,
+    "MaxSpecial": 8,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Lightning Rod",
+    "Ability2": "",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Pro",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "sceptile-mega-form",
+    "DexCategory": "Forest Pokemon",
+    "Height": {
+        "Meters": 1.9,
+        "Feet": 6.2
+    },
+    "Weight": {
+        "Kilograms": 55.2,
+        "Pounds": 121.7
+    },
+    "DexDescription": "With the power of the Mega Stone, it allows itself to grow more feral in order to gain draconian powers. Its movements are swifter than ever and when it attacks it seems like the jungle has come to life.",
+    "Evolutions": [
+        {
+            "From": "Sceptile",
+            "Kind": "Mega",
+            "Item": "Sceptilite"
+        }
+    ],
+    "Image": "sceptile-mega-form.png"
+}

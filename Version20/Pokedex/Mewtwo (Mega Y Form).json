@@ -1,0 +1,45 @@
+{
+    "Number": 150,
+    "DexID": "0150M2",
+    "Name": "Mewtwo (Mega Y Form)",
+    "Type1": "Psychic",
+    "Type2": "",
+    "BaseHP": 6,
+    "Strength": 8,
+    "MaxStrength": 8,
+    "Dexterity": 7,
+    "MaxDexterity": 7,
+    "Vitality": 5,
+    "MaxVitality": 5,
+    "Special": 10,
+    "MaxSpecial": 10,
+    "Insight": 7,
+    "MaxInsight": 7,
+    "Ability1": "Insomnia",
+    "Ability2": "",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Master",
+    "GenderType": "N",
+    "Legendary": true,
+    "GoodStarter": false,
+    "_id": "mewtwo-mega-y-form",
+    "DexCategory": "No Data",
+    "Height": {
+        "Meters": 1.5,
+        "Feet": 4.9
+    },
+    "Weight": {
+        "Kilograms": 33.0,
+        "Pounds": 72.8
+    },
+    "DexDescription": "With the power of the Mega Stone its body got smaller but its power grew immensely. It can blow up even a skyscraper with just its thoughts",
+    "Evolutions": [
+        {
+            "From": "Mewtwo",
+            "Kind": "Mega",
+            "Item": "Mewtwonite Y"
+        }
+    ],
+    "Image": "mewtwo-mega-y-form.png"
+}
