@@ -17,9 +17,10 @@
     },
     "AddedEffects": {
         "FixedDamage": {
-            "Percentage": 0.5,
-            "BasedOn": "Hp",
-            "MaxValue": 10
+            "Type": "HpPercentage",
+            "Value": 0.5,
+            "MaxValue": 10,
+            "Target": "Targets"
         }
     }
 }

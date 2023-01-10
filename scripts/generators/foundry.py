@@ -259,7 +259,8 @@ class Foundry(object):
                                     "min": 0,
                                     "max": 5
                                 }
-                                }
+                                },
+                                "source": self.display_version,
                             },
                             "prototypeToken": {
                                 "name": entry['Name'],
@@ -323,7 +324,7 @@ class Foundry(object):
                                 },
                                 "detectionModes": [],
                                 "flags": {},
-                                "randomImg": False
+                                "randomImg": False,
                             },
                             "items": foundry_items,
                             "effects": [],
@@ -335,8 +336,7 @@ class Foundry(object):
                                 "createdTime": 1670952558737,
                                 "modifiedTime": datetime.datetime.now().timestamp(),
                                 "lastModifiedBy": "Generator"
-                            },
-                            "source": self.display_version,
+                            }
                             }
                 db.append(foundry)
         except:
@@ -393,15 +393,12 @@ class Foundry(object):
             if not attr: return default
             else: return attr.get(value) if attr.get(value) else default
 
-        def _icon_for_category(dmg_type):
-            # TODO: Improve move icons
-            # Maybe a combination of type + category since icons for every single move aren't feasible?
-            img = "icons/svg/explosion.svg"
-            if dmg_type == "Special":
-                img = "icons/svg/daze.svg"
-            elif dmg_type == "Support":
-                img = "icons/svg/mage-shield.svg"
-            return img
+        def _icon_for_type(type):
+            if type == 'none':
+                # TODO: is there anything better than Normal for typeless moves?
+                return 'systems/pokerole/images/types/normal.svg'
+            
+            return f'systems/pokerole/images/types/{type}.svg'
 
         def _check_target(target):
             assert target in ["Foe", "Random Foe", "All Foes", "User", "One Ally", "User and Allies",
@@ -495,7 +492,7 @@ class Foundry(object):
                         "_id": f"move-{id}",
                         "name": entry['Name'],
                         "type": "move",
-                        "img": _icon_for_category(entry['DmgType']),
+                        "img": _icon_for_type(move_type),
                         "system": {
                             "description": description,
                             "type": move_type,
@@ -533,7 +530,7 @@ class Foundry(object):
                                 "ignoreDefenses":      _attribute_get(attr, "IgnoreDefenses"),
                                 "maneuver":            move_type == "none"
                             },
-                            "heal": _convert_heal_data(entry['AddedEffects'].get('Heal'))
+                            "heal": _convert_heal_data(entry['AddedEffects'].get('Heal')),
                         },
                         "effects": [],
                         "flags": {},

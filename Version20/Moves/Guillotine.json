@@ -17,8 +17,8 @@
     },
     "AddedEffects": {
         "FixedDamage": {
-            "Percentage": 1,
-            "BasedOn": "Hp"
+            "Type": "OneHitKO",
+            "Target": "Targets"
         }
     }
 }
