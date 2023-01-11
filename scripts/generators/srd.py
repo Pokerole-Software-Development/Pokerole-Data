@@ -41,6 +41,7 @@ learnsets_template = '''## `= this.Name` Learnset
 ```dataview
 TABLE WITHOUT ID
     T[0] AS Learned,
+    T[1].Type AS Type,
     T[1] AS Move
 FROM #PokeroleSRD/Learnsets
 flatten moves as T
@@ -161,38 +162,40 @@ class SRD(object):
             for key in INTEGERS:
                 entry[key] = int(entry[key])
 
-            template = f"""# `= this.name`
-
-> [!grid]
-> ![[{entry['BookSprite']}|wsmall]]
-> ![[{entry['HomeSprite']}]]
-> ![[{entry['BoxSprite']}|htiny]]
-> ![[{entry['ShuffleToken']}|wsmall]]
-
-
-*{entry['DexCategory']}*
-*{entry['DexDescription']}*
-
-**DexID**:: {entry['DexID']}
-**Name**:: {name}
-**Type**:: {entry['Type1']}{f' / {entry["Type2"]}' if entry['Type2'] else ''}
-**Abilities**:: {abilities}
-**Base HP**:: {entry['BaseHP']}
-
-|           |                                                                                        |                                          |
-| --------- | -------------------------------------------------------------------------------------- | ---------------------------------------- |
-| Strength  | `= padleft(padright("",this.MaxStrength - this.Strength,"⭘"),this.MaxStrength,"⬤")`    | (Strength::{entry['Strength']})/(MaxStrength::{entry['MaxStrength']})   |
-| Dexterity | `= padleft(padright("",this.MaxDexterity - this.Dexterity,"⭘"),this.MaxDexterity,"⬤")` | (Dexterity:: {entry['Dexterity']})/(MaxDexterity::{entry['MaxDexterity']}) |
-| Vitality  | `= padleft(padright("",this.MaxVitality - this.Vitality,"⭘"),this.MaxVitality,"⬤")`    | (Vitality::{entry['Vitality']})/(MaxVitality::{entry['MaxVitality']})   |
-| Special   | `= padleft(padright("",this.MaxSpecial - this.Special,"⭘"),this.MaxSpecial,"⬤")`       | (Special::{entry['Special']})/(MaxSpecial::{entry['MaxSpecial']})     |
-| Insight   | `= padleft(padright("",this.MaxInsight - this.Insight,"⭘"),this.MaxInsight,"⬤")`       | (Insight::{entry['Insight']})/(MaxInsight::{entry['MaxInsight']})     |
-
-**Height**: {str(entry['Height']['Feet']).split('.')[0]}'{str(entry['Height']['Feet']).split('.')[1]}" / {entry['Height']['Meters']}m
-**Weight**: {entry['Weight']['Pounds']}lbs / {entry['Weight']['Kilograms']}kg
-**Good Starter**:: {entry['GoodStarter']}
-**Recommended Rank**:: {entry['RecommendedRank']}
-{evostring}
-![[SRD-{name}-Learnset]]"""
+            template =  (
+                f"""# `= this.name`\n"""
+                f"""\n"""
+                f"""> [!grid]\n"""
+                f"""> ![[{entry['BookSprite']}|wsmall]]\n"""
+                f"""> ![[{entry['HomeSprite']}]]\n"""
+                f"""> ![[{entry['BoxSprite']}|htiny]]\n"""
+                f"""> ![[{entry['ShuffleToken']}|wsmall]]\n"""
+                f"""\n"""
+                f"""\n"""
+                f"""*{entry['DexCategory']}*\n"""
+                f"""*{entry['DexDescription']}*\n"""
+                f"""\n"""
+                f"""**DexID**:: {entry['DexID']}\n"""
+                f"""**Name**:: {name}\n"""
+                f"""**Type**:: {entry['Type1']}{f' / {entry["Type2"]}' if entry['Type2'] else ''}\n"""
+                f"""**Abilities**:: {abilities}\n"""
+                f"""**Base HP**:: {entry['BaseHP']}\n"""
+                f"""\n"""
+                f"""|           |                                                                                        |                                          |\n"""
+                f"""| --------- | -------------------------------------------------------------------------------------- | ---------------------------------------- |\n"""
+                f"""| Strength  | `= padleft(padright("",this.MaxStrength - this.Strength,"⭘"),this.MaxStrength,"⬤")`    | (Strength::{entry['Strength']})/(MaxStrength::{entry['MaxStrength']})   |\n"""
+                f"""| Dexterity | `= padleft(padright("",this.MaxDexterity - this.Dexterity,"⭘"),this.MaxDexterity,"⬤")` | (Dexterity:: {entry['Dexterity']})/(MaxDexterity::{entry['MaxDexterity']}) |\n"""
+                f"""| Vitality  | `= padleft(padright("",this.MaxVitality - this.Vitality,"⭘"),this.MaxVitality,"⬤")`    | (Vitality::{entry['Vitality']})/(MaxVitality::{entry['MaxVitality']})   |\n"""
+                f"""| Special   | `= padleft(padright("",this.MaxSpecial - this.Special,"⭘"),this.MaxSpecial,"⬤")`       | (Special::{entry['Special']})/(MaxSpecial::{entry['MaxSpecial']})     |\n"""
+                f"""| Insight   | `= padleft(padright("",this.MaxInsight - this.Insight,"⭘"),this.MaxInsight,"⬤")`       | (Insight::{entry['Insight']})/(MaxInsight::{entry['MaxInsight']})     |\n"""
+                f"""\n"""
+                f"""**Height**: {str(entry['Height']['Feet']).split('.')[0]}'{str(entry['Height']['Feet']).split('.')[1]}" / {entry['Height']['Meters']}m\n"""
+                f"""**Weight**: {entry['Weight']['Pounds']}lbs / {entry['Weight']['Kilograms']}kg\n"""
+                f"""**Good Starter**:: {entry['GoodStarter']}\n"""
+                f"""**Recommended Rank**:: {entry['RecommendedRank']}\n"""
+                f"""{evostring}\n"""
+                f"""![[SRD-{name}-Learnset]]\n"""
+            )
                 
             for x in ['DexID','Strength','MaxStrength','Dexterity','MaxDexterity',
                     'Vitality','MaxVitality','Special','MaxSpecial','Insight','MaxInsight',
