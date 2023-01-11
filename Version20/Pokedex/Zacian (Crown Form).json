@@ -1,0 +1,44 @@
+{
+    "Number": 888,
+    "DexID": "0888F1",
+    "Name": "Zacian (Crown Form)",
+    "Type1": "Fairy",
+    "Type2": "Steel",
+    "BaseHP": 5,
+    "Strength": 9,
+    "MaxStrength": 9,
+    "Dexterity": 8,
+    "MaxDexterity": 8,
+    "Vitality": 6,
+    "MaxVitality": 6,
+    "Special": 5,
+    "MaxSpecial": 5,
+    "Insight": 6,
+    "MaxInsight": 6,
+    "Ability1": "Intrepid Sword",
+    "Ability2": "",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Master",
+    "GenderType": "N",
+    "Legendary": true,
+    "GoodStarter": false,
+    "_id": "zacian-crown-form",
+    "DexCategory": "No Data",
+    "Height": {
+        "Meters": 2.8,
+        "Feet": 9.2
+    },
+    "Weight": {
+        "Kilograms": 355.0,
+        "Pounds": 782.6
+    },
+    "DexDescription": "There is a legend about a mighty sword able to cut down anything with a single strike, it became known as the Fairy King\u2019s Sword, and it inspired awe in friend and foe alike.",
+    "Evolutions": [
+        {
+            "From": "Zacian",
+            "Kind": "Form"
+        }
+    ],
+    "Image": "zacian-crown-form.png"
+}

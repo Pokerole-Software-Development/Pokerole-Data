@@ -1,0 +1,45 @@
+{
+    "Number": 150,
+    "DexID": "0150M1",
+    "Name": "Mewtwo (Mega X Form)",
+    "Type1": "Psychic",
+    "Type2": "Fighting",
+    "BaseHP": 6,
+    "Strength": 9,
+    "MaxStrength": 9,
+    "Dexterity": 7,
+    "MaxDexterity": 7,
+    "Vitality": 6,
+    "MaxVitality": 6,
+    "Special": 7,
+    "MaxSpecial": 7,
+    "Insight": 6,
+    "MaxInsight": 6,
+    "Ability1": "Steadfast",
+    "Ability2": "",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Master",
+    "GenderType": "N",
+    "Legendary": true,
+    "GoodStarter": false,
+    "_id": "mewtwo-mega-x-form",
+    "DexCategory": "No Data",
+    "Height": {
+        "Meters": 2.3,
+        "Feet": 7.5
+    },
+    "Weight": {
+        "Kilograms": 127.0,
+        "Pounds": 280.0
+    },
+    "DexDescription": "The power of the Mega Stone was absorbed into its muscles if it grapples you and its psychic force does not crack you its strong arms will.",
+    "Evolutions": [
+        {
+            "From": "Mewtwo",
+            "Kind": "Mega",
+            "Item": "Mewtwonite X"
+        }
+    ],
+    "Image": "mewtwo-mega-x-form.png"
+}

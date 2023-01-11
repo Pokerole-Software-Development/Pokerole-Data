@@ -1,0 +1,44 @@
+{
+    "Number": 383,
+    "DexID": "0383M1",
+    "Name": "Groudon (Primal Form)",
+    "Type1": "Ground",
+    "Type2": "Fire",
+    "BaseHP": 7,
+    "Strength": 9,
+    "MaxStrength": 9,
+    "Dexterity": 5,
+    "MaxDexterity": 5,
+    "Vitality": 8,
+    "MaxVitality": 8,
+    "Special": 8,
+    "MaxSpecial": 8,
+    "Insight": 5,
+    "MaxInsight": 5,
+    "Ability1": "Desolate Land",
+    "Ability2": "",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Master",
+    "GenderType": "N",
+    "Legendary": true,
+    "GoodStarter": false,
+    "_id": "groudon-primal-form",
+    "DexCategory": "No Data",
+    "Height": {
+        "Meters": 5.0,
+        "Feet": 16.4
+    },
+    "Weight": {
+        "Kilograms": 999.7,
+        "Pounds": 2204.0
+    },
+    "DexDescription": "Millions of years ago chaos reigned. Volcanoes erupting without control, and unbearable heat made all life dry out. Who was so angry inside the raging fire? For its fury has since ingrained into the earth as red rubies.",
+    "Evolutions": [
+        {
+            "From": "Groudon",
+            "Kind": "Form"
+        }
+    ],
+    "Image": "groudon-primal-form.png"
+}

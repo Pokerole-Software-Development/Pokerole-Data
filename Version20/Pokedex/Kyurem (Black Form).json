@@ -1,0 +1,44 @@
+{
+    "Number": 646,
+    "DexID": "0646F1",
+    "Name": "Kyurem (Black Form)",
+    "Type1": "Dragon",
+    "Type2": "Ice",
+    "BaseHP": 6,
+    "Strength": 9,
+    "MaxStrength": 9,
+    "Dexterity": 6,
+    "MaxDexterity": 6,
+    "Vitality": 6,
+    "MaxVitality": 6,
+    "Special": 7,
+    "MaxSpecial": 7,
+    "Insight": 5,
+    "MaxInsight": 5,
+    "Ability1": "Pressure",
+    "Ability2": "",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Master",
+    "GenderType": "N",
+    "Legendary": true,
+    "GoodStarter": false,
+    "_id": "kyurem-black-form",
+    "DexCategory": "No Data",
+    "Height": {
+        "Meters": 3.3,
+        "Feet": 10.8
+    },
+    "Weight": {
+        "Kilograms": 325.0,
+        "Pounds": 716.5
+    },
+    "DexDescription": "In the Icy mountains at the east of Unova, you can hear the wails of a creature suffering as if it missed a part of its very soul. Dark clouds and lightning are sure to follow.",
+    "Evolutions": [
+        {
+            "From": "Kyurem",
+            "Kind": "Form"
+        }
+    ],
+    "Image": "kyurem-black-form.png"
+}

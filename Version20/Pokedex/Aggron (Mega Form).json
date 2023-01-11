@@ -1,0 +1,45 @@
+{
+    "Number": 306,
+    "DexID": "0306M1",
+    "Name": "Aggron (Mega Form)",
+    "Type1": "Steel",
+    "Type2": "",
+    "BaseHP": 6,
+    "Strength": 3,
+    "MaxStrength": 7,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 5,
+    "MaxVitality": 11,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Filter",
+    "Ability2": "",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Master",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "aggron-mega-form",
+    "DexCategory": "Iron Armor Pokemon",
+    "Height": {
+        "Meters": 2.2,
+        "Feet": 7.2
+    },
+    "Weight": {
+        "Kilograms": 395.0,
+        "Pounds": 870.8
+    },
+    "DexDescription": "The power of the Mega Stone makes their already-small caring nature disappear. They become relentless and more machine-like, trampling their way around as nothing can penetrate their armor.",
+    "Evolutions": [
+        {
+            "From": "Aggron",
+            "Kind": "Mega",
+            "Item": "Aggronite"
+        }
+    ],
+    "Image": "aggron-mega-form.png"
+}

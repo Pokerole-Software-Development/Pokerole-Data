@@ -1,0 +1,45 @@
+{
+    "Number": 257,
+    "DexID": "0257M1",
+    "Name": "Blaziken (Mega Form)",
+    "Type1": "Fire",
+    "Type2": "Fighting",
+    "BaseHP": 6,
+    "Strength": 4,
+    "MaxStrength": 8,
+    "Dexterity": 3,
+    "MaxDexterity": 6,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 3,
+    "MaxSpecial": 7,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Speed Boost",
+    "Ability2": "",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Pro",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "blaziken-mega-form",
+    "DexCategory": "Blaze Pokemon",
+    "Height": {
+        "Meters": 1.9,
+        "Feet": 6.2
+    },
+    "Weight": {
+        "Kilograms": 52.0,
+        "Pounds": 114.6
+    },
+    "DexDescription": "The power of the Mega Stone makes its inner fire burn so strong that it sets its limbs ablaze. This allows it to move faster than ever but it also takes a toll on its feathers as they burn to black cinders.",
+    "Evolutions": [
+        {
+            "From": "Blaziken",
+            "Kind": "Mega",
+            "Item": "Blazikenite"
+        }
+    ],
+    "Image": "blaziken-mega-form.png"
+}

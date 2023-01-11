@@ -1,0 +1,44 @@
+{
+    "Number": 658,
+    "DexID": "0658F",
+    "Name": "Greninja (BBF Form)",
+    "Type1": "Water",
+    "Type2": "Dark",
+    "BaseHP": 5,
+    "Strength": 3,
+    "MaxStrength": 6,
+    "Dexterity": 3,
+    "MaxDexterity": 7,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 3,
+    "MaxSpecial": 6,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Torrent",
+    "Ability2": "",
+    "HiddenAbility": "Protean",
+    "EventAbilities": "Battle Bond",
+    "RecommendedRank": "Ace",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "greninja-bbf-form",
+    "DexCategory": "Ninja Pokemon",
+    "Height": {
+        "Meters": 1.5,
+        "Feet": 4.9
+    },
+    "Weight": {
+        "Kilograms": 40.0,
+        "Pounds": 88.2
+    },
+    "DexDescription": "The mysteries of the Pokemon world are vast. There is something called \u201cThe Bond Phenomenon\u201d were a Pokemon and its trainer share a connection so strong that the Pokemon changes due to it.",
+    "Evolutions": [
+        {
+            "From": "Frogadier",
+            "Kind": "Form"
+        }
+    ],
+    "Image": "greninja-bbf-form.png"
+}

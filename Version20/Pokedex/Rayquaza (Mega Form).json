@@ -1,0 +1,45 @@
+{
+    "Number": 384,
+    "DexID": "0384M1",
+    "Name": "Rayquaza (Mega Form)",
+    "Type1": "Dragon",
+    "Type2": "Flying",
+    "BaseHP": 11,
+    "Strength": 9,
+    "MaxStrength": 9,
+    "Dexterity": 6,
+    "MaxDexterity": 6,
+    "Vitality": 6,
+    "MaxVitality": 6,
+    "Special": 9,
+    "MaxSpecial": 9,
+    "Insight": 6,
+    "MaxInsight": 6,
+    "Ability1": "Delta Stream",
+    "Ability2": "",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Master",
+    "GenderType": "N",
+    "Legendary": true,
+    "GoodStarter": false,
+    "_id": "rayquaza-mega-form",
+    "DexCategory": "No Data",
+    "Height": {
+        "Meters": 10.8,
+        "Feet": 35.4
+    },
+    "Weight": {
+        "Kilograms": 392.0,
+        "Pounds": 864.2
+    },
+    "DexDescription": "What does the power of the Mega Stone truly entail? Is it the bond between a Trainer and their companion? Or is it all about taking a hold of a forbidden power?",
+    "Evolutions": [
+        {
+            "From": "Rayquaza",
+            "Kind": "Mega",
+            "Item": "Pokeball"
+        }
+    ],
+    "Image": "rayquaza-mega-form.png"
+}

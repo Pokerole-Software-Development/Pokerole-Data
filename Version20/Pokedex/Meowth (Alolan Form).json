@@ -1,0 +1,45 @@
+{
+    "Number": 52,
+    "DexID": "0052A",
+    "Name": "Meowth (Alolan Form)",
+    "Type1": "Dark",
+    "Type2": "",
+    "BaseHP": 3,
+    "Strength": 1,
+    "MaxStrength": 3,
+    "Dexterity": 2,
+    "MaxDexterity": 5,
+    "Vitality": 1,
+    "MaxVitality": 3,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 1,
+    "MaxInsight": 3,
+    "Ability1": "Pickup",
+    "Ability2": "Technician",
+    "HiddenAbility": "Rattled",
+    "EventAbilities": "",
+    "RecommendedRank": "Beginner",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "meowth-alolan-form",
+    "DexCategory": "Scratch Cat Pokemon",
+    "Height": {
+        "Meters": 0.4,
+        "Feet": 1.3
+    },
+    "Weight": {
+        "Kilograms": 4.2,
+        "Pounds": 9.3
+    },
+    "DexDescription": "In old times, Meowth were taken to Alola as gifts for the tribe\u2019s royals, this caused them to become incredibly greedy and pampered. Nowadays they are feral, but their prideful nature remained.",
+    "Evolutions": [
+        {
+            "To": "Persian (Alolan Form)",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "meowth-alolan-form.png"
+}

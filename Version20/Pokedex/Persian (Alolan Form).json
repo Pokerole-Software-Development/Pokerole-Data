@@ -1,0 +1,45 @@
+{
+    "Number": 53,
+    "DexID": "0053A",
+    "Name": "Persian (Alolan Form)",
+    "Type1": "Dark",
+    "Type2": "",
+    "BaseHP": 4,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 3,
+    "MaxDexterity": 6,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 2,
+    "MaxSpecial": 5,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Fur Coat",
+    "Ability2": "Technician",
+    "HiddenAbility": "Rattled",
+    "EventAbilities": "",
+    "RecommendedRank": "Amateur",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "persian-alolan-form",
+    "DexCategory": "Classy Cat Pokemon",
+    "Height": {
+        "Meters": 1.1,
+        "Feet": 3.6
+    },
+    "Weight": {
+        "Kilograms": 33.0,
+        "Pounds": 72.8
+    },
+    "DexDescription": "They were bred for their silky fur and round faces, not for their temperament. This is an extremely proud Pokemon who will look down to anyone but itself, despite this, it\u2019s very popular among Alola\u2019s elite.",
+    "Evolutions": [
+        {
+            "From": "Meowth (Alolan Form)",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "persian-alolan-form.png"
+}
