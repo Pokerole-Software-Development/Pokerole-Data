@@ -8,6 +8,9 @@ import datetime
 
 secrets = json.load(open('../../secrets.json'))
 
+# System version used if the `--system_version` flag is not specified
+DEFAULT_FOUNDRY_SYSTEM_VERSION = "0.2.0"
+
 # Moves with fields that are problematic for the export
 # - Any Move is too generic, individual moves can be added to Mew instead
 # - Struggle, Growl and Photon Geyser have attributes like "Strength/special", but there are specialized versions for each attribute
@@ -574,7 +577,7 @@ class Foundry(object):
         x(self.shuffle_path, self.shuffle_output)
         
 def update( *argv,
-            system_version,
+            system_version=DEFAULT_FOUNDRY_SYSTEM_VERSION,
             batch=False, 
             version='Version20', 
             confirm=False,
@@ -619,10 +622,10 @@ def help():
     Python Script to update the Obsidian Foundry with the latest Data. 
     
     update: 
-        update --system_version Version [collection names], [--batch] [--version Version] [--confirm] [--sheet_images src] [--token_images src]
-            system_version       : The target Foundry system version.
+        update [collection names], [--batch] [--system_version] Version [--version Version] [--confirm] [--sheet_images src] [--token_images src]
             collection names     : one or more of the folders in Foundry. Optional when using --batch.
-            batch                : Optional. Updates all Foundry folderss
+            batch                : Optional. Updates all Foundry folders.
+            system_version       : Optional. The target Foundry system version.
             version              : Optional. Changes the Version folder to be used in paths.
             confirm              : Optional. Skips confirmation step. 
             sheet_images         : Optional. Source of pokemon sheet images. Either 'book', 'home', 'box', or 'shuffle'.
