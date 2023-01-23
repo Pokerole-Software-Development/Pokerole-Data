@@ -1,3 +1,5 @@
+### I AM NOT PART OF THE DEVELOPMENT TEAM AND THIS IS ONLY A FORK OF THE ORIGINAL REPOSITORY. PLEASE CONTACT THE DEVELOPERS FOR ACTUAL BUGS, PROBLEMS, SUGGESTIONS, OR ANYTHING RELATED TO THE POKEROLE FOUNDRY SYSTEM.
+
 # Pokerole Dataset
 
 This repo is a Source of Truth for the [Pokerole](https://www.pokeroleproject.com/) tabletop game. This is a developer focused repository: if you're not a programmer, you probably want to check the list of applications built off of this data. 
