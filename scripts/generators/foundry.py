@@ -5,7 +5,7 @@ from shutil import copy
 from os.path import join
 import fire
 import datetime
-import random 
+from hashlib import blake2b
 import string
 
 secrets = json.load(open('../../secrets.json'))
@@ -118,7 +118,7 @@ class Foundry(object):
                     move["ownership"] = { "default": 0, f"pokemon-{id}": 3}
                 
                 foundry = {
-                            "_id": ''.join(random.choice(string.ascii_lowercase) for i in range(16)),
+                            "_id": blake2b(bytes(entry['_id'], 'utf-8'), digest_size=16).hexdigest(),
                             "name": entry['Name'],
                             "type": "pokemon",
                             "img": f"systems/pokerole/images/pokemon/{sheet_img}/{entry['Image']}",
@@ -366,7 +366,7 @@ class Foundry(object):
                 else: raise e
 
             foundry = {
-                "_id": ''.join(random.choice(string.ascii_lowercase) for i in range(16)),
+                "_id": blake2b(bytes(entry['_id'], 'utf-8'), digest_size=16).hexdigest(),
                 "name": entry['Name'],
                 "type": "ability",
                 "img": "icons/svg/book.svg",
@@ -495,7 +495,7 @@ class Foundry(object):
                 _check_attribute(dmgMod)
 
             foundry = {
-                        "_id": ''.join(random.choice(string.ascii_lowercase) for i in range(16)),
+                        "_id": blake2b(bytes(entry['_id'], 'utf-8'), digest_size=16).hexdigest(),
                         "name": entry['Name'],
                         "type": "move",
                         "img": _icon_for_type(move_type),
