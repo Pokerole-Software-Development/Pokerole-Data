@@ -1,7 +1,6 @@
 {
     "Name": "Megahorn",
     "Type": "Bug",
-    "DmgType": "Physical",
     "Power": 5,
     "Damage1": "Strength",
     "Damage2": "",
@@ -15,5 +14,6 @@
         "Lethal": true,
         "AccuracyReduction": 2
     },
-    "AddedEffects": {}
+    "AddedEffects": {},
+    "Category": "Physical"
 }

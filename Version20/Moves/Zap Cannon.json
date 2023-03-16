@@ -1,7 +1,6 @@
 {
     "Name": "Zap Cannon",
     "Type": "Electric",
-    "DmgType": "Special",
     "Power": 5,
     "Damage1": "Special",
     "Damage2": "",
@@ -22,5 +21,6 @@
                 "Affects": "Targets"
             }
         ]
-    }
+    },
+    "Category": "Special"
 }

@@ -1,7 +1,6 @@
 {
     "Name": "Mega Kick",
     "Type": "Normal",
-    "DmgType": "Physical",
     "Power": 5,
     "Damage1": "Strength",
     "Damage2": "",
@@ -14,5 +13,6 @@
     "Attributes": {
         "AccuracyReduction": 2
     },
-    "AddedEffects": {}
+    "AddedEffects": {},
+    "Category": "Physical"
 }

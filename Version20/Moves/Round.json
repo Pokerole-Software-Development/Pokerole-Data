@@ -1,7 +1,6 @@
 {
     "Name": "Round",
     "Type": "Normal",
-    "DmgType": "Special",
     "Power": 2,
     "Damage1": "Special",
     "Damage2": "",
@@ -12,5 +11,6 @@
     "Description": "The user attacks the foe with a song. If a teammate joins the song the attack will be stronger.",
     "_id": "round",
     "Attributes": {},
-    "AddedEffects": {}
+    "AddedEffects": {},
+    "Category": "Special"
 }

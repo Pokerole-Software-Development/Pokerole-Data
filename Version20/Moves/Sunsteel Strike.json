@@ -1,7 +1,6 @@
 {
     "Name": "Sunsteel Strike",
     "Type": "Steel",
-    "DmgType": "Physical",
     "Power": 4,
     "Damage1": "Strength",
     "Damage2": "",
@@ -16,5 +15,6 @@
     },
     "AddedEffects": {
         "IgnoreShield": true
-    }
+    },
+    "Category": "Physical"
 }

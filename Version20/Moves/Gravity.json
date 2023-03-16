@@ -1,7 +1,6 @@
 {
     "Name": "Gravity",
     "Type": "Psychic",
-    "DmgType": "Support",
     "Power": 0,
     "Damage1": "",
     "Damage2": "",
@@ -20,5 +19,6 @@
             }
         ],
         "TerrainEffect": "Gravity"
-    }
+    },
+    "Category": "Support"
 }

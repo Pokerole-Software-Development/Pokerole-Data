@@ -1,7 +1,6 @@
 {
     "Name": "Endeavor",
     "Type": "Normal",
-    "DmgType": "Physical",
     "Power": 0,
     "Damage1": "",
     "Damage2": "",
@@ -14,5 +13,6 @@
     "Attributes": {
         "IgnoreDefenses": true
     },
-    "AddedEffects": {}
+    "AddedEffects": {},
+    "Category": "Physical"
 }

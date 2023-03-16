@@ -1,7 +1,6 @@
 {
     "Name": "V-Create",
     "Type": "Fire",
-    "DmgType": "Physical",
     "Power": 7,
     "Damage1": "Strength",
     "Damage2": "",
@@ -24,5 +23,6 @@
                 "Affects": "User"
             }
         ]
-    }
+    },
+    "Category": "Physical"
 }

@@ -1,7 +1,6 @@
 {
     "Name": "Body Press",
     "Type": "Fighting",
-    "DmgType": "Physical",
     "Power": 3,
     "Damage1": "Vitality",
     "Damage2": "",
@@ -12,5 +11,6 @@
     "Description": "The Pokemon makes a judo maneuver, using its body mass instead of its strength against the target.",
     "_id": "body-press",
     "Attributes": {},
-    "AddedEffects": {}
+    "AddedEffects": {},
+    "Category": "Physical"
 }

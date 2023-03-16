@@ -1,7 +1,6 @@
 {
     "Name": "Dig",
     "Type": "Ground",
-    "DmgType": "Physical",
     "Power": 3,
     "Damage1": "Strength",
     "Damage2": "",
@@ -21,5 +20,6 @@
                 "Affects": "User"
             }
         ]
-    }
+    },
+    "Category": "Physical"
 }

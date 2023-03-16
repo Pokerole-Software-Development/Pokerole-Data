@@ -1,7 +1,6 @@
 {
     "Name": "Stored Power",
     "Type": "Psychic",
-    "DmgType": "Special",
     "Power": 1,
     "Damage1": "Special",
     "Damage2": "",
@@ -12,5 +11,6 @@
     "Description": "This move allows the user to release its power. If the user has any boosts, the damage is increased.",
     "_id": "stored-power",
     "Attributes": {},
-    "AddedEffects": {}
+    "AddedEffects": {},
+    "Category": "Special"
 }

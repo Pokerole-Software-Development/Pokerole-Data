@@ -1,7 +1,6 @@
 {
     "Name": "Origin Pulse",
     "Type": "Water",
-    "DmgType": "Special",
     "Power": 4,
     "Damage1": "Special",
     "Damage2": "",
@@ -15,5 +14,6 @@
         "Lethal": true,
         "AccuracyReduction": 2
     },
-    "AddedEffects": {}
+    "AddedEffects": {},
+    "Category": "Special"
 }

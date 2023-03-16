@@ -1,7 +1,6 @@
 {
     "Name": "Apple Acid",
     "Type": "Grass",
-    "DmgType": "Special",
     "Power": 3,
     "Damage1": "Special",
     "Damage2": "",
@@ -22,5 +21,6 @@
                 "Affects": "Targets"
             }
         ]
-    }
+    },
+    "Category": "Special"
 }

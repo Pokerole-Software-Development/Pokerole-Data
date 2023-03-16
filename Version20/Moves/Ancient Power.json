@@ -1,7 +1,6 @@
 {
     "Name": "Ancient Power",
     "Type": "Rock",
-    "DmgType": "Special",
     "Power": 2,
     "Damage1": "Special",
     "Damage2": "",
@@ -27,5 +26,6 @@
                 "Affects": "User"
             }
         ]
-    }
+    },
+    "Category": "Special"
 }

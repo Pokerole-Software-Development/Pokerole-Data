@@ -1,7 +1,6 @@
 {
     "Name": "Quash",
     "Type": "Dark",
-    "DmgType": "Support",
     "Power": 0,
     "Damage1": "",
     "Damage2": "",
@@ -12,5 +11,6 @@
     "Description": "The user represses the foe with intimidation so it has to think twice before acting.",
     "_id": "quash",
     "Attributes": {},
-    "AddedEffects": {}
+    "AddedEffects": {},
+    "Category": "Support"
 }

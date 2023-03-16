@@ -1,7 +1,6 @@
 {
     "Name": "Acupressure",
     "Type": "Normal",
-    "DmgType": "Support",
     "Power": 0,
     "Damage1": "",
     "Damage2": "",
@@ -12,5 +11,6 @@
     "Description": "The user starts pushing its pressure points, releasing the energy that was stored in its body.",
     "_id": "acupressure",
     "Attributes": {},
-    "AddedEffects": {}
+    "AddedEffects": {},
+    "Category": "Support"
 }

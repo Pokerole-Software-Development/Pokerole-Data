@@ -1,7 +1,6 @@
 {
     "Name": "Weather Ball",
     "Type": "Normal",
-    "DmgType": "Special",
     "Power": 2,
     "Damage1": "Special",
     "Damage2": "",
@@ -12,5 +11,6 @@
     "Description": "The user creates a ball of energy that will use the climate around it to grow in size and power.",
     "_id": "weather-ball",
     "Attributes": {},
-    "AddedEffects": {}
+    "AddedEffects": {},
+    "Category": "Special"
 }

@@ -1,7 +1,6 @@
 {
     "Name": "After You",
     "Type": "Normal",
-    "DmgType": "Support",
     "Power": 0,
     "Damage1": "",
     "Damage2": "",
@@ -12,5 +11,6 @@
     "Description": "The user bows and courteously lets an ally or foe use their action first.",
     "_id": "after-you",
     "Attributes": {},
-    "AddedEffects": {}
+    "AddedEffects": {},
+    "Category": "Support"
 }

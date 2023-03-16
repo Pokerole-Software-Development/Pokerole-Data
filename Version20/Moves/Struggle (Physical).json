@@ -1,7 +1,6 @@
 {
     "Name": "Struggle (Physical)",
     "Type": "Typeless",
-    "DmgType": "Physical",
     "Power": 0,
     "Damage1": "Strength",
     "Damage2": "",
@@ -12,5 +11,6 @@
     "Description": "",
     "_id": "struggle-(physical)",
     "Attributes": {},
-    "AddedEffects": {}
+    "AddedEffects": {},
+    "Category": "Physical"
 }

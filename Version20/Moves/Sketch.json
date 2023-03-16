@@ -1,7 +1,6 @@
 {
     "Name": "Sketch",
     "Type": "Normal",
-    "DmgType": "Support",
     "Power": 0,
     "Damage1": "",
     "Damage2": "",
@@ -12,5 +11,6 @@
     "Description": "The Pokemon draws its foe performing a move. It learns how to perform that move in the process.",
     "_id": "sketch",
     "Attributes": {},
-    "AddedEffects": {}
+    "AddedEffects": {},
+    "Category": "Support"
 }

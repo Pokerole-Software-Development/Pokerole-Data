@@ -1,7 +1,6 @@
 {
     "Name": "Geomancy",
     "Type": "Fairy",
-    "DmgType": "Support",
     "Power": 0,
     "Damage1": "",
     "Damage2": "",
@@ -14,5 +13,6 @@
     "Attributes": {
         "Charge": true
     },
-    "AddedEffects": {}
+    "AddedEffects": {},
+    "Category": "Support"
 }

@@ -1,7 +1,6 @@
 {
     "Name": "Barrage",
     "Type": "Normal",
-    "DmgType": "Physical",
     "Power": 1,
     "Damage1": "Strength",
     "Damage2": "",
@@ -16,5 +15,6 @@
         "SuccessiveActions": true,
         "AccuracyReduction": 1
     },
-    "AddedEffects": {}
+    "AddedEffects": {},
+    "Category": "Physical"
 }

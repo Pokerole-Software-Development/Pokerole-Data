@@ -1,7 +1,6 @@
 {
     "Name": "Bug Buzz",
     "Type": "Bug",
-    "DmgType": "Special",
     "Power": 3,
     "Damage1": "Special",
     "Damage2": "",
@@ -25,5 +24,6 @@
                 "Affects": "Targets"
             }
         ]
-    }
+    },
+    "Category": "Special"
 }

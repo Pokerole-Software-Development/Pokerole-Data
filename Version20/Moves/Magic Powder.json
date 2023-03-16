@@ -1,7 +1,6 @@
 {
     "Name": "Magic Powder",
     "Type": "Psychic",
-    "DmgType": "Support",
     "Power": 0,
     "Damage1": "",
     "Damage2": "",
@@ -20,5 +19,6 @@
                 "TargetType": "Psychic"
             }
         ]
-    }
+    },
+    "Category": "Support"
 }

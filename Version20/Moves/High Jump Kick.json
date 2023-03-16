@@ -1,7 +1,6 @@
 {
     "Name": "High Jump Kick",
     "Type": "Fighting",
-    "DmgType": "Physical",
     "Power": 5,
     "Damage1": "Strength",
     "Damage2": "",
@@ -14,5 +13,6 @@
     "Attributes": {
         "AccuracyReduction": 1
     },
-    "AddedEffects": {}
+    "AddedEffects": {},
+    "Category": "Physical"
 }

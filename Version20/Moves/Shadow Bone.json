@@ -1,7 +1,6 @@
 {
     "Name": "Shadow Bone",
     "Type": "Ghost",
-    "DmgType": "Physical",
     "Power": 3,
     "Damage1": "Strength",
     "Damage2": "",
@@ -23,5 +22,6 @@
                 "Affects": "Targets"
             }
         ]
-    }
+    },
+    "Category": "Physical"
 }

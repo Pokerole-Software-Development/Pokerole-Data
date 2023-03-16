@@ -1,7 +1,6 @@
 {
     "Name": "Roar Of Time",
     "Type": "Dragon",
-    "DmgType": "Special",
     "Power": 6,
     "Damage1": "Special",
     "Damage2": "",
@@ -16,5 +15,6 @@
         "MustRecharge": true,
         "AccuracyReduction": 1
     },
-    "AddedEffects": {}
+    "AddedEffects": {},
+    "Category": "Special"
 }

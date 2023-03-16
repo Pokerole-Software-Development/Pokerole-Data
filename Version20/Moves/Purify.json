@@ -1,7 +1,6 @@
 {
     "Name": "Purify",
     "Type": "Poison",
-    "DmgType": "Support",
     "Power": 0,
     "Damage1": "",
     "Damage2": "",
@@ -16,5 +15,6 @@
         "AilmentHeal": [
             "All"
         ]
-    }
+    },
+    "Category": "Support"
 }

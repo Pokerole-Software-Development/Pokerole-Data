@@ -1,7 +1,6 @@
 {
     "Name": "Blaze Kick",
     "Type": "Fire",
-    "DmgType": "Physical",
     "Power": 3,
     "Damage1": "Strength",
     "Damage2": "",
@@ -23,5 +22,6 @@
                 "ChanceDice": 2
             }
         ]
-    }
+    },
+    "Category": "Physical"
 }

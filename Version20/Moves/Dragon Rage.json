@@ -1,7 +1,6 @@
 {
     "Name": "Dragon Rage",
     "Type": "Dragon",
-    "DmgType": "Special",
     "Power": 0,
     "Damage1": "",
     "Damage2": "",
@@ -18,5 +17,6 @@
             "Value": 2,
             "Target": "Targets"
         }
-    }
+    },
+    "Category": "Special"
 }

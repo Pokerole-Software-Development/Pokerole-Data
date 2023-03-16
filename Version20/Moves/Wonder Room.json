@@ -1,7 +1,6 @@
 {
     "Name": "Wonder Room",
     "Type": "Psychic",
-    "DmgType": "Support",
     "Power": 0,
     "Damage1": "",
     "Damage2": "",
@@ -19,5 +18,6 @@
                 "Affects": "Target"
             }
         ]
-    }
+    },
+    "Category": "Support"
 }

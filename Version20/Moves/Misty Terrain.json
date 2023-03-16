@@ -1,7 +1,6 @@
 {
     "Name": "Misty Terrain",
     "Type": "Fairy",
-    "DmgType": "Support",
     "Power": 0,
     "Damage1": "",
     "Damage2": "",
@@ -14,5 +13,6 @@
     "Attributes": {},
     "AddedEffects": {
         "TerrainEffect": "MistyTerrain"
-    }
+    },
+    "Category": "Support"
 }

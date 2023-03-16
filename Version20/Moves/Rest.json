@@ -1,7 +1,6 @@
 {
     "Name": "Rest",
     "Type": "Psychic",
-    "DmgType": "Support",
     "Power": 0,
     "Damage1": "",
     "Damage2": "",
@@ -25,5 +24,6 @@
                 "Rounds": 1
             }
         ]
-    }
+    },
+    "Category": "Support"
 }

@@ -1,7 +1,6 @@
 {
     "Name": "Giga Drain",
     "Type": "Grass",
-    "DmgType": "Special",
     "Power": 3,
     "Damage1": "Special",
     "Damage2": "",
@@ -18,5 +17,6 @@
             "Percentage": 0.5,
             "Target": "Targets"
         }
-    }
+    },
+    "Category": "Special"
 }

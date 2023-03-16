@@ -1,7 +1,6 @@
 {
     "Name": "Nature's Madness",
     "Type": "Fairy",
-    "DmgType": "Special",
     "Power": 0,
     "Damage1": "",
     "Damage2": "",
@@ -22,5 +21,6 @@
             "MaxValue": 10,
             "Target": "Targets"
         }
-    }
+    },
+    "Category": "Special"
 }

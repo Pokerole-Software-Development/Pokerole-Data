@@ -1,7 +1,6 @@
 {
     "Name": "Twineedle",
     "Type": "Bug",
-    "DmgType": "Physical",
     "Power": 1,
     "Damage1": "Strength",
     "Damage2": "",
@@ -22,5 +21,6 @@
                 "ChanceDice": 2
             }
         ]
-    }
+    },
+    "Category": "Physical"
 }

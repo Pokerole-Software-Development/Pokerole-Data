@@ -1,7 +1,6 @@
 {
     "Name": "Skull Bash",
     "Type": "Normal",
-    "DmgType": "Physical",
     "Power": 5,
     "Damage1": "Strength",
     "Damage2": "",
@@ -22,5 +21,6 @@
                 "Affects": "User"
             }
         ]
-    }
+    },
+    "Category": "Physical"
 }

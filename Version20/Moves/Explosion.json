@@ -1,7 +1,6 @@
 {
     "Name": "Explosion",
     "Type": "Normal",
-    "DmgType": "Physical",
     "Power": 10,
     "Damage1": "Strength",
     "Damage2": "",
@@ -15,5 +14,6 @@
         "Lethal": true,
         "UserFaints": true
     },
-    "AddedEffects": {}
+    "AddedEffects": {},
+    "Category": "Physical"
 }

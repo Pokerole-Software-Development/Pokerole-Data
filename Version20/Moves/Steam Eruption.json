@@ -1,7 +1,6 @@
 {
     "Name": "Steam Eruption",
     "Type": "Water",
-    "DmgType": "Special",
     "Power": 4,
     "Damage1": "Special",
     "Damage2": "",
@@ -23,5 +22,6 @@
                 "ChanceDice": 3
             }
         ]
-    }
+    },
+    "Category": "Special"
 }

@@ -1,7 +1,6 @@
 {
     "Name": "Psych Up",
     "Type": "Normal",
-    "DmgType": "Support",
     "Power": 0,
     "Damage1": "",
     "Damage2": "",
@@ -12,5 +11,6 @@
     "Description": "The Pokemon mentalizes itself stronger than anyone. They feel good. They can win. They. Can. Do. This.",
     "_id": "psych-up",
     "Attributes": {},
-    "AddedEffects": {}
+    "AddedEffects": {},
+    "Category": "Support"
 }

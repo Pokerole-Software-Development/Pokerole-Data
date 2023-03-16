@@ -1,7 +1,6 @@
 {
     "Name": "Bestow",
     "Type": "Normal",
-    "DmgType": "Support",
     "Power": 0,
     "Damage1": "",
     "Damage2": "",
@@ -12,5 +11,6 @@
     "Description": "The Pokemon respectfully offers an item, the target will take it and keep it to be polite.",
     "_id": "bestow",
     "Attributes": {},
-    "AddedEffects": {}
+    "AddedEffects": {},
+    "Category": "Support"
 }

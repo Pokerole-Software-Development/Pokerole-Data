@@ -1,7 +1,6 @@
 {
     "Name": "Power Trip",
     "Type": "Dark",
-    "DmgType": "Physical",
     "Power": 1,
     "Damage1": "Strength",
     "Damage2": "",
@@ -12,5 +11,6 @@
     "Description": "In the heat of the battle, the Pokemon gets carried away, relishing in its own power.",
     "_id": "power-trip",
     "Attributes": {},
-    "AddedEffects": {}
+    "AddedEffects": {},
+    "Category": "Physical"
 }

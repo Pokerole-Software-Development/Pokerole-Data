@@ -1,7 +1,6 @@
 {
     "Name": "Ice Fang",
     "Type": "Ice",
-    "DmgType": "Physical",
     "Power": 2,
     "Damage1": "Strength",
     "Damage2": "",
@@ -27,5 +26,6 @@
                 "ChanceDice": 2
             }
         ]
-    }
+    },
+    "Category": "Physical"
 }

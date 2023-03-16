@@ -1,7 +1,6 @@
 {
     "Name": "Dragon Darts",
     "Type": "Dragon",
-    "DmgType": "Physical",
     "Power": 2,
     "Damage1": "Strength",
     "Damage2": "",
@@ -15,5 +14,6 @@
         "PhysicalRanged": true,
         "DoubleAction": true
     },
-    "AddedEffects": {}
+    "AddedEffects": {},
+    "Category": "Physical"
 }

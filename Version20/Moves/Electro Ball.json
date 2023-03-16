@@ -1,7 +1,6 @@
 {
     "Name": "Electro Ball",
     "Type": "Electric",
-    "DmgType": "Special",
     "Power": 2,
     "Damage1": "Special",
     "Damage2": "",
@@ -12,5 +11,6 @@
     "Description": "The Pokemon creates a small electricity orb that is hurled at the target. If the user is faster, the impact will be bigger.",
     "_id": "electro-ball",
     "Attributes": {},
-    "AddedEffects": {}
+    "AddedEffects": {},
+    "Category": "Special"
 }

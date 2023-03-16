@@ -1,7 +1,6 @@
 {
     "Name": "Pound",
     "Type": "Normal",
-    "DmgType": "Physical",
     "Power": 2,
     "Damage1": "Strength",
     "Damage2": "",
@@ -12,5 +11,6 @@
     "Description": "A decent hit to smash the foes.",
     "_id": "pound",
     "Attributes": {},
-    "AddedEffects": {}
+    "AddedEffects": {},
+    "Category": "Physical"
 }

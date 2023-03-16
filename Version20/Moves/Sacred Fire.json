@@ -1,7 +1,6 @@
 {
     "Name": "Sacred Fire",
     "Type": "Fire",
-    "DmgType": "Physical",
     "Power": 4,
     "Damage1": "Strength",
     "Damage2": "",
@@ -22,5 +21,6 @@
                 "ChanceDice": 5
             }
         ]
-    }
+    },
+    "Category": "Physical"
 }

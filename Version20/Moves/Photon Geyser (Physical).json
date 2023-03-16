@@ -1,7 +1,6 @@
 {
     "Name": "Photon Geyser (Physical)",
     "Type": "Psychic",
-    "DmgType": "Physical",
     "Power": 4,
     "Damage1": "Strength",
     "Damage2": "",
@@ -12,5 +11,6 @@
     "Description": "The Pokemon attacks with a large pillar of light that comes out from where its foe is standing, either the blazing energy  or the crushing strikes are enough to knock someone out.",
     "_id": "photon-geyser-(physical)",
     "Attributes": {},
-    "AddedEffects": {}
+    "AddedEffects": {},
+    "Category": "Physical"
 }

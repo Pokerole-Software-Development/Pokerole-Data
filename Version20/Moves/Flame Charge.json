@@ -1,7 +1,6 @@
 {
     "Name": "Flame Charge",
     "Type": "Fire",
-    "DmgType": "Physical",
     "Power": 2,
     "Damage1": "Strength",
     "Damage2": "",
@@ -22,5 +21,6 @@
                 "Affects": "User"
             }
         ]
-    }
+    },
+    "Category": "Physical"
 }

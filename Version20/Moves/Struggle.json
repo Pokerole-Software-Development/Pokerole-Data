@@ -1,7 +1,6 @@
 {
     "Name": "Struggle",
     "Type": "Typeless",
-    "DmgType": "Physical/special",
     "Power": 0,
     "Damage1": "Strength/special",
     "Damage2": "",
@@ -10,5 +9,6 @@
     "Target": "Foe",
     "Effect": "The most basic attack.",
     "Description": "",
-    "_id": "struggle"
+    "_id": "struggle",
+    "Category": "Physical/special"
 }

@@ -1,7 +1,6 @@
 {
     "Name": "Fire Blast",
     "Type": "Fire",
-    "DmgType": "Special",
     "Power": 5,
     "Damage1": "Special",
     "Damage2": "",
@@ -23,5 +22,6 @@
                 "ChanceDice": 3
             }
         ]
-    }
+    },
+    "Category": "Special"
 }

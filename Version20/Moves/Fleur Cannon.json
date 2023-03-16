@@ -1,7 +1,6 @@
 {
     "Name": "Fleur Cannon",
     "Type": "Fairy",
-    "DmgType": "Special",
     "Power": 6,
     "Damage1": "Special",
     "Damage2": "",
@@ -25,5 +24,6 @@
                 "Affects": "User"
             }
         ]
-    }
+    },
+    "Category": "Special"
 }

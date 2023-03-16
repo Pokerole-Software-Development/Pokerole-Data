@@ -1,7 +1,6 @@
 {
     "Name": "Sunny Day",
     "Type": "Fire",
-    "DmgType": "Support",
     "Power": 0,
     "Damage1": "",
     "Damage2": "",
@@ -14,5 +13,6 @@
     "Attributes": {},
     "AddedEffects": {
         "TerrainEffect": "Sunny"
-    }
+    },
+    "Category": "Support"
 }

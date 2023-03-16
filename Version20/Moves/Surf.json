@@ -1,7 +1,6 @@
 {
     "Name": "Surf",
     "Type": "Water",
-    "DmgType": "Special",
     "Power": 3,
     "Damage1": "Special",
     "Damage2": "",
@@ -12,5 +11,6 @@
     "Description": "A giant wave of water sweeps the area while the user swims on top of it.",
     "_id": "surf",
     "Attributes": {},
-    "AddedEffects": {}
+    "AddedEffects": {},
+    "Category": "Special"
 }

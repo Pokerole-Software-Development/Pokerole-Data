@@ -1,7 +1,6 @@
 {
     "Name": "Recycle",
     "Type": "Normal",
-    "DmgType": "Support",
     "Power": 0,
     "Damage1": "",
     "Damage2": "",
@@ -12,5 +11,6 @@
     "Description": "One Pokemon's trash is another one's treasure.",
     "_id": "recycle",
     "Attributes": {},
-    "AddedEffects": {}
+    "AddedEffects": {},
+    "Category": "Support"
 }

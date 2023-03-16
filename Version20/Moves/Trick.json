@@ -1,7 +1,6 @@
 {
     "Name": "Trick",
     "Type": "Psychic",
-    "DmgType": "Support",
     "Power": 0,
     "Damage1": "",
     "Damage2": "",
@@ -12,5 +11,6 @@
     "Description": "Control the target's mind to perform a simple non-hostile action, such as walking or handling an item.",
     "_id": "trick",
     "Attributes": {},
-    "AddedEffects": {}
+    "AddedEffects": {},
+    "Category": "Support"
 }

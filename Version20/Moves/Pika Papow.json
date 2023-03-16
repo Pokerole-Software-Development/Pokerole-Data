@@ -1,7 +1,6 @@
 {
     "Name": "Pika Papow",
     "Type": "Electric",
-    "DmgType": "Special",
     "Power": 0,
     "Damage1": "Special",
     "Damage2": "Happiness",
@@ -12,5 +11,6 @@
     "Description": "The User lets out its energy in the form of a lightning strike, the happier the user feels the more energized it will be.",
     "_id": "pika-papow",
     "Attributes": {},
-    "AddedEffects": {}
+    "AddedEffects": {},
+    "Category": "Special"
 }

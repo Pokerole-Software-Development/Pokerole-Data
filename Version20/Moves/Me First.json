@@ -1,7 +1,6 @@
 {
     "Name": "Me First",
     "Type": "Normal",
-    "DmgType": "Support",
     "Power": 0,
     "Damage1": "",
     "Damage2": "",
@@ -14,5 +13,6 @@
     "Attributes": {
         "Priority": 1
     },
-    "AddedEffects": {}
+    "AddedEffects": {},
+    "Category": "Support"
 }

@@ -1,7 +1,6 @@
 {
     "Name": "Heat Crash",
     "Type": "Fire",
-    "DmgType": "Physical",
     "Power": 2,
     "Damage1": "Strength",
     "Damage2": "",
@@ -12,5 +11,6 @@
     "Description": "The user slams the target with a body engulfed in fire.",
     "_id": "heat-crash",
     "Attributes": {},
-    "AddedEffects": {}
+    "AddedEffects": {},
+    "Category": "Physical"
 }

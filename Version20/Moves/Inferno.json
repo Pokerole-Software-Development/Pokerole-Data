@@ -1,7 +1,6 @@
 {
     "Name": "Inferno",
     "Type": "Fire",
-    "DmgType": "Special",
     "Power": 4,
     "Damage1": "Special",
     "Damage2": "",
@@ -22,5 +21,6 @@
                 "Affects": "Targets"
             }
         ]
-    }
+    },
+    "Category": "Special"
 }

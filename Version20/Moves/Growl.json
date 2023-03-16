@@ -1,7 +1,6 @@
 {
     "Name": "Growl",
     "Type": "Normal",
-    "DmgType": "Support",
     "Power": 0,
     "Damage1": "",
     "Damage2": "",
@@ -10,5 +9,6 @@
     "Target": "All Foes",
     "Effect": "Reduce the foe's Strength. Sound Based. \"Growl (Cute/Tough)\", the user should use the one with highest stat (tough / cute)",
     "Description": "Either by a menacing attitude or cute demeanor, the foe will be unsure about attacking the user with full force.",
-    "_id": "growl"
+    "_id": "growl",
+    "Category": "Support"
 }

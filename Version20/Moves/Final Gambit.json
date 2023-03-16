@@ -1,7 +1,6 @@
 {
     "Name": "Final Gambit",
     "Type": "Fighting",
-    "DmgType": "Special",
     "Power": 0,
     "Damage1": "",
     "Damage2": "",
@@ -15,5 +14,6 @@
         "UserFaints": true,
         "IgnoreDefenses": true
     },
-    "AddedEffects": {}
+    "AddedEffects": {},
+    "Category": "Special"
 }

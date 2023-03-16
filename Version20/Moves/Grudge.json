@@ -1,7 +1,6 @@
 {
     "Name": "Grudge",
     "Type": "Ghost",
-    "DmgType": "Support",
     "Power": 0,
     "Damage1": "",
     "Damage2": "",
@@ -12,5 +11,6 @@
     "Description": "The user leaves an imprinting grudge over the foe, this makes the target unwilling to fight. It may only keep battling if something greater is at risk.",
     "_id": "grudge",
     "Attributes": {},
-    "AddedEffects": {}
+    "AddedEffects": {},
+    "Category": "Support"
 }

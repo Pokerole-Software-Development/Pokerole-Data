@@ -1,7 +1,6 @@
 {
     "Name": "Spit Up",
     "Type": "Normal",
-    "DmgType": "Special",
     "Power": 4,
     "Damage1": "Special",
     "Damage2": "",
@@ -12,5 +11,6 @@
     "Description": "After storing power, the Pokemon spits that energy at the foe. The user returns to its original size.",
     "_id": "spit-up",
     "Attributes": {},
-    "AddedEffects": {}
+    "AddedEffects": {},
+    "Category": "Special"
 }

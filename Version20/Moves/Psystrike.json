@@ -1,7 +1,6 @@
 {
     "Name": "Psystrike",
     "Type": "Psychic",
-    "DmgType": "Special",
     "Power": 4,
     "Damage1": "Special",
     "Damage2": "",
@@ -14,5 +13,6 @@
     "Attributes": {
         "ResistedWithDefense": true
     },
-    "AddedEffects": {}
+    "AddedEffects": {},
+    "Category": "Special"
 }

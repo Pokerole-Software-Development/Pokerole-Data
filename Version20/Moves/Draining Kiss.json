@@ -1,7 +1,6 @@
 {
     "Name": "Draining Kiss",
     "Type": "Fairy",
-    "DmgType": "Special",
     "Power": 2,
     "Damage1": "Special",
     "Damage2": "",
@@ -18,5 +17,6 @@
             "Percentage": 0.5,
             "Target": "User"
         }
-    }
+    },
+    "Category": "Special"
 }

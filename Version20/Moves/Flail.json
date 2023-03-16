@@ -1,7 +1,6 @@
 {
     "Name": "Flail",
     "Type": "Normal",
-    "DmgType": "Physical",
     "Power": 1,
     "Damage1": "Strength",
     "Damage2": "",
@@ -12,5 +11,6 @@
     "Description": "The User flails and struggles to survive. The more weakened it is the stronger this attack will be.",
     "_id": "flail",
     "Attributes": {},
-    "AddedEffects": {}
+    "AddedEffects": {},
+    "Category": "Physical"
 }

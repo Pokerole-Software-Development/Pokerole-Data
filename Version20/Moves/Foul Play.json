@@ -1,7 +1,6 @@
 {
     "Name": "Foul Play",
     "Type": "Dark",
-    "DmgType": "Physical",
     "Power": 3,
     "Damage1": "",
     "Damage2": "",
@@ -12,5 +11,6 @@
     "Description": "The user feint attacks then tricks the foe who ends up hurting itself.",
     "_id": "foul-play",
     "Attributes": {},
-    "AddedEffects": {}
+    "AddedEffects": {},
+    "Category": "Physical"
 }

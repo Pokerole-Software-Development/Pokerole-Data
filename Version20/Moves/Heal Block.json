@@ -1,7 +1,6 @@
 {
     "Name": "Heal Block",
     "Type": "Psychic",
-    "DmgType": "Support",
     "Power": 0,
     "Damage1": "",
     "Damage2": "",
@@ -20,5 +19,6 @@
                 "Rounds": 4
             }
         ]
-    }
+    },
+    "Category": "Support"
 }

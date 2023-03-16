@@ -1,7 +1,6 @@
 {
     "Name": "Aeroblast",
     "Type": "Flying",
-    "DmgType": "Special",
     "Power": 4,
     "Damage1": "Special",
     "Damage2": "",
@@ -15,5 +14,6 @@
         "HighCritical": true,
         "Lethal": true
     },
-    "AddedEffects": {}
+    "AddedEffects": {},
+    "Category": "Special"
 }

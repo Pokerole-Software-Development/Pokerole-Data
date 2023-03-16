@@ -1,7 +1,6 @@
 {
     "Name": "Light Of Ruin",
     "Type": "Fairy",
-    "DmgType": "Special",
     "Power": 6,
     "Damage1": "Special",
     "Damage2": "",
@@ -16,5 +15,6 @@
         "Recoil": true,
         "AccuracyReduction": 1
     },
-    "AddedEffects": {}
+    "AddedEffects": {},
+    "Category": "Special"
 }

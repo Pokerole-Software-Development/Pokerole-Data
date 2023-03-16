@@ -1,7 +1,6 @@
 {
     "Name": "Superpower",
     "Type": "Fighting",
-    "DmgType": "Physical",
     "Power": 5,
     "Damage1": "Strength",
     "Damage2": "",
@@ -25,5 +24,6 @@
                 "Affects": "User"
             }
         ]
-    }
+    },
+    "Category": "Physical"
 }

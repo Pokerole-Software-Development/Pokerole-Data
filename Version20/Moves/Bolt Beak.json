@@ -1,7 +1,6 @@
 {
     "Name": "Bolt Beak",
     "Type": "Electric",
-    "DmgType": "Physical",
     "Power": 2,
     "Damage1": "Strength",
     "Damage2": "",
@@ -12,5 +11,6 @@
     "Description": "The Pokemon charges with its beak and pecks its foe, if the foe is not fast it will be zapped by a jolt of electricity.",
     "_id": "bolt-beak",
     "Attributes": {},
-    "AddedEffects": {}
+    "AddedEffects": {},
+    "Category": "Physical"
 }

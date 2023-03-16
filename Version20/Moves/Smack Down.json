@@ -1,7 +1,6 @@
 {
     "Name": "Smack Down",
     "Type": "Rock",
-    "DmgType": "Physical",
     "Power": 2,
     "Damage1": "Strength",
     "Damage2": "",
@@ -21,5 +20,6 @@
                 "Affects": "Target"
             }
         ]
-    }
+    },
+    "Category": "Physical"
 }

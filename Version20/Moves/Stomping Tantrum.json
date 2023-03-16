@@ -1,7 +1,6 @@
 {
     "Name": "Stomping Tantrum",
     "Type": "Ground",
-    "DmgType": "Physical",
     "Power": 3,
     "Damage1": "Strength",
     "Damage2": "",
@@ -12,5 +11,6 @@
     "Description": "The Pokemon throws a tantrum all over the place, it becomes worse if something has frustrated it earlier.",
     "_id": "stomping-tantrum",
     "Attributes": {},
-    "AddedEffects": {}
+    "AddedEffects": {},
+    "Category": "Physical"
 }

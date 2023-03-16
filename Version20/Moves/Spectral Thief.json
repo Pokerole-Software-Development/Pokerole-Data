@@ -1,7 +1,6 @@
 {
     "Name": "Spectral Thief",
     "Type": "Ghost",
-    "DmgType": "Physical",
     "Power": 3,
     "Damage1": "Strength",
     "Damage2": "",
@@ -12,5 +11,6 @@
     "Description": "Through the shadows, the user sneaks on its target to steal its life force and consume it, leaving the victim with a sense of grief and loss.",
     "_id": "spectral-thief",
     "Attributes": {},
-    "AddedEffects": {}
+    "AddedEffects": {},
+    "Category": "Physical"
 }

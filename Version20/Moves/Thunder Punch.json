@@ -1,7 +1,6 @@
 {
     "Name": "Thunder Punch",
     "Type": "Electric",
-    "DmgType": "Physical",
     "Power": 3,
     "Damage1": "Strength",
     "Damage2": "",
@@ -22,5 +21,6 @@
                 "ChanceDice": 1
             }
         ]
-    }
+    },
+    "Category": "Physical"
 }

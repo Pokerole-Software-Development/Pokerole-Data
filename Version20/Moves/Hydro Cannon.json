@@ -1,7 +1,6 @@
 {
     "Name": "Hydro Cannon",
     "Type": "Water",
-    "DmgType": "Special",
     "Power": 6,
     "Damage1": "Special",
     "Damage2": "",
@@ -15,5 +14,6 @@
         "MustRecharge": true,
         "AccuracyReduction": 1
     },
-    "AddedEffects": {}
+    "AddedEffects": {},
+    "Category": "Special"
 }

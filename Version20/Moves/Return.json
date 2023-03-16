@@ -1,7 +1,6 @@
 {
     "Name": "Return",
     "Type": "Normal",
-    "DmgType": "Physical",
     "Power": 0,
     "Damage1": "Strength",
     "Damage2": "Happiness",
@@ -12,5 +11,6 @@
     "Description": "If the Pokemon is treated with care and love, it will return that affection by giving all it's got in battle.",
     "_id": "return",
     "Attributes": {},
-    "AddedEffects": {}
+    "AddedEffects": {},
+    "Category": "Physical"
 }

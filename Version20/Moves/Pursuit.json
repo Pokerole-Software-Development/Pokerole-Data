@@ -1,7 +1,6 @@
 {
     "Name": "Pursuit",
     "Type": "Dark",
-    "DmgType": "Physical",
     "Power": 2,
     "Damage1": "Strength",
     "Damage2": "",
@@ -12,5 +11,6 @@
     "Description": "The Pokemon chases the foe to deliver a final blow before it escapes.",
     "_id": "pursuit",
     "Attributes": {},
-    "AddedEffects": {}
+    "AddedEffects": {},
+    "Category": "Physical"
 }

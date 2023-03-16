@@ -1,7 +1,6 @@
 {
     "Name": "Snatch",
     "Type": "Dark",
-    "DmgType": "Support",
     "Power": 0,
     "Damage1": "",
     "Damage2": "",
@@ -12,5 +11,6 @@
     "Description": "The user analyzes the advantages of the foe then makes them their own.",
     "_id": "snatch",
     "Attributes": {},
-    "AddedEffects": {}
+    "AddedEffects": {},
+    "Category": "Support"
 }

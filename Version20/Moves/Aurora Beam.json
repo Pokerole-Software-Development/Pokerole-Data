@@ -1,7 +1,6 @@
 {
     "Name": "Aurora Beam",
     "Type": "Ice",
-    "DmgType": "Special",
     "Power": 2,
     "Damage1": "Special",
     "Damage2": "",
@@ -23,5 +22,6 @@
                 "Affects": "Targets"
             }
         ]
-    }
+    },
+    "Category": "Special"
 }

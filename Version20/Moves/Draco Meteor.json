@@ -1,7 +1,6 @@
 {
     "Name": "Draco Meteor",
     "Type": "Dragon",
-    "DmgType": "Special",
     "Power": 6,
     "Damage1": "Special",
     "Damage2": "",
@@ -25,5 +24,6 @@
                 "Affects": "User"
             }
         ]
-    }
+    },
+    "Category": "Special"
 }

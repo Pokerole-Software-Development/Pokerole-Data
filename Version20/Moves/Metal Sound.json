@@ -1,7 +1,6 @@
 {
     "Name": "Metal Sound",
     "Type": "Steel",
-    "DmgType": "Support",
     "Power": 0,
     "Damage1": "",
     "Damage2": "",
@@ -24,5 +23,6 @@
                 "Affects": "Targets"
             }
         ]
-    }
+    },
+    "Category": "Support"
 }

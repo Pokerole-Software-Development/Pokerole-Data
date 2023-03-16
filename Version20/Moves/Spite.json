@@ -1,7 +1,6 @@
 {
     "Name": "Spite",
     "Type": "Ghost",
-    "DmgType": "Support",
     "Power": 0,
     "Damage1": "",
     "Damage2": "",
@@ -12,5 +11,6 @@
     "Description": "The target feels overwhelmed by feelings of dread.",
     "_id": "spite",
     "Attributes": {},
-    "AddedEffects": {}
+    "AddedEffects": {},
+    "Category": "Support"
 }

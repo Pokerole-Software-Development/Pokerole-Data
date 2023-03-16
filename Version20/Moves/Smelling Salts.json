@@ -1,7 +1,6 @@
 {
     "Name": "Smelling Salts",
     "Type": "Normal",
-    "DmgType": "Physical",
     "Power": 3,
     "Damage1": "Strength",
     "Damage2": "",
@@ -12,5 +11,6 @@
     "Description": "The Pokemon throws some volatile salts onto the foe's face. A paralyzed Pokemon will get a strong smell.",
     "_id": "smelling-salts",
     "Attributes": {},
-    "AddedEffects": {}
+    "AddedEffects": {},
+    "Category": "Physical"
 }

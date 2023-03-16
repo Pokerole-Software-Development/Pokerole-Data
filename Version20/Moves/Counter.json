@@ -1,7 +1,6 @@
 {
     "Name": "Counter",
     "Type": "Fighting",
-    "DmgType": "Physical",
     "Power": 2,
     "Damage1": "",
     "Damage2": "",
@@ -14,5 +13,6 @@
     "Attributes": {
         "IgnoreDefenses": true
     },
-    "AddedEffects": {}
+    "AddedEffects": {},
+    "Category": "Physical"
 }

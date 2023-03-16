@@ -1,7 +1,6 @@
 {
     "Name": "Absorb",
     "Type": "Grass",
-    "DmgType": "Special",
     "Power": 1,
     "Damage1": "Special",
     "Damage2": "",
@@ -18,5 +17,6 @@
             "Percentage": 0.5,
             "Target": "User"
         }
-    }
+    },
+    "Category": "Special"
 }

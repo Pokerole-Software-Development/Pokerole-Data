@@ -1,7 +1,6 @@
 {
     "Name": "Fire Pledge",
     "Type": "Fire",
-    "DmgType": "Special",
     "Power": 2,
     "Damage1": "Special",
     "Damage2": "",
@@ -12,5 +11,6 @@
     "Description": "The Pokemon chants to invoke the power of Fire. Its pledge is heard, then the flames consume everything around.",
     "_id": "fire-pledge",
     "Attributes": {},
-    "AddedEffects": {}
+    "AddedEffects": {},
+    "Category": "Special"
 }

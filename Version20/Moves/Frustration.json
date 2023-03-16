@@ -1,7 +1,6 @@
 {
     "Name": "Frustration",
     "Type": "Normal",
-    "DmgType": "Physical",
     "Power": 0,
     "Damage1": "Strength",
     "Damage2": "Missing happiness",
@@ -12,5 +11,6 @@
     "Description": "A move that relies on how badly a Pokemon has been treated to make it vicious and uncaring.",
     "_id": "frustration",
     "Attributes": {},
-    "AddedEffects": {}
+    "AddedEffects": {},
+    "Category": "Physical"
 }

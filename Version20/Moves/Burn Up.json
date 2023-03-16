@@ -1,7 +1,6 @@
 {
     "Name": "Burn Up",
     "Type": "Fire",
-    "DmgType": "Special",
     "Power": 7,
     "Damage1": "Special",
     "Damage2": "",
@@ -14,5 +13,6 @@
     "Attributes": {
         "Lethal": true
     },
-    "AddedEffects": {}
+    "AddedEffects": {},
+    "Category": "Special"
 }

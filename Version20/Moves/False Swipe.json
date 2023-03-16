@@ -1,7 +1,6 @@
 {
     "Name": "False Swipe",
     "Type": "Normal",
-    "DmgType": "Physical",
     "Power": 2,
     "Damage1": "Strength",
     "Damage2": "",
@@ -12,5 +11,6 @@
     "Description": "The user strikes the foe but lowers the power of the blow at the last second.",
     "_id": "false-swipe",
     "Attributes": {},
-    "AddedEffects": {}
+    "AddedEffects": {},
+    "Category": "Physical"
 }

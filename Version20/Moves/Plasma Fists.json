@@ -1,7 +1,6 @@
 {
     "Name": "Plasma Fists",
     "Type": "Electric",
-    "DmgType": "Physical",
     "Power": 4,
     "Damage1": "Strength",
     "Damage2": "",
@@ -21,5 +20,6 @@
                 "Affects": "Targets"
             }
         ]
-    }
+    },
+    "Category": "Physical"
 }

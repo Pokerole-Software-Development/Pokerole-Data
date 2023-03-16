@@ -1,7 +1,6 @@
 {
     "Name": "Sacred Sword",
     "Type": "Fighting",
-    "DmgType": "Physical",
     "Power": 3,
     "Damage1": "Strength",
     "Damage2": "",
@@ -12,5 +11,6 @@
     "Description": "The user slashes its target with a mighty blade that no armor can stop.",
     "_id": "sacred-sword",
     "Attributes": {},
-    "AddedEffects": {}
+    "AddedEffects": {},
+    "Category": "Physical"
 }

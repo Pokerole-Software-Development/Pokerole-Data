@@ -1,7 +1,6 @@
 {
     "Name": "Judgment",
     "Type": "Normal",
-    "DmgType": "Special",
     "Power": 0,
     "Damage1": "Special",
     "Damage2": "",
@@ -14,5 +13,6 @@
     "Attributes": {
         "IgnoreDefenses": true
     },
-    "AddedEffects": {}
+    "AddedEffects": {},
+    "Category": "Special"
 }

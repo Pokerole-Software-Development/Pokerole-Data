@@ -1,7 +1,6 @@
 {
     "Name": "Baddy Bad",
     "Type": "Dark",
-    "DmgType": "Special",
     "Power": 3,
     "Damage1": "Special",
     "Damage2": "",
@@ -20,5 +19,6 @@
                 "Rounds": 4
             }
         ]
-    }
+    },
+    "Category": "Special"
 }

@@ -1,7 +1,6 @@
 {
     "Name": "Water Pledge",
     "Type": "Water",
-    "DmgType": "Special",
     "Power": 2,
     "Damage1": "Special",
     "Damage2": "",
@@ -21,5 +20,6 @@
             }
         ],
         "TerrainEffect": "WaterPledge"
-    }
+    },
+    "Category": "Special"
 }

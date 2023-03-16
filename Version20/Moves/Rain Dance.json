@@ -1,7 +1,6 @@
 {
     "Name": "Rain Dance",
     "Type": "Water",
-    "DmgType": "Support",
     "Power": 0,
     "Damage1": "",
     "Damage2": "",
@@ -14,5 +13,6 @@
     "Attributes": {},
     "AddedEffects": {
         "TerrainEffect": "Rain"
-    }
+    },
+    "Category": "Support"
 }

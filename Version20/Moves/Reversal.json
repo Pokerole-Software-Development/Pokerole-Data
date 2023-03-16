@@ -1,7 +1,6 @@
 {
     "Name": "Reversal",
     "Type": "Fighting",
-    "DmgType": "Physical",
     "Power": 1,
     "Damage1": "Strength",
     "Damage2": "",
@@ -12,5 +11,6 @@
     "Description": "The user gathers its mettle to block away the pain and focus on hitting harder.",
     "_id": "reversal",
     "Attributes": {},
-    "AddedEffects": {}
+    "AddedEffects": {},
+    "Category": "Physical"
 }

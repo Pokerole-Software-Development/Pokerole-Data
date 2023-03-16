@@ -1,7 +1,6 @@
 {
     "Name": "Bind",
     "Type": "Normal",
-    "DmgType": "Physical",
     "Power": 1,
     "Damage1": "Strength",
     "Damage2": "",
@@ -22,5 +21,6 @@
                 "Affects": "Targets"
             }
         ]
-    }
+    },
+    "Category": "Physical"
 }

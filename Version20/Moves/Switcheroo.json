@@ -1,7 +1,6 @@
 {
     "Name": "Switcheroo",
     "Type": "Dark",
-    "DmgType": "Support",
     "Power": 0,
     "Damage1": "",
     "Damage2": "",
@@ -12,5 +11,6 @@
     "Description": "The user quickly switches the held items before the foe can realize what happened.",
     "_id": "switcheroo",
     "Attributes": {},
-    "AddedEffects": {}
+    "AddedEffects": {},
+    "Category": "Support"
 }

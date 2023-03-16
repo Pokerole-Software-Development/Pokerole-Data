@@ -1,7 +1,6 @@
 {
     "Name": "Smart Strike",
     "Type": "Steel",
-    "DmgType": "Physical",
     "Power": 3,
     "Damage1": "Strength",
     "Damage2": "",
@@ -15,5 +14,6 @@
         "Lethal": true,
         "NeverFail": true
     },
-    "AddedEffects": {}
+    "AddedEffects": {},
+    "Category": "Physical"
 }

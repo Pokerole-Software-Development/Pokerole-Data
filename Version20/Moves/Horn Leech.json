@@ -1,7 +1,6 @@
 {
     "Name": "Horn Leech",
     "Type": "Grass",
-    "DmgType": "Physical",
     "Power": 3,
     "Damage1": "Strength",
     "Damage2": "",
@@ -18,5 +17,6 @@
             "Percentage": 0.5,
             "Target": "User"
         }
-    }
+    },
+    "Category": "Physical"
 }

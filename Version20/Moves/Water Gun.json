@@ -1,7 +1,6 @@
 {
     "Name": "Water Gun",
     "Type": "Water",
-    "DmgType": "Special",
     "Power": 2,
     "Damage1": "Special",
     "Damage2": "",
@@ -12,5 +11,6 @@
     "Description": "The user learns to shoot water with enough force to hurt the foe.",
     "_id": "water-gun",
     "Attributes": {},
-    "AddedEffects": {}
+    "AddedEffects": {},
+    "Category": "Special"
 }

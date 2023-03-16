@@ -1,7 +1,6 @@
 {
     "Name": "Shift Gear",
     "Type": "Steel",
-    "DmgType": "Support",
     "Power": 0,
     "Damage1": "",
     "Damage2": "",
@@ -29,5 +28,6 @@
                 "Affects": "Target"
             }
         ]
-    }
+    },
+    "Category": "Support"
 }

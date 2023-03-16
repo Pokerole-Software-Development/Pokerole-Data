@@ -1,7 +1,6 @@
 {
     "Name": "Retaliate",
     "Type": "Normal",
-    "DmgType": "Physical",
     "Power": 3,
     "Damage1": "Strength",
     "Damage2": "",
@@ -12,5 +11,6 @@
     "Description": "A powerful attack. It will be even stronger if the user just suffered a great loss.",
     "_id": "retaliate",
     "Attributes": {},
-    "AddedEffects": {}
+    "AddedEffects": {},
+    "Category": "Physical"
 }

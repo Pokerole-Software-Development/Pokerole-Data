@@ -1,7 +1,6 @@
 {
     "Name": "Topsy-Turvy",
     "Type": "Dark",
-    "DmgType": "Support",
     "Power": 0,
     "Damage1": "",
     "Damage2": "",
@@ -12,5 +11,6 @@
     "Description": "The user changes the nature of its target, bad things become good and good things become bad.",
     "_id": "topsy-turvy",
     "Attributes": {},
-    "AddedEffects": {}
+    "AddedEffects": {},
+    "Category": "Support"
 }

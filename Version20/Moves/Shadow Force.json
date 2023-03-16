@@ -1,7 +1,6 @@
 {
     "Name": "Shadow Force",
     "Type": "Ghost",
-    "DmgType": "Physical",
     "Power": 5,
     "Damage1": "Strength",
     "Damage2": "",
@@ -16,5 +15,6 @@
         "Charge": true,
         "DestroyShield": true
     },
-    "AddedEffects": {}
+    "AddedEffects": {},
+    "Category": "Physical"
 }

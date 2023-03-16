@@ -1,7 +1,6 @@
 {
     "Name": "Techno Blast",
     "Type": "Normal",
-    "DmgType": "Special",
     "Power": 5,
     "Damage1": "Special",
     "Damage2": "",
@@ -14,5 +13,6 @@
     "Attributes": {
         "Lethal": true
     },
-    "AddedEffects": {}
+    "AddedEffects": {},
+    "Category": "Special"
 }

@@ -1,7 +1,6 @@
 {
     "Name": "Incinerate",
     "Type": "Fire",
-    "DmgType": "Special",
     "Power": 2,
     "Damage1": "Special",
     "Damage2": "",
@@ -12,5 +11,6 @@
     "Description": "The Pokemon releases a blast of fire that instantly consumes small flammable objects.",
     "_id": "incinerate",
     "Attributes": {},
-    "AddedEffects": {}
+    "AddedEffects": {},
+    "Category": "Special"
 }

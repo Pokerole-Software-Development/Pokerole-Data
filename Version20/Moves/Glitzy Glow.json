@@ -1,7 +1,6 @@
 {
     "Name": "Glitzy Glow",
     "Type": "Psychic",
-    "DmgType": "Special",
     "Power": 3,
     "Damage1": "Special",
     "Damage2": "",
@@ -19,5 +18,6 @@
                 "Affects": "Targets"
             }
         ]
-    }
+    },
+    "Category": "Special"
 }

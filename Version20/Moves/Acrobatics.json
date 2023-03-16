@@ -1,7 +1,6 @@
 {
     "Name": "Acrobatics",
     "Type": "Flying",
-    "DmgType": "Physical",
     "Power": 4,
     "Damage1": "Strength",
     "Damage2": "",
@@ -12,5 +11,6 @@
     "Description": "The user makes quick and graceful acrobatic moves to hit the foe, it will be swifter if nothing gets in the way.",
     "_id": "acrobatics",
     "Attributes": {},
-    "AddedEffects": {}
+    "AddedEffects": {},
+    "Category": "Physical"
 }

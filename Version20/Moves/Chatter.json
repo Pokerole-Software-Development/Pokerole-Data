@@ -1,7 +1,6 @@
 {
     "Name": "Chatter",
     "Type": "Flying",
-    "DmgType": "Special",
     "Power": 2,
     "Damage1": "Special",
     "Damage2": "",
@@ -22,5 +21,6 @@
                 "ChanceDice": 3
             }
         ]
-    }
+    },
+    "Category": "Special"
 }

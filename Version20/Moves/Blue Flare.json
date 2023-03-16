@@ -1,7 +1,6 @@
 {
     "Name": "Blue Flare",
     "Type": "Fire",
-    "DmgType": "Special",
     "Power": 6,
     "Damage1": "Special",
     "Damage2": "",
@@ -22,5 +21,6 @@
                 "ChanceDice": 2
             }
         ]
-    }
+    },
+    "Category": "Special"
 }

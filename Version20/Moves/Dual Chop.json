@@ -1,7 +1,6 @@
 {
     "Name": "Dual Chop",
     "Type": "Dragon",
-    "DmgType": "Physical",
     "Power": 2,
     "Damage1": "Strength",
     "Damage2": "",
@@ -15,5 +14,6 @@
         "DoubleAction": true,
         "AccuracyReduction": 1
     },
-    "AddedEffects": {}
+    "AddedEffects": {},
+    "Category": "Physical"
 }
