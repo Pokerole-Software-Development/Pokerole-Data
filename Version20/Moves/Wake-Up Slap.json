@@ -1,7 +1,6 @@
 {
     "Name": "Wake-Up Slap",
     "Type": "Fighting",
-    "DmgType": "Physical",
     "Power": 2,
     "Damage1": "Strength",
     "Damage2": "",
@@ -12,5 +11,6 @@
     "Description": "A powerful slap that makes even the laziest Pokemon be well awake.",
     "_id": "wake-up-slap",
     "Attributes": {},
-    "AddedEffects": {}
+    "AddedEffects": {},
+    "Category": "Physical"
 }

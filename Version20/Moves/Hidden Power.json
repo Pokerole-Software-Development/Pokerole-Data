@@ -1,7 +1,6 @@
 {
     "Name": "Hidden Power",
     "Type": "Normal",
-    "DmgType": "Special",
     "Power": 0,
     "Damage1": "",
     "Damage2": "",
@@ -12,5 +11,6 @@
     "Description": "Every Pokemon has an unknown power that can be released with surprising results.",
     "_id": "hidden-power",
     "Attributes": {},
-    "AddedEffects": {}
+    "AddedEffects": {},
+    "Category": "Special"
 }

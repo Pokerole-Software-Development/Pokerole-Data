@@ -1,7 +1,6 @@
 {
     "Name": "Hex",
     "Type": "Ghost",
-    "DmgType": "Special",
     "Power": 2,
     "Damage1": "Special",
     "Damage2": "",
@@ -12,5 +11,6 @@
     "Description": "The user casts a terrible hex over the target, the effects will be greater if the target is vulnerable.",
     "_id": "hex",
     "Attributes": {},
-    "AddedEffects": {}
+    "AddedEffects": {},
+    "Category": "Special"
 }

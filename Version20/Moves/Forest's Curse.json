@@ -1,7 +1,6 @@
 {
     "Name": "Forest's Curse",
     "Type": "Grass",
-    "DmgType": "Support",
     "Power": 0,
     "Damage1": "",
     "Damage2": "",
@@ -12,5 +11,6 @@
     "Description": "The user calls the forest to lay a curse upon the target, making it grow vines and vegetation around its whole body. The curse will not be easily lifted without a medium's help.",
     "_id": "forest's-curse",
     "Attributes": {},
-    "AddedEffects": {}
+    "AddedEffects": {},
+    "Category": "Support"
 }

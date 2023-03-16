@@ -1,7 +1,6 @@
 {
     "Name": "Entrainment",
     "Type": "Normal",
-    "DmgType": "Support",
     "Power": 0,
     "Damage1": "",
     "Damage2": "",
@@ -12,5 +11,6 @@
     "Description": "The Pokemon dances with a catchy rhythm. The target starts dancing too and both connect to a very personal level through this performance.",
     "_id": "entrainment",
     "Attributes": {},
-    "AddedEffects": {}
+    "AddedEffects": {},
+    "Category": "Support"
 }

@@ -1,7 +1,6 @@
 {
     "Name": "Solar Beam",
     "Type": "Grass",
-    "DmgType": "Special",
     "Power": 5,
     "Damage1": "Special",
     "Damage2": "",
@@ -14,5 +13,6 @@
     "Attributes": {
         "Charge": true
     },
-    "AddedEffects": {}
+    "AddedEffects": {},
+    "Category": "Special"
 }

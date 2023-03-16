@@ -1,7 +1,6 @@
 {
     "Name": "Wish",
     "Type": "Normal",
-    "DmgType": "Support",
     "Power": 0,
     "Damage1": "",
     "Damage2": "",
@@ -12,5 +11,6 @@
     "Description": "The Pokemon makes a wish with all its might and somehow it becomes true.",
     "_id": "wish",
     "Attributes": {},
-    "AddedEffects": {}
+    "AddedEffects": {},
+    "Category": "Support"
 }

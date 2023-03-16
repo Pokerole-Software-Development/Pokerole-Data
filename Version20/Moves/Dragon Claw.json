@@ -1,7 +1,6 @@
 {
     "Name": "Dragon Claw",
     "Type": "Dragon",
-    "DmgType": "Physical",
     "Power": 3,
     "Damage1": "Strength",
     "Damage2": "",
@@ -12,5 +11,6 @@
     "Description": "The Pokemon uses its strong claws to deliver a fierce tearing blow.",
     "_id": "dragon-claw",
     "Attributes": {},
-    "AddedEffects": {}
+    "AddedEffects": {},
+    "Category": "Physical"
 }

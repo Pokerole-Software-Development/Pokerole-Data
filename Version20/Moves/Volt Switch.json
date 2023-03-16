@@ -1,7 +1,6 @@
 {
     "Name": "Volt Switch",
     "Type": "Electric",
-    "DmgType": "Special",
     "Power": 2,
     "Damage1": "Special",
     "Damage2": "",
@@ -14,5 +13,6 @@
     "Attributes": {
         "SwitcherMove": true
     },
-    "AddedEffects": {}
+    "AddedEffects": {},
+    "Category": "Special"
 }

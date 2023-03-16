@@ -1,7 +1,6 @@
 {
     "Name": "Baneful Bunker",
     "Type": "Poison",
-    "DmgType": "Support",
     "Power": 0,
     "Damage1": "",
     "Damage2": "",
@@ -15,5 +14,6 @@
         "ShieldMove": true,
         "Priority": 4
     },
-    "AddedEffects": {}
+    "AddedEffects": {},
+    "Category": "Support"
 }

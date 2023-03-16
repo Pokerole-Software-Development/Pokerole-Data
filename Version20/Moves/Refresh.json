@@ -1,7 +1,6 @@
 {
     "Name": "Refresh",
     "Type": "Normal",
-    "DmgType": "Support",
     "Power": 0,
     "Damage1": "",
     "Damage2": "",
@@ -20,5 +19,6 @@
             "Paralysis",
             "Poison"
         ]
-    }
+    },
+    "Category": "Support"
 }

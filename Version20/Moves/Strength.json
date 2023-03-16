@@ -1,7 +1,6 @@
 {
     "Name": "Strength",
     "Type": "Normal",
-    "DmgType": "Physical",
     "Power": 3,
     "Damage1": "Strength",
     "Damage2": "",
@@ -12,5 +11,6 @@
     "Description": "The Pokemon strains its muscles to go beyond their own limits.",
     "_id": "strength",
     "Attributes": {},
-    "AddedEffects": {}
+    "AddedEffects": {},
+    "Category": "Physical"
 }

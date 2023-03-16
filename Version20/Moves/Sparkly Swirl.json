@@ -1,7 +1,6 @@
 {
     "Name": "Sparkly Swirl",
     "Type": "Fairy",
-    "DmgType": "Special",
     "Power": 3,
     "Damage1": "Special",
     "Damage2": "",
@@ -18,5 +17,6 @@
         "AilmentHeal": [
             "All"
         ]
-    }
+    },
+    "Category": "Special"
 }

@@ -1,7 +1,6 @@
 {
     "Name": "Ice Hammer",
     "Type": "Ice",
-    "DmgType": "Physical",
     "Power": 4,
     "Damage1": "Strength",
     "Damage2": "",
@@ -24,5 +23,6 @@
                 "Affects": "User"
             }
         ]
-    }
+    },
+    "Category": "Physical"
 }

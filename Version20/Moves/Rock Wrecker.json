@@ -1,7 +1,6 @@
 {
     "Name": "Rock Wrecker",
     "Type": "Rock",
-    "DmgType": "Physical",
     "Power": 6,
     "Damage1": "Strength",
     "Damage2": "",
@@ -17,5 +16,6 @@
         "MustRecharge": true,
         "AccuracyReduction": 1
     },
-    "AddedEffects": {}
+    "AddedEffects": {},
+    "Category": "Physical"
 }

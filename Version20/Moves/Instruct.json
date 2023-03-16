@@ -1,7 +1,6 @@
 {
     "Name": "Instruct",
     "Type": "Psychic",
-    "DmgType": "Support",
     "Power": 0,
     "Damage1": "",
     "Damage2": "",
@@ -12,5 +11,6 @@
     "Description": "The Pokemon sends a psychic command to one of its allies or foes to enable them to repeat their last action.",
     "_id": "instruct",
     "Attributes": {},
-    "AddedEffects": {}
+    "AddedEffects": {},
+    "Category": "Support"
 }

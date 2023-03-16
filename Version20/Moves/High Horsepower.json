@@ -1,7 +1,6 @@
 {
     "Name": "High Horsepower",
     "Type": "Ground",
-    "DmgType": "Physical",
     "Power": 3,
     "Damage1": "Strength",
     "Damage2": "",
@@ -12,5 +11,6 @@
     "Description": "The Pokemon rushes towards its target and tramples it without mercy.",
     "_id": "high-horsepower",
     "Attributes": {},
-    "AddedEffects": {}
+    "AddedEffects": {},
+    "Category": "Physical"
 }

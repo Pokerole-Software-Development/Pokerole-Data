@@ -1,7 +1,6 @@
 {
     "Name": "Prismatic Laser",
     "Type": "Psychic",
-    "DmgType": "Special",
     "Power": 6,
     "Damage1": "Special",
     "Damage2": "",
@@ -15,5 +14,6 @@
         "Lethal": true,
         "MustRecharge": true
     },
-    "AddedEffects": {}
+    "AddedEffects": {},
+    "Category": "Special"
 }

@@ -1,7 +1,6 @@
 {
     "Name": "Facade",
     "Type": "Normal",
-    "DmgType": "Physical",
     "Power": 3,
     "Damage1": "Strength",
     "Damage2": "",
@@ -12,5 +11,6 @@
     "Description": "The Pokemon will make an upfront attack. If the user is suffering, the attack will be stronger.",
     "_id": "facade",
     "Attributes": {},
-    "AddedEffects": {}
+    "AddedEffects": {},
+    "Category": "Physical"
 }

@@ -1,7 +1,6 @@
 {
     "Name": "Detect",
     "Type": "Fighting",
-    "DmgType": "Support",
     "Power": 0,
     "Damage1": "",
     "Damage2": "",
@@ -14,5 +13,6 @@
     "Attributes": {
         "ShieldMove": true
     },
-    "AddedEffects": {}
+    "AddedEffects": {},
+    "Category": "Support"
 }

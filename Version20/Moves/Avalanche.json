@@ -1,7 +1,6 @@
 {
     "Name": "Avalanche",
     "Type": "Ice",
-    "DmgType": "Physical",
     "Power": 2,
     "Damage1": "Strength",
     "Damage2": "",
@@ -14,5 +13,6 @@
     "Attributes": {
         "Priority": -4
     },
-    "AddedEffects": {}
+    "AddedEffects": {},
+    "Category": "Physical"
 }

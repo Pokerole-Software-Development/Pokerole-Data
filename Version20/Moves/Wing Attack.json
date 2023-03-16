@@ -1,7 +1,6 @@
 {
     "Name": "Wing Attack",
     "Type": "Flying",
-    "DmgType": "Physical",
     "Power": 2,
     "Damage1": "Strength",
     "Damage2": "",
@@ -12,5 +11,6 @@
     "Description": "The user flies towards the foe and strikes with its wings.",
     "_id": "wing-attack",
     "Attributes": {},
-    "AddedEffects": {}
+    "AddedEffects": {},
+    "Category": "Physical"
 }

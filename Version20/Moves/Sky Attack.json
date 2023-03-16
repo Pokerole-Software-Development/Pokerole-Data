@@ -1,7 +1,6 @@
 {
     "Name": "Sky Attack",
     "Type": "Flying",
-    "DmgType": "Physical",
     "Power": 6,
     "Damage1": "Strength",
     "Damage2": "",
@@ -25,5 +24,6 @@
                 "ChanceDice": 3
             }
         ]
-    }
+    },
+    "Category": "Physical"
 }

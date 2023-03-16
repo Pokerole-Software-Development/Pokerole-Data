@@ -1,7 +1,6 @@
 {
     "Name": "Leaf Blade",
     "Type": "Grass",
-    "DmgType": "Physical",
     "Power": 3,
     "Damage1": "Strength",
     "Damage2": "",
@@ -15,5 +14,6 @@
         "HighCritical": true,
         "Lethal": true
     },
-    "AddedEffects": {}
+    "AddedEffects": {},
+    "Category": "Physical"
 }

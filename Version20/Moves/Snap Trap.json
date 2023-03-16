@@ -1,7 +1,6 @@
 {
     "Name": "Snap Trap",
     "Type": "Grass",
-    "DmgType": "Physical",
     "Power": 2,
     "Damage1": "Strength",
     "Damage2": "",
@@ -20,5 +19,6 @@
                 "Rounds": 4
             }
         ]
-    }
+    },
+    "Category": "Physical"
 }

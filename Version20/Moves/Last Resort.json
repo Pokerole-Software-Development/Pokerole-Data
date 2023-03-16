@@ -1,7 +1,6 @@
 {
     "Name": "Last Resort",
     "Type": "Normal",
-    "DmgType": "Physical",
     "Power": 6,
     "Damage1": "Strength",
     "Damage2": "",
@@ -12,5 +11,6 @@
     "Description": "When everything else fails, the Pokemon gives everything in a last resort attack.",
     "_id": "last-resort",
     "Attributes": {},
-    "AddedEffects": {}
+    "AddedEffects": {},
+    "Category": "Physical"
 }

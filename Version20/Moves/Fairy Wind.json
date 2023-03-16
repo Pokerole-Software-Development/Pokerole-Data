@@ -1,7 +1,6 @@
 {
     "Name": "Fairy Wind",
     "Type": "Fairy",
-    "DmgType": "Special",
     "Power": 2,
     "Damage1": "Special",
     "Damage2": "",
@@ -12,5 +11,6 @@
     "Description": "The Pokemon strikes with a wind covered in fairy dust. It causes itching.",
     "_id": "fairy-wind",
     "Attributes": {},
-    "AddedEffects": {}
+    "AddedEffects": {},
+    "Category": "Special"
 }

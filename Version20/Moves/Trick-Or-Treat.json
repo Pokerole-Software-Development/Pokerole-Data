@@ -1,7 +1,6 @@
 {
     "Name": "Trick-Or-Treat",
     "Type": "Ghost",
-    "DmgType": "Support",
     "Power": 0,
     "Damage1": "",
     "Damage2": "",
@@ -12,5 +11,6 @@
     "Description": "The Pokemon takes the target Trick-or-Treating. The target gets a ghost costume which somehow cannot be removed without a medium's help.",
     "_id": "trick-or-treat",
     "Attributes": {},
-    "AddedEffects": {}
+    "AddedEffects": {},
+    "Category": "Support"
 }

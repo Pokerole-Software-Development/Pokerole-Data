@@ -1,7 +1,6 @@
 {
     "Name": "Snarl",
     "Type": "Dark",
-    "DmgType": "Special",
     "Power": 2,
     "Damage1": "Special",
     "Damage2": "",
@@ -24,5 +23,6 @@
                 "Affects": "Targets"
             }
         ]
-    }
+    },
+    "Category": "Special"
 }

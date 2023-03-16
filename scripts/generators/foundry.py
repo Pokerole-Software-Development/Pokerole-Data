@@ -500,7 +500,7 @@ class Foundry(object):
                         "system": {
                             "description": description,
                             "type": move_type,
-                            "category": entry['DmgType'].lower(),
+                            "category": entry['Category'].lower(),
                             # Special case for Spider Web
                             "target": entry['Target'] if id != 'spider-web' else "Battlefield (Foes)",
                             "power": entry['Power'],

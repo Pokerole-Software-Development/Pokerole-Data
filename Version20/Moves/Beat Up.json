@@ -1,7 +1,6 @@
 {
     "Name": "Beat Up",
     "Type": "Dark",
-    "DmgType": "Physical",
     "Power": 2,
     "Damage1": "Strength",
     "Damage2": "",
@@ -12,5 +11,6 @@
     "Description": "The user calls other Pokemon to aid it in battle, together they give a beating to the foe.",
     "_id": "beat-up",
     "Attributes": {},
-    "AddedEffects": {}
+    "AddedEffects": {},
+    "Category": "Physical"
 }

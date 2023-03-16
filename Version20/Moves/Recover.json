@@ -1,7 +1,6 @@
 {
     "Name": "Recover",
     "Type": "Normal",
-    "DmgType": "Support",
     "Power": 0,
     "Damage1": "",
     "Damage2": "",
@@ -18,5 +17,6 @@
             "Target": "Targets",
             "WillPointCost": 1
         }
-    }
+    },
+    "Category": "Support"
 }

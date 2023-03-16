@@ -1,7 +1,6 @@
 {
     "Name": "Stone Edge",
     "Type": "Rock",
-    "DmgType": "Physical",
     "Power": 4,
     "Damage1": "Strength",
     "Damage2": "",
@@ -17,5 +16,6 @@
         "PhysicalRanged": true,
         "AccuracyReduction": 2
     },
-    "AddedEffects": {}
+    "AddedEffects": {},
+    "Category": "Physical"
 }

@@ -1,7 +1,6 @@
 {
     "Name": "Take Down",
     "Type": "Normal",
-    "DmgType": "Physical",
     "Power": 3,
     "Damage1": "Strength",
     "Damage2": "",
@@ -15,5 +14,6 @@
         "Recoil": true,
         "AccuracyReduction": 2
     },
-    "AddedEffects": {}
+    "AddedEffects": {},
+    "Category": "Physical"
 }

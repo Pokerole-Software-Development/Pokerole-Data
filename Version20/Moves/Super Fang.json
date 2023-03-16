@@ -1,7 +1,6 @@
 {
     "Name": "Super Fang",
     "Type": "Normal",
-    "DmgType": "Physical",
     "Power": 0,
     "Damage1": "",
     "Damage2": "",
@@ -22,5 +21,6 @@
             "MaxValue": 10,
             "Target": "Targets"
         }
-    }
+    },
+    "Category": "Physical"
 }

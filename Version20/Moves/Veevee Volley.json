@@ -1,7 +1,6 @@
 {
     "Name": "Veevee Volley",
     "Type": "Normal",
-    "DmgType": "Physical",
     "Power": 0,
     "Damage1": "Strength",
     "Damage2": "Happiness",
@@ -12,5 +11,6 @@
     "Description": "Long sessions playing Volley ball with your Pokemon make it very happy. During battle, it just replaces the ball with its foe.",
     "_id": "veevee-volley",
     "Attributes": {},
-    "AddedEffects": {}
+    "AddedEffects": {},
+    "Category": "Physical"
 }

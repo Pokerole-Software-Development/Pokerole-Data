@@ -1,7 +1,6 @@
 {
     "Name": "Horn Drill",
     "Type": "Normal",
-    "DmgType": "Physical",
     "Power": 0,
     "Damage1": "",
     "Damage2": "",
@@ -20,5 +19,6 @@
             "Type": "OneHitKO",
             "Target": "Targets"
         }
-    }
+    },
+    "Category": "Physical"
 }

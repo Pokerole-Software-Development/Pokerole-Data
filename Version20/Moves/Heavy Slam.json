@@ -1,7 +1,6 @@
 {
     "Name": "Heavy Slam",
     "Type": "Steel",
-    "DmgType": "Physical",
     "Power": 1,
     "Damage1": "Strength",
     "Damage2": "",
@@ -12,5 +11,6 @@
     "Description": "The user slams the foe usin its whole body weight. Smaller foes will be deeply affected.",
     "_id": "heavy-slam",
     "Attributes": {},
-    "AddedEffects": {}
+    "AddedEffects": {},
+    "Category": "Physical"
 }

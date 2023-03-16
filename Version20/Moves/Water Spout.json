@@ -1,7 +1,6 @@
 {
     "Name": "Water Spout",
     "Type": "Water",
-    "DmgType": "Special",
     "Power": 6,
     "Damage1": "Special",
     "Damage2": "",
@@ -12,5 +11,6 @@
     "Description": "The Pokemon builds up an amazing pressure and releases a huge columnar vortex of water that could even reach the clouds.",
     "_id": "water-spout",
     "Attributes": {},
-    "AddedEffects": {}
+    "AddedEffects": {},
+    "Category": "Special"
 }

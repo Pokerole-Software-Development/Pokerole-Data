@@ -1,7 +1,6 @@
 {
     "Name": "Jump Kick",
     "Type": "Fighting",
-    "DmgType": "Physical",
     "Power": 4,
     "Damage1": "Strength",
     "Damage2": "",
@@ -12,5 +11,6 @@
     "Description": "The Pokemon jumps and delivers a powerful kick. It might hurt the user if it doesn't hit the target.",
     "_id": "jump-kick",
     "Attributes": {},
-    "AddedEffects": {}
+    "AddedEffects": {},
+    "Category": "Physical"
 }

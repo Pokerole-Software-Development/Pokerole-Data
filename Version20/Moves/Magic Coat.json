@@ -1,7 +1,6 @@
 {
     "Name": "Magic Coat",
     "Type": "Psychic",
-    "DmgType": "Support",
     "Power": 0,
     "Damage1": "",
     "Damage2": "",
@@ -14,5 +13,6 @@
     "Attributes": {
         "Priority": 4
     },
-    "AddedEffects": {}
+    "AddedEffects": {},
+    "Category": "Support"
 }

@@ -1,7 +1,6 @@
 {
     "Name": "Spikes",
     "Type": "Ground",
-    "DmgType": "Support",
     "Power": 0,
     "Damage1": "",
     "Damage2": "",
@@ -12,5 +11,6 @@
     "Description": "The Pokemon shoots pointy pebbles or thorns around the field that deal damage to anyone coming from that side.",
     "_id": "spikes",
     "Attributes": {},
-    "AddedEffects": {}
+    "AddedEffects": {},
+    "Category": "Support"
 }

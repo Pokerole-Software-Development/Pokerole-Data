@@ -1,7 +1,6 @@
 {
     "Name": "Teleport",
     "Type": "Psychic",
-    "DmgType": "Support",
     "Power": 0,
     "Damage1": "",
     "Damage2": "",
@@ -12,5 +11,6 @@
     "Description": "Teleport the user and one more creature to a place of tranquility and high psychic resonance such as Pokemon Centers. Ceilings and walls block this move from working.",
     "_id": "teleport",
     "Attributes": {},
-    "AddedEffects": {}
+    "AddedEffects": {},
+    "Category": "Support"
 }

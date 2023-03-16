@@ -1,7 +1,6 @@
 {
     "Name": "Dragon Tail",
     "Type": "Dragon",
-    "DmgType": "Physical",
     "Power": 2,
     "Damage1": "Strength",
     "Damage2": "",
@@ -16,5 +15,6 @@
         "AccuracyReduction": 1,
         "Priority": -1
     },
-    "AddedEffects": {}
+    "AddedEffects": {},
+    "Category": "Physical"
 }

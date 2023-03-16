@@ -1,7 +1,6 @@
 {
     "Name": "Haze",
     "Type": "Ice",
-    "DmgType": "Support",
     "Power": 0,
     "Damage1": "",
     "Damage2": "",
@@ -12,5 +11,6 @@
     "Description": "The user sends out a haze that disturbs all the Pokemon engaged in battle. It may conceal whoever is inside.",
     "_id": "haze",
     "Attributes": {},
-    "AddedEffects": {}
+    "AddedEffects": {},
+    "Category": "Support"
 }

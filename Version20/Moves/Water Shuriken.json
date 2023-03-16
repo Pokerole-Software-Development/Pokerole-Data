@@ -1,7 +1,6 @@
 {
     "Name": "Water Shuriken",
     "Type": "Water",
-    "DmgType": "Special",
     "Power": 1,
     "Damage1": "Special",
     "Damage2": "",
@@ -15,5 +14,6 @@
         "SuccessiveActions": true,
         "Priority": 1
     },
-    "AddedEffects": {}
+    "AddedEffects": {},
+    "Category": "Special"
 }

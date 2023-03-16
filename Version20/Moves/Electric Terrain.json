@@ -1,7 +1,6 @@
 {
     "Name": "Electric Terrain",
     "Type": "Electric",
-    "DmgType": "Support",
     "Power": 0,
     "Damage1": "",
     "Damage2": "",
@@ -12,5 +11,6 @@
     "Description": "The user electrifies the terrain, making it impossible to get a good night's sleep on it.",
     "_id": "electric-terrain",
     "Attributes": {},
-    "AddedEffects": {}
+    "AddedEffects": {},
+    "Category": "Support"
 }

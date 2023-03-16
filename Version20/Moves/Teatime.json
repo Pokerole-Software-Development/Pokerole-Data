@@ -1,7 +1,6 @@
 {
     "Name": "Teatime",
     "Type": "Normal",
-    "DmgType": "Support",
     "Power": 0,
     "Damage1": "",
     "Damage2": "",
@@ -12,5 +11,6 @@
     "Description": "The Pokemon gathers everyone for a cup of delicious tea. Not eating a snack along with it would be a waste.",
     "_id": "teatime",
     "Attributes": {},
-    "AddedEffects": {}
+    "AddedEffects": {},
+    "Category": "Support"
 }

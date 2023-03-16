@@ -1,7 +1,6 @@
 {
     "Name": "Wring Out",
     "Type": "Normal",
-    "DmgType": "Physical",
     "Power": 5,
     "Damage1": "Strength",
     "Damage2": "",
@@ -12,5 +11,6 @@
     "Description": "The Pokemon literally squeezes the life out of its target. As life is fading, squeezing will be harder.",
     "_id": "wring-out",
     "Attributes": {},
-    "AddedEffects": {}
+    "AddedEffects": {},
+    "Category": "Physical"
 }

@@ -1,7 +1,6 @@
 {
     "Name": "Venom Drench",
     "Type": "Poison",
-    "DmgType": "Support",
     "Power": 0,
     "Damage1": "",
     "Damage2": "",
@@ -12,5 +11,6 @@
     "Description": "Foes are drenched in an odd poisonous liquid that targets their weakened immune systems.",
     "_id": "venom-drench",
     "Attributes": {},
-    "AddedEffects": {}
+    "AddedEffects": {},
+    "Category": "Support"
 }

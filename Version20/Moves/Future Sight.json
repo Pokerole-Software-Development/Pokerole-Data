@@ -1,7 +1,6 @@
 {
     "Name": "Future Sight",
     "Type": "Psychic",
-    "DmgType": "Special",
     "Power": 5,
     "Damage1": "Special",
     "Damage2": "",
@@ -19,5 +18,6 @@
                 "Affects": "Targets"
             }
         ]
-    }
+    },
+    "Category": "Special"
 }

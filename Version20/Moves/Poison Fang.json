@@ -1,7 +1,6 @@
 {
     "Name": "Poison Fang",
     "Type": "Poison",
-    "DmgType": "Physical",
     "Power": 2,
     "Damage1": "Strength",
     "Damage2": "",
@@ -20,5 +19,6 @@
                 "ChanceDice": 5
             }
         ]
-    }
+    },
+    "Category": "Physical"
 }

@@ -1,7 +1,6 @@
 {
     "Name": "Double Iron Bash",
     "Type": "Steel",
-    "DmgType": "Physical",
     "Power": 2,
     "Damage1": "Strength",
     "Damage2": "",
@@ -20,5 +19,6 @@
                 "ChanceDice": 3
             }
         ]
-    }
+    },
+    "Category": "Physical"
 }

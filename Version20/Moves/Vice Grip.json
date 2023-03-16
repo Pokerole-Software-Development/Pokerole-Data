@@ -1,7 +1,6 @@
 {
     "Name": "Vice Grip",
     "Type": "Normal",
-    "DmgType": "Physical",
     "Power": 2,
     "Damage1": "Strength",
     "Damage2": "",
@@ -12,5 +11,6 @@
     "Description": "The Pokemon traps the foe with its pincers or jaws and applies pressure that will leave a nasty bruise.",
     "_id": "vice-grip",
     "Attributes": {},
-    "AddedEffects": {}
+    "AddedEffects": {},
+    "Category": "Physical"
 }

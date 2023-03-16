@@ -1,7 +1,6 @@
 {
     "Name": "Bug Bite",
     "Type": "Bug",
-    "DmgType": "Physical",
     "Power": 2,
     "Damage1": "Strength",
     "Damage2": "",
@@ -12,5 +11,6 @@
     "Description": "The Pokemon nibbles its foe, if it finds something tasty it will eat it in an instant. It may try to eat almost anything.",
     "_id": "bug-bite",
     "Attributes": {},
-    "AddedEffects": {}
+    "AddedEffects": {},
+    "Category": "Physical"
 }

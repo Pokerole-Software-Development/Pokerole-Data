@@ -1,7 +1,6 @@
 {
     "Name": "Magnitude",
     "Type": "Ground",
-    "DmgType": "Physical",
     "Power": 0,
     "Damage1": "Strength",
     "Damage2": "",
@@ -14,5 +13,6 @@
     "Attributes": {
         "PhysicalRanged": true
     },
-    "AddedEffects": {}
+    "AddedEffects": {},
+    "Category": "Physical"
 }

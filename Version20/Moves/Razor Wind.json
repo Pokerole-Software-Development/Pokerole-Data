@@ -1,7 +1,6 @@
 {
     "Name": "Razor Wind",
     "Type": "Normal",
-    "DmgType": "Special",
     "Power": 3,
     "Damage1": "Special",
     "Damage2": "",
@@ -14,5 +13,6 @@
     "Attributes": {
         "HighCritical": true
     },
-    "AddedEffects": {}
+    "AddedEffects": {},
+    "Category": "Special"
 }

@@ -1,7 +1,6 @@
 {
     "Name": "Boomburst",
     "Type": "Normal",
-    "DmgType": "Special",
     "Power": 6,
     "Damage1": "Special",
     "Damage2": "",
@@ -14,5 +13,6 @@
     "Attributes": {
         "SoundBased": true
     },
-    "AddedEffects": {}
+    "AddedEffects": {},
+    "Category": "Special"
 }

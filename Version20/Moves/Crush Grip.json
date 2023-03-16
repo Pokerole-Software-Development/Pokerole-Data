@@ -1,7 +1,6 @@
 {
     "Name": "Crush Grip",
     "Type": "Normal",
-    "DmgType": "Physical",
     "Power": 1,
     "Damage1": "Strength",
     "Damage2": "",
@@ -14,5 +13,6 @@
     "Attributes": {
         "Lethal": true
     },
-    "AddedEffects": {}
+    "AddedEffects": {},
+    "Category": "Physical"
 }

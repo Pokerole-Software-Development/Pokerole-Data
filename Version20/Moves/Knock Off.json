@@ -1,7 +1,6 @@
 {
     "Name": "Knock Off",
     "Type": "Dark",
-    "DmgType": "Physical",
     "Power": 2,
     "Damage1": "Strength",
     "Damage2": "",
@@ -12,5 +11,6 @@
     "Description": "The Pokemon makes a quick tackle that knocks off anything the foe was holding.",
     "_id": "knock-off",
     "Attributes": {},
-    "AddedEffects": {}
+    "AddedEffects": {},
+    "Category": "Physical"
 }

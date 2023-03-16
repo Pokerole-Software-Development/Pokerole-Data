@@ -1,7 +1,6 @@
 {
     "Name": "Cross Chop",
     "Type": "Fighting",
-    "DmgType": "Physical",
     "Power": 4,
     "Damage1": "Strength",
     "Damage2": "",
@@ -15,5 +14,6 @@
         "HighCritical": true,
         "AccuracyReduction": 2
     },
-    "AddedEffects": {}
+    "AddedEffects": {},
+    "Category": "Physical"
 }

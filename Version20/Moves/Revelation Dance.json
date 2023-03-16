@@ -1,7 +1,6 @@
 {
     "Name": "Revelation Dance",
     "Type": "Normal",
-    "DmgType": "Special",
     "Power": 3,
     "Damage1": "Special",
     "Damage2": "",
@@ -12,5 +11,6 @@
     "Description": "The Pokemon performa a dance. The dance's energy influences the Type of this Move.",
     "_id": "revelation-dance",
     "Attributes": {},
-    "AddedEffects": {}
+    "AddedEffects": {},
+    "Category": "Special"
 }

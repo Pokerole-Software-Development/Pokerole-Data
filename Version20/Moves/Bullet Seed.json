@@ -1,7 +1,6 @@
 {
     "Name": "Bullet Seed",
     "Type": "Grass",
-    "DmgType": "Physical",
     "Power": 1,
     "Damage1": "Strength",
     "Damage2": "",
@@ -15,5 +14,6 @@
         "PhysicalRanged": true,
         "SuccessiveActions": true
     },
-    "AddedEffects": {}
+    "AddedEffects": {},
+    "Category": "Physical"
 }

@@ -1,7 +1,6 @@
 {
     "Name": "Flare Blitz",
     "Type": "Fire",
-    "DmgType": "Physical",
     "Power": 5,
     "Damage1": "Strength",
     "Damage2": "",
@@ -22,5 +21,6 @@
                 "ChanceDice": 1
             }
         ]
-    }
+    },
+    "Category": "Physical"
 }

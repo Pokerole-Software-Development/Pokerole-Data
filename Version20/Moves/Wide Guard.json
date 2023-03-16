@@ -1,7 +1,6 @@
 {
     "Name": "Wide Guard",
     "Type": "Rock",
-    "DmgType": "Support",
     "Power": 0,
     "Damage1": "",
     "Damage2": "",
@@ -15,5 +14,6 @@
         "ShieldMove": true,
         "Priority": 3
     },
-    "AddedEffects": {}
+    "AddedEffects": {},
+    "Category": "Support"
 }

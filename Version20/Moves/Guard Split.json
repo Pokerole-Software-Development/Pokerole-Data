@@ -1,7 +1,6 @@
 {
     "Name": "Guard Split",
     "Type": "Psychic",
-    "DmgType": "Support",
     "Power": 0,
     "Damage1": "",
     "Damage2": "",
@@ -12,5 +11,6 @@
     "Description": "The user employs its psychic power to average its resilience with the foe. They both feel like they're equals in terms of toughness.",
     "_id": "guard-split",
     "Attributes": {},
-    "AddedEffects": {}
+    "AddedEffects": {},
+    "Category": "Support"
 }

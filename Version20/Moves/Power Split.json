@@ -1,7 +1,6 @@
 {
     "Name": "Power Split",
     "Type": "Psychic",
-    "DmgType": "Support",
     "Power": 0,
     "Damage1": "",
     "Damage2": "",
@@ -23,5 +22,6 @@
                 "Affects": "User"
             }
         ]
-    }
+    },
+    "Category": "Support"
 }

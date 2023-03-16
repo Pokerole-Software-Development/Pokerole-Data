@@ -1,7 +1,6 @@
 {
     "Name": "Multi-Attack",
     "Type": "Normal",
-    "DmgType": "Physical",
     "Power": 3,
     "Damage1": "Strength",
     "Damage2": "",
@@ -12,5 +11,6 @@
     "Description": "A weird-looking Pokemon charged against its foes, the same attack releases different kinds of energy depending on the disk it was holding.",
     "_id": "multi-attack",
     "Attributes": {},
-    "AddedEffects": {}
+    "AddedEffects": {},
+    "Category": "Physical"
 }

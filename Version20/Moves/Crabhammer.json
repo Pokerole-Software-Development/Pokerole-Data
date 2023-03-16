@@ -1,7 +1,6 @@
 {
     "Name": "Crabhammer",
     "Type": "Water",
-    "DmgType": "Physical",
     "Power": 3,
     "Damage1": "Strength",
     "Damage2": "",
@@ -15,5 +14,6 @@
         "HighCritical": true,
         "AccuracyReduction": 1
     },
-    "AddedEffects": {}
+    "AddedEffects": {},
+    "Category": "Physical"
 }

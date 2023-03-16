@@ -1,7 +1,6 @@
 {
     "Name": "Scratch",
     "Type": "Normal",
-    "DmgType": "Physical",
     "Power": 2,
     "Damage1": "Strength",
     "Damage2": "",
@@ -12,5 +11,6 @@
     "Description": "The Pokemon uses its sharp claws to scratch the enemy.",
     "_id": "scratch",
     "Attributes": {},
-    "AddedEffects": {}
+    "AddedEffects": {},
+    "Category": "Physical"
 }

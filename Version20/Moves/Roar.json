@@ -1,7 +1,6 @@
 {
     "Name": "Roar",
     "Type": "Normal",
-    "DmgType": "Support",
     "Power": 0,
     "Damage1": "",
     "Damage2": "",
@@ -15,5 +14,6 @@
         "SwitcherMove": true,
         "Priority": -6
     },
-    "AddedEffects": {}
+    "AddedEffects": {},
+    "Category": "Support"
 }

@@ -1,7 +1,6 @@
 {
     "Name": "Trick Room",
     "Type": "Psychic",
-    "DmgType": "Support",
     "Power": 0,
     "Damage1": "",
     "Damage2": "",
@@ -12,5 +11,6 @@
     "Description": "This reality altering move can manipulate time, so slow creatures are fast, and fast creatures are slow.",
     "_id": "trick-room",
     "Attributes": {},
-    "AddedEffects": {}
+    "AddedEffects": {},
+    "Category": "Support"
 }

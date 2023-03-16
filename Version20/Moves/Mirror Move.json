@@ -1,7 +1,6 @@
 {
     "Name": "Mirror Move",
     "Type": "Flying",
-    "DmgType": "Support",
     "Power": 0,
     "Damage1": "",
     "Damage2": "",
@@ -12,5 +11,6 @@
     "Description": "The user concentrates and manages to imitate the last move used by the foe.",
     "_id": "mirror-move",
     "Attributes": {},
-    "AddedEffects": {}
+    "AddedEffects": {},
+    "Category": "Support"
 }

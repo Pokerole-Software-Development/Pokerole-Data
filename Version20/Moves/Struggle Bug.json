@@ -1,7 +1,6 @@
 {
     "Name": "Struggle Bug",
     "Type": "Bug",
-    "DmgType": "Special",
     "Power": 1,
     "Damage1": "Special",
     "Damage2": "",
@@ -22,5 +21,6 @@
                 "Affects": "Targets"
             }
         ]
-    }
+    },
+    "Category": "Special"
 }

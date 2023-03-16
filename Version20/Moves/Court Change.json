@@ -1,7 +1,6 @@
 {
     "Name": "Court Change",
     "Type": "Normal",
-    "DmgType": "Support",
     "Power": 0,
     "Damage1": "",
     "Damage2": "",
@@ -12,5 +11,6 @@
     "Description": "The Pokemon signals the referee for half-time, the referee complies and both parties swap their sides of the field. Wait. Did we forget something?",
     "_id": "court-change",
     "Attributes": {},
-    "AddedEffects": {}
+    "AddedEffects": {},
+    "Category": "Support"
 }

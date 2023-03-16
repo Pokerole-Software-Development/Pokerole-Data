@@ -1,7 +1,6 @@
 {
     "Name": "Lick",
     "Type": "Ghost",
-    "DmgType": "Physical",
     "Power": 1,
     "Damage1": "Strength",
     "Damage2": "",
@@ -20,5 +19,6 @@
                 "ChanceDice": 3
             }
         ]
-    }
+    },
+    "Category": "Physical"
 }

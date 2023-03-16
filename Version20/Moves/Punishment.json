@@ -1,7 +1,6 @@
 {
     "Name": "Punishment",
     "Type": "Dark",
-    "DmgType": "Physical",
     "Power": 1,
     "Damage1": "Strength",
     "Damage2": "",
@@ -12,5 +11,6 @@
     "Description": "The user takes advantage of its foe's strengths to use them against it.",
     "_id": "punishment",
     "Attributes": {},
-    "AddedEffects": {}
+    "AddedEffects": {},
+    "Category": "Physical"
 }

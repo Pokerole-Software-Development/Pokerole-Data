@@ -1,7 +1,6 @@
 {
     "Name": "Stealth Rock",
     "Type": "Rock",
-    "DmgType": "Support",
     "Power": 0,
     "Damage1": "",
     "Damage2": "",
@@ -12,5 +11,6 @@
     "Description": "The Pokemon hides sharp and point rocks all over the foe's side of the battlefield.",
     "_id": "stealth-rock",
     "Attributes": {},
-    "AddedEffects": {}
+    "AddedEffects": {},
+    "Category": "Support"
 }

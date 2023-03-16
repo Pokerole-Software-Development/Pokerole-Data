@@ -1,7 +1,6 @@
 {
     "Name": "Clangorous Soul",
     "Type": "Dragon",
-    "DmgType": "Support",
     "Power": 0,
     "Damage1": "",
     "Damage2": "",
@@ -31,5 +30,6 @@
             "Value": 0.5,
             "Target": "Targets"
         }
-    }
+    },
+    "Category": "Support"
 }

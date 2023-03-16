@@ -1,7 +1,6 @@
 {
     "Name": "Rock Slide",
     "Type": "Rock",
-    "DmgType": "Physical",
     "Power": 3,
     "Damage1": "Strength",
     "Damage2": "",
@@ -23,5 +22,6 @@
                 "ChanceDice": 3
             }
         ]
-    }
+    },
+    "Category": "Physical"
 }

@@ -1,7 +1,6 @@
 {
     "Name": "Ice Burn",
     "Type": "Ice",
-    "DmgType": "Special",
     "Power": 6,
     "Damage1": "Special",
     "Damage2": "",
@@ -24,5 +23,6 @@
                 "ChanceDice": 3
             }
         ]
-    }
+    },
+    "Category": "Special"
 }

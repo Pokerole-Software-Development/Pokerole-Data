@@ -1,7 +1,6 @@
 {
     "Name": "Trump Card",
     "Type": "Normal",
-    "DmgType": "Special",
     "Power": 2,
     "Damage1": "Special",
     "Damage2": "",
@@ -12,5 +11,6 @@
     "Description": "The more exhausted the user is, the stronger this attack will become. When the Pokemon is at the last of its strength this move can be devastating.",
     "_id": "trump-card",
     "Attributes": {},
-    "AddedEffects": {}
+    "AddedEffects": {},
+    "Category": "Special"
 }

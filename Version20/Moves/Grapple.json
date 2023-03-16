@@ -1,7 +1,6 @@
 {
     "Name": "Grapple",
     "Type": "Typeless",
-    "DmgType": "Support",
     "Power": 0,
     "Damage1": "",
     "Damage2": "",
@@ -12,5 +11,6 @@
     "Description": "",
     "_id": "grapple",
     "Attributes": {},
-    "AddedEffects": {}
+    "AddedEffects": {},
+    "Category": "Support"
 }

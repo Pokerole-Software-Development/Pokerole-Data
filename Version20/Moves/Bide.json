@@ -1,7 +1,6 @@
 {
     "Name": "Bide",
     "Type": "Normal",
-    "DmgType": "Physical",
     "Power": 0,
     "Damage1": "",
     "Damage2": "",
@@ -19,5 +18,6 @@
                 "Affects": "User"
             }
         ]
-    }
+    },
+    "Category": "Physical"
 }

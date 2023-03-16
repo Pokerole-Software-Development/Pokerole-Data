@@ -1,7 +1,6 @@
 {
     "Name": "Gunk Shot",
     "Type": "Poison",
-    "DmgType": "Physical",
     "Power": 5,
     "Damage1": "Strength",
     "Damage2": "",
@@ -23,5 +22,6 @@
                 "ChanceDice": 3
             }
         ]
-    }
+    },
+    "Category": "Physical"
 }

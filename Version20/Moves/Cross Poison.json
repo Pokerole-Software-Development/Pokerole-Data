@@ -1,7 +1,6 @@
 {
     "Name": "Cross Poison",
     "Type": "Poison",
-    "DmgType": "Physical",
     "Power": 3,
     "Damage1": "Strength",
     "Damage2": "",
@@ -22,5 +21,6 @@
                 "ChanceDice": 1
             }
         ]
-    }
+    },
+    "Category": "Physical"
 }

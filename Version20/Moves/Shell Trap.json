@@ -1,7 +1,6 @@
 {
     "Name": "Shell Trap",
     "Type": "Fire",
-    "DmgType": "Special",
     "Power": 6,
     "Damage1": "Special",
     "Damage2": "",
@@ -21,5 +20,6 @@
                 "Affects": "Targets"
             }
         ]
-    }
+    },
+    "Category": "Special"
 }

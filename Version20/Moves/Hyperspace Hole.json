@@ -1,7 +1,6 @@
 {
     "Name": "Hyperspace Hole",
     "Type": "Psychic",
-    "DmgType": "Special",
     "Power": 3,
     "Damage1": "Special",
     "Damage2": "",
@@ -14,5 +13,6 @@
     "Attributes": {
         "IgnoreShield": true
     },
-    "AddedEffects": {}
+    "AddedEffects": {},
+    "Category": "Special"
 }

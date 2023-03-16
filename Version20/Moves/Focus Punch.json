@@ -1,7 +1,6 @@
 {
     "Name": "Focus Punch",
     "Type": "Fighting",
-    "DmgType": "Physical",
     "Power": 6,
     "Damage1": "Strength",
     "Damage2": "",
@@ -15,5 +14,6 @@
         "Charge": true,
         "FistBased": true
     },
-    "AddedEffects": {}
+    "AddedEffects": {},
+    "Category": "Physical"
 }

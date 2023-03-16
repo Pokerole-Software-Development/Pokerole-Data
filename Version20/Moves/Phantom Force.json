@@ -1,7 +1,6 @@
 {
     "Name": "Phantom Force",
     "Type": "Ghost",
-    "DmgType": "Physical",
     "Power": 3,
     "Damage1": "Strength",
     "Damage2": "",
@@ -15,5 +14,6 @@
         "Charge": true,
         "DestroyShield": true
     },
-    "AddedEffects": {}
+    "AddedEffects": {},
+    "Category": "Physical"
 }

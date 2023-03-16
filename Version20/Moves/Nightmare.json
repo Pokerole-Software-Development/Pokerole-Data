@@ -1,7 +1,6 @@
 {
     "Name": "Nightmare",
     "Type": "Ghost",
-    "DmgType": "Support",
     "Power": 0,
     "Damage1": "",
     "Damage2": "",
@@ -19,5 +18,6 @@
                 "Affects": "Targets"
             }
         ]
-    }
+    },
+    "Category": "Support"
 }

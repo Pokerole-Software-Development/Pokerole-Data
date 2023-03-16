@@ -1,7 +1,6 @@
 {
     "Name": "Gyro Ball",
     "Type": "Steel",
-    "DmgType": "Physical",
     "Power": 1,
     "Damage1": "Strength",
     "Damage2": "",
@@ -12,5 +11,6 @@
     "Description": "The user curls up in a ball and spins against the target at a high speed.",
     "_id": "gyro-ball",
     "Attributes": {},
-    "AddedEffects": {}
+    "AddedEffects": {},
+    "Category": "Physical"
 }

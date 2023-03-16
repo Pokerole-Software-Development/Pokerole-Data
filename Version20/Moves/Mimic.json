@@ -1,7 +1,6 @@
 {
     "Name": "Mimic",
     "Type": "Normal",
-    "DmgType": "Support",
     "Power": 0,
     "Damage1": "",
     "Damage2": "",
@@ -12,5 +11,6 @@
     "Description": "Making use of its acting talents, the Pokemon imitates what the target just did.",
     "_id": "mimic",
     "Attributes": {},
-    "AddedEffects": {}
+    "AddedEffects": {},
+    "Category": "Support"
 }

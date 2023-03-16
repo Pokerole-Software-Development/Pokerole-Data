@@ -1,7 +1,6 @@
 {
     "Name": "Eerie Impulse",
     "Type": "Electric",
-    "DmgType": "Support",
     "Power": 0,
     "Damage1": "",
     "Damage2": "",
@@ -22,5 +21,6 @@
                 "Affects": "Targets"
             }
         ]
-    }
+    },
+    "Category": "Support"
 }

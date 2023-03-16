@@ -1,7 +1,6 @@
 {
     "Name": "Moongeist Beam",
     "Type": "Ghost",
-    "DmgType": "Special",
     "Power": 4,
     "Damage1": "Special",
     "Damage2": "",
@@ -15,5 +14,6 @@
         "Lethal": true,
         "IgnoreShield": true
     },
-    "AddedEffects": {}
+    "AddedEffects": {},
+    "Category": "Special"
 }

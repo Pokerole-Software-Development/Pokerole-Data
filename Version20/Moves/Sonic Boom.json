@@ -1,7 +1,6 @@
 {
     "Name": "Sonic Boom",
     "Type": "Normal",
-    "DmgType": "Special",
     "Power": 0,
     "Damage1": "",
     "Damage2": "",
@@ -12,5 +11,6 @@
     "Description": "The Pokemon attacks with a small destructive shock that can go through armor, thick hide, or walls to deal some damage.",
     "_id": "sonic-boom",
     "Attributes": {},
-    "AddedEffects": {}
+    "AddedEffects": {},
+    "Category": "Special"
 }

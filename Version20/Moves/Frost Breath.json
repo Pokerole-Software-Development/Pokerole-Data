@@ -1,7 +1,6 @@
 {
     "Name": "Frost Breath",
     "Type": "Ice",
-    "DmgType": "Special",
     "Power": 2,
     "Damage1": "Special",
     "Damage2": "",
@@ -15,5 +14,6 @@
         "AccuracyReduction": 1,
         "AlwaysCrit": true
     },
-    "AddedEffects": {}
+    "AddedEffects": {},
+    "Category": "Special"
 }

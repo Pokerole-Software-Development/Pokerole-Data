@@ -1,7 +1,6 @@
 {
     "Name": "Dragon Rush",
     "Type": "Dragon",
-    "DmgType": "Physical",
     "Power": 4,
     "Damage1": "Strength",
     "Damage2": "",
@@ -22,5 +21,6 @@
                 "ChanceDice": 2
             }
         ]
-    }
+    },
+    "Category": "Physical"
 }

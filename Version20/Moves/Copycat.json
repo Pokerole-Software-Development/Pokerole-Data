@@ -1,7 +1,6 @@
 {
     "Name": "Copycat",
     "Type": "Normal",
-    "DmgType": "Support",
     "Power": 0,
     "Damage1": "Same as the copied move",
     "Damage2": "",
@@ -12,5 +11,6 @@
     "Description": "The user will closely watch the movements of the target and will imitate them to perfection.",
     "_id": "copycat",
     "Attributes": {},
-    "AddedEffects": {}
+    "AddedEffects": {},
+    "Category": "Support"
 }

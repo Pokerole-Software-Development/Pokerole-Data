@@ -1,7 +1,6 @@
 {
     "Name": "Precipice Blades",
     "Type": "Ground",
-    "DmgType": "Physical",
     "Power": 5,
     "Damage1": "Strength",
     "Damage2": "",
@@ -16,5 +15,6 @@
         "PhysicalRanged": true,
         "AccuracyReduction": 2
     },
-    "AddedEffects": {}
+    "AddedEffects": {},
+    "Category": "Physical"
 }

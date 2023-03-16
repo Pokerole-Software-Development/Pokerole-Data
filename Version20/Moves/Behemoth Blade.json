@@ -1,7 +1,6 @@
 {
     "Name": "Behemoth Blade",
     "Type": "Steel",
-    "DmgType": "Physical",
     "Power": 4,
     "Damage1": "Strength",
     "Damage2": "",
@@ -12,5 +11,6 @@
     "Description": "The Pokemon becomes a giant sword with a razor-sharp blade. If the foe is under the effects of the Dynamax phenomenon all its energy will be slashed to bits.",
     "_id": "behemoth-blade",
     "Attributes": {},
-    "AddedEffects": {}
+    "AddedEffects": {},
+    "Category": "Physical"
 }

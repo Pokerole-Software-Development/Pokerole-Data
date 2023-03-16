@@ -1,7 +1,6 @@
 {
     "Name": "X-Scissor",
     "Type": "Bug",
-    "DmgType": "Physical",
     "Power": 3,
     "Damage1": "Strength",
     "Damage2": "",
@@ -12,5 +11,6 @@
     "Description": "The Pokemon uses its scythes or claws as if they were a pair of scissors to cut through the foe.",
     "_id": "x-scissor",
     "Attributes": {},
-    "AddedEffects": {}
+    "AddedEffects": {},
+    "Category": "Physical"
 }

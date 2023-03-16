@@ -1,7 +1,6 @@
 {
     "Name": "Self Destruct",
     "Type": "Normal",
-    "DmgType": "Physical",
     "Power": 8,
     "Damage1": "Strength",
     "Damage2": "",
@@ -14,5 +13,6 @@
     "Attributes": {
         "UserFaints": true
     },
-    "AddedEffects": {}
+    "AddedEffects": {},
+    "Category": "Physical"
 }

@@ -1,7 +1,6 @@
 {
     "Name": "Cut",
     "Type": "Normal",
-    "DmgType": "Physical",
     "Power": 2,
     "Damage1": "Strength",
     "Damage2": "",
@@ -12,5 +11,6 @@
     "Description": "A slim but precise cut that may slice through anything.",
     "_id": "cut",
     "Attributes": {},
-    "AddedEffects": {}
+    "AddedEffects": {},
+    "Category": "Physical"
 }

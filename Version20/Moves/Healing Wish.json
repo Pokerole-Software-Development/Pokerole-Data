@@ -1,7 +1,6 @@
 {
     "Name": "Healing Wish",
     "Type": "Psychic",
-    "DmgType": "Support",
     "Power": 0,
     "Damage1": "",
     "Damage2": "",
@@ -23,5 +22,6 @@
             "Target": "Targets",
             "WillPointCost": 1
         }
-    }
+    },
+    "Category": "Support"
 }

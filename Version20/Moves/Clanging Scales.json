@@ -1,7 +1,6 @@
 {
     "Name": "Clanging Scales",
     "Type": "Dragon",
-    "DmgType": "Special",
     "Power": 4,
     "Damage1": "Special",
     "Damage2": "",
@@ -24,5 +23,6 @@
                 "Affects": "User"
             }
         ]
-    }
+    },
+    "Category": "Special"
 }

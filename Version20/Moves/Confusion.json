@@ -1,7 +1,6 @@
 {
     "Name": "Confusion",
     "Type": "Psychic",
-    "DmgType": "Special",
     "Power": 2,
     "Damage1": "Special",
     "Damage2": "",
@@ -20,5 +19,6 @@
                 "ChanceDice": 1
             }
         ]
-    }
+    },
+    "Category": "Special"
 }

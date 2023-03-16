@@ -1,7 +1,6 @@
 {
     "Name": "Sleep Talk",
     "Type": "Normal",
-    "DmgType": "Support",
     "Power": 0,
     "Damage1": "",
     "Damage2": "",
@@ -12,5 +11,6 @@
     "Description": "After falling asleep, the Pokemon is still dreaming about the fight.",
     "_id": "sleep-talk",
     "Attributes": {},
-    "AddedEffects": {}
+    "AddedEffects": {},
+    "Category": "Support"
 }
