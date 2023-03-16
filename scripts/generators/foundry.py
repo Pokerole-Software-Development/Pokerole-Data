@@ -34,7 +34,6 @@ class Foundry(object):
         self.pokedex_path = f'../../{version}/Pokedex'
         self.abilities_path = f'../../{version}/Abilities'
         self.moves_path = f'../../{version}/Moves'
-        self.learnsets_path = f'../../{version}/Learnsets'
         self.natures_path = f'../../{version}/Natures'
         self.sprites_path = '../../Images/BoxSprites/'
         self.home_path = '../../Images/HomeSprites/'
@@ -43,8 +42,8 @@ class Foundry(object):
         self.items_path = f'../../{version}/Items/'
 
         paths = [self.pokedex_path,self.abilities_path,self.moves_path,
-        self.learnsets_path,self.natures_path,self.sprites_path,
-        self.home_path,self.book_path,self.shuffle_path,self.items_path]
+        self.natures_path,self.sprites_path,self.home_path,
+        self.book_path,self.shuffle_path,self.items_path]
         
         for p in paths:
             if not os.path.exists(p): raise Exception(f"ERROR: Path {p} not found!")
@@ -52,7 +51,6 @@ class Foundry(object):
         self.pokedex_output = f"{secrets['FoundryDataDir']}/packs/"
         self.abilities_output = f"{secrets['FoundryDataDir']}/packs/"
         self.moves_output = f"{secrets['FoundryDataDir']}/packs/"
-        self.learnsets_output = f"{secrets['FoundryDataDir']}/packs/"
         self.natures_output = f"{secrets['FoundryDataDir']}/packs/"
         self.sprites_output = f"{secrets['FoundryDataDir']}/images/pokemon/box/"
         self.home_output = f"{secrets['FoundryDataDir']}/images/pokemon/home/"
@@ -61,8 +59,8 @@ class Foundry(object):
         self.items_output = f"{secrets['FoundryDataDir']}/packs/"
 
         self.outputs = [self.pokedex_output,self.abilities_output,self.moves_output,
-                    self.learnsets_output,self.natures_output,self.sprites_output,
-                    self.home_output,self.book_output,self.shuffle_output,self.items_output]
+                        self.natures_output,self.sprites_output,self.home_output,
+                        self.book_output,self.shuffle_output,self.items_output]
 
         for p in self.outputs:
             os.makedirs(p,exist_ok=True)
@@ -78,10 +76,10 @@ class Foundry(object):
                 entry = json.loads(open(src).read())
                 id = entry['_id'].replace(".", "") # "mime-jr." workaround
                 
-                learnset = json.loads(open(join(self.learnsets_path, f"{entry['Name']}.json")).read())
+                learnset = entry["Moves"]
                 moves = []
                 ranks = []
-                for x in learnset['Moves']:
+                for x in learnset:
                     if x['Name'] == "Growl": # Use the two versions of Growl since it would otherwise be skipped over
                         moves.append('Growl (Tough)')
                         ranks.append(x['Learned'])
@@ -560,9 +558,6 @@ class Foundry(object):
                     f.write(json.dumps(x)+'\n')
         return db
     
-    def _learnsets(self):
-        pass
-    
     def _natures(self):
         pass
     
@@ -592,7 +587,6 @@ def update( *argv,
         "pokedex":   foundry._pokedex,
         "abilities": foundry._abilities,
         "moves":     foundry._moves,
-        "learnsets": foundry._learnsets,
         "natures":   foundry._natures,
         "items":     foundry._items,
         "images":    foundry._images
