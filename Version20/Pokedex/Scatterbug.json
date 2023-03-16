@@ -41,5 +41,27 @@
             "Speed": "Fast"
         }
     ],
-    "Image": "scatterbug.png"
+    "Image": "scatterbug.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "String Shot"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Stun Spore"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Bug Bite"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Rage Powder"
+        }
+    ]
 }

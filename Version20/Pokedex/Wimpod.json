@@ -41,5 +41,27 @@
             "Speed": "Slow"
         }
     ],
-    "Image": "wimpod.png"
+    "Image": "wimpod.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Struggle Bug"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Sand Attack"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Harden"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Aqua Jet"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Spikes"
+        }
+    ]
 }

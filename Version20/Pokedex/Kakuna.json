@@ -46,5 +46,19 @@
             "Speed": "Fast"
         }
     ],
-    "Image": "kakuna.png"
+    "Image": "kakuna.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Harden"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Iron Defense"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Electroweb"
+        }
+    ]
 }

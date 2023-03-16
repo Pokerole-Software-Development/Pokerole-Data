@@ -41,5 +41,23 @@
             "Speed": "Slow"
         }
     ],
-    "Image": "magikarp.png"
+    "Image": "magikarp.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Splash"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Flail"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Bounce"
+        }
+    ]
 }

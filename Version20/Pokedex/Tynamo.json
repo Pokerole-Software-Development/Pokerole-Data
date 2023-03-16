@@ -41,5 +41,23 @@
             "Speed": "Medium"
         }
     ],
-    "Image": "tynamo.png"
+    "Image": "tynamo.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Thunder Wave"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Spark"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Charge Beam"
+        }
+    ]
 }

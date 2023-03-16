@@ -60,5 +60,31 @@
             "Gender": "Male"
         }
     ],
-    "Image": "burmy.png"
+    "Image": "burmy.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Protect"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Bug Bite"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Hidden Power"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Electroweb"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "String Shot"
+        }
+    ]
 }

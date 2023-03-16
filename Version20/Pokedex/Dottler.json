@@ -46,5 +46,35 @@
             "Speed": "Medium"
         }
     ],
-    "Image": "dottler.png"
+    "Image": "dottler.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Struggle Bug"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Confusion"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Light Screen"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Reflect"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Sticky Web"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Supersonic"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Infestation"
+        }
+    ]
 }

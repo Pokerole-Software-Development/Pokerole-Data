@@ -41,5 +41,39 @@
             "Item": "Moon Stone"
         }
     ],
-    "Image": "musharna.png"
+    "Image": "musharna.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Psychic Terrain"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Defense Curl"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Psybeam"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Hypnosis"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Lucky Chant"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Pain Split"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Heal Bell"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Healing Wish"
+        }
+    ]
 }

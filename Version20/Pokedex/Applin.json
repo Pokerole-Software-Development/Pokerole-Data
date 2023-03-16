@@ -41,5 +41,27 @@
             "Item": "Tart Apple"
         }
     ],
-    "Image": "applin.png"
+    "Image": "applin.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Withdraw"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Astonish"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Defense Curl"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Rollout"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Recycle"
+        }
+    ]
 }

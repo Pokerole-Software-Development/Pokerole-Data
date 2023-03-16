@@ -41,5 +41,35 @@
             "Item": "Water Stone"
         }
     ],
-    "Image": "ludicolo.png"
+    "Image": "ludicolo.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Astonish"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Growl"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Mega Drain"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Nature Power"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Teeter Dance"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Giga Drain"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Entrainment"
+        }
+    ]
 }

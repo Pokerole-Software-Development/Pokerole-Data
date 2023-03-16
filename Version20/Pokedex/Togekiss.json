@@ -41,5 +41,39 @@
             "Item": "Shiny Stone"
         }
     ],
-    "Image": "togekiss.png"
+    "Image": "togekiss.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "After You"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Extreme Speed"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Sky Attack"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Aura Sphere"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Air Slash"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Extrasensory"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Lucky Chant"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Water Pulse"
+        }
+    ]
 }

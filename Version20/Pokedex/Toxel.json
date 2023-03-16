@@ -48,5 +48,43 @@
             "Special": "Introvert"
         }
     ],
-    "Image": "toxel.png"
+    "Image": "toxel.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Nuzzle"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Tearful Look"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Growl"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Flail"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Acid"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Belch"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Encore"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Rest"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Round"
+        }
+    ]
 }
