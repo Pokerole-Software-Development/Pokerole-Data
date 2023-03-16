@@ -30,7 +30,6 @@ def update(*argv, batch=False, version='Version20', confirm=False):
         "pokedex":   [f'../../{version}/Pokedex', db.Pokedex],
         "abilities": [f'../../{version}/Abilities', db.Abilities],
         "moves":     [f'../../{version}/Moves', db.Moves],
-        "learnsets": [f'../../{version}/Learnsets', db.Learnsets],
         "natures":   [f'../../{version}/Natures', db.Natures],
         "items":     [f'../../{version}/Items', db.Items]
     }
@@ -51,6 +50,8 @@ def update(*argv, batch=False, version='Version20', confirm=False):
         if conf.lower() not in ['y', 'yes']:
             return "WARN: Did not confirm update, cancelling..."
     else: print(f'INFO: {updates}\nQUERY: Updating these database collections...')
+    
+    # Actually Do the thing
     
     for t in updates:
         path, collec = targets[t]

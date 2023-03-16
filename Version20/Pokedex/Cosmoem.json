@@ -51,5 +51,19 @@
             "Game": "Shield"
         }
     ],
-    "Image": "cosmoem.png"
+    "Image": "cosmoem.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Splash"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Teleport"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Cosmic Power"
+        }
+    ]
 }

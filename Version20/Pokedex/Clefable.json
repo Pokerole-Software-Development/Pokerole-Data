@@ -41,5 +41,43 @@
             "Item": "Moon Stone"
         }
     ],
-    "Image": "clefable.png"
+    "Image": "clefable.png",
+    "Moves": [
+        {
+            "Learned": "Beginner",
+            "Name": "Spotlight"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Sing"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Moonblast"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Minimize"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Double Slap"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Drain Punch"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Metronome"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Heal Pulse"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Wish"
+        }
+    ]
 }

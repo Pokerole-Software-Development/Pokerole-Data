@@ -41,5 +41,47 @@
             "Speed": "Unknown"
         }
     ],
-    "Image": "meltan.png"
+    "Image": "meltan.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Thunder Shock"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Harden"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Tail Whip"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Headbutt"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Thunder Wave"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Acid Armor"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Flash Cannon"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Protect"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Gyro Ball"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Steel Beam"
+        }
+    ]
 }

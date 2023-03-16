@@ -32,23 +32,6 @@ moves_template = '''### `= this.name`
 
 **Effect:** `= this.Effect`'''
 
-#-------------------------------------------------------------
-
-learnsets_template = '''## `= this.Name` Learnset
-
-**Pokedex Entry:** `= this.Pokedex`
-
-```dataview
-TABLE WITHOUT ID
-    T[0] AS Learned,
-    T[1].Type AS Type,
-    T[1] AS Move
-FROM #PokeroleSRD/Learnsets
-flatten moves as T
-where file.path = this.file.path
-```
-'''
-
 #-------------------------------------------------------------------
 
 natures_template = '''## `= this.Nature`
@@ -77,6 +60,7 @@ class SRD(object):
     
     def __init__(self, version="Version20", public_vault=False):
         self.obsidian = secrets['PublicObsidianRoot'] if public_vault else secrets['ObsidianRoot']
+        self.obsidian_relroot = secrets['PublicObsidianRelRoot'] if public_vault else secrets['ObsidianRelRoot']
         self.path_setup(version)
         self.orphans = None
 
@@ -85,7 +69,6 @@ class SRD(object):
         self.pokedex_path = f'../../{version}/Pokedex'
         self.abilities_path = f'../../{version}/Abilities'
         self.moves_path = f'../../{version}/Moves'
-        self.learnsets_path = f'../../{version}/Learnsets'
         self.natures_path = f'../../{version}/Natures'
         self.sprites_path = '../../Images/BoxSprites/'
         self.home_path = '../../Images/HomeSprites/'
@@ -93,17 +76,17 @@ class SRD(object):
         self.shuffle_path = '../../Images/ShuffleTokens/'
         self.items_path = f'../../{version}/Items/'
 
-        paths = [self.pokedex_path,self.abilities_path,self.moves_path,
-        self.learnsets_path,self.natures_path,self.sprites_path,
-        self.home_path,self.book_path,self.shuffle_path,self.items_path]
+        paths = [self.pokedex_path,self.abilities_path,self.moves_path
+                 ,self.natures_path,self.sprites_path,self.home_path,
+                 self.book_path,self.shuffle_path,self.items_path]
         
         for p in paths:
             if not os.path.exists(p): raise Exception(f"ERROR: Path {p} not found!")
             
         self.pokedex_output = self.obsidian+'/SRD-Pokedex/'
+        self.pokedex_rel_output = self.obsidian_relroot+'/SRD-Pokedex/'
         self.abilities_output = self.obsidian+'/SRD-Abilities/'
         self.moves_output = self.obsidian+'/SRD-Moves/'
-        self.learnsets_output = self.obsidian+'/SRD-Learnsets/'
         self.natures_output = self.obsidian+'/SRD-Natures/'
         self.sprites_output = self.obsidian+'/SRD-BoxSprites/'
         self.home_output = self.obsidian+'/SRD-HomeSprites/'
@@ -112,8 +95,8 @@ class SRD(object):
         self.items_output = self.obsidian+'/SRD-Items/'
 
         self.outputs = [self.pokedex_output,self.abilities_output,self.moves_output,
-                    self.learnsets_output,self.natures_output,self.sprites_output,
-                    self.home_output,self.book_output,self.shuffle_output,self.items_output]
+                    self.natures_output,self.sprites_output,self.home_output,
+                    self.book_output,self.shuffle_output,self.items_output]
 
         for p in self.outputs:
             os.makedirs(p,exist_ok=True)
@@ -132,7 +115,7 @@ class SRD(object):
             
             entry['Legendary'] = 'Yes' if entry['Legendary'] else 'No'
             entry['GoodStarter'] = 'Yes' if entry['GoodStarter'] else 'No'
-            entry['Learnset'] = f"[[SRD-{entry['Name']}-Learnset]]"
+            entry['Moves'] = self._learnset_gen(entry['Moves'])
             
             if entry.get('Evolutions'):
                 evocopy = entry['Evolutions'].copy()
@@ -194,7 +177,16 @@ class SRD(object):
                 f"""**Good Starter**:: {entry['GoodStarter']}\n"""
                 f"""**Recommended Rank**:: {entry['RecommendedRank']}\n"""
                 f"""{evostring}\n"""
-                f"""![[SRD-{name}-Learnset]]\n"""
+                f"""## Learnset\n\n"""
+                f"""```dataview\n"""
+                f"""TABLE WITHOUT ID\n"""
+                f"""    T[0] AS Learned,\n"""
+                f"""    T[1].Type AS Type,\n"""
+                f"""    T[1] AS Move\n"""
+                f"""FROM "{self.pokedex_rel_output+f"SRD-{name}.md"}"\n"""
+                f"""flatten moves as T\n"""
+                f"""where file.path = this.file.path\n"""
+                f"""```\n"""
             )
                 
             for x in ['DexID','Strength','MaxStrength','Dexterity','MaxDexterity',
@@ -205,6 +197,14 @@ class SRD(object):
             self.entry_output = f"---\n{yaml.dump(entry)}---\n\n#PokeroleSRD/Pokedex\n\n{template}"
             open(self.pokedex_output+f"SRD-{name}.md",'w').write(self.entry_output)
     
+    def _learnset_gen(self, stored_moves):
+            moves = []
+            for m in stored_moves:
+                if moves and m["Learned"] != moves[-1][0]:
+                    moves.append(["---------------------------","---------------------------"])
+                moves.append([m[f'Learned'],f'[[SRD-{m["Name"]}|{m["Name"]}]]'])
+            return moves
+        
     def _abilities(self):
         for src in glob(self.abilities_path+"/*.json"):
             entry = json.loads(open(src).read())
@@ -219,20 +219,6 @@ class SRD(object):
             self.entry_output = f"---\n{yaml.dump(entry)}---\n\n#PokeroleSRD/Moves\n\n{moves_template}"
             open(self.moves_output+f"SRD-{entry['Name']}.md",'w').write(self.entry_output)
     
-    def _learnsets(self):
-        for src in glob(self.learnsets_path+"/*.json"):
-            entry = json.loads(open(src).read())
-            del entry['_id']
-            
-            entry['Pokedex'] = f"[[SRD-{entry['Name']}|{entry['Name']}]]"
-            moves = []
-            for m in entry["Moves"]:
-                if moves and m["Learned"] != moves[-1][0]:
-                    moves.append(["---------------------------","---------------------------"])
-                moves.append([m[f'Learned'],f'[[SRD-{m["Name"]}|{m["Name"]}]]'])
-            entry['Moves'] = moves
-            entry_output = f"---\n{yaml.dump(entry)}---\n\n#PokeroleSRD/Learnsets\n\n{learnsets_template}"
-            open(self.learnsets_output+f"SRD-{entry['Name']}-Learnset.md",'w').write(entry_output)
     
     def _natures(self):
         for src in glob(self.natures_path+"/*.json"):
@@ -266,7 +252,6 @@ class SRD(object):
             "pokedex":   [self.pokedex_output],
             "abilities": [self.abilities_output],
             "moves":     [self.moves_output],
-            "learnsets": [self.learnsets_output],
             "natures":   [self.natures_output],
             "items":     [self.items_output],
             "images":    [self.sprites_output,self.home_output,self.book_output]
@@ -311,7 +296,6 @@ def update(*argv, batch=False, version='Version20', confirm=False,
         "pokedex":   srd._pokedex,
         "abilities": srd._abilities,
         "moves":     srd._moves,
-        "learnsets": srd._learnsets,
         "natures":   srd._natures,
         "items":     srd._items,
         "images":    srd._images

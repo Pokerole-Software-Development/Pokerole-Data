@@ -42,5 +42,43 @@
             "Value": 4
         }
     ],
-    "Image": "igglybuff.png"
+    "Image": "igglybuff.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Sing"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Charm"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Defense Curl"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Pound"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Sweet Kiss"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Copycat"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Hyper Voice"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Bounce"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Perish Song"
+        }
+    ]
 }

@@ -46,5 +46,23 @@
             "Speed": "Fast"
         }
     ],
-    "Image": "spewpa.png"
+    "Image": "spewpa.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Harden"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Protect"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Iron Defense"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Electroweb"
+        }
+    ]
 }

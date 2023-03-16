@@ -41,5 +41,23 @@
             "Speed": "Medium"
         }
     ],
-    "Image": "abra.png"
+    "Image": "abra.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Teleport"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Mimic"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Signal Beam"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Metronome"
+        }
+    ]
 }

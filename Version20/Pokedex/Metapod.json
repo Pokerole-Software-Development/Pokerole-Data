@@ -46,5 +46,19 @@
             "Speed": "Fast"
         }
     ],
-    "Image": "metapod.png"
+    "Image": "metapod.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Harden"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Iron Defense"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Electroweb"
+        }
+    ]
 }

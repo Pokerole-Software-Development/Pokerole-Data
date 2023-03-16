@@ -41,5 +41,23 @@
             "Speed": "Medium"
         }
     ],
-    "Image": "wobbuffet.png"
+    "Image": "wobbuffet.png",
+    "Moves": [
+        {
+            "Learned": "Beginner",
+            "Name": "Counter"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Safeguard"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Mirror Coat"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Destiny Bond"
+        }
+    ]
 }
