@@ -78,7 +78,6 @@ It's possible to have no Evolution objects in the list.
 | ------------ | ------ | ----------------------------------------- |
 | Name         | String | Name of the Move                          |
 | Type         | String | Type of the Move                          |
-| Category     | String | Physical, Special, Support                |
 | Power        | int    | Power value of the move                   |
 | Damage1      | String | Attribute Name or Empty String            |
 | Damage2      | String | Second Damage Pool source or Empty String |
@@ -90,6 +89,7 @@ It's possible to have no Evolution objects in the list.
 | \_id         | String | Same as Name, unique for the system       |
 | Attributes   | Object | Values that are used by Foundry           |
 | AddedEffects | Object | Values that are used by Foundry           | 
+| Category     | String | Physical, Special, Support                |
 
 ## Abilities
 
