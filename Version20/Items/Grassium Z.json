@@ -1,11 +1,12 @@
 {
     "Name": "Grassium Z",
+    "_id": "grassium-z",
+    "Core": "",
+    "PMD": false,
+    "Pocket": "HeldItems",
+    "Category": "ZCrystal",
     "Description": "It converts Z-Power into crystals that upgrade Grass-type moves to Grass-type Z-Moves.",
-    "TypeBonus": "",
-    "Value": "",
-    "SpecificPokemon": "",
-    "HealAmount": "",
-    "SuggestedPrice": "",
-    "PMDPrice": "",
-    "_id": "grassium-z"
+    "OneUse": false,
+    "TrainerPrice": "",
+    "ForTypes": "Grass"
 }

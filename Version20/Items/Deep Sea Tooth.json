@@ -1,11 +1,14 @@
 {
     "Name": "Deep Sea Tooth",
+    "_id": "deep-sea-tooth",
+    "Core": "",
+    "PMD": false,
+    "Pocket": "HeldItems",
+    "Category": "MonBoosting",
     "Description": "Increases Clamperl's Special by 2.",
-    "TypeBonus": "",
-    "Value": "",
-    "SpecificPokemon": "Clamperl",
-    "HealAmount": "",
-    "SuggestedPrice": "",
-    "PMDPrice": "",
-    "_id": "deep-sea-tooth"
+    "OneUse": false,
+    "TrainerPrice": "",
+    "ForPokemon": "clamperl",
+    "Boost": "Special",
+    "Value": 2.0
 }

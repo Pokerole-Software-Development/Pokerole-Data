@@ -1,11 +1,11 @@
 {
     "Name": "Air Balloon",
+    "_id": "air-balloon",
+    "Core": "",
+    "PMD": false,
+    "Pocket": "HeldItems",
+    "Category": "BattleItem",
     "Description": "The user is immune to Ground type moves. This item bursts once the user is hit.",
-    "TypeBonus": "",
-    "Value": "",
-    "SpecificPokemon": "",
-    "HealAmount": "",
-    "SuggestedPrice": "",
-    "PMDPrice": "",
-    "_id": "air-balloon"
+    "OneUse": false,
+    "TrainerPrice": ""
 }

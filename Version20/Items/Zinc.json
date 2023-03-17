@@ -1,11 +1,13 @@
 {
     "Name": "Zinc",
-    "Description": "Zinc capsules help with focus and brain development",
-    "TypeBonus": "",
-    "Value": "",
-    "SpecificPokemon": "",
-    "HealAmount": "",
-    "SuggestedPrice": "9800",
+    "_id": "zinc",
+    "Core": true,
+    "PMD": true,
+    "Pocket": "Medicine",
+    "Category": "Vitamin",
+    "Description": "Zinc capsules help with focus and brain development. Boost lasts one month.",
+    "OneUse": true,
     "PMDPrice": 4500.0,
-    "_id": "zinc"
+    "Boost": "Insight",
+    "Value": 1.0
 }

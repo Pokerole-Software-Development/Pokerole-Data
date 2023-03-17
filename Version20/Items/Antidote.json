@@ -1,11 +1,12 @@
 {
     "Name": "Antidote",
+    "_id": "antidote",
+    "Core": true,
+    "PMD": false,
+    "Pocket": "Medicine",
+    "Category": "Status",
     "Description": "A shot that quickly reduces the fever and relieves the pain.",
-    "TypeBonus": "",
-    "Value": "",
-    "SpecificPokemon": "",
-    "HealAmount": "Poison",
-    "SuggestedPrice": "100",
-    "PMDPrice": "",
-    "_id": "antidote"
+    "OneUse": false,
+    "TrainerPrice": "100",
+    "Cures": "Poison"
 }

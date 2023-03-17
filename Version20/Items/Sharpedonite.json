@@ -1,11 +1,12 @@
 {
     "Name": "Sharpedonite",
+    "_id": "sharpedonite",
+    "Core": "",
+    "PMD": false,
+    "Pocket": "HeldItems",
+    "Category": "MegaStone",
     "Description": "Makes Sharpedo Mega-evolve into Mega-Sharpedo",
-    "TypeBonus": "",
-    "Value": "",
-    "SpecificPokemon": "Sharpedo",
-    "HealAmount": "",
-    "SuggestedPrice": "Not for Sale",
-    "PMDPrice": "",
-    "_id": "sharpedonite"
+    "OneUse": false,
+    "TrainerPrice": "Not for Sale",
+    "ForPokemon": "sharpedo"
 }

@@ -1,11 +1,12 @@
 {
     "Name": "Houndoominite",
+    "_id": "houndoominite",
+    "Core": "",
+    "PMD": false,
+    "Pocket": "HeldItems",
+    "Category": "MegaStone",
     "Description": "Makes Houndoom Mega-evolve into Mega-Houndoom",
-    "TypeBonus": "",
-    "Value": "",
-    "SpecificPokemon": "Houndoom",
-    "HealAmount": "",
-    "SuggestedPrice": "Not for Sale",
-    "PMDPrice": "",
-    "_id": "houndoominite"
+    "OneUse": false,
+    "TrainerPrice": "Not for Sale",
+    "ForPokemon": "houndoom"
 }

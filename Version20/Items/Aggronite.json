@@ -1,11 +1,12 @@
 {
     "Name": "Aggronite",
+    "_id": "aggronite",
+    "Core": "",
+    "PMD": false,
+    "Pocket": "HeldItems",
+    "Category": "MegaStone",
     "Description": "Makes Aggron Mega-evolve into Mega-Aggron",
-    "TypeBonus": "",
-    "Value": "",
-    "SpecificPokemon": "Aggron",
-    "HealAmount": "",
-    "SuggestedPrice": "Not for Sale",
-    "PMDPrice": "",
-    "_id": "aggronite"
+    "OneUse": false,
+    "TrainerPrice": "Not for Sale",
+    "ForPokemon": "aggron"
 }

@@ -1,11 +1,12 @@
 {
     "Name": "Charizardite Y",
+    "_id": "charizardite-y",
+    "Core": "",
+    "PMD": false,
+    "Pocket": "HeldItems",
+    "Category": "MegaStone",
     "Description": "Makes Charizard Mega-Evolve into Mega-Charizard Y",
-    "TypeBonus": "",
-    "Value": "",
-    "SpecificPokemon": "Charizard",
-    "HealAmount": "",
-    "SuggestedPrice": "Not for Sale",
-    "PMDPrice": "",
-    "_id": "charizardite-y"
+    "OneUse": false,
+    "TrainerPrice": "Not for Sale",
+    "ForPokemon": "charizard"
 }

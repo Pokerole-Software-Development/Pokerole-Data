@@ -1,11 +1,12 @@
 {
     "Name": "Berry Juice",
-    "Description": "This mixed drink of various berries is also quite refreshing. Some pokemon produce it naturally.",
-    "TypeBonus": "",
-    "Value": "",
-    "SpecificPokemon": "",
-    "HealAmount": "Up to 2",
-    "SuggestedPrice": "100",
-    "PMDPrice": "",
-    "_id": "berry-juice"
+    "_id": "berry-juice",
+    "Core": true,
+    "PMD": false,
+    "Pocket": "Medicine",
+    "Category": "Berry",
+    "Description": "This mixed drink of various berries is also quite refreshing. Some pokemon produce it naturally. Doesn\u2019t work in battle & can\u2019t heal Lethal.",
+    "OneUse": false,
+    "TrainerPrice": "100",
+    "HealthRestored": "2"
 }

@@ -1,11 +1,13 @@
 {
     "Name": "Green Scarf",
+    "_id": "green-scarf",
+    "Core": "",
+    "PMD": false,
+    "Pocket": "HeldItems",
+    "Category": "",
     "Description": "Increases Clever by 1 during contests.",
-    "TypeBonus": "",
-    "Value": "",
-    "SpecificPokemon": "",
-    "HealAmount": "",
-    "SuggestedPrice": "",
-    "PMDPrice": "",
-    "_id": "green-scarf"
+    "OneUse": false,
+    "TrainerPrice": "",
+    "Boost": "Clever",
+    "Value": 1.0
 }

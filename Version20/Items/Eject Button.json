@@ -1,11 +1,11 @@
 {
     "Name": "Eject Button",
+    "_id": "eject-button",
+    "Core": "",
+    "PMD": false,
+    "Pocket": "HeldItems",
+    "Category": "BattleItem",
     "Description": "When the Pokemon is hit with a damaging move, it switches out immediately and the item is consumed.",
-    "TypeBonus": "",
-    "Value": "",
-    "SpecificPokemon": "",
-    "HealAmount": "",
-    "SuggestedPrice": "",
-    "PMDPrice": "",
-    "_id": "eject-button"
+    "OneUse": false,
+    "TrainerPrice": ""
 }

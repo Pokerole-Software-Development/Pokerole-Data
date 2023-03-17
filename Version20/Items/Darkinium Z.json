@@ -1,11 +1,12 @@
 {
     "Name": "Darkinium Z",
+    "_id": "darkinium-z",
+    "Core": "",
+    "PMD": false,
+    "Pocket": "HeldItems",
+    "Category": "ZCrystal",
     "Description": "It converts Z-Power into crystals that upgrade Dark-type moves to Dark-type Z-Moves.",
-    "TypeBonus": "",
-    "Value": "",
-    "SpecificPokemon": "",
-    "HealAmount": "",
-    "SuggestedPrice": "",
-    "PMDPrice": "",
-    "_id": "darkinium-z"
+    "OneUse": false,
+    "TrainerPrice": "",
+    "ForTypes": "Dark"
 }

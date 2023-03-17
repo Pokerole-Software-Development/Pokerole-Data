@@ -1,11 +1,15 @@
 {
     "Name": "Soul Dew",
+    "_id": "soul-dew",
+    "Core": "",
+    "PMD": false,
+    "Pocket": "HeldItems",
+    "Category": "TypeBoosting",
     "Description": "Adds 1 damage die to Dragon and Psychic moves when held by Latios/Latias.",
-    "TypeBonus": "Psychic, Dragon",
-    "Value": "1",
-    "SpecificPokemon": "Latios, Latias",
-    "HealAmount": "",
-    "SuggestedPrice": "",
-    "PMDPrice": "",
-    "_id": "soul-dew"
+    "OneUse": false,
+    "TrainerPrice": "",
+    "ForTypes": "Psychic Dragon",
+    "ForPokemon": "latios latias",
+    "Boost": "Damage",
+    "Value": 1.0
 }

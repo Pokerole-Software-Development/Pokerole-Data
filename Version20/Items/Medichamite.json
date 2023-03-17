@@ -1,11 +1,12 @@
 {
     "Name": "Medichamite",
+    "_id": "medichamite",
+    "Core": "",
+    "PMD": false,
+    "Pocket": "HeldItems",
+    "Category": "MegaStone",
     "Description": "Makes Medicham Mega-evolve into Mega-Medicham",
-    "TypeBonus": "",
-    "Value": "",
-    "SpecificPokemon": "Medicham",
-    "HealAmount": "",
-    "SuggestedPrice": "Not for Sale",
-    "PMDPrice": "",
-    "_id": "medichamite"
+    "OneUse": false,
+    "TrainerPrice": "Not for Sale",
+    "ForPokemon": "medicham"
 }

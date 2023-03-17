@@ -1,11 +1,12 @@
 {
     "Name": "Gyaradosite",
+    "_id": "gyaradosite",
+    "Core": "",
+    "PMD": false,
+    "Pocket": "HeldItems",
+    "Category": "MegaStone",
     "Description": "Makes Gyarados Mega-evolve into Mega-Gyarados",
-    "TypeBonus": "",
-    "Value": "",
-    "SpecificPokemon": "Gyarados",
-    "HealAmount": "",
-    "SuggestedPrice": "Not for Sale",
-    "PMDPrice": "",
-    "_id": "gyaradosite"
+    "OneUse": false,
+    "TrainerPrice": "Not for Sale",
+    "ForPokemon": "gyarados"
 }

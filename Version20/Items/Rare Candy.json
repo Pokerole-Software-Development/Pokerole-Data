@@ -1,11 +1,11 @@
 {
     "Name": "Rare Candy",
+    "_id": "rare-candy",
+    "Core": true,
+    "PMD": false,
+    "Pocket": "Medicine",
+    "Category": "Vitamin",
     "Description": "This strange candy is made of unknown ingredients. Its effects do not stack.",
-    "TypeBonus": "",
-    "Value": "Any Attribute",
-    "SpecificPokemon": "",
-    "HealAmount": "",
-    "SuggestedPrice": "Not for Sale",
-    "PMDPrice": "",
-    "_id": "rare-candy"
+    "OneUse": true,
+    "TrainerPrice": "Not for Sale"
 }

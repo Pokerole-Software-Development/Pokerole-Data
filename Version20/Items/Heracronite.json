@@ -1,11 +1,12 @@
 {
     "Name": "Heracronite",
+    "_id": "heracronite",
+    "Core": "",
+    "PMD": false,
+    "Pocket": "HeldItems",
+    "Category": "MegaStone",
     "Description": "Makes Heracross Mega-evolve into Mega-Heracross",
-    "TypeBonus": "",
-    "Value": "",
-    "SpecificPokemon": "Heracross",
-    "HealAmount": "",
-    "SuggestedPrice": "Not for Sale",
-    "PMDPrice": "",
-    "_id": "heracronite"
+    "OneUse": false,
+    "TrainerPrice": "Not for Sale",
+    "ForPokemon": "heracross"
 }

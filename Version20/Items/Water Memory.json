@@ -1,11 +1,12 @@
 {
     "Name": "Water Memory",
+    "_id": "water-memory",
+    "Core": "",
+    "PMD": false,
+    "Pocket": "HeldItems",
+    "Category": "MonBoosting",
     "Description": "Changes Silvally and Multi-attack's typing to Water.",
-    "TypeBonus": "",
-    "Value": "",
-    "SpecificPokemon": "",
-    "HealAmount": "",
-    "SuggestedPrice": "",
-    "PMDPrice": "",
-    "_id": "water-memory"
+    "OneUse": false,
+    "TrainerPrice": "",
+    "ForPokemon": "silvally"
 }

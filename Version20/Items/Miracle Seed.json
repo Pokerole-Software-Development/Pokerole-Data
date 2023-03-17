@@ -1,11 +1,14 @@
 {
     "Name": "Miracle Seed",
+    "_id": "miracle-seed",
+    "Core": true,
+    "PMD": false,
+    "Pocket": "HeldItems",
+    "Category": "TypeBoosting",
     "Description": "Adds 1 damage die to Grass type moves.",
-    "TypeBonus": "Grass",
-    "Value": "1",
-    "SpecificPokemon": "",
-    "HealAmount": "",
-    "SuggestedPrice": "",
-    "PMDPrice": "",
-    "_id": "miracle-seed"
+    "OneUse": false,
+    "TrainerPrice": "",
+    "ForTypes": "Grass",
+    "Boost": "Damage",
+    "Value": 1.0
 }

@@ -1,11 +1,12 @@
 {
     "Name": "Tapunium Z",
+    "_id": "tapunium-z",
+    "Core": "",
+    "PMD": false,
+    "Pocket": "HeldItems",
+    "Category": "ZCrystal",
     "Description": "This is a crystallized form of Z-Power. It upgrades the tapu's Nature's Madness to a Z-Move.",
-    "TypeBonus": "",
-    "Value": "",
-    "SpecificPokemon": "",
-    "HealAmount": "",
-    "SuggestedPrice": "",
-    "PMDPrice": "",
-    "_id": "tapunium-z"
+    "OneUse": false,
+    "TrainerPrice": "",
+    "ForPokemon": "tapu-koko tapu-lele tapu-bulu tapu-fini"
 }

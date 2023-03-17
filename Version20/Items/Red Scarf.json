@@ -1,11 +1,13 @@
 {
     "Name": "Red Scarf",
+    "_id": "red-scarf",
+    "Core": "",
+    "PMD": false,
+    "Pocket": "HeldItems",
+    "Category": "",
     "Description": "Increases Cool by 1 during contests.",
-    "TypeBonus": "",
-    "Value": "",
-    "SpecificPokemon": "",
-    "HealAmount": "",
-    "SuggestedPrice": "",
-    "PMDPrice": "",
-    "_id": "red-scarf"
+    "OneUse": false,
+    "TrainerPrice": "",
+    "Boost": "Cool",
+    "Value": 1.0
 }

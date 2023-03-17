@@ -1,11 +1,11 @@
 {
     "Name": "Zap Plate",
-    "Description": "Adds 1 damage dice to Electric type moves.",
-    "TypeBonus": "Electric",
-    "Value": "1",
-    "SpecificPokemon": "",
-    "HealAmount": "",
-    "SuggestedPrice": "",
-    "PMDPrice": "",
-    "_id": "zap-plate"
+    "_id": "zap-plate",
+    "Core": "",
+    "PMD": false,
+    "Pocket": "HeldItems",
+    "Category": "TypeBoosting",
+    "Description": "When held by Arceus, change it's type to Electric.",
+    "OneUse": false,
+    "TrainerPrice": ""
 }

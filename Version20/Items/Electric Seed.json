@@ -1,11 +1,13 @@
 {
     "Name": "Electric Seed",
+    "_id": "electric-seed",
+    "Core": "",
+    "PMD": false,
+    "Pocket": "HeldItems",
+    "Category": "BattleItem",
     "Description": "Increases Defense by 1 in Electric Terrain, it is consumed on use.",
-    "TypeBonus": "",
-    "Value": "",
-    "SpecificPokemon": "",
-    "HealAmount": "",
-    "SuggestedPrice": "",
-    "PMDPrice": "",
-    "_id": "electric-seed"
+    "OneUse": true,
+    "TrainerPrice": "",
+    "Boost": "Defense",
+    "Value": 1.0
 }

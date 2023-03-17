@@ -1,11 +1,11 @@
 {
     "Name": "Lucky Egg",
+    "_id": "lucky-egg",
+    "Core": true,
+    "PMD": false,
+    "Pocket": "HeldItems",
+    "Category": "",
     "Description": "Each victory counts as two victories.",
-    "TypeBonus": "",
-    "Value": "",
-    "SpecificPokemon": "",
-    "HealAmount": "",
-    "SuggestedPrice": "",
-    "PMDPrice": "",
-    "_id": "lucky-egg"
+    "OneUse": false,
+    "TrainerPrice": ""
 }

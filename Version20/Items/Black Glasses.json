@@ -1,11 +1,14 @@
 {
     "Name": "Black Glasses",
+    "_id": "black-glasses",
+    "Core": true,
+    "PMD": false,
+    "Pocket": "HeldItems",
+    "Category": "TypeBoosting",
     "Description": "Adds 1 damage die to Dark type moves.",
-    "TypeBonus": "Dark",
-    "Value": "1",
-    "SpecificPokemon": "",
-    "HealAmount": "",
-    "SuggestedPrice": "",
-    "PMDPrice": "",
-    "_id": "black-glasses"
+    "OneUse": false,
+    "TrainerPrice": "",
+    "ForTypes": "Dark",
+    "Boost": "Damage",
+    "Value": 1.0
 }

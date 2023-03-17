@@ -1,11 +1,12 @@
 {
     "Name": "Dark Memory",
+    "_id": "dark-memory",
+    "Core": "",
+    "PMD": false,
+    "Pocket": "HeldItems",
+    "Category": "MonBoosting",
     "Description": "Changes Silvally and Multi-attack's typing to Dark.",
-    "TypeBonus": "",
-    "Value": "",
-    "SpecificPokemon": "",
-    "HealAmount": "",
-    "SuggestedPrice": "",
-    "PMDPrice": "",
-    "_id": "dark-memory"
+    "OneUse": false,
+    "TrainerPrice": "",
+    "ForPokemon": "silvally"
 }

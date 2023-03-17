@@ -1,11 +1,11 @@
 {
     "Name": "Rowap Berry",
+    "_id": "rowap-berry",
+    "Core": "",
+    "PMD": false,
+    "Pocket": "HeldItems",
+    "Category": "Berry",
     "Description": "Whenever this Pokemon is hit with a Special Attack, Roll 2 Die of damage against the attacker. Consumed on use.",
-    "TypeBonus": "",
-    "Value": "",
-    "SpecificPokemon": "",
-    "HealAmount": "",
-    "SuggestedPrice": "",
-    "PMDPrice": "",
-    "_id": "rowap-berry"
+    "OneUse": true,
+    "TrainerPrice": ""
 }

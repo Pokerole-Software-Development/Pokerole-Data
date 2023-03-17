@@ -1,11 +1,13 @@
 {
     "Name": "Misty Seed",
+    "_id": "misty-seed",
+    "Core": "",
+    "PMD": false,
+    "Pocket": "HeldItems",
+    "Category": "BattleItem",
     "Description": "Increases Special Defense by 1 in Misty Terrain, it is consumed on use.",
-    "TypeBonus": "",
-    "Value": "",
-    "SpecificPokemon": "",
-    "HealAmount": "",
-    "SuggestedPrice": "",
-    "PMDPrice": "",
-    "_id": "misty-seed"
+    "OneUse": true,
+    "TrainerPrice": "",
+    "Boost": "SpecialDefense",
+    "Value": 1.0
 }

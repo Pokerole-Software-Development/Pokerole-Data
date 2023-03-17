@@ -1,11 +1,12 @@
 {
     "Name": "Mawilite",
+    "_id": "mawilite",
+    "Core": "",
+    "PMD": false,
+    "Pocket": "HeldItems",
+    "Category": "MegaStone",
     "Description": "Makes Mawile Mega-evolve into Mega-Mawile",
-    "TypeBonus": "",
-    "Value": "",
-    "SpecificPokemon": "Mawile",
-    "HealAmount": "",
-    "SuggestedPrice": "Not for Sale",
-    "PMDPrice": "",
-    "_id": "mawilite"
+    "OneUse": false,
+    "TrainerPrice": "Not for Sale",
+    "ForPokemon": "mawile"
 }

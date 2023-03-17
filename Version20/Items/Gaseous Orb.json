@@ -1,11 +1,15 @@
 {
     "Name": "Gaseous Orb",
+    "_id": "gaseous-orb",
+    "Core": "",
+    "PMD": false,
+    "Pocket": "HeldItems",
+    "Category": "TypeBoosting",
     "Description": "Adds 1 damage die to Dragon and Ghost type moves when held by Giratina",
-    "TypeBonus": "Dragon, Ghost",
-    "Value": "1",
-    "SpecificPokemon": "Giratina",
-    "HealAmount": "",
-    "SuggestedPrice": "",
-    "PMDPrice": "",
-    "_id": "gaseous-orb"
+    "OneUse": false,
+    "TrainerPrice": "",
+    "ForTypes": "Dragon Ghost",
+    "ForPokemon": "giratina",
+    "Boost": "Damage",
+    "Value": 1.0
 }

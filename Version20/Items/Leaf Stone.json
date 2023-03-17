@@ -1,11 +1,11 @@
 {
     "Name": "Leaf Stone",
+    "_id": "leaf-stone",
+    "Core": true,
+    "PMD": true,
+    "Pocket": "EvolutionItem",
+    "Category": "",
     "Description": "It is said that the leaf encrusted to it comes from the tree of life itself",
-    "TypeBonus": "",
-    "Value": "",
-    "SpecificPokemon": "",
-    "HealAmount": "",
-    "SuggestedPrice": "Not for Sale",
-    "PMDPrice": 1000.0,
-    "_id": "leaf-stone"
+    "OneUse": true,
+    "PMDPrice": 1000.0
 }

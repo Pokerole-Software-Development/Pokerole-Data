@@ -1,11 +1,11 @@
 {
     "Name": "Eject Pack",
+    "_id": "eject-pack",
+    "Core": "",
+    "PMD": false,
+    "Pocket": "HeldItems",
+    "Category": "BattleItem",
     "Description": "When the Pokemon's stats are reduced, it switches out immediately and the item is consumed.",
-    "TypeBonus": "",
-    "Value": "",
-    "SpecificPokemon": "",
-    "HealAmount": "",
-    "SuggestedPrice": "",
-    "PMDPrice": "",
-    "_id": "eject-pack"
+    "OneUse": false,
+    "TrainerPrice": ""
 }

@@ -1,11 +1,11 @@
 {
     "Name": "Sticky Barb",
+    "_id": "sticky-barb",
+    "Core": "",
+    "PMD": false,
+    "Pocket": "HeldItems",
+    "Category": "BattleItem",
     "Description": "Damages the user for 3 hp per round. If hit by a foe with no held items, it will transfer onto them.",
-    "TypeBonus": "",
-    "Value": "",
-    "SpecificPokemon": "",
-    "HealAmount": "",
-    "SuggestedPrice": "",
-    "PMDPrice": "",
-    "_id": "sticky-barb"
+    "OneUse": false,
+    "TrainerPrice": ""
 }

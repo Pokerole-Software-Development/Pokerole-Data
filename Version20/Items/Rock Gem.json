@@ -1,11 +1,14 @@
 {
     "Name": "Rock Gem",
+    "_id": "rock-gem",
+    "Core": "",
+    "PMD": false,
+    "Pocket": "HeldItems",
+    "Category": "TypeBoosting",
     "Description": "Adds 2 damage dice to Rock type moves. Will be immediately consumed on move use.",
-    "TypeBonus": "Rock",
-    "Value": "2",
-    "SpecificPokemon": "",
-    "HealAmount": "",
-    "SuggestedPrice": "",
-    "PMDPrice": "",
-    "_id": "rock-gem"
+    "OneUse": true,
+    "TrainerPrice": "",
+    "ForTypes": "Rock",
+    "Boost": "Damage",
+    "Value": 2.0
 }

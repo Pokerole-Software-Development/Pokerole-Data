@@ -1,11 +1,14 @@
 {
     "Name": "Silver Powder",
+    "_id": "silver-powder",
+    "Core": true,
+    "PMD": false,
+    "Pocket": "HeldItems",
+    "Category": "TypeBoosting",
     "Description": "Adds 1 damage die to Bug type moves.",
-    "TypeBonus": "Bug",
-    "Value": "1",
-    "SpecificPokemon": "",
-    "HealAmount": "",
-    "SuggestedPrice": "",
-    "PMDPrice": "",
-    "_id": "silver-powder"
+    "OneUse": false,
+    "TrainerPrice": "",
+    "ForTypes": "Bug",
+    "Boost": "Damage",
+    "Value": 1.0
 }

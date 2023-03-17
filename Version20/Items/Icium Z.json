@@ -1,11 +1,12 @@
 {
     "Name": "Icium Z",
+    "_id": "icium-z",
+    "Core": "",
+    "PMD": false,
+    "Pocket": "HeldItems",
+    "Category": "ZCrystal",
     "Description": "It converts Z-Power into crystals that upgrade Ice-type moves to Ice-type Z-Moves.",
-    "TypeBonus": "",
-    "Value": "",
-    "SpecificPokemon": "",
-    "HealAmount": "",
-    "SuggestedPrice": "",
-    "PMDPrice": "",
-    "_id": "icium-z"
+    "OneUse": false,
+    "TrainerPrice": "",
+    "ForTypes": "Ice"
 }

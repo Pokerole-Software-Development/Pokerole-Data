@@ -1,11 +1,11 @@
 {
     "Name": "Insect Plate",
-    "Description": "Adds 1 damage dice to Bug type moves.",
-    "TypeBonus": "Bug",
-    "Value": "1",
-    "SpecificPokemon": "",
-    "HealAmount": "",
-    "SuggestedPrice": "",
-    "PMDPrice": "",
-    "_id": "insect-plate"
+    "_id": "insect-plate",
+    "Core": "",
+    "PMD": false,
+    "Pocket": "HeldItems",
+    "Category": "TypeBoosting",
+    "Description": "When held by Arceus, change it's type to Bug.",
+    "OneUse": false,
+    "TrainerPrice": ""
 }

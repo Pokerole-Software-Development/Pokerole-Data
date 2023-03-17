@@ -1,11 +1,11 @@
 {
     "Name": "Room Service",
+    "_id": "room-service",
+    "Core": "",
+    "PMD": false,
+    "Pocket": "HeldItems",
+    "Category": "BattleItem",
     "Description": "Reduces the user's Initiative by 2 during Trick Room.",
-    "TypeBonus": "",
-    "Value": "",
-    "SpecificPokemon": "",
-    "HealAmount": "",
-    "SuggestedPrice": "",
-    "PMDPrice": "",
-    "_id": "room-service"
+    "OneUse": true,
+    "TrainerPrice": ""
 }

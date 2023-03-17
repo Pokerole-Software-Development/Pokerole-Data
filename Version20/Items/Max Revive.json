@@ -1,11 +1,13 @@
 {
     "Name": "Max Revive",
+    "_id": "max-revive",
+    "Core": true,
+    "PMD": false,
+    "Pocket": "Medicine",
+    "Category": "Healing",
     "Description": "A bigger shard that is not available to the public",
-    "TypeBonus": "",
-    "Value": "",
-    "SpecificPokemon": "",
-    "HealAmount": "Revive + Full HP",
-    "SuggestedPrice": "Not for Sale",
-    "PMDPrice": "",
-    "_id": "max-revive"
+    "OneUse": false,
+    "TrainerPrice": "Not for Sale",
+    "HealthRestored": "Full",
+    "Cures": "Fainted"
 }

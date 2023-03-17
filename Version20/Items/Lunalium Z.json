@@ -1,11 +1,12 @@
 {
     "Name": "Lunalium Z",
+    "_id": "lunalium-z",
+    "Core": "",
+    "PMD": false,
+    "Pocket": "HeldItems",
+    "Category": "ZCrystal",
     "Description": "This is a crystallized form of Z-Power. It upgrades Lunala's Moongeist Beam to a Z-Move.",
-    "TypeBonus": "",
-    "Value": "",
-    "SpecificPokemon": "",
-    "HealAmount": "",
-    "SuggestedPrice": "",
-    "PMDPrice": "",
-    "_id": "lunalium-z"
+    "OneUse": false,
+    "TrainerPrice": "",
+    "ForPokemon": "lunala"
 }

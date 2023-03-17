@@ -1,11 +1,12 @@
 {
     "Name": "Poisonium Z",
+    "_id": "poisonium-z",
+    "Core": "",
+    "PMD": false,
+    "Pocket": "HeldItems",
+    "Category": "ZCrystal",
     "Description": "It converts Z-Power into crystals that upgrade Poison-type moves to Poison-type Z-Moves.",
-    "TypeBonus": "",
-    "Value": "",
-    "SpecificPokemon": "",
-    "HealAmount": "",
-    "SuggestedPrice": "",
-    "PMDPrice": "",
-    "_id": "poisonium-z"
+    "OneUse": false,
+    "TrainerPrice": "",
+    "ForTypes": "Poison"
 }

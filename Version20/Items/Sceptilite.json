@@ -1,11 +1,12 @@
 {
     "Name": "Sceptilite",
+    "_id": "sceptilite",
+    "Core": "",
+    "PMD": false,
+    "Pocket": "HeldItems",
+    "Category": "MegaStone",
     "Description": "Makes Sceptile Mega-evolve into Mega-Sceptile",
-    "TypeBonus": "",
-    "Value": "",
-    "SpecificPokemon": "Sceptile",
-    "HealAmount": "",
-    "SuggestedPrice": "Not for Sale",
-    "PMDPrice": "",
-    "_id": "sceptilite"
+    "OneUse": false,
+    "TrainerPrice": "Not for Sale",
+    "ForPokemon": "sceptile"
 }

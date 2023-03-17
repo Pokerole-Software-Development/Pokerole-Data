@@ -1,11 +1,12 @@
 {
     "Name": "Banettite",
+    "_id": "banettite",
+    "Core": "",
+    "PMD": false,
+    "Pocket": "HeldItems",
+    "Category": "MegaStone",
     "Description": "Makes Banette Mega-evolve into Mega-Banette",
-    "TypeBonus": "",
-    "Value": "",
-    "SpecificPokemon": "Banette",
-    "HealAmount": "",
-    "SuggestedPrice": "Not for Sale",
-    "PMDPrice": "",
-    "_id": "banettite"
+    "OneUse": false,
+    "TrainerPrice": "Not for Sale",
+    "ForPokemon": "banette"
 }

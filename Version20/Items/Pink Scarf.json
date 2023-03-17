@@ -1,11 +1,13 @@
 {
     "Name": "Pink Scarf",
+    "_id": "pink-scarf",
+    "Core": "",
+    "PMD": false,
+    "Pocket": "HeldItems",
+    "Category": "",
     "Description": "Increases Cute by 1 during contests.",
-    "TypeBonus": "",
-    "Value": "",
-    "SpecificPokemon": "",
-    "HealAmount": "",
-    "SuggestedPrice": "",
-    "PMDPrice": "",
-    "_id": "pink-scarf"
+    "OneUse": false,
+    "TrainerPrice": "",
+    "Boost": "Cute",
+    "Value": 1.0
 }

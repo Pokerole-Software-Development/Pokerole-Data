@@ -1,11 +1,13 @@
 {
     "Name": "Hp Up",
-    "Description": "A compendium of vitamins and minerals to help your pokemon grow as big and healthy as it can be.",
-    "TypeBonus": "",
-    "Value": "Increase Base HP by 2",
-    "SpecificPokemon": "",
-    "HealAmount": "",
-    "SuggestedPrice": "9800",
-    "PMDPrice": "",
-    "_id": "hp-up"
+    "_id": "hp-up",
+    "Core": true,
+    "PMD": false,
+    "Pocket": "Medicine",
+    "Category": "Vitamin",
+    "Description": "A compendium of vitamins and minerals to help your pokemon grow as big and healthy as it can be. Boost lasts one month.",
+    "OneUse": true,
+    "TrainerPrice": "9800",
+    "Boost": "Base Hp",
+    "Value": 2.0
 }

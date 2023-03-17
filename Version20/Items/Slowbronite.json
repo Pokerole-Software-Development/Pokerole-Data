@@ -1,11 +1,12 @@
 {
     "Name": "Slowbronite",
+    "_id": "slowbronite",
+    "Core": "",
+    "PMD": false,
+    "Pocket": "HeldItems",
+    "Category": "MegaStone",
     "Description": "Makes Slowbro Mega-evolve into Mega-Slowbro",
-    "TypeBonus": "",
-    "Value": "",
-    "SpecificPokemon": "Slowbro",
-    "HealAmount": "",
-    "SuggestedPrice": "Not for Sale",
-    "PMDPrice": "",
-    "_id": "slowbronite"
+    "OneUse": false,
+    "TrainerPrice": "Not for Sale",
+    "ForPokemon": "slowbro"
 }

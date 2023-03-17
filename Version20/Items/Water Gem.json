@@ -1,11 +1,14 @@
 {
     "Name": "Water Gem",
+    "_id": "water-gem",
+    "Core": "",
+    "PMD": false,
+    "Pocket": "HeldItems",
+    "Category": "TypeBoosting",
     "Description": "Adds 2 damage dice to Water type moves. Will be immediately consumed on move use.",
-    "TypeBonus": "Water",
-    "Value": "2",
-    "SpecificPokemon": "",
-    "HealAmount": "",
-    "SuggestedPrice": "",
-    "PMDPrice": "",
-    "_id": "water-gem"
+    "OneUse": true,
+    "TrainerPrice": "",
+    "ForTypes": "Water",
+    "Boost": "Damage",
+    "Value": 2.0
 }

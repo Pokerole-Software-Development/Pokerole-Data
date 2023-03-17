@@ -1,11 +1,14 @@
 {
     "Name": "Mystic Water",
+    "_id": "mystic-water",
+    "Core": true,
+    "PMD": false,
+    "Pocket": "HeldItems",
+    "Category": "TypeBoosting",
     "Description": "Adds 1 damage die to Water type moves.",
-    "TypeBonus": "Water",
-    "Value": "1",
-    "SpecificPokemon": "",
-    "HealAmount": "",
-    "SuggestedPrice": "",
-    "PMDPrice": "",
-    "_id": "mystic-water"
+    "OneUse": false,
+    "TrainerPrice": "",
+    "ForTypes": "Water",
+    "Boost": "Damage",
+    "Value": 1.0
 }

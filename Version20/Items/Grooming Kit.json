@@ -1,11 +1,11 @@
 {
     "Name": "Grooming Kit",
+    "_id": "grooming-kit",
+    "Core": true,
+    "PMD": false,
+    "Pocket": "TrainerItems",
+    "Category": "",
     "Description": "No more matted hair, unruly leaves, dry scales, or rough rocks!",
-    "TypeBonus": "",
-    "Value": "",
-    "SpecificPokemon": "",
-    "HealAmount": "",
-    "SuggestedPrice": "100",
-    "PMDPrice": "",
-    "_id": "grooming-kit"
+    "OneUse": false,
+    "TrainerPrice": "100"
 }

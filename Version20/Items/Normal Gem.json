@@ -1,11 +1,14 @@
 {
     "Name": "Normal Gem",
+    "_id": "normal-gem",
+    "Core": "",
+    "PMD": false,
+    "Pocket": "HeldItems",
+    "Category": "TypeBoosting",
     "Description": "Adds 2 damage dice to Normal type moves. Will be immediately consumed on move use.",
-    "TypeBonus": "Normal",
-    "Value": "2",
-    "SpecificPokemon": "",
-    "HealAmount": "",
-    "SuggestedPrice": "",
-    "PMDPrice": "",
-    "_id": "normal-gem"
+    "OneUse": true,
+    "TrainerPrice": "",
+    "ForTypes": "Normal",
+    "Boost": "Damage",
+    "Value": 2.0
 }

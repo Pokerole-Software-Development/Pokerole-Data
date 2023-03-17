@@ -1,11 +1,11 @@
 {
     "Name": "Encourage Seed",
+    "_id": "encourage-seed",
+    "Core": "",
+    "PMD": true,
+    "Pocket": "HeldItems",
+    "Category": "BattleItem",
     "Description": "It doesn't taste any different than a plain seed, but you'll feel a surge of confidence after eating it. Gain High Critical in all moves for a scene.",
-    "TypeBonus": "",
-    "Value": "",
-    "SpecificPokemon": "",
-    "HealAmount": "",
-    "SuggestedPrice": "",
-    "PMDPrice": 100.0,
-    "_id": "encourage-seed"
+    "OneUse": false,
+    "PMDPrice": 100.0
 }

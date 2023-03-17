@@ -1,11 +1,11 @@
 {
     "Name": "Shell Bell",
+    "_id": "shell-bell",
+    "Core": "",
+    "PMD": false,
+    "Pocket": "HeldItems",
+    "Category": "BattleItem",
     "Description": "Restores 1 hp everytime the user inflicts damage.",
-    "TypeBonus": "",
-    "Value": "",
-    "SpecificPokemon": "",
-    "HealAmount": "",
-    "SuggestedPrice": "",
-    "PMDPrice": "",
-    "_id": "shell-bell"
+    "OneUse": false,
+    "TrainerPrice": ""
 }

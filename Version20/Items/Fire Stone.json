@@ -1,11 +1,11 @@
 {
     "Name": "Fire Stone",
+    "_id": "fire-stone",
+    "Core": true,
+    "PMD": true,
+    "Pocket": "EvolutionItem",
+    "Category": "",
     "Description": "This Stone has a flame inside, it's hot to the touch.",
-    "TypeBonus": "",
-    "Value": "",
-    "SpecificPokemon": "",
-    "HealAmount": "",
-    "SuggestedPrice": "5000",
-    "PMDPrice": 1000.0,
-    "_id": "fire-stone"
+    "OneUse": false,
+    "PMDPrice": 1000.0
 }

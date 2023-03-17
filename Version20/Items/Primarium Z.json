@@ -1,11 +1,12 @@
 {
     "Name": "Primarium Z",
+    "_id": "primarium-z",
+    "Core": "",
+    "PMD": false,
+    "Pocket": "HeldItems",
+    "Category": "ZCrystal",
     "Description": "This is a crystallized form of Z-Power. It upgrades Primarina's Sparkling Aria to a Z-Move.",
-    "TypeBonus": "",
-    "Value": "",
-    "SpecificPokemon": "",
-    "HealAmount": "",
-    "SuggestedPrice": "",
-    "PMDPrice": "",
-    "_id": "primarium-z"
+    "OneUse": false,
+    "TrainerPrice": "",
+    "ForPokemon": "primarina"
 }

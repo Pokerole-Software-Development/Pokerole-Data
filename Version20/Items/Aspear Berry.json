@@ -1,11 +1,12 @@
 {
     "Name": "Aspear Berry",
+    "_id": "aspear-berry",
+    "Core": true,
+    "PMD": false,
+    "Pocket": "Medicine",
+    "Category": "Berry",
     "Description": "Eating this Berry will cure Frozen.",
-    "TypeBonus": "",
-    "Value": "",
-    "SpecificPokemon": "",
-    "HealAmount": "Frozen",
-    "SuggestedPrice": "Rare",
-    "PMDPrice": "",
-    "_id": "aspear-berry"
+    "OneUse": false,
+    "TrainerPrice": "Rare",
+    "Cures": "Frozen"
 }

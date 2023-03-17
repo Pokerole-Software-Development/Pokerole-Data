@@ -1,11 +1,11 @@
 {
     "Name": "Shiny Stone",
+    "_id": "shiny-stone",
+    "Core": true,
+    "PMD": true,
+    "Pocket": "EvolutionItem",
+    "Category": "",
     "Description": "Its crystal-like surface aloows you to see a ball of light inside.",
-    "TypeBonus": "",
-    "Value": "",
-    "SpecificPokemon": "",
-    "HealAmount": "",
-    "SuggestedPrice": "Not for Sale",
-    "PMDPrice": 1000.0,
-    "_id": "shiny-stone"
+    "OneUse": true,
+    "PMDPrice": 1000.0
 }

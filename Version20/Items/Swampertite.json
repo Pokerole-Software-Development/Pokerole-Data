@@ -1,11 +1,12 @@
 {
     "Name": "Swampertite",
+    "_id": "swampertite",
+    "Core": "",
+    "PMD": false,
+    "Pocket": "HeldItems",
+    "Category": "MegaStone",
     "Description": "Makes Swampert Mega-evolve into Mega-Swampert",
-    "TypeBonus": "",
-    "Value": "",
-    "SpecificPokemon": "Swampert",
-    "HealAmount": "",
-    "SuggestedPrice": "Not for Sale",
-    "PMDPrice": "",
-    "_id": "swampertite"
+    "OneUse": false,
+    "TrainerPrice": "Not for Sale",
+    "ForPokemon": "swampert"
 }

@@ -1,11 +1,12 @@
 {
     "Name": "Poison Memory",
+    "_id": "poison-memory",
+    "Core": "",
+    "PMD": false,
+    "Pocket": "HeldItems",
+    "Category": "MonBoosting",
     "Description": "Changes Silvally and Multi-attack's typing to Poison.",
-    "TypeBonus": "",
-    "Value": "",
-    "SpecificPokemon": "",
-    "HealAmount": "",
-    "SuggestedPrice": "",
-    "PMDPrice": "",
-    "_id": "poison-memory"
+    "OneUse": false,
+    "TrainerPrice": "",
+    "ForPokemon": "silvally"
 }

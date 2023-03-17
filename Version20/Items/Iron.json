@@ -1,11 +1,13 @@
 {
     "Name": "Iron",
-    "Description": "An iron capsule that reduces feebleness and gives you a healthy glow.",
-    "TypeBonus": "",
-    "Value": "",
-    "SpecificPokemon": "",
-    "HealAmount": "",
-    "SuggestedPrice": "9800",
+    "_id": "iron",
+    "Core": true,
+    "PMD": true,
+    "Pocket": "Medicine",
+    "Category": "Vitamin",
+    "Description": "An iron capsule that reduces feebleness and gives you a healthy glow. Boost lasts for one month.",
+    "OneUse": true,
     "PMDPrice": 4500.0,
-    "_id": "iron"
+    "Boost": "Vitality",
+    "Value": 1.0
 }

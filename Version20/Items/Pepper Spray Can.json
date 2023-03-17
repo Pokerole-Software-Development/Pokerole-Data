@@ -1,11 +1,11 @@
 {
     "Name": "Pepper Spray Can",
+    "_id": "pepper-spray-can",
+    "Core": true,
+    "PMD": false,
+    "Pocket": "TrainerItems",
+    "Category": "",
     "Description": "Scares away small pokemon, but it may enrage the bigger ones. Good for 5 uses.",
-    "TypeBonus": "",
-    "Value": "",
-    "SpecificPokemon": "",
-    "HealAmount": "",
-    "SuggestedPrice": "50",
-    "PMDPrice": "",
-    "_id": "pepper-spray-can"
+    "OneUse": false,
+    "TrainerPrice": "50"
 }

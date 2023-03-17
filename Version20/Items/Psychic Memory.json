@@ -1,11 +1,12 @@
 {
     "Name": "Psychic Memory",
+    "_id": "psychic-memory",
+    "Core": "",
+    "PMD": false,
+    "Pocket": "HeldItems",
+    "Category": "MonBoosting",
     "Description": "Changes Silvally and Multi-attack's typing to Psychic.",
-    "TypeBonus": "",
-    "Value": "",
-    "SpecificPokemon": "",
-    "HealAmount": "",
-    "SuggestedPrice": "",
-    "PMDPrice": "",
-    "_id": "psychic-memory"
+    "OneUse": false,
+    "TrainerPrice": "",
+    "ForPokemon": "silvally"
 }

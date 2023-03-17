@@ -1,11 +1,12 @@
 {
     "Name": "Oran Berry",
+    "_id": "oran-berry",
+    "Core": true,
+    "PMD": true,
+    "Pocket": "Medicine",
+    "Category": "Berry",
     "Description": "Eating this Berry will heal 1 HP.",
-    "TypeBonus": "",
-    "Value": "",
-    "SpecificPokemon": "",
-    "HealAmount": "1",
-    "SuggestedPrice": "Uncommon",
+    "OneUse": true,
     "PMDPrice": 50.0,
-    "_id": "oran-berry"
+    "HealthRestored": "1"
 }

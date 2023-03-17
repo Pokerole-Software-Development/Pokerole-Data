@@ -1,11 +1,13 @@
 {
     "Name": "Revive",
+    "_id": "revive",
+    "Core": true,
+    "PMD": false,
+    "Pocket": "Medicine",
+    "Category": "Healing",
     "Description": "A small energy shard that brings a fainted Human or pokemon back into conciousness and stabilizes their wounds.",
-    "TypeBonus": "",
-    "Value": "",
-    "SpecificPokemon": "",
-    "HealAmount": "Revive + 1 hp",
-    "SuggestedPrice": "1500",
-    "PMDPrice": "",
-    "_id": "revive"
+    "OneUse": false,
+    "TrainerPrice": "1500",
+    "HealthRestored": "1",
+    "Cures": "Fainted"
 }

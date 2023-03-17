@@ -1,11 +1,11 @@
 {
     "Name": "Choice Specs",
+    "_id": "choice-specs",
+    "Core": "",
+    "PMD": false,
+    "Pocket": "HeldItems",
+    "Category": "BattleItem",
     "Description": "Increases the Special by 1 but the Pokemon may only use the first move it used at the start, but it can still evade. This effect is rest on switch in.",
-    "TypeBonus": "",
-    "Value": "",
-    "SpecificPokemon": "",
-    "HealAmount": "",
-    "SuggestedPrice": "",
-    "PMDPrice": "",
-    "_id": "choice-specs"
+    "OneUse": false,
+    "TrainerPrice": ""
 }

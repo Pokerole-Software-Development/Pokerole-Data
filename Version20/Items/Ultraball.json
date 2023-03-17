@@ -1,11 +1,11 @@
 {
     "Name": "Ultraball",
+    "_id": "ultraball",
+    "Core": true,
+    "PMD": false,
+    "Pocket": "Pokeballs",
+    "Category": "",
     "Description": "The best seal in the market to ensure the catch of stronger pokemon.",
-    "TypeBonus": "",
-    "Value": "",
-    "SpecificPokemon": "",
-    "HealAmount": "",
-    "SuggestedPrice": "1200",
-    "PMDPrice": "",
-    "_id": "ultraball"
+    "OneUse": true,
+    "TrainerPrice": "1200"
 }

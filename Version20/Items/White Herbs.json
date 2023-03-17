@@ -1,11 +1,11 @@
 {
     "Name": "White Herbs",
+    "_id": "white-herbs",
+    "Core": "",
+    "PMD": false,
+    "Pocket": "HeldItems",
+    "Category": "BattleItem",
     "Description": "The user may restore all lowered stats in battle as a bonus action. It is consumed upon use.",
-    "TypeBonus": "",
-    "Value": "",
-    "SpecificPokemon": "",
-    "HealAmount": "",
-    "SuggestedPrice": "",
-    "PMDPrice": "",
-    "_id": "white-herbs"
+    "OneUse": true,
+    "TrainerPrice": ""
 }

@@ -1,11 +1,12 @@
 {
     "Name": "Potion",
+    "_id": "potion",
+    "Core": true,
+    "PMD": false,
+    "Pocket": "Medicine",
+    "Category": "Healing",
     "Description": "A pocket sized spray potion to relieve the pain and heal bruises",
-    "TypeBonus": "",
-    "Value": "",
-    "SpecificPokemon": "",
-    "HealAmount": "2",
-    "SuggestedPrice": "400",
-    "PMDPrice": "",
-    "_id": "potion"
+    "OneUse": true,
+    "TrainerPrice": "400",
+    "HealthRestored": "2"
 }

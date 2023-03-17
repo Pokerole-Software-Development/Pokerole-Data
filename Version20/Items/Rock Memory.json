@@ -1,11 +1,12 @@
 {
     "Name": "Rock Memory",
+    "_id": "rock-memory",
+    "Core": "",
+    "PMD": false,
+    "Pocket": "HeldItems",
+    "Category": "MonBoosting",
     "Description": "Changes Silvally and Multi-attack's typing to Rock.",
-    "TypeBonus": "",
-    "Value": "",
-    "SpecificPokemon": "",
-    "HealAmount": "",
-    "SuggestedPrice": "",
-    "PMDPrice": "",
-    "_id": "rock-memory"
+    "OneUse": false,
+    "TrainerPrice": "",
+    "ForPokemon": "silvally"
 }

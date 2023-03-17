@@ -1,11 +1,11 @@
 {
     "Name": "Small Camping Tent",
+    "_id": "small-camping-tent",
+    "Core": true,
+    "PMD": false,
+    "Pocket": "TrainerItems",
+    "Category": "",
     "Description": "A comfortable space for 1 person, or 2 if you don't mind squeezing.",
-    "TypeBonus": "",
-    "Value": "",
-    "SpecificPokemon": "",
-    "HealAmount": "",
-    "SuggestedPrice": "800",
-    "PMDPrice": "",
-    "_id": "small-camping-tent"
+    "OneUse": false,
+    "TrainerPrice": "800"
 }

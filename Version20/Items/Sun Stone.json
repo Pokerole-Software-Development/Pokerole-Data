@@ -1,11 +1,11 @@
 {
     "Name": "Sun Stone",
+    "_id": "sun-stone",
+    "Core": true,
+    "PMD": true,
+    "Pocket": "EvolutionItem",
+    "Category": "",
     "Description": "A red stone that shines brightly when facing the sun in the morning.",
-    "TypeBonus": "",
-    "Value": "",
-    "SpecificPokemon": "",
-    "HealAmount": "",
-    "SuggestedPrice": "Not for Sale",
-    "PMDPrice": 1000.0,
-    "_id": "sun-stone"
+    "OneUse": true,
+    "PMDPrice": 1000.0
 }

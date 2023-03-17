@@ -1,11 +1,12 @@
 {
     "Name": "Health Orb",
+    "_id": "health-orb",
+    "Core": "",
+    "PMD": true,
+    "Pocket": "Medicine",
+    "Category": "Status",
     "Description": "Those who stand inside the blast's ratio will become healthy again, try to keep it thay way. Heal all Status Conditions.",
-    "TypeBonus": "",
-    "Value": "",
-    "SpecificPokemon": "",
-    "HealAmount": "",
-    "SuggestedPrice": "",
+    "OneUse": true,
     "PMDPrice": 300.0,
-    "_id": "health-orb"
+    "Cures": "All Status"
 }

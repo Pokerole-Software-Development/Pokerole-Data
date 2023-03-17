@@ -1,11 +1,14 @@
 {
     "Name": "Light Ball",
+    "_id": "light-ball",
+    "Core": true,
+    "PMD": false,
+    "Pocket": "HeldItems",
+    "Category": "MonBoosting",
     "Description": "Pikachu gains 2 Strength and 2 Special.",
-    "TypeBonus": "",
-    "Value": "",
-    "SpecificPokemon": "Pikachu",
-    "HealAmount": "",
-    "SuggestedPrice": "",
-    "PMDPrice": "",
-    "_id": "light-ball"
+    "OneUse": false,
+    "TrainerPrice": "",
+    "ForPokemon": "pikachu",
+    "Boost": "Strength Special",
+    "Value": 2.0
 }

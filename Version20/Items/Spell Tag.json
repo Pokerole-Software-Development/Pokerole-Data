@@ -1,11 +1,14 @@
 {
     "Name": "Spell Tag",
+    "_id": "spell-tag",
+    "Core": true,
+    "PMD": false,
+    "Pocket": "HeldItems",
+    "Category": "TypeBoosting",
     "Description": "Adds 1 damage die to Ghost type moves.",
-    "TypeBonus": "Ghost",
-    "Value": "1",
-    "SpecificPokemon": "",
-    "HealAmount": "",
-    "SuggestedPrice": "",
-    "PMDPrice": "",
-    "_id": "spell-tag"
+    "OneUse": false,
+    "TrainerPrice": "",
+    "ForTypes": "Ghost",
+    "Boost": "Damage",
+    "Value": 1.0
 }

@@ -1,11 +1,12 @@
 {
     "Name": "Steelium Z",
+    "_id": "steelium-z",
+    "Core": "",
+    "PMD": false,
+    "Pocket": "HeldItems",
+    "Category": "ZCrystal",
     "Description": "It converts Z-Power into crystals that upgrade Steel-type moves to Steel-type Z-Moves.",
-    "TypeBonus": "",
-    "Value": "",
-    "SpecificPokemon": "",
-    "HealAmount": "",
-    "SuggestedPrice": "",
-    "PMDPrice": "",
-    "_id": "steelium-z"
+    "OneUse": false,
+    "TrainerPrice": "",
+    "ForTypes": "Steel"
 }

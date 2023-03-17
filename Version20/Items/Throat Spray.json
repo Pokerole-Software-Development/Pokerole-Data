@@ -1,11 +1,11 @@
 {
     "Name": "Throat Spray",
+    "_id": "throat-spray",
+    "Core": "",
+    "PMD": false,
+    "Pocket": "HeldItems",
+    "Category": "BattleItem",
     "Description": "Increases Special by 1 when the user uses a Sound based move for the first time.",
-    "TypeBonus": "",
-    "Value": "",
-    "SpecificPokemon": "",
-    "HealAmount": "",
-    "SuggestedPrice": "",
-    "PMDPrice": "",
-    "_id": "throat-spray"
+    "OneUse": false,
+    "TrainerPrice": ""
 }

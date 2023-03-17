@@ -1,11 +1,12 @@
 {
     "Name": "Pinsirite",
+    "_id": "pinsirite",
+    "Core": "",
+    "PMD": false,
+    "Pocket": "HeldItems",
+    "Category": "MegaStone",
     "Description": "Makes Pinsir Mega-evolve into Mega-Pinsir",
-    "TypeBonus": "",
-    "Value": "",
-    "SpecificPokemon": "Pinsir",
-    "HealAmount": "",
-    "SuggestedPrice": "Not for Sale",
-    "PMDPrice": "",
-    "_id": "pinsirite"
+    "OneUse": false,
+    "TrainerPrice": "Not for Sale",
+    "ForPokemon": "pinsir"
 }

@@ -1,11 +1,14 @@
 {
     "Name": "Electric Gem",
+    "_id": "electric-gem",
+    "Core": "",
+    "PMD": false,
+    "Pocket": "HeldItems",
+    "Category": "TypeBoosting",
     "Description": "Adds 2 damage dice to Electric type moves. Will be immediately consumed on move use.",
-    "TypeBonus": "Electric",
-    "Value": "2",
-    "SpecificPokemon": "",
-    "HealAmount": "",
-    "SuggestedPrice": "",
-    "PMDPrice": "",
-    "_id": "electric-gem"
+    "OneUse": true,
+    "TrainerPrice": "",
+    "ForTypes": "Electric",
+    "Boost": "Damage",
+    "Value": 2.0
 }

@@ -1,11 +1,11 @@
 {
     "Name": "Rocky Helmet",
+    "_id": "rocky-helmet",
+    "Core": true,
+    "PMD": false,
+    "Pocket": "HeldItems",
+    "Category": "BattleItem",
     "Description": "Deal 1 damage roll against a foe who has hit you with a non-ranged physical move.",
-    "TypeBonus": "",
-    "Value": "",
-    "SpecificPokemon": "",
-    "HealAmount": "",
-    "SuggestedPrice": "",
-    "PMDPrice": "",
-    "_id": "rocky-helmet"
+    "OneUse": false,
+    "TrainerPrice": ""
 }

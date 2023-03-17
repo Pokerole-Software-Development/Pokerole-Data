@@ -1,11 +1,14 @@
 {
     "Name": "Metal Coat",
+    "_id": "metal-coat",
+    "Core": true,
+    "PMD": false,
+    "Pocket": "HeldItems",
+    "Category": "TypeBoosting",
     "Description": "Adds 1 damage die to Steel type moves.",
-    "TypeBonus": "Steel",
-    "Value": "1",
-    "SpecificPokemon": "",
-    "HealAmount": "",
-    "SuggestedPrice": "",
-    "PMDPrice": "",
-    "_id": "metal-coat"
+    "OneUse": false,
+    "TrainerPrice": "",
+    "ForTypes": "Steel",
+    "Boost": "Damage",
+    "Value": 1.0
 }

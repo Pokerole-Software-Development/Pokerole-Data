@@ -1,11 +1,14 @@
 {
     "Name": "Ghost Gem",
+    "_id": "ghost-gem",
+    "Core": "",
+    "PMD": false,
+    "Pocket": "HeldItems",
+    "Category": "TypeBoosting",
     "Description": "Adds 2 damage dice to Ghost type moves. Will be immediately consumed on move use.",
-    "TypeBonus": "Ghost",
-    "Value": "2",
-    "SpecificPokemon": "",
-    "HealAmount": "",
-    "SuggestedPrice": "",
-    "PMDPrice": "",
-    "_id": "ghost-gem"
+    "OneUse": true,
+    "TrainerPrice": "",
+    "ForTypes": "Ghost",
+    "Boost": "Damage",
+    "Value": 2.0
 }

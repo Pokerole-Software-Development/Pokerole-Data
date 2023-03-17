@@ -1,11 +1,11 @@
 {
     "Name": "Power Herb",
+    "_id": "power-herb",
+    "Core": "",
+    "PMD": false,
+    "Pocket": "HeldItems",
+    "Category": "BattleItem",
     "Description": "Allows the user to use Charge moves immediately. It is consumed upon use.",
-    "TypeBonus": "",
-    "Value": "",
-    "SpecificPokemon": "",
-    "HealAmount": "",
-    "SuggestedPrice": "",
-    "PMDPrice": "",
-    "_id": "power-herb"
+    "OneUse": true,
+    "TrainerPrice": ""
 }

@@ -1,11 +1,11 @@
 {
     "Name": "Fist Plate",
-    "Description": "Adds 1 damage dice to Fighting type moves.",
-    "TypeBonus": "Fighting",
-    "Value": "1",
-    "SpecificPokemon": "",
-    "HealAmount": "",
-    "SuggestedPrice": "",
-    "PMDPrice": "",
-    "_id": "fist-plate"
+    "_id": "fist-plate",
+    "Core": "",
+    "PMD": false,
+    "Pocket": "HeldItems",
+    "Category": "TypeBoosting",
+    "Description": "When held by Arceus, change it's type to Fighting.",
+    "OneUse": false,
+    "TrainerPrice": ""
 }

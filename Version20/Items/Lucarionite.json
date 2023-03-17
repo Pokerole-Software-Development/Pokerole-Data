@@ -1,11 +1,12 @@
 {
     "Name": "Lucarionite",
+    "_id": "lucarionite",
+    "Core": "",
+    "PMD": false,
+    "Pocket": "HeldItems",
+    "Category": "MegaStone",
     "Description": "Makes Lucario Mega-evolve into Mega-Lucario",
-    "TypeBonus": "",
-    "Value": "",
-    "SpecificPokemon": "Lucario",
-    "HealAmount": "",
-    "SuggestedPrice": "Not for Sale",
-    "PMDPrice": "",
-    "_id": "lucarionite"
+    "OneUse": false,
+    "TrainerPrice": "Not for Sale",
+    "ForPokemon": "lucario"
 }

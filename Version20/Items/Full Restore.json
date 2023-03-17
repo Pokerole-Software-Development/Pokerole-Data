@@ -1,11 +1,13 @@
 {
     "Name": "Full Restore",
+    "_id": "full-restore",
+    "Core": true,
+    "PMD": false,
+    "Pocket": "Medicine",
+    "Category": "Healing",
     "Description": "A single-use capsule of deluxe formula. The pokemon won't be able to restore health until the next day.",
-    "TypeBonus": "",
-    "Value": "",
-    "SpecificPokemon": "",
-    "HealAmount": "Full and Status",
-    "SuggestedPrice": "2000",
-    "PMDPrice": "",
-    "_id": "full-restore"
+    "OneUse": false,
+    "TrainerPrice": "2000",
+    "HealthRestored": "Full",
+    "Cures": "All Status"
 }

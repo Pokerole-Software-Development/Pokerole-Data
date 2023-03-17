@@ -1,11 +1,11 @@
 {
     "Name": "Splash Plate",
-    "Description": "Adds 1 damage dice to Water type moves.",
-    "TypeBonus": "Water",
-    "Value": "1",
-    "SpecificPokemon": "",
-    "HealAmount": "",
-    "SuggestedPrice": "",
-    "PMDPrice": "",
-    "_id": "splash-plate"
+    "_id": "splash-plate",
+    "Core": "",
+    "PMD": false,
+    "Pocket": "HeldItems",
+    "Category": "TypeBoosting",
+    "Description": "When held by Arceus, change it's type to Water.",
+    "OneUse": false,
+    "TrainerPrice": ""
 }

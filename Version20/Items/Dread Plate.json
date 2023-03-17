@@ -1,11 +1,11 @@
 {
     "Name": "Dread Plate",
-    "Description": "Adds 1 damage dice to Dark type moves.",
-    "TypeBonus": "Dark",
-    "Value": "1",
-    "SpecificPokemon": "",
-    "HealAmount": "",
-    "SuggestedPrice": "",
-    "PMDPrice": "",
-    "_id": "dread-plate"
+    "_id": "dread-plate",
+    "Core": "",
+    "PMD": false,
+    "Pocket": "HeldItems",
+    "Category": "TypeBoosting",
+    "Description": "When held by Arceus, change it's type to Dark.",
+    "OneUse": false,
+    "TrainerPrice": ""
 }

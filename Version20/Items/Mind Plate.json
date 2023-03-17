@@ -1,11 +1,11 @@
 {
     "Name": "Mind Plate",
-    "Description": "Adds 1 damage dice to Psychic type moves.",
-    "TypeBonus": "Psychic",
-    "Value": "1",
-    "SpecificPokemon": "",
-    "HealAmount": "",
-    "SuggestedPrice": "",
-    "PMDPrice": "",
-    "_id": "mind-plate"
+    "_id": "mind-plate",
+    "Core": "",
+    "PMD": false,
+    "Pocket": "HeldItems",
+    "Category": "TypeBoosting",
+    "Description": "When held by Arceus, change it's type to Psychic.",
+    "OneUse": false,
+    "TrainerPrice": ""
 }

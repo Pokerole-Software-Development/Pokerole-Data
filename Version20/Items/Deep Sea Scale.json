@@ -1,11 +1,14 @@
 {
     "Name": "Deep Sea Scale",
+    "_id": "deep-sea-scale",
+    "Core": "",
+    "PMD": false,
+    "Pocket": "HeldItems",
+    "Category": "MonBoosting",
     "Description": "Increases Clamperl's Special Defense by 2.",
-    "TypeBonus": "",
-    "Value": "",
-    "SpecificPokemon": "Clamperl",
-    "HealAmount": "",
-    "SuggestedPrice": "",
-    "PMDPrice": "",
-    "_id": "deep-sea-scale"
+    "OneUse": false,
+    "TrainerPrice": "",
+    "ForPokemon": "clamperl",
+    "Boost": "SpecialDefense",
+    "Value": 2.0
 }

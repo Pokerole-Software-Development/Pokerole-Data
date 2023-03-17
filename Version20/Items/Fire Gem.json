@@ -1,11 +1,14 @@
 {
     "Name": "Fire Gem",
+    "_id": "fire-gem",
+    "Core": "",
+    "PMD": false,
+    "Pocket": "HeldItems",
+    "Category": "TypeBoosting",
     "Description": "Adds 2 damage dice to Fire type moves. Will be immediately consumed on move use.",
-    "TypeBonus": "Fire",
-    "Value": "2",
-    "SpecificPokemon": "",
-    "HealAmount": "",
-    "SuggestedPrice": "",
-    "PMDPrice": "",
-    "_id": "fire-gem"
+    "OneUse": false,
+    "TrainerPrice": "",
+    "ForTypes": "Fire",
+    "Boost": "Damage",
+    "Value": 2.0
 }

@@ -1,11 +1,14 @@
 {
     "Name": "Poison Gem",
+    "_id": "poison-gem",
+    "Core": "",
+    "PMD": false,
+    "Pocket": "HeldItems",
+    "Category": "TypeBoosting",
     "Description": "Adds 2 damage dice to Poison type moves. Will be immediately consumed on move use.",
-    "TypeBonus": "Poison",
-    "Value": "2",
-    "SpecificPokemon": "",
-    "HealAmount": "",
-    "SuggestedPrice": "",
-    "PMDPrice": "",
-    "_id": "poison-gem"
+    "OneUse": true,
+    "TrainerPrice": "",
+    "ForTypes": "Poison",
+    "Boost": "Damage",
+    "Value": 2.0
 }

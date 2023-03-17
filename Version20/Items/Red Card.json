@@ -1,11 +1,11 @@
 {
     "Name": "Red Card",
+    "_id": "red-card",
+    "Core": "",
+    "PMD": false,
+    "Pocket": "HeldItems",
+    "Category": "BattleItem",
     "Description": "When the Pokemon is hit with a damaging move, the attacker switches out immediately and the item is consumed.",
-    "TypeBonus": "",
-    "Value": "",
-    "SpecificPokemon": "",
-    "HealAmount": "",
-    "SuggestedPrice": "",
-    "PMDPrice": "",
-    "_id": "red-card"
+    "OneUse": true,
+    "TrainerPrice": ""
 }

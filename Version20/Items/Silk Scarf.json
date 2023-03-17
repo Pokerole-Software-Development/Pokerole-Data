@@ -1,11 +1,14 @@
 {
     "Name": "Silk Scarf",
+    "_id": "silk-scarf",
+    "Core": true,
+    "PMD": false,
+    "Pocket": "HeldItems",
+    "Category": "TypeBoosting",
     "Description": "Adds 1 damage die to Normal type moves.",
-    "TypeBonus": "Normal",
-    "Value": "1",
-    "SpecificPokemon": "",
-    "HealAmount": "",
-    "SuggestedPrice": "",
-    "PMDPrice": "",
-    "_id": "silk-scarf"
+    "OneUse": false,
+    "TrainerPrice": "",
+    "ForTypes": "Normal",
+    "Boost": "Damage",
+    "Value": 1.0
 }

@@ -1,11 +1,12 @@
 {
     "Name": "Alakazite",
+    "_id": "alakazite",
+    "Core": "",
+    "PMD": false,
+    "Pocket": "HeldItems",
+    "Category": "MegaStone",
     "Description": "Makes Alakazam Mega-evolve into Mega-Alakazam",
-    "TypeBonus": "",
-    "Value": "",
-    "SpecificPokemon": "Alakazam",
-    "HealAmount": "",
-    "SuggestedPrice": "Not for Sale",
-    "PMDPrice": "",
-    "_id": "alakazite"
+    "OneUse": false,
+    "TrainerPrice": "Not for Sale",
+    "ForPokemon": "alakazam"
 }

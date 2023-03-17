@@ -1,11 +1,12 @@
 {
     "Name": "Burn Drive",
+    "_id": "burn-drive",
+    "Core": "",
+    "PMD": false,
+    "Pocket": "HeldItems",
+    "Category": "MonBoosting",
     "Description": "Changes Techno blast to Fire.",
-    "TypeBonus": "",
-    "Value": "",
-    "SpecificPokemon": "",
-    "HealAmount": "",
-    "SuggestedPrice": "",
-    "PMDPrice": "",
-    "_id": "burn-drive"
+    "OneUse": false,
+    "TrainerPrice": "",
+    "ForPokemon": "genesect"
 }

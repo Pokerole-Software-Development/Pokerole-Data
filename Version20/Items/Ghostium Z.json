@@ -1,11 +1,12 @@
 {
     "Name": "Ghostium Z",
+    "_id": "ghostium-z",
+    "Core": "",
+    "PMD": false,
+    "Pocket": "HeldItems",
+    "Category": "ZCrystal",
     "Description": "It converts Z-Power into crystals that upgrade Ghost-type moves to Ghost-type Z-Moves.",
-    "TypeBonus": "",
-    "Value": "",
-    "SpecificPokemon": "",
-    "HealAmount": "",
-    "SuggestedPrice": "",
-    "PMDPrice": "",
-    "_id": "ghostium-z"
+    "OneUse": false,
+    "TrainerPrice": "",
+    "ForTypes": "Ghost"
 }

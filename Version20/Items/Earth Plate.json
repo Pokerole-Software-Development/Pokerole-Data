@@ -1,11 +1,11 @@
 {
     "Name": "Earth Plate",
-    "Description": "Adds 1 damage dice to Ground type moves.",
-    "TypeBonus": "Ground",
-    "Value": "1",
-    "SpecificPokemon": "",
-    "HealAmount": "",
-    "SuggestedPrice": "",
-    "PMDPrice": "",
-    "_id": "earth-plate"
+    "_id": "earth-plate",
+    "Core": "",
+    "PMD": false,
+    "Pocket": "HeldItems",
+    "Category": "TypeBoosting",
+    "Description": "When held by Arceus, change it's type to Ground.",
+    "OneUse": false,
+    "TrainerPrice": ""
 }

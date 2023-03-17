@@ -1,11 +1,14 @@
 {
     "Name": "Dragon Gem",
+    "_id": "dragon-gem",
+    "Core": "",
+    "PMD": false,
+    "Pocket": "HeldItems",
+    "Category": "TypeBoosting",
     "Description": "Adds 2 damage dice to Dragon type moves. Will be immediately consumed on move use.",
-    "TypeBonus": "Dragon",
-    "Value": "2",
-    "SpecificPokemon": "",
-    "HealAmount": "",
-    "SuggestedPrice": "",
-    "PMDPrice": "",
-    "_id": "dragon-gem"
+    "OneUse": true,
+    "TrainerPrice": "",
+    "ForTypes": "Dragon",
+    "Boost": "Damage",
+    "Value": 2.0
 }

@@ -1,11 +1,12 @@
 {
     "Name": "Lucky Punch",
+    "_id": "lucky-punch",
+    "Core": true,
+    "PMD": false,
+    "Pocket": "HeldItems",
+    "Category": "MonBoosting",
     "Description": "Increases Chansey's or Blissey's Strength by 2.",
-    "TypeBonus": "",
-    "Value": "",
-    "SpecificPokemon": "Chansey, Blissey",
-    "HealAmount": "",
-    "SuggestedPrice": "",
-    "PMDPrice": "",
-    "_id": "lucky-punch"
+    "OneUse": false,
+    "TrainerPrice": "",
+    "ForPokemon": "chansey blissey"
 }

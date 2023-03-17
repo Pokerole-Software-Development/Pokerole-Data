@@ -1,11 +1,13 @@
 {
     "Name": "Reviver Seed",
+    "_id": "reviver-seed",
+    "Core": "",
+    "PMD": true,
+    "Pocket": "Medicine",
+    "Category": "Healing",
     "Description": "Feed this seed to a Pokemon that just lost conciousness to get it back on its feet. These seeds are incredibly rare. Restore 1HP and return awareness.",
-    "TypeBonus": "",
-    "Value": "",
-    "SpecificPokemon": "",
-    "HealAmount": "",
-    "SuggestedPrice": "",
+    "OneUse": false,
     "PMDPrice": 1000.0,
-    "_id": "reviver-seed"
+    "HealthRestored": "1",
+    "Cures": "Fainted"
 }

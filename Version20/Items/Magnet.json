@@ -1,11 +1,14 @@
 {
     "Name": "Magnet",
+    "_id": "magnet",
+    "Core": true,
+    "PMD": false,
+    "Pocket": "HeldItems",
+    "Category": "TypeBoosting",
     "Description": "Adds 1 damage die to Electric type moves.",
-    "TypeBonus": "Electric",
-    "Value": "1",
-    "SpecificPokemon": "",
-    "HealAmount": "",
-    "SuggestedPrice": "",
-    "PMDPrice": "",
-    "_id": "magnet"
+    "OneUse": false,
+    "TrainerPrice": "",
+    "ForTypes": "Electric",
+    "Boost": "Damage",
+    "Value": 1.0
 }

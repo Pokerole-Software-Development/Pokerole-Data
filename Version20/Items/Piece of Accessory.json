@@ -1,11 +1,11 @@
 {
     "Name": "Piece of Accessory",
+    "_id": "piece-of-accessory",
+    "Core": true,
+    "PMD": false,
+    "Pocket": "TrainerItems",
+    "Category": "",
     "Description": "Ribbons, hats, collars, and everything you need to make them look super special.",
-    "TypeBonus": "",
-    "Value": "",
-    "SpecificPokemon": "",
-    "HealAmount": "",
-    "SuggestedPrice": "10",
-    "PMDPrice": "",
-    "_id": "piece-of-accessory"
+    "OneUse": false,
+    "TrainerPrice": "10"
 }

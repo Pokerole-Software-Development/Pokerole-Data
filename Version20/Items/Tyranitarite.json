@@ -1,11 +1,12 @@
 {
     "Name": "Tyranitarite",
+    "_id": "tyranitarite",
+    "Core": "",
+    "PMD": false,
+    "Pocket": "HeldItems",
+    "Category": "MegaStone",
     "Description": "Makes Tyranitar Mega-evolve into Mega-Tyranitar",
-    "TypeBonus": "",
-    "Value": "",
-    "SpecificPokemon": "Tyranitar",
-    "HealAmount": "",
-    "SuggestedPrice": "Not for Sale",
-    "PMDPrice": "",
-    "_id": "tyranitarite"
+    "OneUse": false,
+    "TrainerPrice": "Not for Sale",
+    "ForPokemon": "tyranitar"
 }

@@ -1,11 +1,11 @@
 {
     "Name": "Stun Seed",
+    "_id": "stun-seed",
+    "Core": "",
+    "PMD": true,
+    "Pocket": "HeldItems",
+    "Category": "BattleItem",
     "Description": "Make  a  Dexterity  +  Fight  +  Canalize roll to shoot these seeds into your foe's mouth. Inflict the Paralysis Condition.",
-    "TypeBonus": "",
-    "Value": "",
-    "SpecificPokemon": "",
-    "HealAmount": "",
-    "SuggestedPrice": "",
-    "PMDPrice": 50.0,
-    "_id": "stun-seed"
+    "OneUse": true,
+    "PMDPrice": 50.0
 }

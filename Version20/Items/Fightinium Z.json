@@ -1,11 +1,12 @@
 {
     "Name": "Fightinium Z",
+    "_id": "fightinium-z",
+    "Core": "",
+    "PMD": false,
+    "Pocket": "HeldItems",
+    "Category": "ZCrystal",
     "Description": "It converts Z-Power into crystals that upgrade Fighting-type moves to Fighting-type Z-Moves.",
-    "TypeBonus": "",
-    "Value": "",
-    "SpecificPokemon": "",
-    "HealAmount": "",
-    "SuggestedPrice": "",
-    "PMDPrice": "",
-    "_id": "fightinium-z"
+    "OneUse": false,
+    "TrainerPrice": "",
+    "ForTypes": "Fighting"
 }

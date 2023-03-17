@@ -1,11 +1,11 @@
 {
     "Name": "King's Rock",
+    "_id": "king's-rock",
+    "Core": true,
+    "PMD": false,
+    "Pocket": "HeldItems",
+    "Category": "BattleItem",
     "Description": "All attacks have a chance to flinch (Roll 1 dice)",
-    "TypeBonus": "",
-    "Value": "",
-    "SpecificPokemon": "",
-    "HealAmount": "",
-    "SuggestedPrice": "",
-    "PMDPrice": "",
-    "_id": "king's-rock"
+    "OneUse": false,
+    "TrainerPrice": ""
 }

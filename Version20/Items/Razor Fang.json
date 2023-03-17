@@ -1,11 +1,11 @@
 {
     "Name": "Razor Fang",
+    "_id": "razor-fang",
+    "Core": true,
+    "PMD": false,
+    "Pocket": "HeldItems",
+    "Category": "BattleItem",
     "Description": "All attacks have a chance to flinch (Roll 1 dice)",
-    "TypeBonus": "",
-    "Value": "",
-    "SpecificPokemon": "",
-    "HealAmount": "",
-    "SuggestedPrice": "",
-    "PMDPrice": "",
-    "_id": "razor-fang"
+    "OneUse": false,
+    "TrainerPrice": ""
 }

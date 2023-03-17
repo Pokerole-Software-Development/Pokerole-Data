@@ -1,11 +1,13 @@
 {
     "Name": "Blue Scarf",
+    "_id": "blue-scarf",
+    "Core": "",
+    "PMD": false,
+    "Pocket": "HeldItems",
+    "Category": "",
     "Description": "Increases Beauty by 1 during contests.",
-    "TypeBonus": "",
-    "Value": "",
-    "SpecificPokemon": "",
-    "HealAmount": "",
-    "SuggestedPrice": "",
-    "PMDPrice": "",
-    "_id": "blue-scarf"
+    "OneUse": false,
+    "TrainerPrice": "",
+    "Boost": "Beauty",
+    "Value": 1.0
 }

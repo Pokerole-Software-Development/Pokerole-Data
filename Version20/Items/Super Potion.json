@@ -1,11 +1,12 @@
 {
     "Name": "Super Potion",
+    "_id": "super-potion",
+    "Core": true,
+    "PMD": false,
+    "Pocket": "Medicine",
+    "Category": "Healing",
     "Description": "A regular can of concentrated formula spray. This potion can close open wounds and even heal a cracked bone.",
-    "TypeBonus": "",
-    "Value": "",
-    "SpecificPokemon": "",
-    "HealAmount": "4",
-    "SuggestedPrice": "700",
-    "PMDPrice": "",
-    "_id": "super-potion"
+    "OneUse": true,
+    "TrainerPrice": "700",
+    "HealthRestored": "4"
 }

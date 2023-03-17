@@ -1,11 +1,11 @@
 {
     "Name": "Dawn Stone",
+    "_id": "dawn-stone",
+    "Core": true,
+    "PMD": false,
+    "Pocket": "EvolutionItem",
+    "Category": "",
     "Description": "This cerulean stone shines with blinding light for a minute during sunrise.",
-    "TypeBonus": "",
-    "Value": "",
-    "SpecificPokemon": "",
-    "HealAmount": "",
-    "SuggestedPrice": "Not for Sale",
-    "PMDPrice": "",
-    "_id": "dawn-stone"
+    "OneUse": true,
+    "TrainerPrice": "Not for Sale"
 }

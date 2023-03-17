@@ -1,11 +1,11 @@
 {
     "Name": "Sleep Seed",
+    "_id": "sleep-seed",
+    "Core": "",
+    "PMD": true,
+    "Pocket": "HeldItems",
+    "Category": "BattleItem",
     "Description": "Make a Dexterity + Fight + Canalize roll to shoot these seeds into your foe's mouth. Inflict the Sleep Condition.",
-    "TypeBonus": "",
-    "Value": "",
-    "SpecificPokemon": "",
-    "HealAmount": "",
-    "SuggestedPrice": "",
-    "PMDPrice": 50.0,
-    "_id": "sleep-seed"
+    "OneUse": true,
+    "PMDPrice": 50.0
 }
