@@ -1,11 +1,14 @@
 {
     "Name": "Charcoal",
+    "_id": "charcoal",
+    "Source": "Core 2.0",
+    "PMD": false,
+    "Pocket": "HeldItems",
+    "Category": "TypeBoosting",
     "Description": "Adds 1 damage die to Fire type moves.",
-    "TypeBonus": "Fire",
-    "Value": "1",
-    "SpecificPokemon": "",
-    "HealAmount": "",
-    "SuggestedPrice": "",
-    "PMDPrice": "",
-    "_id": "charcoal"
+    "OneUse": false,
+    "TrainerPrice": "",
+    "ForTypes": "Fire",
+    "Boost": "Damage",
+    "Value": 1
 }

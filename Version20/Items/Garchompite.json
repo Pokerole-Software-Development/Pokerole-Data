@@ -1,11 +1,12 @@
 {
     "Name": "Garchompite",
+    "_id": "garchompite",
+    "Source": "Core 2.0+",
+    "PMD": false,
+    "Pocket": "HeldItems",
+    "Category": "MegaStone",
     "Description": "Makes Garchomp Mega-evolve into Mega-Garchomp",
-    "TypeBonus": "",
-    "Value": "",
-    "SpecificPokemon": "Garchomp",
-    "HealAmount": "",
-    "SuggestedPrice": "Not for Sale",
-    "PMDPrice": "",
-    "_id": "garchompite"
+    "OneUse": false,
+    "TrainerPrice": "Not for Sale",
+    "ForPokemon": "garchomp"
 }

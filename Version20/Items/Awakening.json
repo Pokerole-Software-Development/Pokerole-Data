@@ -1,11 +1,12 @@
 {
     "Name": "Awakening",
+    "_id": "awakening",
+    "Source": "Core 2.0",
+    "PMD": false,
+    "Pocket": "Medicine",
+    "Category": "Status",
     "Description": "Sprays a water-based solution to awake a drowsy pokemon.",
-    "TypeBonus": "",
-    "Value": "",
-    "SpecificPokemon": "",
-    "HealAmount": "Sleep",
-    "SuggestedPrice": "250",
-    "PMDPrice": "",
-    "_id": "awakening"
+    "OneUse": false,
+    "TrainerPrice": "250",
+    "Cures": "Sleep"
 }

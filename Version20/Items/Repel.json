@@ -1,11 +1,11 @@
 {
     "Name": "Repel",
+    "_id": "repel",
+    "Source": "Core 2.0",
+    "PMD": false,
+    "Pocket": "TrainerItems",
+    "Category": "",
     "Description": "Most pokemon won't come neaer to you for a whole day. The smell is now machine washable.",
-    "TypeBonus": "",
-    "Value": "",
-    "SpecificPokemon": "",
-    "HealAmount": "",
-    "SuggestedPrice": "350",
-    "PMDPrice": "",
-    "_id": "repel"
+    "OneUse": true,
+    "TrainerPrice": "350"
 }

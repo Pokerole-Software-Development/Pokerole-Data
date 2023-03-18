@@ -1,11 +1,11 @@
 {
     "Name": "Gourmet Food Can",
+    "_id": "gourmet-food-can",
+    "Source": "Core 2.0",
+    "PMD": false,
+    "Pocket": "TrainerItems",
+    "Category": "",
     "Description": "Made with Premium ingredients. All pokemon will love you if you feed them this on a regular basis.",
-    "TypeBonus": "",
-    "Value": "",
-    "SpecificPokemon": "",
-    "HealAmount": "",
-    "SuggestedPrice": "50",
-    "PMDPrice": "",
-    "_id": "gourmet-food-can"
+    "OneUse": true,
+    "TrainerPrice": "50"
 }

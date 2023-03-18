@@ -1,11 +1,11 @@
 {
     "Name": "Pokedolls",
+    "_id": "pokedolls",
+    "Source": "Core 2.0",
+    "PMD": false,
+    "Pocket": "TrainerItems",
+    "Category": "",
     "Description": "Life-size decoy used to escape wild pokemon. Some people like to collect them.",
-    "TypeBonus": "",
-    "Value": "",
-    "SpecificPokemon": "",
-    "HealAmount": "",
-    "SuggestedPrice": "1000",
-    "PMDPrice": "",
-    "_id": "pokedolls"
+    "OneUse": true,
+    "TrainerPrice": "1000"
 }

@@ -1,11 +1,12 @@
 {
     "Name": "Venusaurite",
+    "_id": "venusaurite",
+    "Source": "Core 2.0+",
+    "PMD": false,
+    "Pocket": "HeldItems",
+    "Category": "MegaStone",
     "Description": "Makes Venusaur Mega-evolve into Mega-Venusaur",
-    "TypeBonus": "",
-    "Value": "",
-    "SpecificPokemon": "Venusaur",
-    "HealAmount": "",
-    "SuggestedPrice": "Not for Sale",
-    "PMDPrice": "",
-    "_id": "venusaurite"
+    "OneUse": false,
+    "TrainerPrice": "Not for Sale",
+    "ForPokemon": "venusaur"
 }

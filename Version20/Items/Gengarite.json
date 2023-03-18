@@ -1,11 +1,12 @@
 {
     "Name": "Gengarite",
+    "_id": "gengarite",
+    "Source": "Core 2.0+",
+    "PMD": false,
+    "Pocket": "HeldItems",
+    "Category": "MegaStone",
     "Description": "Makes Gengar Mega-evolve into Mega-Gengar",
-    "TypeBonus": "",
-    "Value": "",
-    "SpecificPokemon": "Gengar",
-    "HealAmount": "",
-    "SuggestedPrice": "Not for Sale",
-    "PMDPrice": "",
-    "_id": "gengarite"
+    "OneUse": false,
+    "TrainerPrice": "Not for Sale",
+    "ForPokemon": "gengar"
 }

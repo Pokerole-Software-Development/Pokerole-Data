@@ -1,11 +1,11 @@
 {
     "Name": "Sled",
+    "_id": "sled",
+    "Source": "Core 2.0",
+    "PMD": false,
+    "Pocket": "TrainerItems",
+    "Category": "",
     "Description": "Your pokemon can pull you around through snow, sand, or any smooth surface. It's super fun!",
-    "TypeBonus": "",
-    "Value": "",
-    "SpecificPokemon": "",
-    "HealAmount": "",
-    "SuggestedPrice": "400",
-    "PMDPrice": "",
-    "_id": "sled"
+    "OneUse": false,
+    "TrainerPrice": "400"
 }

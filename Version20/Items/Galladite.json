@@ -1,11 +1,12 @@
 {
     "Name": "Galladite",
+    "_id": "galladite",
+    "Source": "Core 2.0+",
+    "PMD": false,
+    "Pocket": "HeldItems",
+    "Category": "MegaStone",
     "Description": "Makes Gallade Mega-evolve into Mega-Gallade",
-    "TypeBonus": "",
-    "Value": "",
-    "SpecificPokemon": "Gallade",
-    "HealAmount": "",
-    "SuggestedPrice": "Not for Sale",
-    "PMDPrice": "",
-    "_id": "galladite"
+    "OneUse": false,
+    "TrainerPrice": "Not for Sale",
+    "ForPokemon": "gallade"
 }

@@ -1,11 +1,12 @@
 {
     "Name": "Blastoisinite",
+    "_id": "blastoisinite",
+    "Source": "Core 2.0+",
+    "PMD": false,
+    "Pocket": "HeldItems",
+    "Category": "MegaStone",
     "Description": "Makes Blastoise Mega-evolve into Mega-Blastoise",
-    "TypeBonus": "",
-    "Value": "",
-    "SpecificPokemon": "Blastoise",
-    "HealAmount": "",
-    "SuggestedPrice": "Not for Sale",
-    "PMDPrice": "",
-    "_id": "blastoisinite"
+    "OneUse": false,
+    "TrainerPrice": "Not for Sale",
+    "ForPokemon": "blastoise"
 }

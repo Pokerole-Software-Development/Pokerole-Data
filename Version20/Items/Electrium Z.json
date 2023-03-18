@@ -1,11 +1,12 @@
 {
     "Name": "Electrium Z",
+    "_id": "electrium-z",
+    "Source": "Core 2.0+",
+    "PMD": false,
+    "Pocket": "HeldItems",
+    "Category": "ZCrystal",
     "Description": "It converts Z-Power into crystals that upgrade Electric-type moves to Electric-type Z-Moves.",
-    "TypeBonus": "",
-    "Value": "",
-    "SpecificPokemon": "",
-    "HealAmount": "",
-    "SuggestedPrice": "",
-    "PMDPrice": "",
-    "_id": "electrium-z"
+    "OneUse": false,
+    "TrainerPrice": "",
+    "ForTypes": "Electric"
 }

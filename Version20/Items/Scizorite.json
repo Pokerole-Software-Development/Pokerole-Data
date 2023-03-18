@@ -1,11 +1,12 @@
 {
     "Name": "Scizorite",
+    "_id": "scizorite",
+    "Source": "Core 2.0+",
+    "PMD": false,
+    "Pocket": "HeldItems",
+    "Category": "MegaStone",
     "Description": "Makes Scizor Mega-evolve into Mega-Scizor",
-    "TypeBonus": "",
-    "Value": "",
-    "SpecificPokemon": "Scizor",
-    "HealAmount": "",
-    "SuggestedPrice": "Not for Sale",
-    "PMDPrice": "",
-    "_id": "scizorite"
+    "OneUse": false,
+    "TrainerPrice": "Not for Sale",
+    "ForPokemon": "scizor"
 }

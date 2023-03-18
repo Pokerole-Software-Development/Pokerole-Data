@@ -1,0 +1,15 @@
+{
+    "Name": "Poison Gem",
+    "_id": "poison-gem",
+    "Source": "Homebrew",
+    "Author": "Hexa#6969",
+    "PMD": false,
+    "Pocket": "HeldItems",
+    "Category": "TypeBoosting",
+    "Description": "Adds 2 damage dice to Poison type moves. Will be immediately consumed on move use.",
+    "OneUse": true,
+    "TrainerPrice": "",
+    "ForTypes": "Poison",
+    "Boost": "Damage",
+    "Value": 2
+}

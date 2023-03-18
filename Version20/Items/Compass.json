@@ -1,11 +1,11 @@
 {
     "Name": "Compass",
+    "_id": "compass",
+    "Source": "Core 2.0",
+    "PMD": false,
+    "Pocket": "TrainerItems",
+    "Category": "",
     "Description": "A useful compass to point you in the right direction. Warning: Keep away from magnets.",
-    "TypeBonus": "",
-    "Value": "",
-    "SpecificPokemon": "",
-    "HealAmount": "",
-    "SuggestedPrice": "100",
-    "PMDPrice": "",
-    "_id": "compass"
+    "OneUse": false,
+    "TrainerPrice": "100"
 }

@@ -1,11 +1,12 @@
 {
     "Name": "Cheri Berry",
+    "_id": "cheri-berry",
+    "Source": "Core 2.0",
+    "PMD": true,
+    "Pocket": "Medicine",
+    "Category": "Berry",
     "Description": "Eating this Berry will cure Paralysis.",
-    "TypeBonus": "",
-    "Value": "",
-    "SpecificPokemon": "",
-    "HealAmount": "Paralysis",
-    "SuggestedPrice": "Uncommon",
+    "OneUse": false,
     "PMDPrice": 80.0,
-    "_id": "cheri-berry"
+    "Cures": "Paralysis"
 }

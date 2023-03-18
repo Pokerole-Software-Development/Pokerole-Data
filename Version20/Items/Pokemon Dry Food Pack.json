@@ -1,11 +1,11 @@
 {
     "Name": "Pokemon Dry Food Pack",
+    "_id": "pokemon-dry-food-pack",
+    "Source": "Core 2.0",
+    "PMD": false,
+    "Pocket": "TrainerItems",
+    "Category": "",
     "Description": "A bag with dry kibble.",
-    "TypeBonus": "",
-    "Value": "",
-    "SpecificPokemon": "",
-    "HealAmount": "",
-    "SuggestedPrice": "10",
-    "PMDPrice": "",
-    "_id": "pokemon-dry-food-pack"
+    "OneUse": false,
+    "TrainerPrice": "10"
 }

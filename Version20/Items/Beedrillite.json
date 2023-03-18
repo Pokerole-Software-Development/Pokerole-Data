@@ -1,11 +1,12 @@
 {
     "Name": "Beedrillite",
+    "_id": "beedrillite",
+    "Source": "Core 2.0+",
+    "PMD": false,
+    "Pocket": "HeldItems",
+    "Category": "MegaStone",
     "Description": "Makes Beedrill Mega-evolve into Mega-Beedrill",
-    "TypeBonus": "",
-    "Value": "",
-    "SpecificPokemon": "Beedrill",
-    "HealAmount": "",
-    "SuggestedPrice": "Not for Sale",
-    "PMDPrice": "",
-    "_id": "beedrillite"
+    "OneUse": false,
+    "TrainerPrice": "Not for Sale",
+    "ForPokemon": "beedrill"
 }

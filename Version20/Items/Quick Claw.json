@@ -1,11 +1,11 @@
 {
     "Name": "Quick Claw",
+    "_id": "quick-claw",
+    "Source": "Core 2.0",
+    "PMD": false,
+    "Pocket": "HeldItems",
+    "Category": "BattleItem",
     "Description": "Gain 2 extra initiative.",
-    "TypeBonus": "",
-    "Value": "",
-    "SpecificPokemon": "",
-    "HealAmount": "",
-    "SuggestedPrice": "",
-    "PMDPrice": "",
-    "_id": "quick-claw"
+    "OneUse": false,
+    "TrainerPrice": ""
 }

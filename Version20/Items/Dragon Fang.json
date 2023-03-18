@@ -1,11 +1,14 @@
 {
     "Name": "Dragon Fang",
+    "_id": "dragon-fang",
+    "Source": "Core 2.0",
+    "PMD": false,
+    "Pocket": "HeldItems",
+    "Category": "TypeBoosting",
     "Description": "Adds 1 damage die to Dragon type moves.",
-    "TypeBonus": "Dragon",
-    "Value": "1",
-    "SpecificPokemon": "",
-    "HealAmount": "",
-    "SuggestedPrice": "",
-    "PMDPrice": "",
-    "_id": "dragon-fang"
+    "OneUse": false,
+    "TrainerPrice": "",
+    "ForTypes": "Dragon",
+    "Boost": "Damage",
+    "Value": 1
 }

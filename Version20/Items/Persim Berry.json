@@ -1,11 +1,12 @@
 {
     "Name": "Persim Berry",
+    "_id": "persim-berry",
+    "Source": "Core 2.0",
+    "PMD": false,
+    "Pocket": "Medicine",
+    "Category": "Berry",
     "Description": "Eating this Berry will cure Confusion.",
-    "TypeBonus": "",
-    "Value": "",
-    "SpecificPokemon": "",
-    "HealAmount": "Confusion",
-    "SuggestedPrice": "Common",
-    "PMDPrice": "",
-    "_id": "persim-berry"
+    "OneUse": false,
+    "TrainerPrice": "Common",
+    "Cures": "Confusion"
 }

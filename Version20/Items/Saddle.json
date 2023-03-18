@@ -1,11 +1,11 @@
 {
     "Name": "Saddle",
+    "_id": "saddle",
+    "Source": "Core 2.0",
+    "PMD": false,
+    "Pocket": "TrainerItems",
+    "Category": "",
     "Description": "Strap this on and you'll never worry about falling from your pokemon again.",
-    "TypeBonus": "",
-    "Value": "",
-    "SpecificPokemon": "",
-    "HealAmount": "",
-    "SuggestedPrice": "500",
-    "PMDPrice": "",
-    "_id": "saddle"
+    "OneUse": false,
+    "TrainerPrice": "500"
 }

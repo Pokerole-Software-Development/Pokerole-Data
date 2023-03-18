@@ -1,11 +1,12 @@
 {
     "Name": "Lum Berry",
+    "_id": "lum-berry",
+    "Source": "Core 2.0",
+    "PMD": false,
+    "Pocket": "Medicine",
+    "Category": "Berry",
     "Description": "Eating this Berry will cure all Status ailments.",
-    "TypeBonus": "",
-    "Value": "",
-    "SpecificPokemon": "",
-    "HealAmount": "All Status",
-    "SuggestedPrice": "Rare",
-    "PMDPrice": "",
-    "_id": "lum-berry"
+    "OneUse": true,
+    "TrainerPrice": "Rare",
+    "Cures": "All Status"
 }

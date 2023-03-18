@@ -1,11 +1,12 @@
 {
     "Name": "Hyper Potion",
+    "_id": "hyper-potion",
+    "Source": "Core 2.0",
+    "PMD": false,
+    "Pocket": "Medicine",
+    "Category": "Healing",
     "Description": "Best value pack. It can be rationed for smaller injuries on the team, or used all at once on a serious wound.",
-    "TypeBonus": "",
-    "Value": "",
-    "SpecificPokemon": "",
-    "HealAmount": "14",
-    "SuggestedPrice": "1200",
-    "PMDPrice": "",
-    "_id": "hyper-potion"
+    "OneUse": true,
+    "TrainerPrice": "1200",
+    "HealthRestored": 14
 }

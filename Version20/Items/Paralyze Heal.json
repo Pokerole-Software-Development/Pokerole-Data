@@ -1,11 +1,12 @@
 {
     "Name": "Paralyze Heal",
+    "_id": "paralyze-heal",
+    "Source": "Core 2.0",
+    "PMD": false,
+    "Pocket": "Medicine",
+    "Category": "Status",
     "Description": "This ointment relaxes the muscles and stops the cramping",
-    "TypeBonus": "",
-    "Value": "",
-    "SpecificPokemon": "",
-    "HealAmount": "Paralysis",
-    "SuggestedPrice": "200",
-    "PMDPrice": "",
-    "_id": "paralyze-heal"
+    "OneUse": false,
+    "TrainerPrice": "200",
+    "Cures": "Paralysis"
 }

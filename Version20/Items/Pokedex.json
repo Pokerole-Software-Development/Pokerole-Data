@@ -1,11 +1,11 @@
 {
     "Name": "Pokedex",
+    "_id": "pokedex",
+    "Source": "Core 2.0",
+    "PMD": false,
+    "Pocket": "TrainerItems",
+    "Category": "",
     "Description": "A digital encyclopedia with basic information about regional Pokemon. You may add your own research.",
-    "TypeBonus": "",
-    "Value": "",
-    "SpecificPokemon": "",
-    "HealAmount": "",
-    "SuggestedPrice": "5000",
-    "PMDPrice": "",
-    "_id": "pokedex"
+    "OneUse": false,
+    "TrainerPrice": "5000"
 }

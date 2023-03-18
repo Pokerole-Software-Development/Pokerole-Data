@@ -1,11 +1,11 @@
 {
     "Name": "Mountain Bike",
+    "_id": "mountain-bike",
+    "Source": "Core 2.0",
+    "PMD": false,
+    "Pocket": "TrainerItems",
+    "Category": "",
     "Description": "You will travel twice as fast with this awesome all-terrain bike. Now at an insane price!",
-    "TypeBonus": "",
-    "Value": "",
-    "SpecificPokemon": "",
-    "HealAmount": "",
-    "SuggestedPrice": "1500",
-    "PMDPrice": "",
-    "_id": "mountain-bike"
+    "OneUse": false,
+    "TrainerPrice": "1500"
 }

@@ -1,11 +1,12 @@
 {
     "Name": "Mewnium Z",
+    "_id": "mewnium-z",
+    "Source": "Core 2.0+",
+    "PMD": false,
+    "Pocket": "HeldItems",
+    "Category": "ZCrystal",
     "Description": "This is a crystallized form of Z-Power. It upgrades Mew's Psychic to a Z-Move.",
-    "TypeBonus": "",
-    "Value": "",
-    "SpecificPokemon": "",
-    "HealAmount": "",
-    "SuggestedPrice": "",
-    "PMDPrice": "",
-    "_id": "mewnium-z"
+    "OneUse": false,
+    "TrainerPrice": "",
+    "ForPokemon": "mew"
 }

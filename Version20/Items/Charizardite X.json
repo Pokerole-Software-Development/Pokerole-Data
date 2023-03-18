@@ -1,11 +1,12 @@
 {
     "Name": "Charizardite X",
+    "_id": "charizardite-x",
+    "Source": "Core 2.0+",
+    "PMD": false,
+    "Pocket": "HeldItems",
+    "Category": "MegaStone",
     "Description": "Makes Charizard Mega-Evolve into Mega-Charizard X",
-    "TypeBonus": "",
-    "Value": "",
-    "SpecificPokemon": "Charizard",
-    "HealAmount": "",
-    "SuggestedPrice": "Not for Sale",
-    "PMDPrice": "",
-    "_id": "charizardite-x"
+    "OneUse": false,
+    "TrainerPrice": "Not for Sale",
+    "ForPokemon": "charizard"
 }

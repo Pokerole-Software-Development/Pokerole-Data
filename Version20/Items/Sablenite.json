@@ -1,11 +1,12 @@
 {
     "Name": "Sablenite",
+    "_id": "sablenite",
+    "Source": "Core 2.0+",
+    "PMD": false,
+    "Pocket": "HeldItems",
+    "Category": "MegaStone",
     "Description": "Makes Sableye Mega-evolve into Mega-Sableye",
-    "TypeBonus": "",
-    "Value": "",
-    "SpecificPokemon": "Sableye",
-    "HealAmount": "",
-    "SuggestedPrice": "Not for Sale",
-    "PMDPrice": "",
-    "_id": "sablenite"
+    "OneUse": false,
+    "TrainerPrice": "Not for Sale",
+    "ForPokemon": "sableye"
 }

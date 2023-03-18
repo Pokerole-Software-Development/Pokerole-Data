@@ -1,11 +1,13 @@
 {
     "Name": "Carbos",
-    "Description": "A healthy syrup that fills you with energy!",
-    "TypeBonus": "",
-    "Value": "",
-    "SpecificPokemon": "",
-    "HealAmount": "",
-    "SuggestedPrice": "9800",
-    "PMDPrice": "",
-    "_id": "carbos"
+    "_id": "carbos",
+    "Source": "Core 2.0",
+    "PMD": false,
+    "Pocket": "Medicine",
+    "Category": "Vitamin",
+    "Description": "A healthy syrup that fills you with energy! Boost lasts for one month.",
+    "OneUse": true,
+    "TrainerPrice": "9800",
+    "Boost": "Dexterity",
+    "Value": 1
 }

@@ -1,11 +1,11 @@
 {
     "Name": "Water Stone",
+    "_id": "water-stone",
+    "Source": "Core 2.0",
+    "PMD": true,
+    "Pocket": "EvolutionItem",
+    "Category": "",
     "Description": "Looks like blue glass and can be found at the bottom of the sea.",
-    "TypeBonus": "",
-    "Value": "",
-    "SpecificPokemon": "",
-    "HealAmount": "",
-    "SuggestedPrice": "5000",
-    "PMDPrice": 1000.0,
-    "_id": "water-stone"
+    "OneUse": true,
+    "PMDPrice": 1000.0
 }

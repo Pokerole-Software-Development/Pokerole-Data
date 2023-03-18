@@ -74,41 +74,62 @@ It's possible to have no Evolution objects in the list.
 
 ## Moves
 
-| Field        | Type   | Notes                                     |
-| ------------ | ------ | ----------------------------------------- |
-| Name         | String | Name of the Move                          |
-| Type         | String | Type of the Move                          |
-| Power        | int    | Power value of the move                   |
-| Damage1      | String | Attribute Name or Empty String            |
-| Damage2      | String | Second Damage Pool source or Empty String |
-| Accuracy1    | String | Attribute Name                            |
-| Accuracy2    | String | Skill Name                                |
-| Target       | String | What is targeted by Move                  |
-| Effect       | String | Move's effect text                        |
-| Description  | String | Description text for move                 |
-| \_id         | String | Same as Name, unique for the system       |
-| Attributes   | Object | Values that are used by Foundry           |
-| AddedEffects | Object | Values that are used by Foundry           | 
-| Category     | String | Physical, Special, Support                |
+| Field        | Type   | Notes                                                                  |
+| ------------ | ------ | ---------------------------------------------------------------------- |
+| Name         | String | Name of the Move                                                       |
+| Type         | String | Type of the Move                                                       |
+| Power        | int    | Power value of the move                                                |
+| Damage1      | String | Attribute Name or Empty String                                         |
+| Damage2      | String | Second Damage Pool source or Empty String                              |
+| Accuracy1    | String | Attribute Name                                                         |
+| Accuracy2    | String | Skill Name                                                             |
+| Target       | String | What is targeted by Move                                               |
+| Effect       | String | Move's effect text                                                     |
+| Description  | String | Description text for move                                              |
+| \_id         | String | Same as Name, unique for the system. Lowercase and - instead of space. | 
+| Attributes   | Object | Values that are used by Foundry                                        |
+| AddedEffects | Object | Values that are used by Foundry                                        |
+| Category     | String | Physical, Special, Support                                             |
 
 ## Abilities
 
-| Field       | Type   | Notes                               |
-| ----------- | ------ | ----------------------------------- |
-| \_id        | String | Same as Name, unique for the system |
-| Name        | String | Name of Ability                     |
-| Effect      | String | Effect text of Ability              |
-| Description | String | Flavor Text description of Ability  |
+| Field       | Type   | Notes                                                                  |
+| ----------- | ------ | ---------------------------------------------------------------------- |
+| \_id        | String | Same as Name, unique for the system. Lowercase and - instead of space. | 
+| Name        | String | Name of Ability                                                        |
+| Effect      | String | Effect text of Ability                                                 |
+| Description | String | Flavor Text description of Ability                                     |
 
 
 ## Natures
 
 | Field       | Type   | Notes                                             |
 | ----------- | ------ | ------------------------------------------------- |
-| \_id        | String | Same as Name, unique for the system               |
+| \_id        | String | Same as Name, unique for the syste. Lowercase and - instead of space.              |
 | Name        | String | Name of Nature                                    |
 | Nature      | String | Name and Confidence in format "Name (confidence)" |
 | Confidence  | int    | Confidence score of the Nature                    |
 | Description | String | Text Description of Nature                        |
 | Keywords    | String | Comma separated keywords for the Nature           |
 
+## Items
+
+| Field          | Type   | Notes                                                                                                        |
+| -------------- | ------ | ------------------------------------------------------------------------------------------------------------ |
+| Name           | String | Name of the Item                                                                                             |
+| \_id           | String | Same as Name, unique for the system. Lowercase and - instead of space.                                       |
+| Source         | String | `Core 2.0` for core items, `Core 2.0+` for implied core items (Mega stones), or `Homebrew`.                  |
+| Author         | String | Only required when Source is `Homebrew`. The discord handle or other way of crediting the Homebrew's author. |
+| PMD            | Bool   | Flag for if this item is meant for Pokemon Mystery Dungeon games.                                            |
+| Pocket         | String | The "Bag Pocket" you would find this item in. A super category.                                              |
+| Category       | String | Optional, subcategories within a Pocket.                                                                     |
+| Description    | String | Description of the item                                                                                      |
+| OneUse         | Bool   | Flag for if the item is consumed on use                                                                      |
+| PMDPrice       | String | Only required when PMD flag is true. Price to purchase the item in PMD settings.                             |
+| TrainerPrice   | String | Only required when PMD flag is false. Price to purchase the item in Trainer settings.                        |
+| ForTypes       | String | Space separated types that the item's effect applies to. Only required for certain items.                    |
+| ForPokemon     | String | Space separated pokemon **\_id**'s that the item's effect applies to. Only required for certain items.       |
+| HealthRestored | int    | Amount of health restored by the item. Only required when the item heals.                                    |
+| Cures          | String | Status conditions cured by the item. Only required when the item heals.                                      |
+| Boost          | String | Space separated Attributes that are increased when holding/using this item. Not required.                    |
+| Value          | int    | Amount to increase attributes in the Boost field by. Required when Boost is provided.                        |

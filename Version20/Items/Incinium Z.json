@@ -1,11 +1,12 @@
 {
     "Name": "Incinium Z",
+    "_id": "incinium-z",
+    "Source": "Core 2.0+",
+    "PMD": false,
+    "Pocket": "HeldItems",
+    "Category": "ZCrystal",
     "Description": "This is a crystallized form of Z-Power. It upgrades Incineroar's Darkest Lariat to a Z-Move.",
-    "TypeBonus": "",
-    "Value": "",
-    "SpecificPokemon": "",
-    "HealAmount": "",
-    "SuggestedPrice": "",
-    "PMDPrice": "",
-    "_id": "incinium-z"
+    "OneUse": false,
+    "TrainerPrice": "",
+    "ForPokemon": "incineroar"
 }

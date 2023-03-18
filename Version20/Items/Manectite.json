@@ -1,11 +1,12 @@
 {
     "Name": "Manectite",
+    "_id": "manectite",
+    "Source": "Core 2.0+",
+    "PMD": false,
+    "Pocket": "HeldItems",
+    "Category": "MegaStone",
     "Description": "Makes Manectric Mega-evolve into Mega-Manectric",
-    "TypeBonus": "",
-    "Value": "",
-    "SpecificPokemon": "Manectric",
-    "HealAmount": "",
-    "SuggestedPrice": "Not for Sale",
-    "PMDPrice": "",
-    "_id": "manectite"
+    "OneUse": false,
+    "TrainerPrice": "Not for Sale",
+    "ForPokemon": "manectric"
 }

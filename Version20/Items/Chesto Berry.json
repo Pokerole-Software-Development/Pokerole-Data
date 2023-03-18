@@ -1,11 +1,12 @@
 {
     "Name": "Chesto Berry",
+    "_id": "chesto-berry",
+    "Source": "Core 2.0",
+    "PMD": true,
+    "Pocket": "Medicine",
+    "Category": "Berry",
     "Description": "Eating this Berry will cure Sleep.",
-    "TypeBonus": "",
-    "Value": "",
-    "SpecificPokemon": "",
-    "HealAmount": "Sleep",
-    "SuggestedPrice": "Common",
+    "OneUse": false,
     "PMDPrice": 30.0,
-    "_id": "chesto-berry"
+    "Cures": "Sleep"
 }

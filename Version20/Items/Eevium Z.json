@@ -1,11 +1,12 @@
 {
     "Name": "Eevium Z",
+    "_id": "eevium-z",
+    "Source": "Core 2.0+",
+    "PMD": false,
+    "Pocket": "HeldItems",
+    "Category": "ZCrystal",
     "Description": "This is a crystallized form of Z-Power. It upgrades Eevee's Last Resort to a Z-Move.",
-    "TypeBonus": "",
-    "Value": "",
-    "SpecificPokemon": "",
-    "HealAmount": "",
-    "SuggestedPrice": "",
-    "PMDPrice": "",
-    "_id": "eevium-z"
+    "OneUse": false,
+    "TrainerPrice": "",
+    "ForPokemon": "eevee"
 }

@@ -1,11 +1,12 @@
 {
     "Name": "Altarianite",
+    "_id": "altarianite",
+    "Source": "Core 2.0+",
+    "PMD": false,
+    "Pocket": "HeldItems",
+    "Category": "MegaStone",
     "Description": "Makes Altaria Mega-evolve into Mega-Altaria",
-    "TypeBonus": "",
-    "Value": "",
-    "SpecificPokemon": "Altaria",
-    "HealAmount": "",
-    "SuggestedPrice": "Not for Sale",
-    "PMDPrice": "",
-    "_id": "altarianite"
+    "OneUse": false,
+    "TrainerPrice": "Not for Sale",
+    "ForPokemon": "altaria"
 }

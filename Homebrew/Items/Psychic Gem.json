@@ -1,0 +1,15 @@
+{
+    "Name": "Psychic Gem",
+    "_id": "psychic-gem",
+    "Source": "Homebrew",
+    "Author": "Hexa#6969",
+    "PMD": false,
+    "Pocket": "HeldItems",
+    "Category": "TypeBoosting",
+    "Description": "Adds 2 damage dice to Psychic type moves. Will be immediately consumed on move use.",
+    "OneUse": true,
+    "TrainerPrice": "",
+    "ForTypes": "Psychic",
+    "Boost": "Damage",
+    "Value": 2
+}

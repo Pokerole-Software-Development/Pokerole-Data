@@ -1,11 +1,12 @@
 {
     "Name": "Latiosite",
+    "_id": "latiosite",
+    "Source": "Core 2.0+",
+    "PMD": false,
+    "Pocket": "HeldItems",
+    "Category": "MegaStone",
     "Description": "Makes Latios Mega-evolve into Mega-Latios",
-    "TypeBonus": "",
-    "Value": "",
-    "SpecificPokemon": "Latios",
-    "HealAmount": "",
-    "SuggestedPrice": "Not for Sale",
-    "PMDPrice": "",
-    "_id": "latiosite"
+    "OneUse": false,
+    "TrainerPrice": "Not for Sale",
+    "ForPokemon": "latios"
 }

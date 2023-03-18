@@ -1,11 +1,11 @@
 {
     "Name": "Pokeball",
+    "_id": "pokeball",
+    "Source": "Core 2.0",
+    "PMD": false,
+    "Pocket": "Pokeballs",
+    "Category": "",
     "Description": "A basic ball for catching pokemon and carrying heavy items.",
-    "TypeBonus": "",
-    "Value": "",
-    "SpecificPokemon": "",
-    "HealAmount": "",
-    "SuggestedPrice": "200",
-    "PMDPrice": "",
-    "_id": "pokeball"
+    "OneUse": true,
+    "TrainerPrice": "200"
 }

@@ -1,11 +1,12 @@
 {
     "Name": "Ice Heal",
+    "_id": "ice-heal",
+    "Source": "Core 2.0",
+    "PMD": false,
+    "Pocket": "Medicine",
+    "Category": "Status",
     "Description": "Recovers the normal termperature of the pokemon and heals frost bite.",
-    "TypeBonus": "",
-    "Value": "",
-    "SpecificPokemon": "",
-    "HealAmount": "Frozen",
-    "SuggestedPrice": "250",
-    "PMDPrice": "",
-    "_id": "ice-heal"
+    "OneUse": false,
+    "TrainerPrice": "250",
+    "Cures": "Frozen"
 }

@@ -1,11 +1,12 @@
 {
     "Name": "Snorlium Z",
+    "_id": "snorlium-z",
+    "Source": "Core 2.0+",
+    "PMD": false,
+    "Pocket": "HeldItems",
+    "Category": "ZCrystal",
     "Description": "This is a crystallized form of Z-Power. It upgrades Snorlax's Giga Impact to a Z-Move.",
-    "TypeBonus": "",
-    "Value": "",
-    "SpecificPokemon": "",
-    "HealAmount": "",
-    "SuggestedPrice": "",
-    "PMDPrice": "",
-    "_id": "snorlium-z"
+    "OneUse": false,
+    "TrainerPrice": "",
+    "ForPokemon": "snorlax"
 }

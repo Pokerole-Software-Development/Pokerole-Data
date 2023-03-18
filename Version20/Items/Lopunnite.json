@@ -1,11 +1,12 @@
 {
     "Name": "Lopunnite",
+    "_id": "lopunnite",
+    "Source": "Core 2.0+",
+    "PMD": false,
+    "Pocket": "HeldItems",
+    "Category": "MegaStone",
     "Description": "Makes Lopunny Mega-evolve into Mega-Lopunny",
-    "TypeBonus": "",
-    "Value": "",
-    "SpecificPokemon": "Lopunny",
-    "HealAmount": "",
-    "SuggestedPrice": "Not for Sale",
-    "PMDPrice": "",
-    "_id": "lopunnite"
+    "OneUse": false,
+    "TrainerPrice": "Not for Sale",
+    "ForPokemon": "lopunny"
 }

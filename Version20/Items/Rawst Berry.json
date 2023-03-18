@@ -1,11 +1,12 @@
 {
     "Name": "Rawst Berry",
+    "_id": "rawst-berry",
+    "Source": "Core 2.0",
+    "PMD": true,
+    "Pocket": "Medicine",
+    "Category": "Berry",
     "Description": "Eating this Berry will cure Burn 1 and Burn 2.",
-    "TypeBonus": "",
-    "Value": "",
-    "SpecificPokemon": "",
-    "HealAmount": "Burn 1/2",
-    "SuggestedPrice": "Uncommon",
+    "OneUse": false,
     "PMDPrice": 90.0,
-    "_id": "rawst-berry"
+    "Cures": "Burn 1/2"
 }

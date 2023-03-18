@@ -1,11 +1,11 @@
 {
     "Name": "Fishing Rod",
+    "_id": "fishing-rod",
+    "Source": "Core 2.0",
+    "PMD": false,
+    "Pocket": "TrainerItems",
+    "Category": "",
     "Description": "A fishing rod to catch pokemon living underwater. Somedays they just won't bite, though.",
-    "TypeBonus": "",
-    "Value": "",
-    "SpecificPokemon": "",
-    "HealAmount": "",
-    "SuggestedPrice": "300",
-    "PMDPrice": "",
-    "_id": "fishing-rod"
+    "OneUse": false,
+    "TrainerPrice": "300"
 }

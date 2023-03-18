@@ -1,11 +1,12 @@
 {
     "Name": "Aerodactylite",
+    "_id": "aerodactylite",
+    "Source": "Core 2.0+",
+    "PMD": false,
+    "Pocket": "HeldItems",
+    "Category": "MegaStone",
     "Description": "Makes Aerodactyl Mega-evolve into Mega-Aerodactyl",
-    "TypeBonus": "",
-    "Value": "",
-    "SpecificPokemon": "Aerodactyl",
-    "HealAmount": "",
-    "SuggestedPrice": "Not for Sale",
-    "PMDPrice": "",
-    "_id": "aerodactylite"
+    "OneUse": false,
+    "TrainerPrice": "Not for Sale",
+    "ForPokemon": "aerodactyl"
 }
