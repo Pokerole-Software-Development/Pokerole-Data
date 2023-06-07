@@ -7,6 +7,7 @@ import copy
 import io 
 import fire
 
+pokedex_path = '../Version20/Pokedex/'
 moves_path = '../Version20/Moves/'
 
 def create_json():
@@ -71,7 +72,17 @@ Water,royalblue,big-wave"""),sep=',').set_index("Type")
             f"rule",
             f"text | {data['Description']}"
         ]
+        tags = []
+        for fname in sorted(os.listdir(pokedex_path)):
+            if '.json' not in fname: continue
+            path = pokedex_path+fname
+            dex = json.loads(open(path).read())
+            for move in dex['Moves']:
+                if move['Name'] == data['Name']:
+                    tags.append(dex['Name'].lower())
+        card['tags'] = tags
         cards.append(card)
+
 
     open('../Version20/move_cards.json','w').write(json.dumps(cards, indent=4))
 
