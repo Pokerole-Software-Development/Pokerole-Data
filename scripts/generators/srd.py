@@ -250,7 +250,8 @@ class SRD(object):
     def _statblocks(self):
         for src in glob(self.pokedex_path+"/*.json"):
             entry = json.loads(open(src).read())
-            types = f"""{entry['Type1']}{f' / {entry["Type2"]}' if entry['Type2'] else ''}"""
+
+            types = f"""{entry['Type1']}{f'/{entry["Type2"]}' if entry['Type2'] else ''}"""
             abilities = ''
             for ability in [entry['Ability1'], entry['Ability2'], entry['HiddenAbility'], entry['EventAbilities']]:
                 if ability: 
@@ -268,10 +269,14 @@ class SRD(object):
 
             moves = []
             for m in entry['Moves']:
-                entry = json.loads(open(self.moves_path+f'/{m["Name"]}.json').read())
-                damage = '' if entry['Category'] == "Support" else f"""with a damage pool of *{entry['Damage1']}+{entry['Power']}*"""
-                effect = '' if entry['Effect'] == '-' else f""" **Effect:** {entry['Effect']}"""
-                x = f'''- [ ] **{entry['Name']}** - *{entry['Type']} Type* {entry['Category']} Move learned at *{m['Learned']}*. Targets *{entry['Target']}*. It's Accuracy dice are *{entry["Accuracy1"]}+{entry["Accuracy2"]}*{damage}.{effect}\n'''
+                try:
+                    mentry = json.loads(open(self.moves_path+f'/{m["Name"]}.json').read())
+                except FileNotFoundError:
+                    pass
+                damage = '' if mentry['Category'] == "Support" else f""" with a damage pool of *{mentry['Damage1']}+{mentry['Power']}*"""
+                effect = '' if mentry['Effect'] == '-' else f""" **Effect:** {mentry['Effect']}"""
+                # effect = '' if mentry['Effect'] == '-' else f"""\n    - **Effect:** {mentry['Effect']}"""
+                x = f'''- [ ] **{mentry['Name']}** - *{mentry['Type']} Type* {mentry['Category']} Move learned at *{m['Learned']}*. Targets *{mentry['Target']}*. It's Accuracy dice are *{mentry["Accuracy1"]}+{mentry["Accuracy2"]}*{damage}.{effect}\n\n'''
                 moves.append(x)
 
             template =  (
@@ -302,8 +307,8 @@ class SRD(object):
                 f"\n",
                 f"{''.join(moves)}"
                 )
-            print(''.join(template))
-            self.entry_output = f"#PokeroleSRD/Statblock\n\n{template}"
+
+            self.entry_output = f"#PokeroleSRD/Statblock\n\n{''.join(template)}"
             open(self.statblock_output+f"SRD-{entry['Name']}.md",'w').write(self.entry_output)
     
     def _orphan_check(self, start, updates):
