@@ -5,7 +5,6 @@ This repo is a Source of Truth for the [Pokerole](https://www.pokeroleproject.co
 - This repo contains JSON documents for Pokemon, Natures, Abilities, Moves, and Learnsets for the Pokerole system. 
 - It will preserve 2.0 data alongside 2.1 data when 2.1 is released. 
 - The repo has a sprite library with filenames consistent with the JSON data.
-- The data is programmatically accessible via Mongo DB
 
 # Applications Using The Dataset
 
@@ -27,10 +26,6 @@ This repo is a Source of Truth for the [Pokerole](https://www.pokeroleproject.co
 - **Scripts** a folder for any code that manipulates data. At the moment, there should be NO REASON to try and run these, they are for maintainence only.
 - **Version20** contains the entire JSON dataset for Pokerole Version 2.0. Each item in the dataset has it's own JSON document. *All of this data is also accessable via Mongo, see below.*
 - **DDL.md** contains tables documenting the data in the JSON documents for reference.
-
-## Database Access
-
-A Mongo DB instance is being hosted for the data in this repository to allow for programmatic access to the most up to date data. To get the connection information for this Database, contact Willowlark on the [Pokerole Discord](https://discord.gg/95DFpdMVcC).
 
 ## Assisting the Project
 
