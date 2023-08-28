@@ -364,7 +364,7 @@ def update(*argv, batch=False, version='Version20', confirm=False,
         "natures":    srd._natures,
         "items":      srd._items,
         "images":     srd._images,
-        "statblocks": srd._statblocks
+        # "statblocks": srd._statblocks
     }
     
     updates = list(targets.keys()) if batch else []
