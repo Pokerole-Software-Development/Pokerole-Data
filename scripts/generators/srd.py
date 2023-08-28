@@ -93,6 +93,7 @@ class SRD(object):
         self.book_output = self.obsidian+'/SRD-BookSprites/'
         self.shuffle_output = self.obsidian+'/SRD-ShuffleTokens/'
         self.items_output = self.obsidian+'/SRD-Items/'
+        self.statblock_output = self.obsidian+'/SRD-Statblocks/'
 
         self.outputs = [self.pokedex_output,self.abilities_output,self.moves_output,
                     self.natures_output,self.sprites_output,self.home_output,
@@ -246,6 +247,70 @@ class SRD(object):
         x(self.book_path, self.book_output, 'BookSprite')
         x(self.shuffle_path, self.shuffle_output, 'ShuffleToken')
     
+    def _statblocks(self):
+        for src in glob(self.pokedex_path+"/*.json"):
+            entry = json.loads(open(src).read())
+
+            types = f"""{entry['Type1']}{f'/{entry["Type2"]}' if entry['Type2'] else ''}"""
+            abilities = ''
+            for ability in [entry['Ability1'], entry['Ability2'], entry['HiddenAbility'], entry['EventAbilities']]:
+                if ability: 
+                    abentry = json.loads(open(self.abilities_path+f'/{ability}.json').read())
+                    abilities+=(f"- **{abentry['Name']}** {abentry['Effect']}\n")
+            HitP = entry['Vitality']+entry['BaseHP']
+            Init = entry['Dexterity']
+            PClash = entry['Strength']
+            SClash = entry['Special']
+            Strength = f"{entry['Strength']}/{entry['MaxStrength']}"
+            Dexterity = f"{entry['Dexterity']}/{entry['MaxDexterity']}"
+            Vitality = f"{entry['Vitality']}/{entry['MaxVitality']}"
+            Special = f"{entry['Special']}/{entry['MaxSpecial']}"
+            Insight = f"{entry['Insight']}/{entry['MaxInsight']}"
+
+            moves = []
+            for m in entry['Moves']:
+                try:
+                    mentry = json.loads(open(self.moves_path+f'/{m["Name"]}.json').read())
+                except FileNotFoundError:
+                    pass
+                damage = '' if mentry['Category'] == "Support" else f""" with a damage pool of *{mentry['Damage1']}+{mentry['Power']}*"""
+                effect = '' if mentry['Effect'] == '-' else f""" **Effect:** {mentry['Effect']}"""
+                # effect = '' if mentry['Effect'] == '-' else f"""\n    - **Effect:** {mentry['Effect']}"""
+                x = f'''- [ ] **{mentry['Name']}** - *{mentry['Type']} Type* {mentry['Category']} Move learned at *{m['Learned']}*. Targets *{mentry['Target']}*. It's Accuracy dice are *{mentry["Accuracy1"]}+{mentry["Accuracy2"]}*{damage}.{effect}\n\n'''
+                moves.append(x)
+
+            template =  (
+                f"#### {entry['Name']}\n",
+                f"\n",
+                f"A **{types}** Pokemon with a **Nature** nature at **Rank** rank. It's **Abilities** are:\n",
+                f"\n",
+                f"{abilities}\n",
+                f"\n",
+                f"##### Stats\n",
+                f"\n",
+                f"| **HP ({entry['BaseHP']})**  | **Init**  | **Evade** | **Phys Clash** | **Spec Clash** |\n",
+                f"| -------- | --------- | --------- | -------------- | -------------- |\n",
+                f"| {HitP}   | {Init}    | {Init}    | {PClash}      | {SClash}     |\n",
+                f"| **Str**   | **Dex**  | **Vit**    | **Spec**   | **Ins**  |\n",
+                f"| {Strength}| {Dexterity} | {Vitality}| {Special}| {Insight}|\n",
+                f"| **Tough** | **Cool** | **Beauty** | **Clever** | **Cute** |\n",
+                f"| 1         | 1        | 1          | 1          | 1        |\n",
+                f"\n",
+                f"##### Skills\n",
+                f"\n",
+                f"| Skill | Skill | Skill | Skill | Skill | Skill | Skill | Skill |\n",
+                f"| ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |\n",
+                f"|       |       |       |       |       |       |       |       |\n",
+                f"\n",
+                f"\n",
+                f"##### Moves\n"
+                f"\n",
+                f"{''.join(moves)}"
+                )
+
+            self.entry_output = f"#PokeroleSRD/Statblock\n\n{''.join(template)}"
+            open(self.statblock_output+f"SRD-{entry['Name']}.md",'w').write(self.entry_output)
+    
     def _orphan_check(self, start, updates):
         
         targets = {
@@ -293,12 +358,13 @@ def update(*argv, batch=False, version='Version20', confirm=False,
     if orphans: start = time.time()
     
     targets = {
-        "pokedex":   srd._pokedex,
-        "abilities": srd._abilities,
-        "moves":     srd._moves,
-        "natures":   srd._natures,
-        "items":     srd._items,
-        "images":    srd._images
+        "pokedex":    srd._pokedex,
+        "abilities":  srd._abilities,
+        "moves":      srd._moves,
+        "natures":    srd._natures,
+        "items":      srd._items,
+        "images":     srd._images,
+        # "statblocks": srd._statblocks
     }
     
     updates = list(targets.keys()) if batch else []
