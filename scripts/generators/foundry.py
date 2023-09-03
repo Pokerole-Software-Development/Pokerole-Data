@@ -112,9 +112,6 @@ class Foundry(object):
 
                 foundry_items = move_list+abilities
                 
-                for move in move_list:
-                    move["ownership"] = { "default": 0, f"pokemon-{id}": 3}
-                
                 foundry = {
                             "_id": blake2b(bytes(entry['_id'], 'utf-8'), digest_size=16).hexdigest(),
                             "name": entry['Name'],
