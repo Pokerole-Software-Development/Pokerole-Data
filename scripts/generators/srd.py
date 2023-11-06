@@ -45,17 +45,6 @@ natures_template = '''## `= this.Nature`
 
 #-------------------------------------------------------------------
 
-items_template = '''## `= this.Name`
-
-*`= this.Description`*
-
-| Trainer Price           | PMD Price         | Source | 
-| ----------------------- | ----------------- | ------ |
-| `= this.SuggestedPrice` | `= this.PMDPrice` | `= this.Source` 
-
-**Pokemon Limitation**: `= this.SpecificPokemon`
-'''
-
 class SRD(object):
     
     def __init__(self, version="Version20", public_vault=False):
@@ -75,10 +64,11 @@ class SRD(object):
         self.book_path = '../../Images/BookSprites/'
         self.shuffle_path = '../../Images/ShuffleTokens/'
         self.items_path = f'../../{version}/Items/'
+        self.item_sprite_path = f'../../Images/ItemSprites/'
 
         paths = [self.pokedex_path,self.abilities_path,self.moves_path
                  ,self.natures_path,self.sprites_path,self.home_path,
-                 self.book_path,self.shuffle_path,self.items_path]
+                 self.book_path,self.shuffle_path,self.items_path, self.item_sprite_path]
         
         for p in paths:
             if not os.path.exists(p): raise Exception(f"ERROR: Path {p} not found!")
@@ -93,11 +83,12 @@ class SRD(object):
         self.book_output = self.obsidian+'/SRD-BookSprites/'
         self.shuffle_output = self.obsidian+'/SRD-ShuffleTokens/'
         self.items_output = self.obsidian+'/SRD-Items/'
+        self.item_sprite_output = self.obsidian+'/SRD-ItemSprites/'
         self.statblock_output = self.obsidian+'/SRD-Statblocks/'
 
         self.outputs = [self.pokedex_output,self.abilities_output,self.moves_output,
                     self.natures_output,self.sprites_output,self.home_output,
-                    self.book_output,self.shuffle_output,self.items_output]
+                    self.book_output,self.shuffle_output,self.items_output, self.item_sprite_output]
 
         for p in self.outputs:
             os.makedirs(p,exist_ok=True)
@@ -220,7 +211,6 @@ class SRD(object):
             self.entry_output = f"---\n{yaml.dump(entry)}---\n\n#PokeroleSRD/Moves\n\n{moves_template}"
             open(self.moves_output+f"SRD-{entry['Name']}.md",'w').write(self.entry_output)
     
-    
     def _natures(self):
         for src in glob(self.natures_path+"/*.json"):
             entry = json.loads(open(src).read())
@@ -229,8 +219,27 @@ class SRD(object):
             open(self.natures_output+f"SRD-{entry['Name']}.md",'w').write(self.entry_output)
     
     def _items(self):
+        
+        
         for src in glob(self.items_path+"/*.json"):
             entry = json.loads(open(src).read())
+            # TODO: add an Image key to items so it doesn't need a default .png
+            entry['ItemSprite'] = f"SRD-{entry['_id']}-ItemSprite.png"
+            
+            items_template = (
+                f'''## `= this.Name`\n'''
+                f'''\n'''
+                f'''![[{entry['ItemSprite']}|right]]\n'''
+                f'''\n'''
+                f'''*`= this.Description`*\n'''
+                f'''\n'''
+                f'''| Trainer Price           | PMD Price         | Source | \n'''
+                f'''| ----------------------- | ----------------- | ------ |\n'''
+                f'''| `= this.SuggestedPrice` | `= this.PMDPrice` | `= this.Source`\n'''
+                f'''\n'''
+                f'''**Pokemon Limitation**: `= this.SpecificPokemon`\n'''
+                )
+            
             del entry['_id']
             self.entry_output = f"---\n{yaml.dump(entry)}---\n\n#PokeroleSRD/Items\n\n{items_template}"
             open(self.items_output+f"SRD-{entry['Name']}.md",'w').write(self.entry_output)
@@ -246,6 +255,7 @@ class SRD(object):
         x(self.home_path, self.home_output, 'HomeSprite')
         x(self.book_path, self.book_output, 'BookSprite')
         x(self.shuffle_path, self.shuffle_output, 'ShuffleToken')
+        x(self.item_sprite_path, self.item_sprite_output, 'ItemSprite')
     
     def _statblocks(self):
         for src in glob(self.pokedex_path+"/*.json"):
