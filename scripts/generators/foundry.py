@@ -562,7 +562,49 @@ class Foundry(object):
         pass
     
     def _items(self):
-        pass
+        db = []
+
+        for src in glob(self.items_path+"/*.json"):
+            entry = json.loads(open(src).read())
+            
+            # Add the price if it's numeric
+            price = entry.get('TrainerPrice')
+            if price:
+                try:
+                    price = int(price)
+                except ValueError:
+                    price = None
+
+            img = f"systems/pokerole/images/items/{entry['_id']}.png"
+            if not os.path.exists(f"../../images/ItemSprites/{entry['_id']}.png"):
+                img = "icons/svg/item-bag.svg"
+
+            foundry = {
+                "_id": blake2b(bytes(entry['_id'], 'utf-8'), digest_size=16).hexdigest(),
+                "name": entry['Name'],
+                "type": "item",
+                "img": img,
+                "system": {
+                    "description": f"<p>{entry['Description']}</p>",
+                    "price": price,
+                },
+                "effects": [],
+                "source": entry["Source"],
+                "flags": {},
+                "_stats": {
+                    "systemId": "pokerole",
+                    "systemVersion": self.system_version,
+                    "coreVersion": "10.291",
+                    "createdTime": 1670695293664,
+                    "modifiedTime": datetime.datetime.now().timestamp(),
+                    "lastModifiedBy": "Generator"
+                }
+            }
+            db.append(foundry)
+
+        with open(self.moves_output+"items.db",'w') as f:
+            for x in db:
+                f.write(json.dumps(x)+'\n')
             
     def _images(self):
         def x(path, output):
