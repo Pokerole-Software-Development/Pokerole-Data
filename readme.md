@@ -10,6 +10,7 @@ This repo is a Source of Truth for the [Pokerole](https://www.pokeroleproject.co
 
 - [Pokerole Obsidian SRD](https://github.com/Willowlark/PokeroleObsidianSRD) A SRD of the entire Pokerole dataset available within [Obsidian](https://obsidian.md/), a markdown note application. 
 - [Pokerole Foundry Module](https://github.com/tech-ticks/foundry-pokerole) A module for the [Foundry VTT system](https://foundryvtt.com/) using the data compiled here.
+- [Pokerole Buddy](https://discord.com/channels/245675629515767809/641511676251865118/1208309716548198451) A standalone character sheet application with dozens of useful features
 
 ## Developer Information
 
