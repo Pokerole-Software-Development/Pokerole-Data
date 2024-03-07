@@ -223,8 +223,8 @@ class SRD(object):
         
         for src in glob(self.items_path+"/*.json"):
             entry = json.loads(open(src).read())
-            # TODO: add an Image key to items so it doesn't need a default .png
-            entry['ItemSprite'] = f"SRD-{entry['_id']}-ItemSprite.png"
+            sname = entry['Image'].split('.')
+            entry['ItemSprite'] = f"SRD-{sname[0]}-ItemSprite.{sname[1]}"
             
             items_template = (
                 f'''## `= this.Name`\n'''
