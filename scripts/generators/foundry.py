@@ -572,8 +572,8 @@ class Foundry(object):
                 except ValueError:
                     price = None
 
-            img = f"systems/pokerole/images/items/{entry['_id']}.png"
-            if not os.path.exists(f"../../images/ItemSprites/{entry['_id']}.png"):
+            img = f"systems/pokerole/images/items/{entry['Image']}"
+            if not os.path.exists(f"../../images/ItemSprites/{entry['Image']}"):
                 img = "icons/svg/item-bag.svg"
 
             foundry = {
