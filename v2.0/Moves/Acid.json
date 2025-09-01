@@ -1,0 +1,27 @@
+{
+    "Name": "Acid",
+    "Type": "Poison",
+    "Power": 2,
+    "Damage1": "Special",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Channel",
+    "Target": "All Foes",
+    "Effect": "Roll 1 Chance Dice to Reduce Sp. Defense of those affected.",
+    "Description": "The Pokemon showers its foes with a corrosive acid, the burning sensation may leave an opening for other attacks.",
+    "_id": "acid",
+    "Attributes": {},
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "SpDef"
+                ],
+                "Stages": -1,
+                "ChanceDice": 1,
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Special"
+}

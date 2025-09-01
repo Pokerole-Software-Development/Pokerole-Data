@@ -1,0 +1,22 @@
+{
+    "Name": "Heal Pulse",
+    "Type": "Psychic",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Will",
+    "Accuracy2": "Channel",
+    "Target": "One Ally",
+    "Effect": "Basic Heal. If successful spend 1 Will to activate.",
+    "Description": "The user emits a pulse of energy that heals the wounds of its allies.",
+    "_id": "heal-pulse",
+    "Attributes": {},
+    "AddedEffects": {
+        "Heal": {
+            "Type": "Basic",
+            "Target": "Targets",
+            "WillPointCost": 1
+        }
+    },
+    "Category": "Support"
+}

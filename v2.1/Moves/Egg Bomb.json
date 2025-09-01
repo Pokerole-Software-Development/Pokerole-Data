@@ -1,0 +1,20 @@
+{
+    "Name": "Egg Bomb",
+    "Type": "Normal",
+    "Power": 4,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Strength",
+    "Accuracy2": "Channel",
+    "Target": "Foe",
+    "Effect": "Single Target. Low Accuracy 2. Ranged. Projectile Move.",
+    "Description": "Armed with an egg, the user hurls it with great force against the target.",
+    "_id": "egg-bomb",
+    "Attributes": {
+        "PhysicalRanged": true,
+        "AccuracyReduction": 2,
+        "ProjectileMove": true
+    },
+    "AddedEffects": {},
+    "Category": "Physical"
+}

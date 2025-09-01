@@ -1,0 +1,18 @@
+{
+    "Name": "Electro Ball",
+    "Type": "Electric",
+    "Power": 2,
+    "Damage1": "Special",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Channel",
+    "Target": "Foe",
+    "Effect": "Single Target. Projectile Move. *Add 1 Extra Dice to the Damage Pool of the user for every Point on Dexterity it has that surpasses the Foe's. Up to 4 Dice might be added this way.",
+    "Description": "The Pokémon creates a small electricity orb that is hurled at the target. If the user is faster, the impact will be bigger.",
+    "_id": "electro-ball",
+    "Attributes": {
+        "ProjectileMove": true
+    },
+    "AddedEffects": {},
+    "Category": "Special"
+}

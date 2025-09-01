@@ -1,0 +1,139 @@
+{
+    "Number": 937,
+    "DexID": "0937",
+    "Name": "Ceruledge",
+    "Type1": "Fire",
+    "Type2": "Ghost",
+    "BaseHP": 5,
+    "Strength": 3,
+    "MaxStrength": 7,
+    "Dexterity": 2,
+    "MaxDexterity": 5,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 3,
+    "MaxInsight": 6,
+    "Ability1": "Flash Fire",
+    "Ability2": "Weak Armor",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Expert",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "ceruledge",
+    "DexCategory": "Fire Blades Pokémon",
+    "Height": {
+        "Meters": 1.6,
+        "Feet": 5.2
+    },
+    "Weight": {
+        "Kilograms": 62.0,
+        "Pounds": 136.7
+    },
+    "DexDescription": "Charcadet evolved by using a battered armor that belonged to a fallen warrior. The resentment in the armor gives it a vengeful heat. They use their sharp blades to attack without mercy from the shadows.",
+    "Evolutions": [
+        {
+            "From": "Charcadet",
+            "Kind": "Special",
+            "Special": "Wearing Malicious Armor"
+        }
+    ],
+    "Image": "ceruledge.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Ember"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Leer"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Astonish"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Clear Smog"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Fire Spin"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Will-o-Wisp"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Night Shade"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Flame Charge"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Incinerate"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Shadow Claw"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Taunt"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Protect"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Swords Dance"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Ally Switch"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Light Screen"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Reflect"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Bitter Blade"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "X-Scissor"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Psycho Cut"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Flare Blitz"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Iron Defense"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Phantom Force"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Close Combat"
+        }
+    ]
+}

@@ -1,0 +1,115 @@
+{
+    "Number": 769,
+    "DexID": "0769",
+    "Name": "Sandygast",
+    "Type1": "Ghost",
+    "Type2": "Ground",
+    "BaseHP": 3,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 1,
+    "MaxDexterity": 2,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 2,
+    "MaxSpecial": 5,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Water Compaction",
+    "Ability2": "",
+    "HiddenAbility": "Sand Veil",
+    "EventAbilities": "",
+    "RecommendedRank": "Amateur",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "sandygast",
+    "DexCategory": "Sand Heap Pokemon",
+    "Height": {
+        "Meters": 0.5,
+        "Feet": 1.6
+    },
+    "Weight": {
+        "Kilograms": 70.0,
+        "Pounds": 154.3
+    },
+    "DexDescription": "Some departed soul made a child\u2019s sand mound its vessel. Anyone who puts their hand inside its mouth will have its vital energy absorbed and its mind possessed to add more sand until they collapse.",
+    "Evolutions": [
+        {
+            "To": "Palossand",
+            "Kind": "Level",
+            "Speed": "Slow"
+        }
+    ],
+    "Image": "sandygast.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Harden"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Absorb"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Astonish"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Sand Attack"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Sand Tomb"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Mega Drain"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Bulldoze"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Hypnosis"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Iron Defense"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Giga Drain"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Shadow Ball"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Earth Power"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Shore Up"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Sandstorm"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Stockpile"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Spit Up"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Swallow"
+        }
+    ]
+}

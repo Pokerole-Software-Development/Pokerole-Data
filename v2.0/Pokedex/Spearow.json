@@ -1,0 +1,107 @@
+{
+    "Number": 21,
+    "DexID": "0021",
+    "Name": "Spearow",
+    "Type1": "Normal",
+    "Type2": "Flying",
+    "BaseHP": 3,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 2,
+    "MaxDexterity": 5,
+    "Vitality": 1,
+    "MaxVitality": 3,
+    "Special": 1,
+    "MaxSpecial": 3,
+    "Insight": 1,
+    "MaxInsight": 3,
+    "Ability1": "Keen Eye",
+    "Ability2": "",
+    "HiddenAbility": "Sniper",
+    "EventAbilities": "",
+    "RecommendedRank": "Beginner",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "spearow",
+    "DexCategory": "Tiny Bird Pokemon",
+    "Height": {
+        "Meters": 0.3,
+        "Feet": 1.0
+    },
+    "Weight": {
+        "Kilograms": 2.0,
+        "Pounds": 4.4
+    },
+    "DexDescription": "Lives in flocks on grasslands. Very protective of its territory. It flaps its short wings to dart around at high speed. It is a little short-tempered - if disturbed, it will shriek, calling its flock for aid.",
+    "Evolutions": [
+        {
+            "To": "Fearow",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "spearow.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Peck"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Growl"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Leer"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Fury Attack"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Pursuit"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Aerial Ace"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Assurance"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Focus Energy"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Mirror Move"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Agility"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Roost"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Drill Peck"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Tailwind"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Scary Face"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Feather Dance"
+        }
+    ]
+}

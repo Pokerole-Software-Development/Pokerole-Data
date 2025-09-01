@@ -1,0 +1,28 @@
+{
+    "Name": "Metal Sound",
+    "Type": "Steel",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Tough",
+    "Accuracy2": "Perform",
+    "Target": "Foe",
+    "Effect": "Sound Based. Reduce the foe's Special Defense by 2.",
+    "Description": "The user produces a horrible noise that impedes the foe from focusing on the fight, leaving it vulnerable to attacks.",
+    "_id": "metal-sound",
+    "Attributes": {
+        "SoundBased": true
+    },
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "SpDef"
+                ],
+                "Stages": -2,
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Support"
+}

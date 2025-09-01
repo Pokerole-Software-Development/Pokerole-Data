@@ -1,0 +1,27 @@
+{
+    "Name": "Psychic",
+    "Type": "Psychic",
+    "Power": 3,
+    "Damage1": "Special",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Channel",
+    "Target": "Foe",
+    "Effect": "Roll 1 Chance Dice to Reduce the foe's Sp. Defense.",
+    "Description": "The user's telekinetic force is enough to cause severe harm to their target. This telekinesis is not subtle.",
+    "_id": "psychic",
+    "Attributes": {},
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "SpDef"
+                ],
+                "Stages": -1,
+                "ChanceDice": 1,
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Special"
+}

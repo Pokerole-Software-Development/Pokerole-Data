@@ -1,0 +1,111 @@
+{
+    "Number": 118,
+    "DexID": "0118",
+    "Name": "Goldeen",
+    "Type1": "Water",
+    "Type2": "",
+    "BaseHP": 3,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 1,
+    "MaxSpecial": 3,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Swift Swim",
+    "Ability2": "Water Veil",
+    "HiddenAbility": "Lightning Rod",
+    "EventAbilities": "",
+    "RecommendedRank": "Beginner",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "goldeen",
+    "DexCategory": "Goldfish Pokemon",
+    "Height": {
+        "Meters": 0.6,
+        "Feet": 2.0
+    },
+    "Weight": {
+        "Kilograms": 15.0,
+        "Pounds": 33.1
+    },
+    "DexDescription": "Goldeen loves swimming wild and free in rivers and ponds. If one of these Pokemon is placed in an aquarium, it will shatter the glass with its horn and make its escape.",
+    "Evolutions": [
+        {
+            "To": "Seaking",
+            "Kind": "Level",
+            "Speed": "Slow"
+        }
+    ],
+    "Image": "goldeen.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Peck"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Water Sport"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Supersonic"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Horn Attack"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Water Pulse"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Flail"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Aqua Ring"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Fury Attack"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Waterfall"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Horn Drill"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Agility"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Soak"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Megahorn"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Bounce"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Mud Sport"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Drill Run"
+        }
+    ]
+}

@@ -1,0 +1,119 @@
+{
+    "Number": 495,
+    "DexID": "0495",
+    "Name": "Snivy",
+    "Type1": "Grass",
+    "Type2": "",
+    "BaseHP": 3,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Overgrow",
+    "Ability2": "",
+    "HiddenAbility": "Contrary",
+    "EventAbilities": "",
+    "RecommendedRank": "Beginner",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "snivy",
+    "DexCategory": "Grass Snake Pokemon",
+    "Height": {
+        "Meters": 0.6,
+        "Feet": 2.0
+    },
+    "Weight": {
+        "Kilograms": 8.1,
+        "Pounds": 17.9
+    },
+    "DexDescription": "It is very intelligent and independent, although it seems calm it doesn\u2019t like being bossed around. Being exposed to lots of sunlight makes its movements swifter. The tail drops if it is not feeling well.",
+    "Evolutions": [
+        {
+            "To": "Servine",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "snivy.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Leer"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Vine Whip"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Wrap"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Growth"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Leaf Tornado"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Leech Seed"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Mega Drain"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Slam"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Leaf Blade"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Coil"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Giga Drain"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Wring Out"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Gastro Acid"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Leaf Storm"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Grass Pledge"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Synthesis"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Twister"
+        }
+    ]
+}

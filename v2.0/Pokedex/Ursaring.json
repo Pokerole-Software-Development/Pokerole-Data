@@ -1,0 +1,119 @@
+{
+    "Number": 217,
+    "DexID": "0217",
+    "Name": "Ursaring",
+    "Type1": "Normal",
+    "Type2": "",
+    "BaseHP": 4,
+    "Strength": 3,
+    "MaxStrength": 7,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 2,
+    "MaxSpecial": 5,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Guts",
+    "Ability2": "Quick Feet",
+    "HiddenAbility": "Unnerve",
+    "EventAbilities": "",
+    "RecommendedRank": "Ace",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "ursaring",
+    "DexCategory": "Hibernator Pokemon",
+    "Height": {
+        "Meters": 1.8,
+        "Feet": 5.9
+    },
+    "Weight": {
+        "Kilograms": 125.8,
+        "Pounds": 277.3
+    },
+    "DexDescription": "They are incredibly strong, great climbers and posses an amazing sense of smell. They snap trees and feed on their fruit as they eat quite a lot. A forest full of scratched trees marks the territory of Ursarings.",
+    "Evolutions": [
+        {
+            "From": "Teddiursa",
+            "Kind": "Level",
+            "Speed": "Slow"
+        }
+    ],
+    "Image": "ursaring.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Baby-Doll Eyes"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Scratch"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Fake Tears"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Lick"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Covet"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Fury Swipes"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Snore"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Feint Attack"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Sweet Scent"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Play Nice"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Slash"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Scary Face"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Rest"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Hammer Arm"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Thrash"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Swords Dance"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Night Slash"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Gunk Shot"
+        }
+    ]
+}

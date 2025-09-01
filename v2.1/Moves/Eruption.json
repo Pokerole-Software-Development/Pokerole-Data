@@ -1,0 +1,18 @@
+{
+    "Name": "Eruption",
+    "Type": "Fire",
+    "Power": 6,
+    "Damage1": "Special",
+    "Damage2": "",
+    "Accuracy1": "Special",
+    "Accuracy2": "Channel",
+    "Target": "All Foes",
+    "Effect": "Target All Foes in Range. Lethal. Reduce 1 Die from the Damage Pool for every missing HP the User has. Up to 5 Dice can be removed this way.",
+    "Description": "A fierce burst of lava comes out from the Pokémon at full force, charring whatever comes in contact with it. The lava flow diminishes as its rage subsides.",
+    "_id": "eruption",
+    "Attributes": {
+        "Lethal": true
+    },
+    "AddedEffects": {},
+    "Category": "Special"
+}

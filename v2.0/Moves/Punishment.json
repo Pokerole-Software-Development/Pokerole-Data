@@ -1,0 +1,16 @@
+{
+    "Name": "Punishment",
+    "Type": "Dark",
+    "Power": 1,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "Add up to 7 Dice to the Damage Pool for every Increased Attribute the foe has. (ie. Foe has 1 Increased dice in Dexterity & Strength that equals +2 Dice on the Damage Pool of this attack).",
+    "Description": "The user takes advantage of its foe's strengths to use them against it.",
+    "_id": "punishment",
+    "Attributes": {},
+    "AddedEffects": {},
+    "Category": "Physical"
+}

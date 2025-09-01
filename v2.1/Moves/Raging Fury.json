@@ -1,0 +1,19 @@
+{
+    "Name": "Raging Fury",
+    "Type": "Fire",
+    "Power": 5,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Strength",
+    "Accuracy2": "Brawl",
+    "Target": "Random Foe",
+    "Effect": "Target Random Foe. Ranged. Rampage.",
+    "Description": "The Pokémon goes mad with rage, spitting fire viciously all over the battlfield and barely recognizing friend from foe.",
+    "_id": "raging-fury",
+    "Attributes": {
+        "Rampage": true,
+        "PhysicalRanged": true
+    },
+    "AddedEffects": {},
+    "Category": "Physical"
+}

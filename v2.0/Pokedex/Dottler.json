@@ -1,0 +1,80 @@
+{
+    "Number": 825,
+    "DexID": "0825",
+    "Name": "Dottler",
+    "Type1": "Bug",
+    "Type2": "Psychic",
+    "BaseHP": 4,
+    "Strength": 1,
+    "MaxStrength": 3,
+    "Dexterity": 1,
+    "MaxDexterity": 2,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Swarm",
+    "Ability2": "Compound Eyes",
+    "HiddenAbility": "Telepathy",
+    "EventAbilities": "",
+    "RecommendedRank": "Beginner",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "dottler",
+    "DexCategory": "Radome Pokemon",
+    "Height": {
+        "Meters": 0.4,
+        "Feet": 1.3
+    },
+    "Weight": {
+        "Kilograms": 19.5,
+        "Pounds": 43.0
+    },
+    "DexDescription": "It grows into its final stage inside a hard shell. It barely moves and it won\u2019t eat or drink during this time, due to this many believe it to be dead until its psychic powers awaken and it starts communicating telepathically.",
+    "Evolutions": [
+        {
+            "From": "Blipbug",
+            "Kind": "Level",
+            "Speed": "Fast"
+        },
+        {
+            "To": "Orbeetle",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "dottler.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Struggle Bug"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Confusion"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Light Screen"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Reflect"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Sticky Web"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Supersonic"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Infestation"
+        }
+    ]
+}

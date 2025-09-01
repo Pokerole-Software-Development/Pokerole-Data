@@ -1,0 +1,26 @@
+{
+    "Name": "Bounce",
+    "Type": "Flying",
+    "Power": 3,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "Charge Move. While charging this Move, the user will be out of range. Roll 3 Chance Dice to Paralyze the foe.",
+    "Description": "The Pokemon will jump 30 feet in the air before landing on top of the foe. The user won't suffer any falling damage.",
+    "_id": "bounce",
+    "Attributes": {
+        "Charge": true
+    },
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Paralyze",
+                "Affects": "Targets",
+                "ChanceDice": 3
+            }
+        ]
+    },
+    "Category": "Physical"
+}

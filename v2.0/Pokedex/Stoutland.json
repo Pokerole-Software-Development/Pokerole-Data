@@ -1,0 +1,127 @@
+{
+    "Number": 508,
+    "DexID": "0508",
+    "Name": "Stoutland",
+    "Type1": "Normal",
+    "Type2": "",
+    "BaseHP": 5,
+    "Strength": 3,
+    "MaxStrength": 6,
+    "Dexterity": 2,
+    "MaxDexterity": 5,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Intimidate",
+    "Ability2": "Sand Rush",
+    "HiddenAbility": "Scrappy",
+    "EventAbilities": "",
+    "RecommendedRank": "Amateur",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "stoutland",
+    "DexCategory": "Big-Hearted Pokemon",
+    "Height": {
+        "Meters": 1.2,
+        "Feet": 3.9
+    },
+    "Weight": {
+        "Kilograms": 61.0,
+        "Pounds": 134.5
+    },
+    "DexDescription": "For many years this Pokemon has helped with rescue missions in hostile places. Its outer coat is hard on the exterior but soft and silky on the inside. They keep people safe and warm while help is on the way.",
+    "Evolutions": [
+        {
+            "From": "Herdier",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "stoutland.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Leer"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Bite"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Odor Sleuth"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Ice Fang"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Fire Fang"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Thunder Fang"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Helping Hand"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Take Down"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Work Up"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Crunch"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Roar"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Retaliate"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Reversal"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Last Resort"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Giga Impact"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Play Rough"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Psychic Fangs"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Iron Head"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Superpower"
+        }
+    ]
+}

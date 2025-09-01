@@ -1,0 +1,25 @@
+{
+    "Name": "Disable",
+    "Type": "Normal",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Insight",
+    "Accuracy2": "Channel",
+    "Target": "Foe",
+    "Effect": "Single Target. Disable the last Move performed by the Target. Duration 4 Rounds.",
+    "Description": "The user hits a nerve on the foe, impeding it from performing its previous action for a short while.",
+    "_id": "disable",
+    "Attributes": {
+        "Duration": 4
+    },
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Disable",
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Support"
+}

@@ -1,0 +1,115 @@
+{
+    "Number": 432,
+    "DexID": "0432",
+    "Name": "Purugly",
+    "Type1": "Normal",
+    "Type2": "",
+    "BaseHP": 4,
+    "Strength": 2,
+    "MaxStrength": 5,
+    "Dexterity": 3,
+    "MaxDexterity": 6,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Thick Fat",
+    "Ability2": "Own Tempo",
+    "HiddenAbility": "Defiant",
+    "EventAbilities": "",
+    "RecommendedRank": "Amateur",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "purugly",
+    "DexCategory": "Tiger Cat Pokemon",
+    "Height": {
+        "Meters": 1.0,
+        "Feet": 3.3
+    },
+    "Weight": {
+        "Kilograms": 43.8,
+        "Pounds": 96.6
+    },
+    "DexDescription": "It becomes wilder and aggressive after evolving. It is known to claim other Pokemon nests as its own. It will make itself appear bigger and glare with piercing eyes to achieve dominance over someone.",
+    "Evolutions": [
+        {
+            "From": "Glameow",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "purugly.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Fake Out"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Scratch"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Growl"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Hypnosis"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Feint Attack"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Fury Swipes"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Charm"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Assist"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Captivate"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Slash"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Swagger"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Body Slam"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Attract"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Hone Claws"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Last Resort"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Hyper Voice"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Wake-Up Slap"
+        }
+    ]
+}

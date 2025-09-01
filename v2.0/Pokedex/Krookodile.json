@@ -1,0 +1,131 @@
+{
+    "Number": 553,
+    "DexID": "0553",
+    "Name": "Krookodile",
+    "Type1": "Ground",
+    "Type2": "Dark",
+    "BaseHP": 5,
+    "Strength": 3,
+    "MaxStrength": 6,
+    "Dexterity": 2,
+    "MaxDexterity": 5,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Intimidate",
+    "Ability2": "Moxie",
+    "HiddenAbility": "Anger Point",
+    "EventAbilities": "",
+    "RecommendedRank": "Ace",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "krookodile",
+    "DexCategory": "Intimidation Pokemon",
+    "Height": {
+        "Meters": 1.5,
+        "Feet": 4.9
+    },
+    "Weight": {
+        "Kilograms": 96.3,
+        "Pounds": 212.3
+    },
+    "DexDescription": "A very violent Pokemon. They try to clamp down on anything that moves in front of their eyes and once grasped they never let the prey escape. It can be very dangerous if it\u2019s not tamed correctly.",
+    "Evolutions": [
+        {
+            "From": "Krokorok",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "krookodile.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Rage"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Leer"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Sand Attack"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Bite"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Torment"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Power Trip"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Sand Tomb"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Assurance"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Mud Slap"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Embargo"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Swagger"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Crunch"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Dig"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Scary Face"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Foul Play"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Sandstorm"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Earthquake"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Outrage"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Fire Fang"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Iron Tail"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Superpower"
+        }
+    ]
+}

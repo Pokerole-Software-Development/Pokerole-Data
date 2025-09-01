@@ -1,0 +1,27 @@
+{
+    "Name": "Jaw Lock",
+    "Type": "Dark",
+    "Power": 3,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Strength",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "Both User and Target are Blocked.",
+    "Description": "The user will capture its foe in a crushing jaw grip. It won't let go no matter how much you try to seperate them. The only way it will release its victim is by fainting.",
+    "_id": "jaw-lock",
+    "Attributes": {},
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Block",
+                "Affects": "Targets"
+            },
+            {
+                "Type": "Block",
+                "Affects": "User"
+            }
+        ]
+    },
+    "Category": "Physical"
+}

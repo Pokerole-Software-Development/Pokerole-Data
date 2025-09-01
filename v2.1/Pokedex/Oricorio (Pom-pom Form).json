@@ -1,0 +1,126 @@
+{
+    "Number": 741,
+    "DexID": "0741F1",
+    "Name": "Oricorio (Pom-pom Form)",
+    "Type1": "Electric",
+    "Type2": "Flying",
+    "BaseHP": 5,
+    "Strength": 2,
+    "MaxStrength": 5,
+    "Dexterity": 3,
+    "MaxDexterity": 6,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 3,
+    "MaxSpecial": 6,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Dancer",
+    "Ability2": "",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Advanced",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "oricorio-pom-pom-form",
+    "DexCategory": "Dancing Pokémon",
+    "Height": {
+        "Meters": 0.6,
+        "Feet": 2.0
+    },
+    "Weight": {
+        "Kilograms": 3.4,
+        "Pounds": 7.5
+    },
+    "DexDescription": "What was thought to be different species ended up being a single Pokémon. Oricorio Pom-Pom is full of cheer and energy. It charges its feathers with static electricity, releasing sparks with every swing.",
+    "Evolutions": [
+        {
+            "From": "Oricorio (Baile Form)",
+            "Kind": "Form"
+        }
+    ],
+    "Image": "oricorio-pom-pom-form.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Pound"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Growl"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Peck"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Helping Hand"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Air Cutter"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Baton Pass"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Feather Dance"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Double Slap"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Teeter Dance"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Roost"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Captivate"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Air Slash"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Revelation Dance"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Mirror Move"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Agility"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Hurricane"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Swords Dance"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Attract"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Round"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Discharge"
+        }
+    ]
+}

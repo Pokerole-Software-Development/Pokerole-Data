@@ -1,0 +1,141 @@
+{
+    "Number": 475,
+    "DexID": "0475",
+    "Name": "Gallade",
+    "Type1": "Psychic",
+    "Type2": "Fighting",
+    "BaseHP": 5,
+    "Strength": 3,
+    "MaxStrength": 7,
+    "Dexterity": 2,
+    "MaxDexterity": 5,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 3,
+    "MaxInsight": 6,
+    "Ability1": "Steadfast",
+    "Ability2": "",
+    "HiddenAbility": "Justified",
+    "EventAbilities": "",
+    "RecommendedRank": "Ace",
+    "GenderType": "M",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "gallade",
+    "DexCategory": "Blade Pokemon",
+    "Height": {
+        "Meters": 1.6,
+        "Feet": 5.2
+    },
+    "Weight": {
+        "Kilograms": 52.0,
+        "Pounds": 114.6
+    },
+    "DexDescription": "This Pokemon is male only. He has an extreme sense of courtesy. In a battle, it uses the blades on his arms as if they were swords. It is a loyal Pokemon and won\u2019t doubt to fiercely protect its trainer.",
+    "Evolutions": [
+        {
+            "From": "Kirlia",
+            "Kind": "Special",
+            "Item": "Dawn Stone",
+            "Gender": "Male"
+        },
+        {
+            "To": "Gallade (Mega Form)",
+            "Kind": "Mega",
+            "Item": "Galladite"
+        }
+    ],
+    "Image": "gallade.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Leer"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Confusion"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Double Team"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Teleport"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Quick Guard"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "False Swipe"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Feint"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Fury Cutter"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Wide Guard"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Slash"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Heal Pulse"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Swords Dance"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Psycho Cut"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Helping Hand"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Leaf Blade"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Night Slash"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Protect"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Close Combat"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Stored Power"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Shadow Sneak"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Thunder Punch"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Drain Punch"
+        }
+    ]
+}

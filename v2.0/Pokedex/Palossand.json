@@ -1,0 +1,115 @@
+{
+    "Number": 770,
+    "DexID": "0770",
+    "Name": "Palossand",
+    "Type1": "Ghost",
+    "Type2": "Ground",
+    "BaseHP": 4,
+    "Strength": 2,
+    "MaxStrength": 5,
+    "Dexterity": 1,
+    "MaxDexterity": 3,
+    "Vitality": 3,
+    "MaxVitality": 6,
+    "Special": 3,
+    "MaxSpecial": 6,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Water Compaction",
+    "Ability2": "",
+    "HiddenAbility": "Sand Veil",
+    "EventAbilities": "",
+    "RecommendedRank": "Ace",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "palossand",
+    "DexCategory": "Sand Castle Pokemon",
+    "Height": {
+        "Meters": 1.3,
+        "Feet": 4.3
+    },
+    "Weight": {
+        "Kilograms": 250.0,
+        "Pounds": 551.2
+    },
+    "DexDescription": "The possessed people shaped this Pokemon into a castle, buried beneath the sand where it stands are the remains of all its victims. Some say these unmarked graves will give birth to a new Sandygast.",
+    "Evolutions": [
+        {
+            "From": "Sandygast",
+            "Kind": "Level",
+            "Speed": "Slow"
+        }
+    ],
+    "Image": "palossand.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Harden"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Absorb"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Astonish"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Sand Attack"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Sand Tomb"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Mega Drain"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Bulldoze"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Hypnosis"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Iron Defense"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Giga Drain"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Shadow Ball"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Earth Power"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Shore Up"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Sandstorm"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Rock Polish"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Destiny Bond"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Earthquake"
+        }
+    ]
+}

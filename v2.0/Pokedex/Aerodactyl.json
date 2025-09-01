@@ -1,0 +1,123 @@
+{
+    "Number": 142,
+    "DexID": "0142",
+    "Name": "Aerodactyl",
+    "Type1": "Rock",
+    "Type2": "Flying",
+    "BaseHP": 4,
+    "Strength": 3,
+    "MaxStrength": 6,
+    "Dexterity": 3,
+    "MaxDexterity": 7,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Rock Head",
+    "Ability2": "Pressure",
+    "HiddenAbility": "Unnerve",
+    "EventAbilities": "",
+    "RecommendedRank": "Ace",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "aerodactyl",
+    "DexCategory": "Fossil Pokemon",
+    "Height": {
+        "Meters": 1.8,
+        "Feet": 5.9
+    },
+    "Weight": {
+        "Kilograms": 59.0,
+        "Pounds": 130.1
+    },
+    "DexDescription": "A vicious Pokemon from the distant past. It appears to have flown by spreading its wings and gliding. One has been revived from a fossil. It\u2019s very dangerous; it attacks with the intent to tear apart its victims.",
+    "Evolutions": [
+        {
+            "To": "Aerodactyl (Mega Form)",
+            "Kind": "Mega",
+            "Item": "Aerodactylite"
+        }
+    ],
+    "Image": "aerodactyl.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Wing Attack"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Supersonic"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Bite"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Scary Face"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Take Down"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Ice Fang"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Thunder Fang"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Fire Fang"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Roar"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Agility"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Crunch"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Iron Head"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Sky Drop"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Hyper Beam"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Rock Slide"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Giga Impact"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Dragon Breath"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Roost"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Aqua Tail"
+        }
+    ]
+}

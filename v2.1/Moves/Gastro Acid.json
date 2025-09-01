@@ -1,0 +1,23 @@
+{
+    "Name": "Gastro Acid",
+    "Type": "Poison",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Special",
+    "Accuracy2": "Channel",
+    "Target": "Foe",
+    "Effect": "Until the end of the Scene, eliminate any effect the foe's Ability would do.",
+    "Description": "The user spits some of its own gastric juices, the acid prevents the foe from using its special abilities.",
+    "_id": "gastro-acid",
+    "Attributes": {},
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "SuppressAbility",
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Support"
+}

@@ -1,0 +1,27 @@
+{
+    "Name": "Energy Ball",
+    "Type": "Grass",
+    "Power": 3,
+    "Damage1": "Special",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Channel",
+    "Target": "Foe",
+    "Effect": "Roll 1 Chance Dice to Reduce foe's Sp. Defense.",
+    "Description": "The Pokemon gathers nature's energy in a ball and hurls it at the foe. Trees and bushes may be left opaque and sad.",
+    "_id": "energy-ball",
+    "Attributes": {},
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "SpDef"
+                ],
+                "Stages": -1,
+                "ChanceDice": 1,
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Special"
+}

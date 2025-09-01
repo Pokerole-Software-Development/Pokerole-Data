@@ -1,0 +1,119 @@
+{
+    "Number": 239,
+    "DexID": "0239",
+    "Name": "Elekid",
+    "Type1": "Electric",
+    "Type2": "",
+    "BaseHP": 3,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 3,
+    "MaxDexterity": 6,
+    "Vitality": 1,
+    "MaxVitality": 3,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Static",
+    "Ability2": "Vital Spirit",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Rookie",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "elekid",
+    "DexCategory": "Electric Pokémon",
+    "Height": {
+        "Meters": 0.6,
+        "Feet": 2.0
+    },
+    "Weight": {
+        "Kilograms": 23.5,
+        "Pounds": 51.8
+    },
+    "DexDescription": "They follow storms and bad weather. Elekid rotate their arms constantly to charge electricity. Beware, there is an electric current between their horns that may zap you if you touch them.",
+    "Evolutions": [
+        {
+            "To": "Electabuzz",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "elekid.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Quick Attack"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Leer"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Thunder Shock"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Low Kick"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Charge"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Shock Wave"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Swift"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Electro Ball"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Thunder Wave"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Thunder Punch"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Light Screen"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Screech"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Discharge"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Thunderbolt"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Thunder"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Fire Punch"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Karate Chop"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Meditate"
+        }
+    ]
+}

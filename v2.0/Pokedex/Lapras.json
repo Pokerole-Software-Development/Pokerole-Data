@@ -1,0 +1,113 @@
+{
+    "Number": 131,
+    "DexID": "0131",
+    "Name": "Lapras",
+    "Type1": "Water",
+    "Type2": "Ice",
+    "BaseHP": 6,
+    "Strength": 2,
+    "MaxStrength": 5,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 2,
+    "MaxSpecial": 5,
+    "Insight": 3,
+    "MaxInsight": 6,
+    "Ability1": "Water Absorb",
+    "Ability2": "Shell Armor",
+    "HiddenAbility": "Hydration",
+    "EventAbilities": "",
+    "RecommendedRank": "Amateur",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "lapras",
+    "DexCategory": "Transport Pokemon",
+    "Height": {
+        "Meters": 2.5,
+        "Feet": 8.2
+    },
+    "Weight": {
+        "Kilograms": 220.0,
+        "Pounds": 485.0
+    },
+    "DexDescription": "People have driven Lapras near the point of extinction. In the evenings, this Pokemon is said to sing as it seeks what few others of its kind still remain. Their gentle nature has made them easy to lure and catch.",
+    "Evolutions": [],
+    "Image": "lapras.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Sing"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Growl"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Water Gun"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Mist"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Confuse Ray"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Ice Shard"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Water Pulse"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Body Slam"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Rain Dance"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Brine"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Ice Beam"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Perish Song"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Safeguard"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Hydro Pump"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Sheer Cold"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Dragon Dance"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Freeze Dry"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Outrage"
+        }
+    ]
+}

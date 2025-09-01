@@ -1,0 +1,25 @@
+{
+    "Name": "Block",
+    "Type": "Normal",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "Blocks.",
+    "Description": "The user moves swiftly, blocking the escape routes of the foe.",
+    "_id": "block",
+    "Attributes": {
+        "BlockDamagePool": 0
+    },
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Block",
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Support"
+}

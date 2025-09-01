@@ -1,0 +1,16 @@
+{
+    "Name": "Power Trip",
+    "Type": "Dark",
+    "Power": 1,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "Add 1 Dice to the Damage Pool of this Move for every Attribute increase the user has. Up to 7 Dice may be added this way. (ie. the user has 2 increased points on Defense, add 2 Damage dice).",
+    "Description": "In the heat of the battle, the Pokemon gets carried away, relishing in its own power.",
+    "_id": "power-trip",
+    "Attributes": {},
+    "AddedEffects": {},
+    "Category": "Physical"
+}

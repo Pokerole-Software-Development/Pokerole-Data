@@ -1,0 +1,99 @@
+{
+    "Number": 443,
+    "DexID": "0443",
+    "Name": "Gible",
+    "Type1": "Dragon",
+    "Type2": "Ground",
+    "BaseHP": 3,
+    "Strength": 2,
+    "MaxStrength": 5,
+    "Dexterity": 1,
+    "MaxDexterity": 3,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 1,
+    "MaxSpecial": 3,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Sand Veil",
+    "Ability2": "",
+    "HiddenAbility": "Rough Skin",
+    "EventAbilities": "",
+    "RecommendedRank": "Amateur",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "gible",
+    "DexCategory": "Land Shark Pokemon",
+    "Height": {
+        "Meters": 0.7,
+        "Feet": 2.3
+    },
+    "Weight": {
+        "Kilograms": 20.5,
+        "Pounds": 45.2
+    },
+    "DexDescription": "It digs tunnels and follows prey while burrowed underground. If you see the fin on its back coming out the ground it means it is about to attack. It\u2019s very aggressive but kind of clumsy. Beware of its big jaws.",
+    "Evolutions": [
+        {
+            "To": "Gabite",
+            "Kind": "Level",
+            "Speed": "Slow"
+        }
+    ],
+    "Image": "gible.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Sand Attack"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Dragon Rage"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Sandstorm"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Take Down"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Sand Tomb"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Slash"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Dragon Claw"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Dig"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Dragon Rush"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Scary Face"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Draco Meteor"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Iron Head"
+        }
+    ]
+}

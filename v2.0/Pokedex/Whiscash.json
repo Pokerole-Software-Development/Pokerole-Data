@@ -1,0 +1,135 @@
+{
+    "Number": 340,
+    "DexID": "0340",
+    "Name": "Whiscash",
+    "Type1": "Water",
+    "Type2": "Ground",
+    "BaseHP": 5,
+    "Strength": 2,
+    "MaxStrength": 5,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 2,
+    "MaxSpecial": 5,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Oblivious",
+    "Ability2": "Anticipation",
+    "HiddenAbility": "Hydration",
+    "EventAbilities": "",
+    "RecommendedRank": "Amateur",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "whiscash",
+    "DexCategory": "Whiskers Pokemon",
+    "Height": {
+        "Meters": 0.9,
+        "Feet": 3.0
+    },
+    "Weight": {
+        "Kilograms": 23.6,
+        "Pounds": 52.0
+    },
+    "DexDescription": "Dangerous and territorial, they claim entire ponds as their homes and will crush whoever dares to dive in with earthquakes. They eat anything alive in their pond or swamp. They have learned to foretell real tremors.",
+    "Evolutions": [
+        {
+            "From": "Barboach",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "whiscash.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Mud Slap"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Tickle"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Mud Sport"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Water Sport"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Water Gun"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Belch"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Mud Bomb"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Amnesia"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Water Pulse"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Magnitude"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Rest"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Snore"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Aqua Tail"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Thrash"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Zen Headbutt"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Earthquake"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Muddy Water"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Future Sight"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Fissure"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Dragon Dance"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Bounce"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Spark"
+        }
+    ]
+}

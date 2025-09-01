@@ -1,0 +1,127 @@
+{
+    "Number": 569,
+    "DexID": "0569",
+    "Name": "Garbodor",
+    "Type1": "Poison",
+    "Type2": "",
+    "BaseHP": 4,
+    "Strength": 3,
+    "MaxStrength": 6,
+    "Dexterity": 2,
+    "MaxDexterity": 5,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Stench",
+    "Ability2": "Weak Armor",
+    "HiddenAbility": "Aftermath",
+    "EventAbilities": "",
+    "RecommendedRank": "Amateur",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "garbodor",
+    "DexCategory": "Trash Heap Pokemon",
+    "Height": {
+        "Meters": 1.9,
+        "Feet": 6.2
+    },
+    "Weight": {
+        "Kilograms": 107.3,
+        "Pounds": 236.6
+    },
+    "DexDescription": "They absorb garbage to make it part of their bodies and use it to produce toxic substances from their finger tips. They like to remain undisturbed and produce a terrible smell to repel others.",
+    "Evolutions": [
+        {
+            "From": "Trubbish",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "garbodor.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Pound"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Poison Gas"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Recycle"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Toxic Spikes"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Acid Spray"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Double Slap"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Sludge"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Stockpile"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Swallow"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Body Slam"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Sludge Bomb"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Clear Smog"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Toxic"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Amnesia"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Belch"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Gunk Shot"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Explosion"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Drain Punch"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Spikes"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Rollout"
+        }
+    ]
+}

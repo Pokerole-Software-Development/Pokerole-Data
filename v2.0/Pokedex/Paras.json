@@ -1,0 +1,107 @@
+{
+    "Number": 46,
+    "DexID": "0046",
+    "Name": "Paras",
+    "Type1": "Bug",
+    "Type2": "Grass",
+    "BaseHP": 3,
+    "Strength": 2,
+    "MaxStrength": 5,
+    "Dexterity": 1,
+    "MaxDexterity": 3,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Effect Spore",
+    "Ability2": "Dry Skin",
+    "HiddenAbility": "Damp",
+    "EventAbilities": "",
+    "RecommendedRank": "Beginner",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "paras",
+    "DexCategory": "Mushroom Pokemon",
+    "Height": {
+        "Meters": 0.3,
+        "Feet": 1.0
+    },
+    "Weight": {
+        "Kilograms": 5.4,
+        "Pounds": 11.9
+    },
+    "DexDescription": "Paras has two parasitic mushrooms growing on its back. They grow large by drawing nutrients from this Bug Pokemon. They are valued as a medicine for prolonging life. Paras can be found in humid areas.",
+    "Evolutions": [
+        {
+            "To": "Parasect",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "paras.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Scratch"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Stun Spore"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Poison Powder"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Absorb"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Fury Cutter"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Spore"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Slash"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Growth"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Giga Drain"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Aromatherapy"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Rage Powder"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "X-Scissor"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Wide Guard"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Rototiller"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Leech Seed"
+        }
+    ]
+}

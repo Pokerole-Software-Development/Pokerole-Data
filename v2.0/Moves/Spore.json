@@ -1,0 +1,23 @@
+{
+    "Name": "Spore",
+    "Type": "Grass",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Special",
+    "Accuracy2": "Nature",
+    "Target": "Foe",
+    "Effect": "Put the Target to Sleep.",
+    "Description": "A powerful somniferous spore that is shot at the target to make it fall asleep.",
+    "_id": "spore",
+    "Attributes": {},
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Sleep",
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Support"
+}

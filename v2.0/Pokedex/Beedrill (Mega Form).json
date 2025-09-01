@@ -1,0 +1,111 @@
+{
+    "Number": 15,
+    "DexID": "0015M1",
+    "Name": "Beedrill (Mega Form)",
+    "Type1": "Bug",
+    "Type2": "Poison",
+    "BaseHP": 6,
+    "Strength": 4,
+    "MaxStrength": 8,
+    "Dexterity": 4,
+    "MaxDexterity": 8,
+    "Vitality": 1,
+    "MaxVitality": 3,
+    "Special": 1,
+    "MaxSpecial": 2,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Adaptability",
+    "Ability2": "",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Ace",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "beedrill-mega-form",
+    "DexCategory": "Poison Bee Pokemon",
+    "Height": {
+        "Meters": 1.4,
+        "Feet": 4.6
+    },
+    "Weight": {
+        "Kilograms": 40.5,
+        "Pounds": 89.3
+    },
+    "DexDescription": "With the power of the Mega Stone all of its limbs are now powerful stingers. Their attack can be really vicious stinging and piercing its foe repeatedly until the finishing blow with the sting on its rear.",
+    "Evolutions": [
+        {
+            "From": "Beedrill",
+            "Kind": "Mega",
+            "Item": "Beedrillite"
+        }
+    ],
+    "Image": "beedrill-mega-form.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Fury Attack"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Focus Energy"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Twineedle"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Rage"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Pursuit"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Venoshock"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Toxic Spikes"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Pin Missile"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Agility"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Assurance"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Poison Jab"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Ominous Wind"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Fell Stinger"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Drill Run"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Tailwind"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Endeavor"
+        }
+    ]
+}

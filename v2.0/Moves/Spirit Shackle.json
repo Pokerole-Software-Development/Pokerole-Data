@@ -1,0 +1,25 @@
+{
+    "Name": "Spirit Shackle",
+    "Type": "Ghost",
+    "Power": 3,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "Blocks.",
+    "Description": "While attacking, the user sneakily binds its foe's shadow to the ground, restricting its movement and making it unable to escape.",
+    "_id": "spirit-shackle",
+    "Attributes": {
+        "BlockDamagePool": 0
+    },
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Block",
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Physical"
+}

@@ -1,0 +1,95 @@
+{
+    "Number": 833,
+    "DexID": "0833",
+    "Name": "Chewtle",
+    "Type1": "Water",
+    "Type2": "",
+    "BaseHP": 3,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 1,
+    "MaxDexterity": 3,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 1,
+    "MaxSpecial": 3,
+    "Insight": 1,
+    "MaxInsight": 3,
+    "Ability1": "Strong Jaw",
+    "Ability2": "Shell Armor",
+    "HiddenAbility": "Swift Swim",
+    "EventAbilities": "",
+    "RecommendedRank": "Beginner",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "chewtle",
+    "DexCategory": "Snapping Pokemon",
+    "Height": {
+        "Meters": 0.3,
+        "Feet": 1.0
+    },
+    "Weight": {
+        "Kilograms": 8.5,
+        "Pounds": 18.7
+    },
+    "DexDescription": "It uses its horn as its primary weapon, but it has a reputation as a biter. Apparently its gums are itchy and the only way to soothe them is biting and chewing on stuff. It is kinda cranky but relatively harmless.",
+    "Evolutions": [
+        {
+            "To": "Drednaw",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "chewtle.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Water Gun"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Bite"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Protect"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Headbutt"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Counter"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Jaw Lock"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Liquidation"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Body Slam"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Ice Fang"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Gastro Acid"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Dragon Tail"
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "Name": "Focus Blast",
+    "Type": "Fighting",
+    "Power": 5,
+    "Damage1": "Special",
+    "Damage2": "",
+    "Accuracy1": "Special",
+    "Accuracy2": "Channel",
+    "Target": "Foe",
+    "Effect": "Roll 1 Chance Dice to Reduce foe's Sp. Defense. -2 Accuracy.",
+    "Description": "The user concentrates and releases a blast of energy.",
+    "_id": "focus-blast",
+    "Attributes": {
+        "AccuracyReduction": 2
+    },
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "SpDef"
+                ],
+                "Stages": -1,
+                "ChanceDice": 1,
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Special"
+}

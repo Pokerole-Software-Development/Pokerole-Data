@@ -1,0 +1,115 @@
+{
+    "Number": 363,
+    "DexID": "0363",
+    "Name": "Spheal",
+    "Type1": "Ice",
+    "Type2": "Water",
+    "BaseHP": 3,
+    "Strength": 1,
+    "MaxStrength": 3,
+    "Dexterity": 1,
+    "MaxDexterity": 3,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Thick Fat",
+    "Ability2": "Ice Body",
+    "HiddenAbility": "Oblivious",
+    "EventAbilities": "",
+    "RecommendedRank": "Starter",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "spheal",
+    "DexCategory": "Clap Pokemon",
+    "Height": {
+        "Meters": 0.8,
+        "Feet": 2.6
+    },
+    "Weight": {
+        "Kilograms": 39.5,
+        "Pounds": 87.1
+    },
+    "DexDescription": "They live in big herds with their families. They are bad swimmers but good floaters. To move on land, they roll like balls instead of walking. When they are happy, they clap and squeal, so they can be really noisy.",
+    "Evolutions": [
+        {
+            "To": "Sealeo",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "spheal.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Defense Curl"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Growl"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Powder Snow"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Water Gun"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Encore"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Ice Ball"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Body Slam"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Brine"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Aurora Beam"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Hail"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Rest"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Snore"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Blizzard"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Sheer Cold"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Dive"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Rollout"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Endure"
+        }
+    ]
+}

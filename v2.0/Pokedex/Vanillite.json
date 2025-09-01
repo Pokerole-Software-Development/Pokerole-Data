@@ -1,0 +1,119 @@
+{
+    "Number": 582,
+    "DexID": "0582",
+    "Name": "Vanillite",
+    "Type1": "Ice",
+    "Type2": "",
+    "BaseHP": 3,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 1,
+    "MaxDexterity": 3,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Ice Body",
+    "Ability2": "Snow Cloak",
+    "HiddenAbility": "Weak Armor",
+    "EventAbilities": "",
+    "RecommendedRank": "Beginner",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "vanillite",
+    "DexCategory": "Fresh Snow Pokemon",
+    "Height": {
+        "Meters": 0.4,
+        "Feet": 1.3
+    },
+    "Weight": {
+        "Kilograms": 5.7,
+        "Pounds": 12.6
+    },
+    "DexDescription": "This Pokemon were born from icicles that bathed in the energy of the morning sun. It uses snow to cover its head and protect it from melting. They are playful and love to make snow fall around them.",
+    "Evolutions": [
+        {
+            "To": "Vanillish",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "vanillite.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Icicle Spear"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Harden"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Astonish"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Uproar"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Icy Wind"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Mist"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Avalanche"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Taunt"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Mirror Shot"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Acid Armor"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Ice Beam"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Hail"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Mirror Coat"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Blizzard"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Sheer Cold"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Ice Shard"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Autotomize"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Water Pulse"
+        }
+    ]
+}

@@ -1,0 +1,91 @@
+{
+    "Number": 549,
+    "DexID": "0549",
+    "Name": "Lilligant",
+    "Type1": "Grass",
+    "Type2": "",
+    "BaseHP": 4,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 2,
+    "MaxDexterity": 5,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 3,
+    "MaxSpecial": 6,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Chlorophyll",
+    "Ability2": "Own Tempo",
+    "HiddenAbility": "Leaf Guard",
+    "EventAbilities": "",
+    "RecommendedRank": "Amateur",
+    "GenderType": "F",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "lilligant",
+    "DexCategory": "Flowering Pokemon",
+    "Height": {
+        "Meters": 1.1,
+        "Feet": 3.6
+    },
+    "Weight": {
+        "Kilograms": 16.3,
+        "Pounds": 35.9
+    },
+    "DexDescription": "Even veteran gardeners face a challenge in getting its beautiful flower to bloom as it withers with ease. This Pokemon is popular among celebrities due to it\u2019s grace, elegance and delicious aroma.",
+    "Evolutions": [
+        {
+            "From": "Petilil",
+            "Kind": "Stone",
+            "Item": "Sun Stone"
+        }
+    ],
+    "Image": "lilligant.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Growth"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Leech Seed"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Mega Drain"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Synthesis"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Teeter Dance"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Petal Dance"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Quiver Dance"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Petal Blizzard"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Sweet Scent"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Healing Wish"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Ingrain"
+        }
+    ]
+}

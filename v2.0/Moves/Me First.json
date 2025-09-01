@@ -1,0 +1,18 @@
+{
+    "Name": "Me First",
+    "Type": "Normal",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "Priority 1. The User copies and uses the Move the target was intending to use. It must be a damaging Move.",
+    "Description": "The user anticipates the next attack so it can hit the target with an astounding speed.",
+    "_id": "me-first",
+    "Attributes": {
+        "Priority": 1
+    },
+    "AddedEffects": {},
+    "Category": "Support"
+}

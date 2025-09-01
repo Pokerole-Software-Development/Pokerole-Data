@@ -1,0 +1,123 @@
+{
+    "Number": 65,
+    "DexID": "0065",
+    "Name": "Alakazam",
+    "Type1": "Psychic",
+    "Type2": "",
+    "BaseHP": 5,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 3,
+    "MaxDexterity": 7,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 3,
+    "MaxSpecial": 7,
+    "Insight": 3,
+    "MaxInsight": 6,
+    "Ability1": "Synchronize",
+    "Ability2": "Inner Focus",
+    "HiddenAbility": "Magic Guard",
+    "EventAbilities": "",
+    "RecommendedRank": "Ace",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "alakazam",
+    "DexCategory": "Psi Pokemon",
+    "Height": {
+        "Meters": 1.5,
+        "Feet": 4.9
+    },
+    "Weight": {
+        "Kilograms": 48.0,
+        "Pounds": 105.8
+    },
+    "DexDescription": "A Pokemon that can memorize anything and never forgets what it learns. Over time it becomes too smart to allow anyone to be its master. Alakazam's psychic powers can be terrifying.",
+    "Evolutions": [
+        {
+            "From": "Kadabra",
+            "Kind": "Trade"
+        },
+        {
+            "To": "Alakazam (Mega Form)",
+            "Kind": "Mega",
+            "Item": "Alakazite"
+        }
+    ],
+    "Image": "alakazam.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Teleport"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Kinesis"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Confusion"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Disable"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Miracle Eye"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Ally Switch"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Psybeam"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Reflect"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Telekinesis"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Role Play"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Psycho Cut"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Recover"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Psychic"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Future Sight"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Trick"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Snatch"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Foul Play"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Wonder Room"
+        }
+    ]
+}

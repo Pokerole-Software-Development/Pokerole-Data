@@ -1,0 +1,120 @@
+{
+    "Number": 394,
+    "DexID": "0394",
+    "Name": "Prinplup",
+    "Type1": "Water",
+    "Type2": "",
+    "BaseHP": 4,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 2,
+    "MaxSpecial": 5,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Torrent",
+    "Ability2": "",
+    "HiddenAbility": "Defiant",
+    "EventAbilities": "",
+    "RecommendedRank": "Amateur",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "prinplup",
+    "DexCategory": "Penguin Pokemon",
+    "Height": {
+        "Meters": 0.8,
+        "Feet": 2.6
+    },
+    "Weight": {
+        "Kilograms": 23.0,
+        "Pounds": 50.7
+    },
+    "DexDescription": "Prinplups hunt in icy seas. They live solitary lives because they cannot stand company and will never form a group or a team. They believe they are the most important thing in the world, it\u2019s almost irritating.",
+    "Evolutions": [
+        {
+            "From": "Piplup",
+            "Kind": "Level",
+            "Speed": "Medium"
+        },
+        {
+            "To": "Empoleon",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "prinplup.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Growl"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Bubble"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Water Sport"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Peck"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Metal Claw"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Bubble Beam"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Bide"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Fury Attack"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Brine"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Whirlpool"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Mist"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Drill Peck"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Hydro Pump"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Agility"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Feather Dance"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Water Pledge"
+        }
+    ]
+}

@@ -1,0 +1,122 @@
+{
+    "Number": 641,
+    "DexID": "0641",
+    "Name": "Tornadus",
+    "Type1": "Flying",
+    "Type2": "",
+    "BaseHP": 4,
+    "Strength": 6,
+    "MaxStrength": 6,
+    "Dexterity": 6,
+    "MaxDexterity": 6,
+    "Vitality": 5,
+    "MaxVitality": 5,
+    "Special": 7,
+    "MaxSpecial": 7,
+    "Insight": 5,
+    "MaxInsight": 5,
+    "Ability1": "Prankster",
+    "Ability2": "",
+    "HiddenAbility": "Defiant",
+    "EventAbilities": "",
+    "RecommendedRank": "Master",
+    "GenderType": "M",
+    "Legendary": true,
+    "GoodStarter": false,
+    "_id": "tornadus",
+    "DexCategory": "No Data",
+    "Height": {
+        "Meters": 1.5,
+        "Feet": 4.9
+    },
+    "Weight": {
+        "Kilograms": 63.0,
+        "Pounds": 138.9
+    },
+    "DexDescription": "Unova suffers from terrible tornadoes and devastating wind currents that leave houses and buildings in ruins. Some people claim a Pokemon riding the winds is responsible for all the devastation.",
+    "Evolutions": [
+        {
+            "To": "Tornadus (Therian Form)",
+            "Kind": "Form"
+        }
+    ],
+    "Image": "tornadus.png",
+    "Moves": [
+        {
+            "Learned": "Master",
+            "Name": "Uproar"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Astonish"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Gust"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Swagger"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Bite"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Revenge"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Air Cutter"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Extrasensory"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Agility"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Air Slash"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Crunch"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Tailwind"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Rain Dance"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Hurricane"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Dark Pulse"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Hammer Arm"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Thrash"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Whirlwind"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Defog"
+        }
+    ]
+}

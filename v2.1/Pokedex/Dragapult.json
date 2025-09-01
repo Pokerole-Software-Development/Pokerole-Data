@@ -1,0 +1,151 @@
+{
+    "Number": 887,
+    "DexID": "0887",
+    "Name": "Dragapult",
+    "Type1": "Dragon",
+    "Type2": "Ghost",
+    "BaseHP": 6,
+    "Strength": 3,
+    "MaxStrength": 7,
+    "Dexterity": 3,
+    "MaxDexterity": 7,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 3,
+    "MaxSpecial": 6,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Clear Body",
+    "Ability2": "Infiltrator",
+    "HiddenAbility": "Cursed Body",
+    "EventAbilities": "",
+    "RecommendedRank": "Expert",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "dragapult",
+    "DexCategory": "Stealth Pokémon",
+    "Height": {
+        "Meters": 3.0,
+        "Feet": 9.8
+    },
+    "Weight": {
+        "Kilograms": 50.0,
+        "Pounds": 110.2
+    },
+    "DexDescription": "When it isn't battling, it keeps Dreepy in the holes in its horns. Once a fight starts, it launches the Dreepy like supersonic missiles. The smaller Pokémon appear happy to be shot and will reload themselves.",
+    "Evolutions": [
+        {
+            "From": "Drakloak",
+            "Kind": "Level",
+            "Speed": "Slow"
+        }
+    ],
+    "Image": "dragapult.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Astonish"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Infestation"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Quick Attack"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Bite"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Lock-On"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Assurance"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Hex"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Agility"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Double Hit"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "U-Turn"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Light Screen"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Reflect"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Dragon Dance"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Dragon Breath"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Dragon Darts"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Sucker Punch"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Dragon Pulse"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Tri Attack"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Phantom Force"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Beat Up"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Dragon Rush"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Double-Edge"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Last Resort"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Psychic Fangs"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Substitute"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Draco Meteor"
+        }
+    ]
+}

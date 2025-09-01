@@ -1,0 +1,119 @@
+{
+    "Number": 868,
+    "DexID": "0868",
+    "Name": "Milcery",
+    "Type1": "Fairy",
+    "Type2": "",
+    "BaseHP": 3,
+    "Strength": 1,
+    "MaxStrength": 3,
+    "Dexterity": 1,
+    "MaxDexterity": 3,
+    "Vitality": 1,
+    "MaxVitality": 3,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Sweet Veil",
+    "Ability2": "Aroma Veil",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Starter",
+    "GenderType": "F",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "milcery",
+    "DexCategory": "Cream Pokémon",
+    "Height": {
+        "Meters": 0.2,
+        "Feet": 0.7
+    },
+    "Weight": {
+        "Kilograms": 0.3,
+        "Pounds": 0.7
+    },
+    "DexDescription": "This Pokémon was born from sweet-smelling particles in the air; its body is made of cream. Finding one in your kitchen means good fortune. Give them berries and whip them with a whisk so they can evolve.",
+    "Evolutions": [
+        {
+            "To": "Alcremie",
+            "Kind": "Special",
+            "Special": "Berry & Whisk"
+        }
+    ],
+    "Image": "milcery.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Aromatic Mist"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Sweet Kiss"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Sweet Scent"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Draining Kiss"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Aromatherapy"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Helping Hand"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Fling"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Attract"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Acid Armor"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Dazzling Gleam"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Recover"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Misty Terrain"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Baby-Doll Eyes"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Entrainment"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Milk Drink"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Rapid Spin"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Egg Bomb"
+        }
+    ]
+}

@@ -1,0 +1,115 @@
+{
+    "Number": 165,
+    "DexID": "0165",
+    "Name": "Ledyba",
+    "Type1": "Bug",
+    "Type2": "Flying",
+    "BaseHP": 3,
+    "Strength": 1,
+    "MaxStrength": 3,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 1,
+    "MaxVitality": 3,
+    "Special": 1,
+    "MaxSpecial": 3,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Swarm",
+    "Ability2": "Early Bird",
+    "HiddenAbility": "Rattled",
+    "EventAbilities": "",
+    "RecommendedRank": "Beginner",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "ledyba",
+    "DexCategory": "Five Star Pokemon",
+    "Height": {
+        "Meters": 1.0,
+        "Feet": 3.3
+    },
+    "Weight": {
+        "Kilograms": 10.8,
+        "Pounds": 23.8
+    },
+    "DexDescription": "These timid Pokemon swarm in groups to keep each other warm during the winter. It communicates with others through a special scent. They often appear covered in the morning dew.",
+    "Evolutions": [
+        {
+            "To": "Ledian",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "ledyba.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Supersonic"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Comet Punch"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Light Screen"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Reflect"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Safeguard"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Mach Punch"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Baton Pass"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Silver Wind"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Agility"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Air Slash"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Swift"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Double-Edge"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Bug Buzz"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Giga Drain"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Screech"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Tailwind"
+        }
+    ]
+}

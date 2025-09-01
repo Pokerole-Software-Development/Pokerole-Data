@@ -1,0 +1,131 @@
+{
+    "Number": 73,
+    "DexID": "0073",
+    "Name": "Tentacruel",
+    "Type1": "Water",
+    "Type2": "Poison",
+    "BaseHP": 5,
+    "Strength": 2,
+    "MaxStrength": 5,
+    "Dexterity": 3,
+    "MaxDexterity": 6,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 2,
+    "MaxSpecial": 5,
+    "Insight": 3,
+    "MaxInsight": 7,
+    "Ability1": "Clear Body",
+    "Ability2": "Liquid Ooze",
+    "HiddenAbility": "Rain Dish",
+    "EventAbilities": "",
+    "RecommendedRank": "Amateur",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "tentacruel",
+    "DexCategory": "Jellyfish Pokemon",
+    "Height": {
+        "Meters": 1.6,
+        "Feet": 5.2
+    },
+    "Weight": {
+        "Kilograms": 55.0,
+        "Pounds": 121.3
+    },
+    "DexDescription": "Lives in rock formations at the bottom of the ocean. It can grow tentacles at will and uses them to immobilize prey. Records exist of a giant Tentacruel that sunk a fleet of pirate ships filled with treasure.",
+    "Evolutions": [
+        {
+            "From": "Tentacool",
+            "Kind": "Level",
+            "Speed": "Slow"
+        }
+    ],
+    "Image": "tentacruel.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Poison Sting"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Supersonic"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Constrict"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Acid"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Brine"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Poison Jab"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Toxic Spikes"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Bubble Beam"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Wrap"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Acid Spray"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Barrier"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Water Pulse"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Reflect Type"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Wring Out"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Screech"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Hex"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Hydro Pump"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Sludge Wave"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Giga Drain"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Mirror Coat"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Aqua Ring"
+        }
+    ]
+}

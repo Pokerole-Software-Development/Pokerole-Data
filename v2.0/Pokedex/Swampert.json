@@ -1,0 +1,124 @@
+{
+    "Number": 260,
+    "DexID": "0260",
+    "Name": "Swampert",
+    "Type1": "Water",
+    "Type2": "Ground",
+    "BaseHP": 6,
+    "Strength": 3,
+    "MaxStrength": 6,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 2,
+    "MaxSpecial": 5,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Torrent",
+    "Ability2": "",
+    "HiddenAbility": "Damp",
+    "EventAbilities": "",
+    "RecommendedRank": "Ace",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "swampert",
+    "DexCategory": "Mud Fish Pokemon",
+    "Height": {
+        "Meters": 1.5,
+        "Feet": 4.9
+    },
+    "Weight": {
+        "Kilograms": 81.9,
+        "Pounds": 180.6
+    },
+    "DexDescription": "They have an incredible sight that allows them to see in muddy water. They nest in beaches, and shield their young with their strong arms. When a storm is coming, Swamperts build a fort with big rocks.",
+    "Evolutions": [
+        {
+            "From": "Marshtomp",
+            "Kind": "Level",
+            "Speed": "Medium"
+        },
+        {
+            "To": "Swampert (Mega Form)",
+            "Kind": "Mega",
+            "Item": "Swampertite"
+        }
+    ],
+    "Image": "swampert.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Growl"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Mud Slap"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Water Gun"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Take Down"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Bide"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Mud Shot"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Foresight"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Mud Bomb"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Rock Slide"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Muddy Water"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Hammer Arm"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Protect"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Earthquake"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Endeavor"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Wide Guard"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Hydro Cannon"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Avalanche"
+        }
+    ]
+}

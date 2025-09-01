@@ -1,0 +1,121 @@
+{
+    "Number": 701,
+    "DexID": "0701",
+    "Name": "Hawlucha",
+    "Type1": "Fighting",
+    "Type2": "Flying",
+    "BaseHP": 4,
+    "Strength": 2,
+    "MaxStrength": 5,
+    "Dexterity": 3,
+    "MaxDexterity": 6,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 2,
+    "MaxSpecial": 5,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Limber",
+    "Ability2": "Unburden",
+    "HiddenAbility": "Mold Breaker",
+    "EventAbilities": "",
+    "RecommendedRank": "Amateur",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "hawlucha",
+    "DexCategory": "Wrestling Pokemon",
+    "Height": {
+        "Meters": 0.8,
+        "Feet": 2.6
+    },
+    "Weight": {
+        "Kilograms": 21.5,
+        "Pounds": 47.4
+    },
+    "DexDescription": "Although small in size, its proficient fighting skills enable it to keep up with big bruisers like Machamp and Hariyama. Using its wings to attack from above allows it to gain an edge in battle.",
+    "Evolutions": [],
+    "Image": "hawlucha.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Detect"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Hone Claws"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Karate Chop"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Wing Attack"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Roost"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Aerial Ace"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Encore"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Fling"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Flying Press"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Bounce"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Endeavor"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Feather Dance"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "High Jump Kick"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Sky Attack"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Sky Drop"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Swords Dance"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Thunder Punch"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Dual Chop"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Tailwind"
+        }
+    ]
+}

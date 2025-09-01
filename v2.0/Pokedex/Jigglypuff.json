@@ -1,0 +1,133 @@
+{
+    "Number": 39,
+    "DexID": "0039",
+    "Name": "Jigglypuff",
+    "Type1": "Normal",
+    "Type2": "Fairy",
+    "BaseHP": 4,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 1,
+    "MaxDexterity": 3,
+    "Vitality": 1,
+    "MaxVitality": 3,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 1,
+    "MaxInsight": 3,
+    "Ability1": "Cute Charm",
+    "Ability2": "Competitive",
+    "HiddenAbility": "Friend Guard",
+    "EventAbilities": "",
+    "RecommendedRank": "Beginner",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "jigglypuff",
+    "DexCategory": "Balloon Pokemon",
+    "Height": {
+        "Meters": 0.5,
+        "Feet": 1.6
+    },
+    "Weight": {
+        "Kilograms": 5.5,
+        "Pounds": 12.1
+    },
+    "DexDescription": "They live in grassy fields near the mountains. To climb they inflate their bodies and bounce up. It captivates foes with its huge, round eyes, then lulls them to sleep by singing a sweet soothing melody.",
+    "Evolutions": [
+        {
+            "From": "Igglybuff",
+            "Kind": "Stat",
+            "Stat": "Happiness",
+            "Value": 4
+        },
+        {
+            "To": "Wigglytuff",
+            "Kind": "Stone",
+            "Item": "Moon Stone"
+        }
+    ],
+    "Image": "jigglypuff.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Sing"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Pound"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Defense Curl"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Play Nice"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Round"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Disable"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Rollout"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Double Slap"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Stockpile"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Spit Up"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Swallow"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Disarming Voice"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Body Slam"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Gyro Ball"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Wake-Up Slap"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Rest"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Hyper Voice"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Mimic"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Double-Edge"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Heal Pulse"
+        }
+    ]
+}

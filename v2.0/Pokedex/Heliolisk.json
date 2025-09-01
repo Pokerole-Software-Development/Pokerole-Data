@@ -1,0 +1,87 @@
+{
+    "Number": 695,
+    "DexID": "0695",
+    "Name": "Heliolisk",
+    "Type1": "Electric",
+    "Type2": "Normal",
+    "BaseHP": 4,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 3,
+    "MaxDexterity": 6,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 3,
+    "MaxSpecial": 6,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Dry Skin",
+    "Ability2": "Sand Veil",
+    "HiddenAbility": "Solar Power",
+    "EventAbilities": "",
+    "RecommendedRank": "Amateur",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "heliolisk",
+    "DexCategory": "Generator Pokemon",
+    "Height": {
+        "Meters": 1.0,
+        "Feet": 3.3
+    },
+    "Weight": {
+        "Kilograms": 21.0,
+        "Pounds": 46.3
+    },
+    "DexDescription": "They flare their frills and generate energy. A single Heliolisk is able to generate enough power to light a skyscraper. Due to this, electricity companies are investing on breeding and research for this species.",
+    "Evolutions": [
+        {
+            "From": "Helioptile",
+            "Kind": "Stone",
+            "Item": "Sun Stone"
+        }
+    ],
+    "Image": "heliolisk.png",
+    "Moves": [
+        {
+            "Learned": "Beginner",
+            "Name": "Charge"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Eerie Impulse"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Quick Attack"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Razor Wind"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Parabolic Charge"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Electrify"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Thunder"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Agility"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Hyper Voice"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Fire Punch"
+        }
+    ]
+}

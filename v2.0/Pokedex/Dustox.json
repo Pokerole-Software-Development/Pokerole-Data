@@ -1,0 +1,107 @@
+{
+    "Number": 269,
+    "DexID": "0269",
+    "Name": "Dustox",
+    "Type1": "Bug",
+    "Type2": "Poison",
+    "BaseHP": 5,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 3,
+    "MaxVitality": 6,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Shield Dust",
+    "Ability2": "",
+    "HiddenAbility": "Compound Eyes",
+    "EventAbilities": "",
+    "RecommendedRank": "Amateur",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "dustox",
+    "DexCategory": "Poison Moth Pokemon",
+    "Height": {
+        "Meters": 1.2,
+        "Feet": 3.9
+    },
+    "Weight": {
+        "Kilograms": 31.6,
+        "Pounds": 69.7
+    },
+    "DexDescription": "They travel in big groups during the night, attracted to bright lights and big cities. Their flight releases a poisonous shining dust that causes mayhem in towns. For this reason people dislike them.",
+    "Evolutions": [
+        {
+            "From": "Cascoon",
+            "Kind": "Level",
+            "Speed": "Fast"
+        }
+    ],
+    "Image": "dustox.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Confusion"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Gust"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Protect"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Moonlight"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Venoshock"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Psybeam"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Whirlwind"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Light Screen"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Silver Wind"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Toxic"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Bug Buzz"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Quiver Dance"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Air Cutter"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Swift"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Twister"
+        }
+    ]
+}

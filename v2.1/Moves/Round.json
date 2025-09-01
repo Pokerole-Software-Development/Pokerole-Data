@@ -1,0 +1,18 @@
+{
+    "Name": "Round",
+    "Type": "Normal",
+    "Power": 2,
+    "Damage1": "Special",
+    "Damage2": "",
+    "Accuracy1": "Special",
+    "Accuracy2": "Perform",
+    "Target": "Foe",
+    "Effect": "Single Target. Sound Move. If the user and an ally are able to use Round, both may choose to do it at the same time. If they do, add 3 Extra Dice to the Damage Pool of both Pokémon.",
+    "Description": "The user attacks the foe with a song. If a teammate joins the song the attack will be stronger.",
+    "_id": "round",
+    "Attributes": {
+        "SoundBased": true
+    },
+    "AddedEffects": {},
+    "Category": "Special"
+}

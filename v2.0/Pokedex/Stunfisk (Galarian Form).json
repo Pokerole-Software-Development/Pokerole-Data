@@ -1,0 +1,113 @@
+{
+    "Number": 618,
+    "DexID": "0618G",
+    "Name": "Stunfisk (Galarian Form)",
+    "Type1": "Ground",
+    "Type2": "Steel",
+    "BaseHP": 4,
+    "Strength": 2,
+    "MaxStrength": 5,
+    "Dexterity": 1,
+    "MaxDexterity": 3,
+    "Vitality": 3,
+    "MaxVitality": 6,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Mimicry",
+    "Ability2": "",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Beginner",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "stunfisk-galarian-form",
+    "DexCategory": "Trap Pokemon",
+    "Height": {
+        "Meters": 0.7,
+        "Feet": 2.3
+    },
+    "Weight": {
+        "Kilograms": 20.5,
+        "Pounds": 45.2
+    },
+    "DexDescription": "Stunfisk lives in mud with high iron content. Those nutrients turned its body into a Steel Type. Stunfisks\u2019 lips are hard to spot in the mud, but if someone steps on it, its jagged steel clamps their prey.",
+    "Evolutions": [],
+    "Image": "stunfisk-galarian-form.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Mud Slap"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Water Gun"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Metal Claw"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Endure"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Mud Shot"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Revenge"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Metal Sound"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Sucker Punch"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Iron Defense"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Bounce"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Muddy Water"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Snap Trap"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Flail"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Fissure"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Stealth Rock"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Bind"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Counter"
+        }
+    ]
+}

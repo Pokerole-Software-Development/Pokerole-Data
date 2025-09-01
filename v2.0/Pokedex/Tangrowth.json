@@ -1,0 +1,139 @@
+{
+    "Number": 465,
+    "DexID": "0465",
+    "Name": "Tangrowth",
+    "Type1": "Grass",
+    "Type2": "",
+    "BaseHP": 5,
+    "Strength": 3,
+    "MaxStrength": 6,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 3,
+    "MaxVitality": 7,
+    "Special": 3,
+    "MaxSpecial": 6,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Chlorophyll",
+    "Ability2": "Leaf Guard",
+    "HiddenAbility": "Regenerator",
+    "EventAbilities": "",
+    "RecommendedRank": "Ace",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "tangrowth",
+    "DexCategory": "Vine Pokemon",
+    "Height": {
+        "Meters": 2.0,
+        "Feet": 6.6
+    },
+    "Weight": {
+        "Kilograms": 128.6,
+        "Pounds": 283.5
+    },
+    "DexDescription": "While it remains still, it appears to be a large shrub. Unsuspecting prey that wander near get ensnared by its vines. In the summer months, its vines grow so large that you can\u2019t even see its eyes.",
+    "Evolutions": [
+        {
+            "From": "Tangela",
+            "Kind": "Level",
+            "Speed": "Slow"
+        }
+    ],
+    "Image": "tangrowth.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Block"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Ingrain"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Constrict"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Sleep Powder"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Vine Whip"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Absorb"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Poison Powder"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Bind"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Growth"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Mega Drain"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Knock Off"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Stun Spore"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Natural Gift"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Slam"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Ancient Power"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Giga Drain"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Tickle"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Wring Out"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Grassy Terrain"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Power Whip"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Nature Power"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Confusion"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Amnesia"
+        }
+    ]
+}

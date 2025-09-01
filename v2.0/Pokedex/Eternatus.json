@@ -1,0 +1,113 @@
+{
+    "Number": 890,
+    "DexID": "0890",
+    "Name": "Eternatus",
+    "Type1": "Poison",
+    "Type2": "Dragon",
+    "BaseHP": 10,
+    "Strength": 5,
+    "MaxStrength": 5,
+    "Dexterity": 7,
+    "MaxDexterity": 7,
+    "Vitality": 6,
+    "MaxVitality": 6,
+    "Special": 8,
+    "MaxSpecial": 8,
+    "Insight": 6,
+    "MaxInsight": 6,
+    "Ability1": "Pressure",
+    "Ability2": "",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Master",
+    "GenderType": "N",
+    "Legendary": true,
+    "GoodStarter": false,
+    "_id": "eternatus",
+    "DexCategory": "No Data",
+    "Height": {
+        "Meters": 20.0,
+        "Feet": 65.6
+    },
+    "Weight": {
+        "Kilograms": 950.0,
+        "Pounds": 2094.4
+    },
+    "DexDescription": "A large meteorite fell on the Galar region 20, 000 years ago, ever since this happened a power surge has been causing Pokemon to grow gigantic, this phenomenon is happening more in recent years.",
+    "Evolutions": [],
+    "Image": "eternatus.png",
+    "Moves": [
+        {
+            "Learned": "Master",
+            "Name": "Poison Tail"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Confuse Ray"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Dragon Tail"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Agility"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Toxic"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Venoshock"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Dragon Dance"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Cross Poison"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Dragon Pulse"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Flamethrower"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Dynamax Cannon"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Cosmic Power"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Recover"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Hyper Beam"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Eternabeam"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Light Screen"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Reflect"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Protect"
+        }
+    ]
+}

@@ -1,0 +1,115 @@
+{
+    "Number": 309,
+    "DexID": "0309",
+    "Name": "Electrike",
+    "Type1": "Electric",
+    "Type2": "",
+    "BaseHP": 3,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 1,
+    "MaxVitality": 3,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 1,
+    "MaxInsight": 3,
+    "Ability1": "Static",
+    "Ability2": "Lightning Rod",
+    "HiddenAbility": "Minus",
+    "EventAbilities": "",
+    "RecommendedRank": "Beginner",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "electrike",
+    "DexCategory": "Lightning Pokemon",
+    "Height": {
+        "Meters": 0.6,
+        "Feet": 2.0
+    },
+    "Weight": {
+        "Kilograms": 15.2,
+        "Pounds": 33.5
+    },
+    "DexDescription": "Their fur stores electricity, leaving a trail of sparks as they run. By stimulating their legs with voltage, Electrike's speed and power is greatly increased. They are not very common, though.",
+    "Evolutions": [
+        {
+            "To": "Manectric",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "electrike.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Leer"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Thunder Wave"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Howl"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Quick Attack"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Spark"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Odor Sleuth"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Bite"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Thunder Fang"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Roar"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Discharge"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Charge"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Wild Charge"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Thunder"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Ice Fang"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Eerie Impulse"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Crunch"
+        }
+    ]
+}

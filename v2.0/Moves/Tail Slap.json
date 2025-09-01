@@ -1,0 +1,19 @@
+{
+    "Name": "Tail Slap",
+    "Type": "Normal",
+    "Power": 1,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Brawl",
+    "Target": "User",
+    "Effect": "Successive Actions. -1 Accuracy.",
+    "Description": "The Pokemon slaps the foe's face with its strong tail.",
+    "_id": "tail-slap",
+    "Attributes": {
+        "SuccessiveActions": true,
+        "AccuracyReduction": 1
+    },
+    "AddedEffects": {},
+    "Category": "Physical"
+}

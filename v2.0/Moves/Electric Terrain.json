@@ -1,0 +1,16 @@
+{
+    "Name": "Electric Terrain",
+    "Type": "Electric",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Insight",
+    "Accuracy2": "Nature",
+    "Target": "Battlefield",
+    "Effect": "For the Next 4 Rounds all Electric Attacks will deal 1 Extra Dice of Damage. Anyone on the ground will be cured from \"Sleep\" Status.",
+    "Description": "The user electrifies the terrain, making it impossible to get a good night's sleep on it.",
+    "_id": "electric-terrain",
+    "Attributes": {},
+    "AddedEffects": {},
+    "Category": "Support"
+}

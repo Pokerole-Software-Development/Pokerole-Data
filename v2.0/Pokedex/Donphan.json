@@ -1,0 +1,123 @@
+{
+    "Number": 232,
+    "DexID": "0232",
+    "Name": "Donphan",
+    "Type1": "Ground",
+    "Type2": "",
+    "BaseHP": 4,
+    "Strength": 3,
+    "MaxStrength": 7,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 3,
+    "MaxVitality": 6,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Pickup",
+    "Ability2": "",
+    "HiddenAbility": "Sand Veil",
+    "EventAbilities": "",
+    "RecommendedRank": "Amateur",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "donphan",
+    "DexCategory": "Armor Pokemon",
+    "Height": {
+        "Meters": 1.1,
+        "Feet": 3.6
+    },
+    "Weight": {
+        "Kilograms": 120.0,
+        "Pounds": 264.6
+    },
+    "DexDescription": "Strong enough to knock down a house. They like to attack by rolling as a ball at high speed, however once they start rolling, they have a hard time stopping. Some may keep their loving Phanpy nature.",
+    "Evolutions": [
+        {
+            "From": "Phanpy",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "donphan.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Defense Curl"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Horn Attack"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Growl"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Fire Fang"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Thunder Fang"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Rapid Spin"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Bulldoze"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Knock Off"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Rollout"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Magnitude"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Slam"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Fury Attack"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Assurance"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Scary Face"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Earthquake"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Giga Impact"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Counter"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Ice Shard"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Fissure"
+        }
+    ]
+}

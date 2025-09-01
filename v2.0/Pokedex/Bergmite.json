@@ -1,0 +1,119 @@
+{
+    "Number": 712,
+    "DexID": "0712",
+    "Name": "Bergmite",
+    "Type1": "Ice",
+    "Type2": "",
+    "BaseHP": 3,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 1,
+    "MaxDexterity": 3,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 1,
+    "MaxSpecial": 3,
+    "Insight": 1,
+    "MaxInsight": 3,
+    "Ability1": "Own Tempo",
+    "Ability2": "Ice Body",
+    "HiddenAbility": "Sturdy",
+    "EventAbilities": "",
+    "RecommendedRank": "Beginner",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "bergmite",
+    "DexCategory": "Ice Chunk Pokemon",
+    "Height": {
+        "Meters": 1.0,
+        "Feet": 3.3
+    },
+    "Weight": {
+        "Kilograms": 99.5,
+        "Pounds": 219.4
+    },
+    "DexDescription": "They live in small herds close to the mountains. It blocks attacks with the ice that shields its body and uses cold air to repair any cracks with new ice. They are wary of humans as they rarely get to see one.",
+    "Evolutions": [
+        {
+            "To": "Avalugg",
+            "Kind": "Level",
+            "Speed": "Slow"
+        }
+    ],
+    "Image": "bergmite.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Powder Snow"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Harden"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Bite"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Icy Wind"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Take Down"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Sharpen"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Curse"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Ice Fang"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Ice Ball"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Rapid Spin"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Avalanche"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Blizzard"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Recover"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Double-Edge"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Water Pulse"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Mirror Coat"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Endure"
+        }
+    ]
+}

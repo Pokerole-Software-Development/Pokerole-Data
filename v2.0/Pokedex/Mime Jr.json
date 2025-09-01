@@ -1,0 +1,137 @@
+{
+    "Number": 439,
+    "DexID": "0439",
+    "Name": "Mime Jr",
+    "Type1": "Psychic",
+    "Type2": "Fairy",
+    "BaseHP": 3,
+    "Strength": 1,
+    "MaxStrength": 3,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 2,
+    "MaxSpecial": 5,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Soundproof",
+    "Ability2": "Filter",
+    "HiddenAbility": "Technician",
+    "EventAbilities": "",
+    "RecommendedRank": "Starter",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "mime-jr",
+    "DexCategory": "Mime Pokemon",
+    "Height": {
+        "Meters": 0.6,
+        "Feet": 2.0
+    },
+    "Weight": {
+        "Kilograms": 13.0,
+        "Pounds": 28.7
+    },
+    "DexDescription": "It likes places where people gather and imitates their expressions to try to understand their feelings. It mimics foes, confuses them, then it escapes. It doesn\u2019t take long to become a master mime.",
+    "Evolutions": [
+        {
+            "To": "Mr. Mime",
+            "Kind": "Level",
+            "Move": "Mimic"
+        },
+        {
+            "To": "Mr. Mime (Galarian Form)",
+            "Kind": "Level",
+            "Move": "Mimic",
+            "Region": "Galar"
+        }
+    ],
+    "Image": "mime-jr.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Tickle"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Barrier"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Confusion"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Copycat"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Meditate"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Double Slap"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Mimic"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Encore"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Light Screen"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Reflect"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Psybeam"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Substitute"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Trick"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Recycle"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Psychic"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Role Play"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Baton Pass"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Safeguard"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Teeter Dance"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Nasty Plot"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Wake-Up Slap"
+        }
+    ]
+}

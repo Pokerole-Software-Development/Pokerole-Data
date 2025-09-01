@@ -1,0 +1,123 @@
+{
+    "Number": 362,
+    "DexID": "0362M1",
+    "Name": "Glalie (Mega Form)",
+    "Type1": "Ice",
+    "Type2": "",
+    "BaseHP": 5,
+    "Strength": 3,
+    "MaxStrength": 7,
+    "Dexterity": 3,
+    "MaxDexterity": 6,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 3,
+    "MaxSpecial": 7,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Refrigerate",
+    "Ability2": "",
+    "HiddenAbility": "Moody",
+    "EventAbilities": "",
+    "RecommendedRank": "Ace",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "glalie-mega-form",
+    "DexCategory": "Face Pokemon",
+    "Height": {
+        "Meters": 2.1,
+        "Feet": 6.9
+    },
+    "Weight": {
+        "Kilograms": 350.2,
+        "Pounds": 772.1
+    },
+    "DexDescription": "The power of the Mega Stone bent its jaw at an unnatural angle, this helps it spew enormous blizzards but leaves it unable to eat any prey it catches. This makes it angry and will weaken it if it stays in this form.",
+    "Evolutions": [
+        {
+            "From": "Glalie",
+            "Kind": "Mega",
+            "Item": "Glalitite"
+        }
+    ],
+    "Image": "glalie-mega-form.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Leer"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Powder Snow"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Bite"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Double Team"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Ice Shard"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Icy Wind"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Headbutt"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Protect"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Ice Fang"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Ice Beam"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Frost Breath"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Freeze Dry"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Hail"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Crunch"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Blizzard"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Sheer Cold"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Weather Ball"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Rollout"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Iron Head"
+        }
+    ]
+}

@@ -1,0 +1,134 @@
+{
+    "Number": 890,
+    "DexID": "0890F1",
+    "Name": "Eternatus (Eternamax Form)",
+    "Type1": "Poison",
+    "Type2": "Dragon",
+    "BaseHP": 10,
+    "Strength": 6,
+    "MaxStrength": 6,
+    "Dexterity": 7,
+    "MaxDexterity": 7,
+    "Vitality": 10,
+    "MaxVitality": 10,
+    "Special": 7,
+    "MaxSpecial": 7,
+    "Insight": 10,
+    "MaxInsight": 10,
+    "Ability1": "Pressure",
+    "Ability2": "",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Champion",
+    "GenderType": "N",
+    "Legendary": true,
+    "GoodStarter": false,
+    "_id": "eternatus-eternamax-form",
+    "DexCategory": "No Data",
+    "Height": {
+        "Meters": 1000,
+        "Feet": 3280.8
+    },
+    "Weight": {
+        "Kilograms": 1000,
+        "Pounds": 2204.6
+    },
+    "DexDescription": "Evidence suggests it was not a really a meteorite that fell on Galar so long ago, but a Pokémon. What creature could be so massive as to create such destruction upon impact?",
+    "Evolutions": [
+        {
+            "From": "Eternatus",
+            "Kind": "Form"
+        }
+    ],
+    "Image": "eternatus-eternamax-form.png",
+    "Moves": [
+        {
+            "Learned": "Champion",
+            "Name": "Poison Tail"
+        },
+        {
+            "Learned": "Champion",
+            "Name": "Confuse Ray"
+        },
+        {
+            "Learned": "Champion",
+            "Name": "Dragon Tail"
+        },
+        {
+            "Learned": "Champion",
+            "Name": "Agility"
+        },
+        {
+            "Learned": "Champion",
+            "Name": "Toxic"
+        },
+        {
+            "Learned": "Champion",
+            "Name": "Venoshock"
+        },
+        {
+            "Learned": "Champion",
+            "Name": "Dragon Dance"
+        },
+        {
+            "Learned": "Champion",
+            "Name": "Cross Poison"
+        },
+        {
+            "Learned": "Champion",
+            "Name": "Dragon Pulse"
+        },
+        {
+            "Learned": "Champion",
+            "Name": "Flamethrower"
+        },
+        {
+            "Learned": "Champion",
+            "Name": "Dynamax Cannon"
+        },
+        {
+            "Learned": "Champion",
+            "Name": "Cosmic Power"
+        },
+        {
+            "Learned": "Champion",
+            "Name": "Recover"
+        },
+        {
+            "Learned": "Champion",
+            "Name": "Hyper Beam"
+        },
+        {
+            "Learned": "Champion",
+            "Name": "Reflect"
+        },
+        {
+            "Learned": "Champion",
+            "Name": "Light Screen"
+        },
+        {
+            "Learned": "Champion",
+            "Name": "Fly"
+        },
+        {
+            "Learned": "Champion",
+            "Name": "Protect"
+        },
+        {
+            "Learned": "Champion",
+            "Name": "Brutal Swing"
+        },
+        {
+            "Learned": "Champion",
+            "Name": "Eternabeam"
+        },
+        {
+            "Learned": "Champion",
+            "Name": "Draco Meteor"
+        },
+        {
+            "Learned": "Champion",
+            "Name": "Meteor Beam"
+        }
+    ]
+}

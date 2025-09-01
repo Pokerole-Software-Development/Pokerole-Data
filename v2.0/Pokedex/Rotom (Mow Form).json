@@ -1,0 +1,106 @@
+{
+    "Number": 479,
+    "DexID": "0479F3",
+    "Name": "Rotom (Mow Form)",
+    "Type1": "Electric",
+    "Type2": "Grass",
+    "BaseHP": 4,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 2,
+    "MaxDexterity": 5,
+    "Vitality": 3,
+    "MaxVitality": 6,
+    "Special": 3,
+    "MaxSpecial": 6,
+    "Insight": 3,
+    "MaxInsight": 6,
+    "Ability1": "Levitate",
+    "Ability2": "",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Ace",
+    "GenderType": "N",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "rotom-mow-form",
+    "DexCategory": "Plasma Pokemon",
+    "Height": {
+        "Meters": 0.3,
+        "Feet": 1.0
+    },
+    "Weight": {
+        "Kilograms": 0.3,
+        "Pounds": 0.7
+    },
+    "DexDescription": "A Lawnmower possessed by a Rotom. It uses Grass powers, mows awful patterns on the grass and chases people with the blades out. While on this form it can use the move: Leaf Storm.",
+    "Evolutions": [
+        {
+            "From": "Rotom",
+            "Kind": "Form"
+        }
+    ],
+    "Image": "rotom-mow-form.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Thunder Wave"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Astonish"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Confuse Ray"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Thunder Shock"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Uproar"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Trick"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Double Team"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Shock Wave"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Ominous Wind"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Substitute"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Electro Ball"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Hex"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Charge"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Discharge"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Leaf Storm"
+        }
+    ]
+}

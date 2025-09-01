@@ -1,0 +1,111 @@
+{
+    "Number": 754,
+    "DexID": "0754",
+    "Name": "Lurantis",
+    "Type1": "Grass",
+    "Type2": "",
+    "BaseHP": 4,
+    "Strength": 3,
+    "MaxStrength": 6,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 2,
+    "MaxSpecial": 5,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Leaf Guard",
+    "Ability2": "",
+    "HiddenAbility": "Contrary",
+    "EventAbilities": "",
+    "RecommendedRank": "Beginner",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "lurantis",
+    "DexCategory": "Bloom Sickle Pokemon",
+    "Height": {
+        "Meters": 0.9,
+        "Feet": 3.0
+    },
+    "Weight": {
+        "Kilograms": 18.5,
+        "Pounds": 40.8
+    },
+    "DexDescription": "Considered to be one of the mos beautiful Grass Pokemon due to its lovely coloration. They require a lot of maintenance and constant grooming, so they\u2019ll only trust a Trainer who is up to the job.",
+    "Evolutions": [
+        {
+            "From": "Fomantis",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "lurantis.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Fury Cutter"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Leafage"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Razor Leaf"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Growth"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Sweet Scent"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Slash"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Ingrain"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Leaf Blade"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Synthesis"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "X-Scissor"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Petal Blizzard"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Solar Blade"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Sunny Day"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Swords Dance"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Leaf Storm"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Brick Break"
+        }
+    ]
+}

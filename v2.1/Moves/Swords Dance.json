@@ -1,0 +1,26 @@
+{
+    "Name": "Swords Dance",
+    "Type": "Normal",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Tough",
+    "Accuracy2": "Perform",
+    "Target": "User",
+    "Effect": "Target Self. Increase the User's Strength by 2.",
+    "Description": "The Pokémon performs a dance that raises its battle spirit.",
+    "_id": "swords-dance",
+    "Attributes": {},
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "Strength"
+                ],
+                "Stages": 2,
+                "Affects": "User"
+            }
+        ]
+    },
+    "Category": "Support"
+}

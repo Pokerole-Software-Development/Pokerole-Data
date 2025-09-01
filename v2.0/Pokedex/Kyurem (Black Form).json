@@ -1,0 +1,134 @@
+{
+    "Number": 646,
+    "DexID": "0646F1",
+    "Name": "Kyurem (Black Form)",
+    "Type1": "Dragon",
+    "Type2": "Ice",
+    "BaseHP": 6,
+    "Strength": 9,
+    "MaxStrength": 9,
+    "Dexterity": 6,
+    "MaxDexterity": 6,
+    "Vitality": 6,
+    "MaxVitality": 6,
+    "Special": 7,
+    "MaxSpecial": 7,
+    "Insight": 5,
+    "MaxInsight": 5,
+    "Ability1": "Pressure",
+    "Ability2": "",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Master",
+    "GenderType": "N",
+    "Legendary": true,
+    "GoodStarter": false,
+    "_id": "kyurem-black-form",
+    "DexCategory": "No Data",
+    "Height": {
+        "Meters": 3.3,
+        "Feet": 10.8
+    },
+    "Weight": {
+        "Kilograms": 325.0,
+        "Pounds": 716.5
+    },
+    "DexDescription": "In the Icy mountains at the east of Unova, you can hear the wails of a creature suffering as if it missed a part of its very soul. Dark clouds and lightning are sure to follow.",
+    "Evolutions": [
+        {
+            "From": "Kyurem",
+            "Kind": "Form"
+        }
+    ],
+    "Image": "kyurem-black-form.png",
+    "Moves": [
+        {
+            "Learned": "Master",
+            "Name": "Icy Wind"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Dragon Rage"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Imprison"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Ancient Power"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Ice Beam"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Dragon Breath"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Slash"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Scary Face"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Glaciate"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Dragon Pulse"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Noble Roar"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Endeavor"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Blizzard"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Outrage"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Hyper Voice"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Topsy-Turvy"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Future Sight"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Punishment"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Wish"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Recover"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Fusion Bolt"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Bolt Strike"
+        }
+    ]
+}

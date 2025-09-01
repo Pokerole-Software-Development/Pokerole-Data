@@ -1,0 +1,22 @@
+{
+    "Name": "Absorb",
+    "Type": "Grass",
+    "Power": 1,
+    "Damage1": "Special",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Channel",
+    "Target": "Foe",
+    "Effect": "The user restores HP equal to half the damage dealt rounded down.",
+    "Description": "The user absorbs the vital energy of the foe.",
+    "_id": "absorb",
+    "Attributes": {},
+    "AddedEffects": {
+        "Heal": {
+            "Type": "Leech",
+            "Percentage": 0.5,
+            "Target": "User"
+        }
+    },
+    "Category": "Special"
+}

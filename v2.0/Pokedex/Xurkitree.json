@@ -1,0 +1,125 @@
+{
+    "Number": 796,
+    "DexID": "0796",
+    "Name": "Xurkitree",
+    "Type1": "Electric",
+    "Type2": "",
+    "BaseHP": 4,
+    "Strength": 5,
+    "MaxStrength": 5,
+    "Dexterity": 5,
+    "MaxDexterity": 5,
+    "Vitality": 5,
+    "MaxVitality": 5,
+    "Special": 9,
+    "MaxSpecial": 9,
+    "Insight": 5,
+    "MaxInsight": 5,
+    "Ability1": "Beast Boost",
+    "Ability2": "",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Pro",
+    "GenderType": "N",
+    "Legendary": true,
+    "GoodStarter": false,
+    "_id": "xurkitree",
+    "DexCategory": "Aether Foundation Log #067",
+    "Height": {
+        "Meters": 3.8,
+        "Feet": 12.5
+    },
+    "Weight": {
+        "Kilograms": 100.0,
+        "Pounds": 220.5
+    },
+    "DexDescription": "My superiors are furious. A lot of money had to be used to cover the damages UB-03 dealt in the power plant. On the bright side, it seems a lot livelier now that it appears to have recharged.",
+    "Evolutions": [],
+    "Image": "xurkitree.png",
+    "Moves": [
+        {
+            "Learned": "Master",
+            "Name": "Tail Glow"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Spark"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Charge"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Wrap"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Thunder Shock"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Thunder Wave"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Shock Wave"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Ingrain"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Thunder Punch"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Eerie Impulse"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Signal Beam"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Thunderbolt"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Hypnosis"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Discharge"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Electric Terrain"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Power Whip"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Ion Deluge"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Zap Cannon"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Magnet Rise"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Brutal Swing"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Electroweb"
+        }
+    ]
+}

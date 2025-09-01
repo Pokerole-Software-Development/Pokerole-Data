@@ -1,0 +1,119 @@
+{
+    "Number": 339,
+    "DexID": "0339",
+    "Name": "Barboach",
+    "Type1": "Water",
+    "Type2": "Ground",
+    "BaseHP": 3,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 1,
+    "MaxVitality": 3,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 1,
+    "MaxInsight": 3,
+    "Ability1": "Oblivious",
+    "Ability2": "Anticipation",
+    "HiddenAbility": "Hydration",
+    "EventAbilities": "",
+    "RecommendedRank": "Starter",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "barboach",
+    "DexCategory": "Whiskers Pokemon",
+    "Height": {
+        "Meters": 0.4,
+        "Feet": 1.3
+    },
+    "Weight": {
+        "Kilograms": 1.9,
+        "Pounds": 4.2
+    },
+    "DexDescription": "Their whiskers work as a super sensitive radar. They hide in the mud with only their whiskers exposed, waiting for prey to come. If the mud dries, they move back into the water.",
+    "Evolutions": [
+        {
+            "To": "Whiscash",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "barboach.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Mud Slap"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Mud Sport"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Water Sport"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Water Gun"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Mud Bomb"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Amnesia"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Water Pulse"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Magnitude"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Rest"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Snore"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Aqua Tail"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Earthquake"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Muddy Water"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Future Sight"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Fissure"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Dive"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Flail"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Mud Shot"
+        }
+    ]
+}

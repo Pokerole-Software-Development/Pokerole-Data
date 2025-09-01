@@ -1,0 +1,63 @@
+{
+    "Number": 602,
+    "DexID": "0602",
+    "Name": "Tynamo",
+    "Type1": "Electric",
+    "Type2": "",
+    "BaseHP": 3,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 1,
+    "MaxDexterity": 3,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 1,
+    "MaxInsight": 3,
+    "Ability1": "Levitate",
+    "Ability2": "",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Starter",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "tynamo",
+    "DexCategory": "EleFish Pokemon",
+    "Height": {
+        "Meters": 0.2,
+        "Feet": 0.7
+    },
+    "Weight": {
+        "Kilograms": 0.3,
+        "Pounds": 0.7
+    },
+    "DexDescription": "These Pokemon move in schools. They have an electricity-storing organ at their sides but they can\u2019t generate their own power. They only discharge electricity if they are in danger.",
+    "Evolutions": [
+        {
+            "To": "Eelektrik",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "tynamo.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Thunder Wave"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Spark"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Charge Beam"
+        }
+    ]
+}

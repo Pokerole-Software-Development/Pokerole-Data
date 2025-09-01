@@ -1,0 +1,28 @@
+{
+    "Name": "Bolt Strike",
+    "Type": "Electric",
+    "Power": 6,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Strength",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "Single Target. Low Accuracy 2. Lethal. Unique.",
+    "Description": "Zekrom delivers a powerful tackle while discharging lightning through its body. The foe is rendered unable to move, either by the strike of the electricity.",
+    "_id": "bolt-strike",
+    "Attributes": {
+        "AccuracyReduction": 2,
+        "Unique": true,
+        "Lethal": true
+    },
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Paralyze",
+                "Affects": "Targets",
+                "ChanceDice": 2
+            }
+        ]
+    },
+    "Category": "Physical"
+}

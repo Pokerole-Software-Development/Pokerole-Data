@@ -1,0 +1,26 @@
+{
+    "Name": "Struggle Bug",
+    "Type": "Bug",
+    "Power": 1,
+    "Damage1": "Special",
+    "Damage2": "",
+    "Accuracy1": "Insight",
+    "Accuracy2": "Channel",
+    "Target": "All Foes",
+    "Effect": "Target All Foes in Range. Reduce the Foe's Special by 1.",
+    "Description": "The Pokémon lays on their back and struggles with the foe to interrupt its concentraction.",
+    "_id": "struggle-bug",
+    "Attributes": {},
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "Special"
+                ],
+                "Stages": -1,
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Special"
+}

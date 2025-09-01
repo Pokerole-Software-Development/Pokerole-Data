@@ -1,0 +1,127 @@
+{
+    "Number": 302,
+    "DexID": "0302M1",
+    "Name": "Sableye (Mega Form)",
+    "Type1": "Dark",
+    "Type2": "Ghost",
+    "BaseHP": 5,
+    "Strength": 2,
+    "MaxStrength": 5,
+    "Dexterity": 1,
+    "MaxDexterity": 2,
+    "Vitality": 3,
+    "MaxVitality": 7,
+    "Special": 3,
+    "MaxSpecial": 6,
+    "Insight": 3,
+    "MaxInsight": 7,
+    "Ability1": "Magic Bounce",
+    "Ability2": "",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Ace",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "sableye-mega-form",
+    "DexCategory": "Darkness Pokemon",
+    "Height": {
+        "Meters": 0.5,
+        "Feet": 1.6
+    },
+    "Weight": {
+        "Kilograms": 161.0,
+        "Pounds": 354.9
+    },
+    "DexDescription": "The power of the Mega Stone made the jewel on its chest grow, it now uses it as a shield to repel any attack, but its movement is limited due to how heavy it is. Its greed for the jewel can make it aggressive.",
+    "Evolutions": [
+        {
+            "From": "Sableye",
+            "Kind": "Mega",
+            "Item": "Sablenite"
+        }
+    ],
+    "Image": "sableye-mega-form.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Leer"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Mean Look"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Scratch"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Zen Headbutt"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Foresight"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Night Shade"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Astonish"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Fury Swipes"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Fake Out"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Detect"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Shadow Sneak"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Knock Off"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Feint Attack"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Power Gem"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Punishment"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Foul Play"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Confuse Ray"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Nasty Plot"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Shadow Ball"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Moonlight"
+        }
+    ]
+}

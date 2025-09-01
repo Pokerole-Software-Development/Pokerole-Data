@@ -1,0 +1,24 @@
+{
+    "Name": "Scorching Sands",
+    "Type": "Ground",
+    "Power": 3,
+    "Damage1": "Special",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Channel",
+    "Target": "Foe",
+    "Effect": "Single Target. Roll 3 Chance Dice to inflict 1st Degree Burn to the foe.",
+    "Description": "The sand around the user turns scorching red with heat and smoke when it's thrown against a foe.",
+    "_id": "scorching-sands",
+    "Attributes": {},
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Burn1",
+                "Affects": "Targets",
+                "ChanceDice": 3
+            }
+        ]
+    },
+    "Category": "Special"
+}

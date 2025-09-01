@@ -1,0 +1,136 @@
+{
+    "Number": 306,
+    "DexID": "0306",
+    "Name": "Aggron",
+    "Type1": "Steel",
+    "Type2": "Rock",
+    "BaseHP": 5,
+    "Strength": 3,
+    "MaxStrength": 6,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 4,
+    "MaxVitality": 9,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Sturdy",
+    "Ability2": "Rock Head",
+    "HiddenAbility": "Heavy Metal",
+    "EventAbilities": "",
+    "RecommendedRank": "Pro",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "aggron",
+    "DexCategory": "Iron Armor Pokemon",
+    "Height": {
+        "Meters": 2.1,
+        "Feet": 6.9
+    },
+    "Weight": {
+        "Kilograms": 360.0,
+        "Pounds": 793.7
+    },
+    "DexDescription": "Aggron claims ownership of entire mountains, mercilessly beating up anything that crosses their path. Aggrons are violent and patrol their territory at all times, but also plant trees, stop fires and protect nature.",
+    "Evolutions": [
+        {
+            "From": "Lairon",
+            "Kind": "Level",
+            "Speed": "Slow"
+        },
+        {
+            "To": "Aggron (Mega Form)",
+            "Kind": "Mega",
+            "Item": "Aggronite"
+        }
+    ],
+    "Image": "aggron.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Harden"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Mud Slap"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Take Down"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Metal Claw"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Rock Tomb"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Iron Defense"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Roar"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Headbutt"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Rock Slide"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Iron Head"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Protect"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Metal Sound"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Iron Tail"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Autotomize"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Heavy Slam"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Double-Edge"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Metal Burst"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Head Smash"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Dragon Rush"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Superpower"
+        }
+    ]
+}

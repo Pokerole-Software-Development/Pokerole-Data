@@ -1,0 +1,19 @@
+{
+    "Name": "Rock Throw (Strength)",
+    "Type": "Rock",
+    "Power": 2,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Strength",
+    "Accuracy2": "Channel",
+    "Target": "Foe",
+    "Effect": "Single Target. Low Accuracy 1. Ranged.",
+    "Description": "The user picks up a rock or pebble and throws it at the foe.",
+    "_id": "rock-throw-(strength)",
+    "Attributes": {
+        "PhysicalRanged": true,
+        "AccuracyReduction": 1
+    },
+    "AddedEffects": {},
+    "Category": "Physical"
+}

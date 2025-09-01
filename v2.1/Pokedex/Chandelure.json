@@ -1,0 +1,143 @@
+{
+    "Number": 609,
+    "DexID": "0609",
+    "Name": "Chandelure",
+    "Type1": "Ghost",
+    "Type2": "Fire",
+    "BaseHP": 5,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 2,
+    "MaxDexterity": 5,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 4,
+    "MaxSpecial": 8,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Flame Body",
+    "Ability2": "Infiltrator",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Expert",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "chandelure",
+    "DexCategory": "Luring Pokémon",
+    "Height": {
+        "Meters": 1.0,
+        "Feet": 3.3
+    },
+    "Weight": {
+        "Kilograms": 34.3,
+        "Pounds": 75.6
+    },
+    "DexDescription": "It consumes the spirits of the living, puts people in a hypnotic trance, and consumes them with fire. Being consumed in Chandelure's flame burns up the spirit, leaving only an empty body behind.",
+    "Evolutions": [
+        {
+            "From": "Lampent",
+            "Kind": "Stone",
+            "Item": "Dusk Stone"
+        }
+    ],
+    "Image": "chandelure.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Astonish"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Smog"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Ember"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Confuse Ray"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Mystical Fire"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Dark Pulse"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Minimize"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Flame Burst"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Hex"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Will-o-Wisp"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Fire Spin"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Night Shade"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Curse"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Shadow Ball"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Imprison"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Pain Split"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Energy Ball"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Poltergeist"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Inferno"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Memento"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Overheat"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Power Split"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Acid Armor"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Clear Smog"
+        }
+    ]
+}

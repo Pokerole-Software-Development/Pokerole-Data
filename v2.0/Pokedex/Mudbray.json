@@ -1,0 +1,115 @@
+{
+    "Number": 749,
+    "DexID": "0749",
+    "Name": "Mudbray",
+    "Type1": "Ground",
+    "Type2": "",
+    "BaseHP": 3,
+    "Strength": 3,
+    "MaxStrength": 6,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Own Tempo",
+    "Ability2": "Stamina",
+    "HiddenAbility": "Inner Focus",
+    "EventAbilities": "",
+    "RecommendedRank": "Beginner",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "mudbray",
+    "DexCategory": "Donkey Pokemon",
+    "Height": {
+        "Meters": 1.0,
+        "Feet": 3.3
+    },
+    "Weight": {
+        "Kilograms": 110.0,
+        "Pounds": 242.5
+    },
+    "DexDescription": "They are very strong, the mud on their hooves serves them as grip to pull themselves forward. They enjoy prancing in muddy places and will become stubborn and disobedient if denied that pleasure.",
+    "Evolutions": [
+        {
+            "To": "Mudsdale",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "mudbray.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Mud Slap"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Mud Sport"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Rototiller"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Bulldoze"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Double Kick"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Stomp"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Bide"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "High Horsepower"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Iron Defense"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Heavy Slam"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Counter"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Earthquake"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Mega Kick"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Superpower"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Magnitude"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Strength"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Mud Bomb"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "Name": "Drill Run",
+    "Type": "Ground",
+    "Power": 3,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "High Critical.",
+    "Description": "The user rotates its body imitating a drill and crashes against the foe. This attack may pierce through walls and floors with ease and great precision.",
+    "_id": "drill-run",
+    "Attributes": {
+        "HighCritical": true
+    },
+    "AddedEffects": {},
+    "Category": "Physical"
+}

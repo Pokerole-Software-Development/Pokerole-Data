@@ -1,0 +1,115 @@
+{
+    "Number": 138,
+    "DexID": "0138",
+    "Name": "Omanyte",
+    "Type1": "Rock",
+    "Type2": "Water",
+    "BaseHP": 3,
+    "Strength": 1,
+    "MaxStrength": 3,
+    "Dexterity": 1,
+    "MaxDexterity": 3,
+    "Vitality": 3,
+    "MaxVitality": 6,
+    "Special": 2,
+    "MaxSpecial": 5,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Swift Swim",
+    "Ability2": "Shell Armor",
+    "HiddenAbility": "Weak Armor",
+    "EventAbilities": "",
+    "RecommendedRank": "Beginner",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "omanyte",
+    "DexCategory": "Spiral Pokemon",
+    "Height": {
+        "Meters": 0.4,
+        "Feet": 1.3
+    },
+    "Weight": {
+        "Kilograms": 7.5,
+        "Pounds": 16.5
+    },
+    "DexDescription": "One of the ancient and extinct Pokemon that have been revived from fossils by science. If attacked, it withdraws into its hard shell. It is not found in the wild anymore, but fossils can be found in the sea.",
+    "Evolutions": [
+        {
+            "To": "Omastar",
+            "Kind": "Level",
+            "Speed": "Slow"
+        }
+    ],
+    "Image": "omanyte.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Constrict"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Withdraw"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Bite"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Water Gun"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Rollout"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Leer"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Mud Shot"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Brine"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Protect"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Ancient Power"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Tickle"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Rock Blast"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Shell Smash"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Hydro Pump"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Toxic Spikes"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Spikes"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Iron Defense"
+        }
+    ]
+}

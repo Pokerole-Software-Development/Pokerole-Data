@@ -1,0 +1,24 @@
+{
+    "Name": "Air Slash",
+    "Type": "Flying",
+    "Power": 3,
+    "Damage1": "Special",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Channel",
+    "Target": "Foe",
+    "Effect": "Roll 3 Chance Dice to Flinch the foe.",
+    "Description": "The user will surround the foe with razor-like wind that may knock it down.",
+    "_id": "air-slash",
+    "Attributes": {},
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Flinch",
+                "Affects": "Targets",
+                "ChanceDice": 3
+            }
+        ]
+    },
+    "Category": "Special"
+}

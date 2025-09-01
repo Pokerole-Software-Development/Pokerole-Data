@@ -1,0 +1,123 @@
+{
+    "Number": 688,
+    "DexID": "0688",
+    "Name": "Binacle",
+    "Type1": "Rock",
+    "Type2": "Water",
+    "BaseHP": 3,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 1,
+    "MaxSpecial": 3,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Tough Claws",
+    "Ability2": "Pickpocket",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Rookie",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "binacle",
+    "DexCategory": "Two-Handed Pokémon",
+    "Height": {
+        "Meters": 0.5,
+        "Feet": 1.6
+    },
+    "Weight": {
+        "Kilograms": 31.0,
+        "Pounds": 68.3
+    },
+    "DexDescription": "In the shallow sea, two Binacle live inside a hollow rock. If they don't get along, one of them will move to a different rock. They eat the seaweed that washes up on the shore and help each other to survive.",
+    "Evolutions": [
+        {
+            "To": "Barbaracle",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "binacle.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Scratch"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Sand Attack"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Mud Slap"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Water Gun"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Withdraw"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Fury Cutter"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Fury Swipes"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Ancient Power"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Rock Polish"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Slash"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Clamp"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Hone Claws"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Razor Shell"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Night Slash"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Shell Smash"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Cross Chop"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Helping Hand"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Stealth Rock"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Tickle"
+        }
+    ]
+}

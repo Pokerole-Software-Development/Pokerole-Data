@@ -1,0 +1,103 @@
+{
+    "Number": 753,
+    "DexID": "0753",
+    "Name": "Fomantis",
+    "Type1": "Grass",
+    "Type2": "",
+    "BaseHP": 3,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 1,
+    "MaxDexterity": 3,
+    "Vitality": 1,
+    "MaxVitality": 3,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 1,
+    "MaxInsight": 3,
+    "Ability1": "Leaf Guard",
+    "Ability2": "",
+    "HiddenAbility": "Contrary",
+    "EventAbilities": "",
+    "RecommendedRank": "Starter",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "fomantis",
+    "DexCategory": "Sickle Grass Pokemon",
+    "Height": {
+        "Meters": 0.3,
+        "Feet": 1.0
+    },
+    "Weight": {
+        "Kilograms": 1.5,
+        "Pounds": 3.3
+    },
+    "DexDescription": "They sleep during the day, absorbing sunlight in a flower meadow; by night they become active and search for another spot to sleep. Their arms are made or sharp grass leaves to defend themselves.",
+    "Evolutions": [
+        {
+            "To": "Lurantis",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "fomantis.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Fury Cutter"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Leafage"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Razor Leaf"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Growth"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Ingrain"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Leaf Blade"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Synthesis"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Slash"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Sweet Scent"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Solar Beam"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Sunny Day"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Weather Ball"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Giga Drain"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Aromatherapy"
+        }
+    ]
+}

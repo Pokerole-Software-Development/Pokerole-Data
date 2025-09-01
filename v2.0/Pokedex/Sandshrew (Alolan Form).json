@@ -1,0 +1,127 @@
+{
+    "Number": 27,
+    "DexID": "0027A",
+    "Name": "Sandshrew (Alolan Form)",
+    "Type1": "Ice",
+    "Type2": "Steel",
+    "BaseHP": 3,
+    "Strength": 2,
+    "MaxStrength": 5,
+    "Dexterity": 1,
+    "MaxDexterity": 3,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 1,
+    "MaxSpecial": 2,
+    "Insight": 1,
+    "MaxInsight": 3,
+    "Ability1": "Snow Cloak",
+    "Ability2": "",
+    "HiddenAbility": "Slush Rush",
+    "EventAbilities": "",
+    "RecommendedRank": "Beginner",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "sandshrew-alolan-form",
+    "DexCategory": "Mouse Pokemon",
+    "Height": {
+        "Meters": 0.7,
+        "Feet": 2.3
+    },
+    "Weight": {
+        "Kilograms": 40.0,
+        "Pounds": 88.2
+    },
+    "DexDescription": "Sandshrew who became trapped in the merciless cold weather of Alola had to change their types to survive. They now depend on snow to roll around, without it they are unable to curl up into a ball.",
+    "Evolutions": [
+        {
+            "To": "Sandslash (Alolan Form)",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "sandshrew-alolan-form.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Scratch"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Defense Curl"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Bide"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Powder Snow"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Ice Ball"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Rapid Spin"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Fury Cutter"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Metal Claw"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Swift"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Fury Swipes"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Iron Defense"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Slash"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Iron Head"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Gyro Ball"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Swords Dance"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Hail"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Blizzard"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Chip Away"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Counter"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Aerial Ace"
+        }
+    ]
+}

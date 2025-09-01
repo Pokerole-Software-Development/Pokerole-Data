@@ -1,0 +1,20 @@
+{
+    "Name": "Blast Burn",
+    "Type": "Fire",
+    "Power": 6,
+    "Damage1": "Special",
+    "Damage2": "",
+    "Accuracy1": "Special",
+    "Accuracy2": "Channel",
+    "Target": "Foe",
+    "Effect": "Lethal. Must Recharge. -1 Accuracy.",
+    "Description": "The Pokemon uses all of its power to deliver an infernal blast to the foe. The user is left exhausted.",
+    "_id": "blast-burn",
+    "Attributes": {
+        "Lethal": true,
+        "MustRecharge": true,
+        "AccuracyReduction": 1
+    },
+    "AddedEffects": {},
+    "Category": "Special"
+}

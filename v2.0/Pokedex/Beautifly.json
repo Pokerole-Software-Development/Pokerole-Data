@@ -1,0 +1,111 @@
+{
+    "Number": 267,
+    "DexID": "0267",
+    "Name": "Beautifly",
+    "Type1": "Bug",
+    "Type2": "Flying",
+    "BaseHP": 5,
+    "Strength": 2,
+    "MaxStrength": 5,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 3,
+    "MaxSpecial": 6,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Swarm",
+    "Ability2": "",
+    "HiddenAbility": "Rivalry",
+    "EventAbilities": "",
+    "RecommendedRank": "Amateur",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "beautifly",
+    "DexCategory": "Butterfly Pokemon",
+    "Height": {
+        "Meters": 1.0,
+        "Feet": 3.3
+    },
+    "Weight": {
+        "Kilograms": 28.4,
+        "Pounds": 62.6
+    },
+    "DexDescription": "They can\u2019t resist the pollen of flowers, if you leave one in the window, a Beautifly is sure to come. Despite their appearance, they are aggressive, they drain living creatures of their fluids just as they do with flowers.",
+    "Evolutions": [
+        {
+            "From": "Silcoon",
+            "Kind": "Level",
+            "Speed": "Fast"
+        }
+    ],
+    "Image": "beautifly.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Absorb"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Gust"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Stun Spore"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Morning Sun"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Air Cutter"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Mega Drain"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Whirlwind"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Attract"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Silver Wind"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Rage"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Giga Drain"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Bug Buzz"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Quiver Dance"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Swift"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Defog"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Captivate"
+        }
+    ]
+}

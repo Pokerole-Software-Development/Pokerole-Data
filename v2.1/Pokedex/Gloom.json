@@ -1,0 +1,137 @@
+{
+    "Number": 44,
+    "DexID": "0044",
+    "Name": "Gloom",
+    "Type1": "Grass",
+    "Type2": "Poison",
+    "BaseHP": 4,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 1,
+    "MaxDexterity": 3,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 2,
+    "MaxSpecial": 5,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Chlorophyll",
+    "Ability2": "Run Away",
+    "HiddenAbility": "Stench",
+    "EventAbilities": "",
+    "RecommendedRank": "Amateur",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "gloom",
+    "DexCategory": "Weed Pokémon",
+    "Height": {
+        "Meters": 0.8,
+        "Feet": 2.6
+    },
+    "Weight": {
+        "Kilograms": 8.6,
+        "Pounds": 19.0
+    },
+    "DexDescription": "A horribly noxious honey drools from its mouth. One whiff of the honey can result in sickness. Some fans are said to enjoy its overwhelming stink, though. You can control this foul smell with lots of love and care.",
+    "Evolutions": [
+        {
+            "From": "Oddish",
+            "Kind": "Level",
+            "Speed": "Medium"
+        },
+        {
+            "To": "Vileplume",
+            "Kind": "Stone",
+            "Item": "Leaf Stone"
+        },
+        {
+            "To": "Bellossom",
+            "Kind": "Stone",
+            "Item": "Sun Stone"
+        }
+    ],
+    "Image": "gloom.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Absorb"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Growth"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Sweet Scent"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Acid"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Poison Powder"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Stun Spore"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Sleep Powder"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Mega Drain"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Lucky Chant"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Natural Gift"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Moonlight"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Giga Drain"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Toxic"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Moonblast"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Petal Dance"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Grassy Glide"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Grassy Terrain"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Charm"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Gastro Acid"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Endure"
+        }
+    ]
+}

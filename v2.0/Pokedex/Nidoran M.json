@@ -1,0 +1,111 @@
+{
+    "Number": 32,
+    "DexID": "0032",
+    "Name": "Nidoran M",
+    "Type1": "Poison",
+    "Type2": "",
+    "BaseHP": 3,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 1,
+    "MaxVitality": 3,
+    "Special": 1,
+    "MaxSpecial": 3,
+    "Insight": 1,
+    "MaxInsight": 3,
+    "Ability1": "Poison Point",
+    "Ability2": "Rivalry",
+    "HiddenAbility": "Hustle",
+    "EventAbilities": "",
+    "RecommendedRank": "Beginner",
+    "GenderType": "M",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "nidoran-m",
+    "DexCategory": "Poison Pin Pokemon",
+    "Height": {
+        "Meters": 0.5,
+        "Feet": 1.6
+    },
+    "Weight": {
+        "Kilograms": 9.0,
+        "Pounds": 19.8
+    },
+    "DexDescription": "The male Nidoran has developed a great alertness to sounds. Its small body is covered in spikes that are drenched in venom when he\u2019s threatened. He will defend his mate and home fiercely.",
+    "Evolutions": [
+        {
+            "To": "Nidorino",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "nidoran-m.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Peck"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Leer"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Focus Energy"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Double Kick"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Poison Sting"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Fury Attack"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Horn Attack"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Helping Hand"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Toxic Spikes"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Poison Jab"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Flatter"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Captivate"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Horn Drill"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Lovely Kiss"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Morning Sun"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Confusion"
+        }
+    ]
+}

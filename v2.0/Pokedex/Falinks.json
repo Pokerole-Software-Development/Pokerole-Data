@@ -1,0 +1,109 @@
+{
+    "Number": 870,
+    "DexID": "0870",
+    "Name": "Falinks",
+    "Type1": "Fighting",
+    "Type2": "",
+    "BaseHP": 5,
+    "Strength": 3,
+    "MaxStrength": 6,
+    "Dexterity": 2,
+    "MaxDexterity": 5,
+    "Vitality": 3,
+    "MaxVitality": 6,
+    "Special": 2,
+    "MaxSpecial": 5,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Battle Armor",
+    "Ability2": "",
+    "HiddenAbility": "Defiant",
+    "EventAbilities": "",
+    "RecommendedRank": "Amateur",
+    "GenderType": "N",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "falinks",
+    "DexCategory": "Formation Pokemon",
+    "Height": {
+        "Meters": 3.0,
+        "Feet": 9.8
+    },
+    "Weight": {
+        "Kilograms": 62.0,
+        "Pounds": 136.7
+    },
+    "DexDescription": "It is formed by six of them, five are troopers, and one is the brass. The brass\u2019s orders are absolute to the others, they work as a perfect team and can rearrange their formation to better suit them in battle.",
+    "Evolutions": [],
+    "Image": "falinks.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Protect"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Rock Smash"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Focus Energy"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Headbutt"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Bulk Up"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Endure"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Reversal"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "First Impression"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "No Retreat"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Iron Defense"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Close Combat"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Megahorn"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Counter"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Swords Dance"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Iron Head"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Poison Jab"
+        }
+    ]
+}

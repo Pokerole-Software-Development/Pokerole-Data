@@ -1,0 +1,135 @@
+{
+    "Number": 332,
+    "DexID": "0332",
+    "Name": "Cacturne",
+    "Type1": "Grass",
+    "Type2": "Dark",
+    "BaseHP": 4,
+    "Strength": 3,
+    "MaxStrength": 6,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 3,
+    "MaxSpecial": 6,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Sand Veil",
+    "Ability2": "",
+    "HiddenAbility": "Water Absorb",
+    "EventAbilities": "",
+    "RecommendedRank": "Amateur",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "cacturne",
+    "DexCategory": "Scarecrow Pokemon",
+    "Height": {
+        "Meters": 1.3,
+        "Feet": 4.3
+    },
+    "Weight": {
+        "Kilograms": 77.4,
+        "Pounds": 170.6
+    },
+    "DexDescription": "They only move during the night. If they spot a traveler, Cacturnes will stalk them in groups, waiting for the exhausted creatures to sleep before attacking. Their insides are actually sand.",
+    "Evolutions": [
+        {
+            "From": "Cacnea",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "cacturne.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Poison Sting"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Leer"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Absorb"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Growth"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Payback"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Spiky Shield"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Leech Seed"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Sand Attack"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Pin Missile"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Ingrain"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Feint Attack"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Spikes"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Energy Ball"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Revenge"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Sucker Punch"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Needle Arm"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Cotton Spore"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Sandstorm"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Destiny Bond"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Drain Punch"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Spite"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Seed Bomb"
+        }
+    ]
+}

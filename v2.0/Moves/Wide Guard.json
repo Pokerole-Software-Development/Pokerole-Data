@@ -1,0 +1,19 @@
+{
+    "Name": "Wide Guard",
+    "Type": "Rock",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Vitality",
+    "Accuracy2": "Brawl",
+    "Target": "User and Allies",
+    "Effect": "Priority 3. Shield. Reduce 3 Damage the User and Allies would receive from a damaging move. Reduce to zero the set damage from a move the User and Allies would take.",
+    "Description": "The Pokemon uses its whole body to provide coverage and protection to its allies against an incoming attack.",
+    "_id": "wide-guard",
+    "Attributes": {
+        "ShieldMove": true,
+        "Priority": 3
+    },
+    "AddedEffects": {},
+    "Category": "Support"
+}

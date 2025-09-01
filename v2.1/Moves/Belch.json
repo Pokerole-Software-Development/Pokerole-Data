@@ -1,0 +1,18 @@
+{
+    "Name": "Belch",
+    "Type": "Poison",
+    "Power": 5,
+    "Damage1": "Special",
+    "Damage2": "",
+    "Accuracy1": "Special",
+    "Accuracy2": "Channel",
+    "Target": "Foe",
+    "Effect": "The user must eat something before using this Move. -1 Accuracy.",
+    "Description": "The user lets out a horrible belch on the target. The air contains toxins that deal a terrible damage.",
+    "_id": "belch",
+    "Attributes": {
+        "AccuracyReduction": 1
+    },
+    "AddedEffects": {},
+    "Category": "Special"
+}

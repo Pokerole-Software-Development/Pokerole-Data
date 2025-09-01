@@ -1,0 +1,143 @@
+{
+    "Number": 262,
+    "DexID": "0262",
+    "Name": "Mightyena",
+    "Type1": "Dark",
+    "Type2": "",
+    "BaseHP": 4,
+    "Strength": 3,
+    "MaxStrength": 6,
+    "Dexterity": 2,
+    "MaxDexterity": 5,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Intimidate",
+    "Ability2": "Quick Feet",
+    "HiddenAbility": "Moxie",
+    "EventAbilities": "",
+    "RecommendedRank": "Amateur",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "mightyena",
+    "DexCategory": "Bite Pokemon",
+    "Height": {
+        "Meters": 1.0,
+        "Feet": 3.3
+    },
+    "Weight": {
+        "Kilograms": 37.0,
+        "Pounds": 81.6
+    },
+    "DexDescription": "They attack savagely, travel in packs and hunt in groups. They will only obey trainers that show superior skills, which they recognize as the alpha leader. They are extremely obedient once they find a master.",
+    "Evolutions": [
+        {
+            "From": "Poochyena",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "mightyena.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Howl"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Bite"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Sand Attack"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Roar"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Odor Sleuth"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Assurance"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Swagger"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Taunt"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Scary Face"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Fire Fang"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Yawn"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Thunder Fang"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Take Down"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Thief"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Ice Fang"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Embargo"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Crunch"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Play Rough"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Snarl"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Sucker Punch"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Counter"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Snatch"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Poison Fang"
+        }
+    ]
+}

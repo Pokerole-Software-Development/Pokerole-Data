@@ -1,0 +1,117 @@
+{
+    "Number": 227,
+    "DexID": "0227",
+    "Name": "Skarmory",
+    "Type1": "Steel",
+    "Type2": "Flying",
+    "BaseHP": 4,
+    "Strength": 2,
+    "MaxStrength": 5,
+    "Dexterity": 2,
+    "MaxDexterity": 5,
+    "Vitality": 3,
+    "MaxVitality": 7,
+    "Special": 1,
+    "MaxSpecial": 3,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Keen Eye",
+    "Ability2": "Sturdy",
+    "HiddenAbility": "Weak Armor",
+    "EventAbilities": "",
+    "RecommendedRank": "Ace",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "skarmory",
+    "DexCategory": "Armor Bird Pokemon",
+    "Height": {
+        "Meters": 1.7,
+        "Feet": 5.6
+    },
+    "Weight": {
+        "Kilograms": 50.5,
+        "Pounds": 111.3
+    },
+    "DexDescription": "Their wings are hollow and light. They nest inside bramble bushes, growing harder from scratches made by thorns. Their wings were used as swords and knives in old times. Beware of their sharp beak.",
+    "Evolutions": [],
+    "Image": "skarmory.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Leer"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Peck"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Sand Attack"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Swift"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Metal Claw"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Agility"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Fury Attack"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Feint"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Air Cutter"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Spikes"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Metal Sound"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Steel Wing"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Autotomize"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Air Slash"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Slash"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Night Slash"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Brave Bird"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Ominous Wind"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Pursuit"
+        }
+    ]
+}

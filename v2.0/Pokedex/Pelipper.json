@@ -1,0 +1,135 @@
+{
+    "Number": 279,
+    "DexID": "0279",
+    "Name": "Pelipper",
+    "Type1": "Water",
+    "Type2": "Flying",
+    "BaseHP": 4,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 3,
+    "MaxVitality": 6,
+    "Special": 2,
+    "MaxSpecial": 5,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Keen Eye",
+    "Ability2": "Drizzle",
+    "HiddenAbility": "Rain Dish",
+    "EventAbilities": "",
+    "RecommendedRank": "Amateur",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "pelipper",
+    "DexCategory": "Water Bird Pokemon",
+    "Height": {
+        "Meters": 1.2,
+        "Feet": 3.9
+    },
+    "Weight": {
+        "Kilograms": 28.0,
+        "Pounds": 61.7
+    },
+    "DexDescription": "Pelipper has been seen carrying eggs and other Pokemon inside its massive bill, protecting them from predators and storms, transporting the young through the great seas.",
+    "Evolutions": [
+        {
+            "From": "Wingull",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "pelipper.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Growl"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Water Gun"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Water Sport"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Supersonic"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Soak"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Wing Attack"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Water Pulse"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Mist"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Protect"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Payback"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Brine"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Roost"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Spit Up"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Swallow"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Stockpile"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Tailwind"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Fling"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Hydro Pump"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Hurricane"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Shock Wave"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Wide Guard"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Gunk Shot"
+        }
+    ]
+}

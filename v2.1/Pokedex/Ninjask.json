@@ -1,0 +1,135 @@
+{
+    "Number": 291,
+    "DexID": "0291",
+    "Name": "Ninjask",
+    "Type1": "Bug",
+    "Type2": "Flying",
+    "BaseHP": 4,
+    "Strength": 2,
+    "MaxStrength": 5,
+    "Dexterity": 4,
+    "MaxDexterity": 8,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Speed Boost",
+    "Ability2": "Infiltrator",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Advanced",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "ninjask",
+    "DexCategory": "Ninja Pokémon",
+    "Height": {
+        "Meters": 0.8,
+        "Feet": 2.6
+    },
+    "Weight": {
+        "Kilograms": 12.0,
+        "Pounds": 26.5
+    },
+    "DexDescription": "Due to their speed and stealthiness, this Pokémon was believed to be invisible. They refuse to obey people and cry continuously if forced. People burn their husks as they are said to be cursed.",
+    "Evolutions": [
+        {
+            "From": "Nincada",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "ninjask.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Scratch"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Sand Attack"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Mud Slap"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "False Swipe"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Absorb"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Bug Bite"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Agility"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Mind Reader"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Fury Swipes"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Double Team"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Baton Pass"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Aerial Ace"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Fury Cutter"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Screech"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Leech Life"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Metal Claw"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Slash"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Swords Dance"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "X-Scissor"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Silver Wind"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Night Slash"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Final Gambit"
+        }
+    ]
+}

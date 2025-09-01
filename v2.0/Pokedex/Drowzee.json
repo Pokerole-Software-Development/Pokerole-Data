@@ -1,0 +1,119 @@
+{
+    "Number": 96,
+    "DexID": "0096",
+    "Name": "Drowzee",
+    "Type1": "Psychic",
+    "Type2": "",
+    "BaseHP": 3,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 1,
+    "MaxDexterity": 3,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 1,
+    "MaxSpecial": 3,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Insomnia",
+    "Ability2": "Forewarn",
+    "HiddenAbility": "Inner Focus",
+    "EventAbilities": "",
+    "RecommendedRank": "Beginner",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "drowzee",
+    "DexCategory": "Hypnosis Pokemon",
+    "Height": {
+        "Meters": 1.0,
+        "Feet": 3.3
+    },
+    "Weight": {
+        "Kilograms": 32.4,
+        "Pounds": 71.4
+    },
+    "DexDescription": "It eats the dreams of a sleeping person or Pokemon and shows fondness to the dreams of young children. Once the victim is deep in slumber it will extract and eat the dream through the nose.",
+    "Evolutions": [
+        {
+            "To": "Hypno",
+            "Kind": "Level",
+            "Speed": "Slow"
+        }
+    ],
+    "Image": "drowzee.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Pound"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Hypnosis"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Disable"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Poison Gas"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Meditate"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Psybeam"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Headbutt"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Psych Up"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Synchronoise"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Zen Headbutt"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Swagger"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Psychic"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Nasty Plot"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Psyshock"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Future Sight"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Role Play"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Thunder Wave"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Substitute"
+        }
+    ]
+}

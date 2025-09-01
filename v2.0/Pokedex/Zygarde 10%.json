@@ -1,0 +1,127 @@
+{
+    "Number": 718,
+    "DexID": "0718F1",
+    "Name": "Zygarde 10%",
+    "Type1": "Dragon",
+    "Type2": "Ground",
+    "BaseHP": 4,
+    "Strength": 6,
+    "MaxStrength": 6,
+    "Dexterity": 6,
+    "MaxDexterity": 6,
+    "Vitality": 5,
+    "MaxVitality": 5,
+    "Special": 4,
+    "MaxSpecial": 4,
+    "Insight": 5,
+    "MaxInsight": 5,
+    "Ability1": "Aura Break",
+    "Ability2": "Power Construct",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Pro",
+    "GenderType": "N",
+    "Legendary": true,
+    "GoodStarter": false,
+    "_id": "zygarde-10",
+    "DexCategory": "No Data",
+    "Height": {
+        "Meters": 1.2,
+        "Feet": 3.9
+    },
+    "Weight": {
+        "Kilograms": 33.5,
+        "Pounds": 73.9
+    },
+    "DexDescription": "When 10% of the Zygarde Cells gather, they form this Pokemon, the more cells it gathers the more its strength will increase.",
+    "Evolutions": [
+        {
+            "From": "Zygarde Cell",
+            "Kind": "Special",
+            "Item": "Zyguarde cells"
+        }
+    ],
+    "Image": "zygarde-10.png",
+    "Moves": [
+        {
+            "Learned": "Master",
+            "Name": "Glare"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Bulldoze"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Dragon Breath"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Bite"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Safeguard"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Dig"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Bind"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Land's Wrath"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Sandstorm"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Haze"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Crunch"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Earthquake"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Camouflage"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Dragon Pulse"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Coil"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Outrage"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Extreme Speed"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Dragon Dance"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Thousand Waves"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Thousand Arrows"
+        }
+    ]
+}

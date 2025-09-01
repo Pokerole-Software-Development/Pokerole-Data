@@ -1,0 +1,36 @@
+{
+    "Name": "No Retreat",
+    "Type": "Fighting",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Insight",
+    "Accuracy2": "Nature",
+    "Target": "User",
+    "Effect": "Increase the User's Strength, Dexterity, Special, Defense and Sp. Defense. The user is now blocked.",
+    "Description": "No surrender. No retreat. Until victory always.",
+    "_id": "no-retreat",
+    "Attributes": {},
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "Strength",
+                    "Dexterity",
+                    "Special",
+                    "Def",
+                    "SpDef"
+                ],
+                "Stages": 1,
+                "Affects": "User"
+            }
+        ],
+        "Ailments": [
+            {
+                "Type": "Block",
+                "Affects": "User"
+            }
+        ]
+    },
+    "Category": "Support"
+}

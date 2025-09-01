@@ -1,0 +1,111 @@
+{
+    "Number": 223,
+    "DexID": "0223",
+    "Name": "Remoraid",
+    "Type1": "Water",
+    "Type2": "",
+    "BaseHP": 3,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 1,
+    "MaxVitality": 3,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 1,
+    "MaxInsight": 3,
+    "Ability1": "Hustle",
+    "Ability2": "Sniper",
+    "HiddenAbility": "Moody",
+    "EventAbilities": "",
+    "RecommendedRank": "Beginner",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "remoraid",
+    "DexCategory": "Jet Pokemon",
+    "Height": {
+        "Meters": 0.6,
+        "Feet": 2.0
+    },
+    "Weight": {
+        "Kilograms": 12.0,
+        "Pounds": 26.5
+    },
+    "DexDescription": "Remoraid has a remarkable aim with its water gun. This ability is used to hunt down flying enemies above the sea. They can be seen clinging into Mantines to travel faster.",
+    "Evolutions": [
+        {
+            "To": "Octillery",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "remoraid.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Water Gun"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Lock-On"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Psybeam"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Aurora Beam"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Bubble Beam"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Focus Energy"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Water Pulse"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Signal Beam"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Ice Beam"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Bullet Seed"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Hydro Pump"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Hyper Beam"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Soak"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Mud Shot"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Dive"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Supersonic"
+        }
+    ]
+}

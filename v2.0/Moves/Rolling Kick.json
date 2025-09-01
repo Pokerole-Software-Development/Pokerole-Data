@@ -1,0 +1,26 @@
+{
+    "Name": "Rolling Kick",
+    "Type": "Fighting",
+    "Power": 2,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "Roll 3 Chance Dice to Flinch the Foe. -2 Accuracy.",
+    "Description": "The user spins in the air landing an impressive kick that may daze the target.",
+    "_id": "rolling-kick",
+    "Attributes": {
+        "AccuracyReduction": 2
+    },
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Flinch",
+                "Affects": "Targets",
+                "ChanceDice": 3
+            }
+        ]
+    },
+    "Category": "Physical"
+}

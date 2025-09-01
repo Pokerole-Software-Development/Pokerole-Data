@@ -1,0 +1,123 @@
+{
+    "Number": 730,
+    "DexID": "0730",
+    "Name": "Primarina",
+    "Type1": "Water",
+    "Type2": "Fairy",
+    "BaseHP": 5,
+    "Strength": 2,
+    "MaxStrength": 5,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 3,
+    "MaxSpecial": 7,
+    "Insight": 3,
+    "MaxInsight": 6,
+    "Ability1": "Torrent",
+    "Ability2": "",
+    "HiddenAbility": "Liquid Voice",
+    "EventAbilities": "",
+    "RecommendedRank": "Ace",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "primarina",
+    "DexCategory": "Soloist Pokemon",
+    "Height": {
+        "Meters": 1.8,
+        "Feet": 5.9
+    },
+    "Weight": {
+        "Kilograms": 44.0,
+        "Pounds": 97.0
+    },
+    "DexDescription": "All modern Primarina sing a song that has been passed down through generations. Legend says that you can hear their true song when you are in the deep of the sea. Make sure its throat doesn\u2019t get sore.",
+    "Evolutions": [
+        {
+            "From": "Brionne",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "primarina.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Water Gun"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Pound"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Disarming Voice"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Growl"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Baby-Doll Eyes"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Hyper Voice"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Aqua Jet"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Encore"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Bubble Beam"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Sing"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Double Slap"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Sparkling Aria"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Moonblast"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Captivate"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Hydro Pump"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Misty Terrain"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Perish Song"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Amnesia"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Misty Terrain"
+        }
+    ]
+}

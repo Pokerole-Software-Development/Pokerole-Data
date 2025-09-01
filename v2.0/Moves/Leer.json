@@ -1,0 +1,26 @@
+{
+    "Name": "Leer",
+    "Type": "Normal",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Tough",
+    "Accuracy2": "Intimidate",
+    "Target": "All Foes",
+    "Effect": "Reduce the Defense of those affected.",
+    "Description": "A vicious glare that will make any opponent doubt its own strength in battle.",
+    "_id": "leer",
+    "Attributes": {},
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "Def"
+                ],
+                "Stages": -1,
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Support"
+}

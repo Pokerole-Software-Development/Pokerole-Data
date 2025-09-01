@@ -1,0 +1,19 @@
+{
+    "Name": "Psychic Fangs",
+    "Type": "Psychic",
+    "Power": 3,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Strength",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "Single Target. Bite Move. If there is a Force Field on the Target's side of the field, destroy it",
+    "Description": "The Pokémon bares its fangs to bite the foe. Psychic energy begins piercing before the actual fangs make contact.",
+    "_id": "psychic-fangs",
+    "Attributes": {
+        "DestroyShield": true,
+        "BiteMove": true
+    },
+    "AddedEffects": {},
+    "Category": "Physical"
+}

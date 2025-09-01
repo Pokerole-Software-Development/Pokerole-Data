@@ -1,0 +1,29 @@
+{
+    "Name": "Crunch",
+    "Type": "Dark",
+    "Power": 3,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "Lethal. Roll 1 Chance Dice to reduce foe's Defense.",
+    "Description": "The Pokemon uses its fangs to viciously tear whatever it is biting.",
+    "_id": "crunch",
+    "Attributes": {
+        "Lethal": true
+    },
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "Def"
+                ],
+                "Stages": -1,
+                "ChanceDice": 1,
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Physical"
+}

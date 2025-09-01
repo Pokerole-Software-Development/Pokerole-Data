@@ -1,0 +1,119 @@
+{
+    "Number": 108,
+    "DexID": "0108",
+    "Name": "Lickitung",
+    "Type1": "Normal",
+    "Type2": "",
+    "BaseHP": 3,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 1,
+    "MaxDexterity": 3,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Own Tempo",
+    "Ability2": "Oblivious",
+    "HiddenAbility": "Cloud Nine",
+    "EventAbilities": "",
+    "RecommendedRank": "Amateur",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "lickitung",
+    "DexCategory": "Licking Pokemon",
+    "Height": {
+        "Meters": 1.2,
+        "Feet": 3.9
+    },
+    "Weight": {
+        "Kilograms": 65.5,
+        "Pounds": 144.4
+    },
+    "DexDescription": "Its tongue is twice as long as its body and it is used for everything, from capturing prey to feeling it\u2019s surroundings and cleaning itself. It really dislikes sour and bitter flavors.",
+    "Evolutions": [
+        {
+            "To": "Lickilicky",
+            "Kind": "Level",
+            "Speed": "Slow"
+        }
+    ],
+    "Image": "lickitung.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Lick"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Supersonic"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Defense Curl"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Knock Off"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Wrap"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Stomp"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Disable"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Slam"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Rollout"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Chip Away"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Me First"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Refresh"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Screech"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Power Whip"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Wring Out"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Belly Drum"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Aqua Tail"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Zen Headbutt"
+        }
+    ]
+}

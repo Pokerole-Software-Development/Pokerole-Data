@@ -1,0 +1,107 @@
+{
+    "Number": 868,
+    "DexID": "0868",
+    "Name": "Milcery",
+    "Type1": "Fairy",
+    "Type2": "",
+    "BaseHP": 3,
+    "Strength": 1,
+    "MaxStrength": 3,
+    "Dexterity": 1,
+    "MaxDexterity": 3,
+    "Vitality": 1,
+    "MaxVitality": 3,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Sweet Veil",
+    "Ability2": "",
+    "HiddenAbility": "Aroma Veil",
+    "EventAbilities": "",
+    "RecommendedRank": "Starter",
+    "GenderType": "F",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "milcery",
+    "DexCategory": "Cream Pokemon",
+    "Height": {
+        "Meters": 0.2,
+        "Feet": 0.7
+    },
+    "Weight": {
+        "Kilograms": 0.3,
+        "Pounds": 0.7
+    },
+    "DexDescription": "This Pokemon was born from sweet-smelling particles in the air, its body is made of cream, Finding one in your kitchen means Good Fortune. Give them berries and whip them with a whisk so they can evolve.",
+    "Evolutions": [
+        {
+            "To": "Alcremie",
+            "Kind": "Special",
+            "Special": "Berry & spin"
+        }
+    ],
+    "Image": "milcery.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Aromatic Mist"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Sweet Kiss"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Sweet Scent"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Draining Kiss"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Aromatherapy"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Attract"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Acid Armor"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Dazzling Gleam"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Recover"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Misty Terrain"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Entrainment"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Charm"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Helping Hand"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Fling"
+        }
+    ]
+}

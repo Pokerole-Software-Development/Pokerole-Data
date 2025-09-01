@@ -1,0 +1,22 @@
+{
+    "Name": "Bouncy Bubble",
+    "Type": "Water",
+    "Power": 3,
+    "Damage1": "Special",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Channel",
+    "Target": "Foe",
+    "Effect": "The user restores HP equal to half the damage dealt, rounded down. If the user of this Move is at its Final Stage of Evolution, this move fails.",
+    "Description": "The user shoots bubbles at its target, the bubbles fill up with fresh water upon contact and bounce back towards the user. Should you drink the water inside? Who cares? It's fun!",
+    "_id": "bouncy-bubble",
+    "Attributes": {},
+    "AddedEffects": {
+        "Heal": {
+            "Type": "Leech",
+            "Percentage": 0.5,
+            "Target": "User"
+        }
+    },
+    "Category": "Special"
+}

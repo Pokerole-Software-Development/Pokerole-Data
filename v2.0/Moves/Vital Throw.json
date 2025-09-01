@@ -1,0 +1,19 @@
+{
+    "Name": "Vital Throw",
+    "Type": "Fighting",
+    "Power": 2,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "Low Priority 1. Never Fail.",
+    "Description": "The Pokemon awaits for the perfect moment to strike the foe.",
+    "_id": "vital-throw",
+    "Attributes": {
+        "NeverFail": true,
+        "Priority": -1
+    },
+    "AddedEffects": {},
+    "Category": "Physical"
+}

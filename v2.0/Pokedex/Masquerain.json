@@ -1,0 +1,115 @@
+{
+    "Number": 284,
+    "DexID": "0284",
+    "Name": "Masquerain",
+    "Type1": "Bug",
+    "Type2": "Flying",
+    "BaseHP": 4,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 2,
+    "MaxDexterity": 5,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 3,
+    "MaxSpecial": 6,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Intimidate",
+    "Ability2": "",
+    "HiddenAbility": "Unnerve",
+    "EventAbilities": "",
+    "RecommendedRank": "Amateur",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "masquerain",
+    "DexCategory": "Eyeball Pokemon",
+    "Height": {
+        "Meters": 0.8,
+        "Feet": 2.6
+    },
+    "Weight": {
+        "Kilograms": 3.6,
+        "Pounds": 7.9
+    },
+    "DexDescription": "Their antennas look like terrifying eyes. Masquerains can fly in any direction like a helicopter, but their wings are soft and fragile, so they can\u2019t fly when it\u2019s raining. They cling to trees at night to sleep.",
+    "Evolutions": [
+        {
+            "From": "Surskit",
+            "Kind": "Level",
+            "Speed": "Fast"
+        }
+    ],
+    "Image": "masquerain.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Bubble"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Sweet Scent"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Quick Attack"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Ominous Wind"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Quiver Dance"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Stun Spore"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Water Sport"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Whirlwind"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Air Cutter"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Gust"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Scary Face"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Bug Buzz"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Silver Wind"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Air Slash"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Fell Stinger"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Giga Drain"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Psybeam"
+        }
+    ]
+}

@@ -1,0 +1,87 @@
+{
+    "Number": 38,
+    "DexID": "0038A",
+    "Name": "Ninetales (Alolan Form)",
+    "Type1": "Ice",
+    "Type2": "",
+    "BaseHP": 4,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 3,
+    "MaxDexterity": 6,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 2,
+    "MaxSpecial": 5,
+    "Insight": 3,
+    "MaxInsight": 6,
+    "Ability1": "Snow Cloak",
+    "Ability2": "",
+    "HiddenAbility": "Snow Warning",
+    "EventAbilities": "",
+    "RecommendedRank": "Amateur",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "ninetales-alolan-form",
+    "DexCategory": "Fox Pokemon",
+    "Height": {
+        "Meters": 1.1,
+        "Feet": 3.6
+    },
+    "Weight": {
+        "Kilograms": 19.9,
+        "Pounds": 43.9
+    },
+    "DexDescription": "In old times, Alolan natives revered this Pokemon as a god incarnate. It is usually calm and benevolent, but it can be ruthless when disturbed, leaving its foes as a cold block of ice in the snow.",
+    "Evolutions": [
+        {
+            "From": "Vulpix (Alolan Form)",
+            "Kind": "Stone",
+            "Item": "Ice Stone"
+        }
+    ],
+    "Image": "ninetales-alolan-form.png",
+    "Moves": [
+        {
+            "Learned": "Amateur",
+            "Name": "Dazzling Gleam"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Imprison"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Nasty Plot"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Ice Beam"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Ice Shard"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Confuse Ray"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Safeguard"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Agility"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Moonblast"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Aurora Veil"
+        }
+    ]
+}

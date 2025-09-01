@@ -1,0 +1,28 @@
+{
+    "Name": "Magma Storm",
+    "Type": "Fire",
+    "Power": 4,
+    "Damage1": "Special",
+    "Damage2": "",
+    "Accuracy1": "Special",
+    "Accuracy2": "Channel",
+    "Target": "Foe",
+    "Effect": "Single Target. Low Accuracy 2. Lethal. Blocks. Roll 3 Fire-Type Damage Dice at the end of each Round. Duration 4 Rounds.",
+    "Description": "The Pokémon shoots a fiery eruption at its foe. Unable to escape and surrounded by the unbearable heat, the foe's survival is at risk.",
+    "_id": "magma-storm",
+    "Attributes": {
+        "BlockDamagePool": 3,
+        "AccuracyReduction": 2,
+        "Lethal": true,
+        "Duration": 4
+    },
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Block",
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Special"
+}

@@ -1,0 +1,27 @@
+{
+    "Name": "Power Swap",
+    "Type": "Psychic",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Special",
+    "Accuracy2": "Channel",
+    "Target": "Foe",
+    "Effect": "Switch your Strength and Special with your foe.",
+    "Description": "The Pokemon employs its psychic power to make the opponent feel like it's got your weaknesses and make the user feel like it's got the target's strength.",
+    "_id": "power-swap",
+    "Attributes": {},
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "PowerSwap",
+                "Affects": "Targets"
+            },
+            {
+                "Type": "PowerSwap",
+                "Affects": "User"
+            }
+        ]
+    },
+    "Category": "Support"
+}

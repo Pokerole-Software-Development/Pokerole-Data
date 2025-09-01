@@ -1,0 +1,139 @@
+{
+    "Number": 59,
+    "DexID": "0059H",
+    "Name": "Arcanine (Hisuian Form)",
+    "Type1": "Fire",
+    "Type2": "Rock",
+    "BaseHP": 6,
+    "Strength": 3,
+    "MaxStrength": 6,
+    "Dexterity": 3,
+    "MaxDexterity": 6,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 3,
+    "MaxSpecial": 6,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Intimidate",
+    "Ability2": "Justified",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Ace",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "arcanine-hisuian-form",
+    "DexCategory": "Legendary Pokemon",
+    "Height": {
+        "Meters": 1.9,
+        "Feet": 6.3
+    },
+    "Weight": {
+        "Kilograms": 155,
+        "Pounds": 340
+    },
+    "DexDescription": "In the ancient land of Hisui there were myths of a might beast made of fire and stone. It is believed to have been an Arcanine, but today's specimens barly resemble the mighty creatures in the old scrolls.",
+    "Evolutions": [
+        {
+            "From": "Growlithe (Hisuian Form)",
+            "Kind": "Stone",
+            "Item": "Fire Stone"
+        }
+    ],
+    "Image": "arcanine-hisuian-form.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Roar"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Ember"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Bite"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Leer"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Odor Sleuth"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Flame Wheel"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Accelerock"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Ancient Power"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Fire Fang"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Thunder Fang"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Work Up"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Power Gem"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Flamethrower"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Lava Plume"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Rock Slide"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Raging Fury"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Crunch"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Morning Sun"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Flare Blitz"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Outrage"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Scorching Sands"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Meteor Beam"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Wild Charge"
+        }
+    ]
+}

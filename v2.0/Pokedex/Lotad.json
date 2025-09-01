@@ -1,0 +1,107 @@
+{
+    "Number": 270,
+    "DexID": "0270",
+    "Name": "Lotad",
+    "Type1": "Water",
+    "Type2": "Grass",
+    "BaseHP": 3,
+    "Strength": 1,
+    "MaxStrength": 3,
+    "Dexterity": 1,
+    "MaxDexterity": 3,
+    "Vitality": 1,
+    "MaxVitality": 3,
+    "Special": 1,
+    "MaxSpecial": 3,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Swift Swim",
+    "Ability2": "Rain Dish",
+    "HiddenAbility": "Own Tempo",
+    "EventAbilities": "",
+    "RecommendedRank": "Starter",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "lotad",
+    "DexCategory": "Water Weed Pokemon",
+    "Height": {
+        "Meters": 0.5,
+        "Feet": 1.6
+    },
+    "Weight": {
+        "Kilograms": 2.6,
+        "Pounds": 5.7
+    },
+    "DexDescription": "They live in ponds and lakes, floating atop the water. The big leaf on their head is known to act as a ferry for smaller Pokemon. The leaf is delicate and needs constant watering or else Lotad will grow sick.",
+    "Evolutions": [
+        {
+            "To": "Lombre",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "lotad.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Astonish"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Growl"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Absorb"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Nature Power"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Bubble"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Mist"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Natural Gift"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Mega Drain"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Bubble Beam"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Rain Dance"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Zen Headbutt"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Leech Seed"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Energy Ball"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Sweet Scent"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Flail"
+        }
+    ]
+}

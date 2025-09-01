@@ -1,0 +1,141 @@
+{
+    "Number": 6,
+    "DexID": "0006",
+    "Name": "Charizard",
+    "Type1": "Fire",
+    "Type2": "Flying",
+    "BaseHP": 5,
+    "Strength": 2,
+    "MaxStrength": 5,
+    "Dexterity": 3,
+    "MaxDexterity": 6,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 3,
+    "MaxSpecial": 6,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Blaze",
+    "Ability2": "",
+    "HiddenAbility": "Solar Power",
+    "EventAbilities": "",
+    "RecommendedRank": "Ace",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "charizard",
+    "DexCategory": "Flame Pokemon",
+    "Height": {
+        "Meters": 1.7,
+        "Feet": 5.6
+    },
+    "Weight": {
+        "Kilograms": 90.5,
+        "Pounds": 199.5
+    },
+    "DexDescription": "A Charizard flies around looking for strong opponents. It breathes intense flames that can melt any material. However, it will never touch a weaker foe. Not many trainers are able to handle its bad temper.",
+    "Evolutions": [
+        {
+            "From": "Charmeleon",
+            "Kind": "Level",
+            "Speed": "Medium"
+        },
+        {
+            "To": "Charizard (Mega Y Form)",
+            "Kind": "Mega",
+            "Item": "Charizardite Y"
+        },
+        {
+            "To": "Charizard (Mega X Form)",
+            "Kind": "Mega",
+            "Item": "Charizardite X"
+        }
+    ],
+    "Image": "charizard.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Scratch"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Smokescreen"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Ember"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Growl"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Fire Fang"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Dragon Rage"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Air Slash"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Slash"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Scary Face"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Fire Spin"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Flame Burst"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Wing Attack"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Dragon Claw"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Flamethrower"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Shadow Claw"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Flare Blitz"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Heat Wave"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Inferno"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Thunder Punch"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Outrage"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Blast Burn"
+        }
+    ]
+}

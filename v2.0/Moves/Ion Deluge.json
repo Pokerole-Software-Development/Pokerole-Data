@@ -1,0 +1,23 @@
+{
+    "Name": "Ion Deluge",
+    "Type": "Electric",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Insight",
+    "Accuracy2": "Nature",
+    "Target": "Battlefield",
+    "Effect": "For the rest of the Scene, Normal Type Moves will deal damage as if they were Electric Type Moves.",
+    "Description": "The user amplifies all electrically charged particles in the environment. The results are shocking!",
+    "_id": "ion-deluge",
+    "Attributes": {},
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "IonDeluge",
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Support"
+}

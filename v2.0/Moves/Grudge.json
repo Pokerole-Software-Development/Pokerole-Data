@@ -1,0 +1,16 @@
+{
+    "Name": "Grudge",
+    "Type": "Ghost",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Will",
+    "Accuracy2": "Channel",
+    "Target": "Foe",
+    "Effect": "The User Faints. The foe gets its Will depleted and any effects gained from spending them. The Foe must roll Loyalty at the end of every Round to keep battling. Each Round 1 more success is required.",
+    "Description": "The user leaves an imprinting grudge over the foe, this makes the target unwilling to fight. It may only keep battling if something greater is at risk.",
+    "_id": "grudge",
+    "Attributes": {},
+    "AddedEffects": {},
+    "Category": "Support"
+}

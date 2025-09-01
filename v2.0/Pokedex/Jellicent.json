@@ -1,0 +1,115 @@
+{
+    "Number": 593,
+    "DexID": "0593",
+    "Name": "Jellicent",
+    "Type1": "Water",
+    "Type2": "Ghost",
+    "BaseHP": 5,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 2,
+    "MaxSpecial": 5,
+    "Insight": 3,
+    "MaxInsight": 6,
+    "Ability1": "Water Absorb",
+    "Ability2": "Cursed Body",
+    "HiddenAbility": "Damp",
+    "EventAbilities": "",
+    "RecommendedRank": "Ace",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "jellicent",
+    "DexCategory": "Floating Pokemon",
+    "Height": {
+        "Meters": 2.2,
+        "Feet": 7.2
+    },
+    "Weight": {
+        "Kilograms": 135.0,
+        "Pounds": 297.6
+    },
+    "DexDescription": "Its body is mostly seawater. It feeds on the life energy of its victims. It is regal, pompous, and hates orders. The fate of the ships and crew that wander into Jellicent's territory: All sunken, all lost, all vanished.",
+    "Evolutions": [
+        {
+            "From": "Frillish",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "jellicent.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Bubble"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Water Sport"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Absorb"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Night Shade"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Bubble Beam"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Recover"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Water Pulse"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Ominous Wind"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Brine"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Rain Dance"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Wring Out"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Water Spout"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Hex"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Hydro Pump"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Acid Armor"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Spite"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Confuse Ray"
+        }
+    ]
+}

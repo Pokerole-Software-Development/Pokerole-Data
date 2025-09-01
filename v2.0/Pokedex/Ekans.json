@@ -1,0 +1,127 @@
+{
+    "Number": 23,
+    "DexID": "0023",
+    "Name": "Ekans",
+    "Type1": "Poison",
+    "Type2": "",
+    "BaseHP": 3,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 1,
+    "MaxVitality": 3,
+    "Special": 1,
+    "MaxSpecial": 3,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Intimidate",
+    "Ability2": "Shed Skin",
+    "HiddenAbility": "Unnerve",
+    "EventAbilities": "",
+    "RecommendedRank": "Beginner",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "ekans",
+    "DexCategory": "Snake Pokemon",
+    "Height": {
+        "Meters": 2.0,
+        "Feet": 6.6
+    },
+    "Weight": {
+        "Kilograms": 6.9,
+        "Pounds": 15.2
+    },
+    "DexDescription": "Lives on grasslands. Preys on Rattatas and Pokemon Eggs it finds. It\u2019s jaw can detach itself to swallow any prey whole. It coils and sleeps after eating. Ekans grow bigger with age.",
+    "Evolutions": [
+        {
+            "To": "Arbok",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "ekans.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Wrap"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Leer"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Poison Sting"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Bite"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Glare"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Screech"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Acid"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Stockpile"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Spit Up"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Swallow"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Acid Spray"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Mud Bomb"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Gastro Acid"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Belch"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Haze"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Coil"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Gunk Shot"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Aqua Tail"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Scary Face"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Disable"
+        }
+    ]
+}

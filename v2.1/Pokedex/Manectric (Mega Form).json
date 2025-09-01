@@ -1,0 +1,123 @@
+{
+    "Number": 310,
+    "DexID": "0310M1",
+    "Name": "Manectric (Mega Form)",
+    "Type1": "Electric",
+    "Type2": "",
+    "BaseHP": 6,
+    "Strength": 2,
+    "MaxStrength": 5,
+    "Dexterity": 3,
+    "MaxDexterity": 7,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 3,
+    "MaxSpecial": 7,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Intimidate",
+    "Ability2": "",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Ace",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "manectric-mega-form",
+    "DexCategory": "Discharge Pokémon",
+    "Height": {
+        "Meters": 1.8,
+        "Feet": 5.9
+    },
+    "Weight": {
+        "Kilograms": 44.0,
+        "Pounds": 97.0
+    },
+    "DexDescription": "The power of the Mega Stone gives it an insurmountable amount of electricity that gives it an explosive velocity, but it is too much for it to bear. Its mane grows uncomfortably large, making it moody.",
+    "Evolutions": [
+        {
+            "From": "Manectric",
+            "Kind": "Mega",
+            "Item": "Manectite"
+        }
+    ],
+    "Image": "manectric-mega-form.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Leer"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Thunder Wave"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Howl"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Quick Attack"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Spark"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Odor Sleuth"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Bite"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Electric Terrain"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Roar"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Thunder Fang"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Fire Fang"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Discharge"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Charge"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Wild Charge"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Thunder"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Rising Voltage"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Magnet Rise"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Psychic Fangs"
+        }
+    ]
+}

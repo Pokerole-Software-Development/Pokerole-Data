@@ -1,0 +1,116 @@
+{
+    "Number": 404,
+    "DexID": "0404",
+    "Name": "Luxio",
+    "Type1": "Electric",
+    "Type2": "",
+    "BaseHP": 4,
+    "Strength": 2,
+    "MaxStrength": 5,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Rivalry",
+    "Ability2": "Intimidate",
+    "HiddenAbility": "Guts",
+    "EventAbilities": "",
+    "RecommendedRank": "Amateur",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "luxio",
+    "DexCategory": "Spark Pokemon",
+    "Height": {
+        "Meters": 0.9,
+        "Feet": 3.0
+    },
+    "Weight": {
+        "Kilograms": 30.5,
+        "Pounds": 67.2
+    },
+    "DexDescription": "Female Luxios stay with the pride but males roam in marauding groups, trying to become strong enough to make their own pride. Its claws and teeth are charged with electricity, approach with caution.",
+    "Evolutions": [
+        {
+            "From": "Shinx",
+            "Kind": "Level",
+            "Speed": "Medium"
+        },
+        {
+            "To": "Luxray",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "luxio.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Leer"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Charge"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Baby-Doll Eyes"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Spark"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Bite"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Roar"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Swagger"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Thunder Fang"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Crunch"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Scary Face"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Discharge"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Wild Charge"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Howl"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Ice Fang"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Fire Fang"
+        }
+    ]
+}

@@ -1,0 +1,105 @@
+{
+    "Number": 883,
+    "DexID": "0883",
+    "Name": "Arctovish",
+    "Type1": "Water",
+    "Type2": "Ice",
+    "BaseHP": 4,
+    "Strength": 2,
+    "MaxStrength": 5,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 3,
+    "MaxVitality": 6,
+    "Special": 2,
+    "MaxSpecial": 5,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Water Absorb",
+    "Ability2": "Ice Body",
+    "HiddenAbility": "Slush Rush",
+    "EventAbilities": "",
+    "RecommendedRank": "Ace",
+    "GenderType": "N",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "arctovish",
+    "DexCategory": "Fossil Pokemon",
+    "Height": {
+        "Meters": 2.0,
+        "Feet": 6.6
+    },
+    "Weight": {
+        "Kilograms": 175.0,
+        "Pounds": 385.8
+    },
+    "DexDescription": "This mix of DNA made a more stable creature able to move, breathe and resist cold weather, the only problem is that its head is upside down. If it\u2019s not fed it cannot hunt on its own and will die of hunger in a few days.",
+    "Evolutions": [],
+    "Image": "arctovish.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Powder Snow"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Water Gun"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Protect"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Icy Wind"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Ancient Power"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Bite"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Aurora Veil"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Freeze Dry"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Super Fang"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Crunch"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Fishious Rend"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Icicle Crash"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Blizzard"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Liquidation"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Iron Defense"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Psychic Fangs"
+        }
+    ]
+}

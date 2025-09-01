@@ -1,0 +1,121 @@
+{
+    "Number": 561,
+    "DexID": "0561",
+    "Name": "Sigilyph",
+    "Type1": "Psychic",
+    "Type2": "Flying",
+    "BaseHP": 4,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 3,
+    "MaxDexterity": 6,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 3,
+    "MaxSpecial": 6,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Wonder Skin",
+    "Ability2": "Magic Guard",
+    "HiddenAbility": "Tinted Lens",
+    "EventAbilities": "",
+    "RecommendedRank": "Ace",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "sigilyph",
+    "DexCategory": "Avianoid Pokemon",
+    "Height": {
+        "Meters": 1.4,
+        "Feet": 4.6
+    },
+    "Weight": {
+        "Kilograms": 14.0,
+        "Pounds": 30.9
+    },
+    "DexDescription": "It is known that they worked as guards for an ancient civilization and a few can still be seen patrolling its borders, following the same route for centuries. They attack people that sneak through their barriers.",
+    "Evolutions": [],
+    "Image": "sigilyph.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Gust"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Miracle Eye"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Hypnosis"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Psywave"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Tailwind"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Whirlwind"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Psybeam"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Air Cutter"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Light Screen"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Reflect"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Gravity"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Mirror Move"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Psychic"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Air Slash"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Synchronoise"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Cosmic Power"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Sky Attack"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Stored Power"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Telekinesis"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Psycho Shift"
+        }
+    ]
+}

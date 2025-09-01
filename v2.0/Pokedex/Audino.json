@@ -1,0 +1,135 @@
+{
+    "Number": 531,
+    "DexID": "0531",
+    "Name": "Audino",
+    "Type1": "Normal",
+    "Type2": "",
+    "BaseHP": 5,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Healer",
+    "Ability2": "Regenerator",
+    "HiddenAbility": "Klutz",
+    "EventAbilities": "",
+    "RecommendedRank": "Beginner",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "audino",
+    "DexCategory": "Hearing Pokemon",
+    "Height": {
+        "Meters": 1.1,
+        "Feet": 3.6
+    },
+    "Weight": {
+        "Kilograms": 31.0,
+        "Pounds": 68.3
+    },
+    "DexDescription": "Its auditory sense is astounding, using the feelers on it\u2019s ears it can know the health state of others. It is a caring Pokemon with a sweet disposition to help, but it is not too common to see in the wild.",
+    "Evolutions": [
+        {
+            "To": "Audino (Mega Form)",
+            "Kind": "Mega",
+            "Item": "Audinite"
+        }
+    ],
+    "Image": "audino.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Play Nice"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Pound"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Growl"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Helping Hand"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Hyper Voice"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Misty Terrain"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Refresh"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Baby-Doll Eyes"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Double Slap"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Disarming Voice"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Secret Power"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Attract"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Take Down"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Entrainment"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Heal Pulse"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "After You"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Double-Edge"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Simple Beam"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Last Resort"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Draining Kiss"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Wish"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Heal Bell"
+        }
+    ]
+}

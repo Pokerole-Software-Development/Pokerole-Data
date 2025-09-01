@@ -1,0 +1,26 @@
+{
+    "Name": "Thunderous Kick",
+    "Type": "Fighting",
+    "Power": 3,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "Single Target. Reduce Target's Defense by 1.",
+    "Description": "The user splits open the field with a single lightning-fast kick. Even bystanders are sent flying away by the powerful shockwave.",
+    "_id": "thunderous-kick",
+    "Attributes": {},
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "Def"
+                ],
+                "Stages": -1,
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Support"
+}

@@ -1,0 +1,76 @@
+{
+    "Number": 265,
+    "DexID": "0265",
+    "Name": "Wurmple",
+    "Type1": "Bug",
+    "Type2": "",
+    "BaseHP": 3,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 1,
+    "MaxDexterity": 3,
+    "Vitality": 1,
+    "MaxVitality": 3,
+    "Special": 1,
+    "MaxSpecial": 3,
+    "Insight": 1,
+    "MaxInsight": 3,
+    "Ability1": "Shield Dust",
+    "Ability2": "",
+    "HiddenAbility": "Run Away",
+    "EventAbilities": "",
+    "RecommendedRank": "Starter",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "wurmple",
+    "DexCategory": "Worm Pokemon",
+    "Height": {
+        "Meters": 0.3,
+        "Feet": 1.0
+    },
+    "Weight": {
+        "Kilograms": 3.6,
+        "Pounds": 7.9
+    },
+    "DexDescription": "It uses the spikes on its rear to peel the trees and feed on their sap. Their feet have suction pads to climb easily. Wurmples are plentiful and live in forests, but they are often attacked by bird Pokemon.",
+    "Evolutions": [
+        {
+            "To": "Silcoon",
+            "Kind": "Level",
+            "Speed": "Fast"
+        },
+        {
+            "To": "Cascoon",
+            "Kind": "Level",
+            "Speed": "Fast"
+        }
+    ],
+    "Image": "wurmple.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "String Shot"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Poison Sting"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Bug Bite"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Electroweb"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Snore"
+        }
+    ]
+}

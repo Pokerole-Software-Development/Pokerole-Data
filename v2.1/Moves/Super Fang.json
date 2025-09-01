@@ -1,0 +1,27 @@
+{
+    "Name": "Super Fang",
+    "Type": "Normal",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "Single Target. Low Accuracy 1. Bite Move. Roll Normal-Type Damage Dice equal to half of the Target's remaining HP. Up to 10 Dice may be rolled this way. Ignore Defenses.",
+    "Description": "The Pokémon jumps at the foe to crush it with an awful bite.",
+    "_id": "super-fang",
+    "Attributes": {
+        "AccuracyReduction": 1,
+        "IgnoreDefenses": true,
+        "BiteMove": true
+    },
+    "AddedEffects": {
+        "FixedDamage": {
+            "Type": "HpPercentage",
+            "Value": 0.5,
+            "MaxValue": 10,
+            "Target": "Targets"
+        }
+    },
+    "Category": "Physical"
+}

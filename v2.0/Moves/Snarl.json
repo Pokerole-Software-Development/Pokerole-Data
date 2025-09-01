@@ -1,0 +1,28 @@
+{
+    "Name": "Snarl",
+    "Type": "Dark",
+    "Power": 2,
+    "Damage1": "Special",
+    "Damage2": "",
+    "Accuracy1": "Insight",
+    "Accuracy2": "Perform",
+    "Target": "Foe",
+    "Effect": "Sound Based. Reduce the foe's Special.",
+    "Description": "The Pokemon viciously snarls showing its teeth. Its menacing look will make the foe cower in fear.",
+    "_id": "snarl",
+    "Attributes": {
+        "SoundBased": true
+    },
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "Special"
+                ],
+                "Stages": -1,
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Special"
+}

@@ -1,0 +1,116 @@
+{
+    "Number": 527,
+    "DexID": "0527",
+    "Name": "Woobat",
+    "Type1": "Psychic",
+    "Type2": "Flying",
+    "BaseHP": 3,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 2,
+    "MaxDexterity": 5,
+    "Vitality": 1,
+    "MaxVitality": 3,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 1,
+    "MaxInsight": 3,
+    "Ability1": "Unaware",
+    "Ability2": "Klutz",
+    "HiddenAbility": "Simple",
+    "EventAbilities": "",
+    "RecommendedRank": "Beginner",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "woobat",
+    "DexCategory": "Bat Pokemon",
+    "Height": {
+        "Meters": 0.4,
+        "Feet": 1.3
+    },
+    "Weight": {
+        "Kilograms": 2.1,
+        "Pounds": 4.6
+    },
+    "DexDescription": "It lives in dark forests and caves. Emits ultrasonic waves from its nose it learns about its surroundings. The two small eyes it has get covered by its own fur. It clings to trees and cave walls to sleep at night.",
+    "Evolutions": [
+        {
+            "To": "Swoobat",
+            "Kind": "Stat",
+            "Stat": "Happiness",
+            "Value": 4
+        }
+    ],
+    "Image": "woobat.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Confusion"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Odor Sleuth"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Gust"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Assurance"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Heart Stamp"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Imprison"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Air Cutter"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Attract"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Amnesia"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Calm Mind"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Psychic"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Future Sight"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Air Slash"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Endeavor"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Roost"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Giga Drain"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Heat Wave"
+        }
+    ]
+}

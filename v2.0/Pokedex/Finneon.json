@@ -1,0 +1,115 @@
+{
+    "Number": 456,
+    "DexID": "0456",
+    "Name": "Finneon",
+    "Type1": "Water",
+    "Type2": "",
+    "BaseHP": 3,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Swift Swim",
+    "Ability2": "Storm Drain",
+    "HiddenAbility": "Water Veil",
+    "EventAbilities": "",
+    "RecommendedRank": "Beginner",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "finneon",
+    "DexCategory": "Wing Fish Pokemon",
+    "Height": {
+        "Meters": 0.4,
+        "Feet": 1.3
+    },
+    "Weight": {
+        "Kilograms": 7.0,
+        "Pounds": 15.4
+    },
+    "DexDescription": "The way its two-tail-fins flutter while it swims has earned Finneon the nickname \u201cBeautifly of the Sea.\u201d The line running down its side can store sunlight and glow brightly at night.",
+    "Evolutions": [
+        {
+            "To": "Lumineon",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "finneon.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Pound"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Water Gun"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Attract"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Rain Dance"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Gust"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Water Pulse"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Captivate"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Safeguard"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Aqua Ring"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Whirlpool"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "U-Turn"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Bounce"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Silver Wind"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Soak"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Agility"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Sweet Kiss"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Aurora Beam"
+        }
+    ]
+}

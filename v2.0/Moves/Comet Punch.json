@@ -1,0 +1,19 @@
+{
+    "Name": "Comet Punch",
+    "Type": "Normal",
+    "Power": 1,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "Successive Actions. Fist Based.",
+    "Description": "The user throws a quick series of punches at the foe.",
+    "_id": "comet-punch",
+    "Attributes": {
+        "FistBased": true,
+        "SuccessiveActions": true
+    },
+    "AddedEffects": {},
+    "Category": "Physical"
+}

@@ -1,0 +1,143 @@
+{
+    "Number": 844,
+    "DexID": "0844",
+    "Name": "Sandaconda",
+    "Type1": "Ground",
+    "Type2": "",
+    "BaseHP": 6,
+    "Strength": 3,
+    "MaxStrength": 6,
+    "Dexterity": 2,
+    "MaxDexterity": 5,
+    "Vitality": 3,
+    "MaxVitality": 7,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Sand Spit",
+    "Ability2": "Sand Veil",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Advanced",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "sandaconda",
+    "DexCategory": "Sand Snake Pokémon",
+    "Height": {
+        "Meters": 3.8,
+        "Feet": 12.5
+    },
+    "Weight": {
+        "Kilograms": 65.5,
+        "Pounds": 144.4
+    },
+    "DexDescription": "It has a sack that can carry up to 220 lbs of sand; the way it coils allows it to spray the sand at its foes. If its sack ever runs out of sand it becomes limp and depressed. They are unfriendly but not really aggressive.",
+    "Evolutions": [
+        {
+            "From": "Silicobra",
+            "Kind": "Level",
+            "Speed": "Slow"
+        }
+    ],
+    "Image": "sandaconda.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Wrap"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Sand Attack"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Minimize"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Brutal Swing"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Bulldoze"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Slam"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Scale Shot"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Mud Slap"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Fire Fang"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Glare"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Dig"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Sandstorm"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Headbutt"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Zen Headbutt"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Drill Run"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Poison Tail"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Coil"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Dragon Rush"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Skull Bash"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Sand Tomb"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Earthquake"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Giga Impact"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Hurricane"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Body Press"
+        }
+    ]
+}

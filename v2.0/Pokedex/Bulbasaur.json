@@ -1,0 +1,115 @@
+{
+    "Number": 1,
+    "DexID": "0001",
+    "Name": "Bulbasaur",
+    "Type1": "Grass",
+    "Type2": "Poison",
+    "BaseHP": 3,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Overgrow",
+    "Ability2": "",
+    "HiddenAbility": "Chlorophyll",
+    "EventAbilities": "",
+    "RecommendedRank": "Beginner",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "bulbasaur",
+    "DexCategory": "Seed Pokemon",
+    "Height": {
+        "Meters": 0.7,
+        "Feet": 2.3
+    },
+    "Weight": {
+        "Kilograms": 6.9,
+        "Pounds": 15.2
+    },
+    "DexDescription": "It carries a seed on its back since birth. As it grows older the seed also grows larger. It is known to be a well-behaved and loyal Pokemon, but pretty rare to find in the wild.",
+    "Evolutions": [
+        {
+            "To": "Ivysaur",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "bulbasaur.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Growl"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Leech Seed"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Vine Whip"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Poison Powder"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Sleep Powder"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Take Down"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Razor Leaf"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Sweet Scent"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Growth"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Worry Seed"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Double-Edge"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Synthesis"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Solar Beam"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Grassy Terrain"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Amnesia"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Grass Pledge"
+        }
+    ]
+}

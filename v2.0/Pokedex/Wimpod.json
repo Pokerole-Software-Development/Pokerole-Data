@@ -1,0 +1,67 @@
+{
+    "Number": 767,
+    "DexID": "0767",
+    "Name": "Wimpod",
+    "Type1": "Bug",
+    "Type2": "Water",
+    "BaseHP": 3,
+    "Strength": 1,
+    "MaxStrength": 3,
+    "Dexterity": 2,
+    "MaxDexterity": 5,
+    "Vitality": 1,
+    "MaxVitality": 3,
+    "Special": 1,
+    "MaxSpecial": 3,
+    "Insight": 1,
+    "MaxInsight": 3,
+    "Ability1": "Wimp Out",
+    "Ability2": "",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Starter",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "wimpod",
+    "DexCategory": "Turn Tail Pokemon",
+    "Height": {
+        "Meters": 0.5,
+        "Feet": 1.6
+    },
+    "Weight": {
+        "Kilograms": 12.0,
+        "Pounds": 26.5
+    },
+    "DexDescription": "They are curious but incredibly cowardly Pokemon. They are easily startled and will shoot a stenchy liquid as a warning. Even so, they are highly valued due to their ability to eat and clean any garbage.",
+    "Evolutions": [
+        {
+            "To": "Golisopod",
+            "Kind": "Level",
+            "Speed": "Slow"
+        }
+    ],
+    "Image": "wimpod.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Struggle Bug"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Sand Attack"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Harden"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Aqua Jet"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Spikes"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "Name": "Dragon Rage",
+    "Type": "Dragon",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Channel",
+    "Target": "Foe",
+    "Effect": "This moves always inflicts 2 damage.",
+    "Description": "A dual colored flame that always leaves the same burn marks on everything it touches.",
+    "_id": "dragon-rage",
+    "Attributes": {},
+    "AddedEffects": {
+        "FixedDamage": {
+            "Type": "Absolute",
+            "Value": 2,
+            "Target": "Targets"
+        }
+    },
+    "Category": "Special"
+}

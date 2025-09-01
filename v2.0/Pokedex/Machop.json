@@ -1,0 +1,127 @@
+{
+    "Number": 66,
+    "DexID": "0066",
+    "Name": "Machop",
+    "Type1": "Fighting",
+    "Type2": "",
+    "BaseHP": 3,
+    "Strength": 2,
+    "MaxStrength": 5,
+    "Dexterity": 1,
+    "MaxDexterity": 3,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 1,
+    "MaxSpecial": 3,
+    "Insight": 1,
+    "MaxInsight": 3,
+    "Ability1": "Guts",
+    "Ability2": "No Guard",
+    "HiddenAbility": "Steadfast",
+    "EventAbilities": "",
+    "RecommendedRank": "Beginner",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "machop",
+    "DexCategory": "Superpower Pokemon",
+    "Height": {
+        "Meters": 0.8,
+        "Feet": 2.6
+    },
+    "Weight": {
+        "Kilograms": 19.5,
+        "Pounds": 43.0
+    },
+    "DexDescription": "It lives in mountains, training its fists against strong rocks , lifting boulders and hurling Rock Pokemon around to build stronger muscles. Even with its small size, it can compete against expert humans and win.",
+    "Evolutions": [
+        {
+            "To": "Machoke",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "machop.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Low Kick"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Leer"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Focus Energy"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Karate Chop"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Foresight"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Low Sweep"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Knock Off"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Seismic Toss"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Revenge"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Vital Throw"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Dual Chop"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Submission"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Wake-Up Slap"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Bulk Up"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Cross Chop"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Scary Face"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Dynamic Punch"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Meditate"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Bullet Punch"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Ice Punch"
+        }
+    ]
+}

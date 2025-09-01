@@ -1,0 +1,19 @@
+{
+    "Name": "Triple Dive (Brawl)",
+    "Type": "Water",
+    "Power": 2,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "Single Target. Low Accuracy 1. Triple Action.",
+    "Description": "The user performs a triple dive with perfect timing. The foe is washed away by each water splash.",
+    "_id": "triple-dive-(brawl)",
+    "Attributes": {
+        "TripleAction": true,
+        "AccuracyReduction": 1
+    },
+    "AddedEffects": {},
+    "Category": "Physical"
+}

@@ -1,0 +1,111 @@
+{
+    "Number": 839,
+    "DexID": "0839",
+    "Name": "Coalossal",
+    "Type1": "Rock",
+    "Type2": "Fire",
+    "BaseHP": 6,
+    "Strength": 2,
+    "MaxStrength": 5,
+    "Dexterity": 1,
+    "MaxDexterity": 3,
+    "Vitality": 3,
+    "MaxVitality": 7,
+    "Special": 2,
+    "MaxSpecial": 5,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Steam Engine",
+    "Ability2": "Flame Body",
+    "HiddenAbility": "Flash Fire",
+    "EventAbilities": "",
+    "RecommendedRank": "Ace",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "coalossal",
+    "DexCategory": "Coal Pokemon",
+    "Height": {
+        "Meters": 2.8,
+        "Feet": 9.2
+    },
+    "Weight": {
+        "Kilograms": 310.5,
+        "Pounds": 684.5
+    },
+    "DexDescription": "They are usually calm creatures, if they see you are kind they\u2019ll share their warmth with you but if you enrage one you risk being burned down to ashes. They spit tarry substance that is very flammable.",
+    "Evolutions": [
+        {
+            "From": "Carkol",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "coalossal.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Smokescreen"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Flame Charge"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Tar Shot"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Rapid Spin"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Smack Down"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Rock Polish"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Ancient Power"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Incinerate"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Stealth Rock"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Heat Crash"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Rock Blast"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Burn Up"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Overheat"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Bulldoze"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Heavy Slam"
+        }
+    ]
+}

@@ -1,0 +1,119 @@
+{
+    "Number": 666,
+    "DexID": "0666",
+    "Name": "Vivillon",
+    "Type1": "Bug",
+    "Type2": "Flying",
+    "BaseHP": 5,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 2,
+    "MaxDexterity": 5,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 2,
+    "MaxSpecial": 5,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Shield Dust",
+    "Ability2": "Compound Eyes",
+    "HiddenAbility": "Friend Guard",
+    "EventAbilities": "",
+    "RecommendedRank": "Amateur",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "vivillon",
+    "DexCategory": "Scale Pokemon",
+    "Height": {
+        "Meters": 1.2,
+        "Feet": 3.9
+    },
+    "Weight": {
+        "Kilograms": 17.0,
+        "Pounds": 37.5
+    },
+    "DexDescription": "The patterns on this Pokemon\u2019s wings depend on the climate it grows and the flowers it feeds on. A famous Pokemon breeder made one develop a Pokeball pattern, it was sold for a million dollars.",
+    "Evolutions": [
+        {
+            "From": "Spewpa",
+            "Kind": "Level",
+            "Speed": "Fast"
+        }
+    ],
+    "Image": "vivillon.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Powder"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Gust"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Poison Powder"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Stun Spore"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Sleep Powder"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Light Screen"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Struggle Bug"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Psybeam"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Supersonic"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Draining Kiss"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Aromatherapy"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Bug Buzz"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Safeguard"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Quiver Dance"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Hurricane"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Giga Drain"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Electroweb"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Tailwind"
+        }
+    ]
+}

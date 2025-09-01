@@ -1,0 +1,28 @@
+{
+    "Name": "Ice Hammer",
+    "Type": "Ice",
+    "Power": 4,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Strength",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "Reduce User's Dexterity. -1 Accuracy.",
+    "Description": "The Pokemon uses its powerful gelid arms and strikes the foe with a swinging motion.",
+    "_id": "ice-hammer",
+    "Attributes": {
+        "AccuracyReduction": 1
+    },
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "Dexterity"
+                ],
+                "Stages": -1,
+                "Affects": "User"
+            }
+        ]
+    },
+    "Category": "Physical"
+}

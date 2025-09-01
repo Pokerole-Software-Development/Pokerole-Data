@@ -1,0 +1,24 @@
+{
+    "Name": "Confusion",
+    "Type": "Psychic",
+    "Power": 2,
+    "Damage1": "Special",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Channel",
+    "Target": "Foe",
+    "Effect": "Roll 1 Chance Dice to Confuse the foe.",
+    "Description": "The target's mind is hit by a weak psychic force that leaves them wondering if they were hit by an invisible enemy. Sometimes the foe is left seeing things that aren't really there.",
+    "_id": "confusion",
+    "Attributes": {},
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Confuse",
+                "Affects": "Targets",
+                "ChanceDice": 1
+            }
+        ]
+    },
+    "Category": "Special"
+}

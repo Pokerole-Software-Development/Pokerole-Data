@@ -1,0 +1,155 @@
+{
+    "Number": 208,
+    "DexID": "0208M1",
+    "Name": "Steelix (Mega Form)",
+    "Type1": "Steel",
+    "Type2": "Ground",
+    "BaseHP": 10,
+    "Strength": 3,
+    "MaxStrength": 7,
+    "Dexterity": 1,
+    "MaxDexterity": 2,
+    "Vitality": 5,
+    "MaxVitality": 11,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 3,
+    "MaxInsight": 6,
+    "Ability1": "Sand Force",
+    "Ability2": "",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Master",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "steelix-mega-form",
+    "DexCategory": "Iron Snake Pokemon",
+    "Height": {
+        "Meters": 10.5,
+        "Feet": 34.4
+    },
+    "Weight": {
+        "Kilograms": 740.0,
+        "Pounds": 1631.4
+    },
+    "DexDescription": "With the power of the Mega Stone its body goes through so much pressure that part of it becomes diamond crystals. Its defense is almost unbreakable but its temper is short and it\u2019s easily angered.",
+    "Evolutions": [
+        {
+            "From": "Steelix",
+            "Kind": "Mega",
+            "Item": "Steelixite"
+        }
+    ],
+    "Image": "steelix-mega-form.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Bind"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Fire Fang"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Harden"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Ice Fang"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Mud Sport"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Thunder Fang"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Curse"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Rock Throw"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Rock Tomb"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Rage"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Stealth Rock"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Autotomize"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Gyro Ball"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Smack Down"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Dragon Breath"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Slam"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Screech"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Rock Slide"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Crunch"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Iron Tail"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Dig"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Sandstorm"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Stone Edge"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Double-Edge"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Ancient Power"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Aqua Tail"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Twister"
+        }
+    ]
+}

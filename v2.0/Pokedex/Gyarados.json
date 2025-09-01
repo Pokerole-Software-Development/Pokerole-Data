@@ -1,0 +1,120 @@
+{
+    "Number": 130,
+    "DexID": "0130",
+    "Name": "Gyarados",
+    "Type1": "Water",
+    "Type2": "Flying",
+    "BaseHP": 7,
+    "Strength": 3,
+    "MaxStrength": 7,
+    "Dexterity": 2,
+    "MaxDexterity": 5,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 3,
+    "MaxInsight": 6,
+    "Ability1": "Intimidate",
+    "Ability2": "",
+    "HiddenAbility": "Moxie",
+    "EventAbilities": "",
+    "RecommendedRank": "Ace",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "gyarados",
+    "DexCategory": "Atrocious Pokemon",
+    "Height": {
+        "Meters": 6.5,
+        "Feet": 21.3
+    },
+    "Weight": {
+        "Kilograms": 235.0,
+        "Pounds": 518.1
+    },
+    "DexDescription": "It\u2019s rarely seen in the wild. This huge and vicious Pokemon is known for the destruction it leaves in its wake. In ancient literature, there is a record of a Gyarados that razed a village when violence flared.",
+    "Evolutions": [
+        {
+            "From": "Magikarp",
+            "Kind": "Level",
+            "Speed": "Slow"
+        },
+        {
+            "To": "Gyarados (Mega Form)",
+            "Kind": "Mega",
+            "Item": "Gyaradosite"
+        }
+    ],
+    "Image": "gyarados.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Dragon Rage"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Leer"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Twister"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Ice Fang"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Scary Face"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Bite"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Hurricane"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Thrash"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Aqua Tail"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Rain Dance"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Crunch"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Dragon Dance"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Hydro Pump"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Hyper Beam"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Thunder Wave"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Outrage"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Bounce"
+        }
+    ]
+}

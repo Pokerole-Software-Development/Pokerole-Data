@@ -1,0 +1,18 @@
+{
+    "Name": "Mega Kick",
+    "Type": "Normal",
+    "Power": 5,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "-2 Accuracy.",
+    "Description": "The Pokemon throws a mega powered kick to the foe's face.",
+    "_id": "mega-kick",
+    "Attributes": {
+        "AccuracyReduction": 2
+    },
+    "AddedEffects": {},
+    "Category": "Physical"
+}

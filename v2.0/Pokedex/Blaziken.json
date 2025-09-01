@@ -1,0 +1,132 @@
+{
+    "Number": 257,
+    "DexID": "0257",
+    "Name": "Blaziken",
+    "Type1": "Fire",
+    "Type2": "Fighting",
+    "BaseHP": 5,
+    "Strength": 3,
+    "MaxStrength": 7,
+    "Dexterity": 2,
+    "MaxDexterity": 5,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 3,
+    "MaxSpecial": 6,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Blaze",
+    "Ability2": "",
+    "HiddenAbility": "Speed Boost",
+    "EventAbilities": "",
+    "RecommendedRank": "Ace",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "blaziken",
+    "DexCategory": "Blaze Pokemon",
+    "Height": {
+        "Meters": 1.9,
+        "Feet": 6.2
+    },
+    "Weight": {
+        "Kilograms": 52.0,
+        "Pounds": 114.6
+    },
+    "DexDescription": "They can jump incredible heights. As they grow older, their feathers combust as new feathers grow back. They are courageous fighters and expert martial artists. Their wrists light in flames when it\u2019s about to attack.",
+    "Evolutions": [
+        {
+            "From": "Combusken",
+            "Kind": "Level",
+            "Speed": "Medium"
+        },
+        {
+            "To": "Blaziken (Mega Form)",
+            "Kind": "Mega",
+            "Item": "Blazikenite"
+        }
+    ],
+    "Image": "blaziken.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Ember"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Focus Energy"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Fire Punch"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Growl"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "High Jump Kick"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Scratch"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Double Kick"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Flame Charge"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Peck"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Sand Attack"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Bulk Up"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Quick Attack"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Blaze Kick"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Slash"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Brave Bird"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Sky Uppercut"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Flare Blitz"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Dual Chop"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Night Slash"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Blast Burn"
+        }
+    ]
+}

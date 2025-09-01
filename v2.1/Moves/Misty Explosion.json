@@ -1,0 +1,19 @@
+{
+    "Name": "Misty Explosion",
+    "Type": "Fairy",
+    "Power": 6,
+    "Damage1": "Special",
+    "Damage2": "",
+    "Accuracy1": "Special",
+    "Accuracy2": "Channel",
+    "Target": "Area",
+    "Effect": "Area attack. Lethal. The User faints after using this Move. * If Misty Terrain is active, add 4 Extra Dice to the Damage Pool of this Move.",
+    "Description": "The user razes the field with a beautiful searing nuke of pink smoke made of love, joy, and kisses. It is deadly.",
+    "_id": "misty-explosion",
+    "Attributes": {
+        "Lethal": true,
+        "UserFaints": true
+    },
+    "AddedEffects": {},
+    "Category": "Special"
+}

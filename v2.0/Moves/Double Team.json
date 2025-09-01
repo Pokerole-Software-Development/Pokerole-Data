@@ -1,0 +1,23 @@
+{
+    "Name": "Double Team",
+    "Type": "Normal",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Evasion",
+    "Target": "User",
+    "Effect": "The User can now make up to 5 Evasions per Round.",
+    "Description": "The user moves rapidly around the foe, creating illusory copies of itself.",
+    "_id": "double-team",
+    "Attributes": {},
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "SpedUp",
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Support"
+}

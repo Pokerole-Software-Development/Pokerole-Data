@@ -1,0 +1,26 @@
+{
+    "Name": "Poison Sting",
+    "Type": "Poison",
+    "Power": 1,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Channel",
+    "Target": "Foe",
+    "Effect": "Ranged. Roll 3 Chance Dice to Poison the Target.",
+    "Description": "The user shoots a small sting that injects venom into the foe.",
+    "_id": "poison-sting",
+    "Attributes": {
+        "PhysicalRanged": true
+    },
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Poison",
+                "Affects": "Targets",
+                "ChanceDice": 3
+            }
+        ]
+    },
+    "Category": "Physical"
+}

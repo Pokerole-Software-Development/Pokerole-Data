@@ -1,0 +1,136 @@
+{
+    "Number": 860,
+    "DexID": "0860",
+    "Name": "Morgrem",
+    "Type1": "Dark",
+    "Type2": "Fairy",
+    "BaseHP": 4,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 2,
+    "MaxDexterity": 5,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 2,
+    "MaxSpecial": 5,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Prankster",
+    "Ability2": "Frisk",
+    "HiddenAbility": "Pickpocket",
+    "EventAbilities": "",
+    "RecommendedRank": "Standard",
+    "GenderType": "M",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "morgrem",
+    "DexCategory": "Devious Pokémon",
+    "Height": {
+        "Meters": 0.8,
+        "Feet": 2.6
+    },
+    "Weight": {
+        "Kilograms": 12.5,
+        "Pounds": 27.6
+    },
+    "DexDescription": "When it gets down on all fours as if to beg for forgiveness, it's trying to lure opponents in so that it can stab them with its spear-like hair. It lures people into the woods to rob them and get them lost.",
+    "Evolutions": [
+        {
+            "From": "Impidimp",
+            "Kind": "Level",
+            "Speed": "Medium"
+        },
+        {
+            "To": "Grimmsnarl",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "morgrem.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Fake Out"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Confide"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Bite"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Flatter"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Fake Tears"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Assurance"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Swagger"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Sucker Punch"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Taunt"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Trick"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "False Surrender"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Shadow Claw"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Torment"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Dark Pulse"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Nasty Plot"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Revenge"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Play Rough"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Foul Play"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Metronome"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Burning Jealousy"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Drain Punch"
+        }
+    ]
+}

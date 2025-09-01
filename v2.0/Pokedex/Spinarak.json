@@ -1,0 +1,135 @@
+{
+    "Number": 167,
+    "DexID": "0167",
+    "Name": "Spinarak",
+    "Type1": "Bug",
+    "Type2": "Poison",
+    "BaseHP": 3,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 1,
+    "MaxDexterity": 3,
+    "Vitality": 1,
+    "MaxVitality": 3,
+    "Special": 1,
+    "MaxSpecial": 3,
+    "Insight": 1,
+    "MaxInsight": 3,
+    "Ability1": "Swarm",
+    "Ability2": "Insomnia",
+    "HiddenAbility": "Sniper",
+    "EventAbilities": "",
+    "RecommendedRank": "Starter",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "spinarak",
+    "DexCategory": "String Spit Pokemon",
+    "Height": {
+        "Meters": 0.5,
+        "Feet": 1.6
+    },
+    "Weight": {
+        "Kilograms": 8.5,
+        "Pounds": 18.7
+    },
+    "DexDescription": "It sets a trap by spinning a web of thin but strong silk. Then it waits for the prey to arrive. It recognizes what kind of prey has fallen on its web by the vibrations received by each one of its eight legs.",
+    "Evolutions": [
+        {
+            "To": "Ariados",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "spinarak.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Poison Sting"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "String Shot"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Scary Face"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Absorb"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Infestation"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Constrict"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Leech Life"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Night Shade"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Shadow Sneak"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Fury Swipes"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Sucker Punch"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Spider Web"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Agility"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Pin Missile"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Poison Jab"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Psychic"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Cross Poison"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Sticky Web"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Toxic Thread"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Electroweb"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Bounce"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Toxic Spikes"
+        }
+    ]
+}

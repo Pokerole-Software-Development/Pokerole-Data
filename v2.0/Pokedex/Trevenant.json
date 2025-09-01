@@ -1,0 +1,118 @@
+{
+    "Number": 709,
+    "DexID": "0709",
+    "Name": "Trevenant",
+    "Type1": "Ghost",
+    "Type2": "Grass",
+    "BaseHP": 5,
+    "Strength": 3,
+    "MaxStrength": 6,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Natural Cure",
+    "Ability2": "Frisk",
+    "HiddenAbility": "Harvest",
+    "EventAbilities": "",
+    "RecommendedRank": "Pro",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "trevenant",
+    "DexCategory": "Elder Tree Pokemon",
+    "Height": {
+        "Meters": 1.5,
+        "Feet": 4.9
+    },
+    "Weight": {
+        "Kilograms": 71.0,
+        "Pounds": 156.5
+    },
+    "DexDescription": "Using its roots as a nervous system it controls the trees in the forest. It\u2019s kind to the Pokemon that reside inside its body but it is ruthless to anyone that harms its forest, turning them into haunted trees forever.",
+    "Evolutions": [
+        {
+            "From": "Phantump",
+            "Kind": "Trade"
+        }
+    ],
+    "Image": "trevenant.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Confuse Ray"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Growth"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Astonish"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Horn Leech"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Ingrain"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Feint Attack"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Leech Seed"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Curse"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Will-O-Wisp"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Forest's Curse"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Destiny Bond"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Phantom Force"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Wood Hammer"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Shadow Claw"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Grudge"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Drain Punch"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Imprison"
+        }
+    ]
+}

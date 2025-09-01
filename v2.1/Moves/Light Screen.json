@@ -1,0 +1,29 @@
+{
+    "Name": "Light Screen",
+    "Type": "Psychic",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Special",
+    "Accuracy2": "Channel",
+    "Target": "User and Allies",
+    "Effect": "Target the User's side of the Field. Force Field. Activate a Force Field against Special Damage. Duration 4 Rounds.",
+    "Description": "The user manifests its mental power on the world, creating walls and floors of light that help prevent the passing of energies.",
+    "_id": "light-screen",
+    "Attributes": {
+        "Forcefield": {
+            "DamageType": "special",
+            "DamageReduction": 1
+        },
+        "Duration": 4
+    },
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "LightScreen",
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Support"
+}

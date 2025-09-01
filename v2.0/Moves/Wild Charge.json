@@ -1,0 +1,18 @@
+{
+    "Name": "Wild Charge",
+    "Type": "Electric",
+    "Power": 3,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "Recoil.",
+    "Description": "The Pokemon surrounds itself with wild botls of lightning, then tackles recklessly.",
+    "_id": "wild-charge",
+    "Attributes": {
+        "Recoil": true
+    },
+    "AddedEffects": {},
+    "Category": "Physical"
+}

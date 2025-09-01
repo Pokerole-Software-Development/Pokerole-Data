@@ -1,0 +1,123 @@
+{
+    "Number": 570,
+    "DexID": "0570",
+    "Name": "Zorua",
+    "Type1": "Dark",
+    "Type2": "",
+    "BaseHP": 3,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 1,
+    "MaxVitality": 3,
+    "Special": 2,
+    "MaxSpecial": 5,
+    "Insight": 1,
+    "MaxInsight": 3,
+    "Ability1": "Illusion",
+    "Ability2": "",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Beginner",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "zorua",
+    "DexCategory": "Tricky Fox Pokemon",
+    "Height": {
+        "Meters": 0.7,
+        "Feet": 2.3
+    },
+    "Weight": {
+        "Kilograms": 12.5,
+        "Pounds": 27.6
+    },
+    "DexDescription": "They are very hard to find as they can transform into people and other Pokemon. They cannot speak when transformed and their tail remains visible. They ruin reputations by creating mischief in disguise.",
+    "Evolutions": [
+        {
+            "To": "Zoroark",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "zorua.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Scratch"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Leer"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Pursuit"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Fake Tears"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Fury Swipes"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Feint Attack"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Scary Face"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Taunt"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Foul Play"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Torment"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Agility"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Embargo"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Punishment"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Nasty Plot"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Imprison"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Night Daze"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Extrasensory"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Detect"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Sucker Punch"
+        }
+    ]
+}

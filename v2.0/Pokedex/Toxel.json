@@ -1,0 +1,90 @@
+{
+    "Number": 848,
+    "DexID": "0848",
+    "Name": "Toxel",
+    "Type1": "Electric",
+    "Type2": "Poison",
+    "BaseHP": 3,
+    "Strength": 1,
+    "MaxStrength": 3,
+    "Dexterity": 1,
+    "MaxDexterity": 3,
+    "Vitality": 1,
+    "MaxVitality": 3,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 1,
+    "MaxInsight": 3,
+    "Ability1": "Rattled",
+    "Ability2": "Static",
+    "HiddenAbility": "Klutz",
+    "EventAbilities": "",
+    "RecommendedRank": "Amateur",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "toxel",
+    "DexCategory": "Baby Pokemon",
+    "Height": {
+        "Meters": 0.4,
+        "Feet": 1.3
+    },
+    "Weight": {
+        "Kilograms": 11.0,
+        "Pounds": 24.3
+    },
+    "DexDescription": "Toxel secrete poison through their skin, the closer they are to evolving, the brighter their skin color becomes. They need a lot of nurturing but are bad tempered and ill mannered so not many take the task.",
+    "Evolutions": [
+        {
+            "To": "Toxtricity (Amped Form)",
+            "Kind": "Level",
+            "Speed": "Slow",
+            "Special": "Extrovert"
+        },
+        {
+            "To": "Toxtricity (Low Key Form)",
+            "Kind": "Level",
+            "Speed": "Slow",
+            "Special": "Introvert"
+        }
+    ],
+    "Image": "toxel.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Nuzzle"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Tearful Look"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Growl"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Flail"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Acid"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Belch"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Encore"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Rest"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Round"
+        }
+    ]
+}

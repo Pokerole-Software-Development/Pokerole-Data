@@ -1,0 +1,23 @@
+{
+    "Name": "Curse",
+    "Type": "Ghost",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Will",
+    "Accuracy2": "Channel",
+    "Target": "Foe",
+    "Effect": "Roll half the user's HP as damage dice to itself, ignoring Defenses. The target will remove 1 success from all their rolls until the Curse is lifted.",
+    "Description": "The user mutters words that become an evil incantation, the curse may only be lifted by a medium or through divine intervention.",
+    "_id": "curse",
+    "Attributes": {},
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Curse",
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Support"
+}

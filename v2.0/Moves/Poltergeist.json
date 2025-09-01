@@ -1,0 +1,16 @@
+{
+    "Name": "Poltergeist",
+    "Type": "Ghost",
+    "Power": 4,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Stealth",
+    "Target": "Foe",
+    "Effect": "Can only be used if the Target is Holding an Item or if Items have been used on the Target's side of the field.",
+    "Description": "The Pokemon's spirit possesses an Item and attacks with that cursed object. It is said that if the Pokemon lingers too long possessing an object, it'll have trouble getting out.",
+    "_id": "poltergeist",
+    "Attributes": {},
+    "AddedEffects": {},
+    "Category": "Physical"
+}

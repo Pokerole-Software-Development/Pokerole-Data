@@ -1,0 +1,127 @@
+{
+    "Number": 435,
+    "DexID": "0435",
+    "Name": "Skuntank",
+    "Type1": "Poison",
+    "Type2": "Dark",
+    "BaseHP": 5,
+    "Strength": 2,
+    "MaxStrength": 5,
+    "Dexterity": 2,
+    "MaxDexterity": 5,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 2,
+    "MaxSpecial": 5,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Stench",
+    "Ability2": "Aftermath",
+    "HiddenAbility": "Keen Eye",
+    "EventAbilities": "",
+    "RecommendedRank": "Amateur",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "skuntank",
+    "DexCategory": "Skunk Pokemon",
+    "Height": {
+        "Meters": 1.0,
+        "Feet": 3.3
+    },
+    "Weight": {
+        "Kilograms": 38.0,
+        "Pounds": 83.8
+    },
+    "DexDescription": "It sprays a reeking fluid from its tail. The fluid smells worse the longer it is allowed to fester. It is vulnerable to attacks that come from above due to its exuberant tail. When it\u2019s relaxed it doesn\u2019t smell bad.",
+    "Evolutions": [
+        {
+            "From": "Stunky",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "skuntank.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Scratch"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Focus Energy"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Poison Gas"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Screech"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Fury Swipes"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Smokescreen"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Feint"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Bite"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Slash"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Toxic"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Acid Spray"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Flamethrower"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Venom Drench"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Night Slash"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Memento"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Belch"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Explosion"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Play Rough"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Sucker Punch"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Scary Face"
+        }
+    ]
+}

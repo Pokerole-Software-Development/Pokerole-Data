@@ -1,0 +1,27 @@
+{
+    "Name": "Night Daze",
+    "Type": "Dark",
+    "Power": 3,
+    "Damage1": "Special",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Channel",
+    "Target": "Foe",
+    "Effect": "Roll 4 Chance Dice to Reduce foe's Accuracy.",
+    "Description": "The user forms a pitch black wave that hurts the foe. This darkness may remain obstructing the target's vision.",
+    "_id": "night-daze",
+    "Attributes": {},
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "Accuracy"
+                ],
+                "Stages": -1,
+                "ChanceDice": 4,
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Special"
+}

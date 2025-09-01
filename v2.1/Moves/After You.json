@@ -1,0 +1,19 @@
+{
+    "Name": "After You",
+    "Type": "Normal",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Cool",
+    "Accuracy2": "Etiquette",
+    "Target": "One Ally",
+    "Effect": "Target One Ally. Priority 1. The Target will go First in the Initiative Order. If used again, the previous target reverts to their original Initiative order. Whole Scene Duration.",
+    "Description": "The user bows and courteously lets a friend go first.",
+    "_id": "after-you",
+    "Attributes": {
+        "Priority": 1,
+        "Duration": "wholeScene"
+    },
+    "AddedEffects": {},
+    "Category": "Support"
+}

@@ -1,0 +1,16 @@
+{
+    "Name": "Spit Up",
+    "Type": "Normal",
+    "Power": 4,
+    "Damage1": "Special",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Channel",
+    "Target": "Foe",
+    "Effect": "Must have used the move \"Stockpile\" prior to this move, otherwise it will fail. Lose all Stockpile modifiers.",
+    "Description": "After storing power, the Pokemon spits that energy at the foe. The user returns to its original size.",
+    "_id": "spit-up",
+    "Attributes": {},
+    "AddedEffects": {},
+    "Category": "Special"
+}

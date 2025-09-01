@@ -1,0 +1,19 @@
+{
+    "Name": "Quick Guard",
+    "Type": "Fighting",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Athletic",
+    "Target": "User and Allies",
+    "Effect": "Priority 3. Shield Move. This move will only protect against Damaging Moves with \"Priority\". Reduce 3 Dice from the foe's Damage Pool. Negate the effects of support moves that target the User and Allies.",
+    "Description": "The user reacts instinctively and defends itself and its teammates, nullifying the effects of the fastest attacks.",
+    "_id": "quick-guard",
+    "Attributes": {
+        "ShieldMove": true,
+        "Priority": 3
+    },
+    "AddedEffects": {},
+    "Category": "Support"
+}

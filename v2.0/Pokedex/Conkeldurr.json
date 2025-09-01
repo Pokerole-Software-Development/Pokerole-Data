@@ -1,0 +1,122 @@
+{
+    "Number": 534,
+    "DexID": "0534",
+    "Name": "Conkeldurr",
+    "Type1": "Fighting",
+    "Type2": "",
+    "BaseHP": 6,
+    "Strength": 3,
+    "MaxStrength": 7,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 3,
+    "MaxVitality": 6,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Guts",
+    "Ability2": "Sheer Force",
+    "HiddenAbility": "Iron Fist",
+    "EventAbilities": "",
+    "RecommendedRank": "Ace",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "conkeldurr",
+    "DexCategory": "Muscular Pokemon",
+    "Height": {
+        "Meters": 1.4,
+        "Feet": 4.6
+    },
+    "Weight": {
+        "Kilograms": 87.0,
+        "Pounds": 191.8
+    },
+    "DexDescription": "They use concrete pillars as walking canes and swing the pillars freely in battle. Anthropology research says that this Pokemon may have taught humans how to make concrete out of rocks thousands of years ago.",
+    "Evolutions": [
+        {
+            "From": "Gurdurr",
+            "Kind": "Trade"
+        }
+    ],
+    "Image": "conkeldurr.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Pound"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Leer"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Focus Energy"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Bide"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Low Kick"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Rock Throw"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Wake-Up Slap"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Chip Away"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Bulk Up"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Rock Slide"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Dynamic Punch"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Scary Face"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Hammer Arm"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Stone Edge"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Focus Punch"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Superpower"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Foresight"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Drain Punch"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Wide Guard"
+        }
+    ]
+}

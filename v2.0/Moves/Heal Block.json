@@ -1,0 +1,24 @@
+{
+    "Name": "Heal Block",
+    "Type": "Psychic",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Special",
+    "Accuracy2": "Channel",
+    "Target": "Area",
+    "Effect": "No one can regain any lost HP. Lasts 4 Rounds.",
+    "Description": "The user forces everyone's wounds to stay open by using its immense psychic power.",
+    "_id": "heal-block",
+    "Attributes": {},
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Psychic",
+                "Affects": "Targets",
+                "Rounds": 4
+            }
+        ]
+    },
+    "Category": "Support"
+}

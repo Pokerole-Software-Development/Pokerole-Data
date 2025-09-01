@@ -1,0 +1,87 @@
+{
+    "Number": 28,
+    "DexID": "0028A",
+    "Name": "Sandslash (Alolan Form)",
+    "Type1": "Ice",
+    "Type2": "Steel",
+    "BaseHP": 4,
+    "Strength": 3,
+    "MaxStrength": 6,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 3,
+    "MaxVitality": 7,
+    "Special": 1,
+    "MaxSpecial": 3,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Snow Cloak",
+    "Ability2": "",
+    "HiddenAbility": "Slush Rush",
+    "EventAbilities": "",
+    "RecommendedRank": "Amateur",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "sandslash-alolan-form",
+    "DexCategory": "Mouse Pokemon",
+    "Height": {
+        "Meters": 1.2,
+        "Feet": 3.9
+    },
+    "Weight": {
+        "Kilograms": 55.0,
+        "Pounds": 121.3
+    },
+    "DexDescription": "These Pokemon make their burrows on Alola's ice caverns, hidden in plain sight. Careful with its spikes, any puncture into the skin and you can get severe frostbite. They can\u2019t stand high temperatures.",
+    "Evolutions": [
+        {
+            "From": "Sandshrew (Alolan Form)",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "sandslash-alolan-form.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Icicle Spear"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Metal Burst"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Icicle Crash"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Slash"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Defense Curl"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Ice Ball"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Metal Claw"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Chip Away"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Counter"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Aurora Veil"
+        }
+    ]
+}

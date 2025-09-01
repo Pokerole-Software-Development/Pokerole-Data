@@ -1,0 +1,26 @@
+{
+    "Name": "Meditate",
+    "Type": "Psychic",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Will",
+    "Accuracy2": "Channel",
+    "Target": "User",
+    "Effect": "Increase the User's Strength",
+    "Description": "The Pokemon meditates to unleash a power that's been sleeping deep inside the user.",
+    "_id": "meditate",
+    "Attributes": {},
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "Strength"
+                ],
+                "Stages": 1,
+                "Affects": "User"
+            }
+        ]
+    },
+    "Category": "Support"
+}

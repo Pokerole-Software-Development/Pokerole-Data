@@ -1,0 +1,133 @@
+{
+    "Number": 631,
+    "DexID": "0631",
+    "Name": "Heatmor",
+    "Type1": "Fire",
+    "Type2": "",
+    "BaseHP": 4,
+    "Strength": 3,
+    "MaxStrength": 6,
+    "Dexterity": 2,
+    "MaxDexterity": 5,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 3,
+    "MaxSpecial": 6,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Gluttony",
+    "Ability2": "Flash Fire",
+    "HiddenAbility": "White Smoke",
+    "EventAbilities": "",
+    "RecommendedRank": "Amateur",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "heatmor",
+    "DexCategory": "Anteater Pokemon",
+    "Height": {
+        "Meters": 1.4,
+        "Feet": 4.6
+    },
+    "Weight": {
+        "Kilograms": 58.0,
+        "Pounds": 127.9
+    },
+    "DexDescription": "It draws in air through its tail, then transforms it into fire and uses it like a tongue. You can see them defending Durant\u2019s colonies from predators so they can be the only ones who can eat them.",
+    "Evolutions": [],
+    "Image": "heatmor.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Odor Sleuth"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Lick"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Incinerate"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Hone Claws"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Bind"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Fire Spin"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Fury Swipes"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Snatch"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Flame Burst"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Bug Bite"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Slash"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Amnesia"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Fire Lash"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Flamethrower"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Stockpile"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Swallow"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Spit Up"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Inferno"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Flare Blitz"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Thunder Punch"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Fire Punch"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Night Slash"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "Name": "Round",
+    "Type": "Normal",
+    "Power": 2,
+    "Damage1": "Special",
+    "Damage2": "",
+    "Accuracy1": "Special",
+    "Accuracy2": "Perform",
+    "Target": "Foe",
+    "Effect": "If the User and an Ally are able to use Round, then both may choose to do it at the same time. If they do, both Pokemon add 3 Dice to the Damage Roll.",
+    "Description": "The user attacks the foe with a song. If a teammate joins the song the attack will be stronger.",
+    "_id": "round",
+    "Attributes": {},
+    "AddedEffects": {},
+    "Category": "Special"
+}

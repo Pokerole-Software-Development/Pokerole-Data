@@ -1,0 +1,115 @@
+{
+    "Number": 960,
+    "DexID": "0960",
+    "Name": "Wiglett",
+    "Type1": "Water",
+    "Type2": "",
+    "BaseHP": 3,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 3,
+    "MaxDexterity": 6,
+    "Vitality": 1,
+    "MaxVitality": 3,
+    "Special": 1,
+    "MaxSpecial": 3,
+    "Insight": 1,
+    "MaxInsight": 3,
+    "Ability1": "Gooey",
+    "Ability2": "Rattled",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Standard",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "wiglett",
+    "DexCategory": "Garden Eel Pokémon",
+    "Height": {
+        "Meters": 1.2,
+        "Feet": 3.9
+    },
+    "Weight": {
+        "Kilograms": 1.8,
+        "Pounds": 4.0
+    },
+    "DexDescription": "It was recently confirmed that Wiglett is not a regional variant of Diglett. These Pokémon burrow themselves in the sand to hide from threats and predators, detected thanks to an incredibly developed sense of smell.",
+    "Evolutions": [
+        {
+            "To": "Wugtrio",
+            "Kind": "Level",
+            "Speed": "Slow"
+        }
+    ],
+    "Image": "wiglett.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Water Gun"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Sand Attack"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Mud Slap"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Wrap"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Aqua Jet"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Slam"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Water Pulse"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Headbutt"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Dig"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Sucker Punch"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Dive"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Bulldoze"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Throat Chop"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Liquidation"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Ice Beam"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Chilling Water"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Agility"
+        }
+    ]
+}

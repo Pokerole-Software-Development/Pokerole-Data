@@ -1,0 +1,18 @@
+{
+    "Name": "Mat Block",
+    "Type": "Fighting",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Athletic",
+    "Target": "User and Allies",
+    "Effect": "Target User and Allies in Range. Shield Move. Reduce 3 Damage from a Physical or Special Move.",
+    "Description": "The Pokemon uses a mat or something similar as a shield.",
+    "_id": "mat-block",
+    "Attributes": {
+        "ShieldMove": true
+    },
+    "AddedEffects": {},
+    "Category": "Support"
+}

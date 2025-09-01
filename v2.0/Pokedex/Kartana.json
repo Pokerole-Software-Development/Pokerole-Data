@@ -1,0 +1,129 @@
+{
+    "Number": 798,
+    "DexID": "0798",
+    "Name": "Kartana",
+    "Type1": "Grass",
+    "Type2": "Steel",
+    "BaseHP": 4,
+    "Strength": 9,
+    "MaxStrength": 9,
+    "Dexterity": 6,
+    "MaxDexterity": 6,
+    "Vitality": 7,
+    "MaxVitality": 7,
+    "Special": 4,
+    "MaxSpecial": 4,
+    "Insight": 3,
+    "MaxInsight": 3,
+    "Ability1": "Beast Boost",
+    "Ability2": "",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Pro",
+    "GenderType": "N",
+    "Legendary": true,
+    "GoodStarter": false,
+    "_id": "kartana",
+    "DexCategory": "Aether Foundation Log #014",
+    "Height": {
+        "Meters": 0.3,
+        "Feet": 1.0
+    },
+    "Weight": {
+        "Kilograms": 0.1,
+        "Pounds": 0.2
+    },
+    "DexDescription": "Its paper-thin body and agility make it too dangerous to approach without serious risk of injury. Our team managed to immobilize it using a heat chamber, though I swear I feel its resentment to us.",
+    "Evolutions": [],
+    "Image": "kartana.png",
+    "Moves": [
+        {
+            "Learned": "Master",
+            "Name": "Sacred Sword"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Defog"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Vacuum Wave"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Air Cutter"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Fury Cutter"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Cut"
+        },
+        {
+            "Learned": "Master",
+            "Name": "False Swipe"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Razor Leaf"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Synthesis"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Aerial Ace"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Laser Focus"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Night Slash"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Swords Dance"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Leaf Blade"
+        },
+        {
+            "Learned": "Master",
+            "Name": "X-Scissor"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Detect"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Air Slash"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Psycho Cut"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Guillotine"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Iron Defense"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Knock Off"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Tailwind"
+        }
+    ]
+}

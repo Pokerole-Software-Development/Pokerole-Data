@@ -1,0 +1,25 @@
+{
+    "Name": "Smack Down",
+    "Type": "Rock",
+    "Power": 2,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Channel",
+    "Target": "Foe",
+    "Effect": "Ranged. Remove the foe's Immunity to Ground-Type Attacks.",
+    "Description": "The user hurls a projectile, usually a heavy rock that sends the foe down to the ground, leaving it unable to take off the ground afterwards.",
+    "_id": "smack-down",
+    "Attributes": {
+        "PhysicalRanged": true
+    },
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Grounded",
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Physical"
+}

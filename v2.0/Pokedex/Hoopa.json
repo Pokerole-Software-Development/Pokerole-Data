@@ -1,0 +1,134 @@
+{
+    "Number": 720,
+    "DexID": "0720",
+    "Name": "Hoopa",
+    "Type1": "Psychic",
+    "Type2": "Ghost",
+    "BaseHP": 4,
+    "Strength": 6,
+    "MaxStrength": 6,
+    "Dexterity": 5,
+    "MaxDexterity": 5,
+    "Vitality": 4,
+    "MaxVitality": 4,
+    "Special": 8,
+    "MaxSpecial": 8,
+    "Insight": 7,
+    "MaxInsight": 7,
+    "Ability1": "Magician",
+    "Ability2": "",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Pro",
+    "GenderType": "N",
+    "Legendary": true,
+    "GoodStarter": false,
+    "_id": "hoopa",
+    "DexCategory": "No Data",
+    "Height": {
+        "Meters": 0.5,
+        "Feet": 1.6
+    },
+    "Weight": {
+        "Kilograms": 9.0,
+        "Pounds": 19.8
+    },
+    "DexDescription": "There is a story of an old demon whose power had to be contained by a spell. The spell was a partial success as the demon could still roam free, but its power and evil was greatly diminished.",
+    "Evolutions": [
+        {
+            "To": "Hoopa (Unbound Form)",
+            "Kind": "Form"
+        }
+    ],
+    "Image": "hoopa.png",
+    "Moves": [
+        {
+            "Learned": "Master",
+            "Name": "Trick"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Destiny Bond"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Ally Switch"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Confusion"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Astonish"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Magic Coat"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Light Screen"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Psybeam"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Skill Swap"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Power Split"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Guard Split"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Phantom Force"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Zen Headbutt"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Wonder Room"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Trick Room"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Shadow Ball"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Nasty Plot"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Psychic"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Hyperspace Hole"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Telekinesis"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Magic Room"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Confide"
+        }
+    ]
+}

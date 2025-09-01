@@ -1,0 +1,26 @@
+{
+    "Name": "Gravity (Strength)",
+    "Type": "Psychic",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Strength",
+    "Accuracy2": "Channel",
+    "Target": "Battlefield",
+    "Effect": "Target Battlefield. Remove the immunity to Ground-Type Moves for everyone in the field. Duration 4 Rounds.",
+    "Description": "The gravity is intensified, bringing everyone to their knees. Flying Pokémon are slammed to the ground.",
+    "_id": "gravity-(strength)",
+    "Attributes": {
+        "Duration": 4
+    },
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Grounded",
+                "Affects": "Targets"
+            }
+        ],
+        "TerrainEffect": "Gravity"
+    },
+    "Category": "Support"
+}

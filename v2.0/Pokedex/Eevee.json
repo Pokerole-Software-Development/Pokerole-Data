@@ -1,0 +1,167 @@
+{
+    "Number": 133,
+    "DexID": "0133",
+    "Name": "Eevee",
+    "Type1": "Normal",
+    "Type2": "",
+    "BaseHP": 3,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Run Away",
+    "Ability2": "Adaptability",
+    "HiddenAbility": "Anticipation",
+    "EventAbilities": "",
+    "RecommendedRank": "Beginner",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "eevee",
+    "DexCategory": "Evolution Pokemon",
+    "Height": {
+        "Meters": 0.3,
+        "Feet": 1.0
+    },
+    "Weight": {
+        "Kilograms": 6.5,
+        "Pounds": 14.3
+    },
+    "DexDescription": "This Pokemon is extremely rare to find. Eevee has an unstable genetic makeup that suddenly mutates to fit its environment. Radiation from various stones causes this Pokemon to evolve.",
+    "Evolutions": [
+        {
+            "To": "Vaporeon",
+            "Kind": "Stone",
+            "Item": "Water Stone"
+        },
+        {
+            "To": "Jolteon",
+            "Kind": "Stone",
+            "Item": "Thunder Stone"
+        },
+        {
+            "To": "Flareon",
+            "Kind": "Stone",
+            "Item": "Fire Stone"
+        },
+        {
+            "To": "Espeon",
+            "Kind": "Special",
+            "Stat": "Happiness",
+            "Value": 4,
+            "Special": "Sunlight"
+        },
+        {
+            "To": "Umbreon",
+            "Kind": "Special",
+            "Stat": "Happiness",
+            "Value": 4,
+            "Special": "Moonlight"
+        },
+        {
+            "To": "Leafeon",
+            "Kind": "Stone",
+            "Item": "Leaf Stone"
+        },
+        {
+            "To": "Glaceon",
+            "Kind": "Stone",
+            "Item": "Ice Stone"
+        },
+        {
+            "To": "Sylveon",
+            "Kind": "Stat",
+            "Stat": "Loyalty",
+            "Value": 5
+        }
+    ],
+    "Image": "eevee.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Helping Hand"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Growl"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Tail Whip"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Sand Attack"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Baby-Doll Eyes"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Swift"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Quick Attack"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Bite"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Refresh"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Covet"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Take Down"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Charm"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Baton Pass"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Double-Edge"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Last Resort"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Trump Card"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Wish"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Tickle"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Fake Tears"
+        }
+    ]
+}

@@ -1,0 +1,128 @@
+{
+    "Number": 143,
+    "DexID": "0143",
+    "Name": "Snorlax",
+    "Type1": "Normal",
+    "Type2": "",
+    "BaseHP": 8,
+    "Strength": 3,
+    "MaxStrength": 6,
+    "Dexterity": 1,
+    "MaxDexterity": 3,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 3,
+    "MaxInsight": 6,
+    "Ability1": "Immunity",
+    "Ability2": "Thick Fat",
+    "HiddenAbility": "Gluttony",
+    "EventAbilities": "",
+    "RecommendedRank": "Amateur",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "snorlax",
+    "DexCategory": "Sleeping Pokemon",
+    "Height": {
+        "Meters": 2.1,
+        "Feet": 6.9
+    },
+    "Weight": {
+        "Kilograms": 460.0,
+        "Pounds": 1014.1
+    },
+    "DexDescription": "Snorlax's typical day consists of eating and sleeping. It is such a docile Pokemon that children use its big belly as a place to play. It only attacks when it\u2019s awoken harshly. Fortunately it is a heavy sleeper.",
+    "Evolutions": [
+        {
+            "From": "Munchlax",
+            "Kind": "Stat",
+            "Stat": "Happiness",
+            "Value": 4
+        }
+    ],
+    "Image": "snorlax.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Defense Curl"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Amnesia"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Lick"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Yawn"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Chip Away"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Body Slam"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Rest"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Snore"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Sleep Talk"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Rollout"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Block"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Crunch"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Belly Drum"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Heavy Slam"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Giga Impact"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "High Horsepower"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Outrage"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Gunk Shot"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Self Destruct"
+        }
+    ]
+}

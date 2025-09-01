@@ -1,0 +1,115 @@
+{
+    "Number": 755,
+    "DexID": "0755",
+    "Name": "Morelull",
+    "Type1": "Grass",
+    "Type2": "Fairy",
+    "BaseHP": 3,
+    "Strength": 1,
+    "MaxStrength": 3,
+    "Dexterity": 1,
+    "MaxDexterity": 2,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Illuminate",
+    "Ability2": "Effect Spore",
+    "HiddenAbility": "Rain Dish",
+    "EventAbilities": "",
+    "RecommendedRank": "Starter",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "morelull",
+    "DexCategory": "Illuminating Pokemon",
+    "Height": {
+        "Meters": 0.2,
+        "Feet": 0.7
+    },
+    "Weight": {
+        "Kilograms": 1.5,
+        "Pounds": 3.3
+    },
+    "DexDescription": "Morellul are nocturnal Pokemon whose headbulbs emit a faint glow. They root into a tree and use its nutrients to power their light, when the tree is all dried up they are ready to evolve.",
+    "Evolutions": [
+        {
+            "To": "Shiinotic",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "morelull.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Absorb"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Astonish"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Flash"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Moonlight"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Mega Drain"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Sleep Powder"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Ingrain"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Confuse Ray"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Giga Drain"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Strength Sap"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Dream Eater"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Spotlight"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Spore"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Moonblast"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Leech Seed"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Amnesia"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Light Screen"
+        }
+    ]
+}

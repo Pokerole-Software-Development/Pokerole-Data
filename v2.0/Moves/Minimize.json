@@ -1,0 +1,23 @@
+{
+    "Name": "Minimize",
+    "Type": "Normal",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Special",
+    "Accuracy2": "Channel",
+    "Target": "User",
+    "Effect": "The User can now make up to 5 Evasions per Round.",
+    "Description": "The Pokemon compacts its body, appearing smaller than its normal size.",
+    "_id": "minimize",
+    "Attributes": {},
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "SpedUp",
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Support"
+}

@@ -1,0 +1,123 @@
+{
+    "Number": 668,
+    "DexID": "0668",
+    "Name": "Pyroar",
+    "Type1": "Fire",
+    "Type2": "Normal",
+    "BaseHP": 5,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 3,
+    "MaxDexterity": 6,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 3,
+    "MaxSpecial": 6,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Rivalry",
+    "Ability2": "Unnerve",
+    "HiddenAbility": "Moxie",
+    "EventAbilities": "",
+    "RecommendedRank": "Ace",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "pyroar",
+    "DexCategory": "Royal Pokemon",
+    "Height": {
+        "Meters": 1.5,
+        "Feet": 4.9
+    },
+    "Weight": {
+        "Kilograms": 81.5,
+        "Pounds": 179.7
+    },
+    "DexDescription": "The male with the largest fire mane is the leader of the pride. The females have a long mane strip. Whenever they roar they also let out a fiery breath. Not many Pokemon dare to mess with them.",
+    "Evolutions": [
+        {
+            "From": "Litleo",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "pyroar.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Leer"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Take Down"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Ember"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Work Up"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Headbutt"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Noble Roar"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Flamethrower"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Fire Fang"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Endeavor"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Echoed Voice"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Hyper Beam"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Crunch"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Hyper Voice"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Incinerate"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Overheat"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Heat Wave"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Helping Hand"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Endeavor"
+        }
+    ]
+}

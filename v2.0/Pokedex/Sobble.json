@@ -1,0 +1,103 @@
+{
+    "Number": 816,
+    "DexID": "0816",
+    "Name": "Sobble",
+    "Type1": "Water",
+    "Type2": "",
+    "BaseHP": 3,
+    "Strength": 1,
+    "MaxStrength": 3,
+    "Dexterity": 2,
+    "MaxDexterity": 5,
+    "Vitality": 1,
+    "MaxVitality": 3,
+    "Special": 2,
+    "MaxSpecial": 5,
+    "Insight": 1,
+    "MaxInsight": 3,
+    "Ability1": "Torrent",
+    "Ability2": "",
+    "HiddenAbility": "Sniper",
+    "EventAbilities": "",
+    "RecommendedRank": "Beginner",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "sobble",
+    "DexCategory": "Water Lizard Pokemon",
+    "Height": {
+        "Meters": 0.3,
+        "Feet": 1.0
+    },
+    "Weight": {
+        "Kilograms": 4.0,
+        "Pounds": 8.8
+    },
+    "DexDescription": "This shy Pokemon does not like to attract too much attention. It hides in shallow pools of water.. When it feels threatened it cries and its tears pack release a chemical that will make its foes cry too.",
+    "Evolutions": [
+        {
+            "To": "Drizzile",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "sobble.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Pound"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Growl"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Water Gun"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Bind"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Water Pulse"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Tearful Look"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Sucker Punch"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "U-Turn"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Liquidation"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Soak"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Rain Dance"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Double Team"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Mist"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Water Pledge"
+        }
+    ]
+}

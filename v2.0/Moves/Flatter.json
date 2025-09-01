@@ -1,0 +1,32 @@
+{
+    "Name": "Flatter",
+    "Type": "Dark",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Cool",
+    "Accuracy2": "Allure",
+    "Target": "Foe",
+    "Effect": "Increase the foe's Special. Confuse foe.",
+    "Description": "The user starts flattering and admiring its opponent. It sure makes it feel good about itself, but why?",
+    "_id": "flatter",
+    "Attributes": {},
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "Special"
+                ],
+                "Stages": 1,
+                "Affects": "Targets"
+            }
+        ],
+        "Ailments": [
+            {
+                "Type": "Confuse",
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Support"
+}

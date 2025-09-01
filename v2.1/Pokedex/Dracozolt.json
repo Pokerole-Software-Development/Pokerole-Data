@@ -1,0 +1,121 @@
+{
+    "Number": 880,
+    "DexID": "0880",
+    "Name": "Dracozolt",
+    "Type1": "Electric",
+    "Type2": "Dragon",
+    "BaseHP": 5,
+    "Strength": 3,
+    "MaxStrength": 6,
+    "Dexterity": 2,
+    "MaxDexterity": 5,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 2,
+    "MaxSpecial": 5,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Volt Absorb",
+    "Ability2": "Sand Rush",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Advanced",
+    "GenderType": "N",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "dracozolt",
+    "DexCategory": "Fossil Pokémon",
+    "Height": {
+        "Meters": 1.8,
+        "Feet": 5.9
+    },
+    "Weight": {
+        "Kilograms": 190.0,
+        "Pounds": 418.9
+    },
+    "DexDescription": "A mix-up of DNA during the revival process resulted in this. Its lower body was an incredibly strong Pokémon that probably preyed on the little one from the upper body. Sometimes it will try to run from itself.",
+    "Evolutions": [],
+    "Image": "dracozolt.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Thunder Shock"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Charge"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Aerial Ace"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Ancient Power"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Pluck"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Dragon Tail"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Stomp"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Slam"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Discharge"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Thunder Fang"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Stone Edge"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Wild Charge"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Breaking Swipe"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Bolt Beak"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Dragon Pulse"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Dragon Rush"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "High Horsepower"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Thunder"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Draco Meteor"
+        }
+    ]
+}

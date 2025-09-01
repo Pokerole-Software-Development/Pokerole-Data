@@ -1,0 +1,23 @@
+{
+    "Name": "Skill Swap",
+    "Type": "Psychic",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Clever",
+    "Accuracy2": "Perform",
+    "Target": "Foe",
+    "Effect": "Switch Abilities with the foe. The abilities Flower Gift. Illusion. Imposter. Stance Change. Wonder Guard. Plot Device and others cannot be switched.",
+    "Description": "The user swaps its identity with the target, making both feel like they are from each other's species.",
+    "_id": "skill-swap",
+    "Attributes": {},
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "ChangedAbility",
+                "Affects": "User"
+            }
+        ]
+    },
+    "Category": "Support"
+}

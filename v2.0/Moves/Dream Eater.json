@@ -1,0 +1,22 @@
+{
+    "Name": "Dream Eater",
+    "Type": "Psychic",
+    "Power": 4,
+    "Damage1": "Special",
+    "Damage2": "",
+    "Accuracy1": "Special",
+    "Accuracy2": "Channel",
+    "Target": "Foe",
+    "Effect": "The user restores HP equal to half the damage dealt, rounded down. The target must be asleep, this move will fail otherwise.",
+    "Description": "The user eats the dreams of a sleeping target. When the foe wakes up, it will feel weak and empty.",
+    "_id": "dream-eater",
+    "Attributes": {},
+    "AddedEffects": {
+        "Heal": {
+            "Type": "Leech",
+            "Percentage": 0.5,
+            "Target": "User"
+        }
+    },
+    "Category": "Special"
+}

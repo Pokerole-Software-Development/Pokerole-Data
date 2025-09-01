@@ -1,0 +1,18 @@
+{
+    "Name": "Burn Up",
+    "Type": "Fire",
+    "Power": 7,
+    "Damage1": "Special",
+    "Damage2": "",
+    "Accuracy1": "Will",
+    "Accuracy2": "Channel",
+    "Target": "Foe",
+    "Effect": "Lethal. After Damage is dealt, the user is no longer considered a Fire-Type for the rest of the day (if its only type was Fire, it is now considered Typeless). Fire-type Moves won't add their Power to the Damage pool of this Pokemon for the rest of the day.",
+    "Description": "The User unleashes all of its might through a massive blast of raging fire. Although the damage is devastating the Pokemon is left unable to produce more fire for at least a day.",
+    "_id": "burn-up",
+    "Attributes": {
+        "Lethal": true
+    },
+    "AddedEffects": {},
+    "Category": "Special"
+}

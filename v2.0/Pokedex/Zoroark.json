@@ -1,0 +1,131 @@
+{
+    "Number": 571,
+    "DexID": "0571",
+    "Name": "Zoroark",
+    "Type1": "Dark",
+    "Type2": "",
+    "BaseHP": 4,
+    "Strength": 3,
+    "MaxStrength": 6,
+    "Dexterity": 3,
+    "MaxDexterity": 6,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 3,
+    "MaxSpecial": 7,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Illusion",
+    "Ability2": "",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Amateur",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "zoroark",
+    "DexCategory": "Illusion Fox Pokemon",
+    "Height": {
+        "Meters": 1.6,
+        "Feet": 5.2
+    },
+    "Weight": {
+        "Kilograms": 81.1,
+        "Pounds": 178.8
+    },
+    "DexDescription": "They live in groups, their lair\u2019s entrance is protected with their illusions and mirages. They have been known to fool entire towns with their tricks. Their illusions can hide their tails now but they remain mute.",
+    "Evolutions": [
+        {
+            "From": "Zorua",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "zoroark.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Leer"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Scratch"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Hone Claws"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Pursuit"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Agility"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Embargo"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "U-Turn"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Fury Swipes"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Feint Attack"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Scary Face"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Taunt"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Foul Play"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Night Slash"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Torment"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Night Daze"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Imprison"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Punishment"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Nasty Plot"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Extrasensory"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Detect"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Sucker Punch"
+        }
+    ]
+}

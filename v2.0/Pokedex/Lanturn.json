@@ -1,0 +1,139 @@
+{
+    "Number": 171,
+    "DexID": "0171",
+    "Name": "Lanturn",
+    "Type1": "Water",
+    "Type2": "Electric",
+    "BaseHP": 6,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 2,
+    "MaxSpecial": 5,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Volt Absorb",
+    "Ability2": "Illuminate",
+    "HiddenAbility": "Water Absorb",
+    "EventAbilities": "",
+    "RecommendedRank": "Amateur",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "lanturn",
+    "DexCategory": "Light Pokemon",
+    "Height": {
+        "Meters": 1.2,
+        "Feet": 3.9
+    },
+    "Weight": {
+        "Kilograms": 22.5,
+        "Pounds": 49.6
+    },
+    "DexDescription": "It is known for its soft light glow. They are not aggressive Pokemon. If you look into the dark sea at night you can sometimes see this Pokemon\u2019s light rising from the depths, making the sea look like a starry night.",
+    "Evolutions": [
+        {
+            "From": "Chinchou",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "lanturn.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Supersonic"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Water Gun"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Flail"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Thunder Wave"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Confuse Ray"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Bubble"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Eerie Impulse"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Spark"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Take Down"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Stockpile"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Swallow"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Spit Up"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Electro Ball"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Bubble Beam"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Signal Beam"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Charge"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Aqua Ring"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Discharge"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Ion Deluge"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Hydro Pump"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Agility"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Soak"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Psybeam"
+        }
+    ]
+}

@@ -1,0 +1,138 @@
+{
+    "Number": 800,
+    "DexID": "0800F1",
+    "Name": "Necrozma (Dusk Mane Form)",
+    "Type1": "Psychic",
+    "Type2": "Steel",
+    "BaseHP": 4,
+    "Strength": 8,
+    "MaxStrength": 8,
+    "Dexterity": 5,
+    "MaxDexterity": 5,
+    "Vitality": 7,
+    "MaxVitality": 7,
+    "Special": 6,
+    "MaxSpecial": 6,
+    "Insight": 6,
+    "MaxInsight": 6,
+    "Ability1": "Prism Armor",
+    "Ability2": "",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Master",
+    "GenderType": "N",
+    "Legendary": true,
+    "GoodStarter": false,
+    "_id": "necrozma-dusk-mane-form",
+    "DexCategory": "Aether Foundation Log #182",
+    "Height": {
+        "Meters": 3.8,
+        "Feet": 12.5
+    },
+    "Weight": {
+        "Kilograms": 460.0,
+        "Pounds": 1014.1
+    },
+    "DexDescription": "The shadowy creature is in pain, and it hungers for any light it can find. I wonder how would it fare on the other side, back in our world. Would the sunlight ease its spirit or release a terrible monster?",
+    "Evolutions": [
+        {
+            "From": "Necrozma",
+            "Kind": "Special"
+        }
+    ],
+    "Image": "necrozma-dusk-mane-form.png",
+    "Moves": [
+        {
+            "Learned": "Master",
+            "Name": "Moonlight"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Morning Sun"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Charge Beam"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Mirror Shot"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Metal Claw"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Confusion"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Slash"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Stored Power"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Rock Blast"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Night Slash"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Gravity"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Psycho Cut"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Power Gem"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Autotomize"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Photon Geyser (Special)"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Stealth Rock"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Iron Defense"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Wring Out"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Prismatic Laser"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Outrage"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Shadow Claw"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Magnet Rise"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Sunsteel Strike"
+        }
+    ]
+}

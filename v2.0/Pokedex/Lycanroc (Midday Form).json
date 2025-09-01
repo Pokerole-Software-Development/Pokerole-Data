@@ -1,0 +1,132 @@
+{
+    "Number": 745,
+    "DexID": "0745",
+    "Name": "Lycanroc (Midday Form)",
+    "Type1": "Rock",
+    "Type2": "",
+    "BaseHP": 4,
+    "Strength": 3,
+    "MaxStrength": 6,
+    "Dexterity": 3,
+    "MaxDexterity": 6,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Keen Eye",
+    "Ability2": "Sand Rush",
+    "HiddenAbility": "Steadfast",
+    "EventAbilities": "",
+    "RecommendedRank": "Amateur",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "lycanroc-midday-form",
+    "DexCategory": "Wolf Pokemon",
+    "Height": {
+        "Meters": 0.8,
+        "Feet": 2.6
+    },
+    "Weight": {
+        "Kilograms": 25.0,
+        "Pounds": 55.1
+    },
+    "DexDescription": "A well-disciplined Rockruff will evolve at Dawn. This Pokemon is very Loyal and trustworthy. It can climb mountains fast and is a quick runner. The rocks on its mane are its main weapons.",
+    "Evolutions": [
+        {
+            "From": "Rockruff",
+            "Kind": "Level",
+            "Speed": "Medium",
+            "Special": "Day"
+        }
+    ],
+    "Image": "lycanroc-midday-form.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Quick Attack"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Leer"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Sand Attack"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Bite"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Howl"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Accelerock"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Quick Guard"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Rock Throw"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Odor Sleuth"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Rock Tomb"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Roar"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Stealth Rock"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Scary Face"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Rock Slide"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Crunch"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Rock Climb"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Stone Edge"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Rock Polish"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Iron Defense"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Drill Run"
+        }
+    ]
+}

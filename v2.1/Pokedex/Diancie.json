@@ -1,0 +1,139 @@
+{
+    "Number": 719,
+    "DexID": "0719",
+    "Name": "Diancie",
+    "Type1": "Rock",
+    "Type2": "Fairy",
+    "BaseHP": 4,
+    "Strength": 6,
+    "MaxStrength": 6,
+    "Dexterity": 4,
+    "MaxDexterity": 4,
+    "Vitality": 8,
+    "MaxVitality": 8,
+    "Special": 6,
+    "MaxSpecial": 6,
+    "Insight": 8,
+    "MaxInsight": 8,
+    "Ability1": "Clear Body",
+    "Ability2": "",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Ace",
+    "GenderType": "N",
+    "Legendary": true,
+    "GoodStarter": false,
+    "_id": "diancie",
+    "DexCategory": "Registered as #703 Carbink",
+    "Height": {
+        "Meters": 0.7,
+        "Feet": 2.3
+    },
+    "Weight": {
+        "Kilograms": 8.8,
+        "Pounds": 19.4
+    },
+    "DexDescription": "The popular saying goes like this: 'If you put carbon under pressure, you will get a diamond', but it surely was not referring to a Pokémon... or was it?",
+    "Evolutions": [
+        {
+            "To": "Diancie (Mega Form)",
+            "Kind": "Mega",
+            "Item": "Diancite"
+        }
+    ],
+    "Image": "diancie.png",
+    "Moves": [
+        {
+            "Learned": "Ace",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Harden"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Sharpen"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Smack Down"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Guard Split"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Ancient Power"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Flail"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Rock Throw"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Rock Polish"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Stealth Rock"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Light Screen"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Reflect"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Rock Slide"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Skill Swap"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Power Gem"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Trick Room"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Moonblast"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Magnet Rise"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Stone Edge"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Safeguard"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Dazzling Gleam"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Iron Defense"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Diamond Storm"
+        }
+    ]
+}

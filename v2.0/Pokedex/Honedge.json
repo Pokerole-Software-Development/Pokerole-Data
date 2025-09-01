@@ -1,0 +1,119 @@
+{
+    "Number": 679,
+    "DexID": "0679",
+    "Name": "Honedge",
+    "Type1": "Steel",
+    "Type2": "Ghost",
+    "BaseHP": 3,
+    "Strength": 2,
+    "MaxStrength": 5,
+    "Dexterity": 1,
+    "MaxDexterity": 3,
+    "Vitality": 3,
+    "MaxVitality": 6,
+    "Special": 1,
+    "MaxSpecial": 3,
+    "Insight": 1,
+    "MaxInsight": 3,
+    "Ability1": "No Guard",
+    "Ability2": "",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Amateur",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "honedge",
+    "DexCategory": "Sword Pokemon",
+    "Height": {
+        "Meters": 0.8,
+        "Feet": 2.6
+    },
+    "Weight": {
+        "Kilograms": 2.0,
+        "Pounds": 4.4
+    },
+    "DexDescription": "During ancient war times this ruthless Pokemon was born from the spirits of warriors who died in battle. It is a cursed sword that seeks revenge and bloodshed. It will drain the life energy of anyone that wields it.",
+    "Evolutions": [
+        {
+            "To": "Doublade",
+            "Kind": "Level",
+            "Speed": "Slow"
+        }
+    ],
+    "Image": "honedge.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Swords Dance"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Fury Cutter"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Metal Sound"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Pursuit"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Autotomize"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Shadow Sneak"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Aerial Ace"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Retaliate"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Slash"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Night Slash"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Iron Defense"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Power Trick"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Iron Head"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Sacred Sword"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Destiny Bond"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Spite"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Wide Guard"
+        }
+    ]
+}

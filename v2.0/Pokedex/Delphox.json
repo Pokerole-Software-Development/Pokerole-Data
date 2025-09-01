@@ -1,0 +1,143 @@
+{
+    "Number": 655,
+    "DexID": "0655",
+    "Name": "Delphox",
+    "Type1": "Fire",
+    "Type2": "Psychic",
+    "BaseHP": 5,
+    "Strength": 2,
+    "MaxStrength": 5,
+    "Dexterity": 3,
+    "MaxDexterity": 6,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 3,
+    "MaxSpecial": 6,
+    "Insight": 3,
+    "MaxInsight": 6,
+    "Ability1": "Blaze",
+    "Ability2": "",
+    "HiddenAbility": "Magician",
+    "EventAbilities": "",
+    "RecommendedRank": "Ace",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "delphox",
+    "DexCategory": "Fox Pokemon",
+    "Height": {
+        "Meters": 1.5,
+        "Feet": 4.9
+    },
+    "Weight": {
+        "Kilograms": 39.0,
+        "Pounds": 86.0
+    },
+    "DexDescription": "It swirls its twig to create amazing flamethrowers. It gazes into the flame at the tip of its stick to achieve a focused state and rumor says that it can see the future within the glowing ember.",
+    "Evolutions": [
+        {
+            "From": "Braixen",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "delphox.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Scratch"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Tail Whip"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Ember"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Howl"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Magic Room"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Shadow Ball"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Future Sight"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Mystical Fire"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Flame Charge"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Psybeam"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Fire Spin"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Lucky Chant"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Light Screen"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Psyshock"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Flamethrower"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Will-O-Wisp"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Psychic"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Sunny Day"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Switcheroo"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Fire Blast"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Role Play"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Dazzling Gleam"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Shock Wave"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Blast Burn"
+        }
+    ]
+}

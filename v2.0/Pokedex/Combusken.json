@@ -1,0 +1,120 @@
+{
+    "Number": 256,
+    "DexID": "0256",
+    "Name": "Combusken",
+    "Type1": "Fire",
+    "Type2": "Fighting",
+    "BaseHP": 4,
+    "Strength": 2,
+    "MaxStrength": 5,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 2,
+    "MaxSpecial": 5,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Blaze",
+    "Ability2": "",
+    "HiddenAbility": "Speed Boost",
+    "EventAbilities": "",
+    "RecommendedRank": "Amateur",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "combusken",
+    "DexCategory": "Young Fowl Pokemon",
+    "Height": {
+        "Meters": 0.9,
+        "Feet": 3.0
+    },
+    "Weight": {
+        "Kilograms": 19.5,
+        "Pounds": 43.0
+    },
+    "DexDescription": "Once Torchic toughened up its legs and thighs, they like to run and love to kick. They have an offensive instinct to keep attacking no matter what. They sqwak loudly every morning when they start to train.",
+    "Evolutions": [
+        {
+            "From": "Torchic",
+            "Kind": "Level",
+            "Speed": "Medium"
+        },
+        {
+            "To": "Blaziken",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "combusken.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Growl"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Scratch"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Ember"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Focus Energy"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Double Kick"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Peck"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Flame Charge"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Sand Attack"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Bulk Up"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Quick Attack"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Slash"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Mirror Move"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Sky Uppercut"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Flare Blitz"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Counter"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Feather Dance"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Fire Pledge"
+        }
+    ]
+}

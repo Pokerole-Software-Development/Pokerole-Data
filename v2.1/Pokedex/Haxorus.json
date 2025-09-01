@@ -1,0 +1,147 @@
+{
+    "Number": 612,
+    "DexID": "0612",
+    "Name": "Haxorus",
+    "Type1": "Dragon",
+    "Type2": "",
+    "BaseHP": 5,
+    "Strength": 4,
+    "MaxStrength": 8,
+    "Dexterity": 3,
+    "MaxDexterity": 6,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Rivalry",
+    "Ability2": "Mold Breaker",
+    "HiddenAbility": "Unnerve",
+    "EventAbilities": "",
+    "RecommendedRank": "Expert",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "haxorus",
+    "DexCategory": "Axe Jaw Pokémon",
+    "Height": {
+        "Meters": 1.8,
+        "Feet": 5.9
+    },
+    "Weight": {
+        "Kilograms": 157,
+        "Pounds": 345
+    },
+    "DexDescription": "Their sturdy tusks will stay sharp even if they are used to cut steel. These Pokémon are covered in hard armor. They are incredibly aggressive; if their territory is trespassed upon, they chase and slash mercilessly.",
+    "Evolutions": [
+        {
+            "From": "Fraxure",
+            "Kind": "Level",
+            "Speed": "Slow"
+        }
+    ],
+    "Image": "haxorus.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Scratch"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Leer"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Bite"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "False Swipe"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Assurance"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Taunt"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Slash"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Dragon Claw"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Scary Face"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Dragon Rage"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Crunch"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Dragon Dance"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Dual Chop"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Laser Focus"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Dragon Pulse"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Swords Dance"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Poison Jab"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "X-Scissor"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Outrage"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Guillotine"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Giga Impact"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Psycho Cut"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "First Impression"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Draco Meteor"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Rock Slide"
+        }
+    ]
+}

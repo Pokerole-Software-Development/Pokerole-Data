@@ -1,0 +1,119 @@
+{
+    "Number": 562,
+    "DexID": "0562",
+    "Name": "Yamask",
+    "Type1": "Ghost",
+    "Type2": "",
+    "BaseHP": 3,
+    "Strength": 1,
+    "MaxStrength": 3,
+    "Dexterity": 1,
+    "MaxDexterity": 3,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Mummy",
+    "Ability2": "",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Amateur",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "yamask",
+    "DexCategory": "Spirit Pokemon",
+    "Height": {
+        "Meters": 0.5,
+        "Feet": 1.6
+    },
+    "Weight": {
+        "Kilograms": 1.5,
+        "Pounds": 3.3
+    },
+    "DexDescription": "This Pokemon arose from the spirit of a human or a Pokemon that died in the past and was buried with special ceremonies. Each one carries a mask that looks like the face it had in life. A sad Pokemon that weeps often.",
+    "Evolutions": [
+        {
+            "To": "Cofagrigus",
+            "Kind": "Level",
+            "Speed": "Slow"
+        }
+    ],
+    "Image": "yamask.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Astonish"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Protect"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Disable"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Haze"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Night Shade"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Hex"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Will-O-Wisp"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Ominous Wind"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Curse"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Power Split"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Guard Split"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Shadow Ball"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Grudge"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Mean Look"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Destiny Bond"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Fake Tears"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Nasty Plot"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Role Play"
+        }
+    ]
+}

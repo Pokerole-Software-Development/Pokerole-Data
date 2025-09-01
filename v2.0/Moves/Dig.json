@@ -1,0 +1,25 @@
+{
+    "Name": "Dig",
+    "Type": "Ground",
+    "Power": 3,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "Charge Move. While charging this move, the User will be out of range. Can be hit by Earthquake, Magnitude, or a similar move.",
+    "Description": "The user digs a tunnel on the ground and attacks while coming out from below.",
+    "_id": "dig",
+    "Attributes": {
+        "Charge": true
+    },
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Dig",
+                "Affects": "User"
+            }
+        ]
+    },
+    "Category": "Physical"
+}

@@ -1,0 +1,112 @@
+{
+    "Number": 117,
+    "DexID": "0117",
+    "Name": "Seadra",
+    "Type1": "Water",
+    "Type2": "",
+    "BaseHP": 4,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 2,
+    "MaxDexterity": 5,
+    "Vitality": 3,
+    "MaxVitality": 6,
+    "Special": 3,
+    "MaxSpecial": 6,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Swift Swim",
+    "Ability2": "Sniper",
+    "HiddenAbility": "Damp",
+    "EventAbilities": "",
+    "RecommendedRank": "Amateur",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "seadra",
+    "DexCategory": "Dragon Pokemon",
+    "Height": {
+        "Meters": 1.2,
+        "Feet": 3.9
+    },
+    "Weight": {
+        "Kilograms": 25.0,
+        "Pounds": 55.1
+    },
+    "DexDescription": "The poisonous barbs all over its body are highly valued as ingredients for making traditional medicine. It will show no mercy if anything approaches its nest. Its back fin has a numbing substance",
+    "Evolutions": [
+        {
+            "From": "Horsea",
+            "Kind": "Level",
+            "Speed": "Slow"
+        },
+        {
+            "To": "Kingdra",
+            "Kind": "Trade",
+            "Item": "Dragon Scale"
+        }
+    ],
+    "Image": "seadra.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Water Gun"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Smokescreen"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Leer"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Bubble"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Focus Energy"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Bubble Beam"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Agility"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Twister"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Brine"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Hydro Pump"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Dragon Dance"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Dragon Pulse"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Aurora Beam"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Signal Beam"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Octazooka"
+        }
+    ]
+}

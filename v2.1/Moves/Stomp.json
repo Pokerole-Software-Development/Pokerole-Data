@@ -1,0 +1,24 @@
+{
+    "Name": "Stomp",
+    "Type": "Normal",
+    "Power": 2,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Strength",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "Single Target. Roll 3 Chance Dice to Flinch the Target.",
+    "Description": "The Pokémon steps and stomps the foe. The weight may leave the target squashed on the floor.",
+    "_id": "stomp",
+    "Attributes": {},
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Flinch",
+                "Affects": "Targets",
+                "ChanceDice": 3
+            }
+        ]
+    },
+    "Category": "Physical"
+}

@@ -1,0 +1,123 @@
+{
+    "Number": 310,
+    "DexID": "0310M1",
+    "Name": "Manectric (Mega Form)",
+    "Type1": "Electric",
+    "Type2": "",
+    "BaseHP": 5,
+    "Strength": 2,
+    "MaxStrength": 5,
+    "Dexterity": 3,
+    "MaxDexterity": 7,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 3,
+    "MaxSpecial": 7,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Intimidate",
+    "Ability2": "",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Ace",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "manectric-mega-form",
+    "DexCategory": "Discharge Pokemon",
+    "Height": {
+        "Meters": 1.8,
+        "Feet": 5.9
+    },
+    "Weight": {
+        "Kilograms": 44.0,
+        "Pounds": 97.0
+    },
+    "DexDescription": "The power of the Mega Stone gives it an insurmountable amount of electricity that gives it an explosive velocity, but it is too much for it to bear. Its mane grows uncomfortably large, making it moody.",
+    "Evolutions": [
+        {
+            "From": "Manectric",
+            "Kind": "Mega",
+            "Item": "Manectite"
+        }
+    ],
+    "Image": "manectric-mega-form.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Leer"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Howl"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Thunder Wave"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Electric Terrain"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Fire Fang"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Quick Attack"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Spark"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Odor Sleuth"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Bite"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Thunder Fang"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Roar"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Discharge"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Charge"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Wild Charge"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Thunder"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Ice Fang"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Magnet Rise"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Crunch"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "Name": "Power Split",
+    "Type": "Psychic",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Special",
+    "Accuracy2": "Channel",
+    "Target": "Foe",
+    "Effect": "Average the User's Strength and Special with the target.",
+    "Description": "The user employs its psychic power to average its capabilities with the foe. They both feel like they're equals in terms of strength.",
+    "_id": "power-split",
+    "Attributes": {},
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "PowerSplit",
+                "Affects": "Targets"
+            },
+            {
+                "Type": "PowerSplit",
+                "Affects": "User"
+            }
+        ]
+    },
+    "Category": "Support"
+}

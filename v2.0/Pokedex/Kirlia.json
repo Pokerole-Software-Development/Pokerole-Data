@@ -1,0 +1,134 @@
+{
+    "Number": 281,
+    "DexID": "0281",
+    "Name": "Kirlia",
+    "Type1": "Psychic",
+    "Type2": "Fairy",
+    "BaseHP": 4,
+    "Strength": 1,
+    "MaxStrength": 3,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 1,
+    "MaxVitality": 3,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Synchronize",
+    "Ability2": "Trace",
+    "HiddenAbility": "Telepathy",
+    "EventAbilities": "",
+    "RecommendedRank": "Amateur",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "kirlia",
+    "DexCategory": "Emotion Pokemon",
+    "Height": {
+        "Meters": 0.8,
+        "Feet": 2.6
+    },
+    "Weight": {
+        "Kilograms": 20.2,
+        "Pounds": 44.5
+    },
+    "DexDescription": "When they use their powers, their surroundings are distorted with mirages and illusory sceneries from the future and the past. Kirlias like to dance and dislike to be bossed around.",
+    "Evolutions": [
+        {
+            "From": "Ralts",
+            "Kind": "Level",
+            "Speed": "Medium"
+        },
+        {
+            "To": "Gardevoir",
+            "Kind": "Level",
+            "Speed": "Medium"
+        },
+        {
+            "To": "Gallade",
+            "Kind": "Special",
+            "Item": "Dawn Stone",
+            "Gender": "Male"
+        }
+    ],
+    "Image": "kirlia.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Double Team"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Growl"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Confusion"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Teleport"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Disarming Voice"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Lucky Chant"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Magical Leaf"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Heal Pulse"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Calm Mind"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Psychic"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Imprison"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Charm"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Future Sight"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Hypnosis"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Dream Eater"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Stored Power"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Mean Look"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Helping Hand"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Magic Room"
+        }
+    ]
+}

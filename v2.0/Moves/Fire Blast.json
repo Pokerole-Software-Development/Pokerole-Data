@@ -1,0 +1,27 @@
+{
+    "Name": "Fire Blast",
+    "Type": "Fire",
+    "Power": 5,
+    "Damage1": "Special",
+    "Damage2": "",
+    "Accuracy1": "Special",
+    "Accuracy2": "Channel",
+    "Target": "Foe",
+    "Effect": "Lethal. Roll 3 Chance Dice to apply Burn 3 to the foe. -2 Accuracy.",
+    "Description": "The Pokemon shoots a giant fireball that explodes on contact with the foe, blasting fire in all directions.",
+    "_id": "fire-blast",
+    "Attributes": {
+        "Lethal": true,
+        "AccuracyReduction": 2
+    },
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Burn3",
+                "Affects": "Targets",
+                "ChanceDice": 3
+            }
+        ]
+    },
+    "Category": "Special"
+}

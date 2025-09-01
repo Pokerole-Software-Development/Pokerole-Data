@@ -1,0 +1,111 @@
+{
+    "Number": 47,
+    "DexID": "0047",
+    "Name": "Parasect",
+    "Type1": "Bug",
+    "Type2": "Grass",
+    "BaseHP": 4,
+    "Strength": 3,
+    "MaxStrength": 6,
+    "Dexterity": 1,
+    "MaxDexterity": 3,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 2,
+    "MaxSpecial": 5,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Effect Spore",
+    "Ability2": "Dry Skin",
+    "HiddenAbility": "Damp",
+    "EventAbilities": "",
+    "RecommendedRank": "Amateur",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "parasect",
+    "DexCategory": "Mushroom Pokemon",
+    "Height": {
+        "Meters": 1.0,
+        "Feet": 3.3
+    },
+    "Weight": {
+        "Kilograms": 29.5,
+        "Pounds": 65.0
+    },
+    "DexDescription": "Their personality changes after evolution since the mushroom takes over its mind. Its body is now a husk devoid of nutrients. To survive they cling to a tree and absorb the nutrients until the tree dies.",
+    "Evolutions": [
+        {
+            "From": "Paras",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "parasect.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Scratch"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Stun Spore"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Absorb"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Poison Powder"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Cross Poison"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Fury Cutter"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Spore"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Slash"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Growth"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Giga Drain"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Aromatherapy"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Rage Powder"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "X-Scissor"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Psybeam"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Synthesis"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Seed Bomb"
+        }
+    ]
+}

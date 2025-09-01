@@ -1,0 +1,118 @@
+{
+    "Number": 386,
+    "DexID": "0386F3",
+    "Name": "Deoxys (Speed Form)",
+    "Type1": "Psychic",
+    "Type2": "",
+    "BaseHP": 4,
+    "Strength": 6,
+    "MaxStrength": 6,
+    "Dexterity": 10,
+    "MaxDexterity": 10,
+    "Vitality": 5,
+    "MaxVitality": 5,
+    "Special": 6,
+    "MaxSpecial": 6,
+    "Insight": 5,
+    "MaxInsight": 5,
+    "Ability1": "Pressure",
+    "Ability2": "",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Master",
+    "GenderType": "N",
+    "Legendary": true,
+    "GoodStarter": false,
+    "_id": "deoxys-speed-form",
+    "DexCategory": "No Data",
+    "Height": {
+        "Meters": 1.7,
+        "Feet": 5.6
+    },
+    "Weight": {
+        "Kilograms": 60.8,
+        "Pounds": 134.0
+    },
+    "DexDescription": "The First officer mentioned a slim creature that moved too fast for the radar to register and the eye to see. She saw it for a split second before it supposedly attacked the other end of the ship.",
+    "Evolutions": [
+        {
+            "From": "Deoxys",
+            "Kind": "Form"
+        }
+    ],
+    "Image": "deoxys-speed-form.png",
+    "Moves": [
+        {
+            "Learned": "Master",
+            "Name": "Leer"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Wrap"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Night Shade"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Teleport"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Knock Off"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Pursuit"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Psychic"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Swift"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Psycho Shift"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Zen Headbutt"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Agility"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Recover"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Psycho Boost"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Extreme Speed"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Toxic"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Laser Focus"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Bind"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Signal Beam"
+        }
+    ]
+}

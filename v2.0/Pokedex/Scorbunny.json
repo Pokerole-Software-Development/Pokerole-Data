@@ -1,0 +1,103 @@
+{
+    "Number": 813,
+    "DexID": "0813",
+    "Name": "Scorbunny",
+    "Type1": "Fire",
+    "Type2": "",
+    "BaseHP": 3,
+    "Strength": 2,
+    "MaxStrength": 5,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 1,
+    "MaxVitality": 3,
+    "Special": 1,
+    "MaxSpecial": 3,
+    "Insight": 1,
+    "MaxInsight": 3,
+    "Ability1": "Blaze",
+    "Ability2": "",
+    "HiddenAbility": "Libero",
+    "EventAbilities": "",
+    "RecommendedRank": "Starter",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "scorbunny",
+    "DexCategory": "Rabbit Pokemon",
+    "Height": {
+        "Meters": 0.3,
+        "Feet": 1.0
+    },
+    "Weight": {
+        "Kilograms": 4.5,
+        "Pounds": 9.9
+    },
+    "DexDescription": "Scorbunny is small and energetic, they love to run in large fields from one side to another for hours. There are heat pads on its feet and nose, as it runs or battles they can get burning hot.",
+    "Evolutions": [
+        {
+            "To": "Raboot",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "scorbunny.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Growl"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Ember"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Quick Attack"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Double Kick"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Flame Charge"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Agility"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Headbutt"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Counter"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Bounce"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Double-Edge"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Fire Pledge"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Sand Attack"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Super Fang"
+        }
+    ]
+}

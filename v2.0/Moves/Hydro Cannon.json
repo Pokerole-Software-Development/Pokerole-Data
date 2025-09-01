@@ -1,0 +1,19 @@
+{
+    "Name": "Hydro Cannon",
+    "Type": "Water",
+    "Power": 6,
+    "Damage1": "Special",
+    "Damage2": "",
+    "Accuracy1": "Special",
+    "Accuracy2": "Channel",
+    "Target": "Foe",
+    "Effect": "Must Recharge. -1 Accuracy.",
+    "Description": "The Pokemon blasts the foe with a water surge that could bring down a house. The user needs to res afterwards.",
+    "_id": "hydro-cannon",
+    "Attributes": {
+        "MustRecharge": true,
+        "AccuracyReduction": 1
+    },
+    "AddedEffects": {},
+    "Category": "Special"
+}

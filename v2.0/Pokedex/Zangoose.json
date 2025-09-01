@@ -1,0 +1,117 @@
+{
+    "Number": 335,
+    "DexID": "0335",
+    "Name": "Zangoose",
+    "Type1": "Normal",
+    "Type2": "",
+    "BaseHP": 4,
+    "Strength": 3,
+    "MaxStrength": 6,
+    "Dexterity": 2,
+    "MaxDexterity": 5,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Immunity",
+    "Ability2": "",
+    "HiddenAbility": "Toxic Boost",
+    "EventAbilities": "",
+    "RecommendedRank": "Amateur",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "zangoose",
+    "DexCategory": "Cat Ferret Pokemon",
+    "Height": {
+        "Meters": 1.3,
+        "Feet": 4.3
+    },
+    "Weight": {
+        "Kilograms": 40.3,
+        "Pounds": 88.8
+    },
+    "DexDescription": "The sole desire to battle Sevipers is embedded in their genes, they have been rivals since forever. Zangoose is a very agile quadruped, standing up on two legs only when ready to fight.",
+    "Evolutions": [],
+    "Image": "zangoose.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Scratch"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Leer"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Quick Attack"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Fury Cutter"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Pursuit"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Slash"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Hone Claws"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Embargo"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Crush Claw"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Revenge"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "False Swipe"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Detect"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "X-Scissor"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Taunt"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Swords Dance"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Close Combat"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Night Slash"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Fury Swipes"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Metal Claw"
+        }
+    ]
+}

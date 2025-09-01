@@ -1,0 +1,151 @@
+{
+    "Number": 908,
+    "DexID": "0908",
+    "Name": "Meowscarada",
+    "Type1": "Grass",
+    "Type2": "Dark",
+    "BaseHP": 5,
+    "Strength": 3,
+    "MaxStrength": 6,
+    "Dexterity": 3,
+    "MaxDexterity": 7,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 2,
+    "MaxSpecial": 5,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Overgrow",
+    "Ability2": "Protean",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Expert",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "meowscarada",
+    "DexCategory": "Magician Pokemon",
+    "Height": {
+        "Meters": 1.5,
+        "Feet": 4.11
+    },
+    "Weight": {
+        "Kilograms": 31,
+        "Pounds": 69
+    },
+    "DexDescription": "Meowscarada's cape has reflective fur, which allows it to camouflage and make it seem as it disappeared. They also carry pollen bombs, when the pollen explosion clouds the field, Mewoscarada escapes.",
+    "Image": "meowscarada.png",
+    "Evolutions": [
+        {
+            "From": "Floragato",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Moves": [
+        {
+           "Learned": "Starter",
+           "Name": "Scratch"
+        },
+        {
+           "Learned": "Starter",
+           "Name": "Tail Whip"
+        },
+        {
+           "Learned": "Rookie",
+           "Name": "Leafage"
+        },
+        {
+           "Learned": "Rookie",
+           "Name": "Bite"
+        },
+        {
+           "Learned": "Standard",
+           "Name": "Hone Claws"
+        },
+        {
+           "Learned": "Standard",
+           "Name": "Sweet Scent"
+        },
+        {
+           "Learned": "Standard",
+           "Name": "Magical Leaf"
+        },
+        {
+           "Learned": "Standard",
+           "Name": "Quick Attack"
+        },
+        {
+           "Learned": "Advanced",
+           "Name": "Seed Bomb"
+        },
+        {
+           "Learned": "Advanced",
+           "Name": "Leech Seed"
+        },
+        {
+           "Learned": "Advanced",
+           "Name": "Flower Trick"
+        },
+        {
+           "Learned": "Advanced",
+           "Name": "Acrobatics"
+        },
+        {
+           "Learned": "Advanced",
+           "Name": "Slash"
+        },
+        {
+           "Learned": "Advanced",
+           "Name": "U-Turn"
+        },
+        {
+           "Learned": "Advanced",
+           "Name": "Worry Seed"
+        },
+        {
+           "Learned": "Advanced",
+           "Name": "Fake Tears"
+        },
+        {
+           "Learned": "Expert",
+           "Name": "Knock Off"
+        },
+        {
+           "Learned": "Expert",
+           "Name": "Night Slash"
+        },
+        {
+           "Learned": "Expert",
+           "Name": "Energy Ball"
+        },
+        {
+           "Learned": "Expert",
+           "Name": "Play Rough"
+        },
+        {
+           "Learned": "Expert",
+           "Name": "Leaf Storm"
+        },
+        {
+           "Learned": "Expert",
+           "Name": "Grassy Terrain"
+        },
+        {
+           "Learned": "Ace",
+           "Name": "Pollen Puff"
+        },
+        {
+           "Learned": "Ace",
+           "Name": "Agility"
+        },
+        {
+           "Learned": "Ace",
+           "Name": "Frenzy Plant"
+        },
+        {
+           "Learned": "Ace",
+           "Name": "Grass Pledge"
+        }
+    ]
+}

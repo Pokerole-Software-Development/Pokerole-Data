@@ -1,0 +1,19 @@
+{
+    "Name": "Entrainment (Cool)",
+    "Type": "Normal",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Cool",
+    "Accuracy2": "Athletic",
+    "Target": "Foe",
+    "Effect": "Single Target. Replace the Target's Ability with the User's. Unique Abilities can't be passed or replaced. Whole Scene Duration. This effect does not end by switching out the affected Pokémon.",
+    "Description": "The Pokémon trains and teaches its best abilities to their target. The target becomes a master of these abilities in record time.",
+    "_id": "entrainment-(cool)",
+    "Attributes": {
+        "Duration": "wholeScene",
+        "AbilityChange": true
+    },
+    "AddedEffects": {},
+    "Category": "Support"
+}

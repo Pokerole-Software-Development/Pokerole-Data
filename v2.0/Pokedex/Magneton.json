@@ -1,0 +1,144 @@
+{
+    "Number": 82,
+    "DexID": "0082",
+    "Name": "Magneton",
+    "Type1": "Electric",
+    "Type2": "Steel",
+    "BaseHP": 4,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 2,
+    "MaxDexterity": 5,
+    "Vitality": 3,
+    "MaxVitality": 6,
+    "Special": 3,
+    "MaxSpecial": 7,
+    "Insight": 2,
+    "MaxInsight": 6,
+    "Ability1": "Magnet Pull",
+    "Ability2": "Sturdy",
+    "HiddenAbility": "Analytic",
+    "EventAbilities": "",
+    "RecommendedRank": "Amateur",
+    "GenderType": "N",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "magneton",
+    "DexCategory": "Magnet Pokemon",
+    "Height": {
+        "Meters": 1.0,
+        "Feet": 3.3
+    },
+    "Weight": {
+        "Kilograms": 60.0,
+        "Pounds": 132.3
+    },
+    "DexDescription": "Sometimes three Magnemites fuse into this Pokemon; other times a single one sprouts two others. This species is greatly affected by magnetic fields. Magnetons are eager to please their trainers.",
+    "Evolutions": [
+        {
+            "From": "Magnemite",
+            "Kind": "Level",
+            "Speed": "Medium"
+        },
+        {
+            "To": "Magnezone",
+            "Kind": "Level",
+            "Speed": "Slow"
+        }
+    ],
+    "Image": "magneton.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Supersonic"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Tri Attack"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Thunder Shock"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Sonic Boom"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Electric Terrain"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Light Screen"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Thunder Wave"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Magnet Bomb"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Spark"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Mirror Shot"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Metal Sound"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Electro Ball"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Flash Cannon"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Screech"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Magnet Rise"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Lock-On"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Discharge"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Gyro Ball"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Zap Cannon"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Gravity"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Iron Defense"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Signal Beam"
+        }
+    ]
+}

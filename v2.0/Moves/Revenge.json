@@ -1,0 +1,16 @@
+{
+    "Name": "Revenge",
+    "Type": "Fighting",
+    "Power": 2,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "If the User has already received damage this round, add 2 Extra Dice to the Damage Pool.",
+    "Description": "The Pokemon fights ruthlessly and may retaliate fiercely against a foe that has hurt the user.",
+    "_id": "revenge",
+    "Attributes": {},
+    "AddedEffects": {},
+    "Category": "Physical"
+}

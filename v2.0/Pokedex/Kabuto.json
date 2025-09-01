@@ -1,0 +1,107 @@
+{
+    "Number": 140,
+    "DexID": "0140",
+    "Name": "Kabuto",
+    "Type1": "Rock",
+    "Type2": "Water",
+    "BaseHP": 3,
+    "Strength": 2,
+    "MaxStrength": 5,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Swift Swim",
+    "Ability2": "Battle Armor",
+    "HiddenAbility": "Weak Armor",
+    "EventAbilities": "",
+    "RecommendedRank": "Beginner",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "kabuto",
+    "DexCategory": "Shellfish Pokemon",
+    "Height": {
+        "Meters": 0.5,
+        "Feet": 1.6
+    },
+    "Weight": {
+        "Kilograms": 11.5,
+        "Pounds": 25.4
+    },
+    "DexDescription": "Kabuto is a Pokemon that has been regenerated from a fossil. However, in extremely rare cases, living specimens have been found. The Pokemon has not changed at all for 300 million years.",
+    "Evolutions": [
+        {
+            "To": "Kabutops",
+            "Kind": "Level",
+            "Speed": "Slow"
+        }
+    ],
+    "Image": "kabuto.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Scratch"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Harden"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Absorb"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Leer"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Sand Attack"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Mud Shot"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Endure"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Aqua Jet"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Mega Drain"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Metal Sound"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Ancient Power"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Wring Out"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Confuse Ray"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Stealth Rock"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Iron Defense"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "Name": "Grassy Terrain",
+    "Type": "Grass",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Special",
+    "Accuracy2": "Nature",
+    "Target": "Battlefield",
+    "Effect": "If successful, spend 1 Will point to activate. Everyone in the user's side of the field heals 1 HP at the end of each round. Add 1 Extra Dice to the Damage Rolls of Grass Type Moves.",
+    "Description": "The Pokemon calls upon the healing power of nature to grow a patch of miraculous grass on its side of the battlefield.",
+    "_id": "grassy-terrain",
+    "Attributes": {},
+    "AddedEffects": {
+        "TerrainEffect": "GrassyTerrain"
+    },
+    "Category": "Support"
+}

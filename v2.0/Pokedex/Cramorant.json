@@ -1,0 +1,105 @@
+{
+    "Number": 845,
+    "DexID": "0845",
+    "Name": "Cramorant",
+    "Type1": "Flying",
+    "Type2": "Water",
+    "BaseHP": 4,
+    "Strength": 2,
+    "MaxStrength": 5,
+    "Dexterity": 2,
+    "MaxDexterity": 5,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 2,
+    "MaxSpecial": 5,
+    "Insight": 3,
+    "MaxInsight": 6,
+    "Ability1": "Gulp Missile",
+    "Ability2": "",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Amateur",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "cramorant",
+    "DexCategory": "Gulp Pokemon",
+    "Height": {
+        "Meters": 0.8,
+        "Feet": 2.6
+    },
+    "Weight": {
+        "Kilograms": 18.0,
+        "Pounds": 39.7
+    },
+    "DexDescription": "Cramorant hunt for fish Pokemon to eat near seashores and lakes. They often try to engulf prey that is too large and it ends up blocking their gullets. They are airheaded and often forget what they were doing.",
+    "Evolutions": [],
+    "Image": "cramorant.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Belch"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Peck"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Stockpile"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Swallow"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Spit Up"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Water Gun"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Fury Attack"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Pluck"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Dive"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Drill Peck"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Amnesia"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Thrash"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Hydro Pump"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Roost"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Aqua Ring"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Feather Dance"
+        }
+    ]
+}

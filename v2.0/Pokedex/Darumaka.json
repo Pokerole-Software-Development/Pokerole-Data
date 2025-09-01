@@ -1,0 +1,123 @@
+{
+    "Number": 554,
+    "DexID": "0554",
+    "Name": "Darumaka",
+    "Type1": "Fire",
+    "Type2": "",
+    "BaseHP": 3,
+    "Strength": 2,
+    "MaxStrength": 5,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 1,
+    "MaxSpecial": 2,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Hustle",
+    "Ability2": "",
+    "HiddenAbility": "Inner Focus",
+    "EventAbilities": "",
+    "RecommendedRank": "Beginner",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "darumaka",
+    "DexCategory": "Zen Charm Pokemon",
+    "Height": {
+        "Meters": 0.6,
+        "Feet": 2.0
+    },
+    "Weight": {
+        "Kilograms": 37.5,
+        "Pounds": 82.7
+    },
+    "DexDescription": "Lives on deserts and arid terrains. It has a flame inside its body. When the flame burns brightly it becomes very active running around, when the flame is low it falls asleep. Their droppings double as a bonfire.",
+    "Evolutions": [
+        {
+            "To": "Darmanitan",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "darumaka.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Rollout"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Incinerate"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Rage"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Fire Fang"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Headbutt"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Uproar"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Facade"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Fire Punch"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Work Up"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Taunt"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Belly Drum"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Flare Blitz"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Thrash"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Superpower"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Overheat"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Yawn"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Focus Energy"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Heat Wave"
+        }
+    ]
+}

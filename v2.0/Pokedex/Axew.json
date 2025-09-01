@@ -1,0 +1,123 @@
+{
+    "Number": 610,
+    "DexID": "0610",
+    "Name": "Axew",
+    "Type1": "Dragon",
+    "Type2": "",
+    "BaseHP": 3,
+    "Strength": 2,
+    "MaxStrength": 5,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 1,
+    "MaxSpecial": 3,
+    "Insight": 1,
+    "MaxInsight": 3,
+    "Ability1": "Rivalry",
+    "Ability2": "Mold Breaker",
+    "HiddenAbility": "Unnerve",
+    "EventAbilities": "",
+    "RecommendedRank": "Amateur",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "axew",
+    "DexCategory": "Tusk Pokemon",
+    "Height": {
+        "Meters": 0.6,
+        "Feet": 2.0
+    },
+    "Weight": {
+        "Kilograms": 18.0,
+        "Pounds": 39.7
+    },
+    "DexDescription": "They mark their territory by leaving gashes in trees with their tusks. If a tusk breaks, a new one grows back quickly. They fight each other to see who\u2019s got the sharpest tusks. Only the strongest ever evolve.",
+    "Evolutions": [
+        {
+            "To": "Fraxure",
+            "Kind": "Level",
+            "Speed": "Slow"
+        }
+    ],
+    "Image": "axew.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Scratch"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Leer"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Assurance"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Dragon Rage"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Dual Chop"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Scary Face"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Slash"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "False Swipe"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Dragon Claw"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Dragon Dance"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Taunt"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Dragon Pulse"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Swords Dance"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Guillotine"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Outrage"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Giga Impact"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Focus Energy"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Counter"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Night Slash"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "Name": "Body Slam",
+    "Type": "Normal",
+    "Power": 3,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "Roll 3 Chance Dice to Paralyze the foe.",
+    "Description": "The user charges against the foe using its body to knock it down, leaving the target stunned.",
+    "_id": "body-slam",
+    "Attributes": {},
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Paralyze",
+                "Affects": "Targets",
+                "ChanceDice": 3
+            }
+        ]
+    },
+    "Category": "Physical"
+}

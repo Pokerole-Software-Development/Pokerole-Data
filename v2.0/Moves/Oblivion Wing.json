@@ -1,0 +1,19 @@
+{
+    "Name": "Oblivion Wing",
+    "Type": "Flying",
+    "Power": 4,
+    "Damage1": "Special",
+    "Damage2": "",
+    "Accuracy1": "Special",
+    "Accuracy2": "Channel",
+    "Target": "Foe",
+    "Effect": "Lethal. High Critical.",
+    "Description": "A dark wind rises, turning everything it touches into dust to be scattered until nothing remains. People, Pokemon, plants, everything fades until a distant memory.",
+    "_id": "oblivion-wing",
+    "Attributes": {
+        "HighCritical": true,
+        "Lethal": true
+    },
+    "AddedEffects": {},
+    "Category": "Special"
+}

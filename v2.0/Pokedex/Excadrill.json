@@ -1,0 +1,127 @@
+{
+    "Number": 530,
+    "DexID": "0530",
+    "Name": "Excadrill",
+    "Type1": "Ground",
+    "Type2": "Steel",
+    "BaseHP": 5,
+    "Strength": 3,
+    "MaxStrength": 7,
+    "Dexterity": 2,
+    "MaxDexterity": 5,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Sand Rush",
+    "Ability2": "Sand Force",
+    "HiddenAbility": "Mold Breaker",
+    "EventAbilities": "",
+    "RecommendedRank": "Amateur",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "excadrill",
+    "DexCategory": "Subterrene Pokemon",
+    "Height": {
+        "Meters": 0.7,
+        "Feet": 2.3
+    },
+    "Weight": {
+        "Kilograms": 40.4,
+        "Pounds": 89.1
+    },
+    "DexDescription": "They build maze-like nests deep underground. Humans make use of their drilling abilities to dig tunnels for subway trains. This Pokemon does not back out from foes and can be a formidable opponent.",
+    "Evolutions": [
+        {
+            "From": "Drilbur",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "excadrill.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Mud Sport"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Scratch"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Mud Slap"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Rapid Spin"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Metal Claw"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Fury Swipes"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Hone Claws"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Dig"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Rock Slide"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Slash"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Sandstorm"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Horn Drill"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Rototiller"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Swords Dance"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Earthquake"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Drill Run"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Fissure"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Iron Defense"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Smart Strike"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Iron Head"
+        }
+    ]
+}

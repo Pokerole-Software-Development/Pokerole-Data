@@ -1,0 +1,18 @@
+{
+    "Name": "Shed Tail",
+    "Type": "Normal",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Stealth",
+    "Target": "User",
+    "Effect": "Target Self. Deal 2 Damage to the User. Put a Decoy with 2HP and the same defenses as the user. If the Decoy's HP is depleted, it breaks and the switched Pokémon is brought back into the fight. Decoy can only be affected by Damage from Physical & Special Moves.",
+    "Description": "The Pokémon sheds their tail and leaves it as a decoy while it retreats to safety and lets someone else deal with the threat.",
+    "_id": "shed-tail",
+    "Attributes": {
+        "SwitcherMove": true
+    },
+    "AddedEffects": {},
+    "Category": "Support"
+}

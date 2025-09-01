@@ -1,0 +1,141 @@
+{
+    "Number": 352,
+    "DexID": "0352",
+    "Name": "Kecleon",
+    "Type1": "Normal",
+    "Type2": "",
+    "BaseHP": 4,
+    "Strength": 2,
+    "MaxStrength": 5,
+    "Dexterity": 1,
+    "MaxDexterity": 3,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 3,
+    "MaxInsight": 7,
+    "Ability1": "Color Change",
+    "Ability2": "Protean",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Standard",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "kecleon",
+    "DexCategory": "Color Swap Pokémon",
+    "Height": {
+        "Meters": 1.0,
+        "Feet": 3.3
+    },
+    "Weight": {
+        "Kilograms": 22.0,
+        "Pounds": 48.5
+    },
+    "DexDescription": "They are able to change their colors to blend with their surroundings. The only part of its body that can't change is the red zigzag line on its belly. Kecleon is very sneaky, smart, and kind of insolent.",
+    "Evolutions": [],
+    "Image": "kecleon.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Tail Whip"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Thief"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Astonish"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Lick"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Scratch"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Bind"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Feint"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Shadow Sneak"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Fury Swipes"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Feint Attack"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Disable"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Psybeam"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Ancient Power"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Slash"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Detect"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Camouflage"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Shadow Claw"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Screech"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Substitute"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Sucker Punch"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Synchronoise"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Foul Play"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Snatch"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Fake Out"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Trick"
+        }
+    ]
+}

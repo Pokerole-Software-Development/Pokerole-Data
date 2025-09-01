@@ -1,0 +1,116 @@
+{
+    "Number": 18,
+    "DexID": "0018",
+    "Name": "Pidgeot",
+    "Type1": "Normal",
+    "Type2": "Flying",
+    "BaseHP": 5,
+    "Strength": 2,
+    "MaxStrength": 5,
+    "Dexterity": 3,
+    "MaxDexterity": 6,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 2,
+    "MaxSpecial": 5,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Keen Eye",
+    "Ability2": "Tangled Feet",
+    "HiddenAbility": "Big Pecks",
+    "EventAbilities": "",
+    "RecommendedRank": "Ace",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "pidgeot",
+    "DexCategory": "Bird Pokemon",
+    "Height": {
+        "Meters": 1.5,
+        "Feet": 4.9
+    },
+    "Weight": {
+        "Kilograms": 39.5,
+        "Pounds": 87.1
+    },
+    "DexDescription": "This Pokemon\u2019s plumage is made of beautiful glossy feathers. Pidgeot is an excellent hunter with well developed wing muscles that make it strong enough to whip up a gusty windstorm with just a few flaps.",
+    "Evolutions": [
+        {
+            "From": "Pidgeotto",
+            "Kind": "Level",
+            "Speed": "Medium"
+        },
+        {
+            "To": "Pidgeot (Mega Form)",
+            "Kind": "Mega",
+            "Item": "Pidgeotite"
+        }
+    ],
+    "Image": "pidgeot.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Sand Attack"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Twister"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Gust"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Quick Attack"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Whirlwind"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Ominous Wind"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Feather Dance"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Agility"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Wing Attack"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Mirror Move"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Roost"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Tailwind"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Heat Wave"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Hurricane"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Reflect"
+        }
+    ]
+}

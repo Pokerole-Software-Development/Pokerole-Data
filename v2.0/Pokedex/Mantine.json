@@ -1,0 +1,135 @@
+{
+    "Number": 226,
+    "DexID": "0226",
+    "Name": "Mantine",
+    "Type1": "Water",
+    "Type2": "Flying",
+    "BaseHP": 4,
+    "Strength": 1,
+    "MaxStrength": 3,
+    "Dexterity": 2,
+    "MaxDexterity": 5,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 2,
+    "MaxSpecial": 5,
+    "Insight": 3,
+    "MaxInsight": 7,
+    "Ability1": "Swift Swim",
+    "Ability2": "Water Absorb",
+    "HiddenAbility": "Water Veil",
+    "EventAbilities": "",
+    "RecommendedRank": "Amateur",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "mantine",
+    "DexCategory": "Kite Pokemon",
+    "Height": {
+        "Meters": 2.1,
+        "Feet": 6.9
+    },
+    "Weight": {
+        "Kilograms": 220.0,
+        "Pounds": 485.0
+    },
+    "DexDescription": "Mantine swims under water and over the waves, gliding for 300 ft in the air. They are intelligent and docile, traveling elegantly in groups. Remoraids can be seen hanging from their fins from time to time.",
+    "Evolutions": [
+        {
+            "From": "Mantyke",
+            "Kind": "Special",
+            "Special": "Hit by Remoraid"
+        }
+    ],
+    "Image": "mantine.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Bubble"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Psybeam"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Bubble Beam"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Supersonic"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Bullet Seed"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Signal Beam"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Roost"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Confuse Ray"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Wing Attack"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Wide Guard"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Water Pulse"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Agility"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Take Down"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Headbutt"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Air Slash"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Aqua Ring"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Bounce"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Hydro Pump"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Twister"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Mirror Coat"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Mud Sport"
+        }
+    ]
+}

@@ -1,0 +1,123 @@
+{
+    "Number": 511,
+    "DexID": "0511",
+    "Name": "Pansage",
+    "Type1": "Grass",
+    "Type2": "",
+    "BaseHP": 3,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Gluttony",
+    "Ability2": "",
+    "HiddenAbility": "Overgrow",
+    "EventAbilities": "",
+    "RecommendedRank": "Beginner",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "pansage",
+    "DexCategory": "Grass Monkey Pokemon",
+    "Height": {
+        "Meters": 0.6,
+        "Feet": 2.0
+    },
+    "Weight": {
+        "Kilograms": 10.5,
+        "Pounds": 23.1
+    },
+    "DexDescription": "Pansage is a friendly Pokemon. It is good at finding berries and will share them with other Pokemon. The leaves on it\u2019s head have medicinal properties, if it finds a sick Pokemon it will offer some to heal it.",
+    "Evolutions": [
+        {
+            "To": "Simisage",
+            "Kind": "Stone",
+            "Item": "Leaf Stone"
+        }
+    ],
+    "Image": "pansage.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Scratch"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Play Nice"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Leer"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Lick"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Vine Whip"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Fury Swipes"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Leech Seed"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Bite"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Seed Bomb"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Torment"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Fling"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Acrobatics"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Grass Knot"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Recycle"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Natural Gift"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Crunch"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Grass Whistle"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Nasty Plot"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Giga Drain"
+        }
+    ]
+}

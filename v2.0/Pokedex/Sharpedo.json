@@ -1,0 +1,136 @@
+{
+    "Number": 319,
+    "DexID": "0319",
+    "Name": "Sharpedo",
+    "Type1": "Water",
+    "Type2": "Dark",
+    "BaseHP": 4,
+    "Strength": 3,
+    "MaxStrength": 7,
+    "Dexterity": 3,
+    "MaxDexterity": 6,
+    "Vitality": 1,
+    "MaxVitality": 3,
+    "Special": 3,
+    "MaxSpecial": 6,
+    "Insight": 1,
+    "MaxInsight": 3,
+    "Ability1": "Rough Skin",
+    "Ability2": "",
+    "HiddenAbility": "Speed Boost",
+    "EventAbilities": "",
+    "RecommendedRank": "Ace",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "sharpedo",
+    "DexCategory": "Brutal Pokemon",
+    "Height": {
+        "Meters": 1.8,
+        "Feet": 5.9
+    },
+    "Weight": {
+        "Kilograms": 88.8,
+        "Pounds": 195.8
+    },
+    "DexDescription": "Known as the \u201cBully of the Sea\u201d, widely feared for its cruelty, malice and gangster attitude. They hurt Pokemon for fun and sink boats for sport. Sharpedos are among the fastest swimmers.",
+    "Evolutions": [
+        {
+            "From": "Carvanha",
+            "Kind": "Level",
+            "Speed": "Medium"
+        },
+        {
+            "To": "Sharpedo (Mega Form)",
+            "Kind": "Mega",
+            "Item": "Sharpedonite"
+        }
+    ],
+    "Image": "sharpedo.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Bite"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Leer"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Focus Energy"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Feint"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Rage"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Night Slash"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Scary Face"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Ice Fang"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Screech"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Swagger"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Taunt"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Crunch"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Slash"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Aqua Jet"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Poison Fang"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Assurance"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Agility"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Skull Bash"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Hydro Pump"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Psychic Fangs"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Spite"
+        }
+    ]
+}

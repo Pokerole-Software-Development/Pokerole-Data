@@ -1,0 +1,18 @@
+{
+    "Name": "Quick Attack",
+    "Type": "Normal",
+    "Power": 2,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "Single Target. Priority 1. Out of battle, double the Pokémon's movement speed.",
+    "Description": "An attack that's as fast as lightning.",
+    "_id": "quick-attack",
+    "Attributes": {
+        "Priority": 1
+    },
+    "AddedEffects": {},
+    "Category": "Physical"
+}

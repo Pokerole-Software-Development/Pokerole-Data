@@ -1,0 +1,26 @@
+{
+    "Name": "Mountain Glide",
+    "Type": "Ice",
+    "Power": 4,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Strength",
+    "Accuracy2": "Channel",
+    "Target": "Foe",
+    "Effect": "Single Target. Ranged. Roll 3 Chance Dice to Flinch the foe.",
+    "Description": "If the foe does not go to the mountain, hurl the mountain into the foe.",
+    "_id": "mountain-glide",
+    "Attributes": {
+        "PhysicalRanged": true
+    },
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Flinch",
+                "ChanceDice": 3,
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Physical"
+}

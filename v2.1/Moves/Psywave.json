@@ -1,0 +1,18 @@
+{
+    "Name": "Psywave",
+    "Type": "Psychic",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Insight",
+    "Accuracy2": "Intimidate",
+    "Target": "Foe",
+    "Effect": "Roll Psychic-Type Damage Dice according to the User's Rank: Starter/1 Die; Rookie/2 Dice; Standard/4 Dice; Advanced/6 Dice; Expert/8 Dice; Ace or higher/10 Dice. Ignore Defenses.",
+    "Description": "Releases the inner power of the mind to emanate psychic waves that hurt the target.",
+    "_id": "psywave",
+    "Attributes": {
+        "IgnoreDefenses": true
+    },
+    "AddedEffects": {},
+    "Category": "Special"
+}

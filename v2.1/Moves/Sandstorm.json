@@ -1,0 +1,21 @@
+{
+    "Name": "Sandstorm",
+    "Type": "Rock",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Special",
+    "Accuracy2": "Nature",
+    "Target": "Battlefield",
+    "Effect": "Target Battlefield. Wind Based. Activate Sandstorm Weather. Duration 4 Rounds.",
+    "Description": "The Pokémon creates a fierce wind that carries millions of rough sand particles.",
+    "_id": "sandstorm",
+    "Attributes": {
+        "WindBased": true,
+        "Duration": 4
+    },
+    "AddedEffects": {
+        "TerrainEffect": "Sandstorm"
+    },
+    "Category": "Support"
+}

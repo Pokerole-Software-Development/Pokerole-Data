@@ -1,0 +1,119 @@
+{
+    "Number": 706,
+    "DexID": "0706",
+    "Name": "Goodra",
+    "Type1": "Dragon",
+    "Type2": "",
+    "BaseHP": 5,
+    "Strength": 3,
+    "MaxStrength": 6,
+    "Dexterity": 2,
+    "MaxDexterity": 5,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 3,
+    "MaxSpecial": 6,
+    "Insight": 3,
+    "MaxInsight": 7,
+    "Ability1": "Sap Sipper",
+    "Ability2": "Hydration",
+    "HiddenAbility": "Gooey",
+    "EventAbilities": "",
+    "RecommendedRank": "Amateur",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "goodra",
+    "DexCategory": "Dragon Pokemon",
+    "Height": {
+        "Meters": 2.0,
+        "Feet": 6.6
+    },
+    "Weight": {
+        "Kilograms": 150.5,
+        "Pounds": 331.8
+    },
+    "DexDescription": "Definitely the friendliest of all Dragons. This Pokemon will hug its beloved Trainer, leaving them covered in sticky slime. In areas with heavy rainfall during the year, one or two may make an appearance.",
+    "Evolutions": [
+        {
+            "From": "Sliggoo",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "goodra.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Bubble"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Protect"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Absorb"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Feint"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Bide"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Dragon Breath"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Rain Dance"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Flail"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Body Slam"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Muddy Water"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Dragon Pulse"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Aqua Tail"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Power Whip"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Outrage"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Shock Wave"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Superpower"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Draco Meteor"
+        }
+    ]
+}

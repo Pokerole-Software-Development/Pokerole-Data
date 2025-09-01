@@ -1,0 +1,28 @@
+{
+    "Name": "Power-Up Punch",
+    "Type": "Fighting",
+    "Power": 2,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "Fist Based. Increase User's Strength.",
+    "Description": "The Pokemon uses this punch to test the surface of an object. The user toughens up to deal better blows.",
+    "_id": "power-up-punch",
+    "Attributes": {
+        "FistBased": true
+    },
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "Strength"
+                ],
+                "Stages": 1,
+                "Affects": "User"
+            }
+        ]
+    },
+    "Category": "Physical"
+}

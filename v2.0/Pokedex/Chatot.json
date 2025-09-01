@@ -1,0 +1,117 @@
+{
+    "Number": 441,
+    "DexID": "0441",
+    "Name": "Chatot",
+    "Type1": "Normal",
+    "Type2": "Flying",
+    "BaseHP": 4,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 2,
+    "MaxDexterity": 5,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 2,
+    "MaxSpecial": 5,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Keen Eye",
+    "Ability2": "Tangled Feet",
+    "HiddenAbility": "Big Pecks",
+    "EventAbilities": "",
+    "RecommendedRank": "Amateur",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "chatot",
+    "DexCategory": "Music Note Pokemon",
+    "Height": {
+        "Meters": 0.5,
+        "Feet": 1.6
+    },
+    "Weight": {
+        "Kilograms": 1.9,
+        "Pounds": 4.2
+    },
+    "DexDescription": "It mimics the cries of other Pokemon to trick them into thinking it\u2019s one of them, this way they won\u2019t attack it. Chatots that live with humans learn words and phrases but it\u2019s unknown it they really know their meaning.",
+    "Evolutions": [],
+    "Image": "chatot.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Confide"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Taunt"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Peck"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Growl"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Mirror Move"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Chatter"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Hyper Voice"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Sing"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Fury Attack"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Round"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Mimic"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Echoed Voice"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Roost"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Uproar"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Synchronoise"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Feather Dance"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Agility"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Boomburst"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Nasty Plot"
+        }
+    ]
+}

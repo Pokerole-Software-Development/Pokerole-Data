@@ -1,0 +1,18 @@
+{
+    "Name": "Aqua Jet",
+    "Type": "Water",
+    "Power": 2,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "Priority 1.",
+    "Description": "The user propels itself with a blast of water and strikes at high speed.",
+    "_id": "aqua-jet",
+    "Attributes": {
+        "Priority": 1
+    },
+    "AddedEffects": {},
+    "Category": "Physical"
+}

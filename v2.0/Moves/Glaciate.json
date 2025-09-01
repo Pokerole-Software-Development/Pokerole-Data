@@ -1,0 +1,28 @@
+{
+    "Name": "Glaciate",
+    "Type": "Ice",
+    "Power": 2,
+    "Damage1": "Special",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Channel",
+    "Target": "All Foes",
+    "Effect": "Lethal. All Foes in Range. Reduce the Dexterity of those affected.",
+    "Description": "The air is so cold it hurts to move, to see, to breath. Escaping should be your top priority, for every second you don't your life will be at peril.",
+    "_id": "glaciate",
+    "Attributes": {
+        "Lethal": true
+    },
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "Dexterity"
+                ],
+                "Stages": -1,
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Special"
+}

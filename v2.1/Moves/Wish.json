@@ -1,0 +1,16 @@
+{
+    "Name": "Wish",
+    "Type": "Normal",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Will",
+    "Accuracy2": "Channel",
+    "Target": "User",
+    "Effect": "Target Self / Target One Ally. Basic Heal. If successful, spend 1 Will point to activate. This Move has its effect at the beginning of the Next Round; if the User is switched it will heal whoever takes their place.",
+    "Description": "The Pokémon makes a wish with all its might and somehow it becomes true.",
+    "_id": "wish",
+    "Attributes": {},
+    "AddedEffects": {},
+    "Category": "Support"
+}

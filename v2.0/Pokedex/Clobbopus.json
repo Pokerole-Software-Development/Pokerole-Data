@@ -1,0 +1,103 @@
+{
+    "Number": 852,
+    "DexID": "0852",
+    "Name": "Clobbopus",
+    "Type1": "Fighting",
+    "Type2": "",
+    "BaseHP": 3,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 1,
+    "MaxDexterity": 3,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Limber",
+    "Ability2": "",
+    "HiddenAbility": "Technician",
+    "EventAbilities": "",
+    "RecommendedRank": "Beginner",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "clobbopus",
+    "DexCategory": "Tantrum Pokemon",
+    "Height": {
+        "Meters": 0.6,
+        "Feet": 2.0
+    },
+    "Weight": {
+        "Kilograms": 4.0,
+        "Pounds": 8.8
+    },
+    "DexDescription": "It\u2019s very curious and child-like, but it investigates things by try to punch them with its tentacles, despite this, the tentacles tear off easily, but don\u2019t be alarmed for they\u2019ll regrow in a few days.",
+    "Evolutions": [
+        {
+            "To": "Grapploct",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "clobbopus.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Rock Smash"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Leer"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Feint"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Bind"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Detect"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Brick Break"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Bulk Up"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Submission"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Taunt"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Reversal"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Superpower"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Soak"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Circle Throw"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Seismic Toss"
+        }
+    ]
+}

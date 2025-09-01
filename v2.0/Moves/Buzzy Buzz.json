@@ -1,0 +1,23 @@
+{
+    "Name": "Buzzy Buzz",
+    "Type": "Electric",
+    "Power": 3,
+    "Damage1": "Special",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Channel",
+    "Target": "Foe",
+    "Effect": "Paralyze the foe. If the user of this Move is at its Final Stage of Evolution, this move fails.",
+    "Description": "The Pokemon releases a jolt of static electricity from its fur, that makes a cute zapping sound. It's all fun and games until somebody gets paralyzed.",
+    "_id": "buzzy-buzz",
+    "Attributes": {},
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Paralyze",
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Special"
+}

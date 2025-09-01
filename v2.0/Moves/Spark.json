@@ -1,0 +1,24 @@
+{
+    "Name": "Spark",
+    "Type": "Electric",
+    "Power": 2,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "Roll 3 Chance Dice to Paralyze the foe.",
+    "Description": "The user tackles the foe, releasing a powerful spark on contact.",
+    "_id": "spark",
+    "Attributes": {},
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Paralyze",
+                "Affects": "Targets",
+                "ChanceDice": 3
+            }
+        ]
+    },
+    "Category": "Physical"
+}

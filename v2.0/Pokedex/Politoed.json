@@ -1,0 +1,87 @@
+{
+    "Number": 186,
+    "DexID": "0186",
+    "Name": "Politoed",
+    "Type1": "Water",
+    "Type2": "",
+    "BaseHP": 5,
+    "Strength": 2,
+    "MaxStrength": 5,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 2,
+    "MaxSpecial": 5,
+    "Insight": 3,
+    "MaxInsight": 6,
+    "Ability1": "Water Absorb",
+    "Ability2": "Damp",
+    "HiddenAbility": "Drizzle",
+    "EventAbilities": "",
+    "RecommendedRank": "Amateur",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "politoed",
+    "DexCategory": "Frog Pokemon",
+    "Height": {
+        "Meters": 1.1,
+        "Feet": 3.6
+    },
+    "Weight": {
+        "Kilograms": 33.9,
+        "Pounds": 74.7
+    },
+    "DexDescription": "It lives with Poliwags and Poliwhirls near ponds and lakes, but there\u2019s rarely more than one. Politoed is the leader and acts as the king of the group. It is an easy-going but proud Pokemon.",
+    "Evolutions": [
+        {
+            "From": "Poliwhirl",
+            "Kind": "Trade",
+            "Item": "King's Rock"
+        }
+    ],
+    "Image": "politoed.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Bubble Beam"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Hypnosis"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Double Slap"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Perish Song"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Swagger"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Bounce"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Hyper Voice"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Mud Shot"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Icy Wind"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Refresh"
+        }
+    ]
+}

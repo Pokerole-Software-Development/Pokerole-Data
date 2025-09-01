@@ -1,0 +1,111 @@
+{
+    "Number": 19,
+    "DexID": "0019A",
+    "Name": "Rattata (Alolan Form)",
+    "Type1": "Dark",
+    "Type2": "Normal",
+    "BaseHP": 3,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 2,
+    "MaxDexterity": 5,
+    "Vitality": 1,
+    "MaxVitality": 3,
+    "Special": 1,
+    "MaxSpecial": 3,
+    "Insight": 1,
+    "MaxInsight": 3,
+    "Ability1": "Gluttony",
+    "Ability2": "Hustle",
+    "HiddenAbility": "Thick Fat",
+    "EventAbilities": "",
+    "RecommendedRank": "Starter",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "rattata-alolan-form",
+    "DexCategory": "Mouse Pokemon",
+    "Height": {
+        "Meters": 0.3,
+        "Feet": 1.0
+    },
+    "Weight": {
+        "Kilograms": 3.8,
+        "Pounds": 8.4
+    },
+    "DexDescription": "Rattata first came to Alola through cargo ships, it thrived and almost destroyed the region\u2019s ecosystem. Attempts to exterminate this Pokemon made it more vicious than its regular counterpart.",
+    "Evolutions": [
+        {
+            "To": "Raticate (Alolan Form)",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "rattata-alolan-form.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Tail Whip"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Quick Attack"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Focus Energy"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Bite"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Pursuit"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Hyper Fang"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Sucker Punch"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Assurance"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Crunch"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Super Fang"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Double-Edge"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Endeavor"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Reversal"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Snatch"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Switcheroo"
+        }
+    ]
+}

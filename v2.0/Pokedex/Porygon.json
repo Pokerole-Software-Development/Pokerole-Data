@@ -1,0 +1,119 @@
+{
+    "Number": 137,
+    "DexID": "0137",
+    "Name": "Porygon",
+    "Type1": "Normal",
+    "Type2": "",
+    "BaseHP": 3,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 1,
+    "MaxDexterity": 3,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 2,
+    "MaxSpecial": 5,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Trace",
+    "Ability2": "Download",
+    "HiddenAbility": "Analytic",
+    "EventAbilities": "",
+    "RecommendedRank": "Beginner",
+    "GenderType": "N",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "porygon",
+    "DexCategory": "Virtual Pokemon",
+    "Height": {
+        "Meters": 0.8,
+        "Feet": 2.6
+    },
+    "Weight": {
+        "Kilograms": 36.5,
+        "Pounds": 80.5
+    },
+    "DexDescription": "The first case of a man-made Pokemon created as computer data. It is capable of reverting itself into a program in order to enter the cyberspace. Its software has a firewall so it cannot be copied.",
+    "Evolutions": [
+        {
+            "To": "Porygon2",
+            "Kind": "Trade",
+            "Item": "Upgrade "
+        }
+    ],
+    "Image": "porygon.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Conversion"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Conversion 2"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Sharpen"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Psybeam"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Agility"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Recover"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Magnet Rise"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Signal Beam"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Recycle"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Discharge"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Lock-On"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Tri Attack"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Magic Coat"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Zap Cannon"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Electroweb"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Foul Play"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Pain Split"
+        }
+    ]
+}

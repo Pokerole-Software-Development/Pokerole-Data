@@ -1,0 +1,127 @@
+{
+    "Number": 160,
+    "DexID": "0160",
+    "Name": "Feraligatr",
+    "Type1": "Water",
+    "Type2": "",
+    "BaseHP": 5,
+    "Strength": 3,
+    "MaxStrength": 6,
+    "Dexterity": 2,
+    "MaxDexterity": 5,
+    "Vitality": 3,
+    "MaxVitality": 6,
+    "Special": 2,
+    "MaxSpecial": 5,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Torrent",
+    "Ability2": "",
+    "HiddenAbility": "Sheer Force",
+    "EventAbilities": "",
+    "RecommendedRank": "Ace",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "feraligatr",
+    "DexCategory": "Big Jaw Pokemon",
+    "Height": {
+        "Meters": 2.3,
+        "Feet": 7.5
+    },
+    "Weight": {
+        "Kilograms": 88.8,
+        "Pounds": 195.8
+    },
+    "DexDescription": "While in the water, it opens its big jaw to intimidate anyone coming close. Whenever it bites, it shakes its head and savagely rolls to tear up its prey. It is a very dangerous Pokemon. Approach with caution",
+    "Evolutions": [
+        {
+            "From": "Croconaw",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "feraligatr.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Scratch"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Leer"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Water Gun"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Rage"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Bite"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Scary Face"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Ice Fang"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Flail"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Agility"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Crunch"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Chip Away"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Slash"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Screech"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Aqua Tail"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Thrash"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Superpower"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Hydro Pump"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Dragon Dance"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Hydro Cannon"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Metal Claw"
+        }
+    ]
+}

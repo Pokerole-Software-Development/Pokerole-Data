@@ -1,0 +1,18 @@
+{
+    "Name": "Eruption",
+    "Type": "Fire",
+    "Power": 6,
+    "Damage1": "Special",
+    "Damage2": "",
+    "Accuracy1": "Special",
+    "Accuracy2": "Channel",
+    "Target": "All Foes",
+    "Effect": "Lethal. Reduce 1 Dice from the Damage Pool for every missing HP the User has. Up to 5 dice may be removed this way.",
+    "Description": "A fierce burst of lava coming from the user at full force charring whatever comes in contact with it.",
+    "_id": "eruption",
+    "Attributes": {
+        "Lethal": true
+    },
+    "AddedEffects": {},
+    "Category": "Special"
+}

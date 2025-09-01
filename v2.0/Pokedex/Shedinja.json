@@ -1,0 +1,111 @@
+{
+    "Number": 292,
+    "DexID": "0292",
+    "Name": "Shedinja",
+    "Type1": "Bug",
+    "Type2": "Ghost",
+    "BaseHP": 1,
+    "Strength": 2,
+    "MaxStrength": 5,
+    "Dexterity": 1,
+    "MaxDexterity": 3,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 1,
+    "MaxSpecial": 3,
+    "Insight": 1,
+    "MaxInsight": 3,
+    "Ability1": "Wonder Guard",
+    "Ability2": "",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Ace",
+    "GenderType": "N",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "shedinja",
+    "DexCategory": "Shed Pokemon",
+    "Height": {
+        "Meters": 0.8,
+        "Feet": 2.6
+    },
+    "Weight": {
+        "Kilograms": 1.2,
+        "Pounds": 2.6
+    },
+    "DexDescription": "On extremely rare occasions; when Nincada evolves, the empty cocoon comes to life. They don\u2019t move, they only float unnaturally around. It is said that it will steal the soul of anyone looking directly at them.",
+    "Evolutions": [
+        {
+            "From": "Nincada",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "shedinja.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Harden"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Scratch"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Absorb"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Sand Attack"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Fury Swipes"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Mind Reader"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Spite"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Confuse Ray"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Shadow Sneak"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Grudge"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Phantom Force"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Heal Block"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Shadow Ball"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Final Gambit"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Feint Attack"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "X-Scissor"
+        }
+    ]
+}

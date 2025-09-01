@@ -1,0 +1,64 @@
+{
+    "Number": 266,
+    "DexID": "0266",
+    "Name": "Silcoon",
+    "Type1": "Bug",
+    "Type2": "",
+    "BaseHP": 4,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 1,
+    "MaxDexterity": 2,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 1,
+    "MaxSpecial": 3,
+    "Insight": 1,
+    "MaxInsight": 3,
+    "Ability1": "Shed Skin",
+    "Ability2": "",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Beginner",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "silcoon",
+    "DexCategory": "Cocoon Pokemon",
+    "Height": {
+        "Meters": 0.6,
+        "Feet": 2.0
+    },
+    "Weight": {
+        "Kilograms": 10.0,
+        "Pounds": 22.0
+    },
+    "DexDescription": "They tether themselves to tree branches while they wait to evolve. Sometimes they peek from a small hole in the cocoon. Silcoons feed only on raindrops. If Wrumple lived among flowers, it evolves to Silcoon.",
+    "Evolutions": [
+        {
+            "From": "Wurmple",
+            "Kind": "Level",
+            "Speed": "Fast"
+        },
+        {
+            "To": "Beautifly",
+            "Kind": "Level",
+            "Speed": "Fast"
+        }
+    ],
+    "Image": "silcoon.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Harden"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Iron Defense"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Electroweb"
+        }
+    ]
+}

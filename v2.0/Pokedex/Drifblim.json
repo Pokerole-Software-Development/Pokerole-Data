@@ -1,0 +1,123 @@
+{
+    "Number": 426,
+    "DexID": "0426",
+    "Name": "Drifblim",
+    "Type1": "Ghost",
+    "Type2": "Flying",
+    "BaseHP": 7,
+    "Strength": 2,
+    "MaxStrength": 5,
+    "Dexterity": 2,
+    "MaxDexterity": 5,
+    "Vitality": 1,
+    "MaxVitality": 3,
+    "Special": 2,
+    "MaxSpecial": 5,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Aftermath",
+    "Ability2": "Unburden",
+    "HiddenAbility": "Flare Boost",
+    "EventAbilities": "",
+    "RecommendedRank": "Ace",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "drifblim",
+    "DexCategory": "Blimp Pokemon",
+    "Height": {
+        "Meters": 1.2,
+        "Feet": 3.9
+    },
+    "Weight": {
+        "Kilograms": 15.0,
+        "Pounds": 33.1
+    },
+    "DexDescription": "They float in groups in the evenings, sometimes carrying people or Pokemon. If you notice them, they suddenly vanish. No one knows where they go at night, and those who follow them never return.",
+    "Evolutions": [
+        {
+            "From": "Drifloon",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "drifblim.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Constrict"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Minimize"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Astonish"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Gust"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Focus Energy"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Payback"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Ominous Wind"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Stockpile"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Hex"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Swallow"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Spit Up"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Shadow Ball"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Amnesia"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Baton Pass"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Explosion"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Phantom Force"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Sucker Punch"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Shock Wave"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Icy Wind"
+        }
+    ]
+}

@@ -1,0 +1,123 @@
+{
+    "Number": 492,
+    "DexID": "0492",
+    "Name": "Shaymin",
+    "Type1": "Grass",
+    "Type2": "",
+    "BaseHP": 6,
+    "Strength": 6,
+    "MaxStrength": 6,
+    "Dexterity": 6,
+    "MaxDexterity": 6,
+    "Vitality": 6,
+    "MaxVitality": 6,
+    "Special": 6,
+    "MaxSpecial": 6,
+    "Insight": 6,
+    "MaxInsight": 6,
+    "Ability1": "Natural Cure",
+    "Ability2": "",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Ace",
+    "GenderType": "N",
+    "Legendary": true,
+    "GoodStarter": false,
+    "_id": "shaymin",
+    "DexCategory": "No Data",
+    "Height": {
+        "Meters": 0.2,
+        "Feet": 0.7
+    },
+    "Weight": {
+        "Kilograms": 2.1,
+        "Pounds": 4.6
+    },
+    "DexDescription": "There are remains of gigantic trees that once grew all over the earth. They were called the 'Trees of Life' and it is believed they were all planted by a kind Pokémon who brought plants and flowers to life.",
+    "Evolutions": [
+        {
+            "To": "Shaymin (Sky Form)",
+            "Kind": "Special",
+            "Item": "Gracidea flower"
+        }
+    ],
+    "Image": "shaymin.png",
+    "Moves": [
+        {
+            "Learned": "Ace",
+            "Name": "Growth"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Magical Leaf"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Leech Seed"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Synthesis"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Sweet Scent"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Natural Gift"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Recover"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Aromatherapy"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Worry Seed"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Sweet Kiss"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Energy Ball"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Nature Power"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Healing Wish"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Substitute"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Endeavor"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Earth Power"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Giga Drain"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Zen Headbutt"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Seed Flare"
+        }
+    ]
+}

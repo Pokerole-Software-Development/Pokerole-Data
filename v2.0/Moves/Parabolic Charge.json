@@ -1,0 +1,16 @@
+{
+    "Name": "Parabolic Charge",
+    "Type": "Electric",
+    "Power": 2,
+    "Damage1": "Special",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Channel",
+    "Target": "Area",
+    "Effect": "The user restores HP equal to half the damage dealt to one target, rounded down.",
+    "Description": "The Pokemon lets go of a big electric charge from its body. The charge comes back to it even bigger.",
+    "_id": "parabolic-charge",
+    "Attributes": {},
+    "AddedEffects": {},
+    "Category": "Special"
+}

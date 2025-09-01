@@ -1,0 +1,111 @@
+{
+    "Number": 195,
+    "DexID": "0195",
+    "Name": "Quagsire",
+    "Type1": "Water",
+    "Type2": "Ground",
+    "BaseHP": 4,
+    "Strength": 2,
+    "MaxStrength": 5,
+    "Dexterity": 1,
+    "MaxDexterity": 3,
+    "Vitality": 3,
+    "MaxVitality": 6,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Damp",
+    "Ability2": "Water Absorb",
+    "HiddenAbility": "Unaware",
+    "EventAbilities": "",
+    "RecommendedRank": "Amateur",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "quagsire",
+    "DexCategory": "Water Fish Pokemon",
+    "Height": {
+        "Meters": 1.4,
+        "Feet": 4.6
+    },
+    "Weight": {
+        "Kilograms": 75.0,
+        "Pounds": 165.3
+    },
+    "DexDescription": "You\u2019ll find its home at the bottom of the river. It hunts by leaving its mouth wide open in water and waiting for its prey to get in. Because it doesn\u2019t move a lot, it does not get very hungry.",
+    "Evolutions": [
+        {
+            "From": "Wooper",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "quagsire.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Water Gun"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Tail Whip"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Mud Sport"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Mud Shot"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Slam"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Mud Bomb"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Amnesia"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Yawn"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Mist"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Muddy Water"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Rain Dance"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Haze"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Earthquake"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Curse"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Ancient Power"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Ice Punch"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "Name": "Frenzy Plant",
+    "Type": "Grass",
+    "Power": 6,
+    "Damage1": "Special",
+    "Damage2": "",
+    "Accuracy1": "Special",
+    "Accuracy2": "Nature",
+    "Target": "Foe",
+    "Effect": "Single Target. Low Accuracy 1. Must Recharge.",
+    "Description": "The user roots down and calls upon nature forces. This makes thorny roots and plants grow in a frenzy around the foe. This display of power leaves the user quite exhausted.",
+    "_id": "frenzy-plant",
+    "Attributes": {
+        "MustRecharge": true,
+        "AccuracyReduction": 1
+    },
+    "AddedEffects": {},
+    "Category": "Special"
+}

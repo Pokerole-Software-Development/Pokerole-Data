@@ -1,0 +1,135 @@
+{
+    "Number": 97,
+    "DexID": "0097",
+    "Name": "Hypno",
+    "Type1": "Psychic",
+    "Type2": "",
+    "BaseHP": 4,
+    "Strength": 2,
+    "MaxStrength": 5,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 2,
+    "MaxSpecial": 5,
+    "Insight": 3,
+    "MaxInsight": 6,
+    "Ability1": "Insomnia",
+    "Ability2": "Forewarn",
+    "HiddenAbility": "Inner Focus",
+    "EventAbilities": "",
+    "RecommendedRank": "Amateur",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "hypno",
+    "DexCategory": "Hypnosis Pokemon",
+    "Height": {
+        "Meters": 1.6,
+        "Feet": 5.2
+    },
+    "Weight": {
+        "Kilograms": 75.6,
+        "Pounds": 166.7
+    },
+    "DexDescription": "Old children stories tell of an Hypno who takes away naughty kids and feasts on their dreams until they are old men. They have an urge to eat the dreams of others since they cannot sleep themselves.",
+    "Evolutions": [
+        {
+            "From": "Drowzee",
+            "Kind": "Level",
+            "Speed": "Slow"
+        }
+    ],
+    "Image": "hypno.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Hypnosis"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Pound"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Confusion"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Disable"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Poison Gas"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Meditate"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Nightmare"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Headbutt"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Switcheroo"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Swagger"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Psybeam"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Headbutt"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Psych Up"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Synchronoise"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Zen Headbutt"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Nasty Plot"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Psychic"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Psyshock"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Future Sight"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Thunder Wave"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Substitute"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Metronome"
+        }
+    ]
+}

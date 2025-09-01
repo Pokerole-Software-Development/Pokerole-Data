@@ -1,0 +1,99 @@
+{
+    "Number": 423,
+    "DexID": "0423",
+    "Name": "Gastrodon",
+    "Type1": "Water",
+    "Type2": "Ground",
+    "BaseHP": 6,
+    "Strength": 2,
+    "MaxStrength": 5,
+    "Dexterity": 1,
+    "MaxDexterity": 3,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 2,
+    "MaxSpecial": 5,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Sticky Hold",
+    "Ability2": "Storm Drain",
+    "HiddenAbility": "Sand Force",
+    "EventAbilities": "",
+    "RecommendedRank": "Amateur",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "gastrodon",
+    "DexCategory": "Sea Slug Pokemon",
+    "Height": {
+        "Meters": 0.9,
+        "Feet": 3.0
+    },
+    "Weight": {
+        "Kilograms": 29.9,
+        "Pounds": 65.9
+    },
+    "DexDescription": "It has a pliable body without any bones. If any part of its body is torn off, it will grow back in minutes. There is evidence that it had a hard shell on its back for protection in prehistoric times.",
+    "Evolutions": [
+        {
+            "From": "Shellos",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "gastrodon.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Mud Slap"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Mud Sport"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Harden"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Water Pulse"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Mud Bomb"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Hidden Power"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Rain Dance"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Body Slam"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Muddy Water"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Recover"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Acid Armor"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Counter"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Fissure"
+        }
+    ]
+}

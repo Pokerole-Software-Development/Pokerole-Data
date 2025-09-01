@@ -1,0 +1,118 @@
+{
+    "Number": 647,
+    "DexID": "0647F1",
+    "Name": "Keldeo (Resolute Form)",
+    "Type1": "Water",
+    "Type2": "Fighting",
+    "BaseHP": 4,
+    "Strength": 6,
+    "MaxStrength": 6,
+    "Dexterity": 6,
+    "MaxDexterity": 6,
+    "Vitality": 6,
+    "MaxVitality": 6,
+    "Special": 7,
+    "MaxSpecial": 7,
+    "Insight": 5,
+    "MaxInsight": 5,
+    "Ability1": "Justified",
+    "Ability2": "",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Master",
+    "GenderType": "N",
+    "Legendary": true,
+    "GoodStarter": false,
+    "_id": "keldeo-resolute-form",
+    "DexCategory": "No Data",
+    "Height": {
+        "Meters": 1.4,
+        "Feet": 4.6
+    },
+    "Weight": {
+        "Kilograms": 48.5,
+        "Pounds": 106.9
+    },
+    "DexDescription": "The old fairy tale ends with the youngest Pokemon rising above evil and injustice due to its resolute and determined desire for justice. The mentorship of the other Pokemon bearing fruits.",
+    "Evolutions": [
+        {
+            "From": "Keldeo",
+            "Kind": "Form"
+        }
+    ],
+    "Image": "keldeo-resolute-form.png",
+    "Moves": [
+        {
+            "Learned": "Master",
+            "Name": "Aqua Jet"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Leer"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Double Kick"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Bubble Beam"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Take Down"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Helping Hand"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Retaliate"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Aqua Tail"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Sacred Sword"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Swords Dance"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Quick Guard"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Work Up"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Hydro Pump"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Close Combat"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Surf"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Waterfall"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Follow Me"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Noble Roar"
+        }
+    ]
+}

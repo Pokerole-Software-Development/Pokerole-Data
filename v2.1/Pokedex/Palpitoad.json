@@ -1,0 +1,124 @@
+{
+    "Number": 536,
+    "DexID": "0536",
+    "Name": "Palpitoad",
+    "Type1": "Water",
+    "Type2": "Ground",
+    "BaseHP": 5,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 2,
+    "MaxDexterity": 5,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Swift Swim",
+    "Ability2": "Water Absorb",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Standard",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "palpitoad",
+    "DexCategory": "Vibration Pokémon",
+    "Height": {
+        "Meters": 0.8,
+        "Feet": 2.6
+    },
+    "Weight": {
+        "Kilograms": 17.0,
+        "Pounds": 37.5
+    },
+    "DexDescription": "It lives both in water and on land. It uses its long, sticky tongue to capture prey. When they vibrate the bumps on their heads, they can make waves in the water and even earthquake-like vibrations on land.",
+    "Evolutions": [
+        {
+            "From": "Tympole",
+            "Kind": "Level",
+            "Speed": "Medium"
+        },
+        {
+            "To": "Seismitoad",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "palpitoad.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Echoed Voice"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Growl"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Acid"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Supersonic"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Bubble"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Mud Shot"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Round"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Bubble Beam"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Flail"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Uproar"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Aqua Ring"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Hyper Voice"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Muddy Water"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Rain Dance"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Hydro Pump"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Sludge Wave"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Earth Power"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Weather Ball"
+        }
+    ]
+}

@@ -1,0 +1,131 @@
+{
+    "Number": 178,
+    "DexID": "0178",
+    "Name": "Xatu",
+    "Type1": "Psychic",
+    "Type2": "Flying",
+    "BaseHP": 4,
+    "Strength": 2,
+    "MaxStrength": 5,
+    "Dexterity": 3,
+    "MaxDexterity": 6,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 3,
+    "MaxSpecial": 6,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Synchronize",
+    "Ability2": "Early Bird",
+    "HiddenAbility": "Magic Bounce",
+    "EventAbilities": "",
+    "RecommendedRank": "Amateur",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "xatu",
+    "DexCategory": "Mystic Pokemon",
+    "Height": {
+        "Meters": 1.5,
+        "Feet": 4.9
+    },
+    "Weight": {
+        "Kilograms": 15.0,
+        "Pounds": 33.1
+    },
+    "DexDescription": "Xatu is known to stand motionless while staring at the sun all day long. Some people revere it as a mystical Pokemon out of their belief that Xatus have the power to see into the future.",
+    "Evolutions": [
+        {
+            "From": "Natu",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "xatu.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Peck"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Leer"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Teleport"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Night Shade"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Miracle Eye"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Lucky Chant"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Confuse Ray"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Me First"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Air Slash"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Tailwind"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Future Sight"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Psycho Shift"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Ominous Wind"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Stored Power"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Wish"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Power Swap"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Guard Swap"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Psychic"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Pain Split"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Twister"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Heat Wave"
+        }
+    ]
+}

@@ -1,0 +1,119 @@
+{
+    "Number": 580,
+    "DexID": "0580",
+    "Name": "Ducklett",
+    "Type1": "Water",
+    "Type2": "Flying",
+    "BaseHP": 3,
+    "Strength": 1,
+    "MaxStrength": 3,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 1,
+    "MaxSpecial": 3,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Keen Eye",
+    "Ability2": "Big Pecks",
+    "HiddenAbility": "Hydration",
+    "EventAbilities": "",
+    "RecommendedRank": "Rookie",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "ducklett",
+    "DexCategory": "Water Bird Pokémon",
+    "Height": {
+        "Meters": 0.5,
+        "Feet": 1.6
+    },
+    "Weight": {
+        "Kilograms": 5.5,
+        "Pounds": 12.1
+    },
+    "DexDescription": "These bird Pokémon are excellent divers. They swim around in the water eating their favorite food, peat moss. They can shoot a spray of mist with their feathers to protect themselves from any predator that comes.",
+    "Evolutions": [
+        {
+            "To": "Swanna",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "ducklett.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Water Gun"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Water Sport"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Defog"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Wing Attack"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Water Pulse"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Aerial Ace"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Bubble Beam"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Feather Dance"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Aqua Ring"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Air Slash"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Roost"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Rain Dance"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Tailwind"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Brave Bird"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Hurricane"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Mud Sport"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Steel Wing"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Mirror Move"
+        }
+    ]
+}

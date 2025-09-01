@@ -1,0 +1,123 @@
+{
+    "Number": 194,
+    "DexID": "0194P",
+    "Name": "Wooper (Paldean Form)",
+    "Type1": "Poison",
+    "Type2": "Ground",
+    "BaseHP": 3,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 1,
+    "MaxDexterity": 2,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 1,
+    "MaxSpecial": 3,
+    "Insight": 1,
+    "MaxInsight": 3,
+    "Ability1": "Poison Point",
+    "Ability2": "Unaware",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Starter",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "wooper-paldean-form",
+    "DexCategory": "Poison Fish Pokémon",
+    "Height": {
+        "Meters": 0.4,
+        "Feet": 1.3
+    },
+    "Weight": {
+        "Kilograms": 8.5,
+        "Pounds": 18.7
+    },
+    "DexDescription": "Paldean waters weren't kind to this Pokémon. Too many predators drove Wooper to live in muddy swamps instead of ponds. They developed a poisonous film on their skin to protect themselves.",
+    "Evolutions": [
+        {
+            "To": "Clodsire",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "wooper-paldean-form.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Tail Whip"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Mud Sport"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Mud Shot"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Slam"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Mud Bomb"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Amnesia"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Poison Tail"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Toxic Spikes"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Spikes"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Yawn"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Poison Jab"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Sandstorm"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Sludge Wave"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Toxic"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Earthquake"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Sludge Bomb"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Curse"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Double Kick"
+        }
+    ]
+}

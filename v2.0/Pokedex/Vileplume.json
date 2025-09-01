@@ -1,0 +1,87 @@
+{
+    "Number": 45,
+    "DexID": "0045",
+    "Name": "Vileplume",
+    "Type1": "Grass",
+    "Type2": "Poison",
+    "BaseHP": 5,
+    "Strength": 2,
+    "MaxStrength": 5,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 3,
+    "MaxSpecial": 6,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Chlorophyll",
+    "Ability2": "",
+    "HiddenAbility": "Effect Spore",
+    "EventAbilities": "",
+    "RecommendedRank": "Amateur",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "vileplume",
+    "DexCategory": "Flower Pokemon",
+    "Height": {
+        "Meters": 1.2,
+        "Feet": 3.9
+    },
+    "Weight": {
+        "Kilograms": 18.6,
+        "Pounds": 41.0
+    },
+    "DexDescription": "It lives in marshlands and jungles where it\u2019s often mistaken for local flora. The air around a Vileplume turns yellow with the powder it releases as it walks. The pollen is highly toxic and causes paralysis.",
+    "Evolutions": [
+        {
+            "From": "Gloom",
+            "Kind": "Stone",
+            "Item": "Leaf Stone"
+        }
+    ],
+    "Image": "vileplume.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Mega Drain"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Aromatherapy"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Poison Powder"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Stun Spore"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Petal Dance"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Petal Blizzard"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Solar Beam"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Swords Dance"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Seed Bomb"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Drain Punch"
+        }
+    ]
+}

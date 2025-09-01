@@ -1,0 +1,129 @@
+{
+    "Number": 183,
+    "DexID": "0183",
+    "Name": "Marill",
+    "Type1": "Water",
+    "Type2": "Fairy",
+    "BaseHP": 4,
+    "Strength": 1,
+    "MaxStrength": 3,
+    "Dexterity": 1,
+    "MaxDexterity": 3,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 1,
+    "MaxSpecial": 3,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Thick Fat",
+    "Ability2": "Huge Power",
+    "HiddenAbility": "Sap Sipper",
+    "EventAbilities": "",
+    "RecommendedRank": "Beginner",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "marill",
+    "DexCategory": "Aquamouse Pokemon",
+    "Height": {
+        "Meters": 0.4,
+        "Feet": 1.3
+    },
+    "Weight": {
+        "Kilograms": 8.5,
+        "Pounds": 18.7
+    },
+    "DexDescription": "Marill's tail acts like a floater. Seeing its tail bobbing on the water\u2019s surface is a sure indication that this Pokemon is diving to feed on algae and aquatic plants. This Pokemon is curious towards humans.",
+    "Evolutions": [
+        {
+            "From": "Azurill",
+            "Kind": "Stat",
+            "Stat": "Happiness",
+            "Value": 4
+        },
+        {
+            "To": "Azumarill",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "marill.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Water Gun"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Tail Whip"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Water Sport"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Bubble"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Defense Curl"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Rollout"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Bubble Beam"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Helping Hand"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Aqua Tail"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Rain Dance"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Play Rough"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Double-Edge"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Aqua Ring"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Hydro Pump"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Superpower"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Belly Drum"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Aqua Jet"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Ice Punch"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "Name": "Smokescreen",
+    "Type": "Normal",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Special",
+    "Accuracy2": "Channel",
+    "Target": "Foe",
+    "Effect": "Reduce the foe's Accuracy.",
+    "Description": "The user convers its foe with a cloud of smoke. Some Pokemon hide inside this screen while others use it as a cover to escape.",
+    "_id": "smokescreen",
+    "Attributes": {},
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "Accuracy"
+                ],
+                "Stages": -1,
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Support"
+}

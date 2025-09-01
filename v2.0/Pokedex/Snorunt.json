@@ -1,0 +1,118 @@
+{
+    "Number": 361,
+    "DexID": "0361",
+    "Name": "Snorunt",
+    "Type1": "Ice",
+    "Type2": "",
+    "BaseHP": 3,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Inner Focus",
+    "Ability2": "Ice Body",
+    "HiddenAbility": "Moody",
+    "EventAbilities": "",
+    "RecommendedRank": "Beginner",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "snorunt",
+    "DexCategory": "Snow Hat Pokemon",
+    "Height": {
+        "Meters": 0.7,
+        "Feet": 2.3
+    },
+    "Weight": {
+        "Kilograms": 16.8,
+        "Pounds": 37.0
+    },
+    "DexDescription": "This friendly Pokemon lives in cold mountains and deserted snowlands. It survives by eating snow and ice. They form small groups to protect themselves from predators. If you take their hat off, they will get angry.",
+    "Evolutions": [
+        {
+            "To": "Glalie",
+            "Kind": "Level",
+            "Speed": "Medium",
+            "Gender": "Male"
+        },
+        {
+            "To": "Froslass",
+            "Kind": "Stone",
+            "Item": "Dawn Stone",
+            "Gender": "Female"
+        }
+    ],
+    "Image": "snorunt.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Leer"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Powder Snow"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Double Team"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Bite"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Icy Wind"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Headbutt"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Protect"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Ice Fang"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Frost Breath"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Crunch"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Ice Shard"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Hail"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Blizzard"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Weather Ball"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Water Pulse"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Fake Tears"
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Name": "Curse (Intimidate)",
+    "Type": "Ghost",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Will",
+    "Accuracy2": "Stealth/Intimidate",
+    "Target": "Foe",
+    "Effect": "Single Target. Roll half of the User's HP as Typeless Damage Dice to itself, ignore defenses. The Target will remove 1 Success from all of their Rolls until the Curse is lifted.",
+    "Description": "The user mutters words that become an evil incantation, the curse may only be lifted by a medium or through divine intervention.",
+    "_id": "curse-(intimidate)",
+    "Attributes": {
+        "Duration": "wholeScene"
+    },
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Curse",
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Support"
+}

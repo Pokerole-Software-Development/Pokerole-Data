@@ -1,0 +1,20 @@
+{
+    "Name": "Dragon Tail",
+    "Type": "Dragon",
+    "Power": 2,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "Low Priority 1. The target is hit and knocked back to its trainer, stunned. Forcing the trainer to send another Pokemon. In the wild the target is sent away. Switcher Move. -1 Accuracy.",
+    "Description": "This Powerful tail strike can knockdown anyone up to 100 feet away!",
+    "_id": "dragon-tail",
+    "Attributes": {
+        "SwitcherMove": true,
+        "AccuracyReduction": 1,
+        "Priority": -1
+    },
+    "AddedEffects": {},
+    "Category": "Physical"
+}

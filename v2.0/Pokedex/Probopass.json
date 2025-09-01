@@ -1,0 +1,143 @@
+{
+    "Number": 476,
+    "DexID": "0476",
+    "Name": "Probopass",
+    "Type1": "Rock",
+    "Type2": "Steel",
+    "BaseHP": 4,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 2,
+    "MaxDexterity": 5,
+    "Vitality": 4,
+    "MaxVitality": 8,
+    "Special": 2,
+    "MaxSpecial": 5,
+    "Insight": 4,
+    "MaxInsight": 8,
+    "Ability1": "Sturdy",
+    "Ability2": "Magnet Pull",
+    "HiddenAbility": "Sand Force",
+    "EventAbilities": "",
+    "RecommendedRank": "Amateur",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "probopass",
+    "DexCategory": "Compass Pokemon",
+    "Height": {
+        "Meters": 1.4,
+        "Feet": 4.6
+    },
+    "Weight": {
+        "Kilograms": 340.0,
+        "Pounds": 749.6
+    },
+    "DexDescription": "It exudes strong magnetism from all over. It controls three small units called Mini-Noses that float around and act as arms. It usually stays motionless unless attacked or provoked.",
+    "Evolutions": [
+        {
+            "From": "Nosepass",
+            "Kind": "Special",
+            "Special": "A trip to New Mauville"
+        }
+    ],
+    "Image": "probopass.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Block"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Iron Defense"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Magnet Bomb"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Tri Attack"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Magnetic Flux"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Magnet Rise"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Gravity"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Wide Guard"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Thunder Wave"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Rock Blast"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Rest"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Spark"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Rock Slide"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Power Gem"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Sandstorm"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Discharge"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Earth Power"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Stone Edge"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Lock-On"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Zap Cannon"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Endure"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Iron Head"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Ancient Power"
+        }
+    ]
+}

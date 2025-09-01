@@ -1,0 +1,16 @@
+{
+    "Name": "Trump Card",
+    "Type": "Normal",
+    "Power": 2,
+    "Damage1": "Special",
+    "Damage2": "",
+    "Accuracy1": "Will",
+    "Accuracy2": "Channel",
+    "Target": "Foe",
+    "Effect": "Single Target. If the User's Will points are at half or less, add 2 Extra Dice to the Damage pool. If the User's Will points are depleted, add 8 Extra Dice to the Damage pool of this Move instead.",
+    "Description": "The more exhausted the user is, the stronger this attack will become. When the Pokémon is on the last of its strength, this move can be devastating.",
+    "_id": "trump-card",
+    "Attributes": {},
+    "AddedEffects": {},
+    "Category": "Special"
+}

@@ -1,0 +1,18 @@
+{
+    "Name": "Hyperspace Hole",
+    "Type": "Psychic",
+    "Power": 3,
+    "Damage1": "Special",
+    "Damage2": "",
+    "Accuracy1": "Insight",
+    "Accuracy2": "Channel",
+    "Target": "Foe",
+    "Effect": "Ignore Defenses. Never Miss. This Move Bypasses the effects of any Shield Move effect on the foe.",
+    "Description": "The user knows the laws of physics bind it from being in many places at once and forbid it from occupying the same space as other bodies. It just disregards their authority.",
+    "_id": "hyperspace-hole",
+    "Attributes": {
+        "IgnoreShield": true
+    },
+    "AddedEffects": {},
+    "Category": "Special"
+}

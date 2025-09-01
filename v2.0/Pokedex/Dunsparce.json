@@ -1,0 +1,137 @@
+{
+    "Number": 206,
+    "DexID": "0206",
+    "Name": "Dunsparce",
+    "Type1": "Normal",
+    "Type2": "",
+    "BaseHP": 5,
+    "Strength": 2,
+    "MaxStrength": 5,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Serene Grace",
+    "Ability2": "Run Away",
+    "HiddenAbility": "Rattled",
+    "EventAbilities": "",
+    "RecommendedRank": "Amateur",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "dunsparce",
+    "DexCategory": "Land Snake Pokemon",
+    "Height": {
+        "Meters": 1.5,
+        "Feet": 4.9
+    },
+    "Weight": {
+        "Kilograms": 14.0,
+        "Pounds": 30.9
+    },
+    "DexDescription": "If seen, Dunsparce is quick to escape by boring into the ground with its drill tail. It can float slightly with its wings. It is almost blind but finds its way in the huge underground mazes where it lives.",
+    "Evolutions": [],
+    "Image": "dunsparce.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Defense Curl"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Rage"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Rollout"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Spite"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Pursuit"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Screech"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Yawn"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Body Slam"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Ancient Power"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Take Down"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Dig"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Glare"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Coil"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Endure"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Air Slash"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Dragon Rush"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Drill Run"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Double-Edge"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Roost"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Endeavor"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Flail"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Magic Coat"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Agility"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Trump Card"
+        }
+    ]
+}

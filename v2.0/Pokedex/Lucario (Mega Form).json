@@ -1,0 +1,135 @@
+{
+    "Number": 448,
+    "DexID": "0448M1",
+    "Name": "Lucario (Mega Form)",
+    "Type1": "Fighting",
+    "Type2": "Steel",
+    "BaseHP": 5,
+    "Strength": 4,
+    "MaxStrength": 8,
+    "Dexterity": 3,
+    "MaxDexterity": 6,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 3,
+    "MaxSpecial": 7,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Adaptability",
+    "Ability2": "",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Pro",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "lucario-mega-form",
+    "DexCategory": "Aura Pokemon",
+    "Height": {
+        "Meters": 1.3,
+        "Feet": 4.3
+    },
+    "Weight": {
+        "Kilograms": 57.5,
+        "Pounds": 126.8
+    },
+    "DexDescription": "The explosive, pulsing energy of the auras and the Mega Stone have awoken its combative instincts. Its fighting style can be summed up in a single word: heartless.",
+    "Evolutions": [
+        {
+            "From": "Lucario",
+            "Kind": "Mega",
+            "Item": "Lucarionite"
+        }
+    ],
+    "Image": "lucario-mega-form.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Laser Focus"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Quick Attack"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Foresight"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Metal Claw"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Detect"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Feint"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Counter"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Swords Dance"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Power-Up Punch"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Bone Rush"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Metal Sound"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Me First"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Quick Guard"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Work Up"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Aura Sphere"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Calm Mind"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Heal Pulse"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Close Combat"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Dragon Pulse"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Extreme Speed"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Iron Defense"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Vacuum Wave"
+        }
+    ]
+}

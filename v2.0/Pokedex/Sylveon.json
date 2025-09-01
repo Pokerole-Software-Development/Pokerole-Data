@@ -1,0 +1,120 @@
+{
+    "Number": 700,
+    "DexID": "0700",
+    "Name": "Sylveon",
+    "Type1": "Fairy",
+    "Type2": "",
+    "BaseHP": 4,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 3,
+    "MaxSpecial": 6,
+    "Insight": 3,
+    "MaxInsight": 7,
+    "Ability1": "Cute Charm",
+    "Ability2": "",
+    "HiddenAbility": "Pixilate",
+    "EventAbilities": "",
+    "RecommendedRank": "Amateur",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "sylveon",
+    "DexCategory": "Intertwining Pokemon",
+    "Height": {
+        "Meters": 1.0,
+        "Feet": 3.3
+    },
+    "Weight": {
+        "Kilograms": 23.5,
+        "Pounds": 51.8
+    },
+    "DexDescription": "This rare and adorable Pokemon emanates a soothing aura to calm disturbances. It is said that only the Trainers who form an unbreakable bond with their Eevee can ever see this Pokemon.",
+    "Evolutions": [
+        {
+            "From": "Eevee",
+            "Kind": "Stat",
+            "Stat": "Loyalty",
+            "Value": 5
+        }
+    ],
+    "Image": "sylveon.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Tail Whip"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Sand Attack"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Helping Hand"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Fairy Wind"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Disarming Voice"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Quick Attack"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Swift"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Draining Kiss"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Skill Swap"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Misty Terrain"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Light Screen"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Moonblast"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Last Resort"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Psych Up"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Captivate"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Wish"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Hyper Voice"
+        }
+    ]
+}

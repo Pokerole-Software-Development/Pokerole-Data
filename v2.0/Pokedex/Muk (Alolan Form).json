@@ -1,0 +1,127 @@
+{
+    "Number": 89,
+    "DexID": "0089A",
+    "Name": "Muk (Alolan Form)",
+    "Type1": "Poison",
+    "Type2": "Dark",
+    "BaseHP": 5,
+    "Strength": 3,
+    "MaxStrength": 6,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 3,
+    "MaxInsight": 6,
+    "Ability1": "Poison Touch",
+    "Ability2": "Gluttony",
+    "HiddenAbility": "Power of Alchemy",
+    "EventAbilities": "",
+    "RecommendedRank": "Amateur",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "muk-alolan-form",
+    "DexCategory": "Sludge Pokemon",
+    "Height": {
+        "Meters": 1.0,
+        "Feet": 3.3
+    },
+    "Weight": {
+        "Kilograms": 52.0,
+        "Pounds": 114.6
+    },
+    "DexDescription": "It is as friendly as it is toxic, be careful for it tries to hug others regularly. A good diet does not help reduce its toxicity levels, it only makes it cranky and prone to destroy furniture. It releases toxic fumes all the time.",
+    "Evolutions": [
+        {
+            "From": "Grimer (Alolan Form)",
+            "Kind": "Level",
+            "Speed": "Slow"
+        }
+    ],
+    "Image": "muk-alolan-form.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Poison Gas"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Pound"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Disable"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Harden"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Bite"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Venom Drench"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Acid Spray"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Poison Fang"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Minimize"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Fling"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Knock Off"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Crunch"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Screech"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Gunk Shot"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Acid Armor"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Belch"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Memento"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Stockpile"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Swallow"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Shadow Sneak"
+        }
+    ]
+}

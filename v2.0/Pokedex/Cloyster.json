@@ -1,0 +1,99 @@
+{
+    "Number": 91,
+    "DexID": "0091",
+    "Name": "Cloyster",
+    "Type1": "Water",
+    "Type2": "Ice",
+    "BaseHP": 4,
+    "Strength": 3,
+    "MaxStrength": 6,
+    "Dexterity": 2,
+    "MaxDexterity": 5,
+    "Vitality": 4,
+    "MaxVitality": 9,
+    "Special": 2,
+    "MaxSpecial": 5,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Shell Armor",
+    "Ability2": "Skill Link",
+    "HiddenAbility": "Overcoat",
+    "EventAbilities": "",
+    "RecommendedRank": "Amateur",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "cloyster",
+    "DexCategory": "Bivalve Pokemon",
+    "Height": {
+        "Meters": 1.5,
+        "Feet": 4.9
+    },
+    "Weight": {
+        "Kilograms": 132.5,
+        "Pounds": 292.1
+    },
+    "DexDescription": "If it lives in seas with harsh currents, it will grow larger and sharper spikes on its shells than those who live on calm waters. Its shell is extremely hard - you would need explosives to try to open it.",
+    "Evolutions": [
+        {
+            "From": "Shellder",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "cloyster.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Withdraw"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Protect"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Supersonic"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Spike Cannon"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Aurora Beam"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Toxic Spikes"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Hydro Pump"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Shell Smash"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Spikes"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Icicle Crash"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Aqua Ring"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Rock Blast"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Self Destruct"
+        }
+    ]
+}

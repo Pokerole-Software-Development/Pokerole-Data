@@ -1,0 +1,123 @@
+{
+    "Number": 155,
+    "DexID": "0155",
+    "Name": "Cyndaquil",
+    "Type1": "Fire",
+    "Type2": "",
+    "BaseHP": 3,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 1,
+    "MaxVitality": 3,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Blaze",
+    "Ability2": "",
+    "HiddenAbility": "Flash Fire",
+    "EventAbilities": "",
+    "RecommendedRank": "Starter",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "cyndaquil",
+    "DexCategory": "Fire Mouse Pokemon",
+    "Height": {
+        "Meters": 0.5,
+        "Feet": 1.6
+    },
+    "Weight": {
+        "Kilograms": 7.9,
+        "Pounds": 17.4
+    },
+    "DexDescription": "A shy and elusive Pokemon. The flames from its back protect it. They\u2019ll burn vigorously if Cyndaquil is angry otherwise they\u2019ll remain unlit. It lives in hot dens inside of mountains and volcanoes.",
+    "Evolutions": [
+        {
+            "To": "Quilava",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "cyndaquil.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Leer"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Smokescreen"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Ember"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Quick Attack"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Flame Wheel"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Defense Curl"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Flame Charge"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Swift"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Lava Plume"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Flamethrower"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Rollout"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Inferno"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Double-Edge"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Eruption"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Burn Up"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Howl"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Double Kick"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Fire Pledge"
+        }
+    ]
+}

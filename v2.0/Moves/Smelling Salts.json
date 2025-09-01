@@ -1,0 +1,16 @@
+{
+    "Name": "Smelling Salts",
+    "Type": "Normal",
+    "Power": 3,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "If the Target is Paralyzed, add 2 Extra Dice to the Damage pool of this Move. After dealing damage, cure the target's Paralysis.",
+    "Description": "The Pokemon throws some volatile salts onto the foe's face. A paralyzed Pokemon will get a strong smell.",
+    "_id": "smelling-salts",
+    "Attributes": {},
+    "AddedEffects": {},
+    "Category": "Physical"
+}

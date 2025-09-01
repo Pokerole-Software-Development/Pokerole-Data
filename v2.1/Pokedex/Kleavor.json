@@ -1,0 +1,135 @@
+{
+    "Number": 900,
+    "DexID": "0900",
+    "Name": "Kleavor",
+    "Type1": "Bug",
+    "Type2": "Rock",
+    "BaseHP": 5,
+    "Strength": 3,
+    "MaxStrength": 7,
+    "Dexterity": 2,
+    "MaxDexterity": 5,
+    "Vitality": 3,
+    "MaxVitality": 6,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Swarm",
+    "Ability2": "Sheer Force",
+    "HiddenAbility": "Sharpness",
+    "EventAbilities": "",
+    "RecommendedRank": "Expert",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "kleavor",
+    "DexCategory": "Axe Pokémon",
+    "Height": {
+        "Meters": 1.8,
+        "Feet": 5.9
+    },
+    "Weight": {
+        "Kilograms": 89.0,
+        "Pounds": 196.2
+    },
+    "DexDescription": "There are ancient records of a Rock-Type evolution for Scyther using Black Augurite, but this mineral is completely mined out today. They were known to be solitary creatures that chopped wood in the forests.",
+    "Evolutions": [
+        {
+            "From": "Scyther",
+            "Kind": "Trade",
+            "Item": "Black Augurite"
+        }
+    ],
+    "Image": "kleavor.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Quick Attack"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Leer"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Fury Cutter"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Focus Energy"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Smack Down"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Double Team"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Double Hit"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "False Swipe"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Rock Polish"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Slash"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "X-Scissor"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Rock Slide"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Swords Dance"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Acrobatics"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Close Combat"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Night Slash"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "First Impression"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Sandstorm"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Stone Axe"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Stone Edge"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Baton Pass"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Psycho Cut"
+        }
+    ]
+}

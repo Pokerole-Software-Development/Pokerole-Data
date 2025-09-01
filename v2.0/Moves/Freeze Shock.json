@@ -1,0 +1,29 @@
+{
+    "Name": "Freeze Shock",
+    "Type": "Ice",
+    "Power": 6,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Special",
+    "Accuracy2": "Channel",
+    "Target": "Foe",
+    "Effect": "Lethal. Ranged. Charge Move. Roll 3 Chance Dice to Paralyze the Foe. -1 Accuracy.",
+    "Description": "The user appears to become a block of ice, then it releases itself from the ice with a devastating discharge. The exploding ice shards and the lightning fly all over the battlefield.",
+    "_id": "freeze-shock",
+    "Attributes": {
+        "Lethal": true,
+        "PhysicalRanged": true,
+        "Charge": true,
+        "AccuracyReduction": 1
+    },
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Paralyze",
+                "Affects": "Targets",
+                "ChanceDice": 3
+            }
+        ]
+    },
+    "Category": "Physical"
+}

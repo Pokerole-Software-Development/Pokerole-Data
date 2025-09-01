@@ -1,0 +1,115 @@
+{
+    "Number": 152,
+    "DexID": "0152",
+    "Name": "Chikorita",
+    "Type1": "Grass",
+    "Type2": "",
+    "BaseHP": 3,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Overgrow",
+    "Ability2": "",
+    "HiddenAbility": "Leaf Guard",
+    "EventAbilities": "",
+    "RecommendedRank": "Starter",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "chikorita",
+    "DexCategory": "Leaf Pokemon",
+    "Height": {
+        "Meters": 0.9,
+        "Feet": 3.0
+    },
+    "Weight": {
+        "Kilograms": 6.4,
+        "Pounds": 14.1
+    },
+    "DexDescription": "It is docile and loves to bathe in the sunlight. It waves its leaf around to keep foes at bay. The sweet fragrance from its leaf, has a strong calming and relaxing effect on people and Pokemon.",
+    "Evolutions": [
+        {
+            "To": "Bayleef",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "chikorita.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Growl"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Razor Leaf"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Poison Powder"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Sweet Scent"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Reflect"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Synthesis"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Natural Gift"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Magical Leaf"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Light Screen"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Body Slam"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Safeguard"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Aromatherapy"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Solar Beam"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Heal Pulse"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Grass Pledge"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Grassy Terrain"
+        }
+    ]
+}

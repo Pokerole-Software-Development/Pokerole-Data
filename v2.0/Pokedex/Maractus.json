@@ -1,0 +1,133 @@
+{
+    "Number": 556,
+    "DexID": "0556",
+    "Name": "Maractus",
+    "Type1": "Grass",
+    "Type2": "",
+    "BaseHP": 4,
+    "Strength": 2,
+    "MaxStrength": 5,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 3,
+    "MaxSpecial": 6,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Water Absorb",
+    "Ability2": "Chlorophyll",
+    "HiddenAbility": "Storm Drain",
+    "EventAbilities": "",
+    "RecommendedRank": "Amateur",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "maractus",
+    "DexCategory": "Cactus Pokemon",
+    "Height": {
+        "Meters": 1.0,
+        "Feet": 3.3
+    },
+    "Weight": {
+        "Kilograms": 28.0,
+        "Pounds": 61.7
+    },
+    "DexDescription": "If you see a Maractus on the desert, follow it, as they make their nests on water oasis. This pacific Pokemon makes a sound similar to a maraca to drive away bird Pokemon that prey on it\u2019s seeds and fruit.",
+    "Evolutions": [],
+    "Image": "maractus.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Peck"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Absorb"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Growth"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Sweet Scent"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Spiky Shield"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Pin Missile"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Mega Drain"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Synthesis"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Cotton Spore"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Needle Arm"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Ingrain"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Acupressure"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Sucker Punch"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Petal Dance"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Giga Drain"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "After You"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Petal Blizzard"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Solar Beam"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Cotton Guard"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Sunny Day"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Drain Punch"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Spikes"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Worry Seed"
+        }
+    ]
+}

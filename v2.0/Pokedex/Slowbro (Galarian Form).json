@@ -1,0 +1,129 @@
+{
+    "Number": 80,
+    "DexID": "0080G",
+    "Name": "Slowbro (Galarian Form)",
+    "Type1": "Poison",
+    "Type2": "Psychic",
+    "BaseHP": 4,
+    "Strength": 3,
+    "MaxStrength": 6,
+    "Dexterity": 1,
+    "MaxDexterity": 3,
+    "Vitality": 3,
+    "MaxVitality": 6,
+    "Special": 3,
+    "MaxSpecial": 6,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Quick Draw",
+    "Ability2": "Own Tempo",
+    "HiddenAbility": "Regenerator",
+    "EventAbilities": "",
+    "RecommendedRank": "Amateur",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "slowbro-galarian-form",
+    "DexCategory": "",
+    "Height": {
+        "Meters": 1.6,
+        "Feet": 5.2
+    },
+    "Weight": {
+        "Kilograms": 70.5,
+        "Pounds": 155.4
+    },
+    "DexDescription": "",
+    "Evolutions": [],
+    "Image": "slowbro-galarian-form.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Shell Side Arm"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Withdraw"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Curse"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Growl"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Acid Spray"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Yawn"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Confusion"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Disable"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Water Pulse"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Headbutt"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Zen Headbutt"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Amnesia"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Surf"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Slack Off"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Psychic"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Psych Up"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Rain Dance"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Heal Pulse"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Flamethrower"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Expanding Force"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Venoshock"
+        }
+    ]
+}

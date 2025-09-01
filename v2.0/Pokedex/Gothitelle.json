@@ -1,0 +1,127 @@
+{
+    "Number": 576,
+    "DexID": "0576",
+    "Name": "Gothitelle",
+    "Type1": "Psychic",
+    "Type2": "",
+    "BaseHP": 5,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 3,
+    "MaxVitality": 6,
+    "Special": 3,
+    "MaxSpecial": 6,
+    "Insight": 3,
+    "MaxInsight": 6,
+    "Ability1": "Frisk",
+    "Ability2": "Competitive",
+    "HiddenAbility": "Shadow Tag",
+    "EventAbilities": "",
+    "RecommendedRank": "Ace",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "gothitelle",
+    "DexCategory": "Astral Body Pokemon",
+    "Height": {
+        "Meters": 1.5,
+        "Feet": 4.9
+    },
+    "Weight": {
+        "Kilograms": 44.0,
+        "Pounds": 97.0
+    },
+    "DexDescription": "They can predict the future from the placement and movement of the stars. They get restless if someone they know will be in danger. They are emphatic creatures that can understand human emotion.",
+    "Evolutions": [
+        {
+            "From": "Gothorita",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "gothitelle.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Pound"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Confusion"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Tickle"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Play Nice"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Fake Tears"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Double Slap"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Psybeam"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Embargo"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Feint Attack"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Psyshock"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Flatter"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Future Sight"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Heal Block"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Psychic"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Telekinesis"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Charm"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Magic Room"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Heal Pulse"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Helping Hand"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Dark Pulse"
+        }
+    ]
+}

@@ -1,0 +1,117 @@
+{
+    "Number": 197,
+    "DexID": "0197",
+    "Name": "Umbreon",
+    "Type1": "Dark",
+    "Type2": "",
+    "BaseHP": 4,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 3,
+    "MaxVitality": 6,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 3,
+    "MaxInsight": 7,
+    "Ability1": "Synchronize",
+    "Ability2": "",
+    "HiddenAbility": "Inner Focus",
+    "EventAbilities": "",
+    "RecommendedRank": "Amateur",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "umbreon",
+    "DexCategory": "Moonlight Pokemon",
+    "Height": {
+        "Meters": 1.0,
+        "Feet": 3.3
+    },
+    "Weight": {
+        "Kilograms": 27.0,
+        "Pounds": 59.5
+    },
+    "DexDescription": "Umbreon evolved from exposure to the moon\u2019s energy pulses. It lurks in darkness and waits for its foes to move. The rings on its body glow when it leaps to attack. Its fur is drenched with poison.",
+    "Evolutions": [
+        {
+            "From": "Eevee",
+            "Kind": "Special",
+            "Stat": "Happiness",
+            "Value": 4,
+            "Special": "Moonlight"
+        }
+    ],
+    "Image": "umbreon.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Tail Whip"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Helping Hand"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Sand Attack"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Pursuit"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Quick Attack"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Confuse Ray"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Feint Attack"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Assurance"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Screech"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Moonlight"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Mean Look"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Last Resort"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Guard Swap"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Wish"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Curse"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Foul Play"
+        }
+    ]
+}

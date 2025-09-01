@@ -1,0 +1,127 @@
+{
+    "Number": 596,
+    "DexID": "0596",
+    "Name": "Galvantula",
+    "Type1": "Bug",
+    "Type2": "Electric",
+    "BaseHP": 4,
+    "Strength": 2,
+    "MaxStrength": 5,
+    "Dexterity": 2,
+    "MaxDexterity": 5,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 3,
+    "MaxSpecial": 6,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Compound Eyes",
+    "Ability2": "Unnerve",
+    "HiddenAbility": "Swarm",
+    "EventAbilities": "",
+    "RecommendedRank": "Amateur",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "galvantula",
+    "DexCategory": "EleSpider Pokemon",
+    "Height": {
+        "Meters": 0.8,
+        "Feet": 2.6
+    },
+    "Weight": {
+        "Kilograms": 14.3,
+        "Pounds": 31.5
+    },
+    "DexDescription": "They employ an electrically charged web to trap their prey. While it is immobilized by shock, they leisurely consume it. They usually live alone but there have been cases of large swarms living together in caves.",
+    "Evolutions": [
+        {
+            "From": "Joltik",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "galvantula.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Absorb"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "String Shot"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Thunder Wave"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Spider Web"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Sticky Web"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Screech"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Fury Cutter"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Electroweb"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Bug Bite"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Gastro Acid"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Slash"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Electro Ball"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Signal Beam"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Agility"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Sucker Punch"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Discharge"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Bug Buzz"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Cross Poison"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Magnet Rise"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Giga Drain"
+        }
+    ]
+}

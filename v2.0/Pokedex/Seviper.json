@@ -1,0 +1,133 @@
+{
+    "Number": 336,
+    "DexID": "0336",
+    "Name": "Seviper",
+    "Type1": "Poison",
+    "Type2": "",
+    "BaseHP": 4,
+    "Strength": 3,
+    "MaxStrength": 6,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 3,
+    "MaxSpecial": 6,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Shed Skin",
+    "Ability2": "",
+    "HiddenAbility": "Infiltrator",
+    "EventAbilities": "",
+    "RecommendedRank": "Amateur",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "seviper",
+    "DexCategory": "Fang Snake Pokemon",
+    "Height": {
+        "Meters": 2.7,
+        "Feet": 8.9
+    },
+    "Weight": {
+        "Kilograms": 52.5,
+        "Pounds": 115.7
+    },
+    "DexDescription": "Their hate for the Zangoose has been boiling for so long it\u2019s now a basic instinct. They battle using their sword-edged poisonous tail, hiding in tall grass until an unwary prey gets close enough.",
+    "Evolutions": [],
+    "Image": "seviper.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Wrap"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Swagger"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Bite"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Lick"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Feint"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Poison Tail"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Screech"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Venoshock"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Glare"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Poison Fang"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Venom Drench"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Night Slash"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Gastro Acid"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Belch"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Haze"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Poison Jab"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Crunch"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Swords Dance"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Coil"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Wring Out"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Aqua Tail"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Giga Drain"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Iron Tail"
+        }
+    ]
+}

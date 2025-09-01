@@ -1,0 +1,109 @@
+{
+    "Number": 128,
+    "DexID": "0128",
+    "Name": "Tauros",
+    "Type1": "Normal",
+    "Type2": "",
+    "BaseHP": 4,
+    "Strength": 3,
+    "MaxStrength": 6,
+    "Dexterity": 3,
+    "MaxDexterity": 6,
+    "Vitality": 3,
+    "MaxVitality": 6,
+    "Special": 1,
+    "MaxSpecial": 3,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Intimidate",
+    "Ability2": "Anger Point",
+    "HiddenAbility": "Sheer Force",
+    "EventAbilities": "",
+    "RecommendedRank": "Amateur",
+    "GenderType": "M",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "tauros",
+    "DexCategory": "Wild Bull Pokemon",
+    "Height": {
+        "Meters": 1.4,
+        "Feet": 4.6
+    },
+    "Weight": {
+        "Kilograms": 88.4,
+        "Pounds": 194.9
+    },
+    "DexDescription": "This is a Male species. They travel in herds around the plains and fight each other by locking horns. The herd\u2019s protector takes pride in its battle-scarred horns. Miltank is the female of this species.",
+    "Evolutions": [],
+    "Image": "tauros.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Tail Whip"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Rage"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Horn Attack"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Pursuit"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Scary Face"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Rest"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Payback"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Work Up"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Zen Headbutt"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Take Down"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Swagger"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Thrash"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Giga Impact"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Smart Strike"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Outrage"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Sleep Talk"
+        }
+    ]
+}

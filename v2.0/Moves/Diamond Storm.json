@@ -1,0 +1,29 @@
+{
+    "Name": "Diamond Storm",
+    "Type": "Rock",
+    "Power": 4,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Channel",
+    "Target": "All Foes",
+    "Effect": "Ranged. Roll 5 Chance Dice to Increase the User's Defense by 2.",
+    "Description": "The Pokemon summons a storm of diamonds over the field, these diamonds also serve as barriers the user can take cover into.",
+    "_id": "diamond-storm",
+    "Attributes": {
+        "PhysicalRanged": true
+    },
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "Def"
+                ],
+                "Stages": 2,
+                "ChanceDice": 5,
+                "Affects": "User"
+            }
+        ]
+    },
+    "Category": "Physical"
+}

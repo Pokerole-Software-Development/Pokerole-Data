@@ -1,0 +1,23 @@
+{
+    "Name": "Future Sight",
+    "Type": "Psychic",
+    "Power": 5,
+    "Damage1": "Special",
+    "Damage2": "",
+    "Accuracy1": "Insight",
+    "Accuracy2": "Channel",
+    "Target": "Foe",
+    "Effect": "Strikes at the end of the next Round. It bypasses any Shield Move and cover. If the target retires or switches out from battle the damage will be dealt to the next opponent or to one of its allies.",
+    "Description": "The Pokemon foresses something terrible happening to the target. It may see images from its own future without any risk.",
+    "_id": "future-sight",
+    "Attributes": {},
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "FutureSight",
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Special"
+}

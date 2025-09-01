@@ -1,0 +1,127 @@
+{
+    "Number": 503,
+    "DexID": "0503",
+    "Name": "Samurott",
+    "Type1": "Water",
+    "Type2": "",
+    "BaseHP": 5,
+    "Strength": 3,
+    "MaxStrength": 6,
+    "Dexterity": 2,
+    "MaxDexterity": 5,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 3,
+    "MaxSpecial": 6,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Torrent",
+    "Ability2": "",
+    "HiddenAbility": "Shell Armor",
+    "EventAbilities": "",
+    "RecommendedRank": "Ace",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "samurott",
+    "DexCategory": "Formidable Pokemon",
+    "Height": {
+        "Meters": 1.5,
+        "Feet": 4.9
+    },
+    "Weight": {
+        "Kilograms": 94.6,
+        "Pounds": 208.6
+    },
+    "DexDescription": "It uses the horn on it\u2019s head and both scimitars attached to it\u2019s front legs as weapons. In the late spring and fall, they gather on cold beaches and fight each other. The winner lets out an intimidating roar.",
+    "Evolutions": [
+        {
+            "From": "Dewott",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "samurott.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Tail Whip"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Water Sport"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Water Gun"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Encore"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Focus Energy"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Razor Shell"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Fury Cutter"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Water Pulse"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Revenge"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Aqua Jet"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Slash"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Megahorn"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Aqua Tail"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Retaliate"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Swords Dance"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Hydro Pump"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Hydro Cannon"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Night Slash"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Smart Strike"
+        }
+    ]
+}

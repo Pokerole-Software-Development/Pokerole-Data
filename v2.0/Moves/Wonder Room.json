@@ -1,0 +1,23 @@
+{
+    "Name": "Wonder Room",
+    "Type": "Psychic",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Special",
+    "Accuracy2": "Channel",
+    "Target": "Battlefield",
+    "Effect": "Defense and Sp. Defense will be calculated with Insight instead of Vitality. Lasts 4 Rounds.",
+    "Description": "Inside the Wonder Room, a strong mind makes a strong body and a resilient body makes a resilient mind. However, if the mind is weak, the body will be weak and vice-versa.",
+    "_id": "wonder-room",
+    "Attributes": {},
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "WonderRoom",
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Support"
+}

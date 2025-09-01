@@ -1,0 +1,24 @@
+{
+    "Name": "Headbutt",
+    "Type": "Normal",
+    "Power": 3,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "Roll 3 Chance Dice to Flinch. May call Random Encounters when hitting trees.",
+    "Description": "The user strikes the foe with its hard head. Perfect for taking down fruits from trees or shake Pokemon out of their nests on treetops.",
+    "_id": "headbutt",
+    "Attributes": {},
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Flinch",
+                "Affects": "Targets",
+                "ChanceDice": 3
+            }
+        ]
+    },
+    "Category": "Physical"
+}

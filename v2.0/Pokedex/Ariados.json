@@ -1,0 +1,155 @@
+{
+    "Number": 168,
+    "DexID": "0168",
+    "Name": "Ariados",
+    "Type1": "Bug",
+    "Type2": "Poison",
+    "BaseHP": 4,
+    "Strength": 2,
+    "MaxStrength": 5,
+    "Dexterity": 1,
+    "MaxDexterity": 3,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Swarm",
+    "Ability2": "Insomnia",
+    "HiddenAbility": "Sniper",
+    "EventAbilities": "",
+    "RecommendedRank": "Amateur",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "ariados",
+    "DexCategory": "Long Leg Pokemon",
+    "Height": {
+        "Meters": 1.1,
+        "Feet": 3.6
+    },
+    "Weight": {
+        "Kilograms": 33.5,
+        "Pounds": 73.9
+    },
+    "DexDescription": "This Pokemon is silent and stealthy. It comes out at night. After attaching some silk to its prey, it sets it free. Later, it tracks the silk back to the prey and its friends. It can form big colonies in caves.",
+    "Evolutions": [
+        {
+            "From": "Spinarak",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "ariados.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "String Shot"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Poison Sting"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Absorb"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Focus Energy"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Constrict"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Scary Face"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Infestation"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Venom Drench"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Fell Stinger"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Bug Bite"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Night Shade"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Leech Life"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Fury Swipes"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Shadow Sneak"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Spider Web"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Sucker Punch"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Pin Missile"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Agility"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Poison Jab"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Psychic"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Swords Dance"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Cross Poison"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Sticky Web"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Toxic Thread"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Night Slash"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Bounce"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Electroweb"
+        }
+    ]
+}

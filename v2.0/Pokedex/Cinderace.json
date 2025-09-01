@@ -1,0 +1,115 @@
+{
+    "Number": 815,
+    "DexID": "0815",
+    "Name": "Cinderace",
+    "Type1": "Fire",
+    "Type2": "",
+    "BaseHP": 5,
+    "Strength": 3,
+    "MaxStrength": 6,
+    "Dexterity": 3,
+    "MaxDexterity": 7,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Blaze",
+    "Ability2": "",
+    "HiddenAbility": "Libero",
+    "EventAbilities": "",
+    "RecommendedRank": "Ace",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "cinderace",
+    "DexCategory": "Striker Pokemon",
+    "Height": {
+        "Meters": 1.4,
+        "Feet": 4.6
+    },
+    "Weight": {
+        "Kilograms": 33.0,
+        "Pounds": 72.8
+    },
+    "DexDescription": "They are confident and boastful of their abilities. They take a pebble and light it on fire to create a scorching weapon they kick towards their foes. They can grow arrogant if they feel cheered on.",
+    "Evolutions": [
+        {
+            "From": "Raboot",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "cinderace.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Pyro Ball"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Feint"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Growl"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Ember"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Quick Attack"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Double Kick"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Flame Charge"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Agility"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Headbutt"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Counter"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Bounce"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Double-Edge"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Court Change"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "High Jump Kick"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Mega Kick"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Blast Burn"
+        }
+    ]
+}

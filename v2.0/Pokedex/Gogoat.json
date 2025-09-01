@@ -1,0 +1,131 @@
+{
+    "Number": 673,
+    "DexID": "0673",
+    "Name": "Gogoat",
+    "Type1": "Grass",
+    "Type2": "",
+    "BaseHP": 6,
+    "Strength": 3,
+    "MaxStrength": 6,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 2,
+    "MaxSpecial": 5,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Sap Sipper",
+    "Ability2": "",
+    "HiddenAbility": "Grass Pelt",
+    "EventAbilities": "",
+    "RecommendedRank": "Amateur",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "gogoat",
+    "DexCategory": "Mount Pokemon",
+    "Height": {
+        "Meters": 1.7,
+        "Feet": 5.6
+    },
+    "Weight": {
+        "Kilograms": 91.0,
+        "Pounds": 200.6
+    },
+    "DexDescription": "In the wild, they inhabit mountain regions with the leader of the herd decided by a battle of clashing horns. People rely on Gogoat to get them through harsh terrains as it always knows where you want to go.",
+    "Evolutions": [
+        {
+            "From": "Skiddo",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "gogoat.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Growl"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Vine Whip"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Tail Whip"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Worry Seed"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Razor Leaf"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Leech Seed"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Synthesis"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Take Down"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Bulldoze"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Seed Bomb"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Bulk Up"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Double-Edge"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Horn Leech"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Leaf Blade"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Milk Drink"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Earthquake"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Aerial Ace"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Zen Headbutt"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Bounce"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Superpower"
+        }
+    ]
+}

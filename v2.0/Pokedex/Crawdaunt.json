@@ -1,0 +1,119 @@
+{
+    "Number": 342,
+    "DexID": "0342",
+    "Name": "Crawdaunt",
+    "Type1": "Water",
+    "Type2": "Dark",
+    "BaseHP": 4,
+    "Strength": 3,
+    "MaxStrength": 7,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 2,
+    "MaxSpecial": 5,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Hyper Cutter",
+    "Ability2": "Shell Armor",
+    "HiddenAbility": "Adaptability",
+    "EventAbilities": "",
+    "RecommendedRank": "Amateur",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "crawdaunt",
+    "DexCategory": "Rogue Pokemon",
+    "Height": {
+        "Meters": 1.1,
+        "Feet": 3.6
+    },
+    "Weight": {
+        "Kilograms": 32.8,
+        "Pounds": 72.3
+    },
+    "DexDescription": "Crawdaunt is extremely violent and territorial. The ponds where it lives look like desolated places due to them attacking anything that comes close. It sheds its shell once a year, this weakens it for a few days.",
+    "Evolutions": [
+        {
+            "From": "Corphish",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "crawdaunt.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Bubble"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Leer"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Vice Grip"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Harden"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Bubble Beam"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Protect"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Double Hit"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Knock Off"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Taunt"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Night Slash"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Crabhammer"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Razor Shell"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Swords Dance"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Crunch"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Guillotine"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Superpower"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Dragon Dance"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Mud Sport"
+        }
+    ]
+}

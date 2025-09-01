@@ -1,0 +1,123 @@
+{
+    "Number": 734,
+    "DexID": "0734",
+    "Name": "Yungoos",
+    "Type1": "Normal",
+    "Type2": "",
+    "BaseHP": 3,
+    "Strength": 2,
+    "MaxStrength": 5,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 1,
+    "MaxVitality": 3,
+    "Special": 1,
+    "MaxSpecial": 3,
+    "Insight": 1,
+    "MaxInsight": 3,
+    "Ability1": "Stakeout",
+    "Ability2": "Strong Jaw",
+    "HiddenAbility": "Adaptability",
+    "EventAbilities": "",
+    "RecommendedRank": "Rookie",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "yungoos",
+    "DexCategory": "Loitering Pokémon",
+    "Height": {
+        "Meters": 0.4,
+        "Feet": 1.3
+    },
+    "Weight": {
+        "Kilograms": 6.0,
+        "Pounds": 13.2
+    },
+    "DexDescription": "This Pokémon was brought to Alola in an attempt to eradicate Ratatta. It spends all day searching for prey and it's constantly hungry. When the sun sets, it falls asleep right where it was standing.",
+    "Evolutions": [
+        {
+            "To": "Gumshoos",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "yungoos.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Leer"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Pursuit"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Sand Attack"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Odor Sleuth"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Bide"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Bite"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Mud Slap"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Super Fang"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Take Down"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Scary Face"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Yawn"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Hyper Fang"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Crunch"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Thrash"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Rest"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Revenge"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Sleep Talk"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Last Resort"
+        }
+    ]
+}

@@ -1,0 +1,119 @@
+{
+    "Number": 728,
+    "DexID": "0728",
+    "Name": "Popplio",
+    "Type1": "Water",
+    "Type2": "",
+    "BaseHP": 3,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 1,
+    "MaxDexterity": 3,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Torrent",
+    "Ability2": "",
+    "HiddenAbility": "Liquid Voice",
+    "EventAbilities": "",
+    "RecommendedRank": "Starter",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "popplio",
+    "DexCategory": "Sea Lion Pokemon",
+    "Height": {
+        "Meters": 0.4,
+        "Feet": 1.3
+    },
+    "Weight": {
+        "Kilograms": 7.5,
+        "Pounds": 16.5
+    },
+    "DexDescription": "A fun-loving Pokemon. It snorts water bubbles from its nose and balances them around, it is tenacious and diligent to train. They are agile swimmers and prefer acrobatic stunts to move on the ground.",
+    "Evolutions": [
+        {
+            "To": "Brionne",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "popplio.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Pound"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Water Gun"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Growl"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Disarming Voice"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Baby-Doll Eyes"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Aqua Jet"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Encore"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Bubble Beam"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Sing"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Double Slap"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Hyper Voice"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Moonblast"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Captivate"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Hydro Pump"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Misty Terrain"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Charm"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Aqua Ring"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Water Pledge"
+        }
+    ]
+}

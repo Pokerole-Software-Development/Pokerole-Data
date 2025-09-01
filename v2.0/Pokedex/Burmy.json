@@ -1,0 +1,90 @@
+{
+    "Number": 412,
+    "DexID": "0412",
+    "Name": "Burmy",
+    "Type1": "Bug",
+    "Type2": "",
+    "BaseHP": 3,
+    "Strength": 1,
+    "MaxStrength": 3,
+    "Dexterity": 1,
+    "MaxDexterity": 3,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 1,
+    "MaxSpecial": 3,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Shed Skin",
+    "Ability2": "",
+    "HiddenAbility": "Overcoat",
+    "EventAbilities": "",
+    "RecommendedRank": "Starter",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "burmy",
+    "DexCategory": "Bagworm Pokemon",
+    "Height": {
+        "Meters": 0.2,
+        "Feet": 0.7
+    },
+    "Weight": {
+        "Kilograms": 3.4,
+        "Pounds": 7.5
+    },
+    "DexDescription": "This Pokemon has adapted to live in the forests, deserts and in the city. It makes a cloak with the materials close to it to protect itself from the weather. Males evolve into a Mothim and females into a Wormadam.",
+    "Evolutions": [
+        {
+            "To": "Wormadam (Grass Form)",
+            "Kind": "Level",
+            "Speed": "Fast",
+            "Gender": "Female"
+        },
+        {
+            "To": "Wormadam (Steel Form)",
+            "Kind": "Level",
+            "Speed": "Fast",
+            "Gender": "Female"
+        },
+        {
+            "To": "Wormadam (Ground Form)",
+            "Kind": "Level",
+            "Speed": "Fast",
+            "Gender": "Female"
+        },
+        {
+            "To": "Mothim",
+            "Kind": "Level",
+            "Speed": "Fast",
+            "Gender": "Male"
+        }
+    ],
+    "Image": "burmy.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Protect"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Bug Bite"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Hidden Power"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Electroweb"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "String Shot"
+        }
+    ]
+}

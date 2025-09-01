@@ -1,0 +1,119 @@
+{
+    "Number": 588,
+    "DexID": "0588",
+    "Name": "Karrablast",
+    "Type1": "Bug",
+    "Type2": "",
+    "BaseHP": 3,
+    "Strength": 2,
+    "MaxStrength": 5,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 1,
+    "MaxSpecial": 3,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Swarm",
+    "Ability2": "Shed Skin",
+    "HiddenAbility": "No Guard",
+    "EventAbilities": "",
+    "RecommendedRank": "Beginner",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "karrablast",
+    "DexCategory": "Clamping Pokemon",
+    "Height": {
+        "Meters": 0.5,
+        "Feet": 1.6
+    },
+    "Weight": {
+        "Kilograms": 5.9,
+        "Pounds": 13.0
+    },
+    "DexDescription": "When they feel threatened, they spit an acidic liquid to drive attackers away. This Pokemon targets Shelmet as they compete for food. It only evolves when it has a Shelmet's shell as its new home.",
+    "Evolutions": [
+        {
+            "To": "Escavalier",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "karrablast.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Peck"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Leer"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Endure"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Fury Cutter"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Fury Attack"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Headbutt"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "False Swipe"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Bug Buzz"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Slash"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Take Down"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Scary Face"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "X-Scissor"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Flail"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Swords Dance"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Double-Edge"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Feint Attack"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Horn Attack"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Pursuit"
+        }
+    ]
+}

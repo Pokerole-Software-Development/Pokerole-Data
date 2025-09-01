@@ -1,0 +1,140 @@
+{
+    "Number": 188,
+    "DexID": "0188",
+    "Name": "Skiploom",
+    "Type1": "Grass",
+    "Type2": "Flying",
+    "BaseHP": 4,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 2,
+    "MaxDexterity": 5,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Chlorophyll",
+    "Ability2": "Leaf Guard",
+    "HiddenAbility": "Infiltrator",
+    "EventAbilities": "",
+    "RecommendedRank": "Beginner",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "skiploom",
+    "DexCategory": "Cottonweed Pokemon",
+    "Height": {
+        "Meters": 0.6,
+        "Feet": 2.0
+    },
+    "Weight": {
+        "Kilograms": 1.0,
+        "Pounds": 2.2
+    },
+    "DexDescription": "It blooms when the weather is warm. If the weather gets cold, the bloom will close and it will stop flying. This is not an aggressive Pokemon but it can cause allergies if it floats directly above you.",
+    "Evolutions": [
+        {
+            "From": "Hoppip",
+            "Kind": "Level",
+            "Speed": "Medium"
+        },
+        {
+            "To": "Jumpluff",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "skiploom.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Splash"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Synthesis"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Tail Whip"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Fairy Wind"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Poison Powder"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Stun Spore"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Sleep Powder"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Bullet Seed"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Leech Seed"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Mega Drain"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Acrobatics"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Rage Powder"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Cotton Spore"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "U-Turn"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Worry Seed"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Giga Drain"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Bounce"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Memento"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Silver Wind"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Seed Bomb"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Aromatherapy"
+        }
+    ]
+}

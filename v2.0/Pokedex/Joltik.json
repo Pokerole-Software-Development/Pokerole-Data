@@ -1,0 +1,123 @@
+{
+    "Number": 595,
+    "DexID": "0595",
+    "Name": "Joltik",
+    "Type1": "Bug",
+    "Type2": "Electric",
+    "BaseHP": 3,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Compound Eyes",
+    "Ability2": "Unnerve",
+    "HiddenAbility": "Swarm",
+    "EventAbilities": "",
+    "RecommendedRank": "Starter",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "joltik",
+    "DexCategory": "Attaching Pokemon",
+    "Height": {
+        "Meters": 0.1,
+        "Feet": 0.3
+    },
+    "Weight": {
+        "Kilograms": 0.6,
+        "Pounds": 1.3
+    },
+    "DexDescription": "Since it can\u2019t generate its own charge, it sticks into larger Pokemon and absorbs the static electricity of their fur. In the cities they suck electricity from the outlets they find, skyrocketting the power bill.",
+    "Evolutions": [
+        {
+            "To": "Galvantula",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "joltik.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "String Shot"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Absorb"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Spider Web"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Thunder Wave"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Screech"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Fury Cutter"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Electroweb"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Bug Bite"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Gastro Acid"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Slash"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Electro Ball"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Signal Beam"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Agility"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Sucker Punch"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Discharge"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Bug Buzz"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Poison Sting"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Bounce"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Giga Drain"
+        }
+    ]
+}

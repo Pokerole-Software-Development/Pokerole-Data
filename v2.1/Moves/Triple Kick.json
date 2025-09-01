@@ -1,0 +1,19 @@
+{
+    "Name": "Triple Kick",
+    "Type": "Fighting",
+    "Power": 1,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "Single Target. Low Accuracy 1. Triple Action. Add 1 Extra Dice to the Damage Pool of the third hit.",
+    "Description": "The good ol' one-two with a twist. Foes are usually sent flying with the last hit.",
+    "_id": "triple-kick",
+    "Attributes": {
+        "TripleAction": true,
+        "AccuracyReduction": 1
+    },
+    "AddedEffects": {},
+    "Category": "Physical"
+}

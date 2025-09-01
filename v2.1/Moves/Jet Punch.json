@@ -1,0 +1,19 @@
+{
+    "Name": "Jet Punch",
+    "Type": "Water",
+    "Power": 2,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "Single Target. Priority 1. Fist Based.",
+    "Description": "The fist of justice strikes true, swift ... and wet!",
+    "_id": "jet-punch",
+    "Attributes": {
+        "Priority": 1,
+        "FistBased": true
+    },
+    "AddedEffects": {},
+    "Category": "Physical"
+}

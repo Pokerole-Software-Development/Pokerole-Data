@@ -1,0 +1,119 @@
+{
+    "Number": 424,
+    "DexID": "0424",
+    "Name": "Ambipom",
+    "Type1": "Normal",
+    "Type2": "",
+    "BaseHP": 4,
+    "Strength": 3,
+    "MaxStrength": 6,
+    "Dexterity": 3,
+    "MaxDexterity": 6,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Technician",
+    "Ability2": "Pickup",
+    "HiddenAbility": "Skill Link",
+    "EventAbilities": "",
+    "RecommendedRank": "Amateur",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "ambipom",
+    "DexCategory": "Long Tail Pokemon",
+    "Height": {
+        "Meters": 1.2,
+        "Feet": 3.9
+    },
+    "Weight": {
+        "Kilograms": 20.3,
+        "Pounds": 44.8
+    },
+    "DexDescription": "They live in large colonies on the tallest trees, linking their tails to show friendship among herd mates. It loves fresh fruit. Ambipom uses its two tails better than its own arms to swing around.",
+    "Evolutions": [
+        {
+            "From": "Aipom",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "ambipom.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Scratch"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Tail Whip"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Sand Attack"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Astonish"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Dual Chop"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Baton Pass"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Tickle"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Fury Swipes"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Swift"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Screech"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Agility"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Double Hit"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Fling"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Nasty Plot"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Last Resort"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Fake Out"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Seed Bomb"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Ice Punch"
+        }
+    ]
+}

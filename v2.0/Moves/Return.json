@@ -1,0 +1,16 @@
+{
+    "Name": "Return",
+    "Type": "Normal",
+    "Power": 0,
+    "Damage1": "Strength",
+    "Damage2": "Happiness",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "Add 1 Dice to the Damage Roll for every point of Happiness on the User.",
+    "Description": "If the Pokemon is treated with care and love, it will return that affection by giving all it's got in battle.",
+    "_id": "return",
+    "Attributes": {},
+    "AddedEffects": {},
+    "Category": "Physical"
+}

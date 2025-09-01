@@ -1,0 +1,127 @@
+{
+    "Number": 43,
+    "DexID": "0043",
+    "Name": "Oddish",
+    "Type1": "Grass",
+    "Type2": "Poison",
+    "BaseHP": 3,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 1,
+    "MaxDexterity": 3,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 2,
+    "MaxSpecial": 5,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Chlorophyll",
+    "Ability2": "Run Away",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Rookie",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "oddish",
+    "DexCategory": "Weed Pokémon",
+    "Height": {
+        "Meters": 0.5,
+        "Feet": 1.6
+    },
+    "Weight": {
+        "Kilograms": 5.4,
+        "Pounds": 11.9
+    },
+    "DexDescription": "This Pokémon grows by absorbing moonlight. During daytime, it buries itself in the ground, leaving only its leaves exposed to avoid detection by its predators. You can locate it by the smell its leaves release.",
+    "Evolutions": [
+        {
+            "To": "Gloom",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "oddish.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Absorb"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Growth"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Sweet Scent"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Acid"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Poison Powder"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Stun Spore"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Sleep Powder"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Mega Drain"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Lucky Chant"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Natural Gift"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Moonlight"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Giga Drain"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Toxic"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Moonblast"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Petal Dance"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Grassy Glide"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Grassy Terrain"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Charm"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Gastro Acid"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Endure"
+        }
+    ]
+}

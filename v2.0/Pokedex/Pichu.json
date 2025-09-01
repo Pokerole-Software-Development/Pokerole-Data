@@ -1,0 +1,84 @@
+{
+    "Number": 172,
+    "DexID": "0172",
+    "Name": "Pichu",
+    "Type1": "Electric",
+    "Type2": "",
+    "BaseHP": 3,
+    "Strength": 1,
+    "MaxStrength": 3,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 1,
+    "MaxVitality": 2,
+    "Special": 1,
+    "MaxSpecial": 3,
+    "Insight": 1,
+    "MaxInsight": 3,
+    "Ability1": "Static",
+    "Ability2": "",
+    "HiddenAbility": "Lightning Rod",
+    "EventAbilities": "",
+    "RecommendedRank": "Starter",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "pichu",
+    "DexCategory": "Tiny Mouse Pokemon",
+    "Height": {
+        "Meters": 0.3,
+        "Feet": 1.0
+    },
+    "Weight": {
+        "Kilograms": 2.0,
+        "Pounds": 4.4
+    },
+    "DexDescription": "Its cheek pouches are not fully developed yet. Pichu gets startled if its cheeks release electricity jolts. It needs a friendly environment to grow happy. It can be quite the rascal, though.",
+    "Evolutions": [
+        {
+            "To": "Pikachu",
+            "Kind": "Stat",
+            "Stat": "Happiness",
+            "Value": 4
+        }
+    ],
+    "Image": "pichu.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Thunder Shock"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Charm"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Tail Whip"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Sweet Kiss"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Thunder Wave"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Nasty Plot"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Charge"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Fake Out"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Disarming Voice"
+        }
+    ]
+}

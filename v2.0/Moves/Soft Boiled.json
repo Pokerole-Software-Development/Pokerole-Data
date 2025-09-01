@@ -1,0 +1,22 @@
+{
+    "Name": "Soft Boiled",
+    "Type": "Normal",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Insight",
+    "Accuracy2": "Nature",
+    "Target": "User",
+    "Effect": "Basic Heal. If successful spend 1 Will point to activate.",
+    "Description": "The user boils a freshly layed egg and restores Health with the energy stored within.",
+    "_id": "soft-boiled",
+    "Attributes": {},
+    "AddedEffects": {
+        "Heal": {
+            "Type": "Basic",
+            "Target": "Targets",
+            "WillPointCost": 1
+        }
+    },
+    "Category": "Support"
+}

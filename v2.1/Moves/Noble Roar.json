@@ -1,0 +1,29 @@
+{
+    "Name": "Noble Roar",
+    "Type": "Normal",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Tough",
+    "Accuracy2": "Intimidate",
+    "Target": "Foe",
+    "Effect": "Single Target. Sound Move. Reduce by 1 the Target's Strength and Special.",
+    "Description": "The Pokémon makes a roar that commands respect and authority from anyone listening.",
+    "_id": "noble-roar",
+    "Attributes": {
+        "SoundBased": true
+    },
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "Strength",
+                    "Special"
+                ],
+                "Stages": -1,
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Support"
+}

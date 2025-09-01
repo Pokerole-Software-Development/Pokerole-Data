@@ -1,0 +1,26 @@
+{
+    "Name": "Chatter",
+    "Type": "Flying",
+    "Power": 2,
+    "Damage1": "Special",
+    "Damage2": "",
+    "Accuracy1": "Insight",
+    "Accuracy2": "Perform",
+    "Target": "Foe",
+    "Effect": "Roll 3 Chance Dice to Confuse the foe. Sound based move.",
+    "Description": "The user starts talking and giving orders in human language. It may be extremely confusing for the foes.",
+    "_id": "chatter",
+    "Attributes": {
+        "SoundBased": true
+    },
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Confuse",
+                "Affects": "Targets",
+                "ChanceDice": 3
+            }
+        ]
+    },
+    "Category": "Special"
+}

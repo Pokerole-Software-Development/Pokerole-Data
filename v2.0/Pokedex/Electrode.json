@@ -1,0 +1,131 @@
+{
+    "Number": 101,
+    "DexID": "0101",
+    "Name": "Electrode",
+    "Type1": "Electric",
+    "Type2": "",
+    "BaseHP": 4,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 4,
+    "MaxDexterity": 8,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 2,
+    "MaxSpecial": 5,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Soundproof",
+    "Ability2": "Static",
+    "HiddenAbility": "Aftermath",
+    "EventAbilities": "",
+    "RecommendedRank": "Amateur",
+    "GenderType": "N",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "electrode",
+    "DexCategory": "Ball Pokemon",
+    "Height": {
+        "Meters": 1.2,
+        "Feet": 3.9
+    },
+    "Weight": {
+        "Kilograms": 66.6,
+        "Pounds": 146.8
+    },
+    "DexDescription": "It is known for causing blackouts in the cities. After evolving it explodes as a form to release excess electricity or simply to amuse itself. Trainers need to be careful around an Electrode.",
+    "Evolutions": [
+        {
+            "From": "Voltorb",
+            "Kind": "Level",
+            "Speed": "Slow"
+        }
+    ],
+    "Image": "electrode.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Charge"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Eerie Impulse"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Sonic Boom"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Spark"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Magnetic Flux"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Rollout"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Screech"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Charge Beam"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Light Screen"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Electro Ball"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Self Destruct"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Swift"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Discharge"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Magnet Rise"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Gyro Ball"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Explosion"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Mirror Coat"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Foul Play"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Sucker Punch"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Endure"
+        }
+    ]
+}

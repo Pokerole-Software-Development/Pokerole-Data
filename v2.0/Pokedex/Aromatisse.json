@@ -1,0 +1,139 @@
+{
+    "Number": 683,
+    "DexID": "0683",
+    "Name": "Aromatisse",
+    "Type1": "Fairy",
+    "Type2": "",
+    "BaseHP": 5,
+    "Strength": 2,
+    "MaxStrength": 5,
+    "Dexterity": 1,
+    "MaxDexterity": 3,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 3,
+    "MaxSpecial": 6,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Healer",
+    "Ability2": "",
+    "HiddenAbility": "Aroma Veil",
+    "EventAbilities": "",
+    "RecommendedRank": "Amateur",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "aromatisse",
+    "DexCategory": "Fragance Pokemon",
+    "Height": {
+        "Meters": 0.8,
+        "Feet": 2.6
+    },
+    "Weight": {
+        "Kilograms": 15.5,
+        "Pounds": 34.2
+    },
+    "DexDescription": "Its scent is so overpowering that makes it difficult to simply be in close proximity to it. It emits scents that its foes dislike in order to gain an edge in battle. They can also produce pleasant and healing aromas.",
+    "Evolutions": [
+        {
+            "From": "Spritzee",
+            "Kind": "Trade",
+            "Item": "Sachet"
+        }
+    ],
+    "Image": "aromatisse.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Sweet Scent"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Fairy Wind"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Sweet Kiss"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Odor Sleuth"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Aromatic Mist"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Heal Pulse"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Echoed Voice"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Calm Mind"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Draining Kiss"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Aromatherapy"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Attract"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Moonblast"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Charm"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Flail"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Misty Terrain"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Skill Swap"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Psychic"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Disarming Voice"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Reflect"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Psych Up"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Captivate"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Disable"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Drain Punch"
+        }
+    ]
+}

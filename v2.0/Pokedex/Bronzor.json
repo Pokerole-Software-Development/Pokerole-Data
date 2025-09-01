@@ -1,0 +1,123 @@
+{
+    "Number": 436,
+    "DexID": "0436",
+    "Name": "Bronzor",
+    "Type1": "Steel",
+    "Type2": "Psychic",
+    "BaseHP": 3,
+    "Strength": 1,
+    "MaxStrength": 3,
+    "Dexterity": 1,
+    "MaxDexterity": 3,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 1,
+    "MaxSpecial": 3,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Levitate",
+    "Ability2": "Heatproof",
+    "HiddenAbility": "Heavy Metal",
+    "EventAbilities": "",
+    "RecommendedRank": "Beginner",
+    "GenderType": "N",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "bronzor",
+    "DexCategory": "Bronze Pokemon",
+    "Height": {
+        "Meters": 0.5,
+        "Feet": 1.6
+    },
+    "Weight": {
+        "Kilograms": 60.5,
+        "Pounds": 133.4
+    },
+    "DexDescription": "They are found in ancient tombs and temples. Objects shaped like Bronzor have been found within the vaults. Bronzors reflect images like mirrors, people say that this reflection shows the future.",
+    "Evolutions": [
+        {
+            "To": "Bronzong",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "bronzor.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Confusion"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Hypnosis"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Imprison"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Confuse Ray"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Psywave"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Iron Defense"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Feint Attack"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Safeguard"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Future Sight"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Metal Sound"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Gyro Ball"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Extrasensory"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Payback"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Heal Block"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Heavy Slam"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Stealth Rock"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Ancient Power"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Signal Beam"
+        }
+    ]
+}

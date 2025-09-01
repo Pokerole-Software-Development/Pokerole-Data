@@ -1,0 +1,132 @@
+{
+    "Number": 886,
+    "DexID": "0886",
+    "Name": "Drakloak",
+    "Type1": "Dragon",
+    "Type2": "Ghost",
+    "BaseHP": 4,
+    "Strength": 2,
+    "MaxStrength": 5,
+    "Dexterity": 3,
+    "MaxDexterity": 6,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Clear Body",
+    "Ability2": "Infiltrator",
+    "HiddenAbility": "Cursed Body",
+    "EventAbilities": "",
+    "RecommendedRank": "Ace",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "drakloak",
+    "DexCategory": "Caretaker Pokemon",
+    "Height": {
+        "Meters": 1.4,
+        "Feet": 4.6
+    },
+    "Weight": {
+        "Kilograms": 11.0,
+        "Pounds": 24.3
+    },
+    "DexDescription": "It battles alongside Dreepy and dotes on them until they evolve. Without a Dreepy to place on its head and care for, it gets so uneasy it\u2019ll try to substitute it with any Pokemon it finds",
+    "Evolutions": [
+        {
+            "From": "Dreepy",
+            "Kind": "Level",
+            "Speed": "Slow"
+        },
+        {
+            "To": "Dragapult",
+            "Kind": "Level",
+            "Speed": "Slow"
+        }
+    ],
+    "Image": "drakloak.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Astonish"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Infestation"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Quick Attack"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Bite"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Lock-On"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Assurance"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Hex"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Agility"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Double Hit"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "U-Turn"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Dragon Dance"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Dragon Pulse"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Phantom Force"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Take Down"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Dragon Rush"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Double-Edge"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Last Resort"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Confuse Ray"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Sucker Punch"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Draco Meteor"
+        }
+    ]
+}

@@ -1,0 +1,115 @@
+{
+    "Number": 470,
+    "DexID": "0470",
+    "Name": "Leafeon",
+    "Type1": "Grass",
+    "Type2": "",
+    "BaseHP": 4,
+    "Strength": 3,
+    "MaxStrength": 6,
+    "Dexterity": 3,
+    "MaxDexterity": 6,
+    "Vitality": 3,
+    "MaxVitality": 7,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Leaf Guard",
+    "Ability2": "",
+    "HiddenAbility": "Chlorophyll",
+    "EventAbilities": "",
+    "RecommendedRank": "Amateur",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "leafeon",
+    "DexCategory": "Verdant Pokemon",
+    "Height": {
+        "Meters": 1.0,
+        "Feet": 3.3
+    },
+    "Weight": {
+        "Kilograms": 25.5,
+        "Pounds": 56.2
+    },
+    "DexDescription": "Eevee evolves to Leafeon when it\u2019s living near a special kind of moss. Its cells are capable of performing photosynthesis. It is a calm Pokemon and does not usually fight but its leaves are sharp and strong.",
+    "Evolutions": [
+        {
+            "From": "Eevee",
+            "Kind": "Stone",
+            "Item": "Leaf Stone"
+        }
+    ],
+    "Image": "leafeon.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Tail Whip"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Helping Hand"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Sand Attack"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Razor Leaf"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Quick Attack"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Grass Whistle"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Magical Leaf"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Giga Drain"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Swords Dance"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Synthesis"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Sunny Day"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Last Resort"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Leaf Blade"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Wish"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Seed Bomb"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Flail"
+        }
+    ]
+}

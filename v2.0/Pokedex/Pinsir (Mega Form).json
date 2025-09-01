@@ -1,0 +1,123 @@
+{
+    "Number": 127,
+    "DexID": "0127M1",
+    "Name": "Pinsir (Mega Form)",
+    "Type1": "Bug",
+    "Type2": "Flying",
+    "BaseHP": 5,
+    "Strength": 4,
+    "MaxStrength": 8,
+    "Dexterity": 3,
+    "MaxDexterity": 6,
+    "Vitality": 3,
+    "MaxVitality": 7,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Aerilate",
+    "Ability2": "",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Ace",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "pinsir-mega-form",
+    "DexCategory": "Stagbeetle Pokemon",
+    "Height": {
+        "Meters": 1.7,
+        "Feet": 5.6
+    },
+    "Weight": {
+        "Kilograms": 59.0,
+        "Pounds": 130.1
+    },
+    "DexDescription": "With the power of the Mega Stone it develops wings and inhuman strength. It can lift foes heavier than itself and still fly with ease. Its mind is in a constant state of excitement and it cannot stay still.",
+    "Evolutions": [
+        {
+            "From": "Pinsir",
+            "Kind": "Mega",
+            "Item": "Pinsirite"
+        }
+    ],
+    "Image": "pinsir-mega-form.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Vice Grip"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Focus Energy"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Bind"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Seismic Toss"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Harden"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Revenge"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Brick Break"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Vital Throw"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Double Hit"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Submission"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "X-Scissor"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Storm Throw"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Thrash"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Swords Dance"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Superpower"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Guillotine"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Iron Defense"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Stealth Rock"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Feint Attack"
+        }
+    ]
+}

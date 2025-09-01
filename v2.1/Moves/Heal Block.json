@@ -1,0 +1,26 @@
+{
+    "Name": "Heal Block",
+    "Type": "Psychic",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Insight",
+    "Accuracy2": "Channel",
+    "Target": "Area",
+    "Effect": "Area Move. Those Affected can't restore HP. Duration 4 Rounds.",
+    "Description": "The user forces everyone's wounds to stay open by using its immense psychic power.",
+    "_id": "heal-block",
+    "Attributes": {
+        "Duration": 4
+    },
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Psychic",
+                "Rounds": 4,
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Support"
+}

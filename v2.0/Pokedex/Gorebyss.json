@@ -1,0 +1,119 @@
+{
+    "Number": 368,
+    "DexID": "0368",
+    "Name": "Gorebyss",
+    "Type1": "Water",
+    "Type2": "",
+    "BaseHP": 4,
+    "Strength": 2,
+    "MaxStrength": 5,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 3,
+    "MaxVitality": 6,
+    "Special": 3,
+    "MaxSpecial": 6,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Swift Swim",
+    "Ability2": "",
+    "HiddenAbility": "Hydration",
+    "EventAbilities": "",
+    "RecommendedRank": "Amateur",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "gorebyss",
+    "DexCategory": "South Sea Pokemon",
+    "Height": {
+        "Meters": 1.8,
+        "Feet": 5.9
+    },
+    "Weight": {
+        "Kilograms": 22.6,
+        "Pounds": 49.8
+    },
+    "DexDescription": "Found in the depths of the southern seas. Their body is built to withstand the sea pressure. While it appears to be beautiful and harmless, it is a cruel and deceitful creature.",
+    "Evolutions": [
+        {
+            "From": "Clamperl",
+            "Kind": "Trade",
+            "Item": "Dragon Scale"
+        }
+    ],
+    "Image": "gorebyss.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Whirlpool"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Water Sport"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Confusion"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Agility"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Draining Kiss"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Water Pulse"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Amnesia"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Aqua Ring"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Captivate"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Baton Pass"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Dive"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Psychic"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Aqua Tail"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Coil"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Hydro Pump"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Confuse Ray"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Bind"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Muddy Water"
+        }
+    ]
+}

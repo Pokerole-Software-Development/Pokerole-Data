@@ -1,0 +1,143 @@
+{
+    "Number": 477,
+    "DexID": "0477",
+    "Name": "Dusknoir",
+    "Type1": "Ghost",
+    "Type2": "",
+    "BaseHP": 4,
+    "Strength": 3,
+    "MaxStrength": 6,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 3,
+    "MaxVitality": 7,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 3,
+    "MaxInsight": 7,
+    "Ability1": "Pressure",
+    "Ability2": "",
+    "HiddenAbility": "Frisk",
+    "EventAbilities": "",
+    "RecommendedRank": "Ace",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "dusknoir",
+    "DexCategory": "Gripper Pokemon",
+    "Height": {
+        "Meters": 2.2,
+        "Feet": 7.2
+    },
+    "Weight": {
+        "Kilograms": 106.6,
+        "Pounds": 235.0
+    },
+    "DexDescription": "This feared Pokemon is said to travel to the other world. Some even believe that it takes lost spirits along with it. It uses the antenna on it\u2019s head to receive messages from the deceased.",
+    "Evolutions": [
+        {
+            "From": "Dusclops",
+            "Kind": "Trade",
+            "Item": "Reaper Cloth"
+        }
+    ],
+    "Image": "dusknoir.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Bind"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Leer"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Night Shade"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Disable"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Foresight"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Shadow Punch"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Fire Punch"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Ice Punch"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Thunder Punch"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Astonish"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Confuse Ray"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Shadow Sneak"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Pursuit"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Curse"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Will-O-Wisp"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Gravity"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Hex"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Shadow Ball"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Mean Look"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Payback"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Future Sight"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Imprison"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Ominous Wind"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Sucker Punch"
+        }
+    ]
+}

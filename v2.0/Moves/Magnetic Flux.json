@@ -1,0 +1,27 @@
+{
+    "Name": "Magnetic Flux",
+    "Type": "Electric",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Insight",
+    "Accuracy2": "Nature",
+    "Target": "User and Allies",
+    "Effect": "Increase the Defense and Sp. Defense of User and all its Electric and Steel Type Allies.",
+    "Description": "The Pokemon bends the magnetic field around itself, this also affects all allies who are sensible to it.",
+    "_id": "magnetic-flux",
+    "Attributes": {},
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "Def",
+                    "SpDef"
+                ],
+                "Stages": 1,
+                "Affects": "User"
+            }
+        ]
+    },
+    "Category": "Support"
+}

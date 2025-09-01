@@ -1,0 +1,103 @@
+{
+    "Number": 835,
+    "DexID": "0835",
+    "Name": "Yamper",
+    "Type1": "Electric",
+    "Type2": "",
+    "BaseHP": 3,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Ball Fetch",
+    "Ability2": "",
+    "HiddenAbility": "Rattled",
+    "EventAbilities": "",
+    "RecommendedRank": "Beginner",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "yamper",
+    "DexCategory": "Puppy Pokemon",
+    "Height": {
+        "Meters": 0.3,
+        "Feet": 1.0
+    },
+    "Weight": {
+        "Kilograms": 13.5,
+        "Pounds": 29.8
+    },
+    "DexDescription": "Its energy and big smile make this Pokemon very popular as a herding dog. When it runs, it generates electricity from the base of its tail. It loves to fetch balls and if you give it some treats it will love you forever.",
+    "Evolutions": [
+        {
+            "To": "Boltund",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "yamper.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Tail Whip"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Nuzzle"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Bite"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Roar"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Spark"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Charm"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Crunch"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Charge"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Wild Charge"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Play Rough"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Sand Attack"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Flame Charge"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Howl"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "Name": "Cross Chop",
+    "Type": "Fighting",
+    "Power": 4,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "High Critical. -2 Accuracy.",
+    "Description": "The user delivers a chop with its arms crossed trying to hot a weak spot.",
+    "_id": "cross-chop",
+    "Attributes": {
+        "HighCritical": true,
+        "AccuracyReduction": 2
+    },
+    "AddedEffects": {},
+    "Category": "Physical"
+}

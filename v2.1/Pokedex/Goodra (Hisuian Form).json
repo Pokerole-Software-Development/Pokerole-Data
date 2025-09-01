@@ -1,0 +1,140 @@
+{
+    "Number": 706,
+    "DexID": "0706H",
+    "Name": "Goodra (Hisuian Form)",
+    "Type1": "Dragon",
+    "Type2": "Steel",
+    "BaseHP": 5,
+    "Strength": 3,
+    "MaxStrength": 6,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 3,
+    "MaxVitality": 6,
+    "Special": 3,
+    "MaxSpecial": 6,
+    "Insight": 4,
+    "MaxInsight": 8,
+    "Ability1": "Sap Sipper",
+    "Ability2": "Overcoat",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Advanced",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "goodra-hisuian-form",
+    "DexCategory": "Shell Bunker Pokémon",
+    "Height": {
+        "Meters": 2.0,
+        "Feet": 6.6
+    },
+    "Weight": {
+        "Kilograms": 481,
+        "Pounds": 1060
+    },
+    "DexDescription": "Goodra living in the Hisui region a few centruries ago were as kind-hearted as those from today. Their hard shells were used to defend those close to them to the point of sacrificing themselves to extinction.",
+    "Evolutions": [
+        {
+            "From": "Sliggoo (Hisuian Form)",
+            "Kind": "Level",
+            "Speed": "Medium",
+            "Region": "Hisui"
+        }
+    ],
+    "Image": "goodra-hisuian-form.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Absorb"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Water Gun"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Dragon Breath"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Shelter"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Acid Armor"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Protect"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Bubble"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Dragon Pulse"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Iron Tail"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Water Pulse"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Bide"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Rain Dance"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Flail"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Flash Cannon"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Curse"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Rock Slide"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Heavy Slam"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Substitute"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Muddy Water"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Life Dew"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Steel Beam"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Draco Meteor"
+        }
+    ]
+}

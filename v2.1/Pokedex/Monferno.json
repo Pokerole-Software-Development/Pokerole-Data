@@ -1,0 +1,144 @@
+{
+    "Number": 391,
+    "DexID": "0391",
+    "Name": "Monferno",
+    "Type1": "Fire",
+    "Type2": "Fighting",
+    "BaseHP": 4,
+    "Strength": 2,
+    "MaxStrength": 5,
+    "Dexterity": 2,
+    "MaxDexterity": 5,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 2,
+    "MaxSpecial": 5,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Blaze",
+    "Ability2": "Iron Fist",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Standard",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "monferno",
+    "DexCategory": "Playful Pokémon",
+    "Height": {
+        "Meters": 0.9,
+        "Feet": 3.0
+    },
+    "Weight": {
+        "Kilograms": 22.0,
+        "Pounds": 48.5
+    },
+    "DexDescription": "It bounces off walls and ceilings to launch aerial attacks. They live in packs in distant mountains. The size of their flame and the blue pattern on their faces determine their rank. They are small but very strong.",
+    "Evolutions": [
+        {
+            "From": "Chimchar",
+            "Kind": "Level",
+            "Speed": "Medium"
+        },
+        {
+            "To": "Infernape",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "monferno.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Scratch"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Leer"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Ember"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Taunt"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Fury Swipes"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Power-Up Punch"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Mach Punch"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Flame Wheel"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Feint"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Nasty Plot"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Torment"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Facade"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Slack Off"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Fire Spin"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Acrobatics"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Swift"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Flamethrower"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Double-Edge"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Close Combat"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Flare Blitz"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Fire Punch"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Thunder Punch"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Fire Pledge"
+        }
+    ]
+}

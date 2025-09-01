@@ -1,0 +1,123 @@
+{
+    "Number": 577,
+    "DexID": "0577",
+    "Name": "Solosis",
+    "Type1": "Psychic",
+    "Type2": "",
+    "BaseHP": 3,
+    "Strength": 1,
+    "MaxStrength": 3,
+    "Dexterity": 1,
+    "MaxDexterity": 3,
+    "Vitality": 1,
+    "MaxVitality": 3,
+    "Special": 3,
+    "MaxSpecial": 6,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Overcoat",
+    "Ability2": "Magic Guard",
+    "HiddenAbility": "Regenerator",
+    "EventAbilities": "",
+    "RecommendedRank": "Beginner",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "solosis",
+    "DexCategory": "Cell Pokemon",
+    "Height": {
+        "Meters": 0.3,
+        "Feet": 1.0
+    },
+    "Weight": {
+        "Kilograms": 1.0,
+        "Pounds": 2.2
+    },
+    "DexDescription": "Because their bodies are enveloped in a special liquid, they can survive in any environment. They drive away attackers by unleashing their psychic power. They communicate with their minds.",
+    "Evolutions": [
+        {
+            "To": "Duosion",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "solosis.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Psywave"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Reflect"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Rollout"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Snatch"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Hidden Power"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Light Screen"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Charm"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Recover"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Psyshock"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Endeavor"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Psychic"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Pain Split"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Future Sight"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Skill Swap"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Heal Block"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Wonder Room"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Acid Armor"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Night Shade"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Confuse Ray"
+        }
+    ]
+}

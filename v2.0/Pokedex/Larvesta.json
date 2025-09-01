@@ -1,0 +1,107 @@
+{
+    "Number": 636,
+    "DexID": "0636",
+    "Name": "Larvesta",
+    "Type1": "Bug",
+    "Type2": "Fire",
+    "BaseHP": 3,
+    "Strength": 2,
+    "MaxStrength": 5,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Flame Body",
+    "Ability2": "",
+    "HiddenAbility": "Swarm",
+    "EventAbilities": "",
+    "RecommendedRank": "Amateur",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "larvesta",
+    "DexCategory": "Torch Pokemon",
+    "Height": {
+        "Meters": 1.1,
+        "Feet": 3.6
+    },
+    "Weight": {
+        "Kilograms": 28.8,
+        "Pounds": 63.5
+    },
+    "DexDescription": "Very Rare. The base of volcanoes is where they make their homes. They shoot fire from their horns to repel attacks from enemies. It becomes a flaming cocoon for months before it finally evolves.",
+    "Evolutions": [
+        {
+            "To": "Volcarona",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "larvesta.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Ember"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "String Shot"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Absorb"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Take Down"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Flame Charge"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Bug Bite"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Double-Edge"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Flame Wheel"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Bug Buzz"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Amnesia"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Thrash"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Flare Blitz"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Harden"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Giga Drain"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Zen Headbutt"
+        }
+    ]
+}

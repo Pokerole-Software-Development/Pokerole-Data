@@ -1,0 +1,127 @@
+{
+    "Number": 517,
+    "DexID": "0517",
+    "Name": "Munna",
+    "Type1": "Psychic",
+    "Type2": "",
+    "BaseHP": 3,
+    "Strength": 1,
+    "MaxStrength": 3,
+    "Dexterity": 1,
+    "MaxDexterity": 3,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Forewarn",
+    "Ability2": "Synchronize",
+    "HiddenAbility": "Telepathy",
+    "EventAbilities": "",
+    "RecommendedRank": "Beginner",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "munna",
+    "DexCategory": "Dream Eater Pokemon",
+    "Height": {
+        "Meters": 0.6,
+        "Feet": 2.0
+    },
+    "Weight": {
+        "Kilograms": 23.3,
+        "Pounds": 51.4
+    },
+    "DexDescription": "It lurks close to towns and eats the dreams of people and Pokemon. When it eats a pleasant dream, it expels pink-colored mist. If you forgot what you dreamed, a Munna must have eaten your dream.",
+    "Evolutions": [
+        {
+            "To": "Musharna",
+            "Kind": "Stone",
+            "Item": "Moon Stone"
+        }
+    ],
+    "Image": "munna.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Psywave"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Defense Curl"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Lucky Chant"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Yawn"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Psybeam"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Imprison"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Moonlight"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Hypnosis"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Zen Headbutt"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Calm Mind"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Nightmare"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Dream Eater"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Psychic"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Synchronoise"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Telekinesis"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Future Sight"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Stored Power"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Heal Bell"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Pain Split"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Healing Wish"
+        }
+    ]
+}

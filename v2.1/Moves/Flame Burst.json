@@ -1,0 +1,16 @@
+{
+    "Name": "Flame Burst",
+    "Type": "Fire",
+    "Power": 3,
+    "Damage1": "Special",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Channel",
+    "Target": "Foe",
+    "Effect": "Single Target. After dealing Damage, the User may roll 1 Die of Fire-Type Damage against two other Targets.",
+    "Description": "A concentrated flameball that bursts on contact with the foe, scattering smaller flames around.",
+    "_id": "flame-burst",
+    "Attributes": {},
+    "AddedEffects": {},
+    "Category": "Special"
+}

@@ -1,0 +1,123 @@
+{
+    "Number": 752,
+    "DexID": "0752",
+    "Name": "Araquanid",
+    "Type1": "Water",
+    "Type2": "Bug",
+    "BaseHP": 4,
+    "Strength": 2,
+    "MaxStrength": 5,
+    "Dexterity": 1,
+    "MaxDexterity": 3,
+    "Vitality": 3,
+    "MaxVitality": 6,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 3,
+    "MaxInsight": 7,
+    "Ability1": "Water Bubble",
+    "Ability2": "",
+    "HiddenAbility": "Water Absorb",
+    "EventAbilities": "",
+    "RecommendedRank": "Amateur",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "araquanid",
+    "DexCategory": "Water Bubble Pokemon",
+    "Height": {
+        "Meters": 1.8,
+        "Feet": 5.9
+    },
+    "Weight": {
+        "Kilograms": 82.0,
+        "Pounds": 180.8
+    },
+    "DexDescription": "It\u2019s debated whether this is a caring or cruel Pokemon. It looks around for any vulnerable or weak pokemon, tenderly carries them and deposits them into its water bubble where they end up drowning.",
+    "Evolutions": [
+        {
+            "From": "Dewpider",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "araquanid.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Water Sport"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Bubble"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Infestation"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Spider Web"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Bug Bite"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Soak"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Wide Guard"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Bubble Beam"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Bite"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Aqua Ring"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Leech Life"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Mirror Coat"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Lunge"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Crunch"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Liquidation"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Entrainment"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Power Split"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Attract"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Scald"
+        }
+    ]
+}

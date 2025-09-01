@@ -1,0 +1,131 @@
+{
+    "Number": 185,
+    "DexID": "0185",
+    "Name": "Sudowoodo",
+    "Type1": "Rock",
+    "Type2": "",
+    "BaseHP": 5,
+    "Strength": 3,
+    "MaxStrength": 6,
+    "Dexterity": 1,
+    "MaxDexterity": 3,
+    "Vitality": 3,
+    "MaxVitality": 6,
+    "Special": 1,
+    "MaxSpecial": 3,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Sturdy",
+    "Ability2": "Rock Head",
+    "HiddenAbility": "Rattled",
+    "EventAbilities": "",
+    "RecommendedRank": "Advanced",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "sudowoodo",
+    "DexCategory": "Imitation Pokémon",
+    "Height": {
+        "Meters": 1.2,
+        "Feet": 3.9
+    },
+    "Weight": {
+        "Kilograms": 38.0,
+        "Pounds": 83.8
+    },
+    "DexDescription": "Sudowoodo camouflages itself as a tree to avoid being attacked by enemies. However, because its arms remain green throughout the year, this Pokémon is easy to identify in winter. It's a little wary of humans.",
+    "Evolutions": [
+        {
+            "From": "Bonsly",
+            "Kind": "Level",
+            "Move": "Mimic"
+        }
+    ],
+    "Image": "sudowoodo.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Flail"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Rock Throw"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Low Kick"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Mimic"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Wood Hammer"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Copycat"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Slam"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Feint Attack"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Rock Tomb"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Tearful Look"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Block"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Counter"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Rock Slide"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Sucker Punch"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Double-Edge"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Stone Edge"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Hammer Arm"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Head Smash"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Fire Punch"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Stealth Rock"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Self Destruct"
+        }
+    ]
+}

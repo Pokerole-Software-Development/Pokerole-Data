@@ -1,0 +1,26 @@
+{
+    "Name": "Zen Headbutt",
+    "Type": "Psychic",
+    "Power": 3,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "Roll 3 Chance Dice to Flinch the foe. -1 Accuracy.",
+    "Description": "The user focuses its will on its head to strike with a headbutt.",
+    "_id": "zen-headbutt",
+    "Attributes": {
+        "AccuracyReduction": 1
+    },
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Flinch",
+                "Affects": "Targets",
+                "ChanceDice": 3
+            }
+        ]
+    },
+    "Category": "Physical"
+}

@@ -1,0 +1,127 @@
+{
+    "Number": 613,
+    "DexID": "0613",
+    "Name": "Cubchoo",
+    "Type1": "Ice",
+    "Type2": "",
+    "BaseHP": 3,
+    "Strength": 2,
+    "MaxStrength": 5,
+    "Dexterity": 1,
+    "MaxDexterity": 3,
+    "Vitality": 1,
+    "MaxVitality": 3,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 1,
+    "MaxInsight": 3,
+    "Ability1": "Snow Cloak",
+    "Ability2": "Rattled",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Rookie",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "cubchoo",
+    "DexCategory": "Chill Pokémon",
+    "Height": {
+        "Meters": 0.5,
+        "Feet": 1.6
+    },
+    "Weight": {
+        "Kilograms": 8.5,
+        "Pounds": 18.7
+    },
+    "DexDescription": "They are hatched by the end of winter and stay with their mothers for a couple of seasons. Their running nose is used to practice their ice powers. In fact, when they get sick, their nose is completely dry.",
+    "Evolutions": [
+        {
+            "To": "Beartic",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "cubchoo.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Powder Snow"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Growl"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Bide"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Endure"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Fury Swipes"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Icy Wind"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Play Nice"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Brine"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Frost Breath"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Slash"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Flail"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Charm"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Hail"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Thrash"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Rest"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Blizzard"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Sheer Cold"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Play Rough"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Ice Punch"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Yawn"
+        }
+    ]
+}

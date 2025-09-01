@@ -1,0 +1,16 @@
+{
+    "Name": "Camouflage",
+    "Type": "Normal",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Special",
+    "Accuracy2": "Nature",
+    "Target": "User",
+    "Effect": "For the rest of the scene the User changes type to one that fits the terrain it is in (i.e. Usar is in a rocky cave, becoming rock type)",
+    "Description": "The user mimics the environment, it becomes one with the surroundings.",
+    "_id": "camouflage",
+    "Attributes": {},
+    "AddedEffects": {},
+    "Category": "Support"
+}

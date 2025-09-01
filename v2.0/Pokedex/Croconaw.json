@@ -1,0 +1,128 @@
+{
+    "Number": 159,
+    "DexID": "0159",
+    "Name": "Croconaw",
+    "Type1": "Water",
+    "Type2": "",
+    "BaseHP": 4,
+    "Strength": 2,
+    "MaxStrength": 5,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Torrent",
+    "Ability2": "",
+    "HiddenAbility": "Sheer Force",
+    "EventAbilities": "",
+    "RecommendedRank": "Amateur",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "croconaw",
+    "DexCategory": "Big Jaw Pokemon",
+    "Height": {
+        "Meters": 1.1,
+        "Feet": 3.6
+    },
+    "Weight": {
+        "Kilograms": 25.0,
+        "Pounds": 55.1
+    },
+    "DexDescription": "This Pokemon is really tenacious. Once it bites something it won\u2019t let go until it tears it down - even if its trainer is ordering to let go. If it loses any of it\u2019s fangs, they\u2019ll regrow in a few days. It\u2019s a very wild Pokemon.",
+    "Evolutions": [
+        {
+            "From": "Totodile",
+            "Kind": "Level",
+            "Speed": "Medium"
+        },
+        {
+            "To": "Feraligatr",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "croconaw.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Scratch"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Leer"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Water Gun"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Rage"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Bite"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Scary Face"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Ice Fang"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Flail"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Crunch"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Chip Away"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Slash"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Screech"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Aqua Tail"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Thrash"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Superpower"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Hydro Pump"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Aqua Jet"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Fake Tears"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Water Pledge"
+        }
+    ]
+}

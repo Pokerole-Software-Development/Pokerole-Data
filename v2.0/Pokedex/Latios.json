@@ -1,0 +1,135 @@
+{
+    "Number": 381,
+    "DexID": "0381",
+    "Name": "Latios",
+    "Type1": "Dragon",
+    "Type2": "Psychic",
+    "BaseHP": 4,
+    "Strength": 5,
+    "MaxStrength": 5,
+    "Dexterity": 6,
+    "MaxDexterity": 6,
+    "Vitality": 5,
+    "MaxVitality": 5,
+    "Special": 7,
+    "MaxSpecial": 7,
+    "Insight": 6,
+    "MaxInsight": 6,
+    "Ability1": "Levitate",
+    "Ability2": "",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Master",
+    "GenderType": "M",
+    "Legendary": true,
+    "GoodStarter": false,
+    "_id": "latios",
+    "DexCategory": "No Data",
+    "Height": {
+        "Meters": 2.0,
+        "Feet": 6.6
+    },
+    "Weight": {
+        "Kilograms": 60.0,
+        "Pounds": 132.3
+    },
+    "DexDescription": "The legend tells about two Pokemon that could take human shapes, use psychic powers and become invisible. They were raised by an old couple as their own children. The boy was the oldest and wore a blue shirt.",
+    "Evolutions": [
+        {
+            "To": "Latios (Mega Form)",
+            "Kind": "Mega",
+            "Item": "Latiasite"
+        }
+    ],
+    "Image": "latios.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Helping Hand"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Safeguard"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Psywave"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Heal Block"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Protect"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Dragon Dance"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Stored Power"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Refresh"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Heal Pulse"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Dragon Breath"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Luster Purge"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Psycho Shift"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Recover"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Telekinesis"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Zen Headbutt"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Power Split"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Psychic"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Dragon Pulse"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Memento"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Camouflage"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Transform"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Role Play"
+        }
+    ]
+}

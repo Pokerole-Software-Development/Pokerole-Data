@@ -1,0 +1,120 @@
+{
+    "Number": 372,
+    "DexID": "0372",
+    "Name": "Shelgon",
+    "Type1": "Dragon",
+    "Type2": "",
+    "BaseHP": 4,
+    "Strength": 3,
+    "MaxStrength": 6,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 3,
+    "MaxVitality": 6,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Rock Head",
+    "Ability2": "",
+    "HiddenAbility": "Overcoat",
+    "EventAbilities": "",
+    "RecommendedRank": "Amateur",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "shelgon",
+    "DexCategory": "Endurance Pokemon",
+    "Height": {
+        "Meters": 1.1,
+        "Feet": 3.6
+    },
+    "Weight": {
+        "Kilograms": 110.5,
+        "Pounds": 243.6
+    },
+    "DexDescription": "The body is covered in a powerful armor that resembles bones. It hides in caves awaiting evolution, enduring hunger and harm while its cells prepare for its final transformation.",
+    "Evolutions": [
+        {
+            "From": "Bagon",
+            "Kind": "Level",
+            "Speed": "Slow"
+        },
+        {
+            "To": "Salamence",
+            "Kind": "Level",
+            "Speed": "Slow"
+        }
+    ],
+    "Image": "shelgon.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Rage"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Bite"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Leer"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Ember"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Focus Energy"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Headbutt"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Protect"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Dragon Breath"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Zen Headbutt"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Scary Face"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Crunch"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Dragon Claw"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Flamethrower"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Double-Edge"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Hydro Pump"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Dragon Pulse"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Iron Defense"
+        }
+    ]
+}

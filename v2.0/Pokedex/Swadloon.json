@@ -1,0 +1,89 @@
+{
+    "Number": 541,
+    "DexID": "0541",
+    "Name": "Swadloon",
+    "Type1": "Bug",
+    "Type2": "Grass",
+    "BaseHP": 4,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 1,
+    "MaxDexterity": 3,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Leaf Guard",
+    "Ability2": "Chlorophyll",
+    "HiddenAbility": "Overcoat",
+    "EventAbilities": "",
+    "RecommendedRank": "Beginner",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "swadloon",
+    "DexCategory": "Leaf-Wrapped Pokemon",
+    "Height": {
+        "Meters": 0.5,
+        "Feet": 1.6
+    },
+    "Weight": {
+        "Kilograms": 7.3,
+        "Pounds": 16.1
+    },
+    "DexDescription": "Preferring dark and damp places, it spends the entire day inside rotting logs. It protects itself from the cold by wrapping up in leaves. It\u2019s kind of moody and it likes to remain undisturbed.",
+    "Evolutions": [
+        {
+            "From": "Sewaddle",
+            "Kind": "Level",
+            "Speed": "Fast"
+        },
+        {
+            "To": "Leavanny",
+            "Kind": "Stat",
+            "Stat": "Happiness",
+            "Value": 4
+        }
+    ],
+    "Image": "swadloon.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "String Shot"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Razor Leaf"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Bug Bite"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Grass Whistle"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Protect"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Camouflage"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Iron Defense"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Seed Bomb"
+        }
+    ]
+}

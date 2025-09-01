@@ -1,0 +1,115 @@
+{
+    "Number": 252,
+    "DexID": "0252",
+    "Name": "Treecko",
+    "Type1": "Grass",
+    "Type2": "",
+    "BaseHP": 3,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 2,
+    "MaxDexterity": 5,
+    "Vitality": 1,
+    "MaxVitality": 3,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Overgrow",
+    "Ability2": "",
+    "HiddenAbility": "Unburden",
+    "EventAbilities": "",
+    "RecommendedRank": "Beginner",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "treecko",
+    "DexCategory": "Wood Gecko Pokemon",
+    "Height": {
+        "Meters": 0.5,
+        "Feet": 1.6
+    },
+    "Weight": {
+        "Kilograms": 5.0,
+        "Pounds": 11.0
+    },
+    "DexDescription": "They climb trees with their spiked feet. They remain cool under stress, calmed under pressure and collected when endangered. They are found protecting the trees ferociously.",
+    "Evolutions": [
+        {
+            "To": "Grovyle",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "treecko.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Leer"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Pound"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Absorb"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Quick Attack"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Pursuit"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Screech"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Mega Drain"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Agility"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Slam"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Detect"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Quick Guard"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Endeavor"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Giga Drain"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Energy Ball"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Iron Tail"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Bullet Seed"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Grass Pledge"
+        }
+    ]
+}

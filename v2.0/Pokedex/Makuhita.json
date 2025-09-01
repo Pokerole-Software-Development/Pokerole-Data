@@ -1,0 +1,127 @@
+{
+    "Number": 296,
+    "DexID": "0296",
+    "Name": "Makuhita",
+    "Type1": "Fighting",
+    "Type2": "",
+    "BaseHP": 3,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 1,
+    "MaxDexterity": 3,
+    "Vitality": 1,
+    "MaxVitality": 3,
+    "Special": 1,
+    "MaxSpecial": 3,
+    "Insight": 1,
+    "MaxInsight": 3,
+    "Ability1": "Thick Fat",
+    "Ability2": "Guts",
+    "HiddenAbility": "Sheer Force",
+    "EventAbilities": "",
+    "RecommendedRank": "Beginner",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "makuhita",
+    "DexCategory": "Guts Pokemon",
+    "Height": {
+        "Meters": 1.0,
+        "Feet": 3.3
+    },
+    "Weight": {
+        "Kilograms": 86.4,
+        "Pounds": 190.5
+    },
+    "DexDescription": "A tenacious Pokemon that will get back up no matter how many times he gets knocked down. They have a tireless spirit, and never give up hope. Makuhitas put all their hearts into everything they do.",
+    "Evolutions": [
+        {
+            "To": "Hariyama",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "makuhita.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Focus Energy"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Sand Attack"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Arm Thrust"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Vital Throw"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Fake Out"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Whirlwind"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Knock Off"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Smelling Salts"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Belly Drum"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Force Palm"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Seismic Toss"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Wake-Up Slap"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Endure"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Close Combat"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Reversal"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Heavy Slam"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Thunder Punch"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Fire Punch"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Detect"
+        }
+    ]
+}

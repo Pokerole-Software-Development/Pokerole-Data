@@ -1,0 +1,27 @@
+{
+    "Name": "Armor Cannon",
+    "Type": "Fire",
+    "Power": 5,
+    "Damage1": "Special",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Channel",
+    "Target": "Foe",
+    "Effect": "Single Target. Reduce by 1 the User's Defense and Sp. Defense.",
+    "Description": "The user shoots a mighty blast by using its own armor as blazing projectiles.",
+    "_id": "armor-cannon",
+    "Attributes": {},
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "Def",
+                    "SpDef"
+                ],
+                "Stages": -1,
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Special"
+}

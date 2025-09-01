@@ -1,0 +1,107 @@
+{
+    "Number": 459,
+    "DexID": "0459",
+    "Name": "Snover",
+    "Type1": "Grass",
+    "Type2": "Ice",
+    "BaseHP": 3,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 1,
+    "MaxDexterity": 3,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Snow Warning",
+    "Ability2": "",
+    "HiddenAbility": "Soundproof",
+    "EventAbilities": "",
+    "RecommendedRank": "Amateur",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "snover",
+    "DexCategory": "Frosted Tree Pokemon",
+    "Height": {
+        "Meters": 1.0,
+        "Feet": 3.3
+    },
+    "Weight": {
+        "Kilograms": 50.5,
+        "Pounds": 111.3
+    },
+    "DexDescription": "During cold seasons, it migrates to the mountain\u2019s lower reaches and returns to the summit in the spring. They are rarely in contact with humans but are sought for the frozen berries they grow.",
+    "Evolutions": [
+        {
+            "To": "Abomasnow",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "snover.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Powder Snow"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Leer"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Razor Leaf"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Icy Wind"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Grass Whistle"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Swagger"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Mist"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Ice Shard"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Ingrain"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Wood Hammer"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Blizzard"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Sheer Cold"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Growth"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Seed Bomb"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Water Pulse"
+        }
+    ]
+}

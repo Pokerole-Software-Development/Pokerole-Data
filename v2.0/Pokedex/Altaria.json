@@ -1,0 +1,144 @@
+{
+    "Number": 334,
+    "DexID": "0334",
+    "Name": "Altaria",
+    "Type1": "Dragon",
+    "Type2": "Flying",
+    "BaseHP": 4,
+    "Strength": 2,
+    "MaxStrength": 5,
+    "Dexterity": 2,
+    "MaxDexterity": 5,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 2,
+    "MaxSpecial": 5,
+    "Insight": 3,
+    "MaxInsight": 6,
+    "Ability1": "Natural Cure",
+    "Ability2": "",
+    "HiddenAbility": "Cloud Nine",
+    "EventAbilities": "",
+    "RecommendedRank": "Ace",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "altaria",
+    "DexCategory": "Humming Pokemon",
+    "Height": {
+        "Meters": 1.1,
+        "Feet": 3.6
+    },
+    "Weight": {
+        "Kilograms": 20.6,
+        "Pounds": 45.4
+    },
+    "DexDescription": "Seen as dancing clouds in the sky, Altarias sing melodies in their sweet voices, evoking wonder, beauty and dreams to the listeners. They live far away from people and throw colorful fireballs at uninvited guests.",
+    "Evolutions": [
+        {
+            "From": "Swablu",
+            "Kind": "Level",
+            "Speed": "Slow"
+        },
+        {
+            "To": "Altaria (Mega Form)",
+            "Kind": "Mega",
+            "Item": "Altarianite"
+        }
+    ],
+    "Image": "altaria.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Growl"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Peck"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Pluck"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Astonish"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Sing"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Fury Attack"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Safeguard"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Disarming Voice"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Mist"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Round"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Natural Gift"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Take Down"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Refresh"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Dragon Dance"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Dragon Breath"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Cotton Guard"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Dragon Pulse"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Perish Song"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Moonblast"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Sky Attack"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Power Swap"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Draco Meteor"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Dragon Rush"
+        }
+    ]
+}

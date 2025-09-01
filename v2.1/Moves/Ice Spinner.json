@@ -1,0 +1,18 @@
+{
+    "Name": "Ice Spinner",
+    "Type": "Ice",
+    "Power": 3,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Dexterity/Strength",
+    "Accuracy2": "Athletic",
+    "Target": "Foe",
+    "Effect": "Single Target. Remove any active Terrain on the Battlefield.",
+    "Description": "The user covers their feet with sharp ice blades and skates through the field making graceful spins to hit the target. The battlefield ends up cut by the blades though.",
+    "_id": "ice-spinner",
+    "Attributes": {
+        "ResetTerrain": true
+    },
+    "AddedEffects": {},
+    "Category": "Physical"
+}

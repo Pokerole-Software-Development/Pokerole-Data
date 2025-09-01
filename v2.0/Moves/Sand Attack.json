@@ -1,0 +1,26 @@
+{
+    "Name": "Sand Attack",
+    "Type": "Ground",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Channel",
+    "Target": "Foe",
+    "Effect": "Reduce the foe's Accuracy.",
+    "Description": "The user shoots some sand into the opponent's eyes.",
+    "_id": "sand-attack",
+    "Attributes": {},
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "Accuracy"
+                ],
+                "Stages": -1,
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Support"
+}

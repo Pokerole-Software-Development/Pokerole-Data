@@ -1,0 +1,115 @@
+{
+    "Number": 286,
+    "DexID": "0286",
+    "Name": "Breloom",
+    "Type1": "Grass",
+    "Type2": "Fighting",
+    "BaseHP": 4,
+    "Strength": 3,
+    "MaxStrength": 7,
+    "Dexterity": 2,
+    "MaxDexterity": 5,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Effect Spore",
+    "Ability2": "Poison Heal",
+    "HiddenAbility": "Technician",
+    "EventAbilities": "",
+    "RecommendedRank": "Amateur",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "breloom",
+    "DexCategory": "Mushroom Pokemon",
+    "Height": {
+        "Meters": 1.2,
+        "Feet": 3.9
+    },
+    "Weight": {
+        "Kilograms": 39.2,
+        "Pounds": 86.4
+    },
+    "DexDescription": "Their flexible arms and quick footwork can put good fighters to shame. The seeds on their tail and the cap on their head release poison spores. They love humid and hot climates.",
+    "Evolutions": [
+        {
+            "From": "Shroomish",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "breloom.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Absorb"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Stun Spore"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Leech Seed"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Mega Drain"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Feint"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Headbutt"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Mach Punch"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Counter"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Force Palm"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Mind Reader"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Sky Uppercut"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Seed Bomb"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Dynamic Punch"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Fury Cutter"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Thunder Punch"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Drain Punch"
+        }
+    ]
+}

@@ -1,0 +1,135 @@
+{
+    "Number": 57,
+    "DexID": "0057",
+    "Name": "Primeape",
+    "Type1": "Fighting",
+    "Type2": "",
+    "BaseHP": 4,
+    "Strength": 3,
+    "MaxStrength": 6,
+    "Dexterity": 3,
+    "MaxDexterity": 6,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Vital Spirit",
+    "Ability2": "Anger Point",
+    "HiddenAbility": "Defiant",
+    "EventAbilities": "",
+    "RecommendedRank": "Amateur",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "primeape",
+    "DexCategory": "Pig Monkey Pokemon",
+    "Height": {
+        "Meters": 1.0,
+        "Feet": 3.3
+    },
+    "Weight": {
+        "Kilograms": 32.0,
+        "Pounds": 70.5
+    },
+    "DexDescription": "It grows angry if you see its eyes and gets angrier if you run. If you fight it will go mad with rage. Not many trainers are capable of handling it, the angrier it gets the less intelligent it becomes.",
+    "Evolutions": [
+        {
+            "From": "Mankey",
+            "Kind": "Level",
+            "Speed": "Slow"
+        }
+    ],
+    "Image": "primeape.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Scratch"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Fling"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Focus Energy"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Leer"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Swagger"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Fury Swipes"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Pursuit"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Karate Chop"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Seismic Toss"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Screech"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Assurance"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Rage"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Final Gambit"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Cross Chop"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Thrash"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Stomping Tantrum"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Punishment"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Outrage"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Close Combat"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Night Slash"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Meditate"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Overheat"
+        }
+    ]
+}

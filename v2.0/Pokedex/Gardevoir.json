@@ -1,0 +1,136 @@
+{
+    "Number": 282,
+    "DexID": "0282",
+    "Name": "Gardevoir",
+    "Type1": "Psychic",
+    "Type2": "Fairy",
+    "BaseHP": 5,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 2,
+    "MaxDexterity": 5,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 3,
+    "MaxSpecial": 7,
+    "Insight": 3,
+    "MaxInsight": 6,
+    "Ability1": "Synchronize",
+    "Ability2": "Trace",
+    "HiddenAbility": "Telepathy",
+    "EventAbilities": "",
+    "RecommendedRank": "Ace",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "gardevoir",
+    "DexCategory": "Embrace Pokemon",
+    "Height": {
+        "Meters": 1.6,
+        "Feet": 5.2
+    },
+    "Weight": {
+        "Kilograms": 48.4,
+        "Pounds": 106.7
+    },
+    "DexDescription": "If they sense danger, Gardevoir unleash a wave of psychic energy. They can distort this dimension, defy the laws of matter and physics. They risk their lives to protect their fellows.",
+    "Evolutions": [
+        {
+            "From": "Kirlia",
+            "Kind": "Level",
+            "Speed": "Medium"
+        },
+        {
+            "To": "Gardevoir (Mega Form)",
+            "Kind": "Mega",
+            "Item": "Gardevoirite"
+        }
+    ],
+    "Image": "gardevoir.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Double Team"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Growl"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Confusion"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Disarming Voice"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Teleport"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Misty Terrain"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Wish"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Magical Leaf"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Heal Pulse"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Calm Mind"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Psychic"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Imprison"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Captivate"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Future Sight"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Hypnosis"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Dream Eater"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Stored Power"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Moonblast"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Grudge"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Skill Swap"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Wonder Room"
+        }
+    ]
+}

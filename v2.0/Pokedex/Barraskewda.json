@@ -1,0 +1,103 @@
+{
+    "Number": 847,
+    "DexID": "0847",
+    "Name": "Barraskewda",
+    "Type1": "Water",
+    "Type2": "",
+    "BaseHP": 4,
+    "Strength": 3,
+    "MaxStrength": 7,
+    "Dexterity": 3,
+    "MaxDexterity": 7,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Swift Swim",
+    "Ability2": "",
+    "HiddenAbility": "Propeller Tail",
+    "EventAbilities": "",
+    "RecommendedRank": "Amateur",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "barraskewda",
+    "DexCategory": "Skewer Pokemon",
+    "Height": {
+        "Meters": 1.3,
+        "Feet": 4.3
+    },
+    "Weight": {
+        "Kilograms": 30.0,
+        "Pounds": 66.1
+    },
+    "DexDescription": "This Pokemon has a jaw that\u2019s as sharp as a spear and as strong as steel. Apparently Barraskewda's flesh is surprisingly tasty, too. When they hunt, they have speed burst record of 100 knots.",
+    "Evolutions": [
+        {
+            "From": "Arrokuda",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "barraskewda.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Peck"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Aqua Jet"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Throat Chop"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Fury Attack"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Bite"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Agility"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Dive"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Laser Focus"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Crunch"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Liquidation"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Double-Edge"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Night Slash"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Poison Jab"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Giga Impact"
+        }
+    ]
+}

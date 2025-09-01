@@ -1,0 +1,143 @@
+{
+    "Number": 28,
+    "DexID": "0028A",
+    "Name": "Sandslash (Alolan Form)",
+    "Type1": "Ice",
+    "Type2": "Steel",
+    "BaseHP": 5,
+    "Strength": 3,
+    "MaxStrength": 6,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 3,
+    "MaxVitality": 7,
+    "Special": 1,
+    "MaxSpecial": 3,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Snow Cloak",
+    "Ability2": "",
+    "HiddenAbility": "Slush Rush",
+    "EventAbilities": "",
+    "RecommendedRank": "Advanced",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "sandslash-alolan-form",
+    "DexCategory": "Mouse Pokémon",
+    "Height": {
+        "Meters": 1.2,
+        "Feet": 3.9
+    },
+    "Weight": {
+        "Kilograms": 55.0,
+        "Pounds": 121.3
+    },
+    "DexDescription": "These Pokémon make their burrows in Alola's ice caverns, hidden in plain sight. Careful with its spikes; any puncture into the skin and you can get severe frostbite. They can't stand high temperatures.",
+    "Evolutions": [
+        {
+            "From": "Sandshrew (Alolan Form)",
+            "Kind": "Stone",
+            "Item": "Ice Stone"
+        }
+    ],
+    "Image": "sandslash-alolan-form.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Scratch"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Defense Curl"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Powder Snow"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Icicle Spear"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Ice Ball"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Rapid Spin"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Metal Claw"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Fury Cutter"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Metal Burst"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Fury Swipes"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Swift"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Chip Away"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Crush Claw"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Slash"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Iron Head"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Hail"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Iron Defense"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Night Slash"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Swords Dance"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Blizzard"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Gyro Ball"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Steel Roller"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Steel Beam"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Triple Axel"
+        }
+    ]
+}

@@ -1,0 +1,111 @@
+{
+    "Number": 409,
+    "DexID": "0409",
+    "Name": "Rampardos",
+    "Type1": "Rock",
+    "Type2": "",
+    "BaseHP": 4,
+    "Strength": 4,
+    "MaxStrength": 8,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Mold Breaker",
+    "Ability2": "",
+    "HiddenAbility": "Sheer Force",
+    "EventAbilities": "",
+    "RecommendedRank": "Ace",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "rampardos",
+    "DexCategory": "Head Butt Pokemon",
+    "Height": {
+        "Meters": 1.6,
+        "Feet": 5.2
+    },
+    "Weight": {
+        "Kilograms": 102.5,
+        "Pounds": 226.0
+    },
+    "DexDescription": "Its skull withstands any magnitude of impact. As a result, its brain never gets the chance to grow, this may have been the cause of its extinction. It is capable of rolling a truck over with a single strike.",
+    "Evolutions": [
+        {
+            "From": "Cranidos",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "rampardos.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Focus Energy"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Leer"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Take Down"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Pursuit"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Headbutt"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Scary Face"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Assurance"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Chip Away"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Endeavor"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Ancient Power"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Zen Headbutt"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Screech"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Head Smash"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Superpower"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Iron Head"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Outrage"
+        }
+    ]
+}

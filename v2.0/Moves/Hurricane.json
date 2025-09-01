@@ -1,0 +1,27 @@
+{
+    "Name": "Hurricane",
+    "Type": "Flying",
+    "Power": 5,
+    "Damage1": "Special",
+    "Damage2": "",
+    "Accuracy1": "Special",
+    "Accuracy2": "Channel",
+    "Target": "Foe",
+    "Effect": "Lethal. Roll 3 Chance Dice to Confuse the Foe. If Rain Weather in effect ignore this moves reduced accuracy. -2 Accuracy.",
+    "Description": "The user attacks by wrapping the opponent in a fierce wind that carries the target up into the sky.",
+    "_id": "hurricane",
+    "Attributes": {
+        "Lethal": true,
+        "AccuracyReduction": 2
+    },
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Confuse",
+                "Affects": "Targets",
+                "ChanceDice": 3
+            }
+        ]
+    },
+    "Category": "Special"
+}

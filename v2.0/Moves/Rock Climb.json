@@ -1,0 +1,26 @@
+{
+    "Name": "Rock Climb",
+    "Type": "Normal",
+    "Power": 3,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "Roll 2 Chance Dice to Confuse the foe. Outside of battle it may be used to climb with ease. -2 Accuracy.",
+    "Description": "The user climbs on top of the foe. This may be confusing for some Pokemon.",
+    "_id": "rock-climb",
+    "Attributes": {
+        "AccuracyReduction": 2
+    },
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Confuse",
+                "Affects": "Targets",
+                "ChanceDice": 2
+            }
+        ]
+    },
+    "Category": "Physical"
+}

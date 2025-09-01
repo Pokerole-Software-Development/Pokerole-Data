@@ -1,0 +1,18 @@
+{
+    "Name": "Counter",
+    "Type": "Fighting",
+    "Power": 2,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Insight",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "This Move can only deal damage if the Foe has dealt Physical Damage to the User this Round. Roll the same Damage Pool as your Foe plus 2 Extra Dice. Ignore the foe's Defenses.",
+    "Description": "The user prepares to receive damage, then returns the same damage and more.",
+    "_id": "counter",
+    "Attributes": {
+        "IgnoreDefenses": true
+    },
+    "AddedEffects": {},
+    "Category": "Physical"
+}

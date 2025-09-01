@@ -1,0 +1,18 @@
+{
+    "Name": "Leafage",
+    "Type": "Grass",
+    "Power": 2,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "Ranged.",
+    "Description": "The user throws leaf darts towards its foe.",
+    "_id": "leafage",
+    "Attributes": {
+        "PhysicalRanged": true
+    },
+    "AddedEffects": {},
+    "Category": "Physical"
+}

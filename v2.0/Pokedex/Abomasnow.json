@@ -1,0 +1,116 @@
+{
+    "Number": 460,
+    "DexID": "0460",
+    "Name": "Abomasnow",
+    "Type1": "Grass",
+    "Type2": "Ice",
+    "BaseHP": 4,
+    "Strength": 2,
+    "MaxStrength": 5,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 2,
+    "MaxSpecial": 5,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Snow Warning",
+    "Ability2": "",
+    "HiddenAbility": "Soundproof",
+    "EventAbilities": "",
+    "RecommendedRank": "Ace",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "abomasnow",
+    "DexCategory": "Frosted Tree Pokemon",
+    "Height": {
+        "Meters": 2.2,
+        "Feet": 7.2
+    },
+    "Weight": {
+        "Kilograms": 135.5,
+        "Pounds": 298.7
+    },
+    "DexDescription": "There was a legend for a long time that called this Pokemon \u201cThe Ice Monster\u201d. Now we know it is a Pokemon that can cover everything around with deep snow. It likes quiet places and only attacks if provoked.",
+    "Evolutions": [
+        {
+            "From": "Snover",
+            "Kind": "Level",
+            "Speed": "Medium"
+        },
+        {
+            "To": "Abomasnow (Mega Form)",
+            "Kind": "Mega",
+            "Item": "Abomasite"
+        }
+    ],
+    "Image": "abomasnow.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Leer"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Powder Snow"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Ice Punch"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Razor Leaf"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Icy Wind"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Grass Whistle"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Swagger"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Mist"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Ice Shard"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Ingrain"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Wood Hammer"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Blizzard"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Sheer Cold"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Growth"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Avalanche"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Outrage"
+        }
+    ]
+}

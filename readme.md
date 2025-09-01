@@ -10,24 +10,6 @@ This repo is a Source of Truth for the [Pokerole](https://www.pokeroleproject.co
 
 - [Pokerole Obsidian SRD](https://github.com/Willowlark/PokeroleObsidianSRD) A SRD of the entire Pokerole dataset available within [Obsidian](https://obsidian.md/), a markdown note application. 
 - [Pokerole Foundry Module](https://github.com/tech-ticks/foundry-pokerole) A module for the [Foundry VTT system](https://foundryvtt.com/) using the data compiled here.
-- [Pokerole Buddy](https://discord.com/channels/245675629515767809/641511676251865118/1208309716548198451) A standalone character sheet application with dozens of useful features
-
-# The Move Cards
-
-One of the files at the root of a Version folder is `move_cards.json`. This is a file compatible with the [RPG Cards](https://rpg-cards.vercel.app/) site, which is a tool used to generate spell cards and the like. You can load the file from the side bar and all moves will be populated in the tool, which you can then go through, edit, and even print. As an added benefit, you can filter the deck down to a specific Pokemon's learn set by clicking the filter option and placing the following block in the text box:
-
-```javascript
-if (card_has_tag(card, "glaceon")) {
-    return true;
-}
-else { return false;}
-```
-
-Replace `glaceon` with whichever Pokemon you'd like. The names are all lower case, but if the filtering doesn't find them manually check a move you know that mon has and look in it's tags field for the correct name. 
-
-##### Example
-
-![](https://i.imgur.com/VSfqKYt.png)
 
 ## Developer Information
 

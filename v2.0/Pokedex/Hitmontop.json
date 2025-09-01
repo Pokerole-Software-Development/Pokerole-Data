@@ -1,0 +1,124 @@
+{
+    "Number": 237,
+    "DexID": "0237",
+    "Name": "Hitmontop",
+    "Type1": "Fighting",
+    "Type2": "",
+    "BaseHP": 4,
+    "Strength": 3,
+    "MaxStrength": 6,
+    "Dexterity": 2,
+    "MaxDexterity": 5,
+    "Vitality": 3,
+    "MaxVitality": 6,
+    "Special": 1,
+    "MaxSpecial": 3,
+    "Insight": 3,
+    "MaxInsight": 6,
+    "Ability1": "Intimidate",
+    "Ability2": "Technician",
+    "HiddenAbility": "Steadfast",
+    "EventAbilities": "",
+    "RecommendedRank": "Ace",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "hitmontop",
+    "DexCategory": "Handstand Pokemon",
+    "Height": {
+        "Meters": 1.4,
+        "Feet": 4.6
+    },
+    "Weight": {
+        "Kilograms": 48.0,
+        "Pounds": 105.8
+    },
+    "DexDescription": "They launch high speed kicks while spinning so fast that they get drilled into the ground. They move quicker by spinning than they do walking. They are very smart and like to perform dance-like kicks.",
+    "Evolutions": [
+        {
+            "From": "Tyrogue",
+            "Kind": "Stat",
+            "Stat": "Dexterity",
+            "Value": -1
+        }
+    ],
+    "Image": "hitmontop.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Revenge"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Rolling Kick"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Focus Energy"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Quick Attack"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Pursuit"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Triple Kick"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Rapid Spin"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Counter"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Feint"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Agility"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Gyro Ball"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Quick Guard"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Wide Guard"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Detect"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Close Combat"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Endeavor"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Mach Punch"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "High Jump Kick"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Twister"
+        }
+    ]
+}

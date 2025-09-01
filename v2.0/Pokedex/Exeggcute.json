@@ -1,0 +1,125 @@
+{
+    "Number": 102,
+    "DexID": "0102",
+    "Name": "Exeggcute",
+    "Type1": "Grass",
+    "Type2": "Psychic",
+    "BaseHP": 3,
+    "Strength": 1,
+    "MaxStrength": 3,
+    "Dexterity": 1,
+    "MaxDexterity": 3,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Chlorophyll",
+    "Ability2": "",
+    "HiddenAbility": "Harvest",
+    "EventAbilities": "",
+    "RecommendedRank": "Beginner",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "exeggcute",
+    "DexCategory": "Egg Pokemon",
+    "Height": {
+        "Meters": 0.4,
+        "Feet": 1.3
+    },
+    "Weight": {
+        "Kilograms": 2.5,
+        "Pounds": 5.5
+    },
+    "DexDescription": "Even though it appears to be eggs of some sort, it is related more to a seed. It gathers in packs of six that have a mental link with each other. Each one of them has a different personality.",
+    "Evolutions": [
+        {
+            "To": "Exeggutor",
+            "Kind": "Stone",
+            "Item": "Leaf Stone"
+        },
+        {
+            "To": "Exeggutor (Alolan Form)",
+            "Kind": "Stone",
+            "Item": "Leaf Stone",
+            "Region": "Alola"
+        }
+    ],
+    "Image": "exeggcute.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Barrage"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Uproar"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Hypnosis"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Reflect"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Leech Seed"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Bullet Seed"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Stun Spore"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Poison Powder"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Sleep Powder"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Confusion"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Worry Seed"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Natural Gift"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Solar Beam"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Extrasensory"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Bestow"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Nightmare"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Ingrain"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Curse"
+        }
+    ]
+}

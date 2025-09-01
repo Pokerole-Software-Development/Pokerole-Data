@@ -1,0 +1,123 @@
+{
+    "Number": 633,
+    "DexID": "0633",
+    "Name": "Deino",
+    "Type1": "Dark",
+    "Type2": "Dragon",
+    "BaseHP": 3,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 1,
+    "MaxDexterity": 3,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Hustle",
+    "Ability2": "",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Amateur",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "deino",
+    "DexCategory": "Irate Pokemon",
+    "Height": {
+        "Meters": 0.8,
+        "Feet": 2.6
+    },
+    "Weight": {
+        "Kilograms": 17.3,
+        "Pounds": 38.1
+    },
+    "DexDescription": "This Pokemon is blind, It bites all it finds to be aware of its surroundings. It constantly bumps into things and attacks anything close to it. Their bodies are covered in wounds and they are very aggressive.",
+    "Evolutions": [
+        {
+            "To": "Zweilous",
+            "Kind": "Level",
+            "Speed": "Slow"
+        }
+    ],
+    "Image": "deino.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Dragon Rage"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Focus Energy"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Bite"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Headbutt"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Dragon Breath"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Roar"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Crunch"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Slam"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Dragon Pulse"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Work Up"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Dragon Rush"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Body Slam"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Scary Face"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Hyper Voice"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Outrage"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Head Smash"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Thunder Fang"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Fire Fang"
+        }
+    ]
+}

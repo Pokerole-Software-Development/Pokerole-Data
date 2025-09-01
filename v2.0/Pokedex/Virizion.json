@@ -1,0 +1,109 @@
+{
+    "Number": 640,
+    "DexID": "0640",
+    "Name": "Virizion",
+    "Type1": "Grass",
+    "Type2": "Fighting",
+    "BaseHP": 4,
+    "Strength": 5,
+    "MaxStrength": 5,
+    "Dexterity": 6,
+    "MaxDexterity": 6,
+    "Vitality": 5,
+    "MaxVitality": 5,
+    "Special": 7,
+    "MaxSpecial": 7,
+    "Insight": 5,
+    "MaxInsight": 5,
+    "Ability1": "Justified",
+    "Ability2": "",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Master",
+    "GenderType": "N",
+    "Legendary": true,
+    "GoodStarter": false,
+    "_id": "virizion",
+    "DexCategory": "No Data",
+    "Height": {
+        "Meters": 2.0,
+        "Feet": 6.6
+    },
+    "Weight": {
+        "Kilograms": 200.0,
+        "Pounds": 440.9
+    },
+    "DexDescription": "An old tale in Unova mentions four Pokemon that fought against an evil army. The most beautiful of them was also the most swift and graceful in combat, it created an army of trees that won the battle.",
+    "Evolutions": [],
+    "Image": "virizion.png",
+    "Moves": [
+        {
+            "Learned": "Master",
+            "Name": "Quick Attack"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Leer"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Double Kick"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Magical Leaf"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Take Down"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Helping Hand"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Retaliate"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Giga Drain"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Sacred Sword"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Swords Dance"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Quick Guard"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Work Up"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Leaf Blade"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Close Combat"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Agility"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Charm"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Attract"
+        }
+    ]
+}

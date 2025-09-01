@@ -1,0 +1,120 @@
+{
+    "Number": 375,
+    "DexID": "0375",
+    "Name": "Metang",
+    "Type1": "Steel",
+    "Type2": "Psychic",
+    "BaseHP": 4,
+    "Strength": 2,
+    "MaxStrength": 5,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 3,
+    "MaxVitality": 6,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Clear Body",
+    "Ability2": "",
+    "HiddenAbility": "Light Metal",
+    "EventAbilities": "",
+    "RecommendedRank": "Amateur",
+    "GenderType": "N",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "metang",
+    "DexCategory": "Iron Claw Pokemon",
+    "Height": {
+        "Meters": 1.2,
+        "Feet": 3.9
+    },
+    "Weight": {
+        "Kilograms": 202.5,
+        "Pounds": 446.4
+    },
+    "DexDescription": "Its two brains are joined by a magnetic nervous system. This allows Metang to use psychokinetic powers. It is able to float and move in midair at 60 mph. To evolve further it will need more brain power.",
+    "Evolutions": [
+        {
+            "From": "Beldum",
+            "Kind": "Level",
+            "Speed": "Medium"
+        },
+        {
+            "To": "Metagross",
+            "Kind": "Level",
+            "Speed": "Slow"
+        }
+    ],
+    "Image": "metang.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Take Down"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Confusion"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Metal Claw"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Magnet Rise"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Pursuit"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Miracle Eye"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Zen Headbutt"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Bullet Punch"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Scary Face"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Agility"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Psychic"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Meteor Mash"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Iron Defense"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Hyper Beam"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Thunder Punch"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Ice Punch"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Self Destruct"
+        }
+    ]
+}

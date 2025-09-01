@@ -1,0 +1,123 @@
+{
+    "Number": 105,
+    "DexID": "0105",
+    "Name": "Marowak",
+    "Type1": "Ground",
+    "Type2": "",
+    "BaseHP": 4,
+    "Strength": 2,
+    "MaxStrength": 5,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 3,
+    "MaxVitality": 6,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Rock Head",
+    "Ability2": "Lightning Rod",
+    "HiddenAbility": "Battle Armor",
+    "EventAbilities": "",
+    "RecommendedRank": "Amateur",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "marowak",
+    "DexCategory": "Bone Keeper Pokemon",
+    "Height": {
+        "Meters": 1.0,
+        "Feet": 3.3
+    },
+    "Weight": {
+        "Kilograms": 45.0,
+        "Pounds": 99.2
+    },
+    "DexDescription": "Its rough past has hardened its heart. Now tenacious and violent, this Pokemon will use its Bone club as a weapon against foes. Marowak's den is usually full of the bones it has collected.",
+    "Evolutions": [
+        {
+            "From": "Cubone",
+            "Kind": "Level",
+            "Speed": "Slow"
+        }
+    ],
+    "Image": "marowak.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Growl"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Tail Whip"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Bone Club"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Focus Energy"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Leer"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Headbutt"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Bonemerang"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Rage"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "False Swipe"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Endeavor"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Fling"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Bone Rush"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Stomping Tantrum"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Thrash"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Double-Edge"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Retaliate"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Perish Song"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Outrage"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Detect"
+        }
+    ]
+}

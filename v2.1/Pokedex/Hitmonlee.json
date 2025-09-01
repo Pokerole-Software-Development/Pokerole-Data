@@ -1,0 +1,132 @@
+{
+    "Number": 106,
+    "DexID": "0106",
+    "Name": "Hitmonlee",
+    "Type1": "Fighting",
+    "Type2": "",
+    "BaseHP": 4,
+    "Strength": 3,
+    "MaxStrength": 7,
+    "Dexterity": 2,
+    "MaxDexterity": 5,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 1,
+    "MaxSpecial": 3,
+    "Insight": 3,
+    "MaxInsight": 6,
+    "Ability1": "Limber",
+    "Ability2": "Reckless",
+    "HiddenAbility": "Unburden",
+    "EventAbilities": "",
+    "RecommendedRank": "Expert",
+    "GenderType": "M",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "hitmonlee",
+    "DexCategory": "Kicking Pokémon",
+    "Height": {
+        "Meters": 1.5,
+        "Feet": 4.9
+    },
+    "Weight": {
+        "Kilograms": 49.8,
+        "Pounds": 109.8
+    },
+    "DexDescription": "Its legs freely stretch and contract. It bowls over foes with devastating kicks. It is very disciplined and trains every day. It is very rare in the wild, and it is mostly found in urban areas",
+    "Evolutions": [
+        {
+            "From": "Tyrogue",
+            "Kind": "Stat",
+            "Stat": "Strength",
+            "Value": -1
+        }
+    ],
+    "Image": "hitmonlee.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Double Kick"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Revenge"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Meditate"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Rolling Kick"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Jump Kick"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Brick Break"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Low Sweep"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Feint"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Focus Energy"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Mind Reader"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "High Jump Kick"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Wide Guard"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Foresight"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Endure"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Blaze Kick"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Reversal"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Mega Kick"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Close Combat"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Coaching"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Bounce"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Rapid Spin"
+        }
+    ]
+}

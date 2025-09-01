@@ -1,0 +1,131 @@
+{
+    "Number": 359,
+    "DexID": "0359",
+    "Name": "Absol",
+    "Type1": "Dark",
+    "Type2": "",
+    "BaseHP": 4,
+    "Strength": 3,
+    "MaxStrength": 7,
+    "Dexterity": 2,
+    "MaxDexterity": 5,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 2,
+    "MaxSpecial": 5,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Pressure",
+    "Ability2": "Super Luck",
+    "HiddenAbility": "Justified",
+    "EventAbilities": "",
+    "RecommendedRank": "Amateur",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "absol",
+    "DexCategory": "Disaster Pokemon",
+    "Height": {
+        "Meters": 1.2,
+        "Feet": 3.9
+    },
+    "Weight": {
+        "Kilograms": 47.0,
+        "Pounds": 103.6
+    },
+    "DexDescription": "It is said that this Pokemon can live for 100 years. It has a bad reputation: Whenever one is seen, a disaster is soon to follow - earthquakes, forest fires and tidal waves. Absols lead a lonely life.",
+    "Evolutions": [
+        {
+            "To": "Absol (Mega Form)",
+            "Kind": "Mega",
+            "Item": "Absolite"
+        }
+    ],
+    "Image": "absol.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Detect"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Taunt"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Scratch"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Quick Attack"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Leer"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Razor Wind"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Me First"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Feint"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Pursuit"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Bite"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Double Team"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Slash"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Swords Dance"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Future Sight"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Night Slash"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Psycho Cut"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Sucker Punch"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Perish Song"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Hex"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Play Rough"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Spite"
+        }
+    ]
+}

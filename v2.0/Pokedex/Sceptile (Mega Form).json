@@ -1,0 +1,127 @@
+{
+    "Number": 254,
+    "DexID": "0254M1",
+    "Name": "Sceptile (Mega Form)",
+    "Type1": "Grass",
+    "Type2": "Dragon",
+    "BaseHP": 6,
+    "Strength": 3,
+    "MaxStrength": 6,
+    "Dexterity": 4,
+    "MaxDexterity": 8,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 4,
+    "MaxSpecial": 8,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Lightning Rod",
+    "Ability2": "",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Pro",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "sceptile-mega-form",
+    "DexCategory": "Forest Pokemon",
+    "Height": {
+        "Meters": 1.9,
+        "Feet": 6.2
+    },
+    "Weight": {
+        "Kilograms": 55.2,
+        "Pounds": 121.7
+    },
+    "DexDescription": "With the power of the Mega Stone, it allows itself to grow more feral in order to gain draconian powers. Its movements are swifter than ever and when it attacks it seems like the jungle has come to life.",
+    "Evolutions": [
+        {
+            "From": "Sceptile",
+            "Kind": "Mega",
+            "Item": "Sceptilite"
+        }
+    ],
+    "Image": "sceptile-mega-form.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Pound"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Leer"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Quick Attack"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Pursuit"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Absorb"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "False Swipe"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Leaf Storm"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Mega Drain"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Night Slash"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Leaf Blade"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Screech"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Slam"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Agility"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "X-Scissor"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Detect"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Quick Guard"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Dual Chop"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Dragon Pulse"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Thunder Punch"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Frenzy Plant"
+        }
+    ]
+}

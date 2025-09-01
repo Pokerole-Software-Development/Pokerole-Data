@@ -1,0 +1,147 @@
+{
+    "Number": 384,
+    "DexID": "0384M1",
+    "Name": "Rayquaza (Mega Form)",
+    "Type1": "Dragon",
+    "Type2": "Flying",
+    "BaseHP": 11,
+    "Strength": 9,
+    "MaxStrength": 9,
+    "Dexterity": 6,
+    "MaxDexterity": 6,
+    "Vitality": 6,
+    "MaxVitality": 6,
+    "Special": 9,
+    "MaxSpecial": 9,
+    "Insight": 6,
+    "MaxInsight": 6,
+    "Ability1": "Delta Stream",
+    "Ability2": "",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Master",
+    "GenderType": "N",
+    "Legendary": true,
+    "GoodStarter": false,
+    "_id": "rayquaza-mega-form",
+    "DexCategory": "No Data",
+    "Height": {
+        "Meters": 10.8,
+        "Feet": 35.4
+    },
+    "Weight": {
+        "Kilograms": 392.0,
+        "Pounds": 864.2
+    },
+    "DexDescription": "What does the power of the Mega Stone truly entail? Is it the bond between a Trainer and their companion? Or is it all about taking a hold of a forbidden power?",
+    "Evolutions": [
+        {
+            "From": "Rayquaza",
+            "Kind": "Mega",
+            "Item": "Pokeball"
+        }
+    ],
+    "Image": "rayquaza-mega-form.png",
+    "Moves": [
+        {
+            "Learned": "Master",
+            "Name": "Twister"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Scary Face"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Ancient Power"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Crunch"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Air Slash"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Rest"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Extreme Speed"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Dragon Pulse"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Dragon Dance"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Fly"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Hyper Voice"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Outrage"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Hyper Beam"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Roar"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Dragon Ascent"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Sky Drop"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Defog"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Tailwind"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Rain Dance"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Sunny Day"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Dive"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Dig"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Draco Meteor"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Hurricane"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Cosmic Power"
+        }
+    ]
+}

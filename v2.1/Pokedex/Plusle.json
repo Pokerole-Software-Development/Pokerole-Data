@@ -1,0 +1,141 @@
+{
+    "Number": 311,
+    "DexID": "0311",
+    "Name": "Plusle",
+    "Type1": "Electric",
+    "Type2": "",
+    "BaseHP": 4,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 3,
+    "MaxDexterity": 6,
+    "Vitality": 1,
+    "MaxVitality": 3,
+    "Special": 2,
+    "MaxSpecial": 5,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Plus",
+    "Ability2": "",
+    "HiddenAbility": "Lightning Rod",
+    "EventAbilities": "",
+    "RecommendedRank": "Rookie",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "plusle",
+    "DexCategory": "Cheering Pokémon",
+    "Height": {
+        "Meters": 0.4,
+        "Feet": 1.3
+    },
+    "Weight": {
+        "Kilograms": 4.2,
+        "Pounds": 9.3
+    },
+    "DexDescription": "They are often seen cheerleading their friends. When someone they like does a great job, they shower the field with sparks, but when they lose, Plusle cries loudly. This Pokémon drains power from telephone poles.",
+    "Evolutions": [],
+    "Image": "plusle.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Nuzzle"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Growl"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Thunder Wave"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Play Nice"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Quick Attack"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Helping Hand"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Spark"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Encore"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Skill Swap"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Swift"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Electro Ball"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Copycat"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Charm"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Fake Tears"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Discharge"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Charge"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Agility"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Baton Pass"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Nasty Plot"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Entrainment"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Last Resort"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Thunder"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Reflect"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Mimic"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Wish"
+        }
+    ]
+}

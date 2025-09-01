@@ -1,0 +1,14 @@
+{
+    "Name": "Poison Barb",
+    "_id": "poison-barb",
+    "Source": "Core 2.0",
+    "PMD": false,
+    "Pocket": "HeldItems",
+    "Category": "TypeBoosting",
+    "Description": "Adds 1 damage die to Poison type moves.",
+    "OneUse": false,
+    "TrainerPrice": "",
+    "ForTypes": "Poison",
+    "Boost": "Damage",
+    "Value": 1
+}

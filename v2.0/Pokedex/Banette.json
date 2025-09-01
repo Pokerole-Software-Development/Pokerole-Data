@@ -1,0 +1,132 @@
+{
+    "Number": 354,
+    "DexID": "0354",
+    "Name": "Banette",
+    "Type1": "Ghost",
+    "Type2": "",
+    "BaseHP": 4,
+    "Strength": 3,
+    "MaxStrength": 6,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 2,
+    "MaxSpecial": 5,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Insomnia",
+    "Ability2": "Frisk",
+    "HiddenAbility": "Cursed Body",
+    "EventAbilities": "",
+    "RecommendedRank": "Amateur",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "banette",
+    "DexCategory": "Marionette Pokemon",
+    "Height": {
+        "Meters": 1.1,
+        "Feet": 3.6
+    },
+    "Weight": {
+        "Kilograms": 12.5,
+        "Pounds": 27.6
+    },
+    "DexDescription": "It\u2019s body is usually a discarded doll or toy. Its spirit is made of dark feelings and is overrun by the desire of revenge towards the kid that threw the toy away. If you open its mouth, all the cursed energy will escape.",
+    "Evolutions": [
+        {
+            "From": "Shuppet",
+            "Kind": "Level",
+            "Speed": "Medium"
+        },
+        {
+            "To": "Banette (Mega Form)",
+            "Kind": "Mega",
+            "Item": "Banettite"
+        }
+    ],
+    "Image": "banette.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Knock Off"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Spite"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Night Shade"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Screech"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Curse"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Will-O-Wisp"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Shadow Sneak"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Curse"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Feint Attack"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Hex"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Shadow Ball"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Snatch"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Embargo"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Sucker Punch"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Grudge"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Trick"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Phantom Force"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Role Play"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Destiny Bond"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Icy Wind"
+        }
+    ]
+}

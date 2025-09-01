@@ -1,0 +1,117 @@
+{
+    "Number": 807,
+    "DexID": "0807",
+    "Name": "Zeraora",
+    "Type1": "Electric",
+    "Type2": "",
+    "BaseHP": 4,
+    "Strength": 6,
+    "MaxStrength": 6,
+    "Dexterity": 7,
+    "MaxDexterity": 7,
+    "Vitality": 5,
+    "MaxVitality": 5,
+    "Special": 6,
+    "MaxSpecial": 6,
+    "Insight": 5,
+    "MaxInsight": 5,
+    "Ability1": "Volt Absorb",
+    "Ability2": "",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Pro",
+    "GenderType": "N",
+    "Legendary": true,
+    "GoodStarter": false,
+    "_id": "zeraora",
+    "DexCategory": "No Data",
+    "Height": {
+        "Meters": 1.5,
+        "Feet": 4.9
+    },
+    "Weight": {
+        "Kilograms": 44.5,
+        "Pounds": 98.1
+    },
+    "DexDescription": "An unfriendly creature was spotted in Alola, witnesses mentioned it electrified its claws and tore its foes apart with them. It disappeared into the wilderness and has not been reported again.",
+    "Evolutions": [],
+    "Image": "zeraora.png",
+    "Moves": [
+        {
+            "Learned": "Master",
+            "Name": "Scratch"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Spark"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Hone Claws"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Quick Attack"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Fury Swipes"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Volt Switch"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Snarl"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Fake Out"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Charge"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Thunder Punch"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Slash"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Wild Charge"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Quick Guard"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Plasma Fists"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Close Combat"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Discharge"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Fire Punch"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Drain Punch"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Dual Chop"
+        }
+    ]
+}

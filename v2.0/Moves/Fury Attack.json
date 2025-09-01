@@ -1,0 +1,19 @@
+{
+    "Name": "Fury Attack",
+    "Type": "Normal",
+    "Power": 1,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "Successive Actions. -1 Accuracy.",
+    "Description": "The Pokemon goes at it with everything its got in a rather disordered way.",
+    "_id": "fury-attack",
+    "Attributes": {
+        "SuccessiveActions": true,
+        "AccuracyReduction": 1
+    },
+    "AddedEffects": {},
+    "Category": "Physical"
+}

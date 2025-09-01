@@ -1,0 +1,27 @@
+{
+    "Name": "Moonblast",
+    "Type": "Fairy",
+    "Power": 3,
+    "Damage1": "Special",
+    "Damage2": "",
+    "Accuracy1": "Special",
+    "Accuracy2": "Channel",
+    "Target": "Foe",
+    "Effect": "Roll 3 Chance Dice to Reduce foe's Special.",
+    "Description": "Summon power directly from the moon. The Pokemon blasts the foe with light.",
+    "_id": "moonblast",
+    "Attributes": {},
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "Special"
+                ],
+                "Stages": -1,
+                "ChanceDice": 3,
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Special"
+}

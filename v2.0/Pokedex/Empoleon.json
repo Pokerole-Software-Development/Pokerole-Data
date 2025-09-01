@@ -1,0 +1,119 @@
+{
+    "Number": 395,
+    "DexID": "0395",
+    "Name": "Empoleon",
+    "Type1": "Water",
+    "Type2": "Steel",
+    "BaseHP": 5,
+    "Strength": 2,
+    "MaxStrength": 5,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 3,
+    "MaxSpecial": 6,
+    "Insight": 3,
+    "MaxInsight": 6,
+    "Ability1": "Torrent",
+    "Ability2": "",
+    "HiddenAbility": "Defiant",
+    "EventAbilities": "",
+    "RecommendedRank": "Ace",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "empoleon",
+    "DexCategory": "Emperor Pokemon",
+    "Height": {
+        "Meters": 1.7,
+        "Feet": 5.6
+    },
+    "Weight": {
+        "Kilograms": 84.5,
+        "Pounds": 186.3
+    },
+    "DexDescription": "They are regal and arrogant. Their beaks slice apart the drifting ice while swimming as fast as a jet boat. They avoid unnecessary fights, but will crush and cleave anyone that hurts or threatens its pride.",
+    "Evolutions": [
+        {
+            "From": "Prinplup",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "empoleon.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Growl"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Bubble"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Swords Dance"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Peck"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Metal Claw"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Bubble Beam"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Swagger"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Fury Attack"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Brine"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Aqua Jet"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Whirlpool"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Mist"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Drill Peck"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Hydro Pump"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Iron Defense"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Aqua Ring"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Hydro Cannon"
+        }
+    ]
+}

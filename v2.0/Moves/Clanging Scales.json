@@ -1,0 +1,28 @@
+{
+    "Name": "Clanging Scales",
+    "Type": "Dragon",
+    "Power": 4,
+    "Damage1": "Special",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Perform",
+    "Target": "All Foes",
+    "Effect": "Sound Based. Reduce User's Defense.",
+    "Description": "The Pokemon rattles the scales of its armor creating a frightening noise in the area. Some of its scales fall of as a result, leaving some areas exposed.",
+    "_id": "clanging-scales",
+    "Attributes": {
+        "SoundBased": true
+    },
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "Def"
+                ],
+                "Stages": -1,
+                "Affects": "User"
+            }
+        ]
+    },
+    "Category": "Special"
+}

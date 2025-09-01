@@ -1,0 +1,119 @@
+{
+    "Number": 458,
+    "DexID": "0458",
+    "Name": "Mantyke",
+    "Type1": "Water",
+    "Type2": "Flying",
+    "BaseHP": 3,
+    "Strength": 1,
+    "MaxStrength": 3,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 1,
+    "MaxSpecial": 3,
+    "Insight": 3,
+    "MaxInsight": 6,
+    "Ability1": "Swift Swim",
+    "Ability2": "Water Absorb",
+    "HiddenAbility": "Water Veil",
+    "EventAbilities": "",
+    "RecommendedRank": "Beginner",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "mantyke",
+    "DexCategory": "Kite Pokemon",
+    "Height": {
+        "Meters": 1.0,
+        "Feet": 3.3
+    },
+    "Weight": {
+        "Kilograms": 65.0,
+        "Pounds": 143.3
+    },
+    "DexDescription": "When it swims close the ocean\u2019s surface people aboard ships are able to observe the pattern on its back as it is different in every region. Mantyke is an intelligent and friendly Pokemon that rarely attacks others.",
+    "Evolutions": [
+        {
+            "To": "Mantine",
+            "Kind": "Special",
+            "Special": "Hit by Remoraid"
+        }
+    ],
+    "Image": "mantyke.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Bubble"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Supersonic"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Bubble Beam"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Confuse Ray"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Wing Attack"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Headbutt"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Water Pulse"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Wide Guard"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Take Down"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Agility"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Air Slash"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Aqua Ring"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Bounce"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Hydro Pump"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Twister"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Helping Hand"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Tailwind"
+        }
+    ]
+}

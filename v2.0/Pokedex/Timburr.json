@@ -1,0 +1,123 @@
+{
+    "Number": 532,
+    "DexID": "0532",
+    "Name": "Timburr",
+    "Type1": "Fighting",
+    "Type2": "",
+    "BaseHP": 3,
+    "Strength": 2,
+    "MaxStrength": 5,
+    "Dexterity": 1,
+    "MaxDexterity": 3,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 1,
+    "MaxSpecial": 3,
+    "Insight": 1,
+    "MaxInsight": 3,
+    "Ability1": "Guts",
+    "Ability2": "Sheer Force",
+    "HiddenAbility": "Iron Fist",
+    "EventAbilities": "",
+    "RecommendedRank": "Beginner",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "timburr",
+    "DexCategory": "Muscular Pokemon",
+    "Height": {
+        "Meters": 0.6,
+        "Feet": 2.0
+    },
+    "Weight": {
+        "Kilograms": 12.5,
+        "Pounds": 27.6
+    },
+    "DexDescription": "They carry a big log as a tool and as a weapon. You may see them helping with construction work as they strive to challenge their strength. When it can swing the log without problems it is close to evolve.",
+    "Evolutions": [
+        {
+            "To": "Gurdurr",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "timburr.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Pound"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Leer"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Focus Energy"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Bide"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Low Kick"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Rock Throw"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Wake-Up Slap"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Chip Away"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Bulk Up"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Rock Slide"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Dynamic Punch"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Scary Face"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Hammer Arm"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Stone Edge"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Focus Punch"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Superpower"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Foresight"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Mach Punch"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Detect"
+        }
+    ]
+}

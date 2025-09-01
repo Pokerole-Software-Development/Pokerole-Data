@@ -1,0 +1,122 @@
+{
+    "Number": 642,
+    "DexID": "0642F1",
+    "Name": "Thundurus (Therian Form)",
+    "Type1": "Electric",
+    "Type2": "Flying",
+    "BaseHP": 4,
+    "Strength": 6,
+    "MaxStrength": 6,
+    "Dexterity": 6,
+    "MaxDexterity": 6,
+    "Vitality": 5,
+    "MaxVitality": 5,
+    "Special": 8,
+    "MaxSpecial": 8,
+    "Insight": 5,
+    "MaxInsight": 5,
+    "Ability1": "Prankster",
+    "Ability2": "",
+    "HiddenAbility": "Defiant",
+    "EventAbilities": "",
+    "RecommendedRank": "Master",
+    "GenderType": "M",
+    "Legendary": true,
+    "GoodStarter": false,
+    "_id": "thundurus-therian-form",
+    "DexCategory": "No Data",
+    "Height": {
+        "Meters": 3.0,
+        "Feet": 9.8
+    },
+    "Weight": {
+        "Kilograms": 61.0,
+        "Pounds": 134.5
+    },
+    "DexDescription": "Some Pokemon reveal their true forms after recovering power lost to them. Great forces of nature can help them recover their strength such as Tornadoes, Lightning, and even a Landslide.",
+    "Evolutions": [
+        {
+            "From": "Thundurus",
+            "Kind": "Form"
+        }
+    ],
+    "Image": "thundurus-therian-form.png",
+    "Moves": [
+        {
+            "Learned": "Master",
+            "Name": "Uproar"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Astonish"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Thunder Shock"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Swagger"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Bite"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Revenge"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Shock Wave"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Heal Block"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Agility"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Discharge"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Crunch"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Charge"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Nasty Plot"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Thunder"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Dark Pulse"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Hammer Arm"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Thrash"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Ion Deluge"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Electric Terrain"
+        }
+    ]
+}

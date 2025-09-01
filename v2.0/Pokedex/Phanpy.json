@@ -1,0 +1,111 @@
+{
+    "Number": 231,
+    "DexID": "0231",
+    "Name": "Phanpy",
+    "Type1": "Ground",
+    "Type2": "",
+    "BaseHP": 3,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 1,
+    "MaxDexterity": 3,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 1,
+    "MaxSpecial": 3,
+    "Insight": 1,
+    "MaxInsight": 3,
+    "Ability1": "Pickup",
+    "Ability2": "",
+    "HiddenAbility": "Sand Veil",
+    "EventAbilities": "",
+    "RecommendedRank": "Beginner",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "phanpy",
+    "DexCategory": "Long Nose Pokemon",
+    "Height": {
+        "Meters": 0.5,
+        "Feet": 1.6
+    },
+    "Weight": {
+        "Kilograms": 33.5,
+        "Pounds": 73.9
+    },
+    "DexDescription": "They are affectionate and playful, but their snout is so strong that they may hurt others while playing. They dig pits at the edge of rivers and mark them so everyone knows that place is taken.",
+    "Evolutions": [
+        {
+            "To": "Donphan",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "phanpy.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Defense Curl"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Growl"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Odor Sleuth"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Flail"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Take Down"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Rollout"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Natural Gift"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Slam"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Charm"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Endure"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Last Resort"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Double-Edge"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Play Rough"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Ice Shard"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Mud Slap"
+        }
+    ]
+}

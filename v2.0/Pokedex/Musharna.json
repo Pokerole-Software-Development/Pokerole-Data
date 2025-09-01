@@ -1,0 +1,79 @@
+{
+    "Number": 518,
+    "DexID": "0518",
+    "Name": "Musharna",
+    "Type1": "Psychic",
+    "Type2": "",
+    "BaseHP": 6,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 1,
+    "MaxDexterity": 3,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 3,
+    "MaxSpecial": 6,
+    "Insight": 3,
+    "MaxInsight": 6,
+    "Ability1": "Forewarn",
+    "Ability2": "Synchronize",
+    "HiddenAbility": "Telepathy",
+    "EventAbilities": "",
+    "RecommendedRank": "Amateur",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "musharna",
+    "DexCategory": "Drowsing Pokemon",
+    "Height": {
+        "Meters": 1.1,
+        "Feet": 3.6
+    },
+    "Weight": {
+        "Kilograms": 60.5,
+        "Pounds": 133.4
+    },
+    "DexDescription": "It communicates with the mist on its forehead, it can create shapes and images from dreams it has eaten. It is said that this Pokemon is a link between this world and a another one made entirely of dreams.",
+    "Evolutions": [
+        {
+            "From": "Munna",
+            "Kind": "Stone",
+            "Item": "Moon Stone"
+        }
+    ],
+    "Image": "musharna.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Psychic Terrain"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Defense Curl"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Psybeam"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Hypnosis"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Lucky Chant"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Pain Split"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Heal Bell"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Healing Wish"
+        }
+    ]
+}

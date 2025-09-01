@@ -1,0 +1,123 @@
+{
+    "Number": 617,
+    "DexID": "0617",
+    "Name": "Accelgor",
+    "Type1": "Bug",
+    "Type2": "",
+    "BaseHP": 4,
+    "Strength": 2,
+    "MaxStrength": 5,
+    "Dexterity": 4,
+    "MaxDexterity": 8,
+    "Vitality": 1,
+    "MaxVitality": 3,
+    "Special": 3,
+    "MaxSpecial": 6,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Hydration",
+    "Ability2": "Sticky Hold",
+    "HiddenAbility": "Unburden",
+    "EventAbilities": "",
+    "RecommendedRank": "Amateur",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "accelgor",
+    "DexCategory": "Shell Out Pokemon",
+    "Height": {
+        "Meters": 0.8,
+        "Feet": 2.6
+    },
+    "Weight": {
+        "Kilograms": 25.3,
+        "Pounds": 55.8
+    },
+    "DexDescription": "Having removed its heavy shell, it becomes very light and swift. When its body dries out, it weakens. To prevent dehydration, it wraps itself in many layers of a thin membrane. It is very rare to see one in the wild.",
+    "Evolutions": [
+        {
+            "From": "Shelmet",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "accelgor.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Power Swap"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Absorb"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Quick Attack"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Water Shuriken"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Double Team"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Acid Spray"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Struggle Bug"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Mega Drain"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Swift"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Me First"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Agility"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "U-Turn"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Giga Drain"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Bug Buzz"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Recover"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Final Gambit"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Baton Pass"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Feint"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Pursuit"
+        }
+    ]
+}

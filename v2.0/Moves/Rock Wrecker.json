@@ -1,0 +1,21 @@
+{
+    "Name": "Rock Wrecker",
+    "Type": "Rock",
+    "Power": 6,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Strength",
+    "Accuracy2": "Channel",
+    "Target": "Foe",
+    "Effect": "Ranged. Must Recharge. Lethal. -1 Accuracy.",
+    "Description": "The user shoots a huge boulder as if it were a cannon ball that can even go through thick walls. This, however, requires a lot of energy from the user.",
+    "_id": "rock-wrecker",
+    "Attributes": {
+        "Lethal": true,
+        "PhysicalRanged": true,
+        "MustRecharge": true,
+        "AccuracyReduction": 1
+    },
+    "AddedEffects": {},
+    "Category": "Physical"
+}

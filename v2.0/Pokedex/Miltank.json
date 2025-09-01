@@ -1,0 +1,105 @@
+{
+    "Number": 241,
+    "DexID": "0241",
+    "Name": "Miltank",
+    "Type1": "Normal",
+    "Type2": "",
+    "BaseHP": 4,
+    "Strength": 2,
+    "MaxStrength": 5,
+    "Dexterity": 3,
+    "MaxDexterity": 6,
+    "Vitality": 3,
+    "MaxVitality": 6,
+    "Special": 1,
+    "MaxSpecial": 3,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Thick Fat",
+    "Ability2": "Scrappy",
+    "HiddenAbility": "Sap Sipper",
+    "EventAbilities": "",
+    "RecommendedRank": "Amateur",
+    "GenderType": "F",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "miltank",
+    "DexCategory": "Milk Cow Pokemon",
+    "Height": {
+        "Meters": 1.2,
+        "Feet": 3.9
+    },
+    "Weight": {
+        "Kilograms": 75.5,
+        "Pounds": 166.4
+    },
+    "DexDescription": "Their male counterpart is Tauros. A Miltank's milk is full of nutrients that may heal the sick and the injured, and they can produce up to 5 gallons a day. Healing serious injuries may require a lot of milk.",
+    "Evolutions": [],
+    "Image": "miltank.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Growl"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Defense Curl"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Stomp"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Milk Drink"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Bide"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Rollout"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Body Slam"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Zen Headbutt"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Captivate"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Gyro Ball"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Heal Bell"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Wake-Up Slap"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Belch"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Helping Hand"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Mega Kick"
+        }
+    ]
+}

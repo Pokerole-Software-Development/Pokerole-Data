@@ -1,0 +1,20 @@
+{
+    "Name": "Roar Of Time",
+    "Type": "Dragon",
+    "Power": 6,
+    "Damage1": "Special",
+    "Damage2": "",
+    "Accuracy1": "Special",
+    "Accuracy2": "Channel",
+    "Target": "Foe",
+    "Effect": "Lethal. If successful, the target can't have any action until next Round. -1 Accuracy.",
+    "Description": "Through a terrifying roar, Dialga bounds the forces of time on a single area, the unfortunate target will be trapped in a time warp, growing old in a matter of seconds.",
+    "_id": "roar-of-time",
+    "Attributes": {
+        "Lethal": true,
+        "MustRecharge": true,
+        "AccuracyReduction": 1
+    },
+    "AddedEffects": {},
+    "Category": "Special"
+}

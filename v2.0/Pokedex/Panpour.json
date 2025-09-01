@@ -1,0 +1,123 @@
+{
+    "Number": 515,
+    "DexID": "0515",
+    "Name": "Panpour",
+    "Type1": "Water",
+    "Type2": "",
+    "BaseHP": 3,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Gluttony",
+    "Ability2": "",
+    "HiddenAbility": "Torrent",
+    "EventAbilities": "",
+    "RecommendedRank": "Beginner",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "panpour",
+    "DexCategory": "Spray Pokemon",
+    "Height": {
+        "Meters": 0.6,
+        "Feet": 2.0
+    },
+    "Weight": {
+        "Kilograms": 13.5,
+        "Pounds": 29.8
+    },
+    "DexDescription": "It does not thrive in dry climates. It keeps itself damp by shooting the water stored in its head tuft. Its water is valued by gardeners and Grass Pokemon breeders as it makes plants grow beautiful.",
+    "Evolutions": [
+        {
+            "To": "Simipour",
+            "Kind": "Stone",
+            "Item": "Water Stone"
+        }
+    ],
+    "Image": "panpour.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Scratch"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Play Nice"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Leer"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Lick"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Water Gun"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Fury Swipes"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Water Sport"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Bite"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Scald"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Taunt"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Fling"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Acrobatics"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Brine"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Recycle"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Natural Gift"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Crunch"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Nasty Plot"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Aqua Tail"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Disarming Voice"
+        }
+    ]
+}

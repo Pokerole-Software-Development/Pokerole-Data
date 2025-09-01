@@ -1,0 +1,18 @@
+{
+    "Name": "Judgment",
+    "Type": "Normal",
+    "Power": 0,
+    "Damage1": "Special",
+    "Damage2": "",
+    "Accuracy1": "Insight",
+    "Accuracy2": "Intimidate",
+    "Target": "Foe",
+    "Effect": "Ignore Defenses. This Move is considered to be any Type the user wants. If something would prevent this Move from dealing Damage, ignore it. This Move can't be Clashed. This Move's Power and extra Added Effects are decided by the Storyteller.",
+    "Description": "Eventually, everyone gets what they deserve.",
+    "_id": "judgment",
+    "Attributes": {
+        "IgnoreDefenses": true
+    },
+    "AddedEffects": {},
+    "Category": "Special"
+}

@@ -1,0 +1,143 @@
+{
+    "Number": 862,
+    "DexID": "0862",
+    "Name": "Obstagoon",
+    "Type1": "Dark",
+    "Type2": "Normal",
+    "BaseHP": 5,
+    "Strength": 2,
+    "MaxStrength": 5,
+    "Dexterity": 3,
+    "MaxDexterity": 6,
+    "Vitality": 3,
+    "MaxVitality": 6,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Prankster",
+    "Ability2": "Frisk",
+    "HiddenAbility": "Pickpocket",
+    "EventAbilities": "",
+    "RecommendedRank": "Ace",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "obstagoon",
+    "DexCategory": "Blocking Pokemon",
+    "Height": {
+        "Meters": 1.6,
+        "Feet": 5.2
+    },
+    "Weight": {
+        "Kilograms": 46.0,
+        "Pounds": 101.4
+    },
+    "DexDescription": "Its voice has a very loud volume and it is a noisy and rude Pokemon. Obstagoon has a tendency to take on a threatening posture and shout at anyone that is in front of it. They rarely take things seriously.",
+    "Evolutions": [
+        {
+            "From": "Linoone (Galarian Form)",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "obstagoon.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Leer"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Sand Attack"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Lick"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Take Down"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Taunt"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Submission"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Snarl"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Baby-Doll Eyes"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Obstruct"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Headbutt"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Pin Missile"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Switcheroo"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Fury Swipes"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Hone Claws"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Night Slash"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Counter"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Rest"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Double-Edge"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Scary Face"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Cross Chop"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Gunk Shot"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Iron Defense"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Hyper Voice"
+        }
+    ]
+}

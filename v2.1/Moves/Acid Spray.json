@@ -1,0 +1,26 @@
+{
+    "Name": "Acid Spray",
+    "Type": "Poison",
+    "Power": 2,
+    "Damage1": "Special",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Channel",
+    "Target": "Foe",
+    "Effect": "Reduce the foe's Special by 2.",
+    "Description": "The user spits a corrosive substance, the burning sensation doesn't allow it to focus on attacking.",
+    "_id": "acid-spray",
+    "Attributes": {},
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "Special"
+                ],
+                "Stages": -2,
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Special"
+}

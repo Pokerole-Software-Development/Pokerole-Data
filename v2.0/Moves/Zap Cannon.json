@@ -1,0 +1,26 @@
+{
+    "Name": "Zap Cannon",
+    "Type": "Electric",
+    "Power": 5,
+    "Damage1": "Special",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Channel",
+    "Target": "Foe",
+    "Effect": "Lethal. Paralyze the Foe. -3 Accuracy.",
+    "Description": "The user hurls a dreadful bombardment of electric explosions. Anyone hit won't be able to move for a very long time.",
+    "_id": "zap-cannon",
+    "Attributes": {
+        "Lethal": true,
+        "AccuracyReduction": 3
+    },
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Paralyze",
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Special"
+}

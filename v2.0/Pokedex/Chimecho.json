@@ -1,0 +1,120 @@
+{
+    "Number": 358,
+    "DexID": "0358",
+    "Name": "Chimecho",
+    "Type1": "Psychic",
+    "Type2": "",
+    "BaseHP": 4,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 3,
+    "MaxSpecial": 6,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Levitate",
+    "Ability2": "",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Amateur",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "chimecho",
+    "DexCategory": "Wind Chime Pokemon",
+    "Height": {
+        "Meters": 0.6,
+        "Feet": 2.0
+    },
+    "Weight": {
+        "Kilograms": 1.0,
+        "Pounds": 2.2
+    },
+    "DexDescription": "They have seven different cries that resound with the wind. They can create ultrasonic waves when they are in danger. Using the suction cup on their head, they hang to branches on windy days.",
+    "Evolutions": [
+        {
+            "From": "Chingling",
+            "Kind": "Stat",
+            "Stat": "Happiness",
+            "Value": 4
+        }
+    ],
+    "Image": "chimecho.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Wrap"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Astonish"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Growl"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Uproar"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Confusion"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Yawn"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Take Down"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Safeguard"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Psywave"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Healing Wish"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Heal Bell"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Double-Edge"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Extrasensory"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Heal Pulse"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Synchronoise"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Recover"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Cosmic Power"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Stored Power"
+        }
+    ]
+}

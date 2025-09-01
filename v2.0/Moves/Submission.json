@@ -1,0 +1,19 @@
+{
+    "Name": "Submission",
+    "Type": "Fighting",
+    "Power": 3,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "Recoil. -2 Accuracy.",
+    "Description": "The user recklessly struggles with the foe to pin it to the ground.",
+    "_id": "submission",
+    "Attributes": {
+        "Recoil": true,
+        "AccuracyReduction": 2
+    },
+    "AddedEffects": {},
+    "Category": "Physical"
+}

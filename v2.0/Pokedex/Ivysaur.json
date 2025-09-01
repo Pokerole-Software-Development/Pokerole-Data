@@ -1,0 +1,120 @@
+{
+    "Number": 2,
+    "DexID": "0002",
+    "Name": "Ivysaur",
+    "Type1": "Grass",
+    "Type2": "Poison",
+    "BaseHP": 4,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 2,
+    "MaxSpecial": 5,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Overgrow",
+    "Ability2": "",
+    "HiddenAbility": "Chlorophyll",
+    "EventAbilities": "",
+    "RecommendedRank": "Amateur",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "ivysaur",
+    "DexCategory": "Seed Pokemon",
+    "Height": {
+        "Meters": 1.0,
+        "Feet": 3.3
+    },
+    "Weight": {
+        "Kilograms": 13.0,
+        "Pounds": 28.7
+    },
+    "DexDescription": "There is a bud on this Pokemon's back. To support its weight, Ivysaur's legs and trunk grow thick and strong. It becomes kind of a loner after evolving and may stray away from its group to take sunbaths.",
+    "Evolutions": [
+        {
+            "From": "Bulbasaur",
+            "Kind": "Level",
+            "Speed": "Medium"
+        },
+        {
+            "To": "Venusaur",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "ivysaur.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Growl"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Leech Seed"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Vine Whip"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Poison Powder"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Sleep Powder"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Take Down"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Razor Leaf"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Sweet Scent"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Growth"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Double-Edge"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Worry Seed"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Synthesis"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Solar Beam"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Grassy Terrain"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Amnesia"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Grass Pledge"
+        }
+    ]
+}

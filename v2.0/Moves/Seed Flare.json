@@ -1,0 +1,29 @@
+{
+    "Name": "Seed Flare",
+    "Type": "Grass",
+    "Power": 5,
+    "Damage1": "Special",
+    "Damage2": "",
+    "Accuracy1": "Special",
+    "Accuracy2": "Channel",
+    "Target": "Foe",
+    "Effect": "Lethal. Roll 4 Chance Dice to Reduce the foe's Sp. Defense by 2.",
+    "Description": "Shaymin releases an explosion of pollen and seeds that the foe cannot shake off, leaving it vulnerable. Over time, these seeds will grow into gigantic trees of life.",
+    "_id": "seed-flare",
+    "Attributes": {
+        "Lethal": true
+    },
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "SpDef"
+                ],
+                "Stages": -2,
+                "ChanceDice": 4,
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Special"
+}

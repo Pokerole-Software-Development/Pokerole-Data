@@ -1,0 +1,16 @@
+{
+    "Name": "Wring Out",
+    "Type": "Normal",
+    "Power": 5,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Strength",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "Remove 1 Dice from the Damage Roll for every missing HP of the Target. Up to 4 dice may be removed this way.",
+    "Description": "The Pokemon literally squeezes the life out of its target. As life is fading, squeezing will be harder.",
+    "_id": "wring-out",
+    "Attributes": {},
+    "AddedEffects": {},
+    "Category": "Physical"
+}

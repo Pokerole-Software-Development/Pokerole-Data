@@ -1,0 +1,29 @@
+{
+    "Name": "Metal Claw",
+    "Type": "Steel",
+    "Power": 2,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "Roll 1 Chance Dice to Increase the user's Strength. -1 Accuracy.",
+    "Description": "The Pokemon attacks using its sharp claws, the friction may leave them even sharper.",
+    "_id": "metal-claw",
+    "Attributes": {
+        "AccuracyReduction": 1
+    },
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "Strength"
+                ],
+                "Stages": 1,
+                "ChanceDice": 1,
+                "Affects": "User"
+            }
+        ]
+    },
+    "Category": "Physical"
+}

@@ -1,0 +1,127 @@
+{
+    "Number": 504,
+    "DexID": "0504",
+    "Name": "Patrat",
+    "Type1": "Normal",
+    "Type2": "",
+    "BaseHP": 3,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 1,
+    "MaxDexterity": 3,
+    "Vitality": 1,
+    "MaxVitality": 3,
+    "Special": 1,
+    "MaxSpecial": 3,
+    "Insight": 1,
+    "MaxInsight": 3,
+    "Ability1": "Run Away",
+    "Ability2": "Keen Eye",
+    "HiddenAbility": "Analytic",
+    "EventAbilities": "",
+    "RecommendedRank": "Beginner",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "patrat",
+    "DexCategory": "Scout Pokemon",
+    "Height": {
+        "Meters": 0.5,
+        "Feet": 1.6
+    },
+    "Weight": {
+        "Kilograms": 11.6,
+        "Pounds": 25.6
+    },
+    "DexDescription": "They live in grass fields in big groups. One of them is always looking out for predators. The group gathers food they store on their cheeks to bring it back home. They are wary and alert all the time.",
+    "Evolutions": [
+        {
+            "To": "Watchog",
+            "Kind": "Level",
+            "Speed": "Fast"
+        }
+    ],
+    "Image": "patrat.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Leer"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Bite"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Bide"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Detect"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Sand Attack"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Crunch"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Hypnosis"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Super Fang"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "After You"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Work Up"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Focus Energy"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Mean Look"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Hyper Fang"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Nasty Plot"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Baton Pass"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Slam"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Screech"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Seed Bomb"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Aqua Tail"
+        }
+    ]
+}

@@ -1,0 +1,106 @@
+{
+    "Number": 875,
+    "DexID": "0875",
+    "Name": "Eiscue",
+    "Type1": "Ice",
+    "Type2": "",
+    "BaseHP": 4,
+    "Strength": 2,
+    "MaxStrength": 5,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 3,
+    "MaxVitality": 6,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Ice Face",
+    "Ability2": "",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Amateur",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "eiscue",
+    "DexCategory": "Penguin Pokemon",
+    "Height": {
+        "Meters": 1.4,
+        "Feet": 4.6
+    },
+    "Weight": {
+        "Kilograms": 89.0,
+        "Pounds": 196.2
+    },
+    "DexDescription": "This Pokemon keeps its head cool with ice. It fishes for its food by dangling its single hair into the sea to lure in prey. When they tire of swimming they simply let their ice hear be drifted away by the sea.",
+    "Evolutions": [
+        {
+            "To": "Eiscue (No Ice Form)",
+            "Kind": "Form"
+        }
+    ],
+    "Image": "eiscue.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Mist"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Powder Snow"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Icy Wind"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Weather Ball"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Headbutt"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Amnesia"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Hail"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Freeze Dry"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Aurora Veil"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Surf"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Blizzard"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Head Smash"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Aqua Ring"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Belly Drum"
+        }
+    ]
+}

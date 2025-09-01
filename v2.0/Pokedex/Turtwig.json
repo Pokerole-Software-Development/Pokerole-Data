@@ -1,0 +1,107 @@
+{
+    "Number": 387,
+    "DexID": "0387",
+    "Name": "Turtwig",
+    "Type1": "Grass",
+    "Type2": "",
+    "BaseHP": 3,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 1,
+    "MaxDexterity": 3,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Overgrow",
+    "Ability2": "",
+    "HiddenAbility": "Shell Armor",
+    "EventAbilities": "",
+    "RecommendedRank": "Starter",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "turtwig",
+    "DexCategory": "Tiny Leaf Pokemon",
+    "Height": {
+        "Meters": 0.4,
+        "Feet": 1.3
+    },
+    "Weight": {
+        "Kilograms": 10.2,
+        "Pounds": 22.5
+    },
+    "DexDescription": "It makes its home close to lakes, although it is rare to find one. The shell on its back is made of hardened soil and should be moist for it to be healthy. It uses photosynthesis to get energy.",
+    "Evolutions": [
+        {
+            "To": "Grotle",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "turtwig.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Withdraw"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Absorb"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Razor Leaf"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Curse"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Bite"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Mega Drain"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Leech Seed"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Synthesis"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Crunch"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Giga Drain"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Leaf Storm"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Mud Slap"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Seed Bomb"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Grass Pledge"
+        }
+    ]
+}

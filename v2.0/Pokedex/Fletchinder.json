@@ -1,0 +1,124 @@
+{
+    "Number": 662,
+    "DexID": "0662",
+    "Name": "Fletchinder",
+    "Type1": "Fire",
+    "Type2": "Flying",
+    "BaseHP": 4,
+    "Strength": 2,
+    "MaxStrength": 5,
+    "Dexterity": 2,
+    "MaxDexterity": 5,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Flame Body",
+    "Ability2": "",
+    "HiddenAbility": "Gale Wings",
+    "EventAbilities": "",
+    "RecommendedRank": "Beginner",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "fletchinder",
+    "DexCategory": "Ember Pokemon",
+    "Height": {
+        "Meters": 0.7,
+        "Feet": 2.3
+    },
+    "Weight": {
+        "Kilograms": 16.0,
+        "Pounds": 35.3
+    },
+    "DexDescription": "From its beak, it expels embers to set tall grass on fire, then it pounces on the bewildered prey that pop out of the grass. Its body becomes engulfed in flames when it starts to battle. It is a fierce Pokemon.",
+    "Evolutions": [
+        {
+            "From": "Fletchling",
+            "Kind": "Level",
+            "Speed": "Medium"
+        },
+        {
+            "To": "Talonflame",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "fletchinder.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Growl"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Quick Attack"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Peck"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Agility"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Flail"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Ember"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Roost"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Razor Wind"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Natural Gift"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Flame Charge"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Acrobatics"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Me First"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Tailwind"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Steel Wing"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Snatch"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Quick Guard"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Air Cutter"
+        }
+    ]
+}

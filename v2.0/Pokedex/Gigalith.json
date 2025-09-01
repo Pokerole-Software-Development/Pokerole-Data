@@ -1,0 +1,114 @@
+{
+    "Number": 526,
+    "DexID": "0526",
+    "Name": "Gigalith",
+    "Type1": "Rock",
+    "Type2": "",
+    "BaseHP": 5,
+    "Strength": 3,
+    "MaxStrength": 7,
+    "Dexterity": 1,
+    "MaxDexterity": 3,
+    "Vitality": 3,
+    "MaxVitality": 7,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Sturdy",
+    "Ability2": "Sand Stream",
+    "HiddenAbility": "Sand Force",
+    "EventAbilities": "",
+    "RecommendedRank": "Ace",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "gigalith",
+    "DexCategory": "Compressed Pokemon",
+    "Height": {
+        "Meters": 1.7,
+        "Feet": 5.6
+    },
+    "Weight": {
+        "Kilograms": 260.0,
+        "Pounds": 573.2
+    },
+    "DexDescription": "It is a serious Pokemon that doesn\u2019t interact with others too much. It uses the sharp crystals in it\u2019s body to recharge using the sun\u2019s energy. If angered it can bury it\u2019s foe under giant rock slides or explode at will.",
+    "Evolutions": [
+        {
+            "From": "Boldore",
+            "Kind": "Trade"
+        }
+    ],
+    "Image": "gigalith.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Harden"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Sand Attack"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Headbutt"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Rock Blast"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Mud Slap"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Iron Defense"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Smack Down"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Power Gem"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Rock Slide"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Stealth Rock"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Sandstorm"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Stone Edge"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Explosion"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Heavy Slam"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Wide Guard"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Superpower"
+        }
+    ]
+}

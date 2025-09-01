@@ -1,0 +1,123 @@
+{
+    "Number": 467,
+    "DexID": "0467",
+    "Name": "Magmortar",
+    "Type1": "Fire",
+    "Type2": "",
+    "BaseHP": 5,
+    "Strength": 3,
+    "MaxStrength": 6,
+    "Dexterity": 2,
+    "MaxDexterity": 5,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 3,
+    "MaxSpecial": 7,
+    "Insight": 3,
+    "MaxInsight": 6,
+    "Ability1": "Flame Body",
+    "Ability2": "",
+    "HiddenAbility": "Vital Spirit",
+    "EventAbilities": "",
+    "RecommendedRank": "Ace",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "magmortar",
+    "DexCategory": "Blast Pokemon",
+    "Height": {
+        "Meters": 1.6,
+        "Feet": 5.2
+    },
+    "Weight": {
+        "Kilograms": 68.0,
+        "Pounds": 149.9
+    },
+    "DexDescription": "Magmortar is extremely rare, if you\u2019re lucky you can find one living directly on volcanic craters. It rises the temperature of its body at will to the point of bursting into flames. The fire it produces is almost white.",
+    "Evolutions": [
+        {
+            "From": "Magmar",
+            "Kind": "Trade",
+            "Item": "Magmarizer"
+        }
+    ],
+    "Image": "magmortar.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Leer"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Smog"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Smokescreen"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Ember"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Thunder Punch"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Feint Attack"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Fire Spin"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Clear Smog"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Flame Burst"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Confuse Ray"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Fire Punch"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Flamethrower"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Sunny Day"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Lava Plume"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Fire Blast"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Hyper Beam"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Dual Chop"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Belly Drum"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Heat Wave"
+        }
+    ]
+}

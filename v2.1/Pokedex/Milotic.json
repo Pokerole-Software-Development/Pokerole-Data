@@ -1,0 +1,136 @@
+{
+    "Number": 350,
+    "DexID": "0350",
+    "Name": "Milotic",
+    "Type1": "Water",
+    "Type2": "",
+    "BaseHP": 7,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 2,
+    "MaxDexterity": 5,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 3,
+    "MaxSpecial": 6,
+    "Insight": 3,
+    "MaxInsight": 7,
+    "Ability1": "Competitive",
+    "Ability2": "Marvel Scale",
+    "HiddenAbility": "Cute Charm",
+    "EventAbilities": "",
+    "RecommendedRank": "Expert",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "milotic",
+    "DexCategory": "Tender Pokémon",
+    "Height": {
+        "Meters": 6.2,
+        "Feet": 20.3
+    },
+    "Weight": {
+        "Kilograms": 162.0,
+        "Pounds": 357.1
+    },
+    "DexDescription": "Milotic is considered to be one of the most beautiful Pokémon in existence. It has inspired music, paintings, and statues. It has the power to calm the anger and hostility of its foes.",
+    "Evolutions": [
+        {
+            "From": "Feebas",
+            "Kind": "Stat",
+            "Stat": "Beauty",
+            "Value": 5
+        }
+    ],
+    "Image": "milotic.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Water Gun"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Wrap"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Water Sport"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Refresh"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Disarming Voice"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Twister"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Water Pulse"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Captivate"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Attract"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Aqua Ring"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Dragon Tail"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Recover"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Aqua Tail"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Safeguard"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Rain Dance"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Surf"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Life Dew"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Coil"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Hydro Pump"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Dragon Breath"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Hypnosis"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Magic Coat"
+        }
+    ]
+}

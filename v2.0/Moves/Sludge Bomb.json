@@ -1,0 +1,24 @@
+{
+    "Name": "Sludge Bomb",
+    "Type": "Poison",
+    "Power": 3,
+    "Damage1": "Special",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Channel",
+    "Target": "Foe",
+    "Effect": "Roll 3 Chance Dice to Poison the Foe.",
+    "Description": "The user hurls a ball of toxic sludge that explodes on contact and covers the target.",
+    "_id": "sludge-bomb",
+    "Attributes": {},
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Poison",
+                "Affects": "Targets",
+                "ChanceDice": 3
+            }
+        ]
+    },
+    "Category": "Special"
+}

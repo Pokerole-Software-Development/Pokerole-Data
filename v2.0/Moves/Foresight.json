@@ -1,0 +1,23 @@
+{
+    "Name": "Foresight",
+    "Type": "Normal",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Insight",
+    "Accuracy2": "Alert",
+    "Target": "Foe",
+    "Effect": "The Foe cannot evade moves performed by the user. User's Normal and Fighting Moves can affect Ghost Types and Ghost Moves can affect Normal Types.",
+    "Description": "The Pokemon uses its developed senses and mental ability to foresee the immediate future.",
+    "_id": "foresight",
+    "Attributes": {},
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "ForesightOdorSleuth",
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Support"
+}

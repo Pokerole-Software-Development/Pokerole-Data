@@ -1,0 +1,115 @@
+{
+    "Number": 457,
+    "DexID": "0457",
+    "Name": "Lumineon",
+    "Type1": "Water",
+    "Type2": "",
+    "BaseHP": 4,
+    "Strength": 2,
+    "MaxStrength": 5,
+    "Dexterity": 2,
+    "MaxDexterity": 5,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 2,
+    "MaxSpecial": 5,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Swift Swim",
+    "Ability2": "Storm Drain",
+    "HiddenAbility": "Water Veil",
+    "EventAbilities": "",
+    "RecommendedRank": "Amateur",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "lumineon",
+    "DexCategory": "Neon Pokemon",
+    "Height": {
+        "Meters": 1.2,
+        "Feet": 3.9
+    },
+    "Weight": {
+        "Kilograms": 24.0,
+        "Pounds": 52.9
+    },
+    "DexDescription": "It lives in the deep-sea bottom. It attracts prey by flashing the patterns on its tail fins. In the wild it competes against Lanturn for food. Its main predators are Tentacruel and Sharpedo.",
+    "Evolutions": [
+        {
+            "From": "Finneon",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "lumineon.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Pound"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Water Gun"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Attract"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Gust"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Rain Dance"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Water Pulse"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Captivate"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Safeguard"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Aqua Ring"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Whirlpool"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "U-Turn"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Bounce"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Silver Wind"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Soak"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Agility"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Brine"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Aurora Beam"
+        }
+    ]
+}

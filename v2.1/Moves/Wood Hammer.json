@@ -1,0 +1,18 @@
+{
+    "Name": "Wood Hammer",
+    "Type": "Grass",
+    "Power": 5,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Strength",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "Single Target. Recoil.",
+    "Description": "The Pokémon recklessly slams the foe with a part of its rugged body. The user also gets hurt in the process.",
+    "_id": "wood-hammer",
+    "Attributes": {
+        "Recoil": true
+    },
+    "AddedEffects": {},
+    "Category": "Physical"
+}

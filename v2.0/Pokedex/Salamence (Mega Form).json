@@ -1,0 +1,131 @@
+{
+    "Number": 373,
+    "DexID": "0373M1",
+    "Name": "Salamence (Mega Form)",
+    "Type1": "Dragon",
+    "Type2": "Flying",
+    "BaseHP": 6,
+    "Strength": 4,
+    "MaxStrength": 8,
+    "Dexterity": 3,
+    "MaxDexterity": 7,
+    "Vitality": 3,
+    "MaxVitality": 7,
+    "Special": 3,
+    "MaxSpecial": 7,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Aerilate",
+    "Ability2": "",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Master",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "salamence-mega-form",
+    "DexCategory": "Dragon Pokemon",
+    "Height": {
+        "Meters": 1.8,
+        "Feet": 5.9
+    },
+    "Weight": {
+        "Kilograms": 112.6,
+        "Pounds": 248.2
+    },
+    "DexDescription": "The power of the Mega Stone gives it the nickname \u201cThe blood-soaked Crescent\u201d. It is violent and very unpredictable, even turning on their own trainer. Many believe it is because its bent wings cause it pain.",
+    "Evolutions": [
+        {
+            "From": "Salamence",
+            "Kind": "Mega",
+            "Item": "Salamencite"
+        }
+    ],
+    "Image": "salamence-mega-form.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Rage"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Bite"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Leer"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Ember"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Focus Energy"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Headbutt"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Dragon Breath"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Focus Energy"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Thunder Fang"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Protect"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Scary Face"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Zen Headbutt"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Crunch"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Fly"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Dragon Claw"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Double-Edge"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Flamethrower"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Dragon Tail"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Outrage"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Dragon Dance"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Draco Meteor"
+        }
+    ]
+}

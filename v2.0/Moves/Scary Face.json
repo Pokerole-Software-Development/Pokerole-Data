@@ -1,0 +1,26 @@
+{
+    "Name": "Scary Face",
+    "Type": "Normal",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Tough",
+    "Accuracy2": "Intimidate",
+    "Target": "Foe",
+    "Effect": "Reduce the foe's Dexterity by 2.",
+    "Description": "By making a frightening face, the Pokemon makes others think twice about coming near.",
+    "_id": "scary-face",
+    "Attributes": {},
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "Dexterity"
+                ],
+                "Stages": -2,
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Support"
+}

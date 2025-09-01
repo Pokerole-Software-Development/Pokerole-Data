@@ -1,0 +1,99 @@
+{
+    "Number": 604,
+    "DexID": "0604",
+    "Name": "Eelektross",
+    "Type1": "Electric",
+    "Type2": "",
+    "BaseHP": 5,
+    "Strength": 3,
+    "MaxStrength": 6,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 3,
+    "MaxSpecial": 6,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Levitate",
+    "Ability2": "",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Amateur",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "eelektross",
+    "DexCategory": "EleFish Pokemon",
+    "Height": {
+        "Meters": 2.1,
+        "Feet": 6.9
+    },
+    "Weight": {
+        "Kilograms": 80.5,
+        "Pounds": 177.5
+    },
+    "DexDescription": "They crawl out of the water and attack anyone on shore by sucking them into their mouths, shocking them, and dragging them back into the ocean. They are aggressive and unpredictable, be very careful",
+    "Evolutions": [
+        {
+            "From": "Eelektrik",
+            "Kind": "Stone",
+            "Item": "Thunder Stone"
+        }
+    ],
+    "Image": "eelektross.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Crush Claw"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Ion Deluge"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Headbutt"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Acid"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Discharge"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Crunch"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Coil"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Gastro Acid"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Zap Cannon"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Thrash"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Super Fang"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Drain Punch"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Fire Punch"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "Name": "Mega Drain",
+    "Type": "Grass",
+    "Power": 2,
+    "Damage1": "Special",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Channel",
+    "Target": "Foe",
+    "Effect": "The user restores HP equal to half the damage dealt, rounded down.",
+    "Description": "The user absorbs a big amount of vital energy from the target.",
+    "_id": "mega-drain",
+    "Attributes": {},
+    "AddedEffects": {
+        "Heal": {
+            "Type": "Leech",
+            "Percentage": 0.5,
+            "Target": "User"
+        }
+    },
+    "Category": "Special"
+}

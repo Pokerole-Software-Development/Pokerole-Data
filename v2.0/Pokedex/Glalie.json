@@ -1,0 +1,129 @@
+{
+    "Number": 362,
+    "DexID": "0362",
+    "Name": "Glalie",
+    "Type1": "Ice",
+    "Type2": "",
+    "BaseHP": 4,
+    "Strength": 2,
+    "MaxStrength": 5,
+    "Dexterity": 2,
+    "MaxDexterity": 5,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 2,
+    "MaxSpecial": 5,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Inner Focus",
+    "Ability2": "Ice Body",
+    "HiddenAbility": "Moody",
+    "EventAbilities": "",
+    "RecommendedRank": "Amateur",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "glalie",
+    "DexCategory": "Face Pokemon",
+    "Height": {
+        "Meters": 1.5,
+        "Feet": 4.9
+    },
+    "Weight": {
+        "Kilograms": 256.5,
+        "Pounds": 565.5
+    },
+    "DexDescription": "Its body is so hard it was thought to be made of rock. They can be aggressive if provoked. When they hunt, they freeze their prey solid before eating it. They can live in warm places without trouble.",
+    "Evolutions": [
+        {
+            "From": "Snorunt",
+            "Kind": "Level",
+            "Speed": "Medium",
+            "Gender": "Male"
+        },
+        {
+            "To": "Glalie (Mega Form)",
+            "Kind": "Mega",
+            "Item": "Glalitite"
+        }
+    ],
+    "Image": "glalie.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Leer"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Powder Snow"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Bite"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Double Team"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Ice Shard"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Icy Wind"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Headbutt"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Protect"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Ice Fang"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Ice Beam"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Frost Breath"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Freeze Dry"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Hail"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Crunch"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Blizzard"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Sheer Cold"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Weather Ball"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Rollout"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Iron Head"
+        }
+    ]
+}

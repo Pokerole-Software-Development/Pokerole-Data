@@ -1,0 +1,111 @@
+{
+    "Number": 844,
+    "DexID": "0844",
+    "Name": "Sandaconda",
+    "Type1": "Ground",
+    "Type2": "",
+    "BaseHP": 6,
+    "Strength": 3,
+    "MaxStrength": 6,
+    "Dexterity": 2,
+    "MaxDexterity": 5,
+    "Vitality": 3,
+    "MaxVitality": 7,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Sand Spit",
+    "Ability2": "Shed Skin",
+    "HiddenAbility": "Sand Veil",
+    "EventAbilities": "",
+    "RecommendedRank": "Ace",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "sandaconda",
+    "DexCategory": "Sand Snake Pokemon",
+    "Height": {
+        "Meters": 3.8,
+        "Feet": 12.5
+    },
+    "Weight": {
+        "Kilograms": 65.5,
+        "Pounds": 144.4
+    },
+    "DexDescription": "It has a sack that can carry up to 220 lbs of sand, the way it coils allow it to spray the sand to its foes. If it sack ever runs out of sand it becomes limp and depressed. They are unfriendly but not really aggressive.",
+    "Evolutions": [
+        {
+            "From": "Silicobra",
+            "Kind": "Level",
+            "Speed": "Slow"
+        }
+    ],
+    "Image": "sandaconda.png",
+    "Moves": [
+        {
+            "Learned": "Beginner",
+            "Name": "Skull Bash"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Wrap"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Sand Attack"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Minimize"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Brutal Swing"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Bulldoze"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Headbutt"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Glare"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Dig"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Sandstorm"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Slam"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Coil"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Sand Tomb"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Hurricane"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Dragon Rush"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Giga Impact"
+        }
+    ]
+}

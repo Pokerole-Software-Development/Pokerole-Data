@@ -1,0 +1,128 @@
+{
+    "Number": 242,
+    "DexID": "0242",
+    "Name": "Blissey",
+    "Type1": "Normal",
+    "Type2": "",
+    "BaseHP": 12,
+    "Strength": 1,
+    "MaxStrength": 2,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 1,
+    "MaxVitality": 2,
+    "Special": 2,
+    "MaxSpecial": 5,
+    "Insight": 3,
+    "MaxInsight": 7,
+    "Ability1": "Natural Cure",
+    "Ability2": "Serene Grace",
+    "HiddenAbility": "Healer",
+    "EventAbilities": "",
+    "RecommendedRank": "Ace",
+    "GenderType": "F",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "blissey",
+    "DexCategory": "Happiness Pokemon",
+    "Height": {
+        "Meters": 1.5,
+        "Feet": 4.9
+    },
+    "Weight": {
+        "Kilograms": 46.8,
+        "Pounds": 103.2
+    },
+    "DexDescription": "Whoever takes a bite on a Blissey's egg becomes loving and caring to everyone. They are compassionate, healing anyone who\u2019s injured. Their presence makes everyone smile. An intelligent and emphatic Pokemon.",
+    "Evolutions": [
+        {
+            "From": "Chansey",
+            "Kind": "Stat",
+            "Stat": "Happiness",
+            "Value": 5
+        }
+    ],
+    "Image": "blissey.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Growl"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Pound"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Tail Whip"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Defense Curl"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Double Slap"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Refresh"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Bestow"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Soft Boiled"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Take Down"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Minimize"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Fling"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Sing"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Heal Pulse"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Double-Edge"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Egg Bomb"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Light Screen"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Healing Wish"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Seismic Toss"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Last Resort"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Metronome"
+        }
+    ]
+}

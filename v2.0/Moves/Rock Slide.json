@@ -1,0 +1,27 @@
+{
+    "Name": "Rock Slide",
+    "Type": "Rock",
+    "Power": 3,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Brawl",
+    "Target": "All Foes",
+    "Effect": "Ranged. Roll 3 Chance Dice to Flinch those affected. -1 Accuracy.",
+    "Description": "The Pokemon creates a slide of falling rocks against its foes that may leave them crushed below the rubble.",
+    "_id": "rock-slide",
+    "Attributes": {
+        "PhysicalRanged": true,
+        "AccuracyReduction": 1
+    },
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Flinch",
+                "Affects": "Targets",
+                "ChanceDice": 3
+            }
+        ]
+    },
+    "Category": "Physical"
+}

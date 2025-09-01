@@ -1,0 +1,19 @@
+{
+    "Name": "Moongeist Beam",
+    "Type": "Ghost",
+    "Power": 4,
+    "Damage1": "Special",
+    "Damage2": "",
+    "Accuracy1": "Special",
+    "Accuracy2": "Channel",
+    "Target": "Foe",
+    "Effect": "Lethal. If anything on the foe's side would prevent this move from dealing damage (Pokemon Type, Abilities, Shield Moves, Weather or Barriers) ignore it. This Move cannot be Clashed.",
+    "Description": "A cold reflection of the moon shines upon the target, it doesn't hurt physically but those who stare directly into the light simply collapse.",
+    "_id": "moongeist-beam",
+    "Attributes": {
+        "Lethal": true,
+        "IgnoreShield": true
+    },
+    "AddedEffects": {},
+    "Category": "Special"
+}

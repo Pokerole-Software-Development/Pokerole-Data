@@ -1,0 +1,36 @@
+{
+    "Name": "Dire Claw",
+    "Type": "Poison",
+    "Power": 3,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Stealth",
+    "Target": "Foe",
+    "Effect": "Single Target. High Critical. Roll 2 Chance dice to Poison the Target. Roll 2 Chance dice to Paralyze the Target. Roll 2 Chance dice to put the Target to Sleep.",
+    "Description": "To hunt, this Pokemon makes a small gash on their victim's skin, retreating afterwards. Patiently stalking their victim, waiting for the toxins infused by their claws to wear them out.",
+    "_id": "fire-fang",
+    "Attributes": {
+        "HighCritical": true
+    },
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Poison",
+                "Affects": "Targets",
+                "ChanceDice": 2
+            },
+            {
+                "Type": "Paralyze",
+                "Affects": "Targets",
+                "ChanceDice": 2
+            },
+            {
+                "Type": "Sleep",
+                "Affects": "Targets",
+                "ChanceDice": 2
+            }
+        ]
+    },
+    "Category": "Physical"
+}

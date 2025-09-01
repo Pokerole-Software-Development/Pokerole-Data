@@ -1,0 +1,18 @@
+{
+    "Name": "Baton Pass",
+    "Type": "Normal",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Special",
+    "Accuracy2": "Channel",
+    "Target": "User",
+    "Effect": "Switcher Move. User switches out with another Pokemon. Any Attribute increase on the user is passed on the next Pokemon. The user can\u2019t increase its Attributes again until the end of the scene.",
+    "Description": "The user stores part of its power on a twig or a stick, anyone who touch the item will receive its might.",
+    "_id": "baton-pass",
+    "Attributes": {
+        "SwitcherMove": true
+    },
+    "AddedEffects": {},
+    "Category": "Support"
+}

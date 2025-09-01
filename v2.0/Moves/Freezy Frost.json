@@ -1,0 +1,18 @@
+{
+    "Name": "Freezy Frost",
+    "Type": "Ice",
+    "Power": 3,
+    "Damage1": "Special",
+    "Damage2": "",
+    "Accuracy1": "Special",
+    "Accuracy2": "Channel",
+    "Target": "Foe",
+    "Effect": "If successful, remove all Increased or Reduced Attributes and Traits the Foe may have. If the user of this Move is at its Final Stage of Evolution, this move fails. -1 Accuracy.",
+    "Description": "The user touches its foe while playing \"Freeze!\". Surprisingly, the foe becomes frozen on a block of ice. Once they realize they were just playing pretend the ice dissolves into haze.",
+    "_id": "freezy-frost",
+    "Attributes": {
+        "AccuracyReduction": 1
+    },
+    "AddedEffects": {},
+    "Category": "Special"
+}

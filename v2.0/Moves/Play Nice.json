@@ -1,0 +1,26 @@
+{
+    "Name": "Play Nice",
+    "Type": "Normal",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Cute",
+    "Accuracy2": "Allure",
+    "Target": "Foe",
+    "Effect": "Reduce the foe's Strength.",
+    "Description": "The user starts playing with the foe in a friendly way. This makes the foe reconsider its aggressive demeanor.",
+    "_id": "play-nice",
+    "Attributes": {},
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "Strength"
+                ],
+                "Stages": -1,
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Support"
+}

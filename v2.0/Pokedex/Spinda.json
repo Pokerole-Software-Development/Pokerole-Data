@@ -1,0 +1,105 @@
+{
+    "Number": 327,
+    "DexID": "0327",
+    "Name": "Spinda",
+    "Type1": "Normal",
+    "Type2": "",
+    "BaseHP": 4,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Own Tempo",
+    "Ability2": "Tangled Feet",
+    "HiddenAbility": "Contrary",
+    "EventAbilities": "",
+    "RecommendedRank": "Beginner",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "spinda",
+    "DexCategory": "Spot Panda Pokemon",
+    "Height": {
+        "Meters": 1.1,
+        "Feet": 3.6
+    },
+    "Weight": {
+        "Kilograms": 5.0,
+        "Pounds": 11.0
+    },
+    "DexDescription": "Spindas move while stumbling in dizziness. This teeter dance causes a severe confusion on whoever is looking. They are shy towards humans but sometimes they appear in towns looking really disoriented.",
+    "Evolutions": [],
+    "Image": "spinda.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Uproar"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Copycat"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Feint Attack"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Psybeam"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Hypnosis"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Dizzy Punch"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Sucker Punch"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Teeter Dance"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Psych Up"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Double-Edge"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Flail"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Thrash"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Encore"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Fake Out"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Helping Hand"
+        }
+    ]
+}

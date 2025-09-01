@@ -1,0 +1,103 @@
+{
+    "Number": 827,
+    "DexID": "0827",
+    "Name": "Nickit",
+    "Type1": "Dark",
+    "Type2": "",
+    "BaseHP": 3,
+    "Strength": 1,
+    "MaxStrength": 3,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 1,
+    "MaxVitality": 3,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Run Away",
+    "Ability2": "Unburden",
+    "HiddenAbility": "Stakeout",
+    "EventAbilities": "",
+    "RecommendedRank": "Beginner",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "nickit",
+    "DexCategory": "Fox Pokemon",
+    "Height": {
+        "Meters": 0.6,
+        "Feet": 2.0
+    },
+    "Weight": {
+        "Kilograms": 8.9,
+        "Pounds": 19.6
+    },
+    "DexDescription": "Cunning and cautious, Nickit survive by stealing food. It erases its tracks with swipes of its tail so it\u2019s very difficult to track one. They have thrived in the cities and come at night to steal from stores.",
+    "Evolutions": [
+        {
+            "To": "Thievul",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "nickit.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Quick Attack"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Tail Whip"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Beat Up"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Hone Claws"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Snarl"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Assurance"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Nasty Plot"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Sucker Punch"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Night Slash"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Tail Slap"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Foul Play"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Play Rough"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Knock Off"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Fake Tears"
+        }
+    ]
+}

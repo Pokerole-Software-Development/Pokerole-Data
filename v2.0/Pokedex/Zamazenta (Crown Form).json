@@ -1,0 +1,122 @@
+{
+    "Number": 889,
+    "DexID": "0889F1",
+    "Name": "Zamazenta (Crown Form)",
+    "Type1": "Fighting",
+    "Type2": "Steel",
+    "BaseHP": 5,
+    "Strength": 7,
+    "MaxStrength": 7,
+    "Dexterity": 7,
+    "MaxDexterity": 7,
+    "Vitality": 8,
+    "MaxVitality": 8,
+    "Special": 5,
+    "MaxSpecial": 5,
+    "Insight": 8,
+    "MaxInsight": 8,
+    "Ability1": "Dauntless Shield",
+    "Ability2": "",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Master",
+    "GenderType": "N",
+    "Legendary": true,
+    "GoodStarter": false,
+    "_id": "zamazenta-crown-form",
+    "DexCategory": "No Data",
+    "Height": {
+        "Meters": 2.9,
+        "Feet": 9.5
+    },
+    "Weight": {
+        "Kilograms": 785.0,
+        "Pounds": 1730.6
+    },
+    "DexDescription": "There is a legend about a mighty shield able to deflect any attack, it became known as the Fighting Master\u2019s Shield, not even the largest creatures could go through it.",
+    "Evolutions": [
+        {
+            "From": "Zamazenta",
+            "Kind": "Form"
+        }
+    ],
+    "Image": "zamazenta-crown-form.png",
+    "Moves": [
+        {
+            "Learned": "Master",
+            "Name": "Metal Burst"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Wide Guard"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Metal Claw"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Howl"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Quick Attack"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Bite"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Slash"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Swords Dance"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Iron Head"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Laser Focus"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Crunch"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Moonblast"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Close Combat"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Giga Impact"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Light Screen"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Reflect"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Safeguard"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Steel Beam"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Behemoth Bash"
+        }
+    ]
+}

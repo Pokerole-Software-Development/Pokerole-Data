@@ -1,0 +1,18 @@
+{
+    "Name": "Misty Terrain",
+    "Type": "Fairy",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Insight",
+    "Accuracy2": "Nature",
+    "Target": "Battlefield",
+    "Effect": "Creatures standing on the battlefield won't be affected by Status Ailments. Dragon Type attacks won't add their Power to the Damage Pool. Lasts 4 Rounds.",
+    "Description": "The user surrounds the battlefield with a mystical mist that feels protective. Mythical Pokemon find something eerie about it.",
+    "_id": "misty-terrain",
+    "Attributes": {},
+    "AddedEffects": {
+        "TerrainEffect": "MistyTerrain"
+    },
+    "Category": "Support"
+}

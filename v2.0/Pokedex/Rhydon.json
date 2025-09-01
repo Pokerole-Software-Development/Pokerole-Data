@@ -1,0 +1,128 @@
+{
+    "Number": 112,
+    "DexID": "0112",
+    "Name": "Rhydon",
+    "Type1": "Ground",
+    "Type2": "Rock",
+    "BaseHP": 5,
+    "Strength": 3,
+    "MaxStrength": 7,
+    "Dexterity": 1,
+    "MaxDexterity": 3,
+    "Vitality": 3,
+    "MaxVitality": 7,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Lightning Rod",
+    "Ability2": "Rock Head",
+    "HiddenAbility": "Reckless",
+    "EventAbilities": "",
+    "RecommendedRank": "Amateur",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "rhydon",
+    "DexCategory": "Drill Pokemon",
+    "Height": {
+        "Meters": 1.9,
+        "Feet": 6.2
+    },
+    "Weight": {
+        "Kilograms": 120.0,
+        "Pounds": 264.6
+    },
+    "DexDescription": "It has a horn that serves as a drill for destroying rocks and boulders. Rhydon occasionally goes for a swim in rivers and even magma pools. Its great resistance prevents it from taking any damage.",
+    "Evolutions": [
+        {
+            "From": "Rhyhorn",
+            "Kind": "Level",
+            "Speed": "Slow"
+        },
+        {
+            "To": "Rhyperior",
+            "Kind": "Trade",
+            "Item": "Protector"
+        }
+    ],
+    "Image": "rhydon.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Horn Attack"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Tail Whip"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Stomp"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Fury Attack"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Smack Down"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Scary Face"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Rock Blast"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Bulldoze"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Chip Away"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Take Down"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Drill Run"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Hammer Arm"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Stone Edge"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Earthquake"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Horn Drill"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Megahorn"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Dragon Rush"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Skull Bash"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Smart Strike"
+        }
+    ]
+}

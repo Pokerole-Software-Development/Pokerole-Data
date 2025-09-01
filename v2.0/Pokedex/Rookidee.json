@@ -1,0 +1,103 @@
+{
+    "Number": 821,
+    "DexID": "0821",
+    "Name": "Rookidee",
+    "Type1": "Flying",
+    "Type2": "",
+    "BaseHP": 3,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 1,
+    "MaxVitality": 3,
+    "Special": 1,
+    "MaxSpecial": 3,
+    "Insight": 1,
+    "MaxInsight": 3,
+    "Ability1": "Keen Eye",
+    "Ability2": "Unnerve",
+    "HiddenAbility": "Big Pecks",
+    "EventAbilities": "",
+    "RecommendedRank": "Beginner",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "rookidee",
+    "DexCategory": "Tiny Bird Pokemon",
+    "Height": {
+        "Meters": 0.2,
+        "Feet": 0.7
+    },
+    "Weight": {
+        "Kilograms": 1.8,
+        "Pounds": 4.0
+    },
+    "DexDescription": "Feisty little creatures, Rookidee are know for challenging foes much larger than themselves, and even if they are defeated they don\u2019t give up and try again later. They use their small size as an advantage.",
+    "Evolutions": [
+        {
+            "To": "Corvisquire",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "rookidee.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Peck"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Leer"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Power Trip"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Hone Claws"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Fury Attack"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Pluck"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Taunt"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Scary Face"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Drill Peck"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Swagger"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Brave Bird"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Spite"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Defog"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Sand Attack"
+        }
+    ]
+}

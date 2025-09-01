@@ -1,0 +1,16 @@
+{
+    "Name": "Pluck",
+    "Type": "Flying",
+    "Power": 2,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "If the Target is holding a Berry, the User eats it and gains its effects.",
+    "Description": "The user gives a hard peck and may get something tasty out of the foe.",
+    "_id": "pluck",
+    "Attributes": {},
+    "AddedEffects": {},
+    "Category": "Physical"
+}

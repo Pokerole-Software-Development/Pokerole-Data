@@ -1,0 +1,24 @@
+{
+    "Name": "Thunderbolt",
+    "Type": "Electric",
+    "Power": 3,
+    "Damage1": "Special",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Channel",
+    "Target": "Foe",
+    "Effect": "Roll 1 Chance Dice to Paralyze the foe.",
+    "Description": "A strong electric attack that shocks and harms the foe. It can destroy most kinds of electric equipment.",
+    "_id": "thunderbolt",
+    "Attributes": {},
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Paralyze",
+                "Affects": "Targets",
+                "ChanceDice": 1
+            }
+        ]
+    },
+    "Category": "Special"
+}

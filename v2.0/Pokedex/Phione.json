@@ -1,0 +1,101 @@
+{
+    "Number": 489,
+    "DexID": "0489",
+    "Name": "Phione",
+    "Type1": "Water",
+    "Type2": "",
+    "BaseHP": 4,
+    "Strength": 2,
+    "MaxStrength": 5,
+    "Dexterity": 2,
+    "MaxDexterity": 5,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 2,
+    "MaxSpecial": 5,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Hydration",
+    "Ability2": "",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Pro",
+    "GenderType": "N",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "phione",
+    "DexCategory": "No Data",
+    "Height": {
+        "Meters": 0.4,
+        "Feet": 1.3
+    },
+    "Weight": {
+        "Kilograms": 3.1,
+        "Pounds": 6.8
+    },
+    "DexDescription": "There have been sightings of small groups of similar Pokemon but its existence has never been confirmed. It is said to be the offspring of Manaphy.",
+    "Evolutions": [],
+    "Image": "phione.png",
+    "Moves": [
+        {
+            "Learned": "Master",
+            "Name": "Bubble"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Water Sport"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Charm"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Supersonic"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Bubble Beam"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Acid Armor"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Whirlpool"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Water Pulse"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Aqua Ring"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Dive"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Rain Dance"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Surf"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Helping Hand"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Heal Bell"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Last Resort"
+        }
+    ]
+}

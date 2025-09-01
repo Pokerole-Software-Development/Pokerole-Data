@@ -1,0 +1,132 @@
+{
+    "Number": 822,
+    "DexID": "0822",
+    "Name": "Corvisquire",
+    "Type1": "Flying",
+    "Type2": "",
+    "BaseHP": 4,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 2,
+    "MaxDexterity": 5,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 1,
+    "MaxSpecial": 3,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Keen Eye",
+    "Ability2": "Big Pecks",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Standard",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "corvisquire",
+    "DexCategory": "Raven Pokémon",
+    "Height": {
+        "Meters": 0.8,
+        "Feet": 2.6
+    },
+    "Weight": {
+        "Kilograms": 16.0,
+        "Pounds": 35.3
+    },
+    "DexDescription": "They are smart enough to use tools. In battle, these Pokémon have been seen picking up rocks and flinging them or using ropes to wrap up foes. They choose their battles carefully and do not retreat.",
+    "Evolutions": [
+        {
+            "From": "Rookidee",
+            "Kind": "Level",
+            "Speed": "Medium"
+        },
+        {
+            "To": "Corviknight",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "corvisquire.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Peck"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Leer"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Sand Attack"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Hone Claws"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Power Trip"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Spite"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Fury Attack"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Pluck"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Taunt"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Scary Face"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Fake Tears"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Defog"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Revenge"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Fly"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Drill Peck"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Swagger"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Brave Bird"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Tailwind"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Dual Wingbeat"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Roost"
+        }
+    ]
+}

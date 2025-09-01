@@ -1,0 +1,151 @@
+{
+    "Number": 681,
+    "DexID": "0681",
+    "Name": "Aegislash",
+    "Type1": "Steel",
+    "Type2": "Ghost",
+    "BaseHP": 5,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 4,
+    "MaxVitality": 8,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 4,
+    "MaxInsight": 8,
+    "Ability1": "Stance Change",
+    "Ability2": "",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Expert",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "aegislash",
+    "DexCategory": "Royal Sword Pokémon",
+    "Height": {
+        "Meters": 1.7,
+        "Feet": 5.6
+    },
+    "Weight": {
+        "Kilograms": 53.0,
+        "Pounds": 116.8
+    },
+    "DexDescription": "A legend tells of how this Pokémon lead the first King of Kalos to victory. While it blocks any damage to the flesh of its wielder, their soul is not so lucky. While in this form it can only use Support Moves & Maneuvers.",
+    "Evolutions": [
+        {
+            "From": "Doublade",
+            "Kind": "Stone",
+            "Item": "Dusk Stone"
+        },
+        {
+            "To": "Aegislash (Blade Form)",
+            "Kind": "Form"
+        }
+    ],
+    "Image": "aegislash.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Cut"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Fury Cutter"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Shadow Sneak"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Autotomize"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Aerial Ace"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Pursuit"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "False Swipe"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Swagger"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Metal Sound"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Slash"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Night Slash"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Retaliate"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Iron Defense"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Iron Head"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Power Trick"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Shadow Claw"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Shadow Ball"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Swords Dance"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Solar Blade"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Head Smash"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Sacred Sword"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "King's Shield"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Brutal Swing"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Magnet Rise"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Psycho Cut"
+        }
+    ]
+}

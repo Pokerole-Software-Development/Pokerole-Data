@@ -1,0 +1,123 @@
+{
+    "Number": 49,
+    "DexID": "0049",
+    "Name": "Venomoth",
+    "Type1": "Bug",
+    "Type2": "Poison",
+    "BaseHP": 4,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 2,
+    "MaxSpecial": 5,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Shield Dust",
+    "Ability2": "Tinted Lens",
+    "HiddenAbility": "Wonder Skin",
+    "EventAbilities": "",
+    "RecommendedRank": "Amateur",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "venomoth",
+    "DexCategory": "Poison Moth Pokemon",
+    "Height": {
+        "Meters": 1.5,
+        "Feet": 4.9
+    },
+    "Weight": {
+        "Kilograms": 12.5,
+        "Pounds": 27.6
+    },
+    "DexDescription": "They are plentiful in forests but only come out at night. They possess an incredible eyesight and are attracted to light sources. Their wings scatter a toxic powder which they use to immobilize their prey.",
+    "Evolutions": [
+        {
+            "From": "Venonat",
+            "Kind": "Level",
+            "Speed": "Slow"
+        }
+    ],
+    "Image": "venomoth.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Foresight"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Disable"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Confusion"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Supersonic"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Silver Wind"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Quiver Dance"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Poison Fang"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Poison Powder"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Leech Life"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Stun Spore"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Psybeam"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Sleep Powder"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Signal Beam"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Zen Headbutt"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Bug Buzz"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Psychic"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Giga Drain"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Morning Sun"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Defog"
+        }
+    ]
+}

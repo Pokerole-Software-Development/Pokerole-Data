@@ -1,0 +1,29 @@
+{
+    "Name": "Overheat",
+    "Type": "Fire",
+    "Power": 6,
+    "Damage1": "Special",
+    "Damage2": "",
+    "Accuracy1": "Special",
+    "Accuracy2": "Channel",
+    "Target": "Foe",
+    "Effect": "Lethal. Reduce User's Special by 2. -1 Accuracy.",
+    "Description": "A furious wave of scorching fire that will turn to ashes everything it touches, exhausting the user afterwards.",
+    "_id": "overheat",
+    "Attributes": {
+        "Lethal": true,
+        "AccuracyReduction": 1
+    },
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "Special"
+                ],
+                "Stages": -2,
+                "Affects": "User"
+            }
+        ]
+    },
+    "Category": "Special"
+}

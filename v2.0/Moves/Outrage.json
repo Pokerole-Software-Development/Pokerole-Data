@@ -1,0 +1,18 @@
+{
+    "Name": "Outrage",
+    "Type": "Dragon",
+    "Power": 5,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Strength",
+    "Accuracy2": "Brawl",
+    "Target": "Random Foe",
+    "Effect": "Rampage.",
+    "Description": "The user awakens their primal instinct as a dragon and unleashes its uncontrollable fury, destroying everything in its path. After that, the Pokemon is left disoriented and confused.",
+    "_id": "outrage",
+    "Attributes": {
+        "Rampage": true
+    },
+    "AddedEffects": {},
+    "Category": "Physical"
+}

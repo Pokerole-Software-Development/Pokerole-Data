@@ -1,0 +1,19 @@
+{
+    "Name": "Spacial Rend",
+    "Type": "Dragon",
+    "Power": 4,
+    "Damage1": "Special",
+    "Damage2": "",
+    "Accuracy1": "Special",
+    "Accuracy2": "Channel",
+    "Target": "Foe",
+    "Effect": "Lethal. High Critical.",
+    "Description": "With a flicker of its claws, Palkia defragments the space around its foe. Those who survive rarely do peserve their original shape.",
+    "_id": "spacial-rend",
+    "Attributes": {
+        "HighCritical": true,
+        "Lethal": true
+    },
+    "AddedEffects": {},
+    "Category": "Special"
+}

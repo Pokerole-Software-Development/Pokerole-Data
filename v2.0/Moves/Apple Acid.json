@@ -1,0 +1,26 @@
+{
+    "Name": "Apple Acid",
+    "Type": "Grass",
+    "Power": 3,
+    "Damage1": "Special",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Channel",
+    "Target": "Foe",
+    "Effect": "Reduce the Foe's Sp. Defense.",
+    "Description": "The Pokemon produces a sap from the tart apples it feeds on, if the apples, this sap is acidic and bad for your teeth.",
+    "_id": "apple-acid",
+    "Attributes": {},
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "SpDef"
+                ],
+                "Stages": -1,
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Special"
+}

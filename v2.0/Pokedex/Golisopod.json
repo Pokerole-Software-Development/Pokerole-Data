@@ -1,0 +1,115 @@
+{
+    "Number": 768,
+    "DexID": "0768",
+    "Name": "Golisopod",
+    "Type1": "Bug",
+    "Type2": "Water",
+    "BaseHP": 4,
+    "Strength": 3,
+    "MaxStrength": 7,
+    "Dexterity": 1,
+    "MaxDexterity": 3,
+    "Vitality": 3,
+    "MaxVitality": 7,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Emergency Exit",
+    "Ability2": "",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Pro",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "golisopod",
+    "DexCategory": "Hard Scale Pokemon",
+    "Height": {
+        "Meters": 2.0,
+        "Feet": 6.6
+    },
+    "Weight": {
+        "Kilograms": 108.0,
+        "Pounds": 238.1
+    },
+    "DexDescription": "This Pokemon is a rare sight, for most Wimpods never evolve and when they do, Golisopod spend most of their lives in deep sea caves, meditating. It is extremely strong, its claws can tear through everything.",
+    "Evolutions": [
+        {
+            "From": "Wimpod",
+            "Kind": "Level",
+            "Speed": "Slow"
+        }
+    ],
+    "Image": "golisopod.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Struggle Bug"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Fury Cutter"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Sand Attack"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Bug Bite"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Rock Smash"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "First Impression"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Spite"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Swords Dance"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Slash"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Razor Shell"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Sucker Punch"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Pin Missile"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Iron Defense"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Liquidation"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Wide Guard"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Metal Claw"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Aqua Jet"
+        }
+    ]
+}

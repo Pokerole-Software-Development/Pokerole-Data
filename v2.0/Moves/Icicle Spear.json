@@ -1,0 +1,19 @@
+{
+    "Name": "Icicle Spear",
+    "Type": "Ice",
+    "Power": 1,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "Ranged. Successive Actions.",
+    "Description": "The user launches a wave of small but pointy icicles towards the target.",
+    "_id": "icicle-spear",
+    "Attributes": {
+        "PhysicalRanged": true,
+        "SuccessiveActions": true
+    },
+    "AddedEffects": {},
+    "Category": "Physical"
+}

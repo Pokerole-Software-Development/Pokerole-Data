@@ -1,0 +1,16 @@
+{
+    "Name": "False Swipe",
+    "Type": "Normal",
+    "Power": 2,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "The foe can't go below 1 HP when hit by this Move.",
+    "Description": "The user strikes the foe but lowers the power of the blow at the last second.",
+    "_id": "false-swipe",
+    "Attributes": {},
+    "AddedEffects": {},
+    "Category": "Physical"
+}

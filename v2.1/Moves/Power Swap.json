@@ -1,0 +1,27 @@
+{
+    "Name": "Power Swap",
+    "Type": "Psychic",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Insight",
+    "Accuracy2": "Channel",
+    "Target": "Foe",
+    "Effect": "Single Target. Switch the User's Strength and Special with the Target's.",
+    "Description": "A wave of psychic power makes the foe feel like they got the user's weaknesses and the user feels like they got the target's strengths.",
+    "_id": "power-swap",
+    "Attributes": {},
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "PowerSwap",
+                "Affects": "Targets"
+            },
+            {
+                "Type": "PowerSwap",
+                "Affects": "User"
+            }
+        ]
+    },
+    "Category": "Support"
+}

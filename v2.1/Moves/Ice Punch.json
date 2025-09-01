@@ -1,0 +1,26 @@
+{
+    "Name": "Ice Punch",
+    "Type": "Ice",
+    "Power": 3,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Strength",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "Single Target. Fist Move. Roll 1 Chance Dice to Freeze the Target.",
+    "Description": "The Pokémon delivers a strike covered in ice. The user's hands can freeze anything they touch.",
+    "_id": "ice-punch",
+    "Attributes": {
+        "FistBased": true
+    },
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Freeze",
+                "ChanceDice": 1,
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Physical"
+}

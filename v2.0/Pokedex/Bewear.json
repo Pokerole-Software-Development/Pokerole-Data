@@ -1,0 +1,115 @@
+{
+    "Number": 760,
+    "DexID": "0760",
+    "Name": "Bewear",
+    "Type1": "Normal",
+    "Type2": "Fighting",
+    "BaseHP": 6,
+    "Strength": 3,
+    "MaxStrength": 7,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Fluffy",
+    "Ability2": "Klutz",
+    "HiddenAbility": "Unnerve",
+    "EventAbilities": "",
+    "RecommendedRank": "Ace",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "bewear",
+    "DexCategory": "Strong Arm Pokemon",
+    "Height": {
+        "Meters": 2.1,
+        "Feet": 6.9
+    },
+    "Weight": {
+        "Kilograms": 135.0,
+        "Pounds": 297.6
+    },
+    "DexDescription": "They may look friendly but their brute strength makes them very dangerous. Many Trainers have been severely injured and even snapped in half by the \u201chugs\u201d of a Bewear.",
+    "Evolutions": [
+        {
+            "From": "Stufful",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "bewear.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Leer"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Baby-Doll Eyes"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Bide"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Take Down"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Brutal Swing"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Flail"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Payback"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Bind"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Hammer Arm"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Pain Split"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Thrash"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Double-Edge"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Superpower"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Wide Guard"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Dragon Claw"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Giga Impact"
+        }
+    ]
+}

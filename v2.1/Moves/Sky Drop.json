@@ -1,0 +1,19 @@
+{
+    "Name": "Sky Drop",
+    "Type": "Flying",
+    "Power": 2,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Strength",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "Single Target. Charge Move. Out of Range while Charging. Vulnerable while charging to: 'Thunder', 'Twister', 'Sky Uppercut', 'Gust', 'Hurricane', 'Smack Down'. Flinch Target. If Target is Flying-Type or too heavy to carry this Move fails. See Strength chart on p. XXX",
+    "Description": "The user carries the opponent to the sky, then drops the target from that altitude.",
+    "_id": "sky-drop",
+    "Attributes": {
+        "Charge": true,
+        "Vulnerable": true
+    },
+    "AddedEffects": {},
+    "Category": "Physical"
+}

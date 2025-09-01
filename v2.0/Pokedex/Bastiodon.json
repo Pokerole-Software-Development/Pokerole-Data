@@ -1,0 +1,111 @@
+{
+    "Number": 411,
+    "DexID": "0411",
+    "Name": "Bastiodon",
+    "Type1": "Rock",
+    "Type2": "Steel",
+    "BaseHP": 4,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 4,
+    "MaxVitality": 8,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 3,
+    "MaxInsight": 7,
+    "Ability1": "Sturdy",
+    "Ability2": "",
+    "HiddenAbility": "Soundproof",
+    "EventAbilities": "",
+    "RecommendedRank": "Ace",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "bastiodon",
+    "DexCategory": "Shield Pokemon",
+    "Height": {
+        "Meters": 1.3,
+        "Feet": 4.3
+    },
+    "Weight": {
+        "Kilograms": 149.5,
+        "Pounds": 329.6
+    },
+    "DexDescription": "They lived in herds, millions of years ago. They would line together to shield their young. Despite its rough and scary exterior, this Pokemon is calm, gentle natured and a strict herbivore.",
+    "Evolutions": [
+        {
+            "From": "Shieldon",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "bastiodon.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Protect"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Taunt"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Metal Sound"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Take Down"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Iron Defense"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Swagger"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Ancient Power"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Block"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Endure"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Metal Burst"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Iron Head"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Heavy Slam"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Guard Split"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Wide Guard"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Fissure"
+        }
+    ]
+}

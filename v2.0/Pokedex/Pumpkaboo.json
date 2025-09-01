@@ -1,0 +1,110 @@
+{
+    "Number": 710,
+    "DexID": "0710",
+    "Name": "Pumpkaboo",
+    "Type1": "Ghost",
+    "Type2": "Grass",
+    "BaseHP": 3,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Pickup",
+    "Ability2": "Frisk",
+    "HiddenAbility": "Insomnia",
+    "EventAbilities": "",
+    "RecommendedRank": "Beginner",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "pumpkaboo",
+    "DexCategory": "Pumpkin Pokemon",
+    "Height": {
+        "Meters": 0.4,
+        "Feet": 1.3
+    },
+    "Weight": {
+        "Kilograms": 5.0,
+        "Pounds": 11.0
+    },
+    "DexDescription": "You can see them dwelling on farms during the autumn season. The pumpkin body is inhabited by a spirit trapped in this world. As the sun sets, it becomes restless and active. Don\u2019t ever follow their light at night.",
+    "Evolutions": [
+        {
+            "To": "Gourgeist",
+            "Kind": "Trade"
+        }
+    ],
+    "Image": "pumpkaboo.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Trick"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Astonish"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Confuse Ray"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Scary Face"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Trick-Or-Treat"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Worry Seed"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Razor Leaf"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Leech Seed"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Bullet Seed"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Shadow Sneak"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Shadow Ball"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Pain Split"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Seed Bomb"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Dark Pulse"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Synthesis"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Foul Play"
+        }
+    ]
+}

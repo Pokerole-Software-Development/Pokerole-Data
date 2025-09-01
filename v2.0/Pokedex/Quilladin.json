@@ -1,0 +1,124 @@
+{
+    "Number": 651,
+    "DexID": "0651",
+    "Name": "Quilladin",
+    "Type1": "Grass",
+    "Type2": "",
+    "BaseHP": 4,
+    "Strength": 2,
+    "MaxStrength": 5,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 3,
+    "MaxVitality": 6,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Overgrow",
+    "Ability2": "",
+    "HiddenAbility": "Bulletproof",
+    "EventAbilities": "",
+    "RecommendedRank": "Amateur",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "quilladin",
+    "DexCategory": "Spiny Armor Pokemon",
+    "Height": {
+        "Meters": 0.7,
+        "Feet": 2.3
+    },
+    "Weight": {
+        "Kilograms": 29.0,
+        "Pounds": 63.9
+    },
+    "DexDescription": "It strengthens its lower body by running into sturdy things. It is a kind Pokemon that relies on its sturdy shell and sharp quills to deflect any foe trying to attack it. They never start a fight.",
+    "Evolutions": [
+        {
+            "From": "Chespin",
+            "Kind": "Level",
+            "Speed": "Medium"
+        },
+        {
+            "To": "Chesnaught",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "quilladin.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Growl"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Vine Whip"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Rollout"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Bite"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Leech Seed"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Pin Missile"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Needle Arm"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Take Down"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Seed Bomb"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Mud Shot"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Bulk Up"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Body Slam"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Pain Split"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Wood Hammer"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Iron Defense"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Drain Punch"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Grass Pledge"
+        }
+    ]
+}

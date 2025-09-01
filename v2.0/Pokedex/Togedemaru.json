@@ -1,0 +1,113 @@
+{
+    "Number": 777,
+    "DexID": "0777",
+    "Name": "Togedemaru",
+    "Type1": "Electric",
+    "Type2": "Steel",
+    "BaseHP": 4,
+    "Strength": 3,
+    "MaxStrength": 6,
+    "Dexterity": 3,
+    "MaxDexterity": 6,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Iron Barbs",
+    "Ability2": "Lightning Rod",
+    "HiddenAbility": "Sturdy",
+    "EventAbilities": "",
+    "RecommendedRank": "Beginner",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "togedemaru",
+    "DexCategory": "Roly-Poly Pokemon",
+    "Height": {
+        "Meters": 0.3,
+        "Feet": 1.0
+    },
+    "Weight": {
+        "Kilograms": 3.3,
+        "Pounds": 7.3
+    },
+    "DexDescription": "On stormy days you can see groups of Togedemaru curled up into balls with their spikes out, waiting to be struck by lightning. These spikes also deter other Pokemon from attacking this cute creature.",
+    "Evolutions": [],
+    "Image": "togedemaru.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Defense Curl"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Thunder Shock"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Rollout"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Charge"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Spark"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Nuzzle"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Magnet Rise"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Discharge"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Zing Zap"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Electric Terrain"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Wild Charge"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Pin Missile"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Spiky Shield"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Fell Stinger"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Tickle"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Disarming Voice"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Present"
+        }
+    ]
+}

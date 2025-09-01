@@ -1,0 +1,26 @@
+{
+    "Name": "Conversion",
+    "Type": "Normal",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Will",
+    "Accuracy2": "Channel",
+    "Target": "User",
+    "Effect": "Target Self. Unique. Change the User's Main Type at random. Whole Scene Duration.",
+    "Description": "The Pokémon downloads data from their database and adds into their own code.",
+    "_id": "conversion",
+    "Attributes": {
+        "Unique": true,
+        "Duration": "wholeScene"
+    },
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Conversion",
+                "Affects": "User"
+            }
+        ]
+    },
+    "Category": "Support"
+}

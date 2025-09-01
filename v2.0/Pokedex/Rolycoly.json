@@ -1,0 +1,99 @@
+{
+    "Number": 837,
+    "DexID": "0837",
+    "Name": "Rolycoly",
+    "Type1": "Rock",
+    "Type2": "",
+    "BaseHP": 3,
+    "Strength": 1,
+    "MaxStrength": 3,
+    "Dexterity": 1,
+    "MaxDexterity": 3,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 1,
+    "MaxSpecial": 3,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Steam Engine",
+    "Ability2": "Heatproof",
+    "HiddenAbility": "Flash Fire",
+    "EventAbilities": "",
+    "RecommendedRank": "Beginner",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "rolycoly",
+    "DexCategory": "Coal Pokemon",
+    "Height": {
+        "Meters": 0.3,
+        "Feet": 1.0
+    },
+    "Weight": {
+        "Kilograms": 12.0,
+        "Pounds": 26.5
+    },
+    "DexDescription": "This Pokemon was discovered inside a coal mine. It looks like a clump of coal only it moves like a unicycle. When it gets angry it glows burning hot but when it\u2019s happy it lets out soft crackles and keeps a steady warmth.",
+    "Evolutions": [
+        {
+            "To": "Carkol",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "rolycoly.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Smokescreen"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Rapid Spin"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Smack Down"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Rock Polish"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Ancient Power"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Incinerate"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Stealth Rock"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Heat Crash"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Rock Blast"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Endure"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Spikes"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Substitute"
+        }
+    ]
+}

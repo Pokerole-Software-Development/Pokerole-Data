@@ -1,0 +1,160 @@
+{
+    "Number": 849,
+    "DexID": "0849F1",
+    "Name": "Toxtricity (Low Key Form)",
+    "Type1": "Electric",
+    "Type2": "Poison",
+    "BaseHP": 4,
+    "Strength": 3,
+    "MaxStrength": 6,
+    "Dexterity": 2,
+    "MaxDexterity": 5,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 3,
+    "MaxSpecial": 6,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Punk Rock",
+    "Ability2": "Minus",
+    "HiddenAbility": "Technician",
+    "EventAbilities": "",
+    "RecommendedRank": "Ace",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "toxtricity-low-key-form",
+    "DexCategory": "Punk Pokemon",
+    "Height": {
+        "Meters": 1.6,
+        "Feet": 5.2
+    },
+    "Weight": {
+        "Kilograms": 40.0,
+        "Pounds": 88.2
+    },
+    "DexDescription": "Commonly called \u201cLow Key Form\u201d, its nature determines its evolution, If a Toxel is introverted it will evolve to be a chill Toxtricity. They emit low pitched sounds and look down on others who try to provoke them.",
+    "Evolutions": [
+        {
+            "From": "Toxel",
+            "Kind": "Level",
+            "Speed": "Slow",
+            "Special": "Introvert"
+        }
+    ],
+    "Image": "toxtricity-low-key-form.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Nuzzle"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Growl"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Spark"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Eerie Impulse"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Flail"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Tearful Look"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Thunder Shock"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Acid"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Leer"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Acid Spray"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Charge"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Noble Roar"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Scary Face"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Shock Wave"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Venoshock"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Taunt"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Belch"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Screech"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Swagger"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Toxic"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Discharge"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Poison Jab"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Overdrive"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Boomburst"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Shift Gear"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Power-Up Punch"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Metal Sound"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Round"
+        }
+    ]
+}

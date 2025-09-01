@@ -1,0 +1,123 @@
+{
+    "Number": 584,
+    "DexID": "0584",
+    "Name": "Vanilluxe",
+    "Type1": "Ice",
+    "Type2": "",
+    "BaseHP": 5,
+    "Strength": 3,
+    "MaxStrength": 6,
+    "Dexterity": 2,
+    "MaxDexterity": 5,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 3,
+    "MaxSpecial": 6,
+    "Insight": 3,
+    "MaxInsight": 6,
+    "Ability1": "Ice Body",
+    "Ability2": "Snow Warning",
+    "HiddenAbility": "Weak Armor",
+    "EventAbilities": "",
+    "RecommendedRank": "Amateur",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "vanilluxe",
+    "DexCategory": "Snowstorm Pokemon",
+    "Height": {
+        "Meters": 1.3,
+        "Feet": 4.3
+    },
+    "Weight": {
+        "Kilograms": 57.5,
+        "Pounds": 126.8
+    },
+    "DexDescription": "It grew a new head with evolution, and they get along really well. They need to drink a lot of water in order to keep cool outside a gelid weather. If both heads get angry they will expel a terrible blizzard around.",
+    "Evolutions": [
+        {
+            "From": "Vanillish",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "vanilluxe.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Harden"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Icicle Spear"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Uproar"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Astonish"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Freeze Dry"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Icy Wind"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Mist"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Avalanche"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Taunt"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Mirror Shot"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Acid Armor"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Ice Beam"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Hail"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Mirror Coat"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Blizzard"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Sheer Cold"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Autotomize"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Iron Defense"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Ice Shard"
+        }
+    ]
+}

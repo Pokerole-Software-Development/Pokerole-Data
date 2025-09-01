@@ -1,0 +1,19 @@
+{
+    "Name": "Origin Pulse",
+    "Type": "Water",
+    "Power": 4,
+    "Damage1": "Special",
+    "Damage2": "",
+    "Accuracy1": "Special",
+    "Accuracy2": "Channel",
+    "Target": "Foe",
+    "Effect": "Lethal. -2 Accuracy.",
+    "Description": "The Pokemon sends a giant pulse underwater that creates a chain reaction and causes water to move in large streams. It is believed that all water in the sea moves thanks to this.",
+    "_id": "origin-pulse",
+    "Attributes": {
+        "Lethal": true,
+        "AccuracyReduction": 2
+    },
+    "AddedEffects": {},
+    "Category": "Special"
+}

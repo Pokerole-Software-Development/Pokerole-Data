@@ -1,0 +1,116 @@
+{
+    "Number": 15,
+    "DexID": "0015",
+    "Name": "Beedrill",
+    "Type1": "Bug",
+    "Type2": "Poison",
+    "BaseHP": 5,
+    "Strength": 2,
+    "MaxStrength": 5,
+    "Dexterity": 2,
+    "MaxDexterity": 5,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Swarm",
+    "Ability2": "",
+    "HiddenAbility": "Sniper",
+    "EventAbilities": "",
+    "RecommendedRank": "Amateur",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "beedrill",
+    "DexCategory": "Poison Bee Pokemon",
+    "Height": {
+        "Meters": 1.0,
+        "Feet": 3.3
+    },
+    "Weight": {
+        "Kilograms": 29.5,
+        "Pounds": 65.0
+    },
+    "DexDescription": "Beedrill are extremely territorial. For safety reasons, no one should ever approach their nest. If disturbed, they will attack in swarm. It has three stings. The one on its tail secretes a powerful poison.",
+    "Evolutions": [
+        {
+            "From": "Kakuna",
+            "Kind": "Level",
+            "Speed": "Fast"
+        },
+        {
+            "To": "Beedrill (Mega Form)",
+            "Kind": "Mega",
+            "Item": "Beedrillite"
+        }
+    ],
+    "Image": "beedrill.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Fury Attack"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Focus Energy"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Twineedle"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Rage"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Pursuit"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Venoshock"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Toxic Spikes"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Pin Missile"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Agility"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Assurance"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Poison Jab"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Ominous Wind"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Fell Stinger"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Drill Run"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Tailwind"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Endeavor"
+        }
+    ]
+}

@@ -1,0 +1,132 @@
+{
+    "Number": 817,
+    "DexID": "0817",
+    "Name": "Drizzile",
+    "Type1": "Water",
+    "Type2": "",
+    "BaseHP": 4,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 2,
+    "MaxDexterity": 5,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 3,
+    "MaxSpecial": 6,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Torrent",
+    "Ability2": "Sniper",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Standard",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "drizzile",
+    "DexCategory": "Water Lizard Pokémon",
+    "Height": {
+        "Meters": 0.7,
+        "Feet": 2.3
+    },
+    "Weight": {
+        "Kilograms": 11.5,
+        "Pounds": 25.4
+    },
+    "DexDescription": "Its demeanor changes drastically from shy to aloof and lazy. It can create water balloons with the moisture secreted from its paws. It is incredibly intelligent and is known to lay traps for others in the wild.",
+    "Evolutions": [
+        {
+            "From": "Sobble",
+            "Kind": "Level",
+            "Speed": "Medium"
+        },
+        {
+            "To": "Inteleon",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "drizzile.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Pound"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Growl"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Water Gun"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Bind"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Aqua Jet"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Tearful Look"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Double Team"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Mud Shot"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Haze"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Mist"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Ice Shard"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Water Pulse"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "U-Turn"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Sucker Punch"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Soak"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Rain Dance"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Liquidation"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Light Screen"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Reflect"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Water Pledge"
+        }
+    ]
+}

@@ -1,0 +1,131 @@
+{
+    "Number": 675,
+    "DexID": "0675",
+    "Name": "Pangoro",
+    "Type1": "Fighting",
+    "Type2": "Dark",
+    "BaseHP": 5,
+    "Strength": 3,
+    "MaxStrength": 7,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Iron Fist",
+    "Ability2": "Mold Breaker",
+    "HiddenAbility": "Scrappy",
+    "EventAbilities": "",
+    "RecommendedRank": "Ace",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "pangoro",
+    "DexCategory": "Daunting Pokemon",
+    "Height": {
+        "Meters": 2.1,
+        "Feet": 6.9
+    },
+    "Weight": {
+        "Kilograms": 136.0,
+        "Pounds": 299.8
+    },
+    "DexDescription": "Although this pokemon has a violent temperament, it won\u2019t put up with bullying. It charges ahead and slams its opponents like a berserker, totally disregarding its own safety. Its mighty arms can send you flying.",
+    "Evolutions": [
+        {
+            "From": "Pancham",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "pangoro.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Leer"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Work Up"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Arm Thrust"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Bullet Punch"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Karate Chop"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Comet Punch"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Slash"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Circle Throw"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Vital Throw"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Body Slam"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Crunch"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Entrainment"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Parting Shot"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Sky Uppercut"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Hammer Arm"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Taunt"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Low Sweep"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Outrage"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Focus Punch"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Drain Punch"
+        }
+    ]
+}

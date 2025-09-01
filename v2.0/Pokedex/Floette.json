@@ -1,0 +1,120 @@
+{
+    "Number": 670,
+    "DexID": "0670",
+    "Name": "Floette",
+    "Type1": "Fairy",
+    "Type2": "",
+    "BaseHP": 4,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 2,
+    "MaxSpecial": 5,
+    "Insight": 3,
+    "MaxInsight": 6,
+    "Ability1": "Flower Veil",
+    "Ability2": "",
+    "HiddenAbility": "Symbiosis",
+    "EventAbilities": "",
+    "RecommendedRank": "Beginner",
+    "GenderType": "F",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "floette",
+    "DexCategory": "Fairy Pokemon",
+    "Height": {
+        "Meters": 0.2,
+        "Feet": 0.7
+    },
+    "Weight": {
+        "Kilograms": 0.9,
+        "Pounds": 2.0
+    },
+    "DexDescription": "It flutters around flower meadows and takes care of buds that are starting to wilt. People who fill their gardens with their preferred flower receive its visit every spring. They are loyal and caring Pokemon.",
+    "Evolutions": [
+        {
+            "From": "Flabebe",
+            "Kind": "Level",
+            "Speed": "Fast"
+        },
+        {
+            "To": "Florges",
+            "Kind": "Stone",
+            "Item": "Shiny Stone"
+        }
+    ],
+    "Image": "floette.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Vine Whip"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Fairy Wind"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Lucky Chant"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Razor Leaf"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Wish"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Magical Leaf"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Grassy Terrain"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Petal Blizzard"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Aromatherapy"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Misty Terrain"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Moonblast"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Petal Dance"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Solar Beam"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Heal Bell"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Camouflage"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Magic Coat"
+        }
+    ]
+}

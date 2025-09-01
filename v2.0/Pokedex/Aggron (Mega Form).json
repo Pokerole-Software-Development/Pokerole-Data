@@ -1,0 +1,131 @@
+{
+    "Number": 306,
+    "DexID": "0306M1",
+    "Name": "Aggron (Mega Form)",
+    "Type1": "Steel",
+    "Type2": "",
+    "BaseHP": 6,
+    "Strength": 3,
+    "MaxStrength": 7,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 5,
+    "MaxVitality": 11,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Filter",
+    "Ability2": "",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Master",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "aggron-mega-form",
+    "DexCategory": "Iron Armor Pokemon",
+    "Height": {
+        "Meters": 2.2,
+        "Feet": 7.2
+    },
+    "Weight": {
+        "Kilograms": 395.0,
+        "Pounds": 870.8
+    },
+    "DexDescription": "The power of the Mega Stone makes their already-small caring nature disappear. They become relentless and more machine-like, trampling their way around as nothing can penetrate their armor.",
+    "Evolutions": [
+        {
+            "From": "Aggron",
+            "Kind": "Mega",
+            "Item": "Aggronite"
+        }
+    ],
+    "Image": "aggron-mega-form.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Harden"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Mud Slap"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Take Down"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Metal Claw"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Rock Tomb"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Iron Defense"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Roar"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Headbutt"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Rock Slide"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Iron Head"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Protect"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Metal Sound"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Iron Tail"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Autotomize"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Heavy Slam"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Double-Edge"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Metal Burst"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Head Smash"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Dragon Rush"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Superpower"
+        }
+    ]
+}

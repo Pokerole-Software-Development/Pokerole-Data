@@ -1,0 +1,131 @@
+{
+    "Number": 264,
+    "DexID": "0264",
+    "Name": "Linoone",
+    "Type1": "Normal",
+    "Type2": "",
+    "BaseHP": 4,
+    "Strength": 2,
+    "MaxStrength": 5,
+    "Dexterity": 3,
+    "MaxDexterity": 6,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Pickup",
+    "Ability2": "Gluttony",
+    "HiddenAbility": "Quick Feet",
+    "EventAbilities": "",
+    "RecommendedRank": "Amateur",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "linoone",
+    "DexCategory": "Rushing Pokemon",
+    "Height": {
+        "Meters": 0.5,
+        "Feet": 1.6
+    },
+    "Weight": {
+        "Kilograms": 32.5,
+        "Pounds": 71.7
+    },
+    "DexDescription": "Linoones are always running at full speed, but they can only do so in straight lines. They find it very difficult to deal with a curved road. They excel at hunting but tend to eat a lot to recover from their tiring runs.",
+    "Evolutions": [
+        {
+            "From": "Zigzagoon",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "linoone.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Growl"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Switcheroo"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Sand Attack"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Tail Whip"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Headbutt"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Play Rough"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Rototiller"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Odor Sleuth"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Mud Sport"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Fury Swipes"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Covet"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Bestow"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Double-Edge"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Slash"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Rest"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Belly Drum"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Fling"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Extreme Speed"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Super Fang"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Seed Bomb"
+        }
+    ]
+}

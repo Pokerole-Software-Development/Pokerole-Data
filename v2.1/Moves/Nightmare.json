@@ -1,0 +1,23 @@
+{
+    "Name": "Nightmare",
+    "Type": "Ghost",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Will",
+    "Accuracy2": "Intimidate",
+    "Target": "Foe",
+    "Effect": "Single Target. Can only be used if the Target has the Sleep Condition. Deal 1 Typeless Damage to the Target after each attempt it makes to resist its Sleep Condition where it doesn't wake up.",
+    "Description": "The user is believed to transport itself to the land of dreams to torment its victims with vivid night terrors. The victims wake up with unexplainable injuries.",
+    "_id": "nightmare",
+    "Attributes": {},
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Spite",
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Support"
+}

@@ -1,0 +1,26 @@
+{
+    "Name": "Tailwind",
+    "Type": "Flying",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Insight",
+    "Accuracy2": "Nature",
+    "Target": "Battlefield",
+    "Effect": "Target User's side of the Field. Wind Based. Increase by 2 the Dexterity of everyone on the User's side of the field. Duration 4 Rounds.",
+    "Description": "The user flaps its wings and creates a turbulent wind that helps the team move significantly faster.",
+    "_id": "tailwind",
+    "Attributes": {
+        "WindBased": true,
+        "Duration": 4
+    },
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Tailwind",
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Support"
+}

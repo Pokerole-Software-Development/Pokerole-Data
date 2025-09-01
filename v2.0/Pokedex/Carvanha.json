@@ -1,0 +1,115 @@
+{
+    "Number": 318,
+    "DexID": "0318",
+    "Name": "Carvanha",
+    "Type1": "Water",
+    "Type2": "Dark",
+    "BaseHP": 3,
+    "Strength": 2,
+    "MaxStrength": 5,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 1,
+    "MaxVitality": 3,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 1,
+    "MaxInsight": 3,
+    "Ability1": "Rough Skin",
+    "Ability2": "",
+    "HiddenAbility": "Speed Boost",
+    "EventAbilities": "",
+    "RecommendedRank": "Beginner",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "carvanha",
+    "DexCategory": "Savage Pokemon",
+    "Height": {
+        "Meters": 0.8,
+        "Feet": 2.6
+    },
+    "Weight": {
+        "Kilograms": 20.8,
+        "Pounds": 45.9
+    },
+    "DexDescription": "Anything near a Carvanha school will be swarmed, attacked and tore to bits. However, they are very timid when they are on their own. They live in rivers in the jungle and dislike salt water.",
+    "Evolutions": [
+        {
+            "To": "Sharpedo",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "carvanha.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Bite"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Leer"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Rage"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Focus Energy"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Scary Face"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Ice Fang"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Screech"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Swagger"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Aqua Jet"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Crunch"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Take Down"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Poison Fang"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Agility"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Assurance"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Super Fang"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Dive"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Bounce"
+        }
+    ]
+}

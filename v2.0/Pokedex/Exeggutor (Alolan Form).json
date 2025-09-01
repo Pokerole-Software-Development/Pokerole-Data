@@ -1,0 +1,96 @@
+{
+    "Number": 103,
+    "DexID": "0103A",
+    "Name": "Exeggutor (Alolan Form)",
+    "Type1": "Grass",
+    "Type2": "Dragon",
+    "BaseHP": 5,
+    "Strength": 3,
+    "MaxStrength": 6,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 3,
+    "MaxSpecial": 7,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Frisk",
+    "Ability2": "",
+    "HiddenAbility": "Harvest",
+    "EventAbilities": "",
+    "RecommendedRank": "Amateur",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "exeggutor-alolan-form",
+    "DexCategory": "Coconut Pokemon",
+    "Height": {
+        "Meters": 10.9,
+        "Feet": 35.8
+    },
+    "Weight": {
+        "Kilograms": 415.6,
+        "Pounds": 916.2
+    },
+    "DexDescription": "Alola is the native region for this Pokemon, only in there it can evolve into this form. With this size, its Psychic abilities are rarely needed and its trainer\u2019s order\u2019s rarely heard. They enjoy the sun in the beach..",
+    "Evolutions": [
+        {
+            "From": "Exeggcute",
+            "Kind": "Stone",
+            "Item": "Leaf Stone",
+            "Region": "Alola"
+        }
+    ],
+    "Image": "exeggutor-alolan-form.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Barrage"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Hypnosis"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Confusion"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Seed Bomb"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Egg Bomb"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Psyshock"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Dragon Hammer"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Wood Hammer"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Leaf Storm"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Dragon Tail"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Ingrain"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Giga Impact"
+        }
+    ]
+}

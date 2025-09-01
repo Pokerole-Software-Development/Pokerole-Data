@@ -1,0 +1,64 @@
+{
+    "Number": 14,
+    "DexID": "0014",
+    "Name": "Kakuna",
+    "Type1": "Bug",
+    "Type2": "Poison",
+    "BaseHP": 4,
+    "Strength": 1,
+    "MaxStrength": 3,
+    "Dexterity": 1,
+    "MaxDexterity": 3,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 1,
+    "MaxSpecial": 3,
+    "Insight": 1,
+    "MaxInsight": 3,
+    "Ability1": "Shed Skin",
+    "Ability2": "",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Beginner",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "kakuna",
+    "DexCategory": "Cocoon Pokemon",
+    "Height": {
+        "Meters": 0.6,
+        "Feet": 2.0
+    },
+    "Weight": {
+        "Kilograms": 10.0,
+        "Pounds": 22.0
+    },
+    "DexDescription": "It remains virtually immobile while it clings to a tree. On the inside, it is preparing for evolution by rising the temperature of its shell. Beware of Beedrills that may roam close to it.",
+    "Evolutions": [
+        {
+            "From": "Weedle",
+            "Kind": "Level",
+            "Speed": "Fast"
+        },
+        {
+            "To": "Beedrill",
+            "Kind": "Level",
+            "Speed": "Fast"
+        }
+    ],
+    "Image": "kakuna.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Harden"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Iron Defense"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Electroweb"
+        }
+    ]
+}

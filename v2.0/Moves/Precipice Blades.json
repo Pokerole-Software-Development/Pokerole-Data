@@ -1,0 +1,20 @@
+{
+    "Name": "Precipice Blades",
+    "Type": "Ground",
+    "Power": 5,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Strength",
+    "Accuracy2": "Channel",
+    "Target": "All Foes",
+    "Effect": "Lethal. Ranged. -2 Accuracy.",
+    "Description": "Giant blades emerge from the earth with every step of the user. If you fall into them, they are almost impossible to survive.",
+    "_id": "precipice-blades",
+    "Attributes": {
+        "Lethal": true,
+        "PhysicalRanged": true,
+        "AccuracyReduction": 2
+    },
+    "AddedEffects": {},
+    "Category": "Physical"
+}

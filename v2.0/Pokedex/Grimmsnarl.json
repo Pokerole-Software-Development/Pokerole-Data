@@ -1,0 +1,131 @@
+{
+    "Number": 861,
+    "DexID": "0861",
+    "Name": "Grimmsnarl",
+    "Type1": "Dark",
+    "Type2": "Fairy",
+    "BaseHP": 5,
+    "Strength": 3,
+    "MaxStrength": 7,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 3,
+    "MaxSpecial": 6,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Prankster",
+    "Ability2": "Frisk",
+    "HiddenAbility": "Pickpocket",
+    "EventAbilities": "",
+    "RecommendedRank": "Ace",
+    "GenderType": "M",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "grimmsnarl",
+    "DexCategory": "Bulk Up Pokemon",
+    "Height": {
+        "Meters": 1.5,
+        "Feet": 4.9
+    },
+    "Weight": {
+        "Kilograms": 61.0,
+        "Pounds": 134.5
+    },
+    "DexDescription": "Its hairs work like muscle fibers. When its hairs unfurl, they latch on to opponents, ensnaring them as tentacles would. They often make others trip or get them hanging upside down to amuse themselves.",
+    "Evolutions": [
+        {
+            "From": "Morgrem",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "grimmsnarl.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Fake Out"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Confide"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Bite"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Flatter"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Fake Tears"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Assurance"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Swagger"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Sucker Punch"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Torment"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Spirit Break"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Power-Up Punch"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Bulk Up"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Dark Pulse"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "False Surrender"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Foul Play"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Nasty Plot"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Play Rough"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Hammer Arm"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Draining Kiss"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Protect"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Reflect"
+        }
+    ]
+}

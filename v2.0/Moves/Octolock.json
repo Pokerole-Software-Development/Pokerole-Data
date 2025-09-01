@@ -1,0 +1,35 @@
+{
+    "Name": "Octolock",
+    "Type": "Fighting",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Strength",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "Block. Reduce the foe's Defense and Sp. Defense.",
+    "Description": "The user wraps its tentacles to immobilize the foe. Being so close enables the user to find weak spots.",
+    "_id": "octolock",
+    "Attributes": {
+        "BlockDamagePool": 0
+    },
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Block",
+                "Affects": "Targets"
+            }
+        ],
+        "StatChanges": [
+            {
+                "Stats": [
+                    "Def",
+                    "SpDef"
+                ],
+                "Stages": -1,
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Support"
+}

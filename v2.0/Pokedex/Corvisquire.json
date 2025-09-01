@@ -1,0 +1,108 @@
+{
+    "Number": 822,
+    "DexID": "0822",
+    "Name": "Corvisquire",
+    "Type1": "Flying",
+    "Type2": "",
+    "BaseHP": 4,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 2,
+    "MaxDexterity": 5,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 1,
+    "MaxSpecial": 3,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Keen Eye",
+    "Ability2": "Unnerve",
+    "HiddenAbility": "Big Pecks",
+    "EventAbilities": "",
+    "RecommendedRank": "Amateur",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "corvisquire",
+    "DexCategory": "Raven Pokemon",
+    "Height": {
+        "Meters": 0.8,
+        "Feet": 2.6
+    },
+    "Weight": {
+        "Kilograms": 16.0,
+        "Pounds": 35.3
+    },
+    "DexDescription": "They are smart enough to use tools in battle, these Pokemon have been seen picking up rocks and flinging them or using ropes to wrap up foes. They choose their battles carefully and do not retreat.",
+    "Evolutions": [
+        {
+            "From": "Rookidee",
+            "Kind": "Level",
+            "Speed": "Medium"
+        },
+        {
+            "To": "Corviknight",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "corvisquire.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Peck"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Leer"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Power Trip"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Hone Claws"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Fury Attack"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Pluck"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Taunt"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Scary Face"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Drill Peck"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Swagger"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Brave Bird"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Roost"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Tailwind"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Rock Smash"
+        }
+    ]
+}

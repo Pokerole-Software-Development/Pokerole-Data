@@ -1,0 +1,133 @@
+{
+    "Number": 594,
+    "DexID": "0594",
+    "Name": "Alomomola",
+    "Type1": "Water",
+    "Type2": "",
+    "BaseHP": 8,
+    "Strength": 2,
+    "MaxStrength": 5,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 1,
+    "MaxSpecial": 3,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Healer",
+    "Ability2": "Regenerator",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Advanced",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "alomomola",
+    "DexCategory": "Caring Pokémon",
+    "Height": {
+        "Meters": 1.2,
+        "Feet": 3.9
+    },
+    "Weight": {
+        "Kilograms": 31.6,
+        "Pounds": 69.7
+    },
+    "DexDescription": "Swimming in the open sea is how they live. If they find a wounded Pokémon they embrace it and use their special membrane to heal it. Alomomola are caring, noble, and selfless Pokémon.",
+    "Evolutions": [],
+    "Image": "alomomola.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Pound"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Water Sport"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Play Nice"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Aqua Jet"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Aqua Ring"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Double Slap"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Helping Hand"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Soak"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Refresh"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Protect"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Brine"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Heal Pulse"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Water Pulse"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Wish"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Wake-Up Slap"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Whirlpool"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Safeguard"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Healing Wish"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Wide Guard"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Hydro Pump"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Pain Split"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Endure"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Mirror Coat"
+        }
+    ]
+}

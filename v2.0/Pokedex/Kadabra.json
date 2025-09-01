@@ -1,0 +1,123 @@
+{
+    "Number": 64,
+    "DexID": "0064",
+    "Name": "Kadabra",
+    "Type1": "Psychic",
+    "Type2": "",
+    "BaseHP": 4,
+    "Strength": 1,
+    "MaxStrength": 3,
+    "Dexterity": 3,
+    "MaxDexterity": 6,
+    "Vitality": 1,
+    "MaxVitality": 3,
+    "Special": 3,
+    "MaxSpecial": 7,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Synchronize",
+    "Ability2": "Inner Focus",
+    "HiddenAbility": "Magic Guard",
+    "EventAbilities": "",
+    "RecommendedRank": "Amateur",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "kadabra",
+    "DexCategory": "Psi Pokemon",
+    "Height": {
+        "Meters": 1.3,
+        "Feet": 4.3
+    },
+    "Weight": {
+        "Kilograms": 56.5,
+        "Pounds": 124.6
+    },
+    "DexDescription": "Kadabra holds a silver spoon in its hand. The spoon is used to amplify the alpha waves of its brain. When this Pokemon walks in, objects near to it go crazy, moving in ways they shouldn\u2019t.",
+    "Evolutions": [
+        {
+            "From": "Abra",
+            "Kind": "Level",
+            "Speed": "Medium"
+        },
+        {
+            "To": "Alakazam",
+            "Kind": "Trade"
+        }
+    ],
+    "Image": "kadabra.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Teleport"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Kinesis"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Confusion"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Disable"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Miracle Eye"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Ally Switch"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Psybeam"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Reflect"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Telekinesis"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Role Play"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Psycho Cut"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Recover"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Psychic"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Future Sight"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Trick"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Snatch"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Foul Play"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Wonder Room"
+        }
+    ]
+}

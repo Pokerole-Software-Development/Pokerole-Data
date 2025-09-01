@@ -1,0 +1,24 @@
+{
+    "Name": "Flamethrower",
+    "Type": "Fire",
+    "Power": 3,
+    "Damage1": "Special",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Channel",
+    "Target": "Foe",
+    "Effect": "Roll 1 Chance Dice to Apply Burn 2 to the foe.",
+    "Description": "The user lets out a powerful fire stream that leaves a scorched trail.",
+    "_id": "flamethrower",
+    "Attributes": {},
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Burn2",
+                "Affects": "Targets",
+                "ChanceDice": 1
+            }
+        ]
+    },
+    "Category": "Special"
+}

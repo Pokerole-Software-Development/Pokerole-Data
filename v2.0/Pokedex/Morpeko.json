@@ -1,0 +1,109 @@
+{
+    "Number": 877,
+    "DexID": "0877",
+    "Name": "Morpeko",
+    "Type1": "Electric",
+    "Type2": "Dark",
+    "BaseHP": 4,
+    "Strength": 3,
+    "MaxStrength": 6,
+    "Dexterity": 3,
+    "MaxDexterity": 6,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 2,
+    "MaxSpecial": 5,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Hunger Switch",
+    "Ability2": "",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Beginner",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "morpeko",
+    "DexCategory": "Two-Sided Pokemon",
+    "Height": {
+        "Meters": 0.3,
+        "Feet": 1.0
+    },
+    "Weight": {
+        "Kilograms": 3.0,
+        "Pounds": 6.6
+    },
+    "DexDescription": "It\u2019s Full-Belly Mode is friendly and playful, it treasures food and treats. But intense hunger drives it to extremes of violence, and the electricity in its cheek sacs turn into a Dark-type energy",
+    "Evolutions": [],
+    "Image": "morpeko.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Thunder Shock"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Tail Whip"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Leer"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Power Trip"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Quick Attack"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Flatter"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Bite"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Spark"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Torment"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Agility"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Bullet Seed"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Crunch"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Aura Wheel"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Thrash"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Super Fang"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Wild Charge"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Outrage"
+        }
+    ]
+}

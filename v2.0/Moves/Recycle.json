@@ -1,0 +1,16 @@
+{
+    "Name": "Recycle",
+    "Type": "Normal",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Vitality",
+    "Accuracy2": "Nature",
+    "Target": "User",
+    "Effect": "The Pokemon reuses an Item that has already been spent. (Berries etc.) An Item may not be recycled more than 5 times.",
+    "Description": "One Pokemon's trash is another one's treasure.",
+    "_id": "recycle",
+    "Attributes": {},
+    "AddedEffects": {},
+    "Category": "Support"
+}

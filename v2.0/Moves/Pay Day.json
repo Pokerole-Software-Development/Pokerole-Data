@@ -1,0 +1,25 @@
+{
+    "Name": "Pay Day",
+    "Type": "Normal",
+    "Power": 2,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "Ranged. At the end of the battle give Money to the Trainer Equal to its Rank: Starter/Beginner - $20.00 Amateur - $50.00 Ace - $75.00 Pro - $100.00",
+    "Description": "This move grants good fortune, making it more likely to get more money after each battle.",
+    "_id": "pay-day",
+    "Attributes": {
+        "PhysicalRanged": true
+    },
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "PayDay",
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Physical"
+}

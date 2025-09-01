@@ -1,0 +1,124 @@
+{
+    "Number": 105,
+    "DexID": "0105A",
+    "Name": "Marowak (Alolan Form)",
+    "Type1": "Fire",
+    "Type2": "Ghost",
+    "BaseHP": 4,
+    "Strength": 2,
+    "MaxStrength": 5,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 3,
+    "MaxVitality": 6,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Cursed Body",
+    "Ability2": "Lightning Rod",
+    "HiddenAbility": "Rock Head",
+    "EventAbilities": "",
+    "RecommendedRank": "Amateur",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "marowak-alolan-form",
+    "DexCategory": "Bone Keeper Pokemon",
+    "Height": {
+        "Meters": 1.0,
+        "Feet": 3.3
+    },
+    "Weight": {
+        "Kilograms": 34.0,
+        "Pounds": 75.0
+    },
+    "DexDescription": "Alola has many predators for an orphaned Cubone, so its mother\u2019s spirit lingered close to protect her baby. This otherworldly influence made Marowak fiercer and changed its type completely.",
+    "Evolutions": [
+        {
+            "From": "Cubone",
+            "Kind": "Level",
+            "Speed": "Slow",
+            "Region": "Alola"
+        }
+    ],
+    "Image": "marowak-alolan-form.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Growl"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Tail Whip"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Bone Club"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Hex"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Leer"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Flame Wheel"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Bonemerang"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Will-O-Wisp"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Shadow Bone"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Endeavor"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Fling"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Stomping Tantrum"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Thrash"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Flare Blitz"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Retaliate"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Bone Rush"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Perish Song"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Brutal Swing"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Flame Charge"
+        }
+    ]
+}

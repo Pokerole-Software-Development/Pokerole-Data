@@ -1,0 +1,123 @@
+{
+    "Number": 685,
+    "DexID": "0685",
+    "Name": "Slurpuff",
+    "Type1": "Fairy",
+    "Type2": "",
+    "BaseHP": 4,
+    "Strength": 2,
+    "MaxStrength": 5,
+    "Dexterity": 2,
+    "MaxDexterity": 5,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 2,
+    "MaxSpecial": 5,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Sweet Veil",
+    "Ability2": "",
+    "HiddenAbility": "Unburden",
+    "EventAbilities": "",
+    "RecommendedRank": "Amateur",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "slurpuff",
+    "DexCategory": "Meringue Pokemon",
+    "Height": {
+        "Meters": 0.8,
+        "Feet": 2.6
+    },
+    "Weight": {
+        "Kilograms": 5.0,
+        "Pounds": 11.0
+    },
+    "DexDescription": "This Pokemon lives in human cities and towns. It has an extremely keen sense of smell. It puts its sensitive nose to use by helping bakers and chefs to find the most delicious ingredients.",
+    "Evolutions": [
+        {
+            "From": "Swirlix",
+            "Kind": "Trade",
+            "Item": "Whipped Dream"
+        }
+    ],
+    "Image": "slurpuff.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Sweet Scent"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Fairy Wind"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Play Nice"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Fake Tears"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Round"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Cotton Spore"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Endeavor"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Aromatherapy"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Draining Kiss"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Energy Ball"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Cotton Guard"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Wish"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Play Rough"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Light Screen"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Safeguard"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Belly Drum"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Drain Punch"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Copycat"
+        }
+    ]
+}

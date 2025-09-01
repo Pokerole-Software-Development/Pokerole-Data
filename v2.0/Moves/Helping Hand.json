@@ -1,0 +1,25 @@
+{
+    "Name": "Helping Hand",
+    "Type": "Normal",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Perform",
+    "Target": "One Ally",
+    "Effect": "Target Pokemon gets 2 Extra Dice on its next Skill, Accuracy and Damage Rolls. Priority 5.",
+    "Description": "The Pokemon assists an ally. Together they are stronger.",
+    "_id": "helping-hand",
+    "Attributes": {
+        "Priority": 5
+    },
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "HelpingHand",
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Support"
+}

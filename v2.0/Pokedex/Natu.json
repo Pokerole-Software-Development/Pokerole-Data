@@ -1,0 +1,123 @@
+{
+    "Number": 177,
+    "DexID": "0177",
+    "Name": "Natu",
+    "Type1": "Psychic",
+    "Type2": "Flying",
+    "BaseHP": 3,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 2,
+    "MaxDexterity": 5,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 2,
+    "MaxSpecial": 5,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Synchronize",
+    "Ability2": "Early Bird",
+    "HiddenAbility": "Magic Bounce",
+    "EventAbilities": "",
+    "RecommendedRank": "Beginner",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "natu",
+    "DexCategory": "Little Bird Pokemon",
+    "Height": {
+        "Meters": 0.2,
+        "Feet": 0.7
+    },
+    "Weight": {
+        "Kilograms": 2.0,
+        "Pounds": 4.4
+    },
+    "DexDescription": "It lives close to the deserts. Its wings are not fully developed so it hops to trees and cactus to peck something to eat. If you find one it will hold your stare, if you get closer it might disappear in an instant.",
+    "Evolutions": [
+        {
+            "To": "Xatu",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "natu.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Peck"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Leer"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Night Shade"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Teleport"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Lucky Chant"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Miracle Eye"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Me First"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Confuse Ray"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Ominous Wind"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Psycho Shift"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Stored Power"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Future Sight"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Wish"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Power Swap"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Guard Swap"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Psychic"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Pain Split"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Twister"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Haze"
+        }
+    ]
+}

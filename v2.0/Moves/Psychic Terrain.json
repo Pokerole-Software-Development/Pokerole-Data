@@ -1,0 +1,18 @@
+{
+    "Name": "Psychic Terrain",
+    "Type": "Psychic",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Special",
+    "Accuracy2": "Channel",
+    "Target": "Battlefield",
+    "Effect": "For the next 4 Rounds, all Psychic Attacks will deal 1 Extra Dice of Damage. No Pokemon on the ground can use moves with increased Priority.",
+    "Description": "The arena becomes radiated by psychic waves. Everyone begins to think slowly due to the buzz in their heads, making all tasks take more time.",
+    "_id": "psychic-terrain",
+    "Attributes": {},
+    "AddedEffects": {
+        "TerrainEffect": "PsychicTerrain"
+    },
+    "Category": "Support"
+}

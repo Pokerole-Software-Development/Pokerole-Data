@@ -1,0 +1,123 @@
+{
+    "Number": 94,
+    "DexID": "0094M1",
+    "Name": "Gengar (Mega Form)",
+    "Type1": "Ghost",
+    "Type2": "Poison",
+    "BaseHP": 6,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 3,
+    "MaxDexterity": 7,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 3,
+    "MaxSpecial": 9,
+    "Insight": 3,
+    "MaxInsight": 6,
+    "Ability1": "Shadow Tag",
+    "Ability2": "",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Pro",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "gengar-mega-form",
+    "DexCategory": "Shadow Pokemon",
+    "Height": {
+        "Meters": 1.4,
+        "Feet": 4.6
+    },
+    "Weight": {
+        "Kilograms": 40.5,
+        "Pounds": 89.3
+    },
+    "DexDescription": "With the power of the Mega Stone Gengar can now teleport through dimensions, whatever horrors it witnesses there make it try to curse anything or anyone it perceives as prey, even its beloved trainer!",
+    "Evolutions": [
+        {
+            "From": "Gengar",
+            "Kind": "Mega",
+            "Item": "Gengarite"
+        }
+    ],
+    "Image": "gengar-mega-form.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Spite"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Lick"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Curse"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Mean Look"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Night Shade"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Hypnosis"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Confuse Ray"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Sucker Punch"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Shadow Punch"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Payback"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Shadow Ball"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Dark Pulse"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Dream Eater"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Destiny Bond"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Hex"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Nightmare"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Perish Song"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Icy Wind"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Giga Drain"
+        }
+    ]
+}

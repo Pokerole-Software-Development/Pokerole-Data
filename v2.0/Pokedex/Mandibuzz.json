@@ -1,0 +1,127 @@
+{
+    "Number": 630,
+    "DexID": "0630",
+    "Name": "Mandibuzz",
+    "Type1": "Dark",
+    "Type2": "Flying",
+    "BaseHP": 5,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 2,
+    "MaxDexterity": 5,
+    "Vitality": 3,
+    "MaxVitality": 6,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 3,
+    "MaxInsight": 6,
+    "Ability1": "Big Pecks",
+    "Ability2": "Overcoat",
+    "HiddenAbility": "Weak Armor",
+    "EventAbilities": "",
+    "RecommendedRank": "Amateur",
+    "GenderType": "F",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "mandibuzz",
+    "DexCategory": "Bone Vulture Pokemon",
+    "Height": {
+        "Meters": 1.2,
+        "Feet": 3.9
+    },
+    "Weight": {
+        "Kilograms": 39.5,
+        "Pounds": 87.1
+    },
+    "DexDescription": "They fly in circles around the sky when they spot prey. They carry the carcass back to their nest with ease. They like to look beautiful and create ornaments and jewelry using bone pieces.",
+    "Evolutions": [
+        {
+            "From": "Vullaby",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "mandibuzz.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Gust"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Leer"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Fury Attack"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Pluck"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Nasty Plot"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Flatter"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Feint Attack"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Punishment"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Defog"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Tailwind"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Air Slash"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Dark Pulse"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Bone Rush"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Mirror Move"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Embargo"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Whirlwind"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Brave Bird"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Scary Face"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Fake Tears"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Iron Defense"
+        }
+    ]
+}

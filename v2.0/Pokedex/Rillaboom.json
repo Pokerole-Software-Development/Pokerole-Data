@@ -1,0 +1,123 @@
+{
+    "Number": 812,
+    "DexID": "0812",
+    "Name": "Rillaboom",
+    "Type1": "Grass",
+    "Type2": "",
+    "BaseHP": 6,
+    "Strength": 3,
+    "MaxStrength": 7,
+    "Dexterity": 2,
+    "MaxDexterity": 5,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Overgrow",
+    "Ability2": "",
+    "HiddenAbility": "Grassy Surge",
+    "EventAbilities": "",
+    "RecommendedRank": "Ace",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "rillaboom",
+    "DexCategory": "Drummer Pokemon",
+    "Height": {
+        "Meters": 2.1,
+        "Feet": 6.9
+    },
+    "Weight": {
+        "Kilograms": 90.0,
+        "Pounds": 198.4
+    },
+    "DexDescription": "The leader owns the largest drum among its troop and has the best drumming technique which makes roots sprout to attack its foes. But they are peaceful and kind, creatures that value harmony in their group.",
+    "Evolutions": [
+        {
+            "From": "Thwackey",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "rillaboom.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Drum Beating"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Double Hit"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Grassy Terrain"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Noble Roar"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Scratch"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Growl"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Branch Poke"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Taunt"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Razor Leaf"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Screech"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Knock Off"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Slam"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Uproar"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Wood Hammer"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Endeavor"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Boomburst"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Growth"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Nature Power"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Frenzy Plant"
+        }
+    ]
+}

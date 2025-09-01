@@ -1,0 +1,123 @@
+{
+    "Number": 299,
+    "DexID": "0299",
+    "Name": "Nosepass",
+    "Type1": "Rock",
+    "Type2": "",
+    "BaseHP": 3,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 1,
+    "MaxDexterity": 3,
+    "Vitality": 3,
+    "MaxVitality": 7,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Sturdy",
+    "Ability2": "Magnet Pull",
+    "HiddenAbility": "Sand Force",
+    "EventAbilities": "",
+    "RecommendedRank": "Beginner",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "nosepass",
+    "DexCategory": "Nosepass Pokemon",
+    "Height": {
+        "Meters": 1.0,
+        "Feet": 3.3
+    },
+    "Weight": {
+        "Kilograms": 97.0,
+        "Pounds": 213.8
+    },
+    "DexDescription": "Their magnetic noses always point to the north. They were thought to be immobile, but it was recently revealed that they actually move 3/8 of an inch every year. They get a little crazy when magnets are close.",
+    "Evolutions": [
+        {
+            "To": "Probopass",
+            "Kind": "Special",
+            "Special": "A trip to New Mauville"
+        }
+    ],
+    "Image": "nosepass.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Harden"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Block"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Rock Throw"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Thunder Wave"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Rock Blast"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Rest"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Spark"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Rock Slide"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Power Gem"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Sandstorm"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Discharge"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Earth Power"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Stone Edge"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Lock-On"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Zap Cannon"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Stealth Rock"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Self Destruct"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Magic Coat"
+        }
+    ]
+}

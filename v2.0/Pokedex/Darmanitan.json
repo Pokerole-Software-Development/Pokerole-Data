@@ -1,0 +1,131 @@
+{
+    "Number": 555,
+    "DexID": "0555",
+    "Name": "Darmanitan",
+    "Type1": "Fire",
+    "Type2": "",
+    "BaseHP": 5,
+    "Strength": 3,
+    "MaxStrength": 7,
+    "Dexterity": 2,
+    "MaxDexterity": 5,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 1,
+    "MaxSpecial": 3,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Sheer Force",
+    "Ability2": "",
+    "HiddenAbility": "Zen Mode",
+    "EventAbilities": "",
+    "RecommendedRank": "Amateur",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "darmanitan",
+    "DexCategory": "Blazing Pokemon",
+    "Height": {
+        "Meters": 1.3,
+        "Feet": 4.3
+    },
+    "Weight": {
+        "Kilograms": 92.9,
+        "Pounds": 204.8
+    },
+    "DexDescription": "This Pokemon is shrouded in mystery as old writings and mural paintings describe it as being blue and using psychic powers, but years of study have not seen those traits on this Pokemon that relies on brute force.",
+    "Evolutions": [
+        {
+            "From": "Darumaka",
+            "Kind": "Level",
+            "Speed": "Medium"
+        },
+        {
+            "To": "Darmanitan (Zen Form)",
+            "Kind": "Form"
+        }
+    ],
+    "Image": "darmanitan.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Rollout"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Incinerate"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Rage"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Fire Fang"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Headbutt"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Swagger"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Facade"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Fire Punch"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Work Up"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Taunt"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Belly Drum"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Thrash"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Hammer Arm"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Flare Blitz"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Superpower"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Overheat"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Heat Wave"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Zen Headbutt"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Psychic"
+        }
+    ]
+}

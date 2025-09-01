@@ -1,0 +1,131 @@
+{
+    "Number": 87,
+    "DexID": "0087",
+    "Name": "Dewgong",
+    "Type1": "Water",
+    "Type2": "Ice",
+    "BaseHP": 4,
+    "Strength": 2,
+    "MaxStrength": 5,
+    "Dexterity": 2,
+    "MaxDexterity": 5,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 2,
+    "MaxSpecial": 5,
+    "Insight": 3,
+    "MaxInsight": 6,
+    "Ability1": "Thick Fat",
+    "Ability2": "Hydration",
+    "HiddenAbility": "Ice Body",
+    "EventAbilities": "",
+    "RecommendedRank": "Amateur",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "dewgong",
+    "DexCategory": "Sea Lion Pokemon",
+    "Height": {
+        "Meters": 1.7,
+        "Feet": 5.6
+    },
+    "Weight": {
+        "Kilograms": 120.0,
+        "Pounds": 264.6
+    },
+    "DexDescription": "Its body is covered with a pure white fur. The colder the weather, the more active it becomes. It hunts at night and it\u2019s excellent at catching fish Pokemon. It is also very intelligent and playful.",
+    "Evolutions": [
+        {
+            "From": "Seel",
+            "Kind": "Level",
+            "Speed": "Slow"
+        }
+    ],
+    "Image": "dewgong.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Signal Beam"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Growl"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Encore"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Icy Wind"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Take Down"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Ice Shard"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Rest"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Aqua Ring"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Aurora Beam"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Aqua Jet"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Brine"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Sheer Cold"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Headbutt"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Dive"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Aqua Tail"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Ice Beam"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Safeguard"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Hail"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Avalanche"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Perish Song"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Horn Drill"
+        }
+    ]
+}

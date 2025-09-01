@@ -1,0 +1,128 @@
+{
+    "Number": 233,
+    "DexID": "0233",
+    "Name": "Porygon2",
+    "Type1": "Normal",
+    "Type2": "",
+    "BaseHP": 4,
+    "Strength": 2,
+    "MaxStrength": 5,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 3,
+    "MaxSpecial": 6,
+    "Insight": 3,
+    "MaxInsight": 6,
+    "Ability1": "Trace",
+    "Ability2": "Download",
+    "HiddenAbility": "Analytic",
+    "EventAbilities": "",
+    "RecommendedRank": "Ace",
+    "GenderType": "N",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "porygon2",
+    "DexCategory": "Virtual Pokemon",
+    "Height": {
+        "Meters": 0.6,
+        "Feet": 2.0
+    },
+    "Weight": {
+        "Kilograms": 32.5,
+        "Pounds": 71.7
+    },
+    "DexDescription": "This man-made Pokemon is an upgraded version of Porygon. Used for space exploration and planetary development, boasting the power of science. Its AI software allows it to learn on its own.",
+    "Evolutions": [
+        {
+            "From": "Porygon",
+            "Kind": "Trade",
+            "Item": "Upgrade "
+        },
+        {
+            "To": "Porygon-Z",
+            "Kind": "Trade",
+            "Item": "Dubious Disc"
+        }
+    ],
+    "Image": "porygon2.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Conversion"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Conversion 2"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Defense Curl"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Psybeam"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Agility"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Recover"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Magnet Rise"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Signal Beam"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Recycle"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Discharge"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Lock-On"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Tri Attack"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Magic Coat"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Zap Cannon"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Hyper Beam"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Gravity"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Pain Split"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Shock Wave"
+        }
+    ]
+}

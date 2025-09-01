@@ -1,0 +1,26 @@
+{
+    "Name": "Block (Dexterity)",
+    "Type": "Normal",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "Single Target. Blocks. Whole Scene Duration.",
+    "Description": "You don't seem to understand. I'm not blocked in here with you... You are blocked in here with me!",
+    "_id": "block-(dexterity)",
+    "Attributes": {
+        "BlockDamagePool": 0,
+        "Duration": "wholeScene"
+    },
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Block",
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Support"
+}

@@ -1,0 +1,115 @@
+{
+    "Number": 200,
+    "DexID": "0200",
+    "Name": "Misdreavus",
+    "Type1": "Ghost",
+    "Type2": "",
+    "BaseHP": 3,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 2,
+    "MaxDexterity": 5,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 2,
+    "MaxSpecial": 5,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Levitate",
+    "Ability2": "",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Amateur",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "misdreavus",
+    "DexCategory": "Screech Pokemon",
+    "Height": {
+        "Meters": 0.7,
+        "Feet": 2.3
+    },
+    "Weight": {
+        "Kilograms": 1.0,
+        "Pounds": 2.2
+    },
+    "DexDescription": "Misdreavus frightens people with a creepy, sobbing cry. It uses the red spheres on its neck to absorb fear as nutrition. It takes a wicked pleasure in startling and scaring people.",
+    "Evolutions": [
+        {
+            "To": "Mismagius",
+            "Kind": "Stone",
+            "Item": "Dusk Stone"
+        }
+    ],
+    "Image": "misdreavus.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Growl"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Psywave"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Spite"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Astonish"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Confuse Ray"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Mean Look"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Hex"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Psybeam"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Pain Split"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Payback"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Shadow Ball"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Perish Song"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Grudge"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Power Gem"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Shadow Sneak"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Icy Wind"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Nasty Plot"
+        }
+    ]
+}

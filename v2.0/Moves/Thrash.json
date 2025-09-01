@@ -1,0 +1,18 @@
+{
+    "Name": "Thrash",
+    "Type": "Normal",
+    "Power": 5,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Strength",
+    "Accuracy2": "Brawl",
+    "Target": "Random Foe",
+    "Effect": "Rampage.",
+    "Description": "The Pokemon rampages and starts to attack and destroy everything on its path.",
+    "_id": "thrash",
+    "Attributes": {
+        "Rampage": true
+    },
+    "AddedEffects": {},
+    "Category": "Physical"
+}

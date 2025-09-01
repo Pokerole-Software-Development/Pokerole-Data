@@ -1,0 +1,26 @@
+{
+    "Name": "Defense Curl",
+    "Type": "Normal",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Vitality",
+    "Accuracy2": "Brawl",
+    "Target": "User",
+    "Effect": "Increase the User's Defense.",
+    "Description": "The user curls like a ball to protect against most threats.",
+    "_id": "defense-curl",
+    "Attributes": {},
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "Def"
+                ],
+                "Stages": 1,
+                "Affects": "User"
+            }
+        ]
+    },
+    "Category": "Support"
+}

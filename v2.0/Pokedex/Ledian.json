@@ -1,0 +1,115 @@
+{
+    "Number": 166,
+    "DexID": "0166",
+    "Name": "Ledian",
+    "Type1": "Bug",
+    "Type2": "Flying",
+    "BaseHP": 4,
+    "Strength": 1,
+    "MaxStrength": 3,
+    "Dexterity": 2,
+    "MaxDexterity": 5,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 3,
+    "MaxInsight": 6,
+    "Ability1": "Swarm",
+    "Ability2": "Early Bird",
+    "HiddenAbility": "Iron Fist",
+    "EventAbilities": "",
+    "RecommendedRank": "Amateur",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "ledian",
+    "DexCategory": "Five Star Pokemon",
+    "Height": {
+        "Meters": 1.4,
+        "Feet": 4.6
+    },
+    "Weight": {
+        "Kilograms": 35.6,
+        "Pounds": 78.5
+    },
+    "DexDescription": "When the stars flicker in the night sky, it flutters about scattering a glowing powder. The spot patterns on its back grow larger or smaller at night depending on the number of stars in the sky.",
+    "Evolutions": [
+        {
+            "From": "Ledyba",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "ledian.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Supersonic"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Comet Punch"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Light Screen"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Reflect"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Safeguard"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Mach Punch"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Baton Pass"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Silver Wind"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Agility"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Air Slash"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Swift"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Double-Edge"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Bug Buzz"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Giga Drain"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Air Cutter"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Psybeam"
+        }
+    ]
+}

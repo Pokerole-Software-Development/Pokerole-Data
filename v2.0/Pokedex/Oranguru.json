@@ -1,0 +1,113 @@
+{
+    "Number": 765,
+    "DexID": "0765",
+    "Name": "Oranguru",
+    "Type1": "Normal",
+    "Type2": "Psychic",
+    "BaseHP": 4,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 2,
+    "MaxSpecial": 5,
+    "Insight": 3,
+    "MaxInsight": 6,
+    "Ability1": "Inner Focus",
+    "Ability2": "Telepathy",
+    "HiddenAbility": "Symbiosis",
+    "EventAbilities": "",
+    "RecommendedRank": "Amateur",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "oranguru",
+    "DexCategory": "Sage Pokemon",
+    "Height": {
+        "Meters": 1.5,
+        "Feet": 4.9
+    },
+    "Weight": {
+        "Kilograms": 76.0,
+        "Pounds": 167.6
+    },
+    "DexDescription": "These solitary Pokemon live deep in the forests where it provides food and herbal medicine to those in need. It is incredibly smart even learning how to use pokeballs, for that reason it dislikes being ordered around.",
+    "Evolutions": [],
+    "Image": "oranguru.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Confusion"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "After You"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Taunt"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Quash"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Stored Power"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Psych Up"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Feint Attack"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Nasty Plot"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Zen Headbutt"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Instruct"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Foul Play"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Calm Mind"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Psychic"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Future Sight"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Trick Room"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Psychic Terrain"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Wonder Room"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Extrasensory"
+        }
+    ]
+}

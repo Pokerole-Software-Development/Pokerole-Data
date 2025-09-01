@@ -1,0 +1,19 @@
+{
+    "Name": "Crafty Shield",
+    "Type": "Fairy",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Insight",
+    "Accuracy2": "Nature",
+    "Target": "User and Allies",
+    "Effect": "Priority 3. The User and its Allies are protected from the effects of a Support Move. Shield.",
+    "Description": "The Pokemon creates a magic shield to protect everyone from the bad tricks a foe might have under its sleeve. Under this shield, everyone can see dishonesty and bad intentions.",
+    "_id": "crafty-shield",
+    "Attributes": {
+        "ShieldMove": true,
+        "Priority": 3
+    },
+    "AddedEffects": {},
+    "Category": "Support"
+}

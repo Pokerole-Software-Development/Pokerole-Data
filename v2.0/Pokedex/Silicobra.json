@@ -1,0 +1,107 @@
+{
+    "Number": 843,
+    "DexID": "0843",
+    "Name": "Silicobra",
+    "Type1": "Ground",
+    "Type2": "",
+    "BaseHP": 4,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 1,
+    "MaxSpecial": 3,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Sand Spit",
+    "Ability2": "Shed Skin",
+    "HiddenAbility": "Sand Veil",
+    "EventAbilities": "",
+    "RecommendedRank": "Amateur",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "silicobra",
+    "DexCategory": "Sand Snake Pokemon",
+    "Height": {
+        "Meters": 2.2,
+        "Feet": 7.2
+    },
+    "Weight": {
+        "Kilograms": 7.6,
+        "Pounds": 16.8
+    },
+    "DexDescription": "Silicobra can appear to be very aggressive but they just want to be left alone. They spew sand from their nostrils and while the foe is blinded, they burrow back into the ground to hide.",
+    "Evolutions": [
+        {
+            "To": "Sandaconda",
+            "Kind": "Level",
+            "Speed": "Slow"
+        }
+    ],
+    "Image": "silicobra.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Wrap"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Sand Attack"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Minimize"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Brutal Swing"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Bulldoze"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Slam"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Glare"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Dig"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Sandstorm"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Headbutt"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Coil"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Sand Tomb"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Mud Slap"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Poison Tail"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Last Resort"
+        }
+    ]
+}

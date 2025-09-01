@@ -1,0 +1,25 @@
+{
+    "Name": "Will-O-Wisp",
+    "Type": "Fire",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Channel",
+    "Target": "Foe",
+    "Effect": "Burn the Foe. -2 Accuracy.",
+    "Description": "The user calls a floating ember to consume the foe.",
+    "_id": "will-o-wisp",
+    "Attributes": {
+        "AccuracyReduction": 2
+    },
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Burn",
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Support"
+}

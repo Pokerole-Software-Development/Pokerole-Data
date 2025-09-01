@@ -1,0 +1,27 @@
+{
+    "Name": "Bulk Up",
+    "Type": "Fighting",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Vitality",
+    "Accuracy2": "Athletic",
+    "Target": "User",
+    "Effect": "Increase the User's Strength and Defense.",
+    "Description": "The Pokemon shows its muscles with intimidating poses to look bigger and stronger.",
+    "_id": "bulk-up",
+    "Attributes": {},
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "Strength",
+                    "Def"
+                ],
+                "Stages": 1,
+                "Affects": "User"
+            }
+        ]
+    },
+    "Category": "Support"
+}

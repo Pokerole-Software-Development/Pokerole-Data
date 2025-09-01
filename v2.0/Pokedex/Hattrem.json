@@ -1,0 +1,112 @@
+{
+    "Number": 857,
+    "DexID": "0857",
+    "Name": "Hattrem",
+    "Type1": "Psychic",
+    "Type2": "",
+    "BaseHP": 4,
+    "Strength": 1,
+    "MaxStrength": 3,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 2,
+    "MaxSpecial": 5,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Healer",
+    "Ability2": "Anticipation",
+    "HiddenAbility": "Magic Bounce",
+    "EventAbilities": "",
+    "RecommendedRank": "Amateur",
+    "GenderType": "F",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "hattrem",
+    "DexCategory": "Serene Pokemon",
+    "Height": {
+        "Meters": 0.6,
+        "Feet": 2.0
+    },
+    "Weight": {
+        "Kilograms": 4.8,
+        "Pounds": 10.6
+    },
+    "DexDescription": "It may seem friendly but it is actually quite the loner. No matter who you are, if you bring strong emotions near it, it will silence you violently by hitting you with its braids. It dislikes crowded places.",
+    "Evolutions": [
+        {
+            "From": "Hatenna",
+            "Kind": "Level",
+            "Speed": "Medium"
+        },
+        {
+            "To": "Hatterene",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "hattrem.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Confusion"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Play Nice"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Life Dew"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Disarming Voice"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Aromatherapy"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Psybeam"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Heal Pulse"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Dazzling Gleam"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Calm Mind"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Brutal Swing"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Healing Wish"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Psychic"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Nuzzle"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Endure"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Quash"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "Name": "Defend Order",
+    "Type": "Bug",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Tough",
+    "Accuracy2": "Nature",
+    "Target": "User",
+    "Effect": "User Increases its Defense and Sp. Defense.",
+    "Description": "A swarm of bugs flies around the user, creating a barrier to protect this Pokemon from damage.",
+    "_id": "defend-order",
+    "Attributes": {},
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "Defense",
+                    "SpDefense"
+                ],
+                "Stages": 1,
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Support"
+}

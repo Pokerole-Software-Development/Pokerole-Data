@@ -1,0 +1,19 @@
+{
+    "Name": "Mach Punch",
+    "Type": "Fighting",
+    "Power": 2,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "Fist Based. Priority 1.",
+    "Description": "The user launches a punch so quickly that it's barely seen.",
+    "_id": "mach-punch",
+    "Attributes": {
+        "FistBased": true,
+        "Priority": 1
+    },
+    "AddedEffects": {},
+    "Category": "Physical"
+}

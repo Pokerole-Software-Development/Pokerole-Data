@@ -1,0 +1,28 @@
+{
+    "Name": "Growl (Tough)",
+    "Type": "Normal",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Tough",
+    "Accuracy2": "Perform",
+    "Target": "All Foes",
+    "Effect": "Reduce the foe's Strength. Sound Based. Same move as \"Growl (Cute)\", the user should use the one with highest stat (tough / cute)",
+    "Description": "The user exhibits a menacing attitude, making the foe unsure about attacking the user with full force.",
+    "_id": "growl-(tough)",
+    "Attributes": {
+        "SoundBased": true
+    },
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "Strength"
+                ],
+                "Stages": -1,
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Support"
+}

@@ -1,0 +1,24 @@
+{
+    "Name": "Poison Fang",
+    "Type": "Poison",
+    "Power": 2,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "Roll 5 Chance Dice to Badly Poison the Foe.",
+    "Description": "The Pokemon bites the foe and injects its poison directly through its fangs. After that it just waits for the poison to slowly take care of its foe.",
+    "_id": "poison-fang",
+    "Attributes": {},
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "BadlyPoison",
+                "Affects": "Targets",
+                "ChanceDice": 5
+            }
+        ]
+    },
+    "Category": "Physical"
+}

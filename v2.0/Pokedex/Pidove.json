@@ -1,0 +1,119 @@
+{
+    "Number": 519,
+    "DexID": "0519",
+    "Name": "Pidove",
+    "Type1": "Normal",
+    "Type2": "Flying",
+    "BaseHP": 3,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 1,
+    "MaxDexterity": 3,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 1,
+    "MaxSpecial": 3,
+    "Insight": 1,
+    "MaxInsight": 3,
+    "Ability1": "Big Pecks",
+    "Ability2": "Super Luck",
+    "HiddenAbility": "Rivalry",
+    "EventAbilities": "",
+    "RecommendedRank": "Starter",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "pidove",
+    "DexCategory": "Tiny Pigeon Pokemon",
+    "Height": {
+        "Meters": 0.3,
+        "Feet": 1.0
+    },
+    "Weight": {
+        "Kilograms": 2.1,
+        "Pounds": 4.6
+    },
+    "DexDescription": "These Pokemon thrive in the cities. They are accustomed to people and they often gather in the parks. They are forgetful and not very smart, but they always remember the way back home.",
+    "Evolutions": [
+        {
+            "To": "Tranquill",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "pidove.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Gust"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Growl"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Leer"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Quick Attack"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Air Cutter"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Roost"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Detect"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Taunt"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Air Slash"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Razor Wind"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Feather Dance"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Swagger"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Facade"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Tailwind"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Sky Attack"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Steel Wing"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Lucky Chant"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Hypnosis"
+        }
+    ]
+}

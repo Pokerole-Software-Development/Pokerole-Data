@@ -1,0 +1,26 @@
+{
+    "Name": "Thousand Waves",
+    "Type": "Ground",
+    "Power": 3,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Special",
+    "Accuracy2": "Brawl",
+    "Target": "All Foes",
+    "Effect": "Blocks. Ranged. All Foes in Range.",
+    "Description": "Solid ground becomes a sandtrap, cracked earth will close to ensnare your feet. It's as it the land itself wanted to trap you. There is no attacker nor escape in sight.",
+    "_id": "thousand-waves",
+    "Attributes": {
+        "PhysicalRanged": true,
+        "BlockDamagePool": 0
+    },
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Block",
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Physical"
+}

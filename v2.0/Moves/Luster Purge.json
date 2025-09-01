@@ -1,0 +1,27 @@
+{
+    "Name": "Luster Purge",
+    "Type": "Psychic",
+    "Power": 2,
+    "Damage1": "Special",
+    "Damage2": "",
+    "Accuracy1": "Special",
+    "Accuracy2": "Channel",
+    "Target": "Foe",
+    "Effect": "Roll 5 Chance Dice to Reduce the foe's Sp. Defense. This Effect can be repeated up to 3 times per Target.",
+    "Description": "The user engulfs itself in a blinding light and shoots a beam at its foe. This light leaves the foe powerless to resist against anyone.",
+    "_id": "luster-purge",
+    "Attributes": {},
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "SpDef"
+                ],
+                "Stages": -1,
+                "ChanceDice": 5,
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Special"
+}

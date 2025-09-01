@@ -1,0 +1,135 @@
+{
+    "Number": 380,
+    "DexID": "0380M1",
+    "Name": "Latias (Mega Form)",
+    "Type1": "Dragon",
+    "Type2": "Psychic",
+    "BaseHP": 5,
+    "Strength": 6,
+    "MaxStrength": 6,
+    "Dexterity": 6,
+    "MaxDexterity": 6,
+    "Vitality": 7,
+    "MaxVitality": 7,
+    "Special": 7,
+    "MaxSpecial": 7,
+    "Insight": 8,
+    "MaxInsight": 8,
+    "Ability1": "Levitate",
+    "Ability2": "",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Master",
+    "GenderType": "F",
+    "Legendary": true,
+    "GoodStarter": false,
+    "_id": "latias-mega-form",
+    "DexCategory": "No Data",
+    "Height": {
+        "Meters": 1.8,
+        "Feet": 5.9
+    },
+    "Weight": {
+        "Kilograms": 52.0,
+        "Pounds": 114.6
+    },
+    "DexDescription": "Latias is very in sync with human emotions, it can communicate using telepathy. With the power of the Mega Stone all of its capabilities are enhanced although its personality becomes more distant than usual.",
+    "Evolutions": [
+        {
+            "From": "Latias",
+            "Kind": "Mega",
+            "Item": "Latiasite"
+        }
+    ],
+    "Image": "latias-mega-form.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Helping Hand"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Safeguard"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Psywave"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Wish"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Water Sport"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Charm"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Stored Power"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Refresh"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Heal Pulse"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Dragon Breath"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Mist Ball"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Psycho Shift"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Recover"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Reflect Type"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Zen Headbutt"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Guard Split"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Psychic"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Dragon Pulse"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Healing Wish"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Camouflage"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Transform"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Role Play"
+        }
+    ]
+}

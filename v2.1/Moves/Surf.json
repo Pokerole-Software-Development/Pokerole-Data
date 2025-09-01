@@ -1,0 +1,16 @@
+{
+    "Name": "Surf",
+    "Type": "Water",
+    "Power": 4,
+    "Damage1": "Special",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Channel",
+    "Target": "Area",
+    "Effect": "Area Move. If a Target is Out of Range due to using the Move 'Dive', this Move hits anyways.",
+    "Description": "A giant wave of water sweeps the area while the user swims on top of it.",
+    "_id": "surf",
+    "Attributes": {},
+    "AddedEffects": {},
+    "Category": "Special"
+}

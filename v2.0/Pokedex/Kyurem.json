@@ -1,0 +1,138 @@
+{
+    "Number": 646,
+    "DexID": "0646",
+    "Name": "Kyurem",
+    "Type1": "Dragon",
+    "Type2": "Ice",
+    "BaseHP": 6,
+    "Strength": 7,
+    "MaxStrength": 7,
+    "Dexterity": 6,
+    "MaxDexterity": 6,
+    "Vitality": 5,
+    "MaxVitality": 5,
+    "Special": 7,
+    "MaxSpecial": 7,
+    "Insight": 5,
+    "MaxInsight": 5,
+    "Ability1": "Pressure",
+    "Ability2": "",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Master",
+    "GenderType": "N",
+    "Legendary": true,
+    "GoodStarter": false,
+    "_id": "kyurem",
+    "DexCategory": "No Data",
+    "Height": {
+        "Meters": 3.0,
+        "Feet": 9.8
+    },
+    "Weight": {
+        "Kilograms": 325.0,
+        "Pounds": 716.5
+    },
+    "DexDescription": "Inside a remote and frozen cave there are some old paintings. They depict a giant dragon being thorn apart into a black and white shards Of the rest of the picture only shattered fragments of ice remain.",
+    "Evolutions": [
+        {
+            "To": "Kyurem (Black Form)",
+            "Kind": "Form"
+        },
+        {
+            "To": "Kyurem (White Form)",
+            "Kind": "Form"
+        }
+    ],
+    "Image": "kyurem.png",
+    "Moves": [
+        {
+            "Learned": "Master",
+            "Name": "Icy Wind"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Dragon Rage"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Imprison"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Ancient Power"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Ice Beam"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Dragon Breath"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Slash"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Scary Face"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Glaciate"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Dragon Pulse"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Noble Roar"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Endeavor"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Blizzard"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Outrage"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Hyper Voice"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Substitute"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Hail"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Haze"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Mist"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Recover"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Sheer Cold"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Power Split"
+        }
+    ]
+}

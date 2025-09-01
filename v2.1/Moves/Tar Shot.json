@@ -1,0 +1,32 @@
+{
+    "Name": "Tar Shot",
+    "Type": "Rock",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Clever",
+    "Accuracy2": "Channel",
+    "Target": "Foe",
+    "Effect": "Single Target. Reduce the Target's Dexterity by 1. For the Whole Scene, Fire-Type Moves will deal Super-Effective damage against the Target.",
+    "Description": "The Pokémon gushes a blob of black tar over its foe. The unfortunate victim can barely move afterwards. Keep it away from fire sources: tar is extrmely flammable.",
+    "_id": "tar-shot",
+    "Attributes": {},
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "Dexterity"
+                ],
+                "Stages": -1,
+                "Affects": "Targets"
+            }
+        ],
+        "Ailments": [
+            {
+                "Type": "TarShot",
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Support"
+}

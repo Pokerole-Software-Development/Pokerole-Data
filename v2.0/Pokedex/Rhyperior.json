@@ -1,0 +1,123 @@
+{
+    "Number": 464,
+    "DexID": "0464",
+    "Name": "Rhyperior",
+    "Type1": "Ground",
+    "Type2": "Rock",
+    "BaseHP": 6,
+    "Strength": 3,
+    "MaxStrength": 7,
+    "Dexterity": 1,
+    "MaxDexterity": 3,
+    "Vitality": 3,
+    "MaxVitality": 7,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Lightning Rod",
+    "Ability2": "Solid Rock",
+    "HiddenAbility": "Reckless",
+    "EventAbilities": "",
+    "RecommendedRank": "Pro",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "rhyperior",
+    "DexCategory": "Drill Pokemon",
+    "Height": {
+        "Meters": 2.4,
+        "Feet": 7.9
+    },
+    "Weight": {
+        "Kilograms": 282.8,
+        "Pounds": 623.5
+    },
+    "DexDescription": "They have rarely been seen in the wild and only in the tallest mountains. It has holes on its hands which are used like canons to shoot boulders. Be careful, they are very aggressive but not very smart.",
+    "Evolutions": [
+        {
+            "From": "Rhydon",
+            "Kind": "Trade",
+            "Item": "Protector"
+        }
+    ],
+    "Image": "rhyperior.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Tail Whip"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Horn Attack"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Stomp"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Poison Jab"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Fury Attack"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Scary Face"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Rock Blast"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Chip Away"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Take Down"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Hammer Arm"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Drill Run"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Stone Edge"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Earthquake"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Horn Drill"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Megahorn"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Rock Wrecker"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Guard Split"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Smart Strike"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Dragon Rush"
+        }
+    ]
+}

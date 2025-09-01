@@ -1,0 +1,19 @@
+{
+    "Name": "Thousand Arrows",
+    "Type": "Ground",
+    "Power": 3,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Strength",
+    "Accuracy2": "Channel",
+    "Target": "All Foes",
+    "Effect": "Lethal. Ranged. All Foes in Range. If successful, Flying and Levitating Pokemon can be hit by Ground-Type Moves for the rest of the scene.",
+    "Description": "Out of nowhere, pointy shards come raining from the sky towards the foes, even flying creatures will fall to the ground if they are knocked by them. Take cover, this is gonna hurt.",
+    "_id": "thousand-arrows",
+    "Attributes": {
+        "Lethal": true,
+        "PhysicalRanged": true
+    },
+    "AddedEffects": {},
+    "Category": "Physical"
+}

@@ -1,0 +1,71 @@
+{
+    "Number": 401,
+    "DexID": "0401",
+    "Name": "Kricketot",
+    "Type1": "Bug",
+    "Type2": "",
+    "BaseHP": 3,
+    "Strength": 1,
+    "MaxStrength": 3,
+    "Dexterity": 1,
+    "MaxDexterity": 3,
+    "Vitality": 1,
+    "MaxVitality": 3,
+    "Special": 1,
+    "MaxSpecial": 3,
+    "Insight": 1,
+    "MaxInsight": 3,
+    "Ability1": "Shed Skin",
+    "Ability2": "",
+    "HiddenAbility": "Run Away",
+    "EventAbilities": "",
+    "RecommendedRank": "Starter",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "kricketot",
+    "DexCategory": "Cricket Pokemon",
+    "Height": {
+        "Meters": 0.3,
+        "Feet": 1.0
+    },
+    "Weight": {
+        "Kilograms": 2.2,
+        "Pounds": 4.9
+    },
+    "DexDescription": "If you hear a xilophone-like sound at night it means that this Pokemon is roaming close. It communicates by making rhythmic sounds with its antennae. It is not aggressive and feeds on honey and tree sap.",
+    "Evolutions": [
+        {
+            "To": "Kricketune",
+            "Kind": "Level",
+            "Speed": "Fast"
+        }
+    ],
+    "Image": "kricketot.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Growl"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Bide"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Struggle Bug"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Bug Bite"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Uproar"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "String Shot"
+        }
+    ]
+}

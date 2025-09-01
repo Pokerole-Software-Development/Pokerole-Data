@@ -1,0 +1,24 @@
+{
+    "Name": "Lick",
+    "Type": "Ghost",
+    "Power": 1,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "Roll 3 Chance Dice to Paralyze the Foe.",
+    "Description": "The user licks the foe. The saliva can numb the body of most creatures.",
+    "_id": "lick",
+    "Attributes": {},
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Paralyze",
+                "Affects": "Targets",
+                "ChanceDice": 3
+            }
+        ]
+    },
+    "Category": "Physical"
+}

@@ -1,0 +1,26 @@
+{
+    "Name": "Acid Armor",
+    "Type": "Poison",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Special",
+    "Accuracy2": "Nature",
+    "Target": "User",
+    "Effect": "Increase the User's Defense by 2.",
+    "Description": "A liquid acid substance seeps through this Pokemon's body turning it into a liquid-like state. The acid deters foes from touching this Pokemon at full force.",
+    "_id": "acid-armor",
+    "Attributes": {},
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "Def"
+                ],
+                "Stages": 2,
+                "Affects": "User"
+            }
+        ]
+    },
+    "Category": "Support"
+}

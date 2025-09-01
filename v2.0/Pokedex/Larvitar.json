@@ -1,0 +1,115 @@
+{
+    "Number": 246,
+    "DexID": "0246",
+    "Name": "Larvitar",
+    "Type1": "Rock",
+    "Type2": "Ground",
+    "BaseHP": 3,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 1,
+    "MaxDexterity": 3,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Guts",
+    "Ability2": "",
+    "HiddenAbility": "Sand Veil",
+    "EventAbilities": "",
+    "RecommendedRank": "Amateur",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "larvitar",
+    "DexCategory": "Rock Skin Pokemon",
+    "Height": {
+        "Meters": 0.6,
+        "Feet": 2.0
+    },
+    "Weight": {
+        "Kilograms": 72.0,
+        "Pounds": 158.7
+    },
+    "DexDescription": "Born deep underground, they don\u2019t emerge until they\u2019ve eaten a whole mountain of soil. Only the strongest and more ferocious ever come out to roam about. They hate being disturbed.",
+    "Evolutions": [
+        {
+            "To": "Pupitar",
+            "Kind": "Level",
+            "Speed": "Slow"
+        }
+    ],
+    "Image": "larvitar.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Bite"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Leer"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Sandstorm"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Screech"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Chip Away"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Rock Slide"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Scary Face"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Thrash"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Dark Pulse"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Payback"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Crunch"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Earthquake"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Stone Edge"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Hyper Beam"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Stealth Rock"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Spite"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Focus Energy"
+        }
+    ]
+}

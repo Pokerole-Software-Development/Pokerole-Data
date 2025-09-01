@@ -1,0 +1,26 @@
+{
+    "Name": "Inferno",
+    "Type": "Fire",
+    "Power": 4,
+    "Damage1": "Special",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Channel",
+    "Target": "Foe",
+    "Effect": "Lethal. Apply Burn 3 to the Foe. -3 Accuracy.",
+    "Description": "The Pokemon sets the foe on fire. These flames rise up to 6 feet. A very dangerous Move.",
+    "_id": "inferno",
+    "Attributes": {
+        "Lethal": true,
+        "AccuracyReduction": 3
+    },
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Burn3",
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Special"
+}

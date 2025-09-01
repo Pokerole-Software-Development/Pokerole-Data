@@ -1,0 +1,120 @@
+{
+    "Number": 294,
+    "DexID": "0294",
+    "Name": "Loudred",
+    "Type1": "Normal",
+    "Type2": "",
+    "BaseHP": 4,
+    "Strength": 2,
+    "MaxStrength": 5,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 1,
+    "MaxVitality": 3,
+    "Special": 2,
+    "MaxSpecial": 5,
+    "Insight": 1,
+    "MaxInsight": 3,
+    "Ability1": "Soundproof",
+    "Ability2": "",
+    "HiddenAbility": "Scrappy",
+    "EventAbilities": "",
+    "RecommendedRank": "Amateur",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "loudred",
+    "DexCategory": "Big Voice Pokemon",
+    "Height": {
+        "Meters": 1.0,
+        "Feet": 3.3
+    },
+    "Weight": {
+        "Kilograms": 40.5,
+        "Pounds": 89.3
+    },
+    "DexDescription": "Their ears work as loudspeakers capable of breaking glass or even blowing apart a wooden house. When it finishes shouting, even they are deafened for a while. They have noisy competitions in their packs.",
+    "Evolutions": [
+        {
+            "From": "Whismur",
+            "Kind": "Level",
+            "Speed": "Medium"
+        },
+        {
+            "To": "Exploud",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "loudred.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Pound"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Uproar"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Echoed Voice"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Howl"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Astonish"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Bite"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Supersonic"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Stomp"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Screech"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Roar"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Synchronoise"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Rest"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Sleep Talk"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Hyper Voice"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Shock Wave"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Water Pulse"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Icy Wind"
+        }
+    ]
+}

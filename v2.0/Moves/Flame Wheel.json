@@ -1,0 +1,24 @@
+{
+    "Name": "Flame Wheel",
+    "Type": "Fire",
+    "Power": 2,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "Roll 1 Chance Dice to Burn the foe.",
+    "Description": "The user cloaks itself in flames and rolls to tackle the target.",
+    "_id": "flame-wheel",
+    "Attributes": {},
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Burn",
+                "Affects": "Targets",
+                "ChanceDice": 1
+            }
+        ]
+    },
+    "Category": "Physical"
+}

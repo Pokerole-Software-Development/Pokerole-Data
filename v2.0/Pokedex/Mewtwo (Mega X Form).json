@@ -1,0 +1,147 @@
+{
+    "Number": 150,
+    "DexID": "0150M1",
+    "Name": "Mewtwo (Mega X Form)",
+    "Type1": "Psychic",
+    "Type2": "Fighting",
+    "BaseHP": 6,
+    "Strength": 9,
+    "MaxStrength": 9,
+    "Dexterity": 7,
+    "MaxDexterity": 7,
+    "Vitality": 6,
+    "MaxVitality": 6,
+    "Special": 7,
+    "MaxSpecial": 7,
+    "Insight": 6,
+    "MaxInsight": 6,
+    "Ability1": "Steadfast",
+    "Ability2": "",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Master",
+    "GenderType": "N",
+    "Legendary": true,
+    "GoodStarter": false,
+    "_id": "mewtwo-mega-x-form",
+    "DexCategory": "No Data",
+    "Height": {
+        "Meters": 2.3,
+        "Feet": 7.5
+    },
+    "Weight": {
+        "Kilograms": 127.0,
+        "Pounds": 280.0
+    },
+    "DexDescription": "The power of the Mega Stone was absorbed into its muscles if it grapples you and its psychic force does not crack you its strong arms will.",
+    "Evolutions": [
+        {
+            "From": "Mewtwo",
+            "Kind": "Mega",
+            "Item": "Mewtwonite X"
+        }
+    ],
+    "Image": "mewtwo-mega-x-form.png",
+    "Moves": [
+        {
+            "Learned": "Master",
+            "Name": "Laser Focus"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Psywave"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Confusion"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Disable"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Safeguard"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Swift"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Future Sight"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Psych Up"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Miracle Eye"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Psycho Cut"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Power Swap"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Guard Swap"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Recover"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Psychic"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Barrier"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Aura Sphere"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Amnesia"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Mist"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Me First"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Psystrike"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Self Destruct"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Telekinesis"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Blizzard"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Drain Punch"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Snatch"
+        }
+    ]
+}

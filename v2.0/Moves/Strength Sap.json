@@ -1,0 +1,26 @@
+{
+    "Name": "Strength Sap",
+    "Type": "Grass",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Insight",
+    "Accuracy2": "Nature",
+    "Target": "Foe",
+    "Effect": "Reduce Foe's Strength. User Heals HP equal to the Foe's Current Strength Score. Healing in-battle limitations apply.",
+    "Description": "The Pokemon looks for a weak spot on its foe, then feeds on its vital energy. The foe is left feeling feeble.",
+    "_id": "strength-sap",
+    "Attributes": {},
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "Strength"
+                ],
+                "Stages": -1,
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Support"
+}

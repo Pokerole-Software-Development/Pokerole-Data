@@ -1,0 +1,128 @@
+{
+    "Number": 654,
+    "DexID": "0654",
+    "Name": "Braixen",
+    "Type1": "Fire",
+    "Type2": "",
+    "BaseHP": 4,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 2,
+    "MaxDexterity": 5,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 2,
+    "MaxSpecial": 5,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Blaze",
+    "Ability2": "",
+    "HiddenAbility": "Magician",
+    "EventAbilities": "",
+    "RecommendedRank": "Amateur",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "braixen",
+    "DexCategory": "Fox Pokemon",
+    "Height": {
+        "Meters": 1.0,
+        "Feet": 3.3
+    },
+    "Weight": {
+        "Kilograms": 14.5,
+        "Pounds": 32.0
+    },
+    "DexDescription": "Using friction from its tail fur, it sets the twig it carries on fire and launches into battle. The flame on the twig is used to send signals and to create patters out of the embers. It is said the twig is a magic wand.",
+    "Evolutions": [
+        {
+            "From": "Fennekin",
+            "Kind": "Level",
+            "Speed": "Medium"
+        },
+        {
+            "To": "Delphox",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "braixen.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Scratch"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Tail Whip"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Ember"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Howl"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Flame Charge"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Psybeam"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Fire Spin"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Lucky Chant"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Light Screen"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Psyshock"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Flamethrower"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Will-O-Wisp"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Psychic"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Sunny Day"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Magic Room"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Fire Blast"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Wonder Room"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Wish"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Fire Pledge"
+        }
+    ]
+}

@@ -1,0 +1,135 @@
+{
+    "Number": 303,
+    "DexID": "0303",
+    "Name": "Mawile",
+    "Type1": "Steel",
+    "Type2": "Fairy",
+    "BaseHP": 4,
+    "Strength": 2,
+    "MaxStrength": 5,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Hyper Cutter",
+    "Ability2": "Intimidate",
+    "HiddenAbility": "Sheer Force",
+    "EventAbilities": "",
+    "RecommendedRank": "Amateur",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "mawile",
+    "DexCategory": "Deceiver Pokemon",
+    "Height": {
+        "Meters": 0.6,
+        "Feet": 2.0
+    },
+    "Weight": {
+        "Kilograms": 11.5,
+        "Pounds": 25.4
+    },
+    "DexDescription": "They appear to be cute and docile, luring their prey and lowering their guards, then, Mawile chomps the prey with huge steel jaws. They are very rare, though. Only a few have been seen in Hoenn's Victory Road.",
+    "Evolutions": [
+        {
+            "To": "Mawile (Mega Form)",
+            "Kind": "Mega",
+            "Item": "Mawilite"
+        }
+    ],
+    "Image": "mawile.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Astonish"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Snatch"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Growl"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Fairy Wind"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Taunt"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Fake Tears"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Bite"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Sweet Scent"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Vice Grip"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Feint Attack"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Baton Pass"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Crunch"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Iron Defense"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Stockpile"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Sucker Punch"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Spit Up"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Swallow"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Iron Head"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Play Rough"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Fire Fang"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Poison Fang"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Super Fang"
+        }
+    ]
+}

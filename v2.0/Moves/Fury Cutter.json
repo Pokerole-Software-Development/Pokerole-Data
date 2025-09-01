@@ -1,0 +1,18 @@
+{
+    "Name": "Fury Cutter",
+    "Type": "Bug",
+    "Power": 1,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "Successive Actions.",
+    "Description": "The Pokemon makes use of its claws or scythes to land as many hits as possible.",
+    "_id": "fury-cutter",
+    "Attributes": {
+        "SuccessiveActions": true
+    },
+    "AddedEffects": {},
+    "Category": "Physical"
+}

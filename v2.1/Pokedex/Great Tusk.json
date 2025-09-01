@@ -1,0 +1,129 @@
+{
+    "Number": 984,
+    "DexID": "0984",
+    "Name": "Great Tusk",
+    "Type1": "Ground",
+    "Type2": "Fighting",
+    "BaseHP": 6,
+    "Strength": 3,
+    "MaxStrength": 7,
+    "Dexterity": 2,
+    "MaxDexterity": 5,
+    "Vitality": 3,
+    "MaxVitality": 7,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Protosynthesis",
+    "Ability2": "",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Expert",
+    "GenderType": "N",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "great-tusk",
+    "DexCategory": "Paradox Pokémon",
+    "Height": {
+        "Meters": 2.2,
+        "Feet": 7.2
+    },
+    "Weight": {
+        "Kilograms": 320.0,
+        "Pounds": 705.5
+    },
+    "DexDescription": "A mysterious life-form resembling a Donphan with gigantic tusks and tough scales. Our ongoing research appears to indicate it has a very aggressive disposition.",
+    "Evolutions": [],
+    "Image": "great-tusk.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Horn Attack"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Defense Curl"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Rollout"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Sunny Day"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Bulldoze"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Taunt"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Rapid Spin"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Brick Break"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Stomping Tantrum"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Knock Off"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Iron Head"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Rock Tomb"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Earthquake"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Giga Impact"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Close Combat"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Endeavor"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Megahorn"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Head Smash"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Headlong Rush"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Ice Spinner"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Smart Strike"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Rock Slide"
+        }
+    ]
+}

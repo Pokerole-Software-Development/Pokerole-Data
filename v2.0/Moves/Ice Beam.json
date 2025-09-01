@@ -1,0 +1,24 @@
+{
+    "Name": "Ice Beam",
+    "Type": "Ice",
+    "Power": 3,
+    "Damage1": "Special",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Channel",
+    "Target": "Foe",
+    "Effect": "Roll 1 Chance Dice to Freeze the Foe.",
+    "Description": "The user shoots a freezing ray that greatly lowers the temperature of anything it hits.",
+    "_id": "ice-beam",
+    "Attributes": {},
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Freeze",
+                "Affects": "Targets",
+                "ChanceDice": 1
+            }
+        ]
+    },
+    "Category": "Special"
+}

@@ -1,0 +1,119 @@
+{
+    "Number": 809,
+    "DexID": "0809",
+    "Name": "Melmetal",
+    "Type1": "Steel",
+    "Type2": "",
+    "BaseHP": 6,
+    "Strength": 4,
+    "MaxStrength": 8,
+    "Dexterity": 1,
+    "MaxDexterity": 3,
+    "Vitality": 4,
+    "MaxVitality": 8,
+    "Special": 2,
+    "MaxSpecial": 5,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Iron Fist",
+    "Ability2": "",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Pro",
+    "GenderType": "N",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "melmetal",
+    "DexCategory": "Hex Nut Pokemon",
+    "Height": {
+        "Meters": 2.5,
+        "Feet": 8.2
+    },
+    "Weight": {
+        "Kilograms": 800.0,
+        "Pounds": 1763.7
+    },
+    "DexDescription": "There is an ancient myth that a Pokemon once taught a group of humans how to work the iron, melt it and shape it into tools; but it was punished for this and cast away, never to be seen again.",
+    "Evolutions": [
+        {
+            "From": "Meltan",
+            "Kind": "Level",
+            "Speed": "Unknown"
+        }
+    ],
+    "Image": "melmetal.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Thunder Punch"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Thunder Shock"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Harden"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Tail Whip"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Headbutt"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Thunder Wave"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Acid Armor"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Flash Cannon"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Mega Punch"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Protect"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Discharge"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Dynamic Punch"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Superpower"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Double Iron Bash"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Hyper Beam"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "High Horsepower"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Giga Impact"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Self Destruct"
+        }
+    ]
+}

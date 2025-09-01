@@ -1,0 +1,123 @@
+{
+    "Number": 629,
+    "DexID": "0629",
+    "Name": "Vullaby",
+    "Type1": "Dark",
+    "Type2": "Flying",
+    "BaseHP": 3,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Big Pecks",
+    "Ability2": "Overcoat",
+    "HiddenAbility": "Weak Armor",
+    "EventAbilities": "",
+    "RecommendedRank": "Beginner",
+    "GenderType": "F",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "vullaby",
+    "DexCategory": "Diapered Pokemon",
+    "Height": {
+        "Meters": 0.5,
+        "Feet": 1.6
+    },
+    "Weight": {
+        "Kilograms": 9.0,
+        "Pounds": 19.8
+    },
+    "DexDescription": "This is a female-only species. They stay with their Mandibuzz mothers from birth until they can finally fly. They feed on the carrion meat the mothers bring back to the nest and keep the bones to make accessories.",
+    "Evolutions": [
+        {
+            "To": "Mandibuzz",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "vullaby.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Gust"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Leer"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Fury Attack"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Pluck"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Nasty Plot"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Flatter"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Feint Attack"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Punishment"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Defog"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Tailwind"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Air Slash"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Dark Pulse"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Embargo"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Whirlwind"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Brave Bird"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Mirror Move"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Scary Face"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Fake Tears"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Iron Defense"
+        }
+    ]
+}

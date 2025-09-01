@@ -1,0 +1,126 @@
+{
+    "Number": 487,
+    "DexID": "0487",
+    "Name": "Giratina",
+    "Type1": "Ghost",
+    "Type2": "Dragon",
+    "BaseHP": 8,
+    "Strength": 6,
+    "MaxStrength": 6,
+    "Dexterity": 5,
+    "MaxDexterity": 5,
+    "Vitality": 7,
+    "MaxVitality": 7,
+    "Special": 6,
+    "MaxSpecial": 6,
+    "Insight": 7,
+    "MaxInsight": 7,
+    "Ability1": "Pressure",
+    "Ability2": "",
+    "HiddenAbility": "Telepathy",
+    "EventAbilities": "",
+    "RecommendedRank": "Master",
+    "GenderType": "N",
+    "Legendary": true,
+    "GoodStarter": false,
+    "_id": "giratina",
+    "DexCategory": "Plot Device",
+    "Height": {
+        "Meters": 4.5,
+        "Feet": 14.8
+    },
+    "Weight": {
+        "Kilograms": 750.0,
+        "Pounds": 1653.5
+    },
+    "DexDescription": "Plot Device",
+    "Evolutions": [
+        {
+            "To": "Giratina (Origin Form)",
+            "Kind": "Form"
+        }
+    ],
+    "Image": "giratina.png",
+    "Moves": [
+        {
+            "Learned": "Master",
+            "Name": "Dragon Breath"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Scary Face"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Ominous Wind"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Ancient Power"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Slash"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Shadow Sneak"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Destiny Bond"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Dragon Claw"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Earth Power"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Aura Sphere"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Shadow Claw"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Shadow Force"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Hex"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Hidden Power"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Psych Up"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Spite"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Pain Split"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Outrage"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Draco Meteor"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Gravity"
+        }
+    ]
+}

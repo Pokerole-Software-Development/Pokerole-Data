@@ -1,0 +1,20 @@
+{
+    "Name": "Purify",
+    "Type": "Poison",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Special",
+    "Accuracy2": "Nature",
+    "Target": "Foe",
+    "Effect": "Heal a Target's Status Ailment. If you do then the user may heal 1 HP.",
+    "Description": "The Pokemon is covered by a gelatinous goo that can be used to treat several ailments, the Pokemon also uses it as a source of nourishment.",
+    "_id": "purify",
+    "Attributes": {},
+    "AddedEffects": {
+        "AilmentHeal": [
+            "All"
+        ]
+    },
+    "Category": "Support"
+}

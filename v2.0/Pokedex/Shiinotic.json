@@ -1,0 +1,115 @@
+{
+    "Number": 756,
+    "DexID": "0756",
+    "Name": "Shiinotic",
+    "Type1": "Grass",
+    "Type2": "Fairy",
+    "BaseHP": 4,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 1,
+    "MaxDexterity": 3,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 2,
+    "MaxSpecial": 5,
+    "Insight": 3,
+    "MaxInsight": 6,
+    "Ability1": "Illuminate",
+    "Ability2": "Effect Spore",
+    "HiddenAbility": "Rain Dish",
+    "EventAbilities": "",
+    "RecommendedRank": "Beginner",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "shiinotic",
+    "DexCategory": "Illuminating Pokemon",
+    "Height": {
+        "Meters": 1.0,
+        "Feet": 3.3
+    },
+    "Weight": {
+        "Kilograms": 11.5,
+        "Pounds": 25.4
+    },
+    "DexDescription": "Forests where Shiinotic live are treacherous to travel. People tell stories about strange lights that put others into a deep slumber who are then devoid of their energy by these Pokemon, never to return home.",
+    "Evolutions": [
+        {
+            "From": "Morelull",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "shiinotic.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Absorb"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Astonish"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Flash"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Moonlight"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Mega Drain"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Sleep Powder"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Ingrain"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Confuse Ray"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Giga Drain"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Strength Sap"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Dream Eater"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Spotlight"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Spore"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Moonblast"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Leech Seed"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Growth"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Light Screen"
+        }
+    ]
+}

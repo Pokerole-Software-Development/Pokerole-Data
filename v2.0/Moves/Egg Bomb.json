@@ -1,0 +1,19 @@
+{
+    "Name": "Egg Bomb",
+    "Type": "Normal",
+    "Power": 4,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "Ranged. -2 Accuracy.",
+    "Description": "The user throws a big egg with great force against its foe.",
+    "_id": "egg-bomb",
+    "Attributes": {
+        "PhysicalRanged": true,
+        "AccuracyReduction": 2
+    },
+    "AddedEffects": {},
+    "Category": "Physical"
+}

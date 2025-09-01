@@ -1,0 +1,131 @@
+{
+    "Number": 214,
+    "DexID": "0214",
+    "Name": "Heracross",
+    "Type1": "Bug",
+    "Type2": "Fighting",
+    "BaseHP": 4,
+    "Strength": 3,
+    "MaxStrength": 6,
+    "Dexterity": 2,
+    "MaxDexterity": 5,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 1,
+    "MaxSpecial": 3,
+    "Insight": 3,
+    "MaxInsight": 6,
+    "Ability1": "Swarm",
+    "Ability2": "Guts",
+    "HiddenAbility": "Moxie",
+    "EventAbilities": "",
+    "RecommendedRank": "Amateur",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "heracross",
+    "DexCategory": "Single Horn Pokemon",
+    "Height": {
+        "Meters": 1.5,
+        "Feet": 4.9
+    },
+    "Weight": {
+        "Kilograms": 54.0,
+        "Pounds": 119.0
+    },
+    "DexDescription": "A docile creature that loves honey. They batter down trees with their powerful horn and chase off anyone who gets close to their prized honey. Not many Pokemon dare to mess with it in the wild.",
+    "Evolutions": [
+        {
+            "To": "Heracross (Mega Form)",
+            "Kind": "Mega",
+            "Item": "Heracronite"
+        }
+    ],
+    "Image": "heracross.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Endure"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Horn Attack"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Leer"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Night Slash"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Fury Attack"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Aerial Ace"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Arm Thrust"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Bullet Seed"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Chip Away"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Counter"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Brick Break"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Take Down"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Pin Missile"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Close Combat"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Feint"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Reversal"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Megahorn"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Rock Blast"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Vacuum Wave"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Iron Defense"
+        }
+    ]
+}

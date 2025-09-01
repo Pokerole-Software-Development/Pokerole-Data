@@ -1,0 +1,127 @@
+{
+    "Number": 93,
+    "DexID": "0093",
+    "Name": "Haunter",
+    "Type1": "Ghost",
+    "Type2": "Poison",
+    "BaseHP": 4,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 3,
+    "MaxDexterity": 6,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 3,
+    "MaxSpecial": 6,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Levitate",
+    "Ability2": "",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Amateur",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "haunter",
+    "DexCategory": "Gas Pokemon",
+    "Height": {
+        "Meters": 1.6,
+        "Feet": 5.2
+    },
+    "Weight": {
+        "Kilograms": 0.1,
+        "Pounds": 0.2
+    },
+    "DexDescription": "Haunter is a dangerous Pokemon. it will try to lick you with its tongue to steal your life away. If you get the feeling of being watched in darkness when nobody is around, it means a Haunter is there.",
+    "Evolutions": [
+        {
+            "From": "Gastly",
+            "Kind": "Level",
+            "Speed": "Medium"
+        },
+        {
+            "To": "Gengar",
+            "Kind": "Trade"
+        }
+    ],
+    "Image": "haunter.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Spite"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Lick"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Curse"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Mean Look"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Night Shade"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Hypnosis"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Confuse Ray"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Sucker Punch"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Shadow Punch"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Payback"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Shadow Ball"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Dark Pulse"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Dream Eater"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Destiny Bond"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Hex"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Nightmare"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Icy Wind"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Grudge"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Trick"
+        }
+    ]
+}

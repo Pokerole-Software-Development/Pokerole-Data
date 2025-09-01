@@ -1,0 +1,16 @@
+{
+    "Name": "Veevee Volley",
+    "Type": "Normal",
+    "Power": 0,
+    "Damage1": "Strength",
+    "Damage2": "Happiness",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "Add 1 Die to the Damage Roll for every point of Happiness on the User. If the user of this Move is at its Final Stage of Evolution, this move fails.",
+    "Description": "Long sessions playing Volley ball with your Pokemon make it very happy. During battle, it just replaces the ball with its foe.",
+    "_id": "veevee-volley",
+    "Attributes": {},
+    "AddedEffects": {},
+    "Category": "Physical"
+}

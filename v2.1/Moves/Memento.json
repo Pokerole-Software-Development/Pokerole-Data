@@ -1,0 +1,32 @@
+{
+    "Name": "Memento",
+    "Type": "Dark",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Will",
+    "Accuracy2": "Intimidate",
+    "Target": "Foe",
+    "Effect": "The User faints. Reduce by 2 the foe's Strength, Dexterity, Special, Defense and Sp. Defense. Whole Scene Duration. This effect does not end by switching out the affected Pokémon.",
+    "Description": "The user unleashes all its remaining power to send a wave of hopeless thoughts to haunt the foe's mind and soul. The target will be left in grief.",
+    "_id": "memento",
+    "Attributes": {
+        "Duration": "wholeScene"
+    },
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "Strength",
+                    "Dexterity",
+                    "Special",
+                    "Def",
+                    "SpDef"
+                ],
+                "Stages": -2,
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Support"
+}

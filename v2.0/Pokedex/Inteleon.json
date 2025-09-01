@@ -1,0 +1,115 @@
+{
+    "Number": 818,
+    "DexID": "0818",
+    "Name": "Inteleon",
+    "Type1": "Water",
+    "Type2": "",
+    "BaseHP": 5,
+    "Strength": 2,
+    "MaxStrength": 5,
+    "Dexterity": 3,
+    "MaxDexterity": 7,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 3,
+    "MaxSpecial": 7,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Torrent",
+    "Ability2": "",
+    "HiddenAbility": "Sniper",
+    "EventAbilities": "",
+    "RecommendedRank": "Pro",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "inteleon",
+    "DexCategory": "Secret Agent Pokemon",
+    "Height": {
+        "Meters": 1.9,
+        "Feet": 6.2
+    },
+    "Weight": {
+        "Kilograms": 45.2,
+        "Pounds": 99.6
+    },
+    "DexDescription": "Its fingertips can create quick jets of water that travel at incredibly high speeds, these jets can even pierce thick metal plates. It usually hunts from a high place, shoots, and then glides down to eat its prey.",
+    "Evolutions": [
+        {
+            "From": "Drizzile",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "inteleon.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Snipe Shot"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Acrobatics"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Pound"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Growl"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Water Gun"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Bind"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Water Pulse"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Tearful Look"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Sucker Punch"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "U-Turn"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Liquidation"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Soak"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Rain Dance"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Hydro Pump"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Ice Shard"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Fell Stinger"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Hydro Cannon"
+        }
+    ]
+}

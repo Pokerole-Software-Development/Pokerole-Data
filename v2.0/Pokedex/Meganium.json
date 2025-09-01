@@ -1,0 +1,119 @@
+{
+    "Number": 154,
+    "DexID": "0154",
+    "Name": "Meganium",
+    "Type1": "Grass",
+    "Type2": "",
+    "BaseHP": 5,
+    "Strength": 2,
+    "MaxStrength": 5,
+    "Dexterity": 2,
+    "MaxDexterity": 5,
+    "Vitality": 3,
+    "MaxVitality": 6,
+    "Special": 2,
+    "MaxSpecial": 5,
+    "Insight": 3,
+    "MaxInsight": 6,
+    "Ability1": "Overgrow",
+    "Ability2": "",
+    "HiddenAbility": "Leaf Guard",
+    "EventAbilities": "",
+    "RecommendedRank": "Ace",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "meganium",
+    "DexCategory": "Herb Pokemon",
+    "Height": {
+        "Meters": 1.8,
+        "Feet": 5.9
+    },
+    "Weight": {
+        "Kilograms": 100.5,
+        "Pounds": 221.6
+    },
+    "DexDescription": "Meganium's breath has the power to revive dead grass and plants. The aroma that comes from its petals contains a substance that calms aggressive feelings and helps others to restore health.",
+    "Evolutions": [
+        {
+            "From": "Bayleef",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "meganium.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Growl"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Poison Powder"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Razor Leaf"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Sweet Scent"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Synthesis"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Reflect"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Magical Leaf"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Natural Gift"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Light Screen"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Body Slam"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Petal Blizzard"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Petal Dance"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Aromatherapy"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Solar Beam"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Frenzy Plant"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Ancient Power"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Grassy Terrain"
+        }
+    ]
+}

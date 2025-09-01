@@ -1,0 +1,119 @@
+{
+    "Number": 116,
+    "DexID": "0116",
+    "Name": "Horsea",
+    "Type1": "Water",
+    "Type2": "",
+    "BaseHP": 3,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 2,
+    "MaxSpecial": 5,
+    "Insight": 1,
+    "MaxInsight": 3,
+    "Ability1": "Swift Swim",
+    "Ability2": "Sniper",
+    "HiddenAbility": "Damp",
+    "EventAbilities": "",
+    "RecommendedRank": "Rookie",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "horsea",
+    "DexCategory": "Dragon Pokémon",
+    "Height": {
+        "Meters": 0.4,
+        "Feet": 1.3
+    },
+    "Weight": {
+        "Kilograms": 8.0,
+        "Pounds": 17.6
+    },
+    "DexDescription": "It makes its nest in the shade of corals in shallow parts of the sea. If it senses danger, it spits a murky ink and flees. It has been seen shooting down flying bugs to eat them.",
+    "Evolutions": [
+        {
+            "To": "Seadra",
+            "Kind": "Level",
+            "Speed": "Slow"
+        }
+    ],
+    "Image": "horsea.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Water Gun"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Smokescreen"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Leer"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Bubble"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Focus Energy"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Dragon Breath"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Bubble Beam"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Agility"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Laser Focus"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Twister"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Brine"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Rain Dance"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Dragon Dance"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Dragon Pulse"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Hydro Pump"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Octazooka"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Aurora Beam"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Signal Beam"
+        }
+    ]
+}

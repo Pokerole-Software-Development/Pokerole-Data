@@ -1,0 +1,127 @@
+{
+    "Number": 72,
+    "DexID": "0072",
+    "Name": "Tentacool",
+    "Type1": "Water",
+    "Type2": "Poison",
+    "BaseHP": 3,
+    "Strength": 1,
+    "MaxStrength": 3,
+    "Dexterity": 2,
+    "MaxDexterity": 5,
+    "Vitality": 1,
+    "MaxVitality": 3,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 3,
+    "MaxInsight": 6,
+    "Ability1": "Clear Body",
+    "Ability2": "Liquid Ooze",
+    "HiddenAbility": "Rain Dish",
+    "EventAbilities": "",
+    "RecommendedRank": "Beginner",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "tentacool",
+    "DexCategory": "Jellyfish Pokemon",
+    "Height": {
+        "Meters": 0.9,
+        "Feet": 3.0
+    },
+    "Weight": {
+        "Kilograms": 45.5,
+        "Pounds": 100.3
+    },
+    "DexDescription": "It lives in the seas all around the world. They release a toxic ink if startled. It is a surprisingly intelligent Pokemon and can use its tentacles to briefly establish a link between its mind and another creature.",
+    "Evolutions": [
+        {
+            "To": "Tentacruel",
+            "Kind": "Level",
+            "Speed": "Slow"
+        }
+    ],
+    "Image": "tentacool.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Poison Sting"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Supersonic"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Constrict"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Acid"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Toxic Spikes"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Bubble Beam"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Wrap"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Acid Spray"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Barrier"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Water Pulse"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Brine"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Poison Jab"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Screech"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Hex"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Hydro Pump"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Sludge Wave"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Wring Out"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Aurora Beam"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Confuse Ray"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Magic Coat"
+        }
+    ]
+}

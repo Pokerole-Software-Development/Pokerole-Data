@@ -1,0 +1,19 @@
+{
+    "Name": "Megahorn",
+    "Type": "Bug",
+    "Power": 5,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Strength",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "Single Target. Low Accuracy 2. Lethal.",
+    "Description": "The Pokémon uses its strong horn(s) to pierce their foe and deal massive damage.",
+    "_id": "megahorn",
+    "Attributes": {
+        "Lethal": true,
+        "AccuracyReduction": 2
+    },
+    "AddedEffects": {},
+    "Category": "Physical"
+}

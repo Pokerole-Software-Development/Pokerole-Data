@@ -1,0 +1,115 @@
+{
+    "Number": 77,
+    "DexID": "0077",
+    "Name": "Ponyta",
+    "Type1": "Fire",
+    "Type2": "",
+    "BaseHP": 3,
+    "Strength": 2,
+    "MaxStrength": 5,
+    "Dexterity": 2,
+    "MaxDexterity": 5,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Run Away",
+    "Ability2": "Flash Fire",
+    "HiddenAbility": "Flame Body",
+    "EventAbilities": "",
+    "RecommendedRank": "Beginner",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "ponyta",
+    "DexCategory": "Fire Horse Pokemon",
+    "Height": {
+        "Meters": 1.0,
+        "Feet": 3.3
+    },
+    "Weight": {
+        "Kilograms": 30.0,
+        "Pounds": 66.1
+    },
+    "DexDescription": "It\u2019s not very common to see one stay still for more than a few seconds. Soon after it\u2019s born, its flames begin to burn. It is weak at first but soon begins to develop a great speed chasing after its parents.",
+    "Evolutions": [
+        {
+            "To": "Rapidash",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "ponyta.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Growl"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Tail Whip"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Ember"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Flame Wheel"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Take Down"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Flame Charge"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Fire Spin"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Stomp"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Inferno"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Agility"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Fire Blast"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Bounce"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Flare Blitz"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Morning Sun"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Double Kick"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Hypnosis"
+        }
+    ]
+}

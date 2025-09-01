@@ -1,0 +1,136 @@
+{
+    "Number": 758,
+    "DexID": "0758",
+    "Name": "Salazzle",
+    "Type1": "Poison",
+    "Type2": "Fire",
+    "BaseHP": 4,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 3,
+    "MaxDexterity": 6,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 3,
+    "MaxSpecial": 6,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Corrosion",
+    "Ability2": "",
+    "HiddenAbility": "Oblivious",
+    "EventAbilities": "",
+    "RecommendedRank": "Amateur",
+    "GenderType": "F",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "salazzle",
+    "DexCategory": "Toxic Lizard Pokemon",
+    "Height": {
+        "Meters": 1.2,
+        "Feet": 3.9
+    },
+    "Weight": {
+        "Kilograms": 22.2,
+        "Pounds": 48.9
+    },
+    "DexDescription": "This Pokemon is Female only. It releases a powerful toxic gas that is filled with pheromones that help her keep her reverse harem of Salandit in check. This gas can be purified into expensive perfumes.",
+    "Evolutions": [
+        {
+            "From": "Salandit",
+            "Kind": "Level",
+            "Speed": "Medium",
+            "Gender": "Female"
+        }
+    ],
+    "Image": "salazzle.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Poison Gas"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Pound"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Ember"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Sweet Scent"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Dragon Rage"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Smog"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Nasty Plot"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Venoshock"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Captivate"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Torment"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Swagger"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Double Slap"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Flame Burst"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Toxic"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Encore"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Disable"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Flamethrower"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Venom Drench"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Dragon Pulse"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Attract"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Dragon Tail"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Overheat"
+        }
+    ]
+}

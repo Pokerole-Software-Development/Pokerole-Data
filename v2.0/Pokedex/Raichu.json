@@ -1,0 +1,75 @@
+{
+    "Number": 26,
+    "DexID": "0026",
+    "Name": "Raichu",
+    "Type1": "Electric",
+    "Type2": "",
+    "BaseHP": 5,
+    "Strength": 2,
+    "MaxStrength": 5,
+    "Dexterity": 3,
+    "MaxDexterity": 6,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 3,
+    "MaxSpecial": 6,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Static",
+    "Ability2": "",
+    "HiddenAbility": "Lightning Rod",
+    "EventAbilities": "",
+    "RecommendedRank": "Amateur",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "raichu",
+    "DexCategory": "Mouse Pokemon",
+    "Height": {
+        "Meters": 0.8,
+        "Feet": 2.6
+    },
+    "Weight": {
+        "Kilograms": 30.0,
+        "Pounds": 66.1
+    },
+    "DexDescription": "When electricity builds on its body, it starts to emit a faint glow and it becomes more aggressive than it normally is. They live in forests but are rare to find in the wild.",
+    "Evolutions": [
+        {
+            "From": "Pikachu",
+            "Kind": "Stone",
+            "Item": "Thunder Stone"
+        }
+    ],
+    "Image": "raichu.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Thunder Shock"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Tail Whip"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Quick Attack"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Thunderbolt"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Fake Out"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Wish"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Volt Tackle"
+        }
+    ]
+}

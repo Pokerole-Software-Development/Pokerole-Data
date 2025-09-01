@@ -1,0 +1,25 @@
+{
+    "Name": "Shell Trap",
+    "Type": "Fire",
+    "Power": 6,
+    "Damage1": "Special",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Stealth",
+    "Target": "Foe",
+    "Effect": "Low Priority 3. This Move strikes the next time the user is hit with a Non-Ranged Physical attack.",
+    "Description": "It apparently just buries underground, but secretely the Pokemon prepares its shell to detonate; anyone who steps on it will be blown to pieces.",
+    "_id": "shell-trap",
+    "Attributes": {
+        "Priority": -3
+    },
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "ShellTrap",
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Special"
+}

@@ -1,0 +1,114 @@
+{
+    "Number": 889,
+    "DexID": "0889",
+    "Name": "Zamazenta",
+    "Type1": "Fighting",
+    "Type2": "",
+    "BaseHP": 5,
+    "Strength": 7,
+    "MaxStrength": 7,
+    "Dexterity": 7,
+    "MaxDexterity": 7,
+    "Vitality": 6,
+    "MaxVitality": 6,
+    "Special": 5,
+    "MaxSpecial": 5,
+    "Insight": 6,
+    "MaxInsight": 6,
+    "Ability1": "Dauntless Shield",
+    "Ability2": "",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Master",
+    "GenderType": "N",
+    "Legendary": true,
+    "GoodStarter": false,
+    "_id": "zamazenta",
+    "DexCategory": "No Data",
+    "Height": {
+        "Meters": 2.9,
+        "Feet": 9.5
+    },
+    "Weight": {
+        "Kilograms": 210.0,
+        "Pounds": 463.0
+    },
+    "DexDescription": "There is a legend of a hero who through sheer might wielded the shield of heroes to protect the people from the greatest evil.",
+    "Evolutions": [
+        {
+            "To": "Zamazenta (Crown Form)",
+            "Kind": "Form"
+        }
+    ],
+    "Image": "zamazenta.png",
+    "Moves": [
+        {
+            "Learned": "Master",
+            "Name": "Metal Burst"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Wide Guard"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Metal Claw"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Howl"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Quick Attack"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Bite"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Slash"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Swords Dance"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Iron Head"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Laser Focus"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Crunch"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Moonblast"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Close Combat"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Giga Impact"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Light Screen"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Reflect"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Safeguard"
+        }
+    ]
+}

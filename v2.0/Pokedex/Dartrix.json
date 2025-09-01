@@ -1,0 +1,124 @@
+{
+    "Number": 723,
+    "DexID": "0723",
+    "Name": "Dartrix",
+    "Type1": "Grass",
+    "Type2": "Flying",
+    "BaseHP": 4,
+    "Strength": 2,
+    "MaxStrength": 5,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 2,
+    "MaxSpecial": 5,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Overgrow",
+    "Ability2": "",
+    "HiddenAbility": "Long Reach",
+    "EventAbilities": "",
+    "RecommendedRank": "Amateur",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "dartrix",
+    "DexCategory": "Blade Quill Pokemon",
+    "Height": {
+        "Meters": 0.7,
+        "Feet": 2.3
+    },
+    "Weight": {
+        "Kilograms": 16.0,
+        "Pounds": 35.3
+    },
+    "DexDescription": "Dartix are vain creatures, they dislike it when their feathers are ruffled, even stopping midfight to groom them. Despite its elegant demeanor it hides an awkward personality, prone to panic and clumsiness.",
+    "Evolutions": [
+        {
+            "From": "Rowlet",
+            "Kind": "Level",
+            "Speed": "Medium"
+        },
+        {
+            "To": "Decidueye",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "dartrix.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Leafage"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Growl"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Peck"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Astonish"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Razor Leaf"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Foresight"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Pluck"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Synthesis"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Fury Attack"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Sucker Punch"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Leaf Blade"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Feather Dance"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Brave Bird"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Nasty Plot"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Curse"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Haze"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Grass Pledge"
+        }
+    ]
+}

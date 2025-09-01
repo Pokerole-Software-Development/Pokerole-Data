@@ -1,0 +1,121 @@
+{
+    "Number": 876,
+    "DexID": "0876",
+    "Name": "Indeedee",
+    "Type1": "Psychic",
+    "Type2": "Normal",
+    "BaseHP": 4,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 3,
+    "MaxDexterity": 6,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 3,
+    "MaxSpecial": 6,
+    "Insight": 3,
+    "MaxInsight": 6,
+    "Ability1": "Inner Focus",
+    "Ability2": "Synchronize",
+    "HiddenAbility": "Psychic Surge",
+    "EventAbilities": "",
+    "RecommendedRank": "Starter",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "indeedee",
+    "DexCategory": "Emotion Pokemon",
+    "Height": {
+        "Meters": 0.9,
+        "Feet": 3.0
+    },
+    "Weight": {
+        "Kilograms": 28.0,
+        "Pounds": 61.7
+    },
+    "DexDescription": "These intelligent Pokemon touch horns with each other to share information between them. They love to help and be of service to people because they gather power from feelings of gratitude.",
+    "Evolutions": [],
+    "Image": "indeedee.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Stored Power"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Play Nice"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Encore"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Baton Pass"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Disarming Voice"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Psybeam"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Helping Hand"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Follow Me"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "After You"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Aromatherapy"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Calm Mind"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Psychic"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Power Split"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Guard Split"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Last Resort"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Healing Wish"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Psychic Terrain"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Fake Out"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Shadow Ball"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Wonder Room"
+        }
+    ]
+}

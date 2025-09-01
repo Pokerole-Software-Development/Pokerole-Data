@@ -1,0 +1,123 @@
+{
+    "Number": 204,
+    "DexID": "0204",
+    "Name": "Pineco",
+    "Type1": "Bug",
+    "Type2": "",
+    "BaseHP": 3,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 1,
+    "MaxDexterity": 2,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 1,
+    "MaxSpecial": 3,
+    "Insight": 1,
+    "MaxInsight": 3,
+    "Ability1": "Sturdy",
+    "Ability2": "Overcoat",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Starter",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "pineco",
+    "DexCategory": "Bagworm Pokémon",
+    "Height": {
+        "Meters": 0.6,
+        "Feet": 2.0
+    },
+    "Weight": {
+        "Kilograms": 7.2,
+        "Pounds": 15.9
+    },
+    "DexDescription": "Pineco looks just like a regular pine cone. It adds layers of tree bark as a shield from harm. It waits for Bug Pokémon to eat while hanging from branches. If anyone shakes its tree, it falls down and explodes. Be very careful.",
+    "Evolutions": [
+        {
+            "To": "Forretress",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "pineco.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Protect"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Self Destruct"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Bug Bite"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Take Down"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Rapid Spin"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Bide"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Natural Gift"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Autotomize"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Rollout"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Spikes"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Payback"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Iron Defense"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Explosion"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Gyro Ball"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Double-Edge"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Stealth Rock"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Secret Power"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Power Trick"
+        }
+    ]
+}

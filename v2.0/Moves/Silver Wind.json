@@ -1,0 +1,31 @@
+{
+    "Name": "Silver Wind",
+    "Type": "Bug",
+    "Power": 2,
+    "Damage1": "Special",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Channel",
+    "Target": "Foe",
+    "Effect": "Roll 1 Chance Dice to Increase User's Strength. Dexterity. Special. Defense. Sp. Defense.",
+    "Description": "The Pokemon blows a beautiful silver colered wind that harms the foe, the performance may give the user a big confidence boost.",
+    "_id": "silver-wind",
+    "Attributes": {},
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "Strength",
+                    "Dexterity",
+                    "Special",
+                    "Def",
+                    "SpDef"
+                ],
+                "Stages": 1,
+                "ChanceDice": 1,
+                "Affects": "User"
+            }
+        ]
+    },
+    "Category": "Special"
+}

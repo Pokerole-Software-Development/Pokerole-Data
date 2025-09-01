@@ -1,0 +1,125 @@
+{
+    "Number": 314,
+    "DexID": "0314",
+    "Name": "Illumise",
+    "Type1": "Bug",
+    "Type2": "",
+    "BaseHP": 4,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 2,
+    "MaxDexterity": 5,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 2,
+    "MaxSpecial": 5,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Oblivious",
+    "Ability2": "Tinted Lens",
+    "HiddenAbility": "Prankster",
+    "EventAbilities": "",
+    "RecommendedRank": "Standard",
+    "GenderType": "F",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "illumise",
+    "DexCategory": "Firelfy Pokémon",
+    "Height": {
+        "Meters": 0.6,
+        "Feet": 2.0
+    },
+    "Weight": {
+        "Kilograms": 17.7,
+        "Pounds": 39.0
+    },
+    "DexDescription": "They attract swarms of Volbeat with their sweet fragrance and organize the swarm into drawing geometric shapes made of light. Illumise gain rank in their group if they make an amazing performance.",
+    "Evolutions": [],
+    "Image": "illumise.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Sweet Scent"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Play Nice"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Charm"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Covet"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Quick Attack"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Struggle Bug"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Moonlight"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Wish"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Encore"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Flatter"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Signal Beam"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Zen Headbutt"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Helping Hand"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Play Rough"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Bug Buzz"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Infestation"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Double-Edge"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Tailwind"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Aromatherapy"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Silver Wind"
+        }
+    ]
+}

@@ -1,0 +1,115 @@
+{
+    "Number": 523,
+    "DexID": "0523",
+    "Name": "Zebstrika",
+    "Type1": "Electric",
+    "Type2": "",
+    "BaseHP": 4,
+    "Strength": 3,
+    "MaxStrength": 6,
+    "Dexterity": 3,
+    "MaxDexterity": 6,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 2,
+    "MaxSpecial": 5,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Lightning Rod",
+    "Ability2": "Motor Drive",
+    "HiddenAbility": "Sap Sipper",
+    "EventAbilities": "",
+    "RecommendedRank": "Amateur",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "zebstrika",
+    "DexCategory": "Thunderbolt Pokemon",
+    "Height": {
+        "Meters": 1.6,
+        "Feet": 5.2
+    },
+    "Weight": {
+        "Kilograms": 79.5,
+        "Pounds": 175.3
+    },
+    "DexDescription": "It is very ill tempered and wild, there have been very few cases of it being successfully tamed. It can shoot lightning from it\u2019s mane in all directions. If you try to mount it without warning it will shock you.",
+    "Evolutions": [
+        {
+            "From": "Blitzle",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "zebstrika.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Quick Attack"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Tail Whip"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Shock Wave"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Charge"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Thunder Wave"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Ion Deluge"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Flame Charge"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Pursuit"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Spark"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Stomp"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Wild Charge"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Agility"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Discharge"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Thrash"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Bounce"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Double Kick"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Screech"
+        }
+    ]
+}

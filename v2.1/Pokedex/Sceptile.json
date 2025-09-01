@@ -1,0 +1,160 @@
+{
+    "Number": 254,
+    "DexID": "0254",
+    "Name": "Sceptile",
+    "Type1": "Grass",
+    "Type2": "",
+    "BaseHP": 5,
+    "Strength": 2,
+    "MaxStrength": 5,
+    "Dexterity": 3,
+    "MaxDexterity": 7,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 3,
+    "MaxSpecial": 6,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Overgrow",
+    "Ability2": "Unburden",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Expert",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "sceptile",
+    "DexCategory": "Forest Pokémon",
+    "Height": {
+        "Meters": 1.7,
+        "Feet": 5.6
+    },
+    "Weight": {
+        "Kilograms": 52.2,
+        "Pounds": 115.1
+    },
+    "DexDescription": "They raise trees with love and care and protect the jungles with their lives. Their tails can restore a plant's beauty. Sceptile's power is truly unmatched in their habitats. They are very proud, though.",
+    "Evolutions": [
+        {
+            "From": "Grovyle",
+            "Kind": "Level",
+            "Speed": "Medium"
+        },
+        {
+            "To": "Sceptile (Mega Form)",
+            "Kind": "Mega",
+            "Item": "Sceptilite"
+        }
+    ],
+    "Image": "sceptile.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Pound"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Leer"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Absorb"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Leafage"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Quick Attack"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Pursuit"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Fury Cutter"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Screech"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Mega Drain"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Agility"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Slam"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Detect"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Quick Guard"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Nature Power"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Energy Ball"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "False Swipe"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Double Team"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "X-Scissor"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Night Slash"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Giga Drain"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Endeavor"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Dual Chop"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Leaf Storm"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Synthesis"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Outrage"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Thunder Punch"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Frenzy Plant"
+        }
+    ]
+}

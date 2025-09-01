@@ -1,0 +1,23 @@
+{
+    "Name": "Yawn",
+    "Type": "Normal",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Special",
+    "Accuracy2": "Channel",
+    "Target": "Foe",
+    "Effect": "If the target is not removed from battle by the start of its next Round, it will fall asleep.",
+    "Description": "The user lets out an infectious yawn that will make anyone drowsy enough to fall asleep pretty soon.",
+    "_id": "yawn",
+    "Attributes": {},
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Drowzy",
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Support"
+}

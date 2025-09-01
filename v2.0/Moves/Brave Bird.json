@@ -1,0 +1,18 @@
+{
+    "Name": "Brave Bird",
+    "Type": "Flying",
+    "Power": 5,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Strength",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "Recoil.",
+    "Description": "The Pokemon flies straight at the foe at full speed, the collision might hurt both of them.",
+    "_id": "brave-bird",
+    "Attributes": {
+        "Recoil": true
+    },
+    "AddedEffects": {},
+    "Category": "Physical"
+}

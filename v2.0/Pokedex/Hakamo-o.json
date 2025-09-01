@@ -1,0 +1,128 @@
+{
+    "Number": 783,
+    "DexID": "0783",
+    "Name": "Hakamo-o",
+    "Type1": "Dragon",
+    "Type2": "Fighting",
+    "BaseHP": 4,
+    "Strength": 2,
+    "MaxStrength": 5,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Bulletproof",
+    "Ability2": "Soundproof",
+    "HiddenAbility": "Overcoat",
+    "EventAbilities": "",
+    "RecommendedRank": "Amateur",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "hakamo-o",
+    "DexCategory": "Scaly Pokemon",
+    "Height": {
+        "Meters": 1.2,
+        "Feet": 3.9
+    },
+    "Weight": {
+        "Kilograms": 47.0,
+        "Pounds": 103.6
+    },
+    "DexDescription": "The scales on its body are shed and regrow sharper each time. It is a courageous and diligent Pokemon who always lets out a war cry before the battle. Any marks on its scale armor is worn with pride.",
+    "Evolutions": [
+        {
+            "From": "Jangmo-o",
+            "Kind": "Level",
+            "Speed": "Slow"
+        },
+        {
+            "To": "Kommo-o",
+            "Kind": "Level",
+            "Speed": "Slow"
+        }
+    ],
+    "Image": "hakamo-o.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Leer"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Bide"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Protect"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Sky Uppercut"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Dragon Tail"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Scary Face"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Headbutt"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Work Up"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Screech"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Iron Defense"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Dragon Claw"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Noble Roar"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Autotomize"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Dragon Dance"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Outrage"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Counter"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Reversal"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Dragon Breath"
+        }
+    ]
+}

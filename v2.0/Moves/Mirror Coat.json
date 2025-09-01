@@ -1,0 +1,18 @@
+{
+    "Name": "Mirror Coat",
+    "Type": "Psychic",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Channel",
+    "Target": "Foe",
+    "Effect": "The move only works if the foe just used a Special Attack. Roll the same Damage Pool as your foe's last attack and add 2 Extra Damage Dice. Ignore the foe's Defenses.",
+    "Description": "The user canalizes the damage received by energies and bounces them back to their source.",
+    "_id": "mirror-coat",
+    "Attributes": {
+        "IgnoreDefenses": true
+    },
+    "AddedEffects": {},
+    "Category": "Special"
+}

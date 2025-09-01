@@ -1,0 +1,16 @@
+{
+    "Name": "Rage",
+    "Type": "Normal",
+    "Power": 1,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "If the Pokemon receives damage after using this move. Increase the User's Strength. This effect can stack up to 3 times.",
+    "Description": "The user gets angry and throws a tantrum at the foe. If the attacker keeps on fighting, it will make the user rage even harder.",
+    "_id": "rage",
+    "Attributes": {},
+    "AddedEffects": {},
+    "Category": "Physical"
+}

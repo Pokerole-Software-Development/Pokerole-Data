@@ -1,0 +1,129 @@
+{
+    "Number": 992,
+    "DexID": "0992",
+    "Name": "Iron Hands",
+    "Type1": "Fighting",
+    "Type2": "Electric",
+    "BaseHP": 8,
+    "Strength": 3,
+    "MaxStrength": 7,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 3,
+    "MaxVitality": 6,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Quark Drive",
+    "Ability2": "",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Expert",
+    "GenderType": "N",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "iron-hands",
+    "DexCategory": "Paradox Pokémon",
+    "Height": {
+        "Meters": 1.8,
+        "Feet": 5.9
+    },
+    "Weight": {
+        "Kilograms": 380.7,
+        "Pounds": 839.3
+    },
+    "DexDescription": "A sumo wrestler given a second chance at life through miraculous science. Hariyama-like cybernetic modifications allow for its hands to move independent of its body and send speeding cars into the air.",
+    "Evolutions": [],
+    "Image": "iron-hands.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Sand Attack"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Focus Energy"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Arm Thrust"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Fake Out"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Whirlwind"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Thunder Punch"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Slam"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Force Palm"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Seismic Toss"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Charge"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Iron Head"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Rock Slide"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Wild Charge"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Close Combat"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Detect"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Heavy Slam"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Belly Drum"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Focus Punch"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Electric Terrain"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Giga Drain"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Play Rough"
+        }
+    ]
+}

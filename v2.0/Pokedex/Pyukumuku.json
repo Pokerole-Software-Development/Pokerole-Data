@@ -1,0 +1,121 @@
+{
+    "Number": 771,
+    "DexID": "0771",
+    "Name": "Pyukumuku",
+    "Type1": "Water",
+    "Type2": "",
+    "BaseHP": 4,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 1,
+    "MaxDexterity": 1,
+    "Vitality": 3,
+    "MaxVitality": 7,
+    "Special": 1,
+    "MaxSpecial": 3,
+    "Insight": 3,
+    "MaxInsight": 7,
+    "Ability1": "Innards Out",
+    "Ability2": "",
+    "HiddenAbility": "Unaware",
+    "EventAbilities": "",
+    "RecommendedRank": "Starter",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "pyukumuku",
+    "DexCategory": "Sea Cucumber Pokemon",
+    "Height": {
+        "Meters": 0.3,
+        "Feet": 1.0
+    },
+    "Weight": {
+        "Kilograms": 1.2,
+        "Pounds": 2.6
+    },
+    "DexDescription": "Once this Pokemon finds a spot it likes it will remain there without moving, even if food is out of reach. It can expel its organs through its mouth and use them like an arm. It\u2019s slimy and not many people like it.",
+    "Evolutions": [],
+    "Image": "pyukumuku.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Mud Sport"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Water Sport"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Harden"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Baton Pass"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Bide"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Helping Hand"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Taunt"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Safeguard"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Counter"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Purify"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Curse"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Gastro Acid"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Pain Split"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Recover"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Soak"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Toxic Spikes"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Memento"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Bestow"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Venom Drench"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Tickle"
+        }
+    ]
+}

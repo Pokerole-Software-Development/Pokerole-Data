@@ -1,0 +1,27 @@
+{
+    "Name": "Razor Shell",
+    "Type": "Water",
+    "Power": 3,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "Roll 1 Chance Dice to Reduce the foe's Defense.",
+    "Description": "The Pokemon uses its sharp shell as a weapon to cut the target's fur, armor or anything protecting its body.",
+    "_id": "razor-shell",
+    "Attributes": {},
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "Def"
+                ],
+                "Stages": -1,
+                "ChanceDice": 1,
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Physical"
+}

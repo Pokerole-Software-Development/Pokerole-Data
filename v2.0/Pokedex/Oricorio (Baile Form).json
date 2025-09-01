@@ -1,0 +1,130 @@
+{
+    "Number": 741,
+    "DexID": "0741",
+    "Name": "Oricorio (Baile Form)",
+    "Type1": "Fire",
+    "Type2": "Flying",
+    "BaseHP": 4,
+    "Strength": 2,
+    "MaxStrength": 5,
+    "Dexterity": 3,
+    "MaxDexterity": 6,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 3,
+    "MaxSpecial": 6,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Dancer",
+    "Ability2": "",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Beginner",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "oricorio-baile-form",
+    "DexCategory": "Dancing Pokemon",
+    "Height": {
+        "Meters": 0.6,
+        "Feet": 2.0
+    },
+    "Weight": {
+        "Kilograms": 3.4,
+        "Pounds": 7.5
+    },
+    "DexDescription": "What was thought to be different species ended up being a single Pokemon. Oricorio Baile is an intense and passionate Pokemon, every flap of its wings produces embers, its fiery dance has inspired many.",
+    "Evolutions": [
+        {
+            "To": "Oricorio (Pom-pom Form)",
+            "Kind": "Form"
+        },
+        {
+            "To": "Oricorio (Pa'u Form)",
+            "Kind": "Form"
+        },
+        {
+            "To": "Oricorio (Sensu Form)",
+            "Kind": "Form"
+        }
+    ],
+    "Image": "oricorio-baile-form.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Pound"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Growl"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Peck"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Helping Hand"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Air Cutter"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Baton Pass"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Feather Dance"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Double Slap"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Teeter Dance"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Roost"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Captivate"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Air Slash"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Revelation Dance"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Mirror Move"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Agility"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Hurricane"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Swords Dance"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Attract"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Round"
+        }
+    ]
+}

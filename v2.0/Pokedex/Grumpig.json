@@ -1,0 +1,127 @@
+{
+    "Number": 326,
+    "DexID": "0326",
+    "Name": "Grumpig",
+    "Type1": "Psychic",
+    "Type2": "",
+    "BaseHP": 4,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 2,
+    "MaxDexterity": 5,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 2,
+    "MaxSpecial": 5,
+    "Insight": 3,
+    "MaxInsight": 6,
+    "Ability1": "Thick Fat",
+    "Ability2": "Own Tempo",
+    "HiddenAbility": "Gluttony",
+    "EventAbilities": "",
+    "RecommendedRank": "Amateur",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "grumpig",
+    "DexCategory": "Manipulate Pokemon",
+    "Height": {
+        "Meters": 0.9,
+        "Feet": 3.0
+    },
+    "Weight": {
+        "Kilograms": 71.5,
+        "Pounds": 157.6
+    },
+    "DexDescription": "Grumpigs control their foes with their psychic powers amplified by the pearls on their head and a hypnotic dance. However, when they use their powers, they have a difficult time breathing.",
+    "Evolutions": [
+        {
+            "From": "Spoink",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "grumpig.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Splash"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Belch"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Psywave"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Odor Sleuth"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Psybeam"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Psych Up"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Confuse Ray"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Magic Coat"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Zen Headbutt"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Rest"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Snore"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Teeter Dance"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Power Gem"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Psyshock"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Payback"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Psychic"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Bounce"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Drain Punch"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Future Sight"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Trick"
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Name": "Rage Powder",
+    "Type": "Bug",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Insight",
+    "Accuracy2": "Intimidate",
+    "Target": "User",
+    "Effect": "Target Self. Priority 2. For the rest of the Round, all Damaging Moves performed by Foes must target the User.",
+    "Description": "The Pokemon releases an irritating powder that annoys and enrages foes into attacking.",
+    "_id": "rage-powder",
+    "Attributes": {
+        "Priority": 2
+    },
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "CenterOfAttention",
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Support"
+}

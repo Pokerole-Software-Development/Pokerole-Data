@@ -1,0 +1,23 @@
+{
+    "Name": "Nightmare",
+    "Type": "Ghost",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Will",
+    "Accuracy2": "Channel",
+    "Target": "Foe",
+    "Effect": "Will only work if the Target is asleep. Deal 1 Damage to the foe. Deal 1 Damage again at the beginning of each Round if the target is still asleep.",
+    "Description": "The user enters the target's dream to torment it.",
+    "_id": "nightmare",
+    "Attributes": {},
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Spite",
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Support"
+}

@@ -1,0 +1,24 @@
+{
+    "Name": "Drain Punch",
+    "Type": "Fighting",
+    "Power": 3,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "Fist Based. The user restore HP equal to half the damage dealt, rounded down.",
+    "Description": "The Pokemon strikes with a powerful punch. Through contact, it absorbs some vital energy.",
+    "_id": "drain-punch",
+    "Attributes": {
+        "FistBased": true
+    },
+    "AddedEffects": {
+        "Heal": {
+            "Type": "Leech",
+            "Percentage": 0.5,
+            "Target": "User"
+        }
+    },
+    "Category": "Physical"
+}

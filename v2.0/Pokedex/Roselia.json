@@ -1,0 +1,133 @@
+{
+    "Number": 315,
+    "DexID": "0315",
+    "Name": "Roselia",
+    "Type1": "Grass",
+    "Type2": "Poison",
+    "BaseHP": 4,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 3,
+    "MaxSpecial": 6,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Natural Cure",
+    "Ability2": "Poison Point",
+    "HiddenAbility": "Leaf Guard",
+    "EventAbilities": "",
+    "RecommendedRank": "Beginner",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "roselia",
+    "DexCategory": "Thorn Pokemon",
+    "Height": {
+        "Meters": 0.3,
+        "Feet": 1.0
+    },
+    "Weight": {
+        "Kilograms": 2.0,
+        "Pounds": 4.4
+    },
+    "DexDescription": "They live among rose bushes, shooting sharp poisonous thorns to anyone who tries to steal one of their flowers. Their aroma brings serenity. They need clean water to grow beautiful.",
+    "Evolutions": [
+        {
+            "From": "Budew",
+            "Kind": "Stat",
+            "Stat": "Happiness",
+            "Value": 4
+        },
+        {
+            "To": "Roserade",
+            "Kind": "Stone",
+            "Item": "Shiny Stone"
+        }
+    ],
+    "Image": "roselia.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Absorb"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Growth"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Poison Sting"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Stun Spore"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Mega Drain"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Leech Seed"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Magical Leaf"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Grass Whistle"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Giga Drain"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Toxic Spikes"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Sweet Scent"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Ingrain"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Petal Dance"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Toxic"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Aromatherapy"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Synthesis"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Petal Blizzard"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Worry Seed"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Spikes"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Extrasensory"
+        }
+    ]
+}

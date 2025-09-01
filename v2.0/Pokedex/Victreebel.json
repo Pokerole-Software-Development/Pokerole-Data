@@ -1,0 +1,99 @@
+{
+    "Number": 71,
+    "DexID": "0071",
+    "Name": "Victreebel",
+    "Type1": "Grass",
+    "Type2": "Poison",
+    "BaseHP": 5,
+    "Strength": 3,
+    "MaxStrength": 6,
+    "Dexterity": 2,
+    "MaxDexterity": 5,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 3,
+    "MaxSpecial": 6,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Chlorophyll",
+    "Ability2": "",
+    "HiddenAbility": "Gluttony",
+    "EventAbilities": "",
+    "RecommendedRank": "Amateur",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "victreebel",
+    "DexCategory": "Flycatcher Pokemon",
+    "Height": {
+        "Meters": 1.7,
+        "Feet": 5.6
+    },
+    "Weight": {
+        "Kilograms": 15.5,
+        "Pounds": 34.2
+    },
+    "DexDescription": "They live together in small groups at tropical areas. Victreebel uses a sweet honey-like smell to lure and attract prey. They also use their long vines to rustle bushes around. They are territorial and aggressive.",
+    "Evolutions": [
+        {
+            "From": "Weepinbell",
+            "Kind": "Stone",
+            "Item": "Leaf Stone"
+        }
+    ],
+    "Image": "victreebel.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Vine Whip"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Swallow"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Spit Up"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Stockpile"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Sleep Powder"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Sweet Scent"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Razor Leaf"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Leaf Tornado"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Leaf Storm"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Leaf Blade"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Belch"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Power Whip"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Synthesis"
+        }
+    ]
+}

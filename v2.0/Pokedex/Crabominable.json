@@ -1,0 +1,115 @@
+{
+    "Number": 740,
+    "DexID": "0740",
+    "Name": "Crabominable",
+    "Type1": "Fighting",
+    "Type2": "Ice",
+    "BaseHP": 4,
+    "Strength": 3,
+    "MaxStrength": 7,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Hyper Cutter",
+    "Ability2": "Iron Fist",
+    "HiddenAbility": "Anger Point",
+    "EventAbilities": "",
+    "RecommendedRank": "Ace",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "crabominable",
+    "DexCategory": "Woolly Crab Pokemon",
+    "Height": {
+        "Meters": 1.7,
+        "Feet": 5.6
+    },
+    "Weight": {
+        "Kilograms": 180.0,
+        "Pounds": 396.8
+    },
+    "DexDescription": "Crawbrawlers who get lost in the snowy mountains of Alola are forced to evolve into a more suited form. Crabominables are not very smart and throw punches to friends and foes alike when they panic.",
+    "Evolutions": [
+        {
+            "From": "Crabrawler",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "crabominable.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Leer"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Bubble"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Rock Smash"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Bubble Beam"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Pursuit"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Ice Punch"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Power-Up Punch"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Dizzy Punch"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Avalanche"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Reversal"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Ice Hammer"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Iron Defense"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Dynamic Punch"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Close Combat"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Endeavor"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Wide Guard"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Superpower"
+        }
+    ]
+}

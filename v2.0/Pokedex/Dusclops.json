@@ -1,0 +1,148 @@
+{
+    "Number": 356,
+    "DexID": "0356",
+    "Name": "Dusclops",
+    "Type1": "Ghost",
+    "Type2": "",
+    "BaseHP": 4,
+    "Strength": 2,
+    "MaxStrength": 5,
+    "Dexterity": 1,
+    "MaxDexterity": 3,
+    "Vitality": 3,
+    "MaxVitality": 7,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 3,
+    "MaxInsight": 7,
+    "Ability1": "Levitate",
+    "Ability2": "",
+    "HiddenAbility": "Frisk",
+    "EventAbilities": "",
+    "RecommendedRank": "Amateur",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "dusclops",
+    "DexCategory": "Beckon Pokemon",
+    "Height": {
+        "Meters": 1.6,
+        "Feet": 5.2
+    },
+    "Weight": {
+        "Kilograms": 30.6,
+        "Pounds": 67.5
+    },
+    "DexDescription": "Its body is hollow. Some paranormal experts say there is a spectral energy ball inside them but it is not confirmed. If it absorbs an object or a creature there\u2019s the risk that nothing will come back out.",
+    "Evolutions": [
+        {
+            "From": "Duskull",
+            "Kind": "Level",
+            "Speed": "Medium"
+        },
+        {
+            "To": "Dusknoir",
+            "Kind": "Trade",
+            "Item": "Reaper Cloth"
+        }
+    ],
+    "Image": "dusclops.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Night Shade"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Leer"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Bind"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Disable"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Foresight"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Fire Punch"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Ice Punch"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Astonish"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Thunder Punch"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Shadow Sneak"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Confuse Ray"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Curse"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Pursuit"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Shadow Punch"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Will-O-Wisp"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Hex"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Gravity"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Shadow Ball"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Mean Look"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Payback"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Future Sight"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Dark Pulse"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Memento"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Pain Split"
+        }
+    ]
+}

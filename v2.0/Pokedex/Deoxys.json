@@ -1,0 +1,126 @@
+{
+    "Number": 386,
+    "DexID": "0386",
+    "Name": "Deoxys",
+    "Type1": "Psychic",
+    "Type2": "",
+    "BaseHP": 4,
+    "Strength": 8,
+    "MaxStrength": 8,
+    "Dexterity": 8,
+    "MaxDexterity": 8,
+    "Vitality": 4,
+    "MaxVitality": 4,
+    "Special": 8,
+    "MaxSpecial": 8,
+    "Insight": 4,
+    "MaxInsight": 4,
+    "Ability1": "Pressure",
+    "Ability2": "",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Master",
+    "GenderType": "N",
+    "Legendary": true,
+    "GoodStarter": false,
+    "_id": "deoxys",
+    "DexCategory": "No Data",
+    "Height": {
+        "Meters": 1.7,
+        "Feet": 5.6
+    },
+    "Weight": {
+        "Kilograms": 60.8,
+        "Pounds": 134.0
+    },
+    "DexDescription": "A space expedition had to be aborted due to an emergency. The ship\u2019s crew mentioned a creature attacking them inside their ship. They all gave different descriptions of said creature.",
+    "Evolutions": [
+        {
+            "To": "Deoxys (Attack Form)",
+            "Kind": "Form"
+        },
+        {
+            "To": "Deoxys (Defense Form)",
+            "Kind": "Form"
+        },
+        {
+            "To": "Deoxys (Speed Form)",
+            "Kind": "Form"
+        }
+    ],
+    "Image": "deoxys.png",
+    "Moves": [
+        {
+            "Learned": "Master",
+            "Name": "Leer"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Wrap"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Night Shade"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Teleport"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Knock Off"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Pursuit"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Psychic"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Snatch"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Psycho Shift"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Zen Headbutt"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Cosmic Power"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Recover"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Psycho Boost"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Hyper Beam"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Toxic"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Laser Focus"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Bind"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Signal Beam"
+        }
+    ]
+}

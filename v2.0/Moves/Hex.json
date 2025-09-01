@@ -1,0 +1,16 @@
+{
+    "Name": "Hex",
+    "Type": "Ghost",
+    "Power": 2,
+    "Damage1": "Special",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Channel",
+    "Target": "Foe",
+    "Effect": "If the Target is affected by a Status Ailment add 2 Extra Dice to the Damage Pool.",
+    "Description": "The user casts a terrible hex over the target, the effects will be greater if the target is vulnerable.",
+    "_id": "hex",
+    "Attributes": {},
+    "AddedEffects": {},
+    "Category": "Special"
+}

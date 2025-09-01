@@ -1,0 +1,127 @@
+{
+    "Number": 89,
+    "DexID": "0089",
+    "Name": "Muk",
+    "Type1": "Poison",
+    "Type2": "",
+    "BaseHP": 5,
+    "Strength": 3,
+    "MaxStrength": 6,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 3,
+    "MaxInsight": 6,
+    "Ability1": "Stench",
+    "Ability2": "Sticky Hold",
+    "HiddenAbility": "Poison Touch",
+    "EventAbilities": "",
+    "RecommendedRank": "Amateur",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "muk",
+    "DexCategory": "Sludge Pokemon",
+    "Height": {
+        "Meters": 1.2,
+        "Feet": 3.9
+    },
+    "Weight": {
+        "Kilograms": 30.0,
+        "Pounds": 66.1
+    },
+    "DexDescription": "It gathers on polluted areas to eat filth. Its body is made of a powerful poison that kills any plant. Touching it can cause a fever that will require bed rest. A good diet may reduce Muk's toxicity.",
+    "Evolutions": [
+        {
+            "From": "Grimer",
+            "Kind": "Level",
+            "Speed": "Slow"
+        }
+    ],
+    "Image": "muk.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Pound"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Poison Gas"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Harden"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Mud Slap"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Disable"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Venom Drench"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Sludge"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Minimize"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Mud Bomb"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Sludge Bomb"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Fling"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Screech"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Sludge Wave"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Acid Armor"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Gunk Shot"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Belch"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Memento"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Self Destruct"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Shadow Sneak"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Giga Drain"
+        }
+    ]
+}

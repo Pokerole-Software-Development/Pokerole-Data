@@ -1,0 +1,29 @@
+{
+    "Name": "Parting Shot",
+    "Type": "Dark",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Tough",
+    "Accuracy2": "Intimidate",
+    "Target": "Foe",
+    "Effect": "Reduce foe's Strength and Special. The user switches out, the new Pokemon arrives ready to fight. Roll for its initiative. Switcher Move.",
+    "Description": "The user threatens the foe, leaving it too scared to pursuit the user or overwhelm the ally that just switched in the battlefield.",
+    "_id": "parting-shot",
+    "Attributes": {
+        "SwitcherMove": true
+    },
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "Strength",
+                    "Special"
+                ],
+                "Stages": -1,
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Support"
+}

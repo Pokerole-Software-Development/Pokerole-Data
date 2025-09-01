@@ -1,0 +1,26 @@
+{
+    "Name": "Super Fang",
+    "Type": "Normal",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "Damage Roll is Half of the Foe's remaining HP (up to 10) rounded down. If the remaining HP of the foe is 1 this move fails. Ignore the foe's Defenses. -1 Accuracy.",
+    "Description": "The Pokemon jumps at the foe to crush it with an awful bite.",
+    "_id": "super-fang",
+    "Attributes": {
+        "AccuracyReduction": 1,
+        "IgnoreDefenses": true
+    },
+    "AddedEffects": {
+        "FixedDamage": {
+            "Type": "HpPercentage",
+            "Value": 0.5,
+            "MaxValue": 10,
+            "Target": "Targets"
+        }
+    },
+    "Category": "Physical"
+}

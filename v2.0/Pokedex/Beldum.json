@@ -1,0 +1,59 @@
+{
+    "Number": 374,
+    "DexID": "0374",
+    "Name": "Beldum",
+    "Type1": "Steel",
+    "Type2": "Psychic",
+    "BaseHP": 3,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 1,
+    "MaxDexterity": 3,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 1,
+    "MaxSpecial": 3,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Clear Body",
+    "Ability2": "",
+    "HiddenAbility": "Light Metal",
+    "EventAbilities": "",
+    "RecommendedRank": "Beginner",
+    "GenderType": "N",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "beldum",
+    "DexCategory": "Iron Ball Pokemon",
+    "Height": {
+        "Meters": 0.6,
+        "Feet": 2.0
+    },
+    "Weight": {
+        "Kilograms": 95.2,
+        "Pounds": 209.9
+    },
+    "DexDescription": "Beldum uses magnetic pulses to float and communicate. When it finds others, they move in perfect unison. It needs to develop a new brain to evolve; two of them may merge or it could develop a new one with time.",
+    "Evolutions": [
+        {
+            "To": "Metang",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "beldum.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Take Down"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Iron Head"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Headbutt"
+        }
+    ]
+}

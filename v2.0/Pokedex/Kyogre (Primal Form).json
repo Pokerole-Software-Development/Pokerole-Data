@@ -1,0 +1,142 @@
+{
+    "Number": 382,
+    "DexID": "0382M1",
+    "Name": "Kyogre (Primal Form)",
+    "Type1": "Water",
+    "Type2": "",
+    "BaseHP": 10,
+    "Strength": 8,
+    "MaxStrength": 8,
+    "Dexterity": 5,
+    "MaxDexterity": 5,
+    "Vitality": 5,
+    "MaxVitality": 5,
+    "Special": 9,
+    "MaxSpecial": 9,
+    "Insight": 8,
+    "MaxInsight": 8,
+    "Ability1": "Primordial Sea",
+    "Ability2": "",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Master",
+    "GenderType": "N",
+    "Legendary": true,
+    "GoodStarter": false,
+    "_id": "kyogre-primal-form",
+    "DexCategory": "No Data",
+    "Height": {
+        "Meters": 9.8,
+        "Feet": 32.2
+    },
+    "Weight": {
+        "Kilograms": 430.0,
+        "Pounds": 948.0
+    },
+    "DexDescription": "Millions of years ago chaos reigned. Neverending typhoons drowning all life under unforgiving waters. Who was so sad and hurt in the deep darkness of the sea? As its sapphire tears still flood the world.",
+    "Evolutions": [
+        {
+            "From": "Kyogre",
+            "Kind": "Form"
+        }
+    ],
+    "Image": "kyogre-primal-form.png",
+    "Moves": [
+        {
+            "Learned": "Master",
+            "Name": "Ancient Power"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Water Pulse"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Scary Face"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Aqua Tail"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Ice Beam"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Origin Pulse"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Calm Mind"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Muddy Water"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Sheer Cold"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Hydro Pump"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Double-Edge"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Water Spout"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Strength"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Dive"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Whirlpool"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Psych Up"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Mist"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Splishy Splash"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Steam Eruption"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Defog"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Telekinesis"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Blizzard"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Drain Punch"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Snatch"
+        }
+    ]
+}

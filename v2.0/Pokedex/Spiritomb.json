@@ -1,0 +1,105 @@
+{
+    "Number": 442,
+    "DexID": "0442",
+    "Name": "Spiritomb",
+    "Type1": "Ghost",
+    "Type2": "Dark",
+    "BaseHP": 4,
+    "Strength": 2,
+    "MaxStrength": 5,
+    "Dexterity": 1,
+    "MaxDexterity": 3,
+    "Vitality": 3,
+    "MaxVitality": 6,
+    "Special": 2,
+    "MaxSpecial": 5,
+    "Insight": 3,
+    "MaxInsight": 6,
+    "Ability1": "Pressure",
+    "Ability2": "",
+    "HiddenAbility": "Infiltrator",
+    "EventAbilities": "",
+    "RecommendedRank": "Pro",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "spiritomb",
+    "DexCategory": "Forbidden Pokemon",
+    "Height": {
+        "Meters": 1.0,
+        "Feet": 3.3
+    },
+    "Weight": {
+        "Kilograms": 108.0,
+        "Pounds": 238.1
+    },
+    "DexDescription": "A legend from 500 years ago tells how it got bound into an Odd Keystone after cursing an entire town. Two have been found in recent times. It is said that its vortex has more than 100 haunted souls.",
+    "Evolutions": [],
+    "Image": "spiritomb.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Curse"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Pursuit"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Confuse Ray"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Spite"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Shadow Sneak"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Feint Attack"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Hypnosis"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Dream Eater"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Ominous Wind"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Sucker Punch"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Nasty Plot"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Dark Pulse"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Memento"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Destiny Bond"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Telekinesis"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Imprison"
+        }
+    ]
+}

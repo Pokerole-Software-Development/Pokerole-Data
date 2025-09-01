@@ -1,0 +1,95 @@
+{
+    "Number": 677,
+    "DexID": "0677",
+    "Name": "Espurr",
+    "Type1": "Psychic",
+    "Type2": "",
+    "BaseHP": 3,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Keen Eye",
+    "Ability2": "Infiltrator",
+    "HiddenAbility": "Own Tempo",
+    "EventAbilities": "",
+    "RecommendedRank": "Beginner",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "espurr",
+    "DexCategory": "Restraint Pokemon",
+    "Height": {
+        "Meters": 0.3,
+        "Feet": 1.0
+    },
+    "Weight": {
+        "Kilograms": 3.5,
+        "Pounds": 7.7
+    },
+    "DexDescription": "The organs that emit its intense psychic power are tucked under its ears to keep energy from escaping. It still does not control its power and could destroy something without realizing it.",
+    "Evolutions": [
+        {
+            "To": "Meowstic",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "espurr.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Scratch"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Leer"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Covet"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Confusion"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Light Screen"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Psybeam"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Fake Out"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Disarming Voice"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Psyshock"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Signal Beam"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Barrier"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Yawn"
+        }
+    ]
+}

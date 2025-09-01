@@ -1,0 +1,18 @@
+{
+    "Name": "Chip Away",
+    "Type": "Normal",
+    "Power": 3,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Strength",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "Single Target. Ignore Defenses. Remove effects that increase Evasion from the Target (ie. Moves like: Double Team, Minimize, Abilities like: Sand Veil)",
+    "Description": "The user looks for an opening and strikes directly there. It nibbles bit by bit at even the toughest of surfaces.",
+    "_id": "chip-away",
+    "Attributes": {
+        "IgnoreDefenses": true
+    },
+    "AddedEffects": {},
+    "Category": "Physical"
+}

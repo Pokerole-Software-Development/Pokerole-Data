@@ -1,0 +1,18 @@
+{
+    "Name": "Sparkling Aria",
+    "Type": "Water",
+    "Power": 3,
+    "Damage1": "Special",
+    "Damage2": "",
+    "Accuracy1": "Special",
+    "Accuracy2": "Perform",
+    "Target": "Area",
+    "Effect": "Area Move. Sound Move. If an Affected Pokémon had any level of Burn Status Condition, heal it instead of dealing Damage.",
+    "Description": "The Pokémon sings a beautiful melody. The song comes out as a sparkling fountain, bursting upon impact and quenching any fire in its path.",
+    "_id": "sparkling-aria",
+    "Attributes": {
+        "SoundBased": true
+    },
+    "AddedEffects": {},
+    "Category": "Special"
+}

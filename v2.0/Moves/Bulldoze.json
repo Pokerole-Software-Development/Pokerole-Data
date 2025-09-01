@@ -1,0 +1,26 @@
+{
+    "Name": "Bulldoze",
+    "Type": "Ground",
+    "Power": 2,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Brawl",
+    "Target": "Area",
+    "Effect": "Reduce the Dexterity of those affected.",
+    "Description": "The user stomps and tramples the place, breaking stones, trees, and everything nearby.",
+    "_id": "bulldoze",
+    "Attributes": {},
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "Dexterity"
+                ],
+                "Stages": -1,
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Physical"
+}

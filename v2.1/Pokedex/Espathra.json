@@ -1,0 +1,139 @@
+{
+    "Number": 956,
+    "DexID": "0956",
+    "Name": "Espathra",
+    "Type1": "Psychic",
+    "Type2": "",
+    "BaseHP": 6,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 3,
+    "MaxDexterity": 6,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 3,
+    "MaxSpecial": 6,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Opportunist",
+    "Ability2": "Speed Boost",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Expert",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "espathra",
+    "DexCategory": "Ostrich Pokémon",
+    "Height": {
+        "Meters": 1.9,
+        "Feet": 6.2
+    },
+    "Weight": {
+        "Kilograms": 90.0,
+        "Pounds": 198.4
+    },
+    "DexDescription": "Despite their gentle appearance and elegant demeanor they have a vicious temperament. Known for immobilizing those who stare into their eyes. Their record speed goes beyond 120 mph (193 kph).",
+    "Evolutions": [
+        {
+            "From": "Flittle",
+            "Kind": "Level",
+            "Speed": "Slow"
+        }
+    ],
+    "Image": "espathra.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Peck"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Growl"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Confusion"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Baby-Doll Eyes"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Disarming Voice"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Quick Attack"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Psybeam"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Pluck"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Drill Peck"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Feather Dance"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Swift"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Hypnosis"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Agility"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Lumina Crash"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Light Screen"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Reflect"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Uproar"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Roost"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Psychic"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Last Resort"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Energy Ball"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Shadow Ball"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Psychic Terrain"
+        }
+    ]
+}

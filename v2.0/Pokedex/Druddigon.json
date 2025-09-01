@@ -1,0 +1,117 @@
+{
+    "Number": 621,
+    "DexID": "0621",
+    "Name": "Druddigon",
+    "Type1": "Dragon",
+    "Type2": "",
+    "BaseHP": 4,
+    "Strength": 3,
+    "MaxStrength": 7,
+    "Dexterity": 2,
+    "MaxDexterity": 5,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Rough Skin",
+    "Ability2": "Sheer Force",
+    "HiddenAbility": "Mold Breaker",
+    "EventAbilities": "",
+    "RecommendedRank": "Pro",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "druddigon",
+    "DexCategory": "Cave Pokemon",
+    "Height": {
+        "Meters": 1.6,
+        "Feet": 5.2
+    },
+    "Weight": {
+        "Kilograms": 139.0,
+        "Pounds": 306.4
+    },
+    "DexDescription": "It runs through the narrow tunnels dug by Excadrill and Onix and uses its sharp claws to catch prey. It is cold blooded, and regularly takes sun baths to keep its energy. They are aggressive and territorial.",
+    "Evolutions": [],
+    "Image": "druddigon.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Scratch"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Leer"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Hone Claws"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Bite"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Scary Face"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Dragon Rage"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Slash"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Crunch"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Dragon Claw"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Chip Away"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Revenge"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Night Slash"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Dragon Tail"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Rock Climb"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Superpower"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Outrage"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Fire Fang"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Thunder Fang"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Poison Tail"
+        }
+    ]
+}

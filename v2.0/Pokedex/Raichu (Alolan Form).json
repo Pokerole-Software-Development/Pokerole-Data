@@ -1,0 +1,84 @@
+{
+    "Number": 26,
+    "DexID": "0026A",
+    "Name": "Raichu (Alolan Form)",
+    "Type1": "Electric",
+    "Type2": "Psychic",
+    "BaseHP": 5,
+    "Strength": 2,
+    "MaxStrength": 5,
+    "Dexterity": 3,
+    "MaxDexterity": 6,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 3,
+    "MaxSpecial": 6,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Surge Surfer",
+    "Ability2": "",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Amateur",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "raichu-alolan-form",
+    "DexCategory": "Mouse Pokemon",
+    "Height": {
+        "Meters": 0.7,
+        "Feet": 2.3
+    },
+    "Weight": {
+        "Kilograms": 21.0,
+        "Pounds": 46.3
+    },
+    "DexDescription": "Scientists were baffled to discover Raichu's evolution in the Alola Region. There is no explanation as to how it gained Psychic abilities, but diet seems to be factor. It loves sweet food and pancakes.",
+    "Evolutions": [
+        {
+            "From": "Pikachu",
+            "Kind": "Stone",
+            "Item": "Thunder Stone",
+            "Region": "Alola"
+        }
+    ],
+    "Image": "raichu-alolan-form.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Thunder Shock"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Tail Whip"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Quick Attack"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Thunderbolt"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Psychic"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Speed Swap"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Electric Terrain"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Reflect"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Volt Tackle"
+        }
+    ]
+}

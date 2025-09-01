@@ -1,0 +1,16 @@
+{
+    "Name": "Low Kick",
+    "Type": "Fighting",
+    "Power": 1,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Vitality",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "Single Target. Add 1 Extra Damage Dice for every 50kg of weight on the foe, up to 4 Dice may be added this way.",
+    "Description": "The user kicks the target, making it fall. The bigger the foe, the harder the fall.",
+    "_id": "low-kick",
+    "Attributes": {},
+    "AddedEffects": {},
+    "Category": "Physical"
+}

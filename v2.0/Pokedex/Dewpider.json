@@ -1,0 +1,115 @@
+{
+    "Number": 751,
+    "DexID": "0751",
+    "Name": "Dewpider",
+    "Type1": "Water",
+    "Type2": "Bug",
+    "BaseHP": 3,
+    "Strength": 1,
+    "MaxStrength": 3,
+    "Dexterity": 1,
+    "MaxDexterity": 3,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 1,
+    "MaxSpecial": 3,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Water Bubble",
+    "Ability2": "",
+    "HiddenAbility": "Water Absorb",
+    "EventAbilities": "",
+    "RecommendedRank": "Starter",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "dewpider",
+    "DexCategory": "Water Bubble Pokemon",
+    "Height": {
+        "Meters": 0.3,
+        "Feet": 1.0
+    },
+    "Weight": {
+        "Kilograms": 4.0,
+        "Pounds": 8.8
+    },
+    "DexDescription": "It lives on shallow water pools, but goes into the land to find prey. Its water bubble allows it to breath outside of its pool and serves as a weapon to hunt or defend itself. As it grows its bubble grows as well.",
+    "Evolutions": [
+        {
+            "To": "Araquanid",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "dewpider.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Water Sport"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Bubble"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Infestation"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Spider Web"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Bug Bite"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Bubble Beam"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Bite"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Aqua Ring"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Leech Life"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Mirror Coat"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Lunge"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Crunch"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Liquidation"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Entrainment"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Stockpile"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Aurora Beam"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Spit Up"
+        }
+    ]
+}

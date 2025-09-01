@@ -1,0 +1,26 @@
+{
+    "Name": "String Shot",
+    "Type": "Bug",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Insight",
+    "Accuracy2": "Nature",
+    "Target": "All Foes",
+    "Effect": "Targets All Foes in Range. Reduce the Dexterity of those affected.",
+    "Description": "The user shoots a silk string that ties and limits the movement of its foe.",
+    "_id": "string-shot",
+    "Attributes": {},
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "Dexterity"
+                ],
+                "Stages": -1,
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Support"
+}

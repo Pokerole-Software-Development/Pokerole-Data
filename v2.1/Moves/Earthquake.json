@@ -1,0 +1,18 @@
+{
+    "Name": "Earthquake",
+    "Type": "Ground",
+    "Power": 4,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Strength",
+    "Accuracy2": "Nature",
+    "Target": "Area",
+    "Effect": "Area Move. Ranged. If the Target is Out of Range due to using the Move 'Dig', this Move hits anyways",
+    "Description": "The Pokémon focuses its energy into shaking the ground. Everyone around will be thrown like a ragdoll.",
+    "_id": "earthquake",
+    "Attributes": {
+        "PhysicalRanged": true
+    },
+    "AddedEffects": {},
+    "Category": "Physical"
+}

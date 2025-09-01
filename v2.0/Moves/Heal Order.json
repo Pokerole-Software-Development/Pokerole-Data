@@ -1,0 +1,22 @@
+{
+    "Name": "Heal Order",
+    "Type": "Bug",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Tough",
+    "Accuracy2": "Nature",
+    "Target": "User",
+    "Effect": "Basic Heal.",
+    "Description": "The Pokemon commands its swarm to bring some healing honey.",
+    "_id": "heal-order",
+    "Attributes": {},
+    "AddedEffects": {
+        "Heal": {
+            "Type": "Basic",
+            "Target": "Targets",
+            "WillPointCost": 1
+        }
+    },
+    "Category": "Support"
+}

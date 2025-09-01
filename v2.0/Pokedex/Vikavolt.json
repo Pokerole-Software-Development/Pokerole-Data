@@ -1,0 +1,119 @@
+{
+    "Number": 738,
+    "DexID": "0738",
+    "Name": "Vikavolt",
+    "Type1": "Bug",
+    "Type2": "Electric",
+    "BaseHP": 5,
+    "Strength": 2,
+    "MaxStrength": 5,
+    "Dexterity": 1,
+    "MaxDexterity": 3,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 4,
+    "MaxSpecial": 8,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Levitate",
+    "Ability2": "",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Amateur",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "vikavolt",
+    "DexCategory": "Stag Beetle Pokemon",
+    "Height": {
+        "Meters": 1.5,
+        "Feet": 4.9
+    },
+    "Weight": {
+        "Kilograms": 45.0,
+        "Pounds": 99.2
+    },
+    "DexDescription": "The electricity it shoots through its jaws is very dangerous, it zaps bird Pokemon trying to eat it. Its flight is peculiar, for it bends in a 90\u00b0 angle or flies backwards without a problem.",
+    "Evolutions": [
+        {
+            "From": "Charjabug",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "vikavolt.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "String Shot"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Vice Grip"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Bite"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Mud Slap"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Bug Bite"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Thunderbolt"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Air Slash"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Charge"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Spark"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Acrobatics"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Dig"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Bug Buzz"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Guillotine"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Zap Cannon"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Agility"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Mud Shot"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Endure"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Charge Beam"
+        }
+    ]
+}

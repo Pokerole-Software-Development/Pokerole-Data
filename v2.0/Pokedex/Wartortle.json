@@ -1,0 +1,120 @@
+{
+    "Number": 8,
+    "DexID": "0008",
+    "Name": "Wartortle",
+    "Type1": "Water",
+    "Type2": "",
+    "BaseHP": 4,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Torrent",
+    "Ability2": "",
+    "HiddenAbility": "Rain Dish",
+    "EventAbilities": "",
+    "RecommendedRank": "Amateur",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "wartortle",
+    "DexCategory": "Turtle Pokemon",
+    "Height": {
+        "Meters": 1.0,
+        "Feet": 3.3
+    },
+    "Weight": {
+        "Kilograms": 22.5,
+        "Pounds": 49.6
+    },
+    "DexDescription": "Its large tail is covered with rich, thick fur that deepens in color with age. The scratches on its shell are evidence of this Pokemon\u2019s tough attitude in battle. It is a good hunter underwater.",
+    "Evolutions": [
+        {
+            "From": "Squirtle",
+            "Kind": "Level",
+            "Speed": "Medium"
+        },
+        {
+            "To": "Blastoise",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "wartortle.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Tail Whip"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Water Gun"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Withdraw"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Bubble"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Bite"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Rapid Spin"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Protect"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Water Pulse"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Aqua Tail"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Skull Bash"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Iron Defense"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Rain Dance"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Hydro Pump"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Mud Sport"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Water Pledge"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Icy Wind"
+        }
+    ]
+}

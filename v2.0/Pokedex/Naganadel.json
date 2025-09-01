@@ -1,0 +1,123 @@
+{
+    "Number": 804,
+    "DexID": "0804",
+    "Name": "Naganadel",
+    "Type1": "Poison",
+    "Type2": "Dragon",
+    "BaseHP": 5,
+    "Strength": 5,
+    "MaxStrength": 5,
+    "Dexterity": 7,
+    "MaxDexterity": 7,
+    "Vitality": 5,
+    "MaxVitality": 5,
+    "Special": 7,
+    "MaxSpecial": 7,
+    "Insight": 5,
+    "MaxInsight": 5,
+    "Ability1": "Beast Boost",
+    "Ability2": "",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Pro",
+    "GenderType": "N",
+    "Legendary": true,
+    "GoodStarter": false,
+    "_id": "naganadel",
+    "DexCategory": "Aether Foundation Log #164",
+    "Height": {
+        "Meters": 3.6,
+        "Feet": 11.8
+    },
+    "Weight": {
+        "Kilograms": 150.0,
+        "Pounds": 330.7
+    },
+    "DexDescription": "One specimen of UB- Adhesive has apparently evolved. Its friendly demeanor is gone. The large streams of corrosive poison it shot seriously damaged our equipment, I must take a sample to study it",
+    "Evolutions": [
+        {
+            "From": "Poipole",
+            "Kind": "Level",
+            "Move": "Dragon Pulse"
+        }
+    ],
+    "Image": "naganadel.png",
+    "Moves": [
+        {
+            "Learned": "Master",
+            "Name": "Air Cutter"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Dragon Pulse"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Peck"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Growl"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Helping Hand"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Acid"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Fury Attack"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Venoshock"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Charm"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Venom Drench"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Nasty Plot"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Poison Jab"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Toxic"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Fell Stinger"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Air Slash"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Draco Meteor"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Gunk Shot"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Tailwind"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Sky Attack"
+        }
+    ]
+}

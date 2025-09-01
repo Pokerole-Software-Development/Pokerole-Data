@@ -1,0 +1,26 @@
+{
+    "Name": "Skill Swap",
+    "Type": "Psychic",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Clever",
+    "Accuracy2": "Channel",
+    "Target": "Foe",
+    "Effect": "Single Target. Switch the User's Ability with the Target's. Whole Scene Duration. This effect does not end by switching out the affected Pokémon. Unique Abilities can't be switched.",
+    "Description": "The user swaps its identity with the target, making both feel like they are from each other's species.",
+    "_id": "skill-swap",
+    "Attributes": {
+        "AbilityChange": true,
+        "Duration": "wholeScene"
+    },
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "ChangedAbility",
+                "Affects": "User"
+            }
+        ]
+    },
+    "Category": "Support"
+}

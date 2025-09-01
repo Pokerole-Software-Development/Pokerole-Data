@@ -1,0 +1,123 @@
+{
+    "Number": 529,
+    "DexID": "0529",
+    "Name": "Drilbur",
+    "Type1": "Ground",
+    "Type2": "",
+    "BaseHP": 3,
+    "Strength": 2,
+    "MaxStrength": 5,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 1,
+    "MaxVitality": 3,
+    "Special": 1,
+    "MaxSpecial": 3,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Sand Rush",
+    "Ability2": "Sand Force",
+    "HiddenAbility": "Mold Breaker",
+    "EventAbilities": "",
+    "RecommendedRank": "Rookie",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "drilbur",
+    "DexCategory": "Mole Pokémon",
+    "Height": {
+        "Meters": 0.3,
+        "Feet": 1.0
+    },
+    "Weight": {
+        "Kilograms": 8.5,
+        "Pounds": 18.7
+    },
+    "DexDescription": "It lives in caves but loves to wreak havoc on vegetable farms. It makes its way swiftly through the soil by putting both claws together and rotating at high speed. It is friendly and not afraid of humans.",
+    "Evolutions": [
+        {
+            "To": "Excadrill",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "drilbur.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Mud Slap"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Mud Sport"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Scratch"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Rapid Spin"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Hone Claws"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Fury Swipes"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Metal Claw"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Sandstorm"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Crush Claw"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Rock Slide"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Dig"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Swords Dance"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Drill Run"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Slash"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Earthquake"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Fissure"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Rock Climb"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Shadow Claw"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Submission"
+        }
+    ]
+}

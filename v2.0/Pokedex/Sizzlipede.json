@@ -1,0 +1,111 @@
+{
+    "Number": 850,
+    "DexID": "0850",
+    "Name": "Sizzlipede",
+    "Type1": "Fire",
+    "Type2": "Bug",
+    "BaseHP": 3,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Flash Fire",
+    "Ability2": "White Smoke",
+    "HiddenAbility": "Flame Body",
+    "EventAbilities": "",
+    "RecommendedRank": "Amateur",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "sizzlipede",
+    "DexCategory": "Radiator Pokemon",
+    "Height": {
+        "Meters": 0.7,
+        "Feet": 2.3
+    },
+    "Weight": {
+        "Kilograms": 1.0,
+        "Pounds": 2.2
+    },
+    "DexDescription": "It stores flammable gas in its body and uses it to generate heat. The yellow sections on its belly get very hot. It wraps prey with its body heated to cook them, the it nibbles them down until nothing remains.",
+    "Evolutions": [
+        {
+            "To": "Centiskorch",
+            "Kind": "Level",
+            "Speed": "Slow"
+        }
+    ],
+    "Image": "sizzlipede.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Ember"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Smokescreen"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Wrap"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Bite"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Flame Wheel"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Bug Bite"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Coil"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Slam"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Fire Spin"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Crunch"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Fire Lash"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Lunge"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Burn Up"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Knock Off"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Struggle Bug"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Venoshock"
+        }
+    ]
+}

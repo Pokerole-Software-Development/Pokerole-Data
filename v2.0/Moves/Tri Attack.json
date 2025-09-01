@@ -1,0 +1,34 @@
+{
+    "Name": "Tri Attack",
+    "Type": "Normal",
+    "Power": 3,
+    "Damage1": "Special",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Channel",
+    "Target": "Foe",
+    "Effect": "Roll 2 Chance Dice to Paralyze the foe. Roll 2 Chance Dice to Burn the foe. Roll 2 Chance Dice to Freeze the Foe.",
+    "Description": "The user shoots three beams. Each one is charged with a different kind of energy.",
+    "_id": "tri-attack",
+    "Attributes": {},
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Paralyze",
+                "Affects": "Targets",
+                "ChanceDice": 2
+            },
+            {
+                "Type": "Burn",
+                "Affects": "Targets",
+                "ChanceDice": 2
+            },
+            {
+                "Type": "Freeze",
+                "Affects": "Targets",
+                "ChanceDice": 2
+            }
+        ]
+    },
+    "Category": "Special"
+}

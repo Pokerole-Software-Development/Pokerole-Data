@@ -1,0 +1,75 @@
+{
+    "Number": 512,
+    "DexID": "0512",
+    "Name": "Simisage",
+    "Type1": "Grass",
+    "Type2": "",
+    "BaseHP": 4,
+    "Strength": 3,
+    "MaxStrength": 6,
+    "Dexterity": 3,
+    "MaxDexterity": 6,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 3,
+    "MaxSpecial": 6,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Gluttony",
+    "Ability2": "",
+    "HiddenAbility": "Overgrow",
+    "EventAbilities": "",
+    "RecommendedRank": "Amateur",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "simisage",
+    "DexCategory": "Thorn Monkey Pokemon",
+    "Height": {
+        "Meters": 1.1,
+        "Feet": 3.6
+    },
+    "Weight": {
+        "Kilograms": 30.5,
+        "Pounds": 67.2
+    },
+    "DexDescription": "It becomes somewhat ill tempered after it evolves. The leaves on it\u2019s head can be made into a bitter but effective medicine, however it will attack anyone trying to take them with it\u2019s thorned tail.",
+    "Evolutions": [
+        {
+            "From": "Pansage",
+            "Kind": "Stone",
+            "Item": "Leaf Stone"
+        }
+    ],
+    "Image": "simisage.png",
+    "Moves": [
+        {
+            "Learned": "Beginner",
+            "Name": "Leer"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Lick"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Fury Swipes"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Seed Bomb"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Synthesis"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Disarming Voice"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Gunk Shot"
+        }
+    ]
+}

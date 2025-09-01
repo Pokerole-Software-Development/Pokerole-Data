@@ -1,0 +1,26 @@
+{
+    "Name": "Whirlpool",
+    "Type": "Water",
+    "Power": 2,
+    "Damage1": "Special",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Channel",
+    "Target": "Foe",
+    "Effect": "Block. Deal 2 dice of damage at the end of each Round. Lasts 4 Rounds. -2 Accuracy.",
+    "Description": "Trap the foe inside a violent swirling whirlpool that makes the foe unable to escape the battle.",
+    "_id": "whirlpool",
+    "Attributes": {
+        "BlockDamagePool": 2,
+        "AccuracyReduction": 2
+    },
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Block",
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Special"
+}

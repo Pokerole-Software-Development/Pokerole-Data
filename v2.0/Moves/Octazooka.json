@@ -1,0 +1,29 @@
+{
+    "Name": "Octazooka",
+    "Type": "Water",
+    "Power": 2,
+    "Damage1": "Special",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Channel",
+    "Target": "Foe",
+    "Effect": "Roll 5 Chance Dice to Reduce the foe's Accuracy. -2 Accuracy.",
+    "Description": "The user sprays ink at the target's face to obstruct its vison.",
+    "_id": "octazooka",
+    "Attributes": {
+        "AccuracyReduction": 2
+    },
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "Accuracy"
+                ],
+                "Stages": -1,
+                "ChanceDice": 5,
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Special"
+}

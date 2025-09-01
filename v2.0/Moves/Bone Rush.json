@@ -1,0 +1,19 @@
+{
+    "Name": "Bone Rush",
+    "Type": "Ground",
+    "Power": 1,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "Successive Actions. -1 Accuracy.",
+    "Description": "The user quickly strikes the foe with a bone, one blow after another.",
+    "_id": "bone-rush",
+    "Attributes": {
+        "SuccessiveActions": true,
+        "AccuracyReduction": 1
+    },
+    "AddedEffects": {},
+    "Category": "Physical"
+}

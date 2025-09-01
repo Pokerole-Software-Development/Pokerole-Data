@@ -1,0 +1,122 @@
+{
+    "Number": 645,
+    "DexID": "0645F1",
+    "Name": "Landorus (Therian Form)",
+    "Type1": "Ground",
+    "Type2": "Flying",
+    "BaseHP": 4,
+    "Strength": 8,
+    "MaxStrength": 8,
+    "Dexterity": 5,
+    "MaxDexterity": 5,
+    "Vitality": 5,
+    "MaxVitality": 5,
+    "Special": 6,
+    "MaxSpecial": 6,
+    "Insight": 5,
+    "MaxInsight": 5,
+    "Ability1": "Sand Force",
+    "Ability2": "",
+    "HiddenAbility": "Sheer Force",
+    "EventAbilities": "",
+    "RecommendedRank": "Master",
+    "GenderType": "M",
+    "Legendary": true,
+    "GoodStarter": false,
+    "_id": "landorus-therian-form",
+    "DexCategory": "No Data",
+    "Height": {
+        "Meters": 1.3,
+        "Feet": 4.3
+    },
+    "Weight": {
+        "Kilograms": 68.0,
+        "Pounds": 149.9
+    },
+    "DexDescription": "Some Pokemon reveal their true forms after recovering power lost to them. Great forces of nature can help them recover their strength such as Tornadoes, Lightning, and even a Landslide.",
+    "Evolutions": [
+        {
+            "From": "Landorus",
+            "Kind": "Form"
+        }
+    ],
+    "Image": "landorus-therian-form.png",
+    "Moves": [
+        {
+            "Learned": "Master",
+            "Name": "Block"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Mud Shot"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Rock Tomb"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Imprison"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Punishment"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Bulldoze"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Rock Throw"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Extrasensory"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Swords Dance"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Earth Power"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Rock Slide"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Earthquake"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Sandstorm"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Fissure"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Stone Edge"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Hammer Arm"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Outrage"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Rototiller"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Dig"
+        }
+    ]
+}

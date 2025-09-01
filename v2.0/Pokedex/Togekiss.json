@@ -1,0 +1,79 @@
+{
+    "Number": 468,
+    "DexID": "0468",
+    "Name": "Togekiss",
+    "Type1": "Fairy",
+    "Type2": "Flying",
+    "BaseHP": 5,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 2,
+    "MaxDexterity": 5,
+    "Vitality": 3,
+    "MaxVitality": 6,
+    "Special": 3,
+    "MaxSpecial": 7,
+    "Insight": 3,
+    "MaxInsight": 6,
+    "Ability1": "Hustle",
+    "Ability2": "Serene Grace",
+    "HiddenAbility": "Super Luck",
+    "EventAbilities": "",
+    "RecommendedRank": "Ace",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "togekiss",
+    "DexCategory": "Jubilee Pokemon",
+    "Height": {
+        "Meters": 1.5,
+        "Feet": 4.9
+    },
+    "Weight": {
+        "Kilograms": 38.0,
+        "Pounds": 83.8
+    },
+    "DexDescription": "Sightings of these Pokemon have become rare nowadays. They used to visit peaceful regions, bringing them gifts of kindness and great blessings. But they appear to have vanished in this times of conflict.",
+    "Evolutions": [
+        {
+            "From": "Togetic",
+            "Kind": "Stone",
+            "Item": "Shiny Stone"
+        }
+    ],
+    "Image": "togekiss.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "After You"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Extreme Speed"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Sky Attack"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Aura Sphere"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Air Slash"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Extrasensory"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Lucky Chant"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Water Pulse"
+        }
+    ]
+}

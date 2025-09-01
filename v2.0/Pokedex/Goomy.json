@@ -1,0 +1,103 @@
+{
+    "Number": 704,
+    "DexID": "0704",
+    "Name": "Goomy",
+    "Type1": "Dragon",
+    "Type2": "",
+    "BaseHP": 3,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 1,
+    "MaxDexterity": 3,
+    "Vitality": 1,
+    "MaxVitality": 3,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Sap Sipper",
+    "Ability2": "Hydration",
+    "HiddenAbility": "Gooey",
+    "EventAbilities": "",
+    "RecommendedRank": "Starter",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "goomy",
+    "DexCategory": "Soft Tissue Pokemon",
+    "Height": {
+        "Meters": 0.3,
+        "Feet": 1.0
+    },
+    "Weight": {
+        "Kilograms": 2.8,
+        "Pounds": 6.2
+    },
+    "DexDescription": "The weakest but best tempered Dragon Pokemon known. It lives in damp and shady places, so its body doesn\u2019t dry out. It\u2019s covered in a slimy membrane that makes things slide off of it.",
+    "Evolutions": [
+        {
+            "To": "Sliggoo",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "goomy.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Bubble"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Absorb"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Protect"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Bide"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Dragon Breath"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Rain Dance"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Flail"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Body Slam"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Muddy Water"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Dragon Pulse"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Water Pulse"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Acid Armor"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Counter"
+        }
+    ]
+}

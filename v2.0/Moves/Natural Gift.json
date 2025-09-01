@@ -1,0 +1,18 @@
+{
+    "Name": "Natural Gift",
+    "Type": "Normal",
+    "Power": 3,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Channel",
+    "Target": "Foe",
+    "Effect": "User loses its held berry. Ranged. See Natural Gift on p.432 for more info.",
+    "Description": "The user throws its berry at the foe. The results can be quite surprising.",
+    "_id": "natural-gift",
+    "Attributes": {
+        "PhysicalRanged": true
+    },
+    "AddedEffects": {},
+    "Category": "Physical"
+}

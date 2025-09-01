@@ -1,0 +1,63 @@
+{
+    "Number": 129,
+    "DexID": "0129",
+    "Name": "Magikarp",
+    "Type1": "Water",
+    "Type2": "",
+    "BaseHP": 3,
+    "Strength": 1,
+    "MaxStrength": 2,
+    "Dexterity": 2,
+    "MaxDexterity": 5,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 1,
+    "MaxSpecial": 2,
+    "Insight": 1,
+    "MaxInsight": 3,
+    "Ability1": "Swift Swim",
+    "Ability2": "",
+    "HiddenAbility": "Rattled",
+    "EventAbilities": "",
+    "RecommendedRank": "Starter",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "magikarp",
+    "DexCategory": "Fish Pokemon",
+    "Height": {
+        "Meters": 0.9,
+        "Feet": 3.0
+    },
+    "Weight": {
+        "Kilograms": 10.0,
+        "Pounds": 22.0
+    },
+    "DexDescription": "Magikarp is a pathetic excuse of a Pokemon that is not even good to eat. It\u2019s only capable of flopping and splashing. However, it can survive in any body of water no matter how polluted it is.",
+    "Evolutions": [
+        {
+            "To": "Gyarados",
+            "Kind": "Level",
+            "Speed": "Slow"
+        }
+    ],
+    "Image": "magikarp.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Splash"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Flail"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Bounce"
+        }
+    ]
+}

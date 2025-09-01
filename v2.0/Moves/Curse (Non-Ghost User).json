@@ -1,0 +1,34 @@
+{
+    "Name": "Curse (Non-Ghost User)",
+    "Type": "Ghost",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Will",
+    "Accuracy2": "Channel",
+    "Target": "User",
+    "Effect": "Increase the User's Strength and Defense. Reduce the User's Dexterity. This effect is only for Pokemon who are not Ghost-Type.",
+    "Description": "The Pokemon prepares to deal and receive damage by muttering something not appropriate for kids.",
+    "_id": "curse-(non-ghost-user)",
+    "Attributes": {},
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "Strength",
+                    "Def"
+                ],
+                "Stages": 1,
+                "Affects": "User"
+            },
+            {
+                "Stats": [
+                    "Dexterity"
+                ],
+                "Stages": -1,
+                "Affects": "User"
+            }
+        ]
+    },
+    "Category": "Support"
+}

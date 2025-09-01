@@ -1,0 +1,165 @@
+{
+    "Number": 122,
+    "DexID": "0122G",
+    "Name": "Mr. Mime (Galarian Form)",
+    "Type1": "Ice",
+    "Type2": "Psychic",
+    "BaseHP": 4,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 3,
+    "MaxDexterity": 6,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 2,
+    "MaxSpecial": 5,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Vital Spirit",
+    "Ability2": "Screen Cleaner",
+    "HiddenAbility": "Ice Body",
+    "EventAbilities": "",
+    "RecommendedRank": "Amateur",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "mr-mime-galarian-form",
+    "DexCategory": "Barrier Pokemon",
+    "Height": {
+        "Meters": 1.4,
+        "Feet": 4.6
+    },
+    "Weight": {
+        "Kilograms": 56.8,
+        "Pounds": 125.2
+    },
+    "DexDescription": "Mime Jr. that endure the harsh winter of Galar are able to create invisible walls that suddenly turn to ice, as they evolve they start creating ice floors that allow them to tap-dance, which they enjoy more than anything.",
+    "Evolutions": [
+        {
+            "From": "Mime Jr",
+            "Kind": "Level",
+            "Move": "Mimic",
+            "Region": "Galar"
+        },
+        {
+            "To": "Mr. Rime",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "mr-mime-galarian-form.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Pound"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Rapid Spin"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Baton Pass"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Ice Shard"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Confusion"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Ally Switch"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Icy Wind"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Double Kick"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Copycat"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Encore"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Role Play"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Protect"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Recycle"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Mimic"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Light Screen"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Reflect"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Ice Beam"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Hypnosis"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Mirror Coat"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Sucker Punch"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Freeze Dry"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Psychic"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Safeguard"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Dazzling Gleam"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Misty Terrain"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Teeter Dance"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Rain Dance"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Hail"
+        }
+    ]
+}

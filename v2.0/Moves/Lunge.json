@@ -1,0 +1,26 @@
+{
+    "Name": "Lunge",
+    "Type": "Bug",
+    "Power": 3,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "Reduce foe's Strength.",
+    "Description": "The user charges against the foe at full force, not just to knock it down but to restain it with its many limbs.",
+    "_id": "lunge",
+    "Attributes": {},
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "Strength"
+                ],
+                "Stages": -1,
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Physical"
+}

@@ -1,0 +1,16 @@
+{
+    "Name": "Retaliate",
+    "Type": "Normal",
+    "Power": 3,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "If an ally fainted during this or the last Round, add 3 Extra Dice to the Damage Pool. This effect can only be used once per Ally.",
+    "Description": "A powerful attack. It will be even stronger if the user just suffered a great loss.",
+    "_id": "retaliate",
+    "Attributes": {},
+    "AddedEffects": {},
+    "Category": "Physical"
+}

@@ -1,0 +1,18 @@
+{
+    "Name": "Hyper Voice",
+    "Type": "Normal",
+    "Power": 3,
+    "Damage1": "Special",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Channel",
+    "Target": "All Foes",
+    "Effect": "Sound Based.",
+    "Description": "The user emits a horrible echoing sound that could burst the ears.",
+    "_id": "hyper-voice",
+    "Attributes": {
+        "SoundBased": true
+    },
+    "AddedEffects": {},
+    "Category": "Special"
+}

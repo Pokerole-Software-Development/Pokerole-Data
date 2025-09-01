@@ -1,0 +1,23 @@
+{
+    "Name": "Power Trick",
+    "Type": "Psychic",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Special",
+    "Accuracy2": "Channel",
+    "Target": "User",
+    "Effect": "Switch the User's Strength with its Defense and the User's Special with its Sp. Defense.",
+    "Description": "The user's mind is tricked into thinking that strength comes from their vitality, and their vitality is their power.",
+    "_id": "power-trick",
+    "Attributes": {},
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "PowerTrick",
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Support"
+}

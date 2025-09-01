@@ -1,0 +1,128 @@
+{
+    "Number": 156,
+    "DexID": "0156",
+    "Name": "Quilava",
+    "Type1": "Fire",
+    "Type2": "",
+    "BaseHP": 4,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 2,
+    "MaxDexterity": 5,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 2,
+    "MaxSpecial": 5,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Blaze",
+    "Ability2": "",
+    "HiddenAbility": "Flash Fire",
+    "EventAbilities": "",
+    "RecommendedRank": "Amateur",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "quilava",
+    "DexCategory": "Volcano Pokemon",
+    "Height": {
+        "Meters": 0.9,
+        "Feet": 3.0
+    },
+    "Weight": {
+        "Kilograms": 19.0,
+        "Pounds": 41.9
+    },
+    "DexDescription": "It intimidates foes with intense gusts of flames and superheated air. Beware if a Quilava turns its back on you, it is planing on using a fire move.",
+    "Evolutions": [
+        {
+            "From": "Cyndaquil",
+            "Kind": "Level",
+            "Speed": "Medium"
+        },
+        {
+            "To": "Typhlosion",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "quilava.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Leer"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Smokescreen"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Ember"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Quick Attack"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Flame Wheel"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Defense Curl"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Swift"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Flame Charge"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Lava Plume"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Flamethrower"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Rollout"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Inferno"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Double-Edge"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Eruption"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Burn Up"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Howl"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Double Kick"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Fire Pledge"
+        }
+    ]
+}

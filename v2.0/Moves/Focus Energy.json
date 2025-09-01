@@ -1,0 +1,25 @@
+{
+    "Name": "Focus Energy",
+    "Type": "Normal",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Insight",
+    "Accuracy2": "Channel",
+    "Target": "User",
+    "Effect": "All of the user's damage moves now have High Critical. This effect lasts until end of scene or the user is removed from battle.",
+    "Description": "The Pokemon's energy is raised to make all strikes much more precise.",
+    "_id": "focus-energy",
+    "Attributes": {
+        "HighCritical": true
+    },
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "FocusEnergy",
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Support"
+}

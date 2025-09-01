@@ -1,0 +1,61 @@
+{
+    "Number": 718,
+    "DexID": "0718",
+    "Name": "Zygarde Cell",
+    "Type1": "Dragon",
+    "Type2": "Ground",
+    "BaseHP": 1,
+    "Strength": 1,
+    "MaxStrength": 1,
+    "Dexterity": 1,
+    "MaxDexterity": 1,
+    "Vitality": 1,
+    "MaxVitality": 1,
+    "Special": 1,
+    "MaxSpecial": 1,
+    "Insight": 1,
+    "MaxInsight": 1,
+    "Ability1": "Power Construct",
+    "Ability2": "",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Starter",
+    "GenderType": "N",
+    "Legendary": true,
+    "GoodStarter": false,
+    "_id": "zygarde-cell",
+    "DexCategory": "No Data",
+    "Height": {
+        "Meters": 0.2,
+        "Feet": 0.7
+    },
+    "Weight": {
+        "Kilograms": 0.1,
+        "Pounds": 0.2
+    },
+    "DexDescription": "Only the the cores react to stimuli, the cells remain mostly inanimate. They gather in great numbers to create and strengthen Zygarde.",
+    "Evolutions": [
+        {
+            "To": "Zygarde 10%",
+            "Kind": "Special",
+            "Item": "Zyguarde cells"
+        },
+        {
+            "To": "Zygarde 50%",
+            "Kind": "Special",
+            "Item": "Zyguarde cells"
+        },
+        {
+            "To": "Zygarde 100%",
+            "Kind": "Special",
+            "Item": "Zyguarde cells"
+        }
+    ],
+    "Image": "zygarde-cell.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Endure"
+        }
+    ]
+}

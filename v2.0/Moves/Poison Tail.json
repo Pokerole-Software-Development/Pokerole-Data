@@ -1,0 +1,26 @@
+{
+    "Name": "Poison Tail",
+    "Type": "Poison",
+    "Power": 2,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "High Critical. Roll 1 Chance Dice to Poison the Foe.",
+    "Description": "The tail of this Pokemon is sharp like a blade, it attacks with slashing movements and may release some poison through it.",
+    "_id": "poison-tail",
+    "Attributes": {
+        "HighCritical": true
+    },
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Poison",
+                "Affects": "Targets",
+                "ChanceDice": 1
+            }
+        ]
+    },
+    "Category": "Physical"
+}

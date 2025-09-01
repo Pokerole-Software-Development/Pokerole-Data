@@ -1,0 +1,25 @@
+{
+    "Name": "Fake Out",
+    "Type": "Normal",
+    "Power": 2,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "Priority 1. Flinch the foe. This move will only work the First Round the Pokemon is out in battle. From the second round on, it will fail automatically.",
+    "Description": "While still preparing for battle, the user will suddenly attack the foe.",
+    "_id": "fake-out",
+    "Attributes": {
+        "Priority": 1
+    },
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Flinch",
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Physical"
+}

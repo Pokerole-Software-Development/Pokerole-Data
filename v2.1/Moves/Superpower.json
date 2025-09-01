@@ -1,0 +1,29 @@
+{
+    "Name": "Superpower",
+    "Type": "Fighting",
+    "Power": 5,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Strength",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "Single Target. Lethal. Reduce by 1 the User's Strength and Defense.",
+    "Description": "The Pokémon makes use of all its force to deliver a crushing strike to the foe. This demands a lot from the user.",
+    "_id": "superpower",
+    "Attributes": {
+        "Lethal": true
+    },
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "Strength",
+                    "Def"
+                ],
+                "Stages": -1,
+                "Affects": "User"
+            }
+        ]
+    },
+    "Category": "Physical"
+}

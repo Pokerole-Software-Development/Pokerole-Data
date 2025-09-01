@@ -1,0 +1,25 @@
+{
+    "Name": "Fly",
+    "Type": "Flying",
+    "Power": 3,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "Charge Move. While charging this move the User will be out of range, with the exception of the attacks Hurricane and Thunder.",
+    "Description": "The user flies up high in one action, then drops and strikes in the next one. The Pokemon can fly for extremely long periods of time without getting tired.",
+    "_id": "fly",
+    "Attributes": {
+        "Charge": true
+    },
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Fly",
+                "Affects": "User"
+            }
+        ]
+    },
+    "Category": "Physical"
+}

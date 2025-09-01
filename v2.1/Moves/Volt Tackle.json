@@ -1,0 +1,26 @@
+{
+    "Name": "Volt Tackle",
+    "Type": "Electric",
+    "Power": 5,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Athletic",
+    "Target": "Foe",
+    "Effect": "Single Target. Recoil. Roll 3 Chance die to Paralyze the foe.",
+    "Description": "The user surrounds itself with big bolts of electricity, then it crashes against the foe.",
+    "_id": "volt-tackle",
+    "Attributes": {
+        "Recoil": true
+    },
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Paralyze",
+                "Affects": "Targets",
+                "ChanceDice": 3
+            }
+        ]
+    },
+    "Category": "Physical"
+}

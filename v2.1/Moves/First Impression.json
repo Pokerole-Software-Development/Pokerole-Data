@@ -1,0 +1,18 @@
+{
+    "Name": "First Impression",
+    "Type": "Bug",
+    "Power": 3,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Strength",
+    "Accuracy2": "Intimidate",
+    "Target": "Foe",
+    "Effect": "Single Target. Priority 2. This Move will only work on the First Round the User is out in battle. From the second round on, it will fail automatically",
+    "Description": "The Pokémon makes a dramatic entrance to the battlefield, taking the foe by surprise.",
+    "_id": "first-impression",
+    "Attributes": {
+        "Priority": 2
+    },
+    "AddedEffects": {},
+    "Category": "Physical"
+}

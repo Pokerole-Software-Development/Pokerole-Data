@@ -1,0 +1,18 @@
+{
+    "Name": "Brick Break",
+    "Type": "Fighting",
+    "Power": 3,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "If a Barrier is in place on the foe's side (ie. Light Screen, Reflect) destroy the barrier and add 2 Extra Dice to the Damage Pool.",
+    "Description": "The Pokemon uses its palm or claws to perform a one-armed chop that shatters even invisible barriers.",
+    "_id": "brick-break",
+    "Attributes": {
+        "DestroyShield": true
+    },
+    "AddedEffects": {},
+    "Category": "Physical"
+}

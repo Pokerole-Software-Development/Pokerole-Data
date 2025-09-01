@@ -1,0 +1,107 @@
+{
+    "Number": 854,
+    "DexID": "0854",
+    "Name": "Sinistea",
+    "Type1": "Ghost",
+    "Type2": "",
+    "BaseHP": 3,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 2,
+    "MaxSpecial": 5,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Weak Armor",
+    "Ability2": "",
+    "HiddenAbility": "Cursed Body",
+    "EventAbilities": "",
+    "RecommendedRank": "Beginner",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "sinistea",
+    "DexCategory": "Black Tea Pokemon",
+    "Height": {
+        "Meters": 0.1,
+        "Feet": 0.3
+    },
+    "Weight": {
+        "Kilograms": 0.2,
+        "Pounds": 0.4
+    },
+    "DexDescription": "This Pokemon is said to have been born when a lonely spirit possessed a cold, leftover cup of tea. It absorbs the life-force of those who drink it but it tastes so bad that it gets spat out immediately.",
+    "Evolutions": [
+        {
+            "To": "Polteageist",
+            "Kind": "Item",
+            "Item": "Cracked Pot"
+        }
+    ],
+    "Image": "sinistea.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Astonish"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Withdraw"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Aromatic Mist"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Mega Drain"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Protect"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Sucker Punch"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Aromatherapy"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Giga Drain"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Shadow Ball"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Nasty Plot"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Memento"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Shell Smash"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Substitute"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Foul Play"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Trick"
+        }
+    ]
+}

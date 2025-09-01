@@ -1,0 +1,23 @@
+{
+    "Name": "Reflect Type",
+    "Type": "Normal",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Special",
+    "Accuracy2": "Channel",
+    "Target": "User",
+    "Effect": "The Pokemon is now the same type of one of its foes. Lasts for a Scene or until this move is used again.",
+    "Description": "The Pokemon appears to change its own physiology. This effect changes the Type of the user to match another Pokemon in sight.",
+    "_id": "reflect-type",
+    "Attributes": {},
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "ReflectType",
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Support"
+}

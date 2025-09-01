@@ -1,0 +1,145 @@
+{
+    "Number": 428,
+    "DexID": "0428",
+    "Name": "Lopunny",
+    "Type1": "Normal",
+    "Type2": "",
+    "BaseHP": 4,
+    "Strength": 2,
+    "MaxStrength": 5,
+    "Dexterity": 3,
+    "MaxDexterity": 6,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 3,
+    "MaxInsight": 6,
+    "Ability1": "Cute Charm",
+    "Ability2": "Klutz",
+    "HiddenAbility": "Limber",
+    "EventAbilities": "",
+    "RecommendedRank": "Amateur",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "lopunny",
+    "DexCategory": "Rabbit Pokemon",
+    "Height": {
+        "Meters": 1.2,
+        "Feet": 3.9
+    },
+    "Weight": {
+        "Kilograms": 33.3,
+        "Pounds": 73.4
+    },
+    "DexDescription": "Lopunny is extremely cautious, it quickly bounds off when it senses danger. If they are touched roughly, they throw kicks and jump away. Keep the fur it sheds as it\u2019s highly valued to make quality yarn.",
+    "Evolutions": [
+        {
+            "From": "Buneary",
+            "Kind": "Stat",
+            "Stat": "Happiness",
+            "Value": 4
+        },
+        {
+            "To": "Lopunny (Mega Form)",
+            "Kind": "Mega",
+            "Item": "Lopunnite"
+        }
+    ],
+    "Image": "lopunny.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Defense Curl"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Splash"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Pound"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Foresight"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Endure"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Return"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Bounce"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Rototiller"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Mirror Coat"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Magic Coat"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Quick Attack"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Jump Kick"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Baton Pass"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Agility"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Dizzy Punch"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "After You"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Charm"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Entrainment"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Healing Wish"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "High Jump Kick"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Cosmic Power"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Teeter Dance"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Fake Out"
+        }
+    ]
+}

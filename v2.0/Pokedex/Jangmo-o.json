@@ -1,0 +1,115 @@
+{
+    "Number": 782,
+    "DexID": "0782",
+    "Name": "Jangmo-o",
+    "Type1": "Dragon",
+    "Type2": "",
+    "BaseHP": 3,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Bulletproof",
+    "Ability2": "Soundproof",
+    "HiddenAbility": "Overcoat",
+    "EventAbilities": "",
+    "RecommendedRank": "Beginner",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "jangmo-o",
+    "DexCategory": "Scaly Pokemon",
+    "Height": {
+        "Meters": 0.6,
+        "Feet": 2.0
+    },
+    "Weight": {
+        "Kilograms": 29.7,
+        "Pounds": 65.5
+    },
+    "DexDescription": "They live in mountains rarely visited by humans. Although they are valiant and hard-working Pokemon they retain their independent nature. It uses the scale on its head for both attack and defense.",
+    "Evolutions": [
+        {
+            "To": "Hakamo-o",
+            "Kind": "Level",
+            "Speed": "Slow"
+        }
+    ],
+    "Image": "jangmo-o.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Leer"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Bide"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Protect"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Dragon Tail"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Scary Face"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Headbutt"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Work Up"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Screech"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Iron Defense"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Dragon Claw"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Noble Roar"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Dragon Dance"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Outrage"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Counter"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Reversal"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Dragon Breath"
+        }
+    ]
+}

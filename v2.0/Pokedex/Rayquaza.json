@@ -1,0 +1,147 @@
+{
+    "Number": 384,
+    "DexID": "0384",
+    "Name": "Rayquaza",
+    "Type1": "Dragon",
+    "Type2": "Flying",
+    "BaseHP": 8,
+    "Strength": 8,
+    "MaxStrength": 8,
+    "Dexterity": 6,
+    "MaxDexterity": 6,
+    "Vitality": 5,
+    "MaxVitality": 5,
+    "Special": 8,
+    "MaxSpecial": 8,
+    "Insight": 5,
+    "MaxInsight": 5,
+    "Ability1": "Air Lock",
+    "Ability2": "",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Master",
+    "GenderType": "N",
+    "Legendary": true,
+    "GoodStarter": false,
+    "_id": "rayquaza",
+    "DexCategory": "No Data",
+    "Height": {
+        "Meters": 7.0,
+        "Feet": 23.0
+    },
+    "Weight": {
+        "Kilograms": 206.5,
+        "Pounds": 455.3
+    },
+    "DexDescription": "The legend tells how Rayquaza lived in the outer layer of this world. It came to end the quarrel between Groudon and Kyogre, granted the world with blue skies and then left.",
+    "Evolutions": [
+        {
+            "To": "Rayquaza (Mega Form)",
+            "Kind": "Mega",
+            "Item": "Pokeball"
+        }
+    ],
+    "Image": "rayquaza.png",
+    "Moves": [
+        {
+            "Learned": "Master",
+            "Name": "Twister"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Scary Face"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Ancient Power"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Crunch"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Air Slash"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Rest"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Extreme Speed"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Dragon Pulse"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Dragon Dance"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Fly"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Hyper Voice"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Outrage"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Hyper Beam"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Roar"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Dragon Ascent"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Sky Drop"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Defog"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Tailwind"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Rain Dance"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Sunny Day"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Dive"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Dig"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Draco Meteor"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Hurricane"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Cosmic Power"
+        }
+    ]
+}

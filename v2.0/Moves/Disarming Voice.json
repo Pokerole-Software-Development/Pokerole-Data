@@ -1,0 +1,19 @@
+{
+    "Name": "Disarming Voice",
+    "Type": "Fairy",
+    "Power": 2,
+    "Damage1": "Special",
+    "Damage2": "",
+    "Accuracy1": "Insight",
+    "Accuracy2": "Perform",
+    "Target": "All Foes",
+    "Effect": "Sound Based. Never Fail. Targets All foes in range.",
+    "Description": "With a charming and manipulative cry, the user deals emotional damage to its opponent. This move always makes the target feel bad.",
+    "_id": "disarming-voice",
+    "Attributes": {
+        "SoundBased": true,
+        "NeverFail": true
+    },
+    "AddedEffects": {},
+    "Category": "Special"
+}

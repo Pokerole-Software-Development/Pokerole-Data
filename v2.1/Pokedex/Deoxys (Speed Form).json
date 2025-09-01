@@ -1,0 +1,118 @@
+{
+    "Number": 386,
+    "DexID": "0386F3",
+    "Name": "Deoxys (Speed Form)",
+    "Type1": "Psychic",
+    "Type2": "",
+    "BaseHP": 4,
+    "Strength": 6,
+    "MaxStrength": 6,
+    "Dexterity": 10,
+    "MaxDexterity": 10,
+    "Vitality": 5,
+    "MaxVitality": 5,
+    "Special": 6,
+    "MaxSpecial": 6,
+    "Insight": 5,
+    "MaxInsight": 5,
+    "Ability1": "Pressure",
+    "Ability2": "",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Ace",
+    "GenderType": "N",
+    "Legendary": true,
+    "GoodStarter": false,
+    "_id": "deoxys-speed-form",
+    "DexCategory": "No Data",
+    "Height": {
+        "Meters": 1.7,
+        "Feet": 5.6
+    },
+    "Weight": {
+        "Kilograms": 60.8,
+        "Pounds": 134.0
+    },
+    "DexDescription": "The first officer mentioned a slim creature that moved too fast for the radar to register and the eye to see. She saw it for a split second before it supposedly attacked the other end of the ship.",
+    "Evolutions": [
+        {
+            "From": "Deoxys",
+            "Kind": "Form"
+        }
+    ],
+    "Image": "deoxys-speed-form.png",
+    "Moves": [
+        {
+            "Learned": "Ace",
+            "Name": "Leer"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Wrap"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Night Shade"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Teleport"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Knock Off"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Pursuit"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Psychic"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Snatch"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Psycho Shift"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Zen Headbutt"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Cosmic Power"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Recover"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Psycho Boost"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Hyper Beam"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Toxic"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Laser Focus"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Bind"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Signal Beam"
+        }
+    ]
+}

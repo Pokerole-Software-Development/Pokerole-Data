@@ -1,0 +1,27 @@
+{
+    "Name": "Healing Wish",
+    "Type": "Psychic",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Will",
+    "Accuracy2": "Channel",
+    "Target": "One Ally",
+    "Effect": "The User faints. One Ally is completely healed from all damage and status ailments.",
+    "Description": "The power of ultimate love and sacrifice. The user wishes to completely heal all injuries, diseases, and ailments to save someone's life at the cost of their own health.",
+    "_id": "healing-wish",
+    "Attributes": {
+        "UserFaints": true
+    },
+    "AddedEffects": {
+        "AilmentHeal": [
+            "All"
+        ],
+        "Heal": {
+            "Type": "Complete",
+            "Target": "Targets",
+            "WillPointCost": 1
+        }
+    },
+    "Category": "Support"
+}

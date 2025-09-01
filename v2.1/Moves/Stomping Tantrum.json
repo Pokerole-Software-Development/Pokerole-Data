@@ -1,0 +1,16 @@
+{
+    "Name": "Stomping Tantrum",
+    "Type": "Ground",
+    "Power": 3,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Strength",
+    "Accuracy2": "Intimidate",
+    "Target": "Foe",
+    "Effect": "Single Target. Add 2 Extra Dice to the Damage Pool of this Move if the User failed the Accuracy Roll of the last Move it performed. If the Target is Out of Range due to using the Move 'Dig', this Move hits anyways.",
+    "Description": "The Pokemon throws a tantrum all over the place. It becomes worse if something frustrated it earlier.",
+    "_id": "stomping-tantrum",
+    "Attributes": {},
+    "AddedEffects": {},
+    "Category": "Physical"
+}

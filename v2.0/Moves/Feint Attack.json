@@ -1,0 +1,18 @@
+{
+    "Name": "Feint Attack",
+    "Type": "Dark",
+    "Power": 2,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "Never Fail.",
+    "Description": "The Pokemon approaches the foe disarmingly then attacks suddenly without giving any time to react.",
+    "_id": "feint-attack",
+    "Attributes": {
+        "NeverFail": true
+    },
+    "AddedEffects": {},
+    "Category": "Physical"
+}

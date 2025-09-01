@@ -1,0 +1,115 @@
+{
+    "Number": 418,
+    "DexID": "0418",
+    "Name": "Buizel",
+    "Type1": "Water",
+    "Type2": "",
+    "BaseHP": 3,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 2,
+    "MaxDexterity": 5,
+    "Vitality": 1,
+    "MaxVitality": 3,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 1,
+    "MaxInsight": 3,
+    "Ability1": "Swift Swim",
+    "Ability2": "",
+    "HiddenAbility": "Water Veil",
+    "EventAbilities": "",
+    "RecommendedRank": "Beginner",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "buizel",
+    "DexCategory": "Sea Weasel Pokemon",
+    "Height": {
+        "Meters": 0.7,
+        "Feet": 2.3
+    },
+    "Weight": {
+        "Kilograms": 29.5,
+        "Pounds": 65.0
+    },
+    "DexDescription": "It is usually seen close to streams and rivers. Buizel swims by rotating its two tails like a screw, the sack around its neck swells to help it float or deflates to dive underwater and catch prey.",
+    "Evolutions": [
+        {
+            "To": "Floatzel",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "buizel.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Sonic Boom"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Growl"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Water Sport"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Quick Attack"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Water Gun"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Pursuit"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Swift"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Aqua Jet"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Double Hit"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Whirlpool"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Razor Wind"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Aqua Tail"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Agility"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Hydro Pump"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Ice Punch"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Tail Slap"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Aqua Ring"
+        }
+    ]
+}

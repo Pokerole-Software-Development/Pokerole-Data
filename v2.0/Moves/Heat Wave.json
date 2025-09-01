@@ -1,0 +1,26 @@
+{
+    "Name": "Heat Wave",
+    "Type": "Fire",
+    "Power": 3,
+    "Damage1": "Special",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Channel",
+    "Target": "All Foes",
+    "Effect": "Target all foes in Range. Roll 1 Chance Dice to Burn those affected. -1 Accuracy.",
+    "Description": "The user breathes a giant wave of incandescent air that might set fire to whatever it touches.",
+    "_id": "heat-wave",
+    "Attributes": {
+        "AccuracyReduction": 1
+    },
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Burn",
+                "Affects": "Targets",
+                "ChanceDice": 1
+            }
+        ]
+    },
+    "Category": "Special"
+}

@@ -1,0 +1,129 @@
+{
+    "Number": 213,
+    "DexID": "0213",
+    "Name": "Shuckle",
+    "Type1": "Bug",
+    "Type2": "Rock",
+    "BaseHP": 4,
+    "Strength": 1,
+    "MaxStrength": 2,
+    "Dexterity": 1,
+    "MaxDexterity": 2,
+    "Vitality": 5,
+    "MaxVitality": 10,
+    "Special": 1,
+    "MaxSpecial": 2,
+    "Insight": 5,
+    "MaxInsight": 10,
+    "Ability1": "Sturdy",
+    "Ability2": "Gluttony",
+    "HiddenAbility": "Contrary",
+    "EventAbilities": "",
+    "RecommendedRank": "Amateur",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "shuckle",
+    "DexCategory": "Mold Pokemon",
+    "Height": {
+        "Meters": 0.6,
+        "Feet": 2.0
+    },
+    "Weight": {
+        "Kilograms": 20.5,
+        "Pounds": 45.2
+    },
+    "DexDescription": "Shuckle is a very peaceful and patient gooey worm. The fluids secreted by its toes can make holes in rocks. It hides inside those hallow stones and wears them as a shell. It is known for storing berries inside.",
+    "Evolutions": [],
+    "Image": "shuckle.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Bide"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Constrict"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Rollout"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Sticky Web"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Withdraw"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Encore"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Wrap"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Struggle Bug"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Safeguard"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Rest"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Rock Throw"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Gastro Acid"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Power Trick"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Shell Smash"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Bug Bite"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Rock Slide"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Guard Split"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Power Split"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Stone Edge"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Infestation"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Stealth Rock"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Acupressure"
+        }
+    ]
+}

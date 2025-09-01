@@ -1,0 +1,29 @@
+{
+    "Name": "Rest",
+    "Type": "Psychic",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Vitality",
+    "Accuracy2": "Nature",
+    "Target": "User",
+    "Effect": "Complete Heal. If successful spend 1 Will point to activate. The User must Sleep for a whole Round (from Round Start to Round End).",
+    "Description": "The user falls asleep. During this period the body benefits from a super accelerated healing process.",
+    "_id": "rest",
+    "Attributes": {},
+    "AddedEffects": {
+        "Heal": {
+            "Type": "Complete",
+            "Target": "Targets",
+            "WillPointCost": 1
+        },
+        "Ailments": [
+            {
+                "Type": "Sleep",
+                "Affects": "User",
+                "Rounds": 1
+            }
+        ]
+    },
+    "Category": "Support"
+}

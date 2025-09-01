@@ -1,0 +1,127 @@
+{
+    "Number": 354,
+    "DexID": "0354M1",
+    "Name": "Banette (Mega Form)",
+    "Type1": "Ghost",
+    "Type2": "",
+    "BaseHP": 5,
+    "Strength": 4,
+    "MaxStrength": 8,
+    "Dexterity": 2,
+    "MaxDexterity": 5,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 3,
+    "MaxSpecial": 6,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Prankster",
+    "Ability2": "",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Ace",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "banette-mega-form",
+    "DexCategory": "Marionette Pokemon",
+    "Height": {
+        "Meters": 1.2,
+        "Feet": 3.9
+    },
+    "Weight": {
+        "Kilograms": 13.0,
+        "Pounds": 28.7
+    },
+    "DexDescription": "The power of the Mega Stone rips the layer keeping all the cursed energy in. Its vindictive nature is so overwhelming that it can\u2019t help but to curse its own Trainer.",
+    "Evolutions": [
+        {
+            "From": "Banette",
+            "Kind": "Mega",
+            "Item": "Banettite"
+        }
+    ],
+    "Image": "banette-mega-form.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Knock Off"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Spite"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Night Shade"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Screech"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Curse"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Will-O-Wisp"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Shadow Sneak"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Curse"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Feint Attack"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Hex"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Shadow Ball"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Snatch"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Embargo"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Sucker Punch"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Grudge"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Trick"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Phantom Force"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Role Play"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Destiny Bond"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Icy Wind"
+        }
+    ]
+}

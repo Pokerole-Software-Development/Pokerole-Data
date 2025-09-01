@@ -1,0 +1,22 @@
+{
+    "Name": "Giga Drain",
+    "Type": "Grass",
+    "Power": 3,
+    "Damage1": "Special",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Channel",
+    "Target": "Foe",
+    "Effect": "The user restores HP equal to half the damage dealt, rounded down.",
+    "Description": "The Pokemon extracts a great amount of vital energy from the foe's body.",
+    "_id": "giga-drain",
+    "Attributes": {},
+    "AddedEffects": {
+        "Heal": {
+            "Type": "Leech",
+            "Percentage": 0.5,
+            "Target": "Targets"
+        }
+    },
+    "Category": "Special"
+}

@@ -1,0 +1,101 @@
+{
+    "Number": 806,
+    "DexID": "0806",
+    "Name": "Blacephalon",
+    "Type1": "Fire",
+    "Type2": "Ghost",
+    "BaseHP": 4,
+    "Strength": 7,
+    "MaxStrength": 7,
+    "Dexterity": 6,
+    "MaxDexterity": 6,
+    "Vitality": 4,
+    "MaxVitality": 4,
+    "Special": 6,
+    "MaxSpecial": 6,
+    "Insight": 5,
+    "MaxInsight": 5,
+    "Ability1": "Beast Boost",
+    "Ability2": "",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Pro",
+    "GenderType": "N",
+    "Legendary": true,
+    "GoodStarter": false,
+    "_id": "blacephalon",
+    "DexCategory": "Aether Foundation Log #121",
+    "Height": {
+        "Meters": 1.8,
+        "Feet": 5.9
+    },
+    "Weight": {
+        "Kilograms": 13.0,
+        "Pounds": 28.7
+    },
+    "DexDescription": "It was horrible and so fast I could barely take a picture of the UB specimen. As soon as the portal opened it slithered through it, got close to one of the team members and exploded. His state is critical, the UB disappeared.",
+    "Evolutions": [],
+    "Image": "blacephalon.png",
+    "Moves": [
+        {
+            "Learned": "Master",
+            "Name": "Ember"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Astonish"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Magic Coat"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Stored Power"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Flame Burst"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Night Shade"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Light Screen"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Calm Mind"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Fire Blast"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Shadow Ball"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Trick"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Mind Blown"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Explosion"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Spite"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Heat Wave"
+        }
+    ]
+}

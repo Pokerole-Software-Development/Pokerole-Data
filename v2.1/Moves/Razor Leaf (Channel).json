@@ -1,0 +1,19 @@
+{
+    "Name": "Razor Leaf (Channel)",
+    "Type": "Grass",
+    "Power": 2,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Channel",
+    "Target": "All Foes",
+    "Effect": "Target All Foes in Range. Ranged. High Critical.",
+    "Description": "The Pokémon shoots one or more sharp leaves that cut through all targets as if they were razors.",
+    "_id": "razor-leaf-(channel)",
+    "Attributes": {
+        "HighCritical": true,
+        "PhysicalRanged": true
+    },
+    "AddedEffects": {},
+    "Category": "Physical"
+}

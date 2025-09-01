@@ -1,0 +1,148 @@
+{
+    "Number": 9,
+    "DexID": "0009",
+    "Name": "Blastoise",
+    "Type1": "Water",
+    "Type2": "",
+    "BaseHP": 5,
+    "Strength": 2,
+    "MaxStrength": 5,
+    "Dexterity": 2,
+    "MaxDexterity": 5,
+    "Vitality": 3,
+    "MaxVitality": 6,
+    "Special": 2,
+    "MaxSpecial": 5,
+    "Insight": 3,
+    "MaxInsight": 6,
+    "Ability1": "Torrent",
+    "Ability2": "",
+    "HiddenAbility": "Rain Dish",
+    "EventAbilities": "",
+    "RecommendedRank": "Expert",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "blastoise",
+    "DexCategory": "Shellfish Pokémon",
+    "Height": {
+        "Meters": 1.6,
+        "Feet": 5.2
+    },
+    "Weight": {
+        "Kilograms": 170,
+        "Pounds": 380
+    },
+    "DexDescription": "The jets of water it spouts from the rocket cannons on its shell have been recorded to punch through steel. It is confident in its great defense and water spouts to overcome any obstacle.",
+    "Evolutions": [
+        {
+            "From": "Wartortle",
+            "Kind": "Level",
+            "Speed": "Medium"
+        },
+        {
+            "To": "Blastoise (Mega Form)",
+            "Kind": "Mega",
+            "Item": "Blastoisinite"
+        }
+    ],
+    "Image": "blastoise.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Tail Whip"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Water Gun"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Withdraw"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Rapid Spin"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Bite"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Bubble"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Protect"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Water Pulse"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Rain Dance"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Aqua Tail"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Flip Turn"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Shell Smash"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Iron Defense"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Aura Sphere"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Flash Cannon"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Muddy Water"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Life Dew"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Hydro Pump"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Skull Bash"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Water Spout"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Zap Cannon"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Outrage"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Hydro Cannon"
+        }
+    ]
+}

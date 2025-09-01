@@ -1,0 +1,18 @@
+{
+    "Name": "Fusion Flare",
+    "Type": "Fire",
+    "Power": 4,
+    "Damage1": "Special",
+    "Damage2": "",
+    "Accuracy1": "Special",
+    "Accuracy2": "Channel",
+    "Target": "Foe",
+    "Effect": "Lethal. If the Move \u201cFusion Bolt\u201d has already been used by anyone this Round, add 4 Extra Dice to the Damage Pool of this Move",
+    "Description": "The Pokemon sets ablaze a swirling pillar upon the target, said pillar will grow taller and swirl faster if there's a special kind of charge nearby.",
+    "_id": "fusion-flare",
+    "Attributes": {
+        "Lethal": true
+    },
+    "AddedEffects": {},
+    "Category": "Special"
+}

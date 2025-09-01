@@ -1,0 +1,111 @@
+{
+    "Number": 421,
+    "DexID": "0421",
+    "Name": "Cherrim",
+    "Type1": "Grass",
+    "Type2": "",
+    "BaseHP": 4,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 2,
+    "MaxDexterity": 5,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 2,
+    "MaxSpecial": 5,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Flower Gift",
+    "Ability2": "",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Beginner",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "cherrim",
+    "DexCategory": "Blossom Pokemon",
+    "Height": {
+        "Meters": 0.5,
+        "Feet": 1.6
+    },
+    "Weight": {
+        "Kilograms": 9.3,
+        "Pounds": 20.5
+    },
+    "DexDescription": "Cherrims bloom during times of strong sunlight, their petals open fully and radiant. If the sun is not visible, it will remain as a closed bud, barely moving trying to preserve its energy.",
+    "Evolutions": [
+        {
+            "From": "Cherubi",
+            "Kind": "Level",
+            "Speed": "Fast"
+        }
+    ],
+    "Image": "cherrim.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Leech Seed"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Growth"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Morning Sun"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Helping Hand"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Magical Leaf"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Sunny Day"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Petal Dance"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Worry Seed"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Take Down"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Solar Beam"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Lucky Chant"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Petal Blizzard"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Aromatherapy"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Heal Pulse"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Synthesis"
+        }
+    ]
+}

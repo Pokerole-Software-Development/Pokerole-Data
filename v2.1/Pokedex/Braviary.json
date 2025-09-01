@@ -1,0 +1,139 @@
+{
+    "Number": 628,
+    "DexID": "0628",
+    "Name": "Braviary",
+    "Type1": "Normal",
+    "Type2": "Flying",
+    "BaseHP": 6,
+    "Strength": 3,
+    "MaxStrength": 7,
+    "Dexterity": 2,
+    "MaxDexterity": 5,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Keen Eye",
+    "Ability2": "Defiant",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Expert",
+    "GenderType": "M",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "braviary",
+    "DexCategory": "Valiant Pokémon",
+    "Height": {
+        "Meters": 1.5,
+        "Feet": 4.9
+    },
+    "Weight": {
+        "Kilograms": 82,
+        "Pounds": 182
+    },
+    "DexDescription": "Brave, strong, loyal, and selfless; this Pokémon embodies the virtues of what a Pokémon companion should be. They are very rare and valued not only for their bravery but also for their beautiful feathers.",
+    "Evolutions": [
+        {
+            "From": "Rufflet",
+            "Kind": "Level",
+            "Speed": "Slow"
+        }
+    ],
+    "Image": "braviary.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Peck"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Leer"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Hone Claws"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Wing Attack"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Tailwind"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Scary Face"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Aerial Ace"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Fury Attack"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Whirlwind"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Crush Claw"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Air Slash"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Slash"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Shadow Claw"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Zen Headbutt"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Defog"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Sky Drop"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Superpower"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Brave Bird"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Thrash"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Sky Attack"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Rock Slide"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Roost"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Giga Impact"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "Name": "Bullet Seed (Nature)",
+    "Type": "Grass",
+    "Power": 1,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Nature",
+    "Target": "Foe",
+    "Effect": "Single Target. Ranged. Successive Actions. Projectile Move.",
+    "Description": "The Pokémon shoots seeds rapidly as if they were bullets.",
+    "_id": "bullet-seed-(nature)",
+    "Attributes": {
+        "PhysicalRanged": true,
+        "SuccessiveActions": true,
+        "ProjectileMove": true
+    },
+    "AddedEffects": {},
+    "Category": "Physical"
+}

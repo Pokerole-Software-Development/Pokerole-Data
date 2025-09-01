@@ -1,0 +1,16 @@
+{
+    "Name": "Dynamax Cannon",
+    "Type": "Dragon",
+    "Power": 4,
+    "Damage1": "Special",
+    "Damage2": "",
+    "Accuracy1": "Special",
+    "Accuracy2": "Channel",
+    "Target": "Foe",
+    "Effect": "If the Foe is under the effects of Dynamax, This Move becomes Lethal and you add 4 Extra Dice to the Damage Pool.",
+    "Description": "The Pokemon shoots a heavy projectile, if the foe is under the effects of the Dynamax phenomenon all the energy will be concentrated and explode on the target.",
+    "_id": "dynamax-cannon",
+    "Attributes": {},
+    "AddedEffects": {},
+    "Category": "Special"
+}

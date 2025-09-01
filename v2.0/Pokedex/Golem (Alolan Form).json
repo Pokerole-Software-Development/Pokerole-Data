@@ -1,0 +1,122 @@
+{
+    "Number": 76,
+    "DexID": "0076A",
+    "Name": "Golem (Alolan Form)",
+    "Type1": "Rock",
+    "Type2": "Electric",
+    "BaseHP": 5,
+    "Strength": 3,
+    "MaxStrength": 7,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 3,
+    "MaxVitality": 7,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Magnet Pull",
+    "Ability2": "Sturdy",
+    "HiddenAbility": "Galvanize",
+    "EventAbilities": "",
+    "RecommendedRank": "Ace",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "golem-alolan-form",
+    "DexCategory": "Megaton Pokemon",
+    "Height": {
+        "Meters": 1.7,
+        "Feet": 5.6
+    },
+    "Weight": {
+        "Kilograms": 316.0,
+        "Pounds": 696.7
+    },
+    "DexDescription": "The Alolan variant of Golem does not roll around like its counterpart, instead it loads rocks into the charger on its head and shoots them around, if the rocks miss, the electric shockwave doesn\u2019t.",
+    "Evolutions": [
+        {
+            "From": "Graveler (Alolan Form)",
+            "Kind": "Trade"
+        }
+    ],
+    "Image": "golem-alolan-form.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Defense Curl"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Charge"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Rock Polish"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Rollout"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Spark"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Rock Throw"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Smack Down"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Thunder Punch"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Self Destruct"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Stealth Rock"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Rock Blast"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Discharge"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Explosion"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Double-Edge"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Heavy Slam"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Magnet Rise"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Counter"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Wild Charge"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "Name": "Rollout",
+    "Type": "Rock",
+    "Power": 1,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "Successive Actions. Add 1 Extra Dice to the Damage Roll of the last Rollout hit the user performs. If the Pokemon used Defense Curl this Round, add 1 Extra Dice to the Damage Roll of every hit. -1 Accuracy.",
+    "Description": "The user curls up into a ball and starts rolling towards its foe, trampling everything in its way.",
+    "_id": "rollout",
+    "Attributes": {
+        "SuccessiveActions": true,
+        "AccuracyReduction": 1
+    },
+    "AddedEffects": {},
+    "Category": "Physical"
+}

@@ -1,0 +1,123 @@
+{
+    "Number": 912,
+    "DexID": "0912",
+    "Name": "Quaxley",
+    "Type1": "Water",
+    "Type2": "",
+    "BaseHP": 3,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Torrent",
+    "Ability2": "Moxie",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Rookie",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "quaxley",
+    "DexCategory": "Tidy Duckling Pokemon",
+    "Height": {
+        "Meters": 0.5,
+        "Feet": 1.8
+    },
+    "Weight": {
+        "Kilograms": 6,
+        "Pounds": 13
+    },
+    "DexDescription": "Quaxly are known for their tidyness, their feathers are neatly combed and it hates when they get ruffled. Despite their small size they are capable swimmers with strong legs to paddle their way upstream.",
+    "Image": "quaxley.png",
+    "Evolutions": [
+        {
+            "To": "Quaxwell",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Moves": [
+        {
+           "Learned": "Starter",
+           "Name": "Pound"
+        },
+        {
+           "Learned": "Starter",
+           "Name": "Growl"
+        },
+        {
+           "Learned": "Starter",
+           "Name": "Water Gun"
+        },
+        {
+           "Learned": "Rookie",
+           "Name": "Work Up"
+        },
+        {
+           "Learned": "Rookie",
+           "Name": "Wing Attack"
+        },
+        {
+           "Learned": "Standard",
+           "Name": "Aqua Jet"
+        },
+        {
+           "Learned": "Standard",
+           "Name": "Double Hit"
+        },
+        {
+           "Learned": "Standard",
+           "Name": "Aqua Cutter"
+        },
+        {
+           "Learned": "Standard",
+           "Name": "Acrobatics"
+        },
+        {
+           "Learned": "Standard",
+           "Name": "Focus Energy"
+        },
+        {
+           "Learned": "Advanced",
+           "Name": "Air Slash"
+        },
+        {
+           "Learned": "Advanced",
+           "Name": "Detect"
+        },
+        {
+           "Learned": "Advanced",
+           "Name": "Roost"
+        },
+        {
+           "Learned": "Advanced",
+           "Name": "Air Cutter"
+        },
+        {
+           "Learned": "Advanced",
+           "Name": "Swift"
+        },
+        {
+           "Learned": "Expert",
+           "Name": "Liquidation"
+        },
+        {
+           "Learned": "Ace",
+           "Name": "Low Kick"
+        },
+        {
+           "Learned": "Ace",
+           "Name": "Helping Hand"
+        },
+        {
+           "Learned": "Ace",
+           "Name": "Water Pledge"
+        }
+    ]
+}

@@ -1,0 +1,142 @@
+{
+    "Number": 800,
+    "DexID": "0800",
+    "Name": "Necrozma",
+    "Type1": "Psychic",
+    "Type2": "",
+    "BaseHP": 4,
+    "Strength": 6,
+    "MaxStrength": 6,
+    "Dexterity": 5,
+    "MaxDexterity": 5,
+    "Vitality": 6,
+    "MaxVitality": 6,
+    "Special": 7,
+    "MaxSpecial": 7,
+    "Insight": 5,
+    "MaxInsight": 5,
+    "Ability1": "Prism Armor",
+    "Ability2": "",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Pro",
+    "GenderType": "N",
+    "Legendary": true,
+    "GoodStarter": false,
+    "_id": "necrozma",
+    "DexCategory": "Aether Foundation Log #179",
+    "Height": {
+        "Meters": 2.4,
+        "Feet": 7.9
+    },
+    "Weight": {
+        "Kilograms": 230.0,
+        "Pounds": 507.1
+    },
+    "DexDescription": "First it was just a passing shadow, a shady lurker on the other side of the abyss, but then today it made an appearance. the creature attached itself to our light sources, depleting them until it was all in darkness.",
+    "Evolutions": [
+        {
+            "To": "Necrozma (Dusk Mane Form)",
+            "Kind": "Special"
+        },
+        {
+            "To": "Necrozma (Dawn Wings Form)",
+            "Kind": "Special"
+        },
+        {
+            "To": "Necrozma (Ultra Burst Form)",
+            "Kind": "Special"
+        }
+    ],
+    "Image": "necrozma.png",
+    "Moves": [
+        {
+            "Learned": "Master",
+            "Name": "Moonlight"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Morning Sun"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Charge Beam"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Mirror Shot"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Metal Claw"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Confusion"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Slash"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Stored Power"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Rock Blast"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Night Slash"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Gravity"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Psycho Cut"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Power Gem"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Autotomize"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Photon Geyser (Special)"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Stealth Rock"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Iron Defense"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Wring Out"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Prismatic Laser"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Outrage"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Shadow Claw"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Magnet Rise"
+        }
+    ]
+}

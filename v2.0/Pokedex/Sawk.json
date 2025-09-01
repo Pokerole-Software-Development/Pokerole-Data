@@ -1,0 +1,113 @@
+{
+    "Number": 539,
+    "DexID": "0539",
+    "Name": "Sawk",
+    "Type1": "Fighting",
+    "Type2": "",
+    "BaseHP": 4,
+    "Strength": 3,
+    "MaxStrength": 7,
+    "Dexterity": 2,
+    "MaxDexterity": 5,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 1,
+    "MaxSpecial": 3,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Sturdy",
+    "Ability2": "Inner Focus",
+    "HiddenAbility": "Mold Breaker",
+    "EventAbilities": "",
+    "RecommendedRank": "Amateur",
+    "GenderType": "M",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "sawk",
+    "DexCategory": "Karate Pokemon",
+    "Height": {
+        "Meters": 1.4,
+        "Feet": 4.6
+    },
+    "Weight": {
+        "Kilograms": 51.0,
+        "Pounds": 112.4
+    },
+    "DexDescription": "This Pokemon is entirely dedicated to becoming stronger. Many have secluded in the mountains to train all day. Wild ones make their clothes out of plants and vines they find. Sawk and Throh train together.",
+    "Evolutions": [],
+    "Image": "sawk.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Rock Smash"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Leer"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Bide"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Focus Energy"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Double Kick"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Low Sweep"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Counter"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Karate Chop"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Brick Break"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Bulk Up"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Retaliate"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Endure"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Quick Guard"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Close Combat"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Reversal"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Dual Chop"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Helping Hand"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Block"
+        }
+    ]
+}

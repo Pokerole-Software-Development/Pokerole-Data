@@ -1,0 +1,127 @@
+{
+    "Number": 78,
+    "DexID": "0078",
+    "Name": "Rapidash",
+    "Type1": "Fire",
+    "Type2": "",
+    "BaseHP": 4,
+    "Strength": 3,
+    "MaxStrength": 6,
+    "Dexterity": 3,
+    "MaxDexterity": 6,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 2,
+    "MaxSpecial": 5,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Run Away",
+    "Ability2": "Flash Fire",
+    "HiddenAbility": "Flame Body",
+    "EventAbilities": "",
+    "RecommendedRank": "Amateur",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "rapidash",
+    "DexCategory": "Fire Horse Pokemon",
+    "Height": {
+        "Meters": 1.7,
+        "Feet": 5.6
+    },
+    "Weight": {
+        "Kilograms": 95.0,
+        "Pounds": 209.4
+    },
+    "DexDescription": "It lives happily on prairies. It loves speed competitions - a herd can often be seen running alongside a train. It can regulate the heat of its mane as to let its trainer ride it, but only if it trusts him enough.",
+    "Evolutions": [
+        {
+            "From": "Ponyta",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "rapidash.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Ember"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Growl"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Quick Attack"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Tail Whip"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Flame Wheel"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Take Down"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Poison Jab"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Stomp"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Flame Charge"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Fire Spin"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Fury Attack"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Inferno"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Megahorn"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Agility"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Fire Blast"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Bounce"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Flare Blitz"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Horn Drill"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Morning Sun"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Drill Run"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "Name": "Flail",
+    "Type": "Normal",
+    "Power": 1,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "Add 1 Dice to the Damage Roll for every missing HP the user has. Up to +5 Dice may be added this way.",
+    "Description": "The User flails and struggles to survive. The more weakened it is the stronger this attack will be.",
+    "_id": "flail",
+    "Attributes": {},
+    "AddedEffects": {},
+    "Category": "Physical"
+}

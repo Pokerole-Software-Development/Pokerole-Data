@@ -1,0 +1,25 @@
+{
+    "Name": "Plasma Fists",
+    "Type": "Electric",
+    "Power": 4,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "Fist Based. If successful, all Normal-Type Moves of the user will be considered Electric Type until the end of the Scene.",
+    "Description": "The user charges its fists with electricity, and upon impact the charge materializes into plasma that adds an electric element to all of its Normal moves.",
+    "_id": "plasma-fists",
+    "Attributes": {
+        "FistBased": true
+    },
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "PlasmaFists",
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Physical"
+}

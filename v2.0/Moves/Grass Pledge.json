@@ -1,0 +1,26 @@
+{
+    "Name": "Grass Pledge",
+    "Type": "Grass",
+    "Power": 2,
+    "Damage1": "Special",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Channel",
+    "Target": "Battlefield and Area",
+    "Effect": "Reduce the Dexterity of those affected.",
+    "Description": "The Pokemon chants to invoke the power of Grass. Its pledge is heard then then soil trembles and the ground crumbles as vegetation rises to grapple anyone in the field.",
+    "_id": "grass-pledge",
+    "Attributes": {},
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "Dexterity"
+                ],
+                "Stages": -1,
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Special"
+}

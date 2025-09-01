@@ -1,0 +1,26 @@
+{
+    "Name": "Blizzard",
+    "Type": "Ice",
+    "Power": 5,
+    "Damage1": "Special",
+    "Damage2": "",
+    "Accuracy1": "Special",
+    "Accuracy2": "Channel",
+    "Target": "All Foes",
+    "Effect": "Roll 1 Chance Dice to Freeze those affected. If performed under Hail Weather Ignore this moves Reduced Accuracy and the Move can't be evaded. If performed under Sunny Weather Accuracy becomes -3 instead. -2 Accuracy.",
+    "Description": "The user swirls a violent gelid wind around the foes. This blizzard may not last long, but it is tremendously strong.",
+    "_id": "blizzard",
+    "Attributes": {
+        "AccuracyReduction": 2
+    },
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Freeze",
+                "Affects": "Targets",
+                "ChanceDice": 1
+            }
+        ]
+    },
+    "Category": "Special"
+}

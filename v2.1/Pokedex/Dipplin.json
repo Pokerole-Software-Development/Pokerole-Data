@@ -1,0 +1,87 @@
+{
+    "Number": 1011,
+    "DexID": "1011",
+    "Name": "Dipplin",
+    "Type1": "Grass",
+    "Type2": "Dragon",
+    "BaseHP": 0,
+    "Strength": 0,
+    "MaxStrength": 0,
+    "Dexterity": 0,
+    "MaxDexterity": 0,
+    "Vitality": 0,
+    "MaxVitality": 0,
+    "Special": 0,
+    "MaxSpecial": 0,
+    "Insight": 0,
+    "MaxInsight": 0,
+    "Ability1": "Supersweet Syrup",
+    "Ability2": "Gluttony",
+    "HiddenAbility": "Sticky Hold",
+    "EventAbilities": "",
+    "RecommendedRank": "???",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "dipplin",
+    "DexCategory": "Candy Apple Pokémon",
+    "Height": {
+        "Meters": 0.4,
+        "Feet": 1.3
+    },
+    "Weight": {
+        "Kilograms": 4.4,
+        "Pounds": 9.7
+    },
+    "DexDescription": "???",
+    "Evolutions": [
+        {
+            "From": "Applin",
+            "Kind": "Item",
+            "Item": "Candy Apple"
+        }
+    ],
+    "Image": "dipplin.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "WHITEEEEEEEEEEEEEEE"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "WHITEEEEEEEEEEEEEEE"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "REDDDDDDDDDDDDDDDDDD"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "REDDDDDDDDDDDDDDDDDD"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "BLUEEEEEEEEEEEEEEEEE"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "YELLOWWWWWWWWWWWWWWWW"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "GREEEEEEEEEEEEEEEEEEEN"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "REDDDDDDDDDDDDDDDDDDDD"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "REDDDDDDDDDDDDDDDDDDDD"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "REDDDDDDDDDDDDDDDDDDDD"
+        }
+    ]
+}

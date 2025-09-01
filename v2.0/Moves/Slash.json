@@ -1,0 +1,19 @@
+{
+    "Name": "Slash",
+    "Type": "Normal",
+    "Power": 3,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "High Critical. Lethal.",
+    "Description": "Using parts of its body as a blade the Pokemon pierces and tears the foe with a vicious force.",
+    "_id": "slash",
+    "Attributes": {
+        "HighCritical": true,
+        "Lethal": true
+    },
+    "AddedEffects": {},
+    "Category": "Physical"
+}

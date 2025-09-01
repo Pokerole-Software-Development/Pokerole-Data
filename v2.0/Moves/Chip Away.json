@@ -1,0 +1,18 @@
+{
+    "Name": "Chip Away",
+    "Type": "Normal",
+    "Power": 3,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "This attack ignores Defense and Evasion modifiers on the foe.",
+    "Description": "The user looks for an opening and strikes directly there. It nibbles bit by bit even the toughest of surfaces.",
+    "_id": "chip-away",
+    "Attributes": {
+        "IgnoreDefenses": true
+    },
+    "AddedEffects": {},
+    "Category": "Physical"
+}

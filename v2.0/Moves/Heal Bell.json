@@ -1,0 +1,22 @@
+{
+    "Name": "Heal Bell",
+    "Type": "Normal",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Special",
+    "Accuracy2": "Perform",
+    "Target": "User and Allies",
+    "Effect": "Cure the User and allies suffering from Status Conditions. They don't need to be on the battlefield to get this effect. Sound Based.",
+    "Description": "The Pokemon chimes a magical bell. Legend says the soothing sound has healing properties.",
+    "_id": "heal-bell",
+    "Attributes": {
+        "SoundBased": true
+    },
+    "AddedEffects": {
+        "AilmentHeal": [
+            "All"
+        ]
+    },
+    "Category": "Support"
+}

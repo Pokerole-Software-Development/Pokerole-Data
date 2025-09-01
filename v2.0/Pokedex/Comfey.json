@@ -1,0 +1,129 @@
+{
+    "Number": 764,
+    "DexID": "0764",
+    "Name": "Comfey",
+    "Type1": "Fairy",
+    "Type2": "",
+    "BaseHP": 4,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 3,
+    "MaxDexterity": 6,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 2,
+    "MaxSpecial": 5,
+    "Insight": 3,
+    "MaxInsight": 6,
+    "Ability1": "Flower Veil",
+    "Ability2": "Triage",
+    "HiddenAbility": "Natural Cure",
+    "EventAbilities": "",
+    "RecommendedRank": "Starter",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "comfey",
+    "DexCategory": "Posy Picker Pokemon",
+    "Height": {
+        "Meters": 0.1,
+        "Feet": 0.3
+    },
+    "Weight": {
+        "Kilograms": 0.3,
+        "Pounds": 0.7
+    },
+    "DexDescription": "This tiny Pokemon gathers flowers and connects them to itself forming a ring. The flowers never wither and their aroma becomes soothing and therapeutic. If it likes you it will create a flower ring just for you.",
+    "Evolutions": [],
+    "Image": "comfey.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Helping Hand"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Vine Whip"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Flower Shield"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Leech Seed"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Draining Kiss"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Magical Leaf"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Growth"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Wrap"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Sweet Kiss"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Natural Gift"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Petal Blizzard"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Synthesis"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Sweet Scent"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Grass Knot"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Floral Healing"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Petal Dance"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Aromatherapy"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Grassy Terrain"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Play Rough"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Lucky Chant"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Substitute"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Endure"
+        }
+    ]
+}

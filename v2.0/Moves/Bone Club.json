@@ -1,0 +1,26 @@
+{
+    "Name": "Bone Club",
+    "Type": "Ground",
+    "Power": 2,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "Roll 2 Chance Dice to Flinch the Foe. -2 Accuracy.",
+    "Description": "The user hits the target with a bone, the smack may leave a bump on the target's head.",
+    "_id": "bone-club",
+    "Attributes": {
+        "AccuracyReduction": 2
+    },
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Flinch",
+                "Affects": "Targets",
+                "ChanceDice": 2
+            }
+        ]
+    },
+    "Category": "Physical"
+}

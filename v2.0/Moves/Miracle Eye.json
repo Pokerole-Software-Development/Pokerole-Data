@@ -1,0 +1,32 @@
+{
+    "Name": "Miracle Eye",
+    "Type": "Psychic",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Insight",
+    "Accuracy2": "Alert",
+    "Target": "User",
+    "Effect": "The User may hit Dark Type Pokemon with Psychic Moves. The Pokemon ignores Evasion modifiers. Opponents can't reduce the User's Accuracy.",
+    "Description": "The user's sight transcends the flesh and can look directly into the innermost mental pressence of everyone around. Hidden enemies can be detected.",
+    "_id": "miracle-eye",
+    "Attributes": {},
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "Accuracy"
+                ],
+                "Stages": -1,
+                "Affects": "User"
+            }
+        ],
+        "Ailments": [
+            {
+                "Type": "MiracleEye",
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Support"
+}

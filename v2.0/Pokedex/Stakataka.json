@@ -1,0 +1,105 @@
+{
+    "Number": 805,
+    "DexID": "0805",
+    "Name": "Stakataka",
+    "Type1": "Rock",
+    "Type2": "Steel",
+    "BaseHP": 6,
+    "Strength": 7,
+    "MaxStrength": 7,
+    "Dexterity": 2,
+    "MaxDexterity": 2,
+    "Vitality": 10,
+    "MaxVitality": 10,
+    "Special": 4,
+    "MaxSpecial": 4,
+    "Insight": 6,
+    "MaxInsight": 6,
+    "Ability1": "Beast Boost",
+    "Ability2": "",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Pro",
+    "GenderType": "N",
+    "Legendary": true,
+    "GoodStarter": false,
+    "_id": "stakataka",
+    "DexCategory": "Aether Foundation Log #132",
+    "Height": {
+        "Meters": 5.5,
+        "Feet": 18.0
+    },
+    "Weight": {
+        "Kilograms": 820.0,
+        "Pounds": 1807.8
+    },
+    "DexDescription": "We are finally on the other side. It has been so exciting. What we thought were the ruins of an abandoned civilization turned out to be small sentient creatures that stacked on each other to create a big UB.",
+    "Evolutions": [],
+    "Image": "stakataka.png",
+    "Moves": [
+        {
+            "Learned": "Master",
+            "Name": "Protect"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Rock Slide"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Stealth Rock"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Bide"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Take Down"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Rock Throw"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Autotomize"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Iron Defense"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Iron Head"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Rock Blast"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Wide Guard"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Double-Edge"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Magnet Rise"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Zen Headbutt"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Trick Room"
+        }
+    ]
+}

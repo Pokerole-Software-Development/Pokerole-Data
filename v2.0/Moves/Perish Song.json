@@ -1,0 +1,25 @@
+{
+    "Name": "Perish Song",
+    "Type": "Normal",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Beauty",
+    "Accuracy2": "Perform",
+    "Target": "Area",
+    "Effect": "After three rounds, if any Pokemon who heard the song is not removed from battle, it will receive its remaining HP as damage. Sound Based.",
+    "Description": "A song of mourning and despair that resonates on the minds of anyone who listens. Makes you feel like you are on your death bed.",
+    "_id": "perish-song",
+    "Attributes": {
+        "SoundBased": true
+    },
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "PerishSong",
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Support"
+}

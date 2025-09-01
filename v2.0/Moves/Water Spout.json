@@ -1,0 +1,16 @@
+{
+    "Name": "Water Spout",
+    "Type": "Water",
+    "Power": 6,
+    "Damage1": "Special",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Channel",
+    "Target": "All Foes",
+    "Effect": "Remove 1 Dice of Damage for every missing HP of the User. Up to 5 Dice may be reduced this way.",
+    "Description": "The Pokemon builds up an amazing pressure and releases a huge columnar vortex of water that could even reach the clouds.",
+    "_id": "water-spout",
+    "Attributes": {},
+    "AddedEffects": {},
+    "Category": "Special"
+}

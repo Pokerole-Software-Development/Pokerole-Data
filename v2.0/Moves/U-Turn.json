@@ -1,0 +1,18 @@
+{
+    "Name": "U-Turn",
+    "Type": "Bug",
+    "Power": 3,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "The user switches out after dealing damage. The replacement Pokemon arrives to ready to fight. Roll its initiative Switcher Move.",
+    "Description": "The user strikes its foe, then quickly goes back to safety while another party Pokemon takes its place.",
+    "_id": "u-turn",
+    "Attributes": {
+        "SwitcherMove": true
+    },
+    "AddedEffects": {},
+    "Category": "Physical"
+}

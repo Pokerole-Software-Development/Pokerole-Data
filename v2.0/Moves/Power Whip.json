@@ -1,0 +1,18 @@
+{
+    "Name": "Power Whip",
+    "Type": "Grass",
+    "Power": 5,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "-2 Accuracy.",
+    "Description": "The Pokemon violently lashes the foe with its vines or a part of its body, acting as a powerful whip.",
+    "_id": "power-whip",
+    "Attributes": {
+        "AccuracyReduction": 2
+    },
+    "AddedEffects": {},
+    "Category": "Physical"
+}

@@ -1,0 +1,143 @@
+{
+    "Number": 407,
+    "DexID": "0407",
+    "Name": "Roserade",
+    "Type1": "Grass",
+    "Type2": "Poison",
+    "BaseHP": 5,
+    "Strength": 2,
+    "MaxStrength": 5,
+    "Dexterity": 2,
+    "MaxDexterity": 5,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 3,
+    "MaxSpecial": 7,
+    "Insight": 3,
+    "MaxInsight": 6,
+    "Ability1": "Poison Point",
+    "Ability2": "Technician",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Expert",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "roserade",
+    "DexCategory": "Bouquet Pokémon",
+    "Height": {
+        "Meters": 0.9,
+        "Feet": 3.0
+    },
+    "Weight": {
+        "Kilograms": 30,
+        "Pounds": 66
+    },
+    "DexDescription": "Luring prey with a sweet scent, it uses the poison on its thorn-filled arm-whips to poison, bind and finish off its prey. It has a dangerous appeal mixed with a graceful personality. It's very rare in the wild.",
+    "Evolutions": [
+        {
+            "From": "Roselia",
+            "Kind": "Stone",
+            "Item": "Shiny Stone"
+        }
+    ],
+    "Image": "roserade.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Absorb"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Growth"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Poison Sting"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Stun Spore"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Mega Drain"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Leech Seed"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Magical Leaf"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Grass Whistle"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Sweet Scent"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Toxic Spikes"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Weather Ball"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Venom Drench"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Grassy Terrain"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Ingrain"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Petal Blizzard"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Toxic"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Aromatherapy"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Poison Jab"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Giga Drain"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Synthesis"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Petal Dance"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Leaf Storm"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Sludge Bomb"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Life Dew"
+        }
+    ]
+}

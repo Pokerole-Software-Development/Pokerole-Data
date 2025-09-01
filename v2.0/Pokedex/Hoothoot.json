@@ -1,0 +1,131 @@
+{
+    "Number": 163,
+    "DexID": "0163",
+    "Name": "Hoothoot",
+    "Type1": "Normal",
+    "Type2": "Flying",
+    "BaseHP": 3,
+    "Strength": 1,
+    "MaxStrength": 3,
+    "Dexterity": 1,
+    "MaxDexterity": 3,
+    "Vitality": 1,
+    "MaxVitality": 3,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Insomnia",
+    "Ability2": "Keen Eye",
+    "HiddenAbility": "Tinted Lens",
+    "EventAbilities": "",
+    "RecommendedRank": "Beginner",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "hoothoot",
+    "DexCategory": "Owl Pokemon",
+    "Height": {
+        "Meters": 0.7,
+        "Feet": 2.3
+    },
+    "Weight": {
+        "Kilograms": 21.2,
+        "Pounds": 46.7
+    },
+    "DexDescription": "A nocturnal Pokemon found in dark forests. It has an internal organ that senses the earth\u2019s rotation. By using this special organ a Hoothoot begins hooting at precisely the same time every day.",
+    "Evolutions": [
+        {
+            "To": "Noctowl",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "hoothoot.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Growl"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Foresight"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Hypnosis"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Peck"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Uproar"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Reflect"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Confusion"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Echoed Voice"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Take Down"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Air Slash"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Zen Headbutt"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Moonblast"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Psycho Shift"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Extrasensory"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Synchronoise"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Roost"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Dream Eater"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Night Shade"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Feint Attack"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Feather Dance"
+        }
+    ]
+}

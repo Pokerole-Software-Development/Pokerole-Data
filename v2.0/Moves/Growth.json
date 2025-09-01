@@ -1,0 +1,27 @@
+{
+    "Name": "Growth",
+    "Type": "Normal",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Special",
+    "Accuracy2": "Nature",
+    "Target": "User",
+    "Effect": "Increase the User's Strength and Special.",
+    "Description": "The Pokemon expands its body. It grows bigger and stronger.",
+    "_id": "growth",
+    "Attributes": {},
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "Strength",
+                    "Special"
+                ],
+                "Stages": 1,
+                "Affects": "User"
+            }
+        ]
+    },
+    "Category": "Support"
+}

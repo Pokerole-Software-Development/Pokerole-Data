@@ -1,0 +1,18 @@
+{
+    "Name": "Aura Sphere",
+    "Type": "Fighting",
+    "Power": 3,
+    "Damage1": "Special",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Channel",
+    "Target": "Foe",
+    "Effect": "Never Fail.",
+    "Description": "The user channels its aura and launches this power in the form of a sphere The foe's aura is hit, leaving the target unscratched but deeply hurt.",
+    "_id": "aura-sphere",
+    "Attributes": {
+        "NeverFail": true
+    },
+    "AddedEffects": {},
+    "Category": "Special"
+}

@@ -1,0 +1,16 @@
+{
+    "Name": "Copycat",
+    "Type": "Normal",
+    "Power": 0,
+    "Damage1": "Same as the copied move",
+    "Damage2": "",
+    "Accuracy1": "Same as the copied move",
+    "Accuracy2": "",
+    "Target": "Foe",
+    "Effect": "Copies the last move the foe has performed.",
+    "Description": "The user will closely watch the movements of the target and will imitate them to perfection.",
+    "_id": "copycat",
+    "Attributes": {},
+    "AddedEffects": {},
+    "Category": "Support"
+}

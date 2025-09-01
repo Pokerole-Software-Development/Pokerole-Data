@@ -1,0 +1,132 @@
+{
+    "Number": 898,
+    "DexID": "0898",
+    "Name": "Calyrex",
+    "Type1": "Psychic",
+    "Type2": "Grass",
+    "BaseHP": 6,
+    "Strength": 5,
+    "MaxStrength": 5,
+    "Dexterity": 5,
+    "MaxDexterity": 5,
+    "Vitality": 5,
+    "MaxVitality": 5,
+    "Special": 5,
+    "MaxSpecial": 5,
+    "Insight": 5,
+    "MaxInsight": 5,
+    "Ability1": "Unnerve",
+    "Ability2": "As One",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Ace",
+    "GenderType": "N",
+    "Legendary": true,
+    "GoodStarter": false,
+    "_id": "calyrex",
+    "DexCategory": "No Data",
+    "Height": {
+        "Meters": 1.1,
+        "Feet": 3.6
+    },
+    "Weight": {
+        "Kilograms": 8.0,
+        "Pounds": 17.6
+    },
+    "DexDescription": "Ancient records of the Galar region show that a Pokémon was named king of the land. They ruled wisely and with justice during all the years their kingdom lasted. Funny people, those Galarian folk.",
+    "Evolutions": [
+        {
+            "To": "Calyrex (Ice Rider Form)",
+            "Kind": "Special",
+            "Special": "???"
+        },
+        {
+            "To": "Calyrex (Shadow Rider Form)",
+            "Kind": "Special",
+            "Special": "???"
+        }
+    ],
+    "Image": "calyrex.png",
+    "Moves": [
+        {
+            "Learned": "Ace",
+            "Name": "Pound"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Mega Drain"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Confusion"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Growth"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Life Dew"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Giga Drain"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Psyshock"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Helping Hand"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Aromatherapy"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Energy Ball"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Psychic"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Leech Seed"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Heal Pulse"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Solar Beam"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Future Sight"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Solar Blade"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Light Screen"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Reflect"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Safeguard"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Expanding Force"
+        }
+    ]
+}

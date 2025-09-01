@@ -1,0 +1,18 @@
+{
+    "Name": "Sky Drop",
+    "Type": "Flying",
+    "Power": 2,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "Charge Move. While charging this move the Target is flinched. Flying Type Pokemon are immune to the Damage of this move. Lifting a target is restricted by the Strength of the User.",
+    "Description": "The user carries the opponent to the sky, then drops the target from that altitude.",
+    "_id": "sky-drop",
+    "Attributes": {
+        "Charge": true
+    },
+    "AddedEffects": {},
+    "Category": "Physical"
+}

@@ -1,0 +1,18 @@
+{
+    "Name": "Psycho Cut",
+    "Type": "Psychic",
+    "Power": 3,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "High Critical.",
+    "Description": "Create blades of psychic energy to tear down foes.",
+    "_id": "psycho-cut",
+    "Attributes": {
+        "HighCritical": true
+    },
+    "AddedEffects": {},
+    "Category": "Physical"
+}

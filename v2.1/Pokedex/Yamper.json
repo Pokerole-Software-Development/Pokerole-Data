@@ -1,0 +1,131 @@
+{
+    "Number": 835,
+    "DexID": "0835",
+    "Name": "Yamper",
+    "Type1": "Electric",
+    "Type2": "",
+    "BaseHP": 3,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Ball Fetch",
+    "Ability2": "Rattled",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Rookie",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "yamper",
+    "DexCategory": "Puppy Pokémon",
+    "Height": {
+        "Meters": 0.3,
+        "Feet": 1.0
+    },
+    "Weight": {
+        "Kilograms": 13.5,
+        "Pounds": 29.8
+    },
+    "DexDescription": "Its energy and big smile make this Pokémon very popular as a herder. When it runs, it generates electricity from the base of its tail. It loves to fetch balls and if you give it some treats it will love you forever.",
+    "Evolutions": [
+        {
+            "To": "Boltund",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "yamper.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Tail Whip"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Nuzzle"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Sand Attack"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Bite"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Roar"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Flame Charge"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Howl"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Charm"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Spark"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Helping Hand"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Swift"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Charge"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Thunder Fang"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Crunch"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Dig"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Play Rough"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Wild Charge"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Volt Switch"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Snarl"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Discharge"
+        }
+    ]
+}

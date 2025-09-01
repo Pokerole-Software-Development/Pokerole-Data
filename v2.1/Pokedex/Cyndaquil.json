@@ -1,0 +1,123 @@
+{
+    "Number": 155,
+    "DexID": "0155",
+    "Name": "Cyndaquil",
+    "Type1": "Fire",
+    "Type2": "",
+    "BaseHP": 3,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 1,
+    "MaxVitality": 3,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Blaze",
+    "Ability2": "Flash Fire",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Rookie",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "cyndaquil",
+    "DexCategory": "Fire Mouse Pokémon",
+    "Height": {
+        "Meters": 0.5,
+        "Feet": 1.6
+    },
+    "Weight": {
+        "Kilograms": 7.9,
+        "Pounds": 17.4
+    },
+    "DexDescription": "A shy and elusive Pokémon. The flames from its back protect it. They'll burn vigorously if Cyndaquil is angry, otherwise they'll remain unlit. It lives in hot dens inside of mountains and volcanoes.",
+    "Evolutions": [
+        {
+            "To": "Quilava",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "cyndaquil.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Leer"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Smokescreen"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Ember"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Quick Attack"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Flame Wheel"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Defense Curl"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Flame Charge"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Swift"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Lava Plume"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Rollout"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Flamethrower"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Inferno"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Double-Edge"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Eruption"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Overheat"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Howl"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Double Kick"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Fire Pledge"
+        }
+    ]
+}

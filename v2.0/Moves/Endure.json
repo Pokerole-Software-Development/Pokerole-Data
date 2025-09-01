@@ -1,0 +1,26 @@
+{
+    "Name": "Endure",
+    "Type": "Normal",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Will",
+    "Accuracy2": "Channel",
+    "Target": "User",
+    "Effect": "Priority 5. Shield Move. For the rest of the Round damaging moves can not reduce the user's HP to less then 1. Status Ailments, Weather Conditions, Recoil, Self inflicted damage can still deal damage.",
+    "Description": "The user gets prepared to receive a fatal blow. It resists the pain despite being seriously hurt.",
+    "_id": "endure",
+    "Attributes": {
+        "ShieldMove": true,
+        "Priority": 5
+    },
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Endure",
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Support"
+}

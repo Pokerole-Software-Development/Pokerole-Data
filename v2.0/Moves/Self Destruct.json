@@ -1,0 +1,18 @@
+{
+    "Name": "Self Destruct",
+    "Type": "Normal",
+    "Power": 8,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Strength",
+    "Accuracy2": "Brawl",
+    "Target": "Area",
+    "Effect": "After performing the move, the user receives damage equal to its remaining HP.",
+    "Description": "The Pokemon makes use of its ability to blow up parts of its own body in an impressive display of power.",
+    "_id": "self-destruct",
+    "Attributes": {
+        "UserFaints": true
+    },
+    "AddedEffects": {},
+    "Category": "Physical"
+}

@@ -1,0 +1,29 @@
+{
+    "Name": "Dragon Ascent",
+    "Type": "Flying",
+    "Power": 5,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Strength",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "Lethal. Reduce the user's Defense and Sp. Defense.",
+    "Description": "The user rises above the clouds and then comes crashing down against its foe in an instant. The strike is brutal for both.",
+    "_id": "dragon-ascent",
+    "Attributes": {
+        "Lethal": true
+    },
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "Def",
+                    "SpDef"
+                ],
+                "Stages": -1,
+                "Affects": "User"
+            }
+        ]
+    },
+    "Category": "Physical"
+}

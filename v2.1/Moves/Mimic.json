@@ -1,0 +1,19 @@
+{
+    "Name": "Mimic",
+    "Type": "Normal",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Clever",
+    "Accuracy2": "Perform",
+    "Target": "Foe",
+    "Effect": "Single Target. Copy Move. Replace “Mimic” with the copied Move. Whole Scene Duration.",
+    "Description": "Making use of its acting talents, the Pokémon imitates what the target just did.",
+    "_id": "mimic",
+    "Attributes": {
+        "CopyMove": true,
+        "Duration": "wholeScene"
+    },
+    "AddedEffects": {},
+    "Category": "Support"
+}

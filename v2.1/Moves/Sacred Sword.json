@@ -1,0 +1,18 @@
+{
+    "Name": "Sacred Sword",
+    "Type": "Fighting",
+    "Power": 3,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Strength",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "Single Target. Ignore Defenses.",
+    "Description": "The user slashes at its target with a mighty blade. There's no hide nor armor thick enough to resist its valorous steel.",
+    "_id": "sacred-sword",
+    "Attributes": {
+        "IgnoreDefenses": true
+    },
+    "AddedEffects": {},
+    "Category": "Physical"
+}

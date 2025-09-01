@@ -1,0 +1,128 @@
+{
+    "Number": 705,
+    "DexID": "0705",
+    "Name": "Sliggoo",
+    "Type1": "Dragon",
+    "Type2": "",
+    "BaseHP": 4,
+    "Strength": 2,
+    "MaxStrength": 5,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 2,
+    "MaxSpecial": 5,
+    "Insight": 3,
+    "MaxInsight": 6,
+    "Ability1": "Hydration",
+    "Ability2": "Gooey",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Rookie",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "sliggoo",
+    "DexCategory": "Soft Tissue Pokémon",
+    "Height": {
+        "Meters": 0.8,
+        "Feet": 2.6
+    },
+    "Weight": {
+        "Kilograms": 17.5,
+        "Pounds": 38.6
+    },
+    "DexDescription": "It drives away foes by releasing a sticky and corrosive liquid. Its eyes devolved and it became blind; now it uses its four horns to sense sounds and smells, rather than using its ears or nose.",
+    "Evolutions": [
+        {
+            "From": "Goomy",
+            "Kind": "Level",
+            "Speed": "Medium"
+        },
+        {
+            "To": "Goodra",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "sliggoo.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Absorb"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Water Gun"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Dragon Breath"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Acid Spray"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Acid Armor"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Protect"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Bubble"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Water Pulse"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Bide"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Rain Dance"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Flail"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Dragon Pulse"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Curse"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Body Slam"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Muddy Water"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Skitter Smack"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Counter"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Endure"
+        }
+    ]
+}

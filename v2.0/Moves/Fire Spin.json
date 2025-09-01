@@ -1,0 +1,26 @@
+{
+    "Name": "Fire Spin",
+    "Type": "Fire",
+    "Power": 2,
+    "Damage1": "Special",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Channel",
+    "Target": "Foe",
+    "Effect": "Blocks. Roll 2 Dice of Damage against the foe at the end of each Round. Lasts 4 Rounds. -2 Accuracy.",
+    "Description": "The user creates a vortex of fire that remains spinning in the battlefield, trapping the foe within.",
+    "_id": "fire-spin",
+    "Attributes": {
+        "BlockDamagePool": 2,
+        "AccuracyReduction": 2
+    },
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Block",
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Special"
+}

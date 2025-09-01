@@ -1,0 +1,18 @@
+{
+    "Name": "Mirror Coat",
+    "Type": "Psychic",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Insight",
+    "Accuracy2": "Channel",
+    "Target": "Foe",
+    "Effect": "Single Target. Can only be used if Target's last Move on User was a Special Move. Roll Dice equal to Target's last Damage Pool rolled against the User plus 2 dice. Ignore Defenses.",
+    "Description": "The user gathers the harmful energies around themselves and bounces them back to their source.",
+    "_id": "mirror-coat",
+    "Attributes": {
+        "IgnoreDefenses": true
+    },
+    "AddedEffects": {},
+    "Category": "Special"
+}

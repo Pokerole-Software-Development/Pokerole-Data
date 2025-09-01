@@ -1,0 +1,122 @@
+{
+    "Number": 479,
+    "DexID": "0479",
+    "Name": "Rotom",
+    "Type1": "Electric",
+    "Type2": "Ghost",
+    "BaseHP": 4,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 2,
+    "MaxDexterity": 5,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 3,
+    "MaxSpecial": 6,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Levitate",
+    "Ability2": "",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Ace",
+    "GenderType": "N",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "rotom",
+    "DexCategory": "Plasma Pokemon",
+    "Height": {
+        "Meters": 0.3,
+        "Feet": 1.0
+    },
+    "Weight": {
+        "Kilograms": 0.3,
+        "Pounds": 0.7
+    },
+    "DexDescription": "Its electric-like body can enter some kinds of machines and take control of them in order to cause mischief. It changes its form to that of the electric appliance, allowing it to become more powerful.",
+    "Evolutions": [
+        {
+            "To": "Rotom (Heat Form)",
+            "Kind": "Form"
+        },
+        {
+            "To": "Rotom (Fan Form)",
+            "Kind": "Form"
+        },
+        {
+            "To": "Rotom (Mow Form)",
+            "Kind": "Form"
+        },
+        {
+            "To": "Rotom (Frost Form)",
+            "Kind": "Form"
+        },
+        {
+            "To": "Rotom (Wash Form)",
+            "Kind": "Form"
+        },
+        {
+            "To": "Rotom (Dex Form)",
+            "Kind": "Form"
+        }
+    ],
+    "Image": "rotom.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Thunder Wave"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Astonish"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Confuse Ray"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Thunder Shock"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Uproar"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Trick"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Double Team"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Shock Wave"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Ominous Wind"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Substitute"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Electro Ball"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Hex"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Charge"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Discharge"
+        }
+    ]
+}

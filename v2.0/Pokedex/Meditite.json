@@ -1,0 +1,127 @@
+{
+    "Number": 307,
+    "DexID": "0307",
+    "Name": "Meditite",
+    "Type1": "Fighting",
+    "Type2": "Psychic",
+    "BaseHP": 3,
+    "Strength": 1,
+    "MaxStrength": 3,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 1,
+    "MaxSpecial": 3,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Pure Power",
+    "Ability2": "",
+    "HiddenAbility": "Telepathy",
+    "EventAbilities": "",
+    "RecommendedRank": "Beginner",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "meditite",
+    "DexCategory": "Meditate Pokemon",
+    "Height": {
+        "Meters": 0.6,
+        "Feet": 2.0
+    },
+    "Weight": {
+        "Kilograms": 11.2,
+        "Pounds": 24.7
+    },
+    "DexDescription": "Deep in the mountains they train their mind to increase their spiritual power, however they lack focus and get distracted easily. As part of their training, Meditites barely eat.",
+    "Evolutions": [
+        {
+            "To": "Medicham",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "meditite.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Bide"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Detect"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Confusion"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Meditate"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Endure"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Hidden Power"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Mind Reader"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Feint"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Calm Mind"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Force Palm"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "High Jump Kick"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Psych Up"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Acupressure"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Power Trick"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Reversal"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Recover"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Counter"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Foresight"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Guard Swap"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Power Swap"
+        }
+    ]
+}

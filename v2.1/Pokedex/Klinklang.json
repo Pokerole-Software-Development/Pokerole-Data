@@ -1,0 +1,139 @@
+{
+    "Number": 601,
+    "DexID": "0601",
+    "Name": "Klinklang",
+    "Type1": "Steel",
+    "Type2": "",
+    "BaseHP": 5,
+    "Strength": 3,
+    "MaxStrength": 6,
+    "Dexterity": 2,
+    "MaxDexterity": 5,
+    "Vitality": 3,
+    "MaxVitality": 6,
+    "Special": 2,
+    "MaxSpecial": 5,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Minus",
+    "Ability2": "Clear Body",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Expert",
+    "GenderType": "N",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "klinklang",
+    "DexCategory": "Gear Pokémon",
+    "Height": {
+        "Meters": 0.6,
+        "Feet": 2.0
+    },
+    "Weight": {
+        "Kilograms": 81.0,
+        "Pounds": 178.6
+    },
+    "DexDescription": "The gear with the red core rotates at high speed for a quick energy charge. The mini-gears shoot rays through the spikes around it. This inorganic Pokémon will trap and crush foes between its gears.",
+    "Evolutions": [
+        {
+            "From": "Klang",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "klinklang.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Thunder Shock"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Vice Grip"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Bind"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Charge"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Charge Beam"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Metal Sound"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Gear Up"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Magnetic Flux"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Autotomize"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Discharge"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Screech"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Gear Grind"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Mirror Shot"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Lock-On"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Flash Cannon"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Shift Gear"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Steel Beam"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Zap Cannon"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Hyper Beam"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Electric Terrain"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Rising Voltage"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Steel Roller"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Trick Room"
+        }
+    ]
+}

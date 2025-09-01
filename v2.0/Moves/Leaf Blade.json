@@ -1,0 +1,19 @@
+{
+    "Name": "Leaf Blade",
+    "Type": "Grass",
+    "Power": 3,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "Lethal. High Critical.",
+    "Description": "The Pokemon uses the sharp leaves on its body to cut through the foe.",
+    "_id": "leaf-blade",
+    "Attributes": {
+        "HighCritical": true,
+        "Lethal": true
+    },
+    "AddedEffects": {},
+    "Category": "Physical"
+}

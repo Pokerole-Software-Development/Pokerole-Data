@@ -1,0 +1,139 @@
+{
+    "Number": 604,
+    "DexID": "0604",
+    "Name": "Eelektross",
+    "Type1": "Electric",
+    "Type2": "",
+    "BaseHP": 5,
+    "Strength": 3,
+    "MaxStrength": 6,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 3,
+    "MaxSpecial": 6,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Levitate",
+    "Ability2": "",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Expert",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "eelektross",
+    "DexCategory": "EleFish Pokémon",
+    "Height": {
+        "Meters": 2.1,
+        "Feet": 6.9
+    },
+    "Weight": {
+        "Kilograms": 80.5,
+        "Pounds": 177.5
+    },
+    "DexDescription": "They crawl out of the water and attack anyone on shore by sucking them into their mouths, shocking them, and dragging them back into the ocean. They are aggressive and unpredictable; be very careful",
+    "Evolutions": [
+        {
+            "From": "Eelektrik",
+            "Kind": "Stone",
+            "Item": "Thunder Stone"
+        }
+    ],
+    "Image": "eelektross.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Headbutt"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Thunder Wave"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Spark"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Charge Beam"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Crush Claw"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Ion Deluge"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Bind"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Acid"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Discharge"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Thunderbolt"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Acid Spray"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Coil"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Crunch"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Gastro Acid"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Thunder Punch"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Fire Punch"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Outrage"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Wild Charge"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Zap Cannon"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Thrash"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Super Fang"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Drain Punch"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Light Screen"
+        }
+    ]
+}

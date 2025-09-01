@@ -1,0 +1,35 @@
+{
+    "Name": "Clangorous Soul",
+    "Type": "Dragon",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Tough",
+    "Accuracy2": "Perform",
+    "Target": "User",
+    "Effect": "User deals Damage to itself equal to Half of its total HP rounded down. Increase User's Strength, Dexterity, Special, Defense and Sp. Defense.",
+    "Description": "The Pokemon shakes its scales around, to sharpen, shed, and rearrange them. It's a bit rough, but in the end the Pokemon feels more focused for battle.",
+    "_id": "clangorous-soul",
+    "Attributes": {},
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "Strength",
+                    "Dexterity",
+                    "Special",
+                    "Def",
+                    "SpDef"
+                ],
+                "Stages": 1,
+                "Affects": "User"
+            }
+        ],
+        "FixedDamage": {
+            "Type": "MaxHpPercentage",
+            "Value": 0.5,
+            "Target": "Targets"
+        }
+    },
+    "Category": "Support"
+}

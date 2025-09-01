@@ -1,0 +1,83 @@
+{
+    "Number": 38,
+    "DexID": "0038",
+    "Name": "Ninetales",
+    "Type1": "Fire",
+    "Type2": "",
+    "BaseHP": 4,
+    "Strength": 2,
+    "MaxStrength": 5,
+    "Dexterity": 3,
+    "MaxDexterity": 6,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 2,
+    "MaxSpecial": 5,
+    "Insight": 3,
+    "MaxInsight": 6,
+    "Ability1": "Flash Fire",
+    "Ability2": "",
+    "HiddenAbility": "Drought",
+    "EventAbilities": "",
+    "RecommendedRank": "Amateur",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "ninetales",
+    "DexCategory": "Fox Pokemon",
+    "Height": {
+        "Meters": 1.1,
+        "Feet": 3.6
+    },
+    "Weight": {
+        "Kilograms": 19.9,
+        "Pounds": 43.9
+    },
+    "DexDescription": "It is known to understand human speech. It is very valued for its exuberant golden fur and the mystical power of its nine tails. It is, however, known to hold a grudge against those who mistreat it.",
+    "Evolutions": [
+        {
+            "From": "Vulpix",
+            "Kind": "Stone",
+            "Item": "Fire Stone"
+        }
+    ],
+    "Image": "ninetales.png",
+    "Moves": [
+        {
+            "Learned": "Amateur",
+            "Name": "Imprison"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Nasty Plot"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Flamethrower"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Confuse Ray"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Quick Attack"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Safeguard"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Hypnosis"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Pain Split"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Heat Wave"
+        }
+    ]
+}

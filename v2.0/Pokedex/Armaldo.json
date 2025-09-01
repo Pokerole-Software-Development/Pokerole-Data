@@ -1,0 +1,115 @@
+{
+    "Number": 348,
+    "DexID": "0348",
+    "Name": "Armaldo",
+    "Type1": "Rock",
+    "Type2": "Bug",
+    "BaseHP": 4,
+    "Strength": 3,
+    "MaxStrength": 7,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 3,
+    "MaxVitality": 6,
+    "Special": 2,
+    "MaxSpecial": 5,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Battle Armor",
+    "Ability2": "",
+    "HiddenAbility": "Swift Swim",
+    "EventAbilities": "",
+    "RecommendedRank": "Ace",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "armaldo",
+    "DexCategory": "Plate Pokemon",
+    "Height": {
+        "Meters": 1.5,
+        "Feet": 4.9
+    },
+    "Weight": {
+        "Kilograms": 68.2,
+        "Pounds": 150.4
+    },
+    "DexDescription": "When the waters receded, this Pokemon was forced to evolve to live on land. Evidence suggests that its claws could extend to reach the prey that was far or underwater. Its tough shell made it very resilient.",
+    "Evolutions": [
+        {
+            "From": "Anorith",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "armaldo.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Scratch"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Harden"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Mud Sport"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Metal Claw"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Water Gun"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Ancient Power"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Protect"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Slash"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Fury Cutter"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Crush Claw"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Smack Down"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Brine"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Rock Blast"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "X-Scissor"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Cross Poison"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Aqua Tail"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Iron Defense"
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Name": "Swagger",
+    "Type": "Normal",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Tough",
+    "Accuracy2": "Intimidate",
+    "Target": "Foe",
+    "Effect": "Increase the foe's Strength by 2. Inflicts Confusion.",
+    "Description": "The Pokemon enrages the foe with its arrogant demeanor, making it lose focus in battle.",
+    "_id": "swagger",
+    "Attributes": {},
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "Strength"
+                ],
+                "Stages": 2,
+                "Affects": "Targets"
+            }
+        ],
+        "Ailments": [
+            {
+                "Type": "Confuse",
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Support"
+}

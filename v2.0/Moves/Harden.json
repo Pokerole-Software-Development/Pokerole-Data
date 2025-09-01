@@ -1,0 +1,26 @@
+{
+    "Name": "Harden",
+    "Type": "Normal",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Vitality",
+    "Accuracy2": "Nature",
+    "Target": "User",
+    "Effect": "Increase the User's Defense.",
+    "Description": "The user stiffins its body and prepares for any incoming attack.",
+    "_id": "harden",
+    "Attributes": {},
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "Def"
+                ],
+                "Stages": 1,
+                "Affects": "User"
+            }
+        ]
+    },
+    "Category": "Support"
+}

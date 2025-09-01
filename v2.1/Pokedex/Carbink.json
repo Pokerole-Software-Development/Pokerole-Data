@@ -1,0 +1,133 @@
+{
+    "Number": 703,
+    "DexID": "0703",
+    "Name": "Carbink",
+    "Type1": "Rock",
+    "Type2": "Fairy",
+    "BaseHP": 4,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 4,
+    "MaxVitality": 8,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 4,
+    "MaxInsight": 8,
+    "Ability1": "Clear Body",
+    "Ability2": "Sturdy",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Standard",
+    "GenderType": "N",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "carbink",
+    "DexCategory": "Jewel Pokémon",
+    "Height": {
+        "Meters": 0.3,
+        "Feet": 1.0
+    },
+    "Weight": {
+        "Kilograms": 5.7,
+        "Pounds": 12.6
+    },
+    "DexDescription": "It's occasionally found at drilling zones and excavations in caves. Born from temperature and pressure deep underground, it shoots beams from the stone in its head. They can live for hundreds of years.",
+    "Evolutions": [],
+    "Image": "carbink.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Harden"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Sharpen"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Guard Split"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Smack Down"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Rock Throw"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Flail"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Ancient Power"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Rock Polish"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Rock Slide"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Light Screen"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Reflect"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Skill Swap"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Gravity"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Magic Coat"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Power Gem"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Stealth Rock"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Safeguard"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Stone Edge"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Moonblast"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Iron Defense"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Magnet Rise"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Meteor Beam"
+        }
+    ]
+}

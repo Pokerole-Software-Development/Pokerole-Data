@@ -1,0 +1,133 @@
+{
+    "Number": 621,
+    "DexID": "0621",
+    "Name": "Druddigon",
+    "Type1": "Dragon",
+    "Type2": "",
+    "BaseHP": 5,
+    "Strength": 3,
+    "MaxStrength": 7,
+    "Dexterity": 2,
+    "MaxDexterity": 5,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Rough Skin",
+    "Ability2": "Sheer Force",
+    "HiddenAbility": "Mold Breaker",
+    "EventAbilities": "",
+    "RecommendedRank": "Expert",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "druddigon",
+    "DexCategory": "Cave Pokémon",
+    "Height": {
+        "Meters": 1.6,
+        "Feet": 5.2
+    },
+    "Weight": {
+        "Kilograms": 139.0,
+        "Pounds": 306.4
+    },
+    "DexDescription": "It runs through the narrow tunnels dug by Excadrill and Onix and uses its sharp claws to catch prey. It is cold-blooded, and regularly takes sun baths to keep its energy. They are aggressive and territorial.",
+    "Evolutions": [],
+    "Image": "druddigon.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Scratch"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Leer"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Bite"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Dragon Rage"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Dragon Tail"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Metal Claw"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Scary Face"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Slash"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Dragon Claw"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Rock Climb"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Hone Claws"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Chip Away"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Crunch"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Iron Head"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Revenge"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Night Slash"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Outrage"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Giga Impact"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Draco Meteor"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Superpower"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Fire Fang"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Thunder Fang"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Poison Tail"
+        }
+    ]
+}

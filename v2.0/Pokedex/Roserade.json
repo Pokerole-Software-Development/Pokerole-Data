@@ -1,0 +1,87 @@
+{
+    "Number": 407,
+    "DexID": "0407",
+    "Name": "Roserade",
+    "Type1": "Grass",
+    "Type2": "Poison",
+    "BaseHP": 5,
+    "Strength": 2,
+    "MaxStrength": 5,
+    "Dexterity": 2,
+    "MaxDexterity": 5,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 3,
+    "MaxSpecial": 7,
+    "Insight": 3,
+    "MaxInsight": 6,
+    "Ability1": "Natural Cure",
+    "Ability2": "Poison Point",
+    "HiddenAbility": "Technician",
+    "EventAbilities": "",
+    "RecommendedRank": "Amateur",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "roserade",
+    "DexCategory": "Bouquet Pokemon",
+    "Height": {
+        "Meters": 0.9,
+        "Feet": 3.0
+    },
+    "Weight": {
+        "Kilograms": 14.5,
+        "Pounds": 32.0
+    },
+    "DexDescription": "Luring prey with a sweet scent, it uses the poison on its thorn-filled arm-whips to poison, bind and finish off the prey. It has a dangerous appeal mixed with a graceful personality. It\u2019s very rare in the wild.",
+    "Evolutions": [
+        {
+            "From": "Roselia",
+            "Kind": "Stone",
+            "Item": "Shiny Stone"
+        }
+    ],
+    "Image": "roserade.png",
+    "Moves": [
+        {
+            "Learned": "Beginner",
+            "Name": "Poison Sting"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Grassy Terrain"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Weather Ball"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Venom Drench"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Mega Drain"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Magical Leaf"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Sweet Scent"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Extrasensory"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Leaf Storm"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Pin Missile"
+        }
+    ]
+}

@@ -1,0 +1,111 @@
+{
+    "Number": 834,
+    "DexID": "0834",
+    "Name": "Drednaw",
+    "Type1": "Water",
+    "Type2": "Rock",
+    "BaseHP": 4,
+    "Strength": 3,
+    "MaxStrength": 6,
+    "Dexterity": 2,
+    "MaxDexterity": 5,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 2,
+    "MaxSpecial": 5,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Strong Jaw",
+    "Ability2": "Shell Armor",
+    "HiddenAbility": "Swift Swim",
+    "EventAbilities": "",
+    "RecommendedRank": "Amateur",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "drednaw",
+    "DexCategory": "Bite Pokemon",
+    "Height": {
+        "Meters": 1.0,
+        "Feet": 3.3
+    },
+    "Weight": {
+        "Kilograms": 115.5,
+        "Pounds": 254.6
+    },
+    "DexDescription": "It stays immobile near rivers and lakes, disguised as a rock until it snaps at an unsuspecting prey. Once something is trapped by its sharp teeth there is no way to take it out as it is incredibly stubborn.",
+    "Evolutions": [
+        {
+            "From": "Chewtle",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "drednaw.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Water Gun"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Razor Shell"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Rock Tomb"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Rock Polish"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Bite"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Protect"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Headbutt"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Counter"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Jaw Lock"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Liquidation"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Body Slam"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Head Smash"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Dive"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Dragon Tail"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Skull Bash"
+        }
+    ]
+}

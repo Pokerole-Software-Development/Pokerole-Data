@@ -1,0 +1,28 @@
+{
+    "Name": "Hammer Arm",
+    "Type": "Fighting",
+    "Power": 4,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "After dealing damage, Reduce user's Dexterity. -1 Accuracy.",
+    "Description": "A mighty arm thrust that leaves the user quite tired.",
+    "_id": "hammer-arm",
+    "Attributes": {
+        "AccuracyReduction": 1
+    },
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "Dexterity"
+                ],
+                "Stages": -1,
+                "Affects": "User"
+            }
+        ]
+    },
+    "Category": "Physical"
+}

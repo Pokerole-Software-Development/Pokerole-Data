@@ -1,0 +1,25 @@
+{
+    "Name": "Mist",
+    "Type": "Ice",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Special",
+    "Accuracy2": "Nature",
+    "Target": "User and Allies",
+    "Effect": "Target User and Allies in Range. Targets cannot have their Attributes or Traits Reduced. Previously Reduced Attributes and Traits remain. Duration 4 Rounds.",
+    "Description": "The user cloaks itself and its allies within cold mist with mystic properties. It may conceal whoever is nearby.",
+    "_id": "mist",
+    "Attributes": {
+        "Duration": 4
+    },
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Mist",
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Support"
+}

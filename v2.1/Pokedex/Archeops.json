@@ -1,0 +1,143 @@
+{
+    "Number": 567,
+    "DexID": "0567",
+    "Name": "Archeops",
+    "Type1": "Rock",
+    "Type2": "Flying",
+    "BaseHP": 5,
+    "Strength": 3,
+    "MaxStrength": 7,
+    "Dexterity": 3,
+    "MaxDexterity": 6,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 3,
+    "MaxSpecial": 6,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Defeatist",
+    "Ability2": "",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Expert",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "archeops",
+    "DexCategory": "First Bird Pokémon",
+    "Height": {
+        "Meters": 1.4,
+        "Feet": 4.6
+    },
+    "Weight": {
+        "Kilograms": 32.0,
+        "Pounds": 70.5
+    },
+    "DexDescription": "They used to form groups that cooperated to catch prey. From the ground, they used a running start to take flight. It is believed that they went extinct due to their poor tolerance for pain.",
+    "Evolutions": [
+        {
+            "From": "Archen",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "archeops.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Quick Attack"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Leer"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Wing Attack"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Rock Throw"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Dragon Breath"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Ancient Power"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Pluck"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Quick Guard"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Double Team"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "U-Turn"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Rock Slide"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Scary Face"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Crunch"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Agility"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Acrobatics"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Tailwind"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Dragon Claw"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Thrash"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Head Smash"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Dual Wingbeat"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Endeavor"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Lash Out"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Iron Defense"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Sky Attack"
+        }
+    ]
+}

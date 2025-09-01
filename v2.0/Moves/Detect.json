@@ -1,0 +1,18 @@
+{
+    "Name": "Detect",
+    "Type": "Fighting",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Insight",
+    "Accuracy2": "Alert",
+    "Target": "User",
+    "Effect": "Priority. Shield Move. Reduce 3 Damage this pokemon would receive from a Damaging Move. Negate effects of Support Moves that target the user. Reduce to zero the set damage from a move the user would take.",
+    "Description": "The user detects the intentions of the attacker and acts out to minimize the damage.",
+    "_id": "detect",
+    "Attributes": {
+        "ShieldMove": true
+    },
+    "AddedEffects": {},
+    "Category": "Support"
+}

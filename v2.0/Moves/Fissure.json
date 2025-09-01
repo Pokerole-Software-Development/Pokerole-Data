@@ -1,0 +1,24 @@
+{
+    "Name": "Fissure",
+    "Type": "Ground",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Strength",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "Ranged. Deal damage to the Target equal to their remaining HP plus 1 lethal damage. -5 Accuracy.",
+    "Description": "The user tears the ground apart in a monstrous display of force. If the foe falls through the fissure it might need a rescue team to get it out.",
+    "_id": "fissure",
+    "Attributes": {
+        "PhysicalRanged": true,
+        "AccuracyReduction": 5
+    },
+    "AddedEffects": {
+        "FixedDamage": {
+            "Type": "OneHitKO",
+            "Target": "Targets"
+        }
+    },
+    "Category": "Physical"
+}

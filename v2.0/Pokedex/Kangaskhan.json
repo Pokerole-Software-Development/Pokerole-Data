@@ -1,0 +1,119 @@
+{
+    "Number": 115,
+    "DexID": "0115",
+    "Name": "Kangaskhan",
+    "Type1": "Normal",
+    "Type2": "",
+    "BaseHP": 5,
+    "Strength": 3,
+    "MaxStrength": 6,
+    "Dexterity": 2,
+    "MaxDexterity": 5,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 1,
+    "MaxSpecial": 3,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Early Bird",
+    "Ability2": "Scrappy",
+    "HiddenAbility": "Inner Focus",
+    "EventAbilities": "",
+    "RecommendedRank": "Amateur",
+    "GenderType": "F",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "kangaskhan",
+    "DexCategory": "Parent Pokemon",
+    "Height": {
+        "Meters": 2.2,
+        "Feet": 7.2
+    },
+    "Weight": {
+        "Kilograms": 80.0,
+        "Pounds": 176.4
+    },
+    "DexDescription": "A female only species. It raises its offspring in its belly pouch. The young leaves once it learns to find its own food. In the wild, mothers and daughters fiercely defend each other.",
+    "Evolutions": [
+        {
+            "To": "Kangaskhan (Mega Form)",
+            "Kind": "Mega",
+            "Item": "Kangaskhanite"
+        }
+    ],
+    "Image": "kangaskhan.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Comet Punch"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Leer"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Fake Out"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Tail Whip"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Bite"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Double Hit"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Rage"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Mega Punch"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Chip Away"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Dizzy Punch"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Crunch"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Endure"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Outrage"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Sucker Punch"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Reversal"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Aqua Tail"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Captivate"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Counter"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "Name": "Spirit Break",
+    "Type": "Fairy",
+    "Power": 2,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Insight",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "If successful, reduce the Foe's Special.",
+    "Description": "Sometimes words hurt a lot more than blows. With this Move the Pokemon deals both.",
+    "_id": "spirit-break",
+    "Attributes": {},
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "Special"
+                ],
+                "Stages": -1,
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Physical"
+}

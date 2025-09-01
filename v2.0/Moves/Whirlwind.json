@@ -1,0 +1,19 @@
+{
+    "Name": "Whirlwind",
+    "Type": "Normal",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Nature",
+    "Target": "Foe",
+    "Effect": "Low Priority 6. In the wild the battle ends. In an official fight, the Pokemon switches out. If it's the last or only Pokemon the move fails. Switcher Move.",
+    "Description": "The Pokemon creates a powerful wind current that swirls the enemy around and sends it flying away.",
+    "_id": "whirlwind",
+    "Attributes": {
+        "SwitcherMove": true,
+        "Priority": -6
+    },
+    "AddedEffects": {},
+    "Category": "Support"
+}

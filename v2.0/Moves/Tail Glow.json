@@ -1,0 +1,26 @@
+{
+    "Name": "Tail Glow",
+    "Type": "Bug",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Insight",
+    "Accuracy2": "Nature",
+    "Target": "User",
+    "Effect": "Increase the User's Special by 3.",
+    "Description": "The user emits a strong light. This Pokemon will stare at its brightness to enter a trance.",
+    "_id": "tail-glow",
+    "Attributes": {},
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "Special"
+                ],
+                "Stages": 3,
+                "Affects": "User"
+            }
+        ]
+    },
+    "Category": "Support"
+}

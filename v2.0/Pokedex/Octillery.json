@@ -1,0 +1,123 @@
+{
+    "Number": 224,
+    "DexID": "0224",
+    "Name": "Octillery",
+    "Type1": "Water",
+    "Type2": "",
+    "BaseHP": 4,
+    "Strength": 3,
+    "MaxStrength": 6,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 3,
+    "MaxSpecial": 6,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Suction Cups",
+    "Ability2": "Sniper",
+    "HiddenAbility": "Moody",
+    "EventAbilities": "",
+    "RecommendedRank": "Amateur",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "octillery",
+    "DexCategory": "Jet Pokemon",
+    "Height": {
+        "Meters": 0.9,
+        "Feet": 3.0
+    },
+    "Weight": {
+        "Kilograms": 28.5,
+        "Pounds": 62.8
+    },
+    "DexDescription": "Octillery sprays ink, traps its foes with its tentacles and then hits them with its rock-hard head. If the enemy is too strong, they escape. They can be found inside rocky holes deep in the sea floor.",
+    "Evolutions": [
+        {
+            "From": "Remoraid",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "octillery.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Rock Blast"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Constrict"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Water Gun"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Aurora Beam"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Psybeam"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Bullet Seed"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Bubble Beam"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Focus Energy"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Octazooka"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Wring Out"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Signal Beam"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Ice Beam"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Gunk Shot"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Hydro Pump"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Hyper Beam"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Soak"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Water Spout"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Acid Spray"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Dive"
+        }
+    ]
+}

@@ -1,0 +1,135 @@
+{
+    "Number": 658,
+    "DexID": "0658",
+    "Name": "Greninja",
+    "Type1": "Water",
+    "Type2": "Dark",
+    "BaseHP": 5,
+    "Strength": 3,
+    "MaxStrength": 6,
+    "Dexterity": 3,
+    "MaxDexterity": 7,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 3,
+    "MaxSpecial": 6,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Torrent",
+    "Ability2": "",
+    "HiddenAbility": "Protean",
+    "EventAbilities": "Battle Bond",
+    "RecommendedRank": "Ace",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "greninja",
+    "DexCategory": "Ninja Pokemon",
+    "Height": {
+        "Meters": 1.5,
+        "Feet": 4.9
+    },
+    "Weight": {
+        "Kilograms": 40.0,
+        "Pounds": 88.2
+    },
+    "DexDescription": "It appears and vanishes with a ninja\u2019s grace. It toys with its enemies using swift movements, then slices them with throwing sharp water stars. If it was not properly disciplined, it will never listen any master.",
+    "Evolutions": [
+        {
+            "From": "Frogadier",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "greninja.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Growl"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Pound"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Quick Attack"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Lick"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Bubble"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Haze"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Extrasensory"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Role Play"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Water Pulse"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Smokescreen"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Shadow Sneak"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Spikes"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Feint Attack"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Water Shuriken"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Substitute"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Night Slash"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Double Team"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Mat Block"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Hydro Pump"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Ice Punch"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Gunk Shot"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Hydro Cannon"
+        }
+    ]
+}

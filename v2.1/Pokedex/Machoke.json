@@ -1,0 +1,139 @@
+{
+    "Number": 67,
+    "DexID": "0067",
+    "Name": "Machoke",
+    "Type1": "Fighting",
+    "Type2": "",
+    "BaseHP": 5,
+    "Strength": 3,
+    "MaxStrength": 6,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Guts",
+    "Ability2": "No Guard",
+    "HiddenAbility": "Steadfast",
+    "EventAbilities": "",
+    "RecommendedRank": "Advanced",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "machoke",
+    "DexCategory": "Superpower Pokémon",
+    "Height": {
+        "Meters": 1.5,
+        "Feet": 4.9
+    },
+    "Weight": {
+        "Kilograms": 70.5,
+        "Pounds": 155.4
+    },
+    "DexDescription": "Even with its strong frame and power, it is a humble and helpful Pokémon. Many of them work for human companies. On their days off, you can see them heading to the wild to train together.",
+    "Evolutions": [
+        {
+            "From": "Machop",
+            "Kind": "Level",
+            "Speed": "Medium"
+        },
+        {
+            "To": "Machamp",
+            "Kind": "Trade"
+        }
+    ],
+    "Image": "machoke.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Low Kick"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Leer"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Focus Energy"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Karate Chop"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Foresight"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Low Sweep"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Knock Off"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Seismic Toss"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Revenge"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Vital Throw"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Strength"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Submission"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Dual Chop"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Bulk Up"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Wake-Up Slap"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Scary Face"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Cross Chop"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Double-Edge"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Dynamic Punch"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Meditate"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Fire Punch"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Thunder Punch"
+        }
+    ]
+}

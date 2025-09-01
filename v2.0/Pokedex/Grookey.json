@@ -1,0 +1,103 @@
+{
+    "Number": 810,
+    "DexID": "0810",
+    "Name": "Grookey",
+    "Type1": "Grass",
+    "Type2": "",
+    "BaseHP": 3,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 1,
+    "MaxSpecial": 3,
+    "Insight": 1,
+    "MaxInsight": 3,
+    "Ability1": "Overgrow",
+    "Ability2": "",
+    "HiddenAbility": "Grassy Surge",
+    "EventAbilities": "",
+    "RecommendedRank": "Starter",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "grookey",
+    "DexCategory": "Chimp Pokemon",
+    "Height": {
+        "Meters": 0.3,
+        "Feet": 1.0
+    },
+    "Weight": {
+        "Kilograms": 5.0,
+        "Pounds": 11.0
+    },
+    "DexDescription": "They spend their early days looking for a stick with a certain sound, it then uses the stick to create rhythmic beats that makes plan glow and grow. Grookey are enthusiastic and kind creatures that love music.",
+    "Evolutions": [
+        {
+            "To": "Thwackey",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "grookey.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Scratch"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Growl"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Branch Poke"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Taunt"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Razor Leaf"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Screech"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Knock Off"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Slam"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Uproar"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Wood Hammer"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Endeavor"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Grass Pledge"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Fake Out"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Leech Seed"
+        }
+    ]
+}

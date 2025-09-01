@@ -1,0 +1,103 @@
+{
+    "Number": 449,
+    "DexID": "0449",
+    "Name": "Hippopotas",
+    "Type1": "Ground",
+    "Type2": "",
+    "BaseHP": 3,
+    "Strength": 2,
+    "MaxStrength": 5,
+    "Dexterity": 1,
+    "MaxDexterity": 3,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 1,
+    "MaxSpecial": 3,
+    "Insight": 1,
+    "MaxInsight": 3,
+    "Ability1": "Sand Stream",
+    "Ability2": "",
+    "HiddenAbility": "Sand Force",
+    "EventAbilities": "",
+    "RecommendedRank": "Amateur",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "hippopotas",
+    "DexCategory": "Hippo Pokemon",
+    "Height": {
+        "Meters": 0.8,
+        "Feet": 2.6
+    },
+    "Weight": {
+        "Kilograms": 49.5,
+        "Pounds": 109.1
+    },
+    "DexDescription": "It lives in arid places where it joins small groups. It closes its nostrils and submerges under the sand to rest. Females have a different coloration, usually a darker and duller color.",
+    "Evolutions": [
+        {
+            "To": "Hippowdon",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "hippopotas.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Sand Attack"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Bite"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Yawn"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Take Down"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Dig"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Sand Tomb"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Crunch"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Earthquake"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Double-Edge"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Fissure"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Stockpile"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Slack Off"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Water Pulse"
+        }
+    ]
+}

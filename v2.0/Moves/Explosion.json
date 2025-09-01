@@ -1,0 +1,19 @@
+{
+    "Name": "Explosion",
+    "Type": "Normal",
+    "Power": 10,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Strength",
+    "Accuracy2": "Brawl",
+    "Target": "Area",
+    "Effect": "After the damage is dealt the User faints. Lethal.",
+    "Description": "The user focuses on exploding its body, the explosion deals a massive wave of damage. A very dangerous move.",
+    "_id": "explosion",
+    "Attributes": {
+        "Lethal": true,
+        "UserFaints": true
+    },
+    "AddedEffects": {},
+    "Category": "Physical"
+}

@@ -1,0 +1,26 @@
+{
+    "Name": "Fell Stinger",
+    "Type": "Bug",
+    "Power": 1,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "If the foe faints due to damage from this attack increase the user's Strength by 2.",
+    "Description": "The Pokemon stings the target. If the foe is too weakened to move it absorbs part of its power.",
+    "_id": "fell-stinger",
+    "Attributes": {},
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "Strength"
+                ],
+                "Stages": 2,
+                "Affects": "User"
+            }
+        ]
+    },
+    "Category": "Physical"
+}

@@ -1,0 +1,126 @@
+{
+    "Number": 648,
+    "DexID": "0648",
+    "Name": "Meloetta",
+    "Type1": "Normal",
+    "Type2": "Psychic",
+    "BaseHP": 5,
+    "Strength": 5,
+    "MaxStrength": 5,
+    "Dexterity": 5,
+    "MaxDexterity": 5,
+    "Vitality": 5,
+    "MaxVitality": 5,
+    "Special": 7,
+    "MaxSpecial": 7,
+    "Insight": 7,
+    "MaxInsight": 7,
+    "Ability1": "Serene Grace",
+    "Ability2": "",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Master",
+    "GenderType": "N",
+    "Legendary": true,
+    "GoodStarter": false,
+    "_id": "meloetta",
+    "DexCategory": "No Data",
+    "Height": {
+        "Meters": 0.6,
+        "Feet": 2.0
+    },
+    "Weight": {
+        "Kilograms": 6.5,
+        "Pounds": 14.3
+    },
+    "DexDescription": "There are old songs about a beautiful Pokemon that inspired the hearts of artists through its graceful dance and singing.",
+    "Evolutions": [
+        {
+            "To": "Meloetta (Pirouette Form)",
+            "Kind": "Form"
+        }
+    ],
+    "Image": "meloetta.png",
+    "Moves": [
+        {
+            "Learned": "Master",
+            "Name": "Psychic"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Round"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Quick Attack"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Confusion"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Sing"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Teeter Dance"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Acrobatics"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Psybeam"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Echoed Voice"
+        },
+        {
+            "Learned": "Master",
+            "Name": "U-Turn"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Psychic"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Hyper Voice"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Role Play"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Close Combat"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Perish Song"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Boomburst"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Disarming Voice"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Lucky Chant"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Relic Song"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Captivate"
+        }
+    ]
+}

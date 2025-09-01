@@ -1,0 +1,26 @@
+{
+    "Name": "Icicle Crash",
+    "Type": "Ice",
+    "Power": 3,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "Roll 3 Chance Dice to Flinch the Foe. -1 Accuracy.",
+    "Description": "The user drops a big icicle over the foe, the impact may leave the opponent dazed.",
+    "_id": "icicle-crash",
+    "Attributes": {
+        "AccuracyReduction": 1
+    },
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Flinch",
+                "Affects": "Targets",
+                "ChanceDice": 3
+            }
+        ]
+    },
+    "Category": "Physical"
+}

@@ -1,0 +1,18 @@
+{
+    "Name": "Double Kick",
+    "Type": "Fighting",
+    "Power": 2,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "Double Action.",
+    "Description": "The user throws two powerful kicks.",
+    "_id": "double-kick",
+    "Attributes": {
+        "DoubleAction": true
+    },
+    "AddedEffects": {},
+    "Category": "Physical"
+}

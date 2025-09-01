@@ -1,0 +1,18 @@
+{
+    "Name": "Solar Blade",
+    "Type": "Grass",
+    "Power": 5,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Strength",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "Charge Move. If there is a Sunny Weather, you skip this Move's Charge action. If performed under Rain, Sandstorm, or Hail Weather, this Move takes two actions to Charge.",
+    "Description": "The Pokemon focuses the sunlight on its sharp leaves, then releases the energy with a shattering block.",
+    "_id": "solar-blade",
+    "Attributes": {
+        "Charge": true
+    },
+    "AddedEffects": {},
+    "Category": "Physical"
+}

@@ -1,0 +1,139 @@
+{
+    "Number": 59,
+    "DexID": "0059",
+    "Name": "Arcanine",
+    "Type1": "Fire",
+    "Type2": "",
+    "BaseHP": 6,
+    "Strength": 3,
+    "MaxStrength": 6,
+    "Dexterity": 3,
+    "MaxDexterity": 6,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 3,
+    "MaxSpecial": 6,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Intimidate",
+    "Ability2": "Flash Fire",
+    "HiddenAbility": "Justified",
+    "EventAbilities": "",
+    "RecommendedRank": "Expert",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "arcanine",
+    "DexCategory": "Legendary Pokémon",
+    "Height": {
+        "Meters": 1.9,
+        "Feet": 6.2
+    },
+    "Weight": {
+        "Kilograms": 155.0,
+        "Pounds": 341.7
+    },
+    "DexDescription": "Its proud and regal appearance has made it be revered by people of ancient societies. Its magnificent bark conveys a sense of majesty. Anyone in front of Arcanine can't help but stare in awe.",
+    "Evolutions": [
+        {
+            "From": "Growlithe",
+            "Kind": "Stone",
+            "Item": "Fire Stone"
+        }
+    ],
+    "Image": "arcanine.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Roar"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Ember"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Bite"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Leer"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Odor Sleuth"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Helping Hand"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Extreme Speed"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Reversal"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Fire Fang"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Thunder Fang"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Howl"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Agility"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Heat Wave"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Flamethrower"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Retaliate"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Burn Up"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Crunch"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Morning Sun"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Flare Blitz"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Outrage"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Scorching Sands"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Close Combat"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Wild Charge"
+        }
+    ]
+}

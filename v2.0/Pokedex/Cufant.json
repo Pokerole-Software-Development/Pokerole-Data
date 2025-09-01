@@ -1,0 +1,111 @@
+{
+    "Number": 878,
+    "DexID": "0878",
+    "Name": "Cufant",
+    "Type1": "Steel",
+    "Type2": "",
+    "BaseHP": 3,
+    "Strength": 2,
+    "MaxStrength": 5,
+    "Dexterity": 1,
+    "MaxDexterity": 3,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 1,
+    "MaxSpecial": 3,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Sheer Force",
+    "Ability2": "",
+    "HiddenAbility": "Heavy Metal",
+    "EventAbilities": "",
+    "RecommendedRank": "Beginner",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "cufant",
+    "DexCategory": "Copperderm Pokemon",
+    "Height": {
+        "Meters": 1.2,
+        "Feet": 3.9
+    },
+    "Weight": {
+        "Kilograms": 100.0,
+        "Pounds": 220.5
+    },
+    "DexDescription": "If a job requires serious strength, this Pokemon will excel at it. Its copper body tarnishes in the rain, turning a vibrant green color. Its trunk is specially designed to dig the ground, in the wild they uproot trees to eat.",
+    "Evolutions": [
+        {
+            "To": "Copperajah",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "cufant.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Growl"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Rollout"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Rock Smash"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Bulldoze"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Stomp"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Dig"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Iron Defense"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Strength"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Iron Head"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Play Rough"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "High Horsepower"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Superpower"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Stealth Rock"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Zen Headbutt"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Fissure"
+        }
+    ]
+}

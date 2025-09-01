@@ -1,0 +1,18 @@
+{
+    "Name": "Help Another",
+    "Type": "Typeless",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "",
+    "Accuracy2": "",
+    "Target": "One Ally",
+    "Effect": "Target One Ally. Roll your Accuracy as if it were Chance dice. Add 1 die to the Accuracy Roll of your Ally for each Success (result of 6) obtained this way. Up to 3 Characters may attempt to help a single Action. Up to 6 Dice may be added this way.",
+    "Description": "Not being the best-suited for a task doesn't mean you won't do your part in helping out. The best teams work together!",
+    "_id": "help-another",
+    "Attributes": {
+        "Priority": 1
+    },
+    "AddedEffects": {},
+    "Category": "Support"
+}

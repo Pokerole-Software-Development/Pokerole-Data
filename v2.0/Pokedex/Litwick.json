@@ -1,0 +1,127 @@
+{
+    "Number": 607,
+    "DexID": "0607",
+    "Name": "Litwick",
+    "Type1": "Ghost",
+    "Type2": "Fire",
+    "BaseHP": 3,
+    "Strength": 1,
+    "MaxStrength": 3,
+    "Dexterity": 1,
+    "MaxDexterity": 3,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Flash Fire",
+    "Ability2": "Flame Body",
+    "HiddenAbility": "Infiltrator",
+    "EventAbilities": "",
+    "RecommendedRank": "Beginner",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "litwick",
+    "DexCategory": "Candle Pokemon",
+    "Height": {
+        "Meters": 0.3,
+        "Feet": 1.0
+    },
+    "Weight": {
+        "Kilograms": 3.1,
+        "Pounds": 6.8
+    },
+    "DexDescription": "Its flame is usually out, but it starts burning whenever it absorbs the life force from others. They trick lost people into thinking they are helping them find their way in the dark but those who follow them never return.",
+    "Evolutions": [
+        {
+            "To": "Lampent",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "litwick.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Ember"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Astonish"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Minimize"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Smog"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Fire Spin"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Confuse Ray"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Night Shade"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Will-O-Wisp"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Flame Burst"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Imprison"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Hex"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Memento"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Inferno"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Curse"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Shadow Ball"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Pain Split"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Overheat"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Clear Smog"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Trick"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Haze"
+        }
+    ]
+}

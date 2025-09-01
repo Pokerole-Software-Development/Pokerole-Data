@@ -1,0 +1,18 @@
+{
+    "Name": "Toxic Spikes",
+    "Type": "Poison",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Stealth",
+    "Target": "Battlefield",
+    "Effect": "Foe Pokemon that enter the battlefield become Poisoned. Roll 1 Chance Dice for the Poison to become Badly Poisoned instead. Entry Hazard.",
+    "Description": "The user lays a trap of scattered poison spikes that attach to the opponent's feet leaving them with a bad case of fever.",
+    "_id": "toxic-spikes",
+    "Attributes": {},
+    "AddedEffects": {
+        "TerrainEffect": "ToxicSpikes"
+    },
+    "Category": "Support"
+}

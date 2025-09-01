@@ -1,0 +1,27 @@
+{
+    "Name": "Fiery Dance",
+    "Type": "Fire",
+    "Power": 3,
+    "Damage1": "Special",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Perform",
+    "Target": "Foe",
+    "Effect": "Roll 5 Chance Dice to Increase the User's Special.",
+    "Description": "The user cloaks itself in flames and shoots them while dancing gracefully.",
+    "_id": "fiery-dance",
+    "Attributes": {},
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "Special"
+                ],
+                "Stages": 1,
+                "ChanceDice": 5,
+                "Affects": "User"
+            }
+        ]
+    },
+    "Category": "Special"
+}

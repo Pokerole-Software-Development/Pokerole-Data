@@ -1,0 +1,32 @@
+{
+    "Name": "Toxic Thread",
+    "Type": "Poison",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Channel",
+    "Target": "Foe",
+    "Effect": "Reduce Foe's Dexterity. Poison the Foe.",
+    "Description": "The user shoots a sticky thread that entangles around the foe, the thread is also laced with a potent toxin that will poison the foe on contact.",
+    "_id": "toxic-thread",
+    "Attributes": {},
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "Dexterity"
+                ],
+                "Stages": -1,
+                "Affects": "Targets"
+            }
+        ],
+        "Ailments": [
+            {
+                "Type": "Poison",
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Support"
+}

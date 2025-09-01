@@ -1,0 +1,23 @@
+{
+    "Name": "Conversion 2",
+    "Type": "Normal",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Will",
+    "Accuracy2": "Channel",
+    "Target": "User",
+    "Effect": "After being dealt damage, choose a Type resistant to the Type of that attack. That's the Type of the User until it uses this Move again.",
+    "Description": "The Pokemon downloads the data of a move that was used against it. Change the code of the user to a type resistant to the that move.",
+    "_id": "conversion-2",
+    "Attributes": {},
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Conversion2",
+                "Affects": "User"
+            }
+        ]
+    },
+    "Category": "Support"
+}

@@ -1,0 +1,18 @@
+{
+    "Name": "Accelerock",
+    "Type": "Rock",
+    "Power": 2,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "Priority 1.",
+    "Description": "The Pokemon dashes at great speed using the rocks on its body to strike its foe upon impact.",
+    "_id": "accelerock",
+    "Attributes": {
+        "Priority": 1
+    },
+    "AddedEffects": {},
+    "Category": "Physical"
+}

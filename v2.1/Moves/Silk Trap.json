@@ -1,0 +1,19 @@
+{
+    "Name": "Silk Trap",
+    "Type": "Bug",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Insight",
+    "Accuracy2": "Stealth",
+    "Target": "User",
+    "Effect": "Target Self. Priority 4. Shield Move. Reduce 3 Damage the User would receive from a Damaging Move. *If the Foe used a Non-Ranged Physical Move against the user Reduce the foe's Dexterity by 2.",
+    "Description": "The Pokémon weaves a thread of silk around specific parts of their body, both as an armor and as a trap to snare their enemies.",
+    "_id": "silk-trap",
+    "Attributes": {
+        "Priority": 4,
+        "ShieldMove": true
+    },
+    "AddedEffects": {},
+    "Category": "Support"
+}

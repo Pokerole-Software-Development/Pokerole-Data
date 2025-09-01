@@ -1,0 +1,28 @@
+{
+    "Name": "Icy Wind",
+    "Type": "Ice",
+    "Power": 2,
+    "Damage1": "Special",
+    "Damage2": "",
+    "Accuracy1": "Special",
+    "Accuracy2": "Nature",
+    "Target": "All Foes",
+    "Effect": "Target All Foes in Range. Wind Based. Reduce by 1 the Dexterity of those Affected.",
+    "Description": "A breeze so cold that it chills you to the bone, making it harder to move.",
+    "_id": "icy-wind",
+    "Attributes": {
+        "WindBased": true
+    },
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "Dexterity"
+                ],
+                "Stages": -1,
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Special"
+}

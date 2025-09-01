@@ -1,0 +1,23 @@
+{
+    "Name": "Ingrain",
+    "Type": "Grass",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Special",
+    "Accuracy2": "Nature",
+    "Target": "User",
+    "Effect": "User Heals 1 HP at the end of every Round. While this move is active the User is now Blocked.",
+    "Description": "The Pokemon roots itself to the ground, absorbing the nutrients and recovering health.",
+    "_id": "ingrain",
+    "Attributes": {},
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Ingrain",
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Support"
+}

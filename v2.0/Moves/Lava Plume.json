@@ -1,0 +1,24 @@
+{
+    "Name": "Lava Plume",
+    "Type": "Fire",
+    "Power": 3,
+    "Damage1": "Special",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Channel",
+    "Target": "Area",
+    "Effect": "Roll 3 Chance Dice to Burn those affected.",
+    "Description": "The user shoots up bits of molten lava that fall scattered around the field.",
+    "_id": "lava-plume",
+    "Attributes": {},
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Burn",
+                "Affects": "Targets",
+                "ChanceDice": 3
+            }
+        ]
+    },
+    "Category": "Special"
+}

@@ -1,0 +1,122 @@
+{
+    "Number": 645,
+    "DexID": "0645",
+    "Name": "Landorus",
+    "Type1": "Ground",
+    "Type2": "Flying",
+    "BaseHP": 4,
+    "Strength": 7,
+    "MaxStrength": 7,
+    "Dexterity": 6,
+    "MaxDexterity": 6,
+    "Vitality": 5,
+    "MaxVitality": 5,
+    "Special": 6,
+    "MaxSpecial": 6,
+    "Insight": 5,
+    "MaxInsight": 5,
+    "Ability1": "Sand Force",
+    "Ability2": "",
+    "HiddenAbility": "Sheer Force",
+    "EventAbilities": "",
+    "RecommendedRank": "Master",
+    "GenderType": "M",
+    "Legendary": true,
+    "GoodStarter": false,
+    "_id": "landorus",
+    "DexCategory": "No Data",
+    "Height": {
+        "Meters": 1.5,
+        "Feet": 4.9
+    },
+    "Weight": {
+        "Kilograms": 68.0,
+        "Pounds": 149.9
+    },
+    "DexDescription": "Earthquakes and landslides raze Unova with frequency, but the places who suffer them are left with a plentiful harvest that year. Feared by some, revered by others who claim to have seen it.",
+    "Evolutions": [
+        {
+            "To": "Landorus (Therian Form)",
+            "Kind": "Form"
+        }
+    ],
+    "Image": "landorus.png",
+    "Moves": [
+        {
+            "Learned": "Master",
+            "Name": "Block"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Mud Shot"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Rock Tomb"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Imprison"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Punishment"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Bulldoze"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Rock Throw"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Extrasensory"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Swords Dance"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Earth Power"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Rock Slide"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Earthquake"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Sandstorm"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Fissure"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Stone Edge"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Hammer Arm"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Outrage"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Rototiller"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Dig"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "Name": "Mind Blown",
+    "Type": "Fire",
+    "Power": 6,
+    "Damage1": "Special",
+    "Damage2": "",
+    "Accuracy1": "Insight",
+    "Accuracy2": "Channel",
+    "Target": "Area",
+    "Effect": "Area Attack. Recoil.",
+    "Description": "The Pokemon has had a terrible day and has a very bad headache, try not to disturb its peace because its head feels like exploding.",
+    "_id": "mind-blown",
+    "Attributes": {
+        "Recoil": true
+    },
+    "AddedEffects": {},
+    "Category": "Special"
+}

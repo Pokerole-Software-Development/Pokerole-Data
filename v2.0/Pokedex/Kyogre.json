@@ -1,0 +1,142 @@
+{
+    "Number": 382,
+    "DexID": "0382",
+    "Name": "Kyogre",
+    "Type1": "Water",
+    "Type2": "",
+    "BaseHP": 6,
+    "Strength": 6,
+    "MaxStrength": 6,
+    "Dexterity": 5,
+    "MaxDexterity": 5,
+    "Vitality": 5,
+    "MaxVitality": 5,
+    "Special": 8,
+    "MaxSpecial": 8,
+    "Insight": 7,
+    "MaxInsight": 7,
+    "Ability1": "Drizzle",
+    "Ability2": "",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Master",
+    "GenderType": "N",
+    "Legendary": true,
+    "GoodStarter": false,
+    "_id": "kyogre",
+    "DexCategory": "No Data",
+    "Height": {
+        "Meters": 4.5,
+        "Feet": 14.8
+    },
+    "Weight": {
+        "Kilograms": 352.0,
+        "Pounds": 776.0
+    },
+    "DexDescription": "Kyogre is named in mythology as the God that expanded the seas and oceans with torrential waters and huge tidal waves. It is the mortal enemy of Groudon.",
+    "Evolutions": [
+        {
+            "To": "Kyogre (Primal Form)",
+            "Kind": "Form"
+        }
+    ],
+    "Image": "kyogre.png",
+    "Moves": [
+        {
+            "Learned": "Master",
+            "Name": "Ancient Power"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Water Pulse"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Scary Face"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Aqua Tail"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Ice Beam"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Origin Pulse"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Calm Mind"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Muddy Water"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Sheer Cold"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Hydro Pump"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Double-Edge"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Water Spout"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Strength"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Dive"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Whirlpool"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Psych Up"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Mist"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Splishy Splash"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Steam Eruption"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Defog"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Telekinesis"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Blizzard"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Drain Punch"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Snatch"
+        }
+    ]
+}

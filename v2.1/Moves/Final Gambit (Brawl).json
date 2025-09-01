@@ -1,0 +1,19 @@
+{
+    "Name": "Final Gambit (Brawl)",
+    "Type": "Fighting",
+    "Power": 4,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Will",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "Single Target. Ignore Defenses. The User Faints after dealing Damage.",
+    "Description": "The Pokémon puts its last strength into an all-or-nothing attack. After that, it faints.",
+    "_id": "final-gambit-(brawl)",
+    "Attributes": {
+        "UserFaints": true,
+        "IgnoreDefenses": true
+    },
+    "AddedEffects": {},
+    "Category": "Special"
+}

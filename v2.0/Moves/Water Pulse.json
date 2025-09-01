@@ -1,0 +1,24 @@
+{
+    "Name": "Water Pulse",
+    "Type": "Water",
+    "Power": 2,
+    "Damage1": "Special",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Channel",
+    "Target": "Foe",
+    "Effect": "Roll 3 Chance Dice to Confuse the foe.",
+    "Description": "The Pokemon attacks with a pulsing blast of water, this leaves the foe feeling dizzy.",
+    "_id": "water-pulse",
+    "Attributes": {},
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Confuse",
+                "Affects": "Targets",
+                "ChanceDice": 3
+            }
+        ]
+    },
+    "Category": "Special"
+}

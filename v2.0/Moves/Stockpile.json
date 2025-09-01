@@ -1,0 +1,33 @@
+{
+    "Name": "Stockpile",
+    "Type": "Normal",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Insight",
+    "Accuracy2": "Nature",
+    "Target": "User",
+    "Effect": "Increase the User's Defense and Sp. Defense.",
+    "Description": "The Pokemon swells up by storing power with its mouth, this makes the user a little more resistant to damage.",
+    "_id": "stockpile",
+    "Attributes": {},
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "Def",
+                    "SpDef"
+                ],
+                "Stages": 1,
+                "Affects": "User"
+            }
+        ],
+        "Ailments": [
+            {
+                "Type": "Stockpile",
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Support"
+}

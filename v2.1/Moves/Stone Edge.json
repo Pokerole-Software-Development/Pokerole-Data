@@ -1,0 +1,22 @@
+{
+    "Name": "Stone Edge",
+    "Type": "Rock",
+    "Power": 4,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Strength",
+    "Accuracy2": "Channel",
+    "Target": "Foe",
+    "Effect": "Single Target. Low Accuracy 2. Ranged. Lethal. High Critical. Cutter Move.",
+    "Description": "The user hurls sharp stones at the foe. The speed and weight of the stones deals a severe amount of damage.",
+    "_id": "stone-edge",
+    "Attributes": {
+        "HighCritical": true,
+        "Lethal": true,
+        "PhysicalRanged": true,
+        "AccuracyReduction": 2,
+        "CutterMove": true
+    },
+    "AddedEffects": {},
+    "Category": "Physical"
+}

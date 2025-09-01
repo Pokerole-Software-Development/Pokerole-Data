@@ -1,0 +1,18 @@
+{
+    "Name": "Mud Sport",
+    "Type": "Ground",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Special",
+    "Accuracy2": "Nature",
+    "Target": "Battlefield",
+    "Effect": "For the next 4 Rounds Electric Type attacks won't add their Power to the Damage Pool.",
+    "Description": "The user covers everything with mud, reducing the effectiveness of electric attacks made on the field.",
+    "_id": "mud-sport",
+    "Attributes": {},
+    "AddedEffects": {
+        "TerrainEffect": "MudSport"
+    },
+    "Category": "Support"
+}

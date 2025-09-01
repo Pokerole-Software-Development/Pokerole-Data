@@ -1,0 +1,111 @@
+{
+    "Number": 830,
+    "DexID": "0830",
+    "Name": "Eldegoss",
+    "Type1": "Grass",
+    "Type2": "",
+    "BaseHP": 4,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 2,
+    "MaxSpecial": 5,
+    "Insight": 3,
+    "MaxInsight": 7,
+    "Ability1": "Cotton Down",
+    "Ability2": "Regenerator",
+    "HiddenAbility": "Effect Spore",
+    "EventAbilities": "",
+    "RecommendedRank": "Amateur",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "eldegoss",
+    "DexCategory": "Cotton Bloom Pokemon",
+    "Height": {
+        "Meters": 0.5,
+        "Feet": 1.6
+    },
+    "Weight": {
+        "Kilograms": 2.5,
+        "Pounds": 5.5
+    },
+    "DexDescription": "The cotton it produces has a glossy finish so clothes made with it are insanely expensive. In nature they are calm and selfless Pokemon who allow others to take nourishment from the cotton seeds in their head.",
+    "Evolutions": [
+        {
+            "From": "Gossifleur",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "eldegoss.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Leafage"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Cotton Spore"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Sing"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Rapid Spin"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Sweet Scent"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Razor Leaf"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Round"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Leaf Tornado"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Synthesis"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Hyper Voice"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Aromatherapy"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Leaf Storm"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Cotton Guard"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Grassy Terrain"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Charm"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Leech Seed"
+        }
+    ]
+}

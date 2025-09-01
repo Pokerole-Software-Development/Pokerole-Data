@@ -1,0 +1,139 @@
+{
+    "Number": 671,
+    "DexID": "0671",
+    "Name": "Florges",
+    "Type1": "Fairy",
+    "Type2": "",
+    "BaseHP": 5,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 2,
+    "MaxDexterity": 5,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 3,
+    "MaxSpecial": 6,
+    "Insight": 3,
+    "MaxInsight": 7,
+    "Ability1": "Flower Veil",
+    "Ability2": "Symbiosis",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Expert",
+    "GenderType": "F",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "florges",
+    "DexCategory": "Garden Pokémon",
+    "Height": {
+        "Meters": 1.1,
+        "Feet": 3.6
+    },
+    "Weight": {
+        "Kilograms": 10.0,
+        "Pounds": 22.0
+    },
+    "DexDescription": "In times long past, castle rulers would invite Florges to create flower gardens to embellish their domains. Florges claim beautiful meadows as their territories, but they are kind and merciful with visitors.",
+    "Evolutions": [
+        {
+            "From": "Floette",
+            "Kind": "Stone",
+            "Item": "Shiny Stone"
+        }
+    ],
+    "Image": "florges.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Vine Whip"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Fairy Wind"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Lucky Chant"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Disarming Voice"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Flower Shield"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Razor Leaf"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Wish"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Magical Leaf"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Grassy Terrain"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Petal Blizzard"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Aromatherapy"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Misty Terrain"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Moonblast"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Calm Mind"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Grass Knot"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Dazzling Gleam"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Hidden Power"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Petal Dance"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Solar Beam"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Attract"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Substitute"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Synthesis"
+        }
+    ]
+}

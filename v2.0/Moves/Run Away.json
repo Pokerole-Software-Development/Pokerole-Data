@@ -1,0 +1,16 @@
+{
+    "Name": "Run Away",
+    "Type": "Typeless",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Athletic",
+    "Target": "User",
+    "Effect": "The User runs away from the battlefield. This effect ends the battle. Foes might try to prevent this by rolling: Dexterity + Athletic and scoring the same or more successes. If the user is Blocked this Maneuver fails.",
+    "Description": "",
+    "_id": "run-away",
+    "Attributes": {},
+    "AddedEffects": {},
+    "Category": "Support"
+}

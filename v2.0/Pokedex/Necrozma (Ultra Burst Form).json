@@ -1,0 +1,138 @@
+{
+    "Number": 800,
+    "DexID": "0800F3",
+    "Name": "Necrozma (Ultra Burst Form)",
+    "Type1": "Psychic",
+    "Type2": "Dragon",
+    "BaseHP": 5,
+    "Strength": 8,
+    "MaxStrength": 8,
+    "Dexterity": 7,
+    "MaxDexterity": 7,
+    "Vitality": 6,
+    "MaxVitality": 6,
+    "Special": 8,
+    "MaxSpecial": 8,
+    "Insight": 6,
+    "MaxInsight": 6,
+    "Ability1": "Neuroforce",
+    "Ability2": "",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Master",
+    "GenderType": "N",
+    "Legendary": true,
+    "GoodStarter": false,
+    "_id": "necrozma-ultra-burst-form",
+    "DexCategory": "Aether Foundation S.O.S Message",
+    "Height": {
+        "Meters": 7.5,
+        "Feet": 24.6
+    },
+    "Weight": {
+        "Kilograms": 230.0,
+        "Pounds": 507.1
+    },
+    "DexDescription": "Alert to national authorities we had a serious breach of security! This is an emergency! Close the port- (White Noise).",
+    "Evolutions": [
+        {
+            "From": "Necrozma",
+            "Kind": "Special"
+        }
+    ],
+    "Image": "necrozma-ultra-burst-form.png",
+    "Moves": [
+        {
+            "Learned": "Master",
+            "Name": "Moonlight"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Morning Sun"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Charge Beam"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Mirror Shot"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Metal Claw"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Confusion"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Slash"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Stored Power"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Rock Blast"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Night Slash"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Gravity"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Psycho Cut"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Power Gem"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Autotomize"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Photon Geyser (Special)"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Stealth Rock"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Iron Defense"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Wring Out"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Prismatic Laser"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Outrage"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Dragon Pulse"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Sunsteel Strike"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Moongeist Beam"
+        }
+    ]
+}

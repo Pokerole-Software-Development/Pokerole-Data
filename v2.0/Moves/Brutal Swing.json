@@ -1,0 +1,18 @@
+{
+    "Name": "Brutal Swing",
+    "Type": "Dark",
+    "Power": 2,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Brawl",
+    "Target": "All Foes",
+    "Effect": "Lethal. Target all Foes in range.",
+    "Description": "The Pokemon starts attacking at full force with its claws, anyone unfortunate enough to be in its path will end up severely wounded.",
+    "_id": "brutal-swing",
+    "Attributes": {
+        "Lethal": true
+    },
+    "AddedEffects": {},
+    "Category": "Physical"
+}

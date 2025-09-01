@@ -1,0 +1,111 @@
+{
+    "Number": 828,
+    "DexID": "0828",
+    "Name": "Thievul",
+    "Type1": "Dark",
+    "Type2": "",
+    "BaseHP": 4,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 2,
+    "MaxDexterity": 5,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 2,
+    "MaxSpecial": 5,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Run Away",
+    "Ability2": "Unburden",
+    "HiddenAbility": "Stakeout",
+    "EventAbilities": "",
+    "RecommendedRank": "Amateur",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "thievul",
+    "DexCategory": "Fox Pokemon",
+    "Height": {
+        "Meters": 1.2,
+        "Feet": 3.9
+    },
+    "Weight": {
+        "Kilograms": 19.9,
+        "Pounds": 43.9
+    },
+    "DexDescription": "They have long been hunted down by packs of Boltund because of all the trouble they cause in human settlements. They are experts at stealing food and Pokemon eggs, never leaving a trace behind.",
+    "Evolutions": [
+        {
+            "From": "Nickit",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "thievul.png",
+    "Moves": [
+        {
+            "Learned": "Beginner",
+            "Name": "Thief"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Quick Attack"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Hone Claws"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Tail Whip"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Beat Up"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Snarl"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Assurance"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Nasty Plot"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Sucker Punch"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Night Slash"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Tail Slap"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Foul Play"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Parting Shot"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Quick Guard"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Dark Pulse"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Acrobatics"
+        }
+    ]
+}

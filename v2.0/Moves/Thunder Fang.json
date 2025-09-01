@@ -1,0 +1,29 @@
+{
+    "Name": "Thunder Fang",
+    "Type": "Electric",
+    "Power": 2,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "Roll 2 Chance Dice to Flinch the foe. Roll 2 Chance Dice to Paralyze the foe.",
+    "Description": "The user lands an electrified bite on the foe. The direct current may affect the foe greatly.",
+    "_id": "thunder-fang",
+    "Attributes": {},
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Flinch",
+                "Affects": "Targets",
+                "ChanceDice": 2
+            },
+            {
+                "Type": "Paralyze",
+                "Affects": "Targets",
+                "ChanceDice": 2
+            }
+        ]
+    },
+    "Category": "Physical"
+}

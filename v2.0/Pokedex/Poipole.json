@@ -1,0 +1,111 @@
+{
+    "Number": 803,
+    "DexID": "0803",
+    "Name": "Poipole",
+    "Type1": "Poison",
+    "Type2": "",
+    "BaseHP": 3,
+    "Strength": 2,
+    "MaxStrength": 5,
+    "Dexterity": 2,
+    "MaxDexterity": 5,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 2,
+    "MaxSpecial": 5,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Beast Boost",
+    "Ability2": "",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Amateur",
+    "GenderType": "N",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "poipole",
+    "DexCategory": "Aether Foundation Log #162",
+    "Height": {
+        "Meters": 0.6,
+        "Feet": 2.0
+    },
+    "Weight": {
+        "Kilograms": 1.8,
+        "Pounds": 4.0
+    },
+    "DexDescription": "Thanks to the Recon Squad we\u2019ve managed to secure a location on the other side. UB- Adhesive have been a great help; their intelligence and friendliness would make them very popular in our world.",
+    "Evolutions": [
+        {
+            "To": "Naganadel",
+            "Kind": "Level",
+            "Move": "Dragon Pulse"
+        }
+    ],
+    "Image": "poipole.png",
+    "Moves": [
+        {
+            "Learned": "Master",
+            "Name": "Dragon Pulse"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Peck"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Growl"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Helping Hand"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Acid"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Fury Attack"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Venoshock"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Charm"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Venom Drench"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Nasty Plot"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Poison Jab"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Toxic"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Fell Stinger"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Gastro Acid"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Iron Tail"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Signal Beam"
+        }
+    ]
+}

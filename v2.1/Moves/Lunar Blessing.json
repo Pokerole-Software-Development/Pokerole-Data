@@ -1,0 +1,28 @@
+{
+    "Name": "Lunar Blessing",
+    "Type": "Psychic",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Will",
+    "Accuracy2": "Channel",
+    "Target": "All Allies",
+    "Effect": "*Target User or Target one Ally. Unique. If successful, spend 1 Will Point to activate. Complete Heal. Heal all Status Ailments on the Target. Reduce 1 success to all the Accuracy Rolls of the foe.",
+    "Description": "Put your faith in the moon. Pray during dark times and it shall bring light into your heart, guide the strayed, and blind the creatures from the shadows.",
+    "_id": "lumina-crash",
+    "Attributes": {
+        "Unique": true
+    },
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "Accuracy"
+                ],
+                "Stages": -1,
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Support"
+}

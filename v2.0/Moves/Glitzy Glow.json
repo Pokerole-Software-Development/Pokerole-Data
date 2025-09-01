@@ -1,0 +1,23 @@
+{
+    "Name": "Glitzy Glow",
+    "Type": "Psychic",
+    "Power": 3,
+    "Damage1": "Special",
+    "Damage2": "",
+    "Accuracy1": "Special",
+    "Accuracy2": "Channel",
+    "Target": "Foe",
+    "Effect": "If successful, for the next 4 Rounds the User and Allies will receive 1 less damage from Special Attacks. This effect does not stack. If the user of this Move is at its Final Stage of Evolution, this move fails.",
+    "Description": "The user surrounds itself with a glamorous light, releasing it as a psychic blast, the soft glowing particles remain in the field protecting its fabulousness.",
+    "_id": "glitzy-glow",
+    "Attributes": {},
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "GlitzyGlow",
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Special"
+}

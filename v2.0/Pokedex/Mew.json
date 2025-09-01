@@ -1,0 +1,97 @@
+{
+    "Number": 151,
+    "DexID": "0151",
+    "Name": "Mew",
+    "Type1": "Psychic",
+    "Type2": "",
+    "BaseHP": 5,
+    "Strength": 6,
+    "MaxStrength": 6,
+    "Dexterity": 6,
+    "MaxDexterity": 6,
+    "Vitality": 6,
+    "MaxVitality": 6,
+    "Special": 6,
+    "MaxSpecial": 6,
+    "Insight": 6,
+    "MaxInsight": 6,
+    "Ability1": "Synchronize",
+    "Ability2": "",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Master",
+    "GenderType": "N",
+    "Legendary": true,
+    "GoodStarter": false,
+    "_id": "mew",
+    "DexCategory": "No Data",
+    "Height": {
+        "Meters": 0.4,
+        "Feet": 1.3
+    },
+    "Weight": {
+        "Kilograms": 4.0,
+        "Pounds": 8.8
+    },
+    "DexDescription": "Recent investigations declare that this Pokemon could be the common ancestor of all actual Pokemon, but it has been extinct for centuries. Some people claim to have seen one to get their 15 minutes of fame.",
+    "Evolutions": [],
+    "Image": "mew.png",
+    "Moves": [
+        {
+            "Learned": "Master",
+            "Name": "Pound"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Reflect"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Transform"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Mega Punch"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Metronome"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Psychic"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Barrier"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Ancient Power"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Amnesia"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Me First"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Baton Pass"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Nasty Plot"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Aura Sphere"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Any Move"
+        }
+    ]
+}

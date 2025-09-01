@@ -1,0 +1,101 @@
+{
+    "Number": 779,
+    "DexID": "0779",
+    "Name": "Bruxish",
+    "Type1": "Water",
+    "Type2": "Psychic",
+    "BaseHP": 4,
+    "Strength": 3,
+    "MaxStrength": 6,
+    "Dexterity": 2,
+    "MaxDexterity": 5,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 2,
+    "MaxSpecial": 5,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Dazzling",
+    "Ability2": "Strong Jaw",
+    "HiddenAbility": "Wonder Skin",
+    "EventAbilities": "",
+    "RecommendedRank": "Amateur",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "bruxish",
+    "DexCategory": "Gnash Teeth Pokemon",
+    "Height": {
+        "Meters": 0.9,
+        "Feet": 3.0
+    },
+    "Weight": {
+        "Kilograms": 19.0,
+        "Pounds": 41.9
+    },
+    "DexDescription": "The protuberance on its head emits psychic waves that confuse its prey, while it is confused Bruxish grinds it with its sharp teeth. This grinding noise makes other Pokemon flee from the place in hurry.",
+    "Evolutions": [],
+    "Image": "bruxish.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Water Gun"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Astonish"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Confusion"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Bite"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Aqua Jet"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Disable"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Psywave"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Crunch"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Aqua Tail"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Screech"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Psychic Fangs"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Synchronoise"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Ice Fang"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Poison Fang"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Waterfall"
+        }
+    ]
+}

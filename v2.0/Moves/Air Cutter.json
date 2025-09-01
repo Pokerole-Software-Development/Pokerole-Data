@@ -1,0 +1,18 @@
+{
+    "Name": "Air Cutter",
+    "Type": "Flying",
+    "Power": 2,
+    "Damage1": "Special",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Channel",
+    "Target": "All Foes",
+    "Effect": "Target all foes in Range. High Critical.",
+    "Description": "The user will send out a wave of sharp wind that will harm anything it touches.",
+    "_id": "air-cutter",
+    "Attributes": {
+        "HighCritical": true
+    },
+    "AddedEffects": {},
+    "Category": "Special"
+}

@@ -1,0 +1,29 @@
+{
+    "Name": "Bug Buzz",
+    "Type": "Bug",
+    "Power": 3,
+    "Damage1": "Special",
+    "Damage2": "",
+    "Accuracy1": "Special",
+    "Accuracy2": "Perform",
+    "Target": "Foe",
+    "Effect": "Sound Based. Roll 1 Chance Dice to reduce foe's Sp. Defense.",
+    "Description": "The Pokemon uses its wings or part of its body to emit sound waves that harm and affect the target.",
+    "_id": "bug-buzz",
+    "Attributes": {
+        "SoundBased": true
+    },
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "SpDef"
+                ],
+                "Stages": -1,
+                "ChanceDice": 1,
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Special"
+}

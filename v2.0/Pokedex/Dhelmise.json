@@ -1,0 +1,125 @@
+{
+    "Number": 781,
+    "DexID": "0781",
+    "Name": "Dhelmise",
+    "Type1": "Ghost",
+    "Type2": "Grass",
+    "BaseHP": 5,
+    "Strength": 3,
+    "MaxStrength": 7,
+    "Dexterity": 1,
+    "MaxDexterity": 3,
+    "Vitality": 3,
+    "MaxVitality": 6,
+    "Special": 2,
+    "MaxSpecial": 5,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Steelworker",
+    "Ability2": "",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Ace",
+    "GenderType": "N",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "dhelmise",
+    "DexCategory": "Sea Creeper Pokemon",
+    "Height": {
+        "Meters": 3.9,
+        "Feet": 12.8
+    },
+    "Weight": {
+        "Kilograms": 210.0,
+        "Pounds": 463.0
+    },
+    "DexDescription": "A spirit adrift in the sea came back to life through this Pokemon that rarely leaves the deepest waters of the sea. Through the sea some Wailord carcasses have been found covered in seaweed and gashes.",
+    "Evolutions": [],
+    "Image": "dhelmise.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Growth"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Absorb"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Mega Drain"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Rapid Spin"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Astonish"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Switcheroo"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Wrap"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Gyro Ball"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Metal Sound"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Giga Drain"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Whirlpool"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Anchor Shot"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Shadow Ball"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Slam"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Energy Ball"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Heavy Slam"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Shadow Force"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Power Whip"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Surf"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Grass Knot"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Brutal Swing"
+        }
+    ]
+}

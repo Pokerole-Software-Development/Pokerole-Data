@@ -1,0 +1,132 @@
+{
+    "Number": 732,
+    "DexID": "0732",
+    "Name": "Trumbeak",
+    "Type1": "Normal",
+    "Type2": "Flying",
+    "BaseHP": 4,
+    "Strength": 2,
+    "MaxStrength": 5,
+    "Dexterity": 2,
+    "MaxDexterity": 5,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 1,
+    "MaxSpecial": 3,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Keen Eye",
+    "Ability2": "Skill Link",
+    "HiddenAbility": "Pickup",
+    "EventAbilities": "",
+    "RecommendedRank": "Standard",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "trumbeak",
+    "DexCategory": "Bugle Beak Pokémon",
+    "Height": {
+        "Meters": 0.6,
+        "Feet": 2.0
+    },
+    "Weight": {
+        "Kilograms": 14.8,
+        "Pounds": 32.6
+    },
+    "DexDescription": "This Pokémon bends its beak to produce a variety of sounds, much to the annoyance of the neighbors. It also shoots a burst of berry seeds at its foes, prey, or unsuspecting passerby.",
+    "Evolutions": [
+        {
+            "From": "Pikipek",
+            "Kind": "Level",
+            "Speed": "Medium"
+        },
+        {
+            "To": "Toucannon",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "trumbeak.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Peck"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Growl"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Echoed Voice"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Rock Smash"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Supersonic"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Pluck"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Roost"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Fury Attack"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Screech"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Drill Peck"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Bullet Seed"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Rock Blast"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Feather Dance"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Fly"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Flame Charge"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Hyper Voice"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Brave Bird"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Uproar"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Tailwind"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Mirror Move"
+        }
+    ]
+}

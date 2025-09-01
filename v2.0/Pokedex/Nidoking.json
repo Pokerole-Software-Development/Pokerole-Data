@@ -1,0 +1,91 @@
+{
+    "Number": 34,
+    "DexID": "0034",
+    "Name": "Nidoking",
+    "Type1": "Poison",
+    "Type2": "Ground",
+    "BaseHP": 5,
+    "Strength": 3,
+    "MaxStrength": 6,
+    "Dexterity": 2,
+    "MaxDexterity": 5,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 2,
+    "MaxSpecial": 5,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Poison Point",
+    "Ability2": "Rivalry",
+    "HiddenAbility": "Sheer Force",
+    "EventAbilities": "",
+    "RecommendedRank": "Ace",
+    "GenderType": "M",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "nidoking",
+    "DexCategory": "Drill Pokemon",
+    "Height": {
+        "Meters": 1.4,
+        "Feet": 4.6
+    },
+    "Weight": {
+        "Kilograms": 62.0,
+        "Pounds": 136.7
+    },
+    "DexDescription": "It is recognized by its rock-hard hide and its extended horn. Be careful with the horn as it contains venom. There are records of one trampling and destroying a radio tower that was being built on his territory.",
+    "Evolutions": [
+        {
+            "From": "Nidorino",
+            "Kind": "Stone",
+            "Item": "Moon Stone"
+        }
+    ],
+    "Image": "nidoking.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Peck"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Poison Sting"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Focus Energy"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Double Kick"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Chip Away"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Earth Power"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Drill Run"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Megahorn"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Poison Tail"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Thrash"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Head Smash"
+        }
+    ]
+}

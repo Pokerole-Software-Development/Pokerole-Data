@@ -1,0 +1,32 @@
+{
+    "Name": "Jungle Healing",
+    "Type": "Grass",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Special",
+    "Accuracy2": "Nature",
+    "Target": "User and Allies",
+    "Effect": "Target User and Allies in Range. Cure Status Ailments (Burns, Freeze, Paralysis, Poisons, & Sleep) on the Targets. Restore 1 HP to the targets. If successful, spend 1 Will Point to activate.",
+    "Description": "A stream of life force from plants and trees flows into the user and its allies.",
+    "_id": "jungle-healing",
+    "Attributes": {},
+    "AddedEffects": {
+        "AilmentHeal": [
+            "Burn1",
+            "Burn2",
+            "Burn3",
+            "Freeze",
+            "Paralysis",
+            "Poison",
+            "BadlyPoison",
+            "Sleep"
+        ],
+        "Heal": {
+            "Type": "Basic",
+            "Target": "Targets",
+            "WillPointCost": 1
+        }
+    },
+    "Category": "Support"
+}

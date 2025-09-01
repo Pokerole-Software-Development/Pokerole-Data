@@ -1,0 +1,136 @@
+{
+    "Number": 903,
+    "DexID": "0903",
+    "Name": "Sneasler",
+    "Type1": "Poison",
+    "Type2": "Fighting",
+    "BaseHP": 5,
+    "Strength": 3,
+    "MaxStrength": 7,
+    "Dexterity": 3,
+    "MaxDexterity": 7,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 1,
+    "MaxSpecial": 3,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Pressure",
+    "Ability2": "Poison Touch",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Expert",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "sneasler",
+    "DexCategory": "Free Climb Pokémon",
+    "Height": {
+        "Meters": 1.5,
+        "Feet": 4.9
+    },
+    "Weight": {
+        "Kilograms": 62.0,
+        "Pounds": 136.7
+    },
+    "DexDescription": "Sneasler were great hunters of the Hisuian mountain range. However, as the climate got colder and snow covered the mountains, their prey moved or perished. Weavile were more successful and replaced them.",
+    "Evolutions": [
+        {
+            "From": "Sneasel (Hisuian Form)",
+            "Kind": "Level",
+            "Item": "Razor Claw",
+            "Special": "Sunlight"
+        }
+    ],
+    "Image": "sneasler.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Leer"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Scratch"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Taunt"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Quick Attack"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Rock Smash"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Fling"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Fury Swipes"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Acid Spray"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Mach Punch"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Agility"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Metal Claw"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Hone Claws"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Poison Jab"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Screech"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Slash"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Brick Break"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Toxic"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Close Combat"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Dire Claw"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Gunk Shot"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "X-Scissor"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Giga Impact"
+        }
+    ]
+}

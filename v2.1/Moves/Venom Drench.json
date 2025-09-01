@@ -1,0 +1,16 @@
+{
+    "Name": "Venom Drench",
+    "Type": "Poison",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Special",
+    "Accuracy2": "Channel",
+    "Target": "All Foes",
+    "Effect": "If an affected foe is poisoned or becomes poisoned in the same Round you used this Move then Reduce its Strength, Special, and Dexterity.",
+    "Description": "Foes are drenched in an odd poisonous liquid that targets their weakened immune systems.",
+    "_id": "venom-drench",
+    "Attributes": {},
+    "AddedEffects": {},
+    "Category": "Support"
+}

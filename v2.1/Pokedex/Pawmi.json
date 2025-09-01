@@ -1,0 +1,119 @@
+{
+    "Number": 921,
+    "DexID": "0921",
+    "Name": "Pawmi",
+    "Type1": "Electric",
+    "Type2": "",
+    "BaseHP": 3,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 1,
+    "MaxVitality": 3,
+    "Special": 1,
+    "MaxSpecial": 3,
+    "Insight": 1,
+    "MaxInsight": 3,
+    "Ability1": "Static",
+    "Ability2": "Natural Cure",
+    "HiddenAbility": "Iron Fist",
+    "EventAbilities": "",
+    "RecommendedRank": "Starter",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "pawmi",
+    "DexCategory": "Mouse Pokémon",
+    "Height": {
+        "Meters": 0.3,
+        "Feet": 1.0
+    },
+    "Weight": {
+        "Kilograms": 2.5,
+        "Pounds": 5.5
+    },
+    "DexDescription": "The electric sacs on its cheeks are still underdeveloped. However, its front paws are able to discharge electricity. Pawmi recharge by rubbing their front paws on the sacs.",
+    "Evolutions": [
+        {
+            "To": "Pawmo",
+            "Kind": "Level",
+            "Speed": "Fast"
+        }
+    ],
+    "Image": "pawmi.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Scratch"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Growl"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Thunder Shock"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Quick Attack"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Charge"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Nuzzle"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Dig"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Bite"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Spark"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Thunder Wave"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Entrainment"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Slam"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Discharge"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Agility"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Wild Charge"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Sweet Kiss"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Fake Out"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Helping Hand"
+        }
+    ]
+}

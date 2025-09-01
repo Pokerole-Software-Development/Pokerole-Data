@@ -1,0 +1,118 @@
+{
+    "Number": 774,
+    "DexID": "0774F1",
+    "Name": "Minior Core",
+    "Type1": "Rock",
+    "Type2": "Flying",
+    "BaseHP": 4,
+    "Strength": 3,
+    "MaxStrength": 6,
+    "Dexterity": 3,
+    "MaxDexterity": 7,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 3,
+    "MaxSpecial": 6,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Shields Down",
+    "Ability2": "",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Beginner",
+    "GenderType": "N",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "minior-core",
+    "DexCategory": "Meteor Pokemon",
+    "Height": {
+        "Meters": 0.3,
+        "Feet": 1.0
+    },
+    "Weight": {
+        "Kilograms": 0.3,
+        "Pounds": 0.7
+    },
+    "DexDescription": "Without its shell Minior can move faster. They have playful and colorful personalities. If a Minior wants to regrow their shell they must go to the stratosphere for a few days. Some of them never return, though.",
+    "Evolutions": [
+        {
+            "From": "Minior",
+            "Kind": "Form"
+        }
+    ],
+    "Image": "minior-core.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Defense Curl"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Rollout"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Confuse Ray"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Swift"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Ancient Power"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Self Destruct"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Stealth Rock"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Take Down"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Autotomize"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Cosmic Power"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Power Gem"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Double-Edge"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Shell Smash"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Explosion"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Light Screen"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Reflect"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Acrobatics"
+        }
+    ]
+}

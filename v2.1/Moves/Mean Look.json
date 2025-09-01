@@ -1,0 +1,26 @@
+{
+    "Name": "Mean Look",
+    "Type": "Normal",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Tough",
+    "Accuracy2": "Intimidate",
+    "Target": "Foe",
+    "Effect": "Single Target. Blocks. Whole Scene Duration.",
+    "Description": "The Pokemon gives a menacing look that freezes the foe on the spot with intense fear.",
+    "_id": "mean-look",
+    "Attributes": {
+        "BlockDamagePool": 0,
+        "Duration": "wholeScene"
+    },
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Block",
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Support"
+}

@@ -1,0 +1,26 @@
+{
+    "Name": "Flare Blitz",
+    "Type": "Fire",
+    "Power": 5,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Strength",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "Recoil. Roll 1 Chance Dice to Apply Burn 3 to the foe.",
+    "Description": "The user sets itself on fire, recklessly charging against the target with a brutal strike.",
+    "_id": "flare-blitz",
+    "Attributes": {
+        "Recoil": true
+    },
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Burn3",
+                "Affects": "Targets",
+                "ChanceDice": 1
+            }
+        ]
+    },
+    "Category": "Physical"
+}

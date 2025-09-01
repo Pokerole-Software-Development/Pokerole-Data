@@ -1,0 +1,26 @@
+{
+    "Name": "Volt Tackle",
+    "Type": "Electric",
+    "Power": 5,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Strength",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "Recoil. Roll 1 Chance Dice to Paralyze the Foe.",
+    "Description": "The user surrounds itself with big bolts of electricity, then it crashes against the foe.",
+    "_id": "volt-tackle",
+    "Attributes": {
+        "Recoil": true
+    },
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Paralyze",
+                "Affects": "Targets",
+                "ChanceDice": 1
+            }
+        ]
+    },
+    "Category": "Physical"
+}

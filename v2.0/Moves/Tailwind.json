@@ -1,0 +1,23 @@
+{
+    "Name": "Tailwind",
+    "Type": "Flying",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Insight",
+    "Accuracy2": "Nature",
+    "Target": "Battlefield",
+    "Effect": "For the Next 4 Rounds, Increase the Dexterity of the User and All Allies in the field by 2.",
+    "Description": "User flaps its wings and casts a turbulent wind that helps the team move significantly faster.",
+    "_id": "tailwind",
+    "Attributes": {},
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Tailwind",
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Support"
+}

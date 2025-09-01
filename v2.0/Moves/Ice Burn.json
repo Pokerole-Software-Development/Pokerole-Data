@@ -1,0 +1,28 @@
+{
+    "Name": "Ice Burn",
+    "Type": "Ice",
+    "Power": 6,
+    "Damage1": "Special",
+    "Damage2": "",
+    "Accuracy1": "Special",
+    "Accuracy2": "Channel",
+    "Target": "Foe",
+    "Effect": "Lethal. Ranged. Charge Move. Roll 3 Chance Dice to Burn the Foe. -1 Accuracy.",
+    "Description": "The user appears to become a block of ice, then it releases itself from the ice with a devastating explosion. The exploding ice shards and fire blow all over the battlefield.",
+    "_id": "ice-burn",
+    "Attributes": {
+        "Lethal": true,
+        "Charge": true,
+        "AccuracyReduction": 1
+    },
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Burn",
+                "Affects": "Targets",
+                "ChanceDice": 3
+            }
+        ]
+    },
+    "Category": "Special"
+}

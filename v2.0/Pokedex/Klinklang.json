@@ -1,0 +1,127 @@
+{
+    "Number": 601,
+    "DexID": "0601",
+    "Name": "Klinklang",
+    "Type1": "Steel",
+    "Type2": "",
+    "BaseHP": 5,
+    "Strength": 3,
+    "MaxStrength": 6,
+    "Dexterity": 2,
+    "MaxDexterity": 5,
+    "Vitality": 3,
+    "MaxVitality": 6,
+    "Special": 2,
+    "MaxSpecial": 5,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Plus",
+    "Ability2": "Minus",
+    "HiddenAbility": "Clear Body",
+    "EventAbilities": "",
+    "RecommendedRank": "Ace",
+    "GenderType": "N",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "klinklang",
+    "DexCategory": "Gear Pokemon",
+    "Height": {
+        "Meters": 0.6,
+        "Feet": 2.0
+    },
+    "Weight": {
+        "Kilograms": 81.0,
+        "Pounds": 178.6
+    },
+    "DexDescription": "The gear with the red core rotates at high speed for a quick energy charge. The mini gears shoot rays through the spikes around it. This inorganic Pokemon will trap and crush foes between its gears.",
+    "Evolutions": [
+        {
+            "From": "Klang",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "klinklang.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Vice Grip"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Charge"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Thunder Shock"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Gear Grind"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Gear Up"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Magnetic Flux"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Bind"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Charge Beam"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Autotomize"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Mirror Shot"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Screech"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Discharge"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Metal Sound"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Shift Gear"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Lock-On"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Zap Cannon"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Hyper Beam"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Iron Defense"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Gravity"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Magnet Rise"
+        }
+    ]
+}

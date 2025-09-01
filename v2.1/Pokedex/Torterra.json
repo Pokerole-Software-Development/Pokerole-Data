@@ -1,0 +1,147 @@
+{
+    "Number": 389,
+    "DexID": "0389",
+    "Name": "Torterra",
+    "Type1": "Grass",
+    "Type2": "Ground",
+    "BaseHP": 6,
+    "Strength": 3,
+    "MaxStrength": 6,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 3,
+    "MaxVitality": 6,
+    "Special": 2,
+    "MaxSpecial": 5,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Overgrow",
+    "Ability2": "Shell Armor",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Expert",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "torterra",
+    "DexCategory": "Continent Pokémon",
+    "Height": {
+        "Meters": 2.2,
+        "Feet": 7.2
+    },
+    "Weight": {
+        "Kilograms": 620,
+        "Pounds": 1366
+    },
+    "DexDescription": "Torterra travel in groups, mistaken as moving forests. Many Pokémon make their nest on its back and live there for their entire lives. Ancient people thought that they lived on the back of a giant Torterra.",
+    "Evolutions": [
+        {
+            "From": "Grotle",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "torterra.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Withdraw"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Absorb"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Leafage"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Growth"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Razor Leaf"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Curse"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Bite"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Sleep Powder"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Bulldoze"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Mega Drain"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Leech Seed"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Leaf Blade"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Crunch"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Synthesis"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Giga Drain"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Earthquake"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Wood Hammer"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Headlong Rush"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Double-Edge"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Leaf Storm"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Wide Guard"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Heavy Slam"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Outrage"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Frenzy Plant"
+        }
+    ]
+}

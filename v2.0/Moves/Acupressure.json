@@ -1,0 +1,16 @@
+{
+    "Name": "Acupressure",
+    "Type": "Normal",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Nature",
+    "Target": "User",
+    "Effect": "Increase a Random Attribute. If this Move is used again, the previous Attribute Modifier is removed.",
+    "Description": "The user starts pushing its pressure points, releasing the energy that was stored in its body.",
+    "_id": "acupressure",
+    "Attributes": {},
+    "AddedEffects": {},
+    "Category": "Support"
+}

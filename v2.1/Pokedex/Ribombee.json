@@ -1,0 +1,143 @@
+{
+    "Number": 743,
+    "DexID": "0743",
+    "Name": "Ribombee",
+    "Type1": "Bug",
+    "Type2": "Fairy",
+    "BaseHP": 4,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 3,
+    "MaxDexterity": 7,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 3,
+    "MaxSpecial": 6,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Sweet Veil",
+    "Ability2": "Shield Dust",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Standard",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "ribombee",
+    "DexCategory": "Bee Fly Pokémon",
+    "Height": {
+        "Meters": 0.2,
+        "Feet": 0.7
+    },
+    "Weight": {
+        "Kilograms": 0.2,
+        "Pounds": 0.4
+    },
+    "DexDescription": "The pollen puff of a happy Ribombee is very nutritious and valuable supplement in Alola. It dislikes rain, for it wets its hair and makes it unable to fly, so if you see a Ribombee you know the weather will be nice.",
+    "Evolutions": [
+        {
+            "From": "Cutiefly",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "ribombee.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Absorb"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Fairy Wind"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Stun Spore"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Sweet Scent"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Draining Kiss"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Struggle Bug"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Sticky Web"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Aromatic Mist"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Powder"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Covet"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Silver Wind"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Aromatherapy"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Light Screen"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Reflect"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Switcheroo"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Dazzling Gleam"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Pollen Puff"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Double Team"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Bug Buzz"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Quiver Dance"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Moonblast"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Tailwind"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Skill Swap"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Baton Pass"
+        }
+    ]
+}

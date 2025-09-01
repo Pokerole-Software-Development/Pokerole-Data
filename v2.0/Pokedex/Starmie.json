@@ -1,0 +1,87 @@
+{
+    "Number": 121,
+    "DexID": "0121",
+    "Name": "Starmie",
+    "Type1": "Water",
+    "Type2": "Psychic",
+    "BaseHP": 4,
+    "Strength": 2,
+    "MaxStrength": 5,
+    "Dexterity": 3,
+    "MaxDexterity": 6,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 3,
+    "MaxSpecial": 6,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Illuminate",
+    "Ability2": "Natural Cure",
+    "HiddenAbility": "Analytic",
+    "EventAbilities": "",
+    "RecommendedRank": "Amateur",
+    "GenderType": "N",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "starmie",
+    "DexCategory": "Mysterious Pokemon",
+    "Height": {
+        "Meters": 1.1,
+        "Feet": 3.6
+    },
+    "Weight": {
+        "Kilograms": 80.0,
+        "Pounds": 176.4
+    },
+    "DexDescription": "This Pokemon has been given the nickname \u201cthe gem of the sea.\u201d It swims through water by spinning its star-shaped body as if it were a propeller on a ship. The core at the center glows with different colors.",
+    "Evolutions": [
+        {
+            "From": "Staryu",
+            "Kind": "Stone",
+            "Item": "Water Stone"
+        }
+    ],
+    "Image": "starmie.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Spotlight"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Water Gun"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Recover"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Swift"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Rapid Spin"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Confuse Ray"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Hydro Pump"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Signal Beam"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Thunder Wave"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Twister"
+        }
+    ]
+}

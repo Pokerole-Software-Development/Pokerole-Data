@@ -1,0 +1,64 @@
+{
+    "Number": 11,
+    "DexID": "0011",
+    "Name": "Metapod",
+    "Type1": "Bug",
+    "Type2": "",
+    "BaseHP": 4,
+    "Strength": 1,
+    "MaxStrength": 3,
+    "Dexterity": 1,
+    "MaxDexterity": 3,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 1,
+    "MaxSpecial": 3,
+    "Insight": 1,
+    "MaxInsight": 3,
+    "Ability1": "Shed Skin",
+    "Ability2": "",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Beginner",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "metapod",
+    "DexCategory": "Cocoon Pokemon",
+    "Height": {
+        "Meters": 0.7,
+        "Feet": 2.3
+    },
+    "Weight": {
+        "Kilograms": 9.9,
+        "Pounds": 21.8
+    },
+    "DexDescription": "Its shell can be as hard as an iron slab. A Metapod does not move very much because it is preparing its soft innards for evolution inside the shell. It is known as one of the fastest evolving Pokemon in the world.",
+    "Evolutions": [
+        {
+            "From": "Caterpie",
+            "Kind": "Level",
+            "Speed": "Fast"
+        },
+        {
+            "To": "Butterfree",
+            "Kind": "Level",
+            "Speed": "Fast"
+        }
+    ],
+    "Image": "metapod.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Harden"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Iron Defense"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Electroweb"
+        }
+    ]
+}

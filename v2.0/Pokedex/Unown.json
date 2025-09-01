@@ -1,0 +1,45 @@
+{
+    "Number": 201,
+    "DexID": "0201",
+    "Name": "Unown",
+    "Type1": "Psychic",
+    "Type2": "",
+    "BaseHP": 4,
+    "Strength": 2,
+    "MaxStrength": 5,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 2,
+    "MaxSpecial": 5,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Levitate",
+    "Ability2": "",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Starter",
+    "GenderType": "N",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "unown",
+    "DexCategory": "Symbol Pokemon",
+    "Height": {
+        "Meters": 0.5,
+        "Feet": 1.6
+    },
+    "Weight": {
+        "Kilograms": 5.0,
+        "Pounds": 11.0
+    },
+    "DexDescription": "There are depictions of it in ancient ruins. When Unowns are gathered together, it is said that a strange power capable of anything emerges. They are all shaped like letters, each one of them with a unique power.",
+    "Evolutions": [],
+    "Image": "unown.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Hidden Power"
+        }
+    ]
+}

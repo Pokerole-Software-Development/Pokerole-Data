@@ -1,0 +1,20 @@
+{
+    "Name": "Rain Dance",
+    "Type": "Water",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Special",
+    "Accuracy2": "Nature",
+    "Target": "Battlefield",
+    "Effect": "Target Battlefield. Activate Rain Weather. Duration 4 Rounds.",
+    "Description": "The user performs a curious mystic dance that summons a heavy rainfall.",
+    "_id": "rain-dance",
+    "Attributes": {
+        "Duration": 4
+    },
+    "AddedEffects": {
+        "TerrainEffect": "Rain"
+    },
+    "Category": "Support"
+}

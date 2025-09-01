@@ -1,0 +1,26 @@
+{
+    "Name": "Mud Slap",
+    "Type": "Ground",
+    "Power": 1,
+    "Damage1": "Special",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Channel",
+    "Target": "Foe",
+    "Effect": "Reduce the foe's Accuracy.",
+    "Description": "The user hurls some mud to the face of the foe, leaving it unable to see clearly.",
+    "_id": "mud-slap",
+    "Attributes": {},
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "Accuracy"
+                ],
+                "Stages": -1,
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Special"
+}

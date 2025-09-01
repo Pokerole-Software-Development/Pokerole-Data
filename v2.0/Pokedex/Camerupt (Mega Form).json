@@ -1,0 +1,123 @@
+{
+    "Number": 323,
+    "DexID": "0323M1",
+    "Name": "Camerupt (Mega Form)",
+    "Type1": "Fire",
+    "Type2": "Ground",
+    "BaseHP": 5,
+    "Strength": 3,
+    "MaxStrength": 7,
+    "Dexterity": 1,
+    "MaxDexterity": 2,
+    "Vitality": 3,
+    "MaxVitality": 6,
+    "Special": 4,
+    "MaxSpecial": 8,
+    "Insight": 3,
+    "MaxInsight": 6,
+    "Ability1": "Sheer Force",
+    "Ability2": "",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Ace",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "camerupt-mega-form",
+    "DexCategory": "Eruption Pokemon",
+    "Height": {
+        "Meters": 2.5,
+        "Feet": 8.2
+    },
+    "Weight": {
+        "Kilograms": 320.5,
+        "Pounds": 706.6
+    },
+    "DexDescription": "The power of the Mega Stone melts its two humps into a single one. The single hump is heavier making it slower, but its newly renewed attitude makes the hump erupt in heavy bursts of molten lava.",
+    "Evolutions": [
+        {
+            "From": "Camerupt",
+            "Kind": "Mega",
+            "Item": "Cameruptite"
+        }
+    ],
+    "Image": "camerupt-mega-form.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Growl"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Ember"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Magnitude"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Focus Energy"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Flame Burst"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Amnesia"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Lava Plume"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Earth Power"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Curse"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Take Down"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Yawn"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Rock Slide"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Earthquake"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Eruption"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Fissure"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Stealth Rock"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Self Destruct"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Heat Wave"
+        }
+    ]
+}

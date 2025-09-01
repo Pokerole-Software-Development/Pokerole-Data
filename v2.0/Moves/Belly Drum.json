@@ -1,0 +1,31 @@
+{
+    "Name": "Belly Drum",
+    "Type": "Normal",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Tough",
+    "Accuracy2": "Perform",
+    "Target": "User",
+    "Effect": "User deals Damage to itself equal to Half of its total HP rounded down. Increase User's Strength by 3.",
+    "Description": "The Pokemon Roars a war cry while hitting its Belly.",
+    "_id": "belly-drum",
+    "Attributes": {},
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "Strength"
+                ],
+                "Stages": 3,
+                "Affects": "User"
+            }
+        ],
+        "FixedDamage": {
+            "Type": "MaxHpPercentage",
+            "Value": 0.5,
+            "Target": "Targets"
+        }
+    },
+    "Category": "Support"
+}

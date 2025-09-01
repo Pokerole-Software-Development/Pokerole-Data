@@ -1,0 +1,140 @@
+{
+    "Number": 169,
+    "DexID": "0169",
+    "Name": "Crobat",
+    "Type1": "Poison",
+    "Type2": "Flying",
+    "BaseHP": 5,
+    "Strength": 2,
+    "MaxStrength": 5,
+    "Dexterity": 3,
+    "MaxDexterity": 7,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 2,
+    "MaxSpecial": 5,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Inner Focus",
+    "Ability2": "Infiltrator",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Expert",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "crobat",
+    "DexCategory": "Bat Pokémon",
+    "Height": {
+        "Meters": 1.8,
+        "Feet": 5.9
+    },
+    "Weight": {
+        "Kilograms": 75.0,
+        "Pounds": 165.3
+    },
+    "DexDescription": "Very rare in the wild. People have called it a vampire. It sneaks up on its intended prey using wings that barely make a sound. Crobat is a surprisingly loyal companion, and playful despite its appearance.",
+    "Evolutions": [
+        {
+            "From": "Golbat",
+            "Kind": "Stat",
+            "Stat": "Happiness",
+            "Value": 4
+        }
+    ],
+    "Image": "crobat.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Absorb"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Supersonic"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Astonish"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Bite"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Wing Attack"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Screech"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Air Cutter"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Confuse Ray"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Swift"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Poison Fang"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Leech Life"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Quick Guard"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Tailwind"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Mean Look"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Haze"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Toxic"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Venoshock"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Acrobatics"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Cross Poison"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Air Slash"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Heat Wave"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Nasty Plot"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Dual Wingbeat"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "Name": "Aura Wheel",
+    "Type": "Electric",
+    "Power": 4,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "If successful, Increase user's Dexterity. If the user is in \u201cHangry\u201d Form this Move is considered to be Dark-Type.",
+    "Description": "The Pokemon happily runs into a wheel made of electricity that strikes the foe. If the user is feeling hungry the wheel's energy is replaced by a dark aura.",
+    "_id": "aura-wheel",
+    "Attributes": {},
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "Dexterity"
+                ],
+                "Stages": 1,
+                "Affects": "User"
+            }
+        ]
+    },
+    "Category": "Physical"
+}

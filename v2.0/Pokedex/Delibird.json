@@ -1,0 +1,85 @@
+{
+    "Number": 225,
+    "DexID": "0225",
+    "Name": "Delibird",
+    "Type1": "Ice",
+    "Type2": "Flying",
+    "BaseHP": 4,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 2,
+    "MaxDexterity": 5,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Vital Spirit",
+    "Ability2": "Hustle",
+    "HiddenAbility": "Insomnia",
+    "EventAbilities": "",
+    "RecommendedRank": "Amateur",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "delibird",
+    "DexCategory": "Delivery Pokemon",
+    "Height": {
+        "Meters": 0.9,
+        "Feet": 3.0
+    },
+    "Weight": {
+        "Kilograms": 16.0,
+        "Pounds": 35.3
+    },
+    "DexDescription": "Delibird is always carrying food for its chicks and people in need. They are related to the image of Santa Claus since they always carry presents for their good and naughty kids in their bag-looking tail.",
+    "Evolutions": [],
+    "Image": "delibird.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Present"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Fake Out"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Icy Wind"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Spikes"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Ice Ball"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Drill Peck"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Freeze Dry"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Future Sight"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Aurora Veil"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Ice Shard"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Sky Attack"
+        }
+    ]
+}

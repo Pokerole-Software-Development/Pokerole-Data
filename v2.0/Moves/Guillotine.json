@@ -1,0 +1,24 @@
+{
+    "Name": "Guillotine",
+    "Type": "Normal",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "The target is dealt damage equal to its remaining HP plus 1 Lethal. -5 Accuracy.",
+    "Description": "The Pokemon uses the sharpest part of its body to almost snap the neck of its foe. It is a devastating attack. The foe must be lucky to get out of it alive.",
+    "_id": "guillotine",
+    "Attributes": {
+        "Lethal": true,
+        "AccuracyReduction": 5
+    },
+    "AddedEffects": {
+        "FixedDamage": {
+            "Type": "OneHitKO",
+            "Target": "Targets"
+        }
+    },
+    "Category": "Physical"
+}

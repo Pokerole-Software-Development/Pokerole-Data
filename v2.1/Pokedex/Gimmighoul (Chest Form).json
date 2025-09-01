@@ -1,0 +1,91 @@
+{
+    "Number": 999,
+    "DexID": "0999F1",
+    "Name": "Gimmighoul (Chest Form)",
+    "Type1": "Ghost",
+    "Type2": "",
+    "BaseHP": 3,
+    "Strength": 1,
+    "MaxStrength": 3,
+    "Dexterity": 1,
+    "MaxDexterity": 2,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 2,
+    "MaxSpecial": 5,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Rattled",
+    "Ability2": "",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Rookie",
+    "GenderType": "N",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "gimmighoul-chest-form",
+    "DexCategory": "Coin Chest Pokémon",
+    "Height": {
+        "Meters": 0.3,
+        "Feet": 1.0
+    },
+    "Weight": {
+        "Kilograms": 5.0,
+        "Pounds": 11.0
+    },
+    "DexDescription": "This Pokémon is said to have been born inside a treasure chest long ago. It sucks the life-force out of any scoundrels who try to steal the treasure. Sometimes it gets left in pawn shops since few realize it's a Pokémon.",
+    "Evolutions": [
+        {
+            "To": "Gholdengo",
+            "Kind": "Special",
+            "Special": "Fill the gold chest"
+        }
+    ],
+    "Image": "gimmighoul-chest-form.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Astonish"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Protect"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Night Shade"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Confuse Ray"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Light Screen"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Reflect"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Shadow Ball"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Substitute"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Nasty Plot"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Power Gem"
+        }
+    ]
+}

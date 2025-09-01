@@ -1,0 +1,27 @@
+{
+    "Name": "Speed Swap",
+    "Type": "Psychic",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Insight",
+    "Accuracy2": "Channel",
+    "Target": "Foe",
+    "Effect": "Single Target. Switch the User's Dexterity with the Target's.",
+    "Description": "The Pokémon employs its psychic power to make the opponent perceive events as if they were happening faster or slower according to the user's own speed.",
+    "_id": "speed-swap",
+    "Attributes": {},
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "SpeedSwap",
+                "Affects": "User"
+            },
+            {
+                "Type": "SpeedSwap",
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Support"
+}

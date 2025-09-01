@@ -1,0 +1,131 @@
+{
+    "Number": 719,
+    "DexID": "0719",
+    "Name": "Diancie",
+    "Type1": "Rock",
+    "Type2": "Fairy",
+    "BaseHP": 4,
+    "Strength": 6,
+    "MaxStrength": 6,
+    "Dexterity": 4,
+    "MaxDexterity": 4,
+    "Vitality": 8,
+    "MaxVitality": 8,
+    "Special": 6,
+    "MaxSpecial": 6,
+    "Insight": 8,
+    "MaxInsight": 8,
+    "Ability1": "Clear Body",
+    "Ability2": "",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Pro",
+    "GenderType": "N",
+    "Legendary": true,
+    "GoodStarter": false,
+    "_id": "diancie",
+    "DexCategory": "Registered as #703 Carbink",
+    "Height": {
+        "Meters": 0.7,
+        "Feet": 2.3
+    },
+    "Weight": {
+        "Kilograms": 8.8,
+        "Pounds": 19.4
+    },
+    "DexDescription": "The popular saying goes like this: \u201cIf you put a Carbon under pressure you will get a Diamond\u201d But it surely was not referring to a Pokemon... or was it?",
+    "Evolutions": [
+        {
+            "To": "Diancie (Mega Form)",
+            "Kind": "Mega",
+            "Item": "Diancite"
+        }
+    ],
+    "Image": "diancie.png",
+    "Moves": [
+        {
+            "Learned": "Master",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Harden"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Rock Throw"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Sharpen"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Smack Down"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Reflect"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Stealth Rock"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Guard Split"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Ancient Power"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Flail"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Skill Swap"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Power Gem"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Trick Room"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Stone Edge"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Moonblast"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Diamond Storm"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Light Screen"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Safeguard"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Magnet Rise"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Iron Defense"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Dazzling Gleam"
+        }
+    ]
+}

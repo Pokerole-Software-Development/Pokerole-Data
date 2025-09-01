@@ -1,0 +1,22 @@
+{
+    "Name": "Shadow Force",
+    "Type": "Ghost",
+    "Power": 5,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Strength",
+    "Accuracy2": "Stealth",
+    "Target": "Foe",
+    "Effect": "Single Target. Charge Move. Out of Range while Charging. Lethal. Unique. Ignore Defenses and any Shield Moves and Force Fields active on the Target. Damage dealt by this Move cannot be healed for 24 hrs.",
+    "Description": "The Pokémon disappears into a dark dimension to strike its foe at the next opportunity. The blow will hurt the target not on their body, but directly on their soul.",
+    "_id": "shadow-force",
+    "Attributes": {
+        "Lethal": true,
+        "Charge": true,
+        "IgnoreShield": true,
+        "IgnoreDefenses": true,
+        "Unique": true
+    },
+    "AddedEffects": {},
+    "Category": "Physical"
+}

@@ -1,0 +1,18 @@
+{
+    "Name": "Steel Beam",
+    "Type": "Steel",
+    "Power": 6,
+    "Damage1": "Special",
+    "Damage2": "",
+    "Accuracy1": "Special",
+    "Accuracy2": "Channel",
+    "Target": "Foe",
+    "Effect": "Recoil.",
+    "Description": "A concentrated ray of light that is capable of melting even the thickest steel plates. Unfortunately the user will also have trouble handling this power.",
+    "_id": "steel-beam",
+    "Attributes": {
+        "Recoil": true
+    },
+    "AddedEffects": {},
+    "Category": "Special"
+}

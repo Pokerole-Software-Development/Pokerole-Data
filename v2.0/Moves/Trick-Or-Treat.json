@@ -1,0 +1,16 @@
+{
+    "Name": "Trick-Or-Treat",
+    "Type": "Ghost",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Will",
+    "Accuracy2": "Allure",
+    "Target": "Foe",
+    "Effect": "Add the Ghost type to Target's Type. (ie. Meowth will now by Normal/Ghost Charizard will now be Fire/Flying/Ghost) If the Pokemon already has a third type attached, replace it.",
+    "Description": "The Pokemon takes the target Trick-or-Treating. The target gets a ghost costume which somehow cannot be removed without a medium's help.",
+    "_id": "trick-or-treat",
+    "Attributes": {},
+    "AddedEffects": {},
+    "Category": "Support"
+}

@@ -1,0 +1,127 @@
+{
+    "Number": 892,
+    "DexID": "0892F2",
+    "Name": "Urshifu (Rapid Strike Style Form)",
+    "Type1": "Fighting",
+    "Type2": "Water",
+    "BaseHP": 6,
+    "Strength": 7,
+    "MaxStrength": 7,
+    "Dexterity": 6,
+    "MaxDexterity": 6,
+    "Vitality": 6,
+    "MaxVitality": 6,
+    "Special": 4,
+    "MaxSpecial": 4,
+    "Insight": 4,
+    "MaxInsight": 4,
+    "Ability1": "Unseen Fist",
+    "Ability2": "",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Ace",
+    "GenderType": "",
+    "Legendary": true,
+    "GoodStarter": false,
+    "_id": "urshifu-rapid-strike-style-form",
+    "DexCategory": "Wushu Pokémon",
+    "Height": {
+        "Meters": 1.9,
+        "Feet": 6.2
+    },
+    "Weight": {
+        "Kilograms": 105,
+        "Pounds": 231.4
+    },
+    "DexDescription": "This Pokémon passed through a series of trials inside a temple of water. Its style focuses on a series of rapid stikes to steadily weaken its foes. It's a firm believer in using its opponent's strength against it.",
+    "Evolutions": [
+        {
+            "From": "Kubfu",
+            "Kind": "Special",
+            "Special": "Finishing Trials of Water"
+        }
+    ],
+    "Image": "urshifu-rapid-strike-style-form.png",
+    "Moves": [
+        {
+            "Learned": "Ace",
+            "Name": "Surging Strikes"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Aqua Jet"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Rock Smash"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Leer"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Endure"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Focus Energy"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Aerial Ace"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Scary Face"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Headbutt"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Brick Break"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Detect"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Bulk Up"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Iron Head"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Dynamic Punch"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Counter"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Close Combat"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Focus Punch"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Waterfall"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Ice Punch"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Acrobatics"
+        }
+    ]
+}

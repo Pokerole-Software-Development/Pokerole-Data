@@ -1,0 +1,75 @@
+{
+    "Number": 301,
+    "DexID": "0301",
+    "Name": "Delcatty",
+    "Type1": "Normal",
+    "Type2": "",
+    "BaseHP": 4,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 2,
+    "MaxDexterity": 5,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Cute Charm",
+    "Ability2": "Normalize",
+    "HiddenAbility": "Wonder Skin",
+    "EventAbilities": "",
+    "RecommendedRank": "Beginner",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "delcatty",
+    "DexCategory": "Prim Pokemon",
+    "Height": {
+        "Meters": 1.1,
+        "Feet": 3.6
+    },
+    "Weight": {
+        "Kilograms": 32.6,
+        "Pounds": 71.9
+    },
+    "DexDescription": "They like to live without restrictions, spending their time eating and sleeping whenever they feel like it. Popular among females. Delcatties love clean places, good food and to groom themselves.",
+    "Evolutions": [
+        {
+            "From": "Skitty",
+            "Kind": "Stone",
+            "Item": "Moon Stone"
+        }
+    ],
+    "Image": "delcatty.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Fake Out"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Attract"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Double Slap"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Sing"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Baton Pass"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Wish"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Cosmic Power"
+        }
+    ]
+}

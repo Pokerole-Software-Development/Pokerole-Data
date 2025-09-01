@@ -1,0 +1,28 @@
+{
+    "Name": "Baby-Doll Eyes",
+    "Type": "Fairy",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Cute",
+    "Accuracy2": "Allure",
+    "Target": "Foe",
+    "Effect": "Priority 1. Reduce foe's Strength.",
+    "Description": "Before anyone acts in battle, the user looks at the foe with the cutest eyes.",
+    "_id": "baby-doll-eyes",
+    "Attributes": {
+        "Priority": 1
+    },
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "Strength"
+                ],
+                "Stages": -1,
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Support"
+}

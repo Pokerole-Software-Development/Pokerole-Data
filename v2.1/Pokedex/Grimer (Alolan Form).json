@@ -1,0 +1,123 @@
+{
+    "Number": 88,
+    "DexID": "0088A",
+    "Name": "Grimer (Alolan Form)",
+    "Type1": "Poison",
+    "Type2": "Dark",
+    "BaseHP": 3,
+    "Strength": 2,
+    "MaxStrength": 5,
+    "Dexterity": 1,
+    "MaxDexterity": 3,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 1,
+    "MaxSpecial": 3,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Gluttony",
+    "Ability2": "Sticky Hold",
+    "HiddenAbility": "Power of Alchemy",
+    "EventAbilities": "",
+    "RecommendedRank": "Standard",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "grimer-alolan-form",
+    "DexCategory": "Sludge Pokémon",
+    "Height": {
+        "Meters": 0.7,
+        "Feet": 2.3
+    },
+    "Weight": {
+        "Kilograms": 42.0,
+        "Pounds": 92.6
+    },
+    "DexDescription": "Grimer were brought into Alola to eat garbage in the region. It seemed like a counterintuitive measure but ended up solving the problem. But now Grimer are incredibly noxious, much more toxic than usual.",
+    "Evolutions": [
+        {
+            "To": "Muk (Alolan Form)",
+            "Kind": "Level",
+            "Speed": "Slow"
+        }
+    ],
+    "Image": "grimer-alolan-form.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Pound"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Poison Gas"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Harden"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Bite"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Disable"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Acid Spray"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Poison Fang"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Minimize"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Fling"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Knock Off"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Crunch"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Screech"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Gunk Shot"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Acid Armor"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Belch"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Memento"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Assurance"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Clear Smog"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Shadow Sneak"
+        }
+    ]
+}

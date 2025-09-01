@@ -1,0 +1,125 @@
+{
+    "Number": 109,
+    "DexID": "0109",
+    "Name": "Koffing",
+    "Type1": "Poison",
+    "Type2": "",
+    "BaseHP": 3,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 1,
+    "MaxDexterity": 3,
+    "Vitality": 3,
+    "MaxVitality": 6,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Levitate",
+    "Ability2": "Neutralizing Gas",
+    "HiddenAbility": "Stench",
+    "EventAbilities": "",
+    "RecommendedRank": "Beginner",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "koffing",
+    "DexCategory": "Poison Gas Pokémon",
+    "Height": {
+        "Meters": 0.6,
+        "Feet": 2.0
+    },
+    "Weight": {
+        "Kilograms": 1.0,
+        "Pounds": 2.2
+    },
+    "DexDescription": "It is drawn to the smog and fumes of cities. It fills its body with toxic gasses to float like a balloon. When it gets nervous, it releases a sickly green gas. Breathing this gas will give you a bad case of sniffles.",
+    "Evolutions": [
+        {
+            "To": "Weezing",
+            "Kind": "Level",
+            "Speed": "Slow"
+        },
+        {
+            "To": "Weezing (Galarian Form)",
+            "Kind": "Level",
+            "Speed": "Slow",
+            "Region": "Galar"
+        }
+    ],
+    "Image": "koffing.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Poison Gas"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Smog"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Smokescreen"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Clear Smog"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Assurance"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Sludge"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Self Destruct"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Haze"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Gyro Ball"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Sludge Bomb"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Explosion"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Memento"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Belch"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Destiny Bond"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Toxic Spikes"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Pain Split"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Corrosive Gas"
+        }
+    ]
+}

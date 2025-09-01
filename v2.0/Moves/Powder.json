@@ -1,0 +1,23 @@
+{
+    "Name": "Powder",
+    "Type": "Bug",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Insight",
+    "Accuracy2": "Nature",
+    "Target": "Foe",
+    "Effect": "Add 3 Dice of Damage to the next Fire Type attack that hits the target.",
+    "Description": "The foe is fully covered with a flammable powder, a source of fire might ignite it with explosive results.",
+    "_id": "powder",
+    "Attributes": {},
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Powder",
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Support"
+}

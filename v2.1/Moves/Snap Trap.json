@@ -1,0 +1,26 @@
+{
+    "Name": "Snap Trap",
+    "Type": "Grass",
+    "Power": 2,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Vitality",
+    "Accuracy2": "Stealth",
+    "Target": "Foe",
+    "Effect": "Single Target. Blocks. Whole Scene Duration.",
+    "Description": "The user is so flat that you can barely see it in the tall grass. Waiting for an unsuspecting prey to get close enough to use its body as a snare trap, it won't let go until its prey faints.",
+    "_id": "snap-trap",
+    "Attributes": {
+        "BlockDamagePool": 0,
+        "Duration": "wholeScene"
+    },
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Block",
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Physical"
+}

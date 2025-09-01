@@ -1,0 +1,18 @@
+{
+    "Name": "Encore",
+    "Type": "Normal",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Cool",
+    "Accuracy2": "Allure",
+    "Target": "Foe",
+    "Effect": "For the duration of this effect, the target will repeat the exact same action sequence it had this round. Target must have had an action sequence. Last 4 Rounds. Priority 3.",
+    "Description": "The user claps and cheers at the target to encourage it to repeat what it just did.",
+    "_id": "encore",
+    "Attributes": {
+        "Priority": 3
+    },
+    "AddedEffects": {},
+    "Category": "Support"
+}

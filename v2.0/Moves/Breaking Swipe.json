@@ -1,0 +1,26 @@
+{
+    "Name": "Breaking Swipe",
+    "Type": "Dragon",
+    "Power": 2,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Brawl",
+    "Target": "All Foes",
+    "Effect": "All Foes in Range. Reduce the Strength of those affected.",
+    "Description": "The Pokemon will use its tail to make a long swipe at its foes. A few cracks are heard, and the foe will limp afterwards.",
+    "_id": "breaking-swipe",
+    "Attributes": {},
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "Strength"
+                ],
+                "Stages": -1,
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Physical"
+}

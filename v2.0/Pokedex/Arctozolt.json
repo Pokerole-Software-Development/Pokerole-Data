@@ -1,0 +1,105 @@
+{
+    "Number": 881,
+    "DexID": "0881",
+    "Name": "Arctozolt",
+    "Type1": "Electric",
+    "Type2": "Ice",
+    "BaseHP": 5,
+    "Strength": 3,
+    "MaxStrength": 6,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 2,
+    "MaxSpecial": 5,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Volt Absorb",
+    "Ability2": "Static",
+    "HiddenAbility": "Slush Rush",
+    "EventAbilities": "",
+    "RecommendedRank": "Ace",
+    "GenderType": "N",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "arctozolt",
+    "DexCategory": "Fossil Pokemon",
+    "Height": {
+        "Meters": 2.3,
+        "Feet": 7.5
+    },
+    "Weight": {
+        "Kilograms": 150.0,
+        "Pounds": 330.7
+    },
+    "DexDescription": "This DNA hybrid has a hard time walking around. The bottom part is from a Pokemon from an arctic region and the upper lived in warm jungles. Poor thing is always shivering and sneezing without control.",
+    "Evolutions": [],
+    "Image": "arctozolt.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Powder Snow"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Thunder Shock"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Charge"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Echoed Voice"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Ancient Power"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Pluck"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Avalanche"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Freeze Dry"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Slam"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Discharge"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Bolt Beak"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Icicle Crash"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Blizzard"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Hail"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Wild Charge"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Stomping Tantrum"
+        }
+    ]
+}

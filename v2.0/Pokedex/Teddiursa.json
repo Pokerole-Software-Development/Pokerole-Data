@@ -1,0 +1,119 @@
+{
+    "Number": 216,
+    "DexID": "0216",
+    "Name": "Teddiursa",
+    "Type1": "Normal",
+    "Type2": "",
+    "BaseHP": 3,
+    "Strength": 2,
+    "MaxStrength": 5,
+    "Dexterity": 1,
+    "MaxDexterity": 3,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Pickup",
+    "Ability2": "Quick Feet",
+    "HiddenAbility": "Honey Gather",
+    "EventAbilities": "",
+    "RecommendedRank": "Beginner",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "teddiursa",
+    "DexCategory": "Little Bear Pokemon",
+    "Height": {
+        "Meters": 0.6,
+        "Feet": 2.0
+    },
+    "Weight": {
+        "Kilograms": 8.8,
+        "Pounds": 19.4
+    },
+    "DexDescription": "If they find honey, their crescent moon mark glows. They hoard food for winter and concoct their own honey by mixing fruits and pollen collected by Beedrills. They live in forests with their mothers.",
+    "Evolutions": [
+        {
+            "To": "Ursaring",
+            "Kind": "Level",
+            "Speed": "Slow"
+        }
+    ],
+    "Image": "teddiursa.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Baby-Doll Eyes"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Scratch"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Fake Tears"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Lick"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Covet"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Fling"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Fury Swipes"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Feint Attack"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Sweet Scent"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Play Nice"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Slash"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Charm"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Rest"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Snore"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Thrash"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Play Rough"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Defense Curl"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Yawn"
+        }
+    ]
+}

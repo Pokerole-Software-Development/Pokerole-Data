@@ -1,0 +1,18 @@
+{
+    "Name": "Shadow Sneak",
+    "Type": "Ghost",
+    "Power": 2,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "Priority 1.",
+    "Description": "The user sneaks through darkness and strikes out of the target's shadow. The Pokemon can move freely inside shades as if it were incorporeal.",
+    "_id": "shadow-sneak",
+    "Attributes": {
+        "Priority": 1
+    },
+    "AddedEffects": {},
+    "Category": "Physical"
+}

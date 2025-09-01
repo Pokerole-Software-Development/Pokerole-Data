@@ -1,0 +1,135 @@
+{
+    "Number": 328,
+    "DexID": "0328",
+    "Name": "Trapinch",
+    "Type1": "Ground",
+    "Type2": "",
+    "BaseHP": 3,
+    "Strength": 3,
+    "MaxStrength": 6,
+    "Dexterity": 1,
+    "MaxDexterity": 2,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Hyper Cutter",
+    "Ability2": "Arena Trap",
+    "HiddenAbility": "Sheer Force",
+    "EventAbilities": "",
+    "RecommendedRank": "Standard",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "trapinch",
+    "DexCategory": "Ant Pit Pokémon",
+    "Height": {
+        "Meters": 0.7,
+        "Feet": 2.3
+    },
+    "Weight": {
+        "Kilograms": 15.0,
+        "Pounds": 33.1
+    },
+    "DexDescription": "Their nest is like a bowl pit dug in sand. Trapinch wait for prey to tumble down their pit, later to be crushed between this Pokémon's jaws. Beware of them, as their bite can cause serious damage.",
+    "Evolutions": [
+        {
+            "To": "Vibrava",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "trapinch.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Astonish"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Sand Attack"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Laser Focus"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Bite"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Mud Slap"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Sand Tomb"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Bulldoze"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Bide"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Feint"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Sandstorm"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Feint Attack"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Dig"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Earth Power"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Rock Slide"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Crunch"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Superpower"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Hyper Beam"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Earthquake"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Fissure"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Bug Bite"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Strength"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Giga Drain"
+        }
+    ]
+}

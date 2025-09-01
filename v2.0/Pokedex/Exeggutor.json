@@ -1,0 +1,95 @@
+{
+    "Number": 103,
+    "DexID": "0103",
+    "Name": "Exeggutor",
+    "Type1": "Grass",
+    "Type2": "Psychic",
+    "BaseHP": 5,
+    "Strength": 3,
+    "MaxStrength": 6,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 3,
+    "MaxSpecial": 7,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Chlorophyll",
+    "Ability2": "",
+    "HiddenAbility": "Harvest",
+    "EventAbilities": "",
+    "RecommendedRank": "Amateur",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "exeggutor",
+    "DexCategory": "Coconut Pokemon",
+    "Height": {
+        "Meters": 2.0,
+        "Feet": 6.6
+    },
+    "Weight": {
+        "Kilograms": 120.0,
+        "Pounds": 264.6
+    },
+    "DexDescription": "Originally from tropical areas. Exeggutor's heads grow larger with strong sunlight. Each head thinks independently. They are friendly and provide their shade to other Pokemon.",
+    "Evolutions": [
+        {
+            "From": "Exeggcute",
+            "Kind": "Stone",
+            "Item": "Leaf Stone"
+        }
+    ],
+    "Image": "exeggutor.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Barrage"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Confusion"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Hypnosis"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Seed Bomb"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Stomp"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Psyshock"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Egg Bomb"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Wood Hammer"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Leaf Storm"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Nightmare"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Grassy Terrain"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Curse"
+        }
+    ]
+}

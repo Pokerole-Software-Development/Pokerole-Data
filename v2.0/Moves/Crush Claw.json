@@ -1,0 +1,29 @@
+{
+    "Name": "Crush Claw",
+    "Type": "Normal",
+    "Power": 3,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "Roll 5 Chance Dice to Reduce the target's Defense by 2. Lethal.",
+    "Description": "The user crushes its claws against the foe, it may pierce the skin of the foe.",
+    "_id": "crush-claw",
+    "Attributes": {
+        "Lethal": true
+    },
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "Def"
+                ],
+                "Stages": -2,
+                "ChanceDice": 5,
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Physical"
+}

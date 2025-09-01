@@ -1,0 +1,146 @@
+{
+    "Number": 383,
+    "DexID": "0383",
+    "Name": "Groudon",
+    "Type1": "Ground",
+    "Type2": "",
+    "BaseHP": 5,
+    "Strength": 8,
+    "MaxStrength": 8,
+    "Dexterity": 5,
+    "MaxDexterity": 5,
+    "Vitality": 7,
+    "MaxVitality": 7,
+    "Special": 6,
+    "MaxSpecial": 6,
+    "Insight": 5,
+    "MaxInsight": 5,
+    "Ability1": "Drought",
+    "Ability2": "",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Master",
+    "GenderType": "N",
+    "Legendary": true,
+    "GoodStarter": false,
+    "_id": "groudon",
+    "DexCategory": "No Data",
+    "Height": {
+        "Meters": 3.5,
+        "Feet": 11.5
+    },
+    "Weight": {
+        "Kilograms": 950.0,
+        "Pounds": 2094.4
+    },
+    "DexDescription": "Described in mythology as the God creator of lands, mountains, volcanoes and continents. Any water or clouds evaporate in its presence. It is the mortal enemy of Kyogre.",
+    "Evolutions": [
+        {
+            "To": "Groudon (Primal Form)",
+            "Kind": "Form"
+        }
+    ],
+    "Image": "groudon.png",
+    "Moves": [
+        {
+            "Learned": "Master",
+            "Name": "Ancient Power"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Mud Shot"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Scary Face"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Earth Power"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Lava Plume"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Rest"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Earthquake"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Precipice Blades"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Bulk Up"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Solar Beam"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Fissure"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Fire Blast"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Hammer Arm"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Eruption"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Mud Sport"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Dig"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Strength"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Block"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Stealth Rock"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Rock Smash"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Flame Wheel"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Heat Crash"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Sandstorm"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Wide Guard"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Rock Climb"
+        }
+    ]
+}

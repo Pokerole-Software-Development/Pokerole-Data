@@ -1,0 +1,105 @@
+{
+    "Number": 882,
+    "DexID": "0882",
+    "Name": "Dracovish",
+    "Type1": "Water",
+    "Type2": "Dragon",
+    "BaseHP": 5,
+    "Strength": 2,
+    "MaxStrength": 5,
+    "Dexterity": 2,
+    "MaxDexterity": 5,
+    "Vitality": 3,
+    "MaxVitality": 6,
+    "Special": 2,
+    "MaxSpecial": 5,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Water Absorb",
+    "Ability2": "Strong Jaw",
+    "HiddenAbility": "Sand Rush",
+    "EventAbilities": "",
+    "RecommendedRank": "Ace",
+    "GenderType": "N",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "dracovish",
+    "DexCategory": "Fossil Pokemon",
+    "Height": {
+        "Meters": 2.3,
+        "Feet": 7.5
+    },
+    "Weight": {
+        "Kilograms": 215.0,
+        "Pounds": 474.0
+    },
+    "DexDescription": "The DNA of two apex predators combined. It can run at incredibly high speeds and tear almost anything with its sharp teeth. Sadly, this Pokemon can only breathe underwater and it\u2019s a lousy swimmer.",
+    "Evolutions": [],
+    "Image": "dracovish.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Water Gun"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Protect"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Brutal Swing"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Ancient Power"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Bite"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Dragon Breath"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Stomp"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Super Fang"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Crunch"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Fishious Rend"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Dragon Pulse"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Dragon Rush"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Draco Meteor"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Psychic Fangs"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Whirlpool"
+        }
+    ]
+}

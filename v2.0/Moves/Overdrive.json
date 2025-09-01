@@ -1,0 +1,18 @@
+{
+    "Name": "Overdrive",
+    "Type": "Electric",
+    "Power": 3,
+    "Damage1": "Special",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Perform",
+    "Target": "All Foes",
+    "Effect": "All Foes in Range. Sound Based.",
+    "Description": "The Pokemon uses its own body as an amplifier for the energizing sounds it produces.",
+    "_id": "overdrive",
+    "Attributes": {
+        "SoundBased": true
+    },
+    "AddedEffects": {},
+    "Category": "Special"
+}

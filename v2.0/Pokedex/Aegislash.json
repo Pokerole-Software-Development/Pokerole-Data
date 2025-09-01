@@ -1,0 +1,115 @@
+{
+    "Number": 681,
+    "DexID": "0681",
+    "Name": "Aegislash",
+    "Type1": "Steel",
+    "Type2": "Ghost",
+    "BaseHP": 5,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 1,
+    "MaxDexterity": 3,
+    "Vitality": 4,
+    "MaxVitality": 8,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 4,
+    "MaxInsight": 8,
+    "Ability1": "Stance Change",
+    "Ability2": "",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Pro",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "aegislash",
+    "DexCategory": "Royal Sword Pokemon",
+    "Height": {
+        "Meters": 1.7,
+        "Feet": 5.6
+    },
+    "Weight": {
+        "Kilograms": 53.0,
+        "Pounds": 116.8
+    },
+    "DexDescription": "The legend tells of how this Pokemon lead the first King of Kalos to victory. A crushing grip can be felt on the arm of the wielder. While in this form it can only use Support moves.",
+    "Evolutions": [
+        {
+            "From": "Doublade",
+            "Kind": "Stone",
+            "Item": "Dusk Stone"
+        },
+        {
+            "To": "Aegislash (Blade Form)",
+            "Kind": "Form"
+        }
+    ],
+    "Image": "aegislash.png",
+    "Moves": [
+        {
+            "Learned": "Amateur",
+            "Name": "Fury Cutter"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Pursuit"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Autotomize"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Shadow Sneak"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Aerial Ace"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Slash"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Night Slash"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Iron Defense"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Power Trick"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Iron Head"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "King's Shield"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Head Smash"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Sacred Sword"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Spite"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Magnet Rise"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Destiny Bond"
+        }
+    ]
+}

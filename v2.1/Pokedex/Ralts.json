@@ -1,0 +1,135 @@
+{
+    "Number": 280,
+    "DexID": "0280",
+    "Name": "Ralts",
+    "Type1": "Psychic",
+    "Type2": "Fairy",
+    "BaseHP": 3,
+    "Strength": 1,
+    "MaxStrength": 3,
+    "Dexterity": 1,
+    "MaxDexterity": 3,
+    "Vitality": 1,
+    "MaxVitality": 3,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 1,
+    "MaxInsight": 3,
+    "Ability1": "Synchronize",
+    "Ability2": "Trace",
+    "HiddenAbility": "Telepathy",
+    "EventAbilities": "",
+    "RecommendedRank": "Rookie",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "ralts",
+    "DexCategory": "Feeling Pokémon",
+    "Height": {
+        "Meters": 0.4,
+        "Feet": 1.3
+    },
+    "Weight": {
+        "Kilograms": 6.6,
+        "Pounds": 14.6
+    },
+    "DexDescription": "They sense the emotions of people and Pokémon, usually sharing the mood of anyone nearby. They show if they feel joy and cheer, but hide if they sense hostility. They dislike fighting and negativity.",
+    "Evolutions": [
+        {
+            "To": "Kirlia",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "ralts.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Growl"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Disarming Voice"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Double Team"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Confusion"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Hypnosis"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Lucky Chant"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Draining Kiss"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Teleport"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Psybeam"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Life Dew"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Charm"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Calm Mind"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Magical Leaf"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Stored Power"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Psychic"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Imprison"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Dream Eater"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Heal Pulse"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Future Sight"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Helping Hand"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Telekinesis"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Mean Look"
+        }
+    ]
+}

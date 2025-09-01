@@ -1,0 +1,28 @@
+{
+    "Name": "Clamp",
+    "Type": "Water",
+    "Power": 2,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Vitality",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "Single Target. Low Accuracy 2. Blocks. Ongoing Damage. Increase the Target's required Successes to Evade at Storyteller's discretion. Duration 4 Rounds.",
+    "Description": "The user traps and crushes the opponent using its thick and sturdy shell. It will not release the target until it feels no more movement.",
+    "_id": "clamp",
+    "Attributes": {
+        "BlockDamagePool": 2,
+        "AccuracyReduction": 2,
+        "Duration": 4,
+        "OngoingDamage": true
+    },
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Block",
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Physical"
+}

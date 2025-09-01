@@ -1,0 +1,18 @@
+{
+    "Name": "Magic Coat",
+    "Type": "Psychic",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Special",
+    "Accuracy2": "Channel",
+    "Target": "Foe",
+    "Effect": "Priority 4. Redirect the effects of a Support Move that would affect the user or its side of the battlefield towards the foe's (ie. The foe used Stealth Rock, with Magic Coat it will now affect the foe's side instead of yours).",
+    "Description": "The user quickly creates a barrier that reflects any minor attack, status condition, or dirty triick the foe might have wanted to use.",
+    "_id": "magic-coat",
+    "Attributes": {
+        "Priority": 4
+    },
+    "AddedEffects": {},
+    "Category": "Support"
+}

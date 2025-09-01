@@ -1,0 +1,30 @@
+{
+    "Name": "Triple Arrow",
+    "Type": "Fighting",
+    "Power": 3,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Athletic",
+    "Target": "Foe",
+    "Effect": "Single Target. Ranged. Triple Action. Reduce the foe's Defense by 1. If all 3 hits land, all of the User's Physical and Special Moves now have the “High Critical” Effect; this effect has a whole scene duration.",
+    "Description": "Three fast arrows are shot in succession. The Pokémon who manages to land all three in the exact same spot has become a true sniper.",
+    "_id": "triple-arrow",
+    "Attributes": {
+        "PhysicalRanged": true,
+        "TripleAction": true,
+        "Duration": "wholeScene"
+    },
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "Def"
+                ],
+                "Stages": -1,
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Support"
+}

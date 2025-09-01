@@ -1,0 +1,19 @@
+{
+    "Name": "Defog",
+    "Type": "Flying",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Insight",
+    "Accuracy2": "Nature",
+    "Target": "Battlefield",
+    "Effect": "Remove all Barriers (ie. Light Screen, Reflect), Entry Hazards (Toxic Spikes, Stealth Rock, etc.), and Terrains (Misty Terrain, Electric Terrain, etc.) from the battlefield.",
+    "Description": "A strong current of wind that blows away any fog and even invisible barriers.",
+    "_id": "defog",
+    "Attributes": {
+        "DestroyShield": true,
+        "ResetTerrain": true
+    },
+    "AddedEffects": {},
+    "Category": "Support"
+}

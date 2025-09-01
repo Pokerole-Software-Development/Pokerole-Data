@@ -1,0 +1,23 @@
+{
+    "Name": "Flash",
+    "Type": "Normal",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Special",
+    "Accuracy2": "Channel",
+    "Target": "Foe",
+    "Effect": "Reduce 1 success from all the foe's Accuracy rolls.",
+    "Description": "The user suddenly emits a blinding light around its body, dazing its opponent in the process.",
+    "_id": "flash",
+    "Attributes": {},
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Flash",
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Support"
+}

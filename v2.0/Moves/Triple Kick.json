@@ -1,0 +1,19 @@
+{
+    "Name": "Triple Kick",
+    "Type": "Fighting",
+    "Power": 1,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "Successive Actions. Add 1 Extra Dice to Damage Pool to the last kick performed. -1 Accuracy.",
+    "Description": "The user throws three or more kicks, leaving the harder blow for the end.",
+    "_id": "triple-kick",
+    "Attributes": {
+        "SuccessiveActions": true,
+        "AccuracyReduction": 1
+    },
+    "AddedEffects": {},
+    "Category": "Physical"
+}

@@ -1,0 +1,36 @@
+{
+    "Name": "Shell Smash",
+    "Type": "Normal",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Strength",
+    "Accuracy2": "Brawl",
+    "Target": "User",
+    "Effect": "Increase the User's Strength, Special, Dexterity by 2. Reduce the User's Defense and Special Defense by 2.",
+    "Description": "By breaking its own shell, the user sacrifices defense in exchange of being free to fight with all its power.",
+    "_id": "shell-smash",
+    "Attributes": {},
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "Strength",
+                    "Special",
+                    "Dexterity"
+                ],
+                "Stages": 2,
+                "Affects": "User"
+            },
+            {
+                "Stats": [
+                    "Def",
+                    "SpDef"
+                ],
+                "Stages": -2,
+                "Affects": "User"
+            }
+        ]
+    },
+    "Category": "Support"
+}

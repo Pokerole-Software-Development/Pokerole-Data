@@ -1,0 +1,135 @@
+{
+    "Number": 792,
+    "DexID": "0792",
+    "Name": "Lunala",
+    "Type1": "Psychic",
+    "Type2": "Ghost",
+    "BaseHP": 7,
+    "Strength": 6,
+    "MaxStrength": 6,
+    "Dexterity": 6,
+    "MaxDexterity": 6,
+    "Vitality": 5,
+    "MaxVitality": 5,
+    "Special": 7,
+    "MaxSpecial": 7,
+    "Insight": 6,
+    "MaxInsight": 6,
+    "Ability1": "Shadow Shield",
+    "Ability2": "",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Master",
+    "GenderType": "N",
+    "Legendary": true,
+    "GoodStarter": false,
+    "_id": "lunala",
+    "DexCategory": "No Data",
+    "Height": {
+        "Meters": 4.0,
+        "Feet": 13.1
+    },
+    "Weight": {
+        "Kilograms": 120.0,
+        "Pounds": 264.6
+    },
+    "DexDescription": "There are legends about a being that shined with the moon, on its forehead a third eye that connected to another dimension.",
+    "Evolutions": [
+        {
+            "From": "Cosmoem",
+            "Kind": "Level",
+            "Game": "Shield"
+        }
+    ],
+    "Image": "lunala.png",
+    "Moves": [
+        {
+            "Learned": "Master",
+            "Name": "Moongeist Beam"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Cosmic Power"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Hypnosis"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Teleport"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Confusion"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Night Shade"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Confuse Ray"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Air Slash"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Shadow Ball"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Moonlight"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Night Daze"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Magic Coat"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Moonblast"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Dream Eater"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Phantom Force"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Wide Guard"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Hyper Beam"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Tailwind"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Icy Wind"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Spite"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Heat Wave"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Reflect"
+        }
+    ]
+}

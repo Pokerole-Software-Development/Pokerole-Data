@@ -1,0 +1,159 @@
+{
+    "Number": 678,
+    "DexID": "0678",
+    "Name": "Meowstic",
+    "Type1": "Psychic",
+    "Type2": "",
+    "BaseHP": 5,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 3,
+    "MaxDexterity": 6,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 2,
+    "MaxSpecial": 5,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Keen Eye",
+    "Ability2": "Infiltrator",
+    "HiddenAbility": "Prankster",
+    "EventAbilities": "",
+    "RecommendedRank": "Advanced",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "meowstic",
+    "DexCategory": "Constraint Pokémon",
+    "Height": {
+        "Meters": 0.6,
+        "Feet": 2.0
+    },
+    "Weight": {
+        "Kilograms": 8.5,
+        "Pounds": 18.7
+    },
+    "DexDescription": "The eye patterns inside its ears emit psychic energy. It keeps them shut tight because the power can be overwhelming. Females are white in color and more aggressive than the mild-mannered males.",
+    "Evolutions": [
+        {
+            "From": "Espurr",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "meowstic.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Scratch"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Leer"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Fake Out"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Disarming Voice"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Confusion"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Covet"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Helping Hand"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Stored Power"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Psybeam"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Charm"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Fake Tears"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Signal Beam"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Mean Look"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Magical Leaf"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Charge Beam"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Sucker Punch"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Role Play"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Quick Guard"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Reflect"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Light Screen"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Shadow Ball"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Imprison"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Psyshock"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Psychic"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Future Sight"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Dark Pulse"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Nasty Plot"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Misty Terrain"
+        }
+    ]
+}

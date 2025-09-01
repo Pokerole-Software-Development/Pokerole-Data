@@ -1,0 +1,105 @@
+{
+    "Number": 874,
+    "DexID": "0874",
+    "Name": "Stonjourner",
+    "Type1": "Rock",
+    "Type2": "",
+    "BaseHP": 6,
+    "Strength": 3,
+    "MaxStrength": 7,
+    "Dexterity": 2,
+    "MaxDexterity": 5,
+    "Vitality": 3,
+    "MaxVitality": 7,
+    "Special": 1,
+    "MaxSpecial": 3,
+    "Insight": 1,
+    "MaxInsight": 3,
+    "Ability1": "Power Spot",
+    "Ability2": "",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Amateur",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "stonjourner",
+    "DexCategory": "Big Rock Pokemon",
+    "Height": {
+        "Meters": 2.5,
+        "Feet": 8.2
+    },
+    "Weight": {
+        "Kilograms": 520.0,
+        "Pounds": 1146.4
+    },
+    "DexDescription": "They spend almost all their lives immobile, looking as inconspicuous rocks, but once a year they gather out of nowhere and form up in a circle. They stay in formation for a few days and then disappear overnight.",
+    "Evolutions": [],
+    "Image": "stonjourner.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Rock Throw"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Block"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Stomp"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Rock Tomb"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Gravity"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Rock Polish"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Stealth Rock"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Rock Slide"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Body Slam"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Wide Guard"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Heavy Slam"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Stone Edge"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Mega Kick"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Heat Crash"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Ancient Power"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Stomping Tantrum"
+        }
+    ]
+}

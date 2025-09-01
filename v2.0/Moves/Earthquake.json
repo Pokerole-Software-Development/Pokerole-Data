@@ -1,0 +1,18 @@
+{
+    "Name": "Earthquake",
+    "Type": "Ground",
+    "Power": 4,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Brawl",
+    "Target": "Area",
+    "Effect": "Area Attack. Ranged.",
+    "Description": "The Pokemon focuses its energy into shaking the ground, everyone around will be thrown like a rag doll.",
+    "_id": "earthquake",
+    "Attributes": {
+        "PhysicalRanged": true
+    },
+    "AddedEffects": {},
+    "Category": "Physical"
+}

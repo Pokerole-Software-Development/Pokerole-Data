@@ -1,0 +1,19 @@
+{
+    "Name": "Protect",
+    "Type": "Normal",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Will",
+    "Accuracy2": "Channel",
+    "Target": "User",
+    "Effect": "Priority 5. Shield. Reduce 3 Damage this pokemon would receive from a damaging move. Negate effects of Support Moves that target the user. Reduce to zero the set damage from a move the user would take.",
+    "Description": "The user creates an energy shield to deflect a blow. Some Pokemon may even perform an amazing parry to block the incoming attack.",
+    "_id": "protect",
+    "Attributes": {
+        "ShieldMove": true,
+        "Priority": 5
+    },
+    "AddedEffects": {},
+    "Category": "Support"
+}

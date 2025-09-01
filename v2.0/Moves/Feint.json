@@ -1,0 +1,19 @@
+{
+    "Name": "Feint",
+    "Type": "Normal",
+    "Power": 1,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "Priority 2. This Move ignores any Shielding Move.",
+    "Description": "The Pokemon feints a strike then hits for real even if the foe attempts to protect itself.",
+    "_id": "feint",
+    "Attributes": {
+        "Priority": 2,
+        "IgnoreShield": true
+    },
+    "AddedEffects": {},
+    "Category": "Physical"
+}

@@ -1,0 +1,23 @@
+{
+    "Name": "Simple Beam",
+    "Type": "Normal",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Insight",
+    "Accuracy2": "Empathy",
+    "Target": "Foe",
+    "Effect": "Target Pokemon ability is now \"Simple\".",
+    "Description": "The Pokemon sends a small psychic wave to its target, giving it a simpler point of view about the world.",
+    "_id": "simple-beam",
+    "Attributes": {},
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "SimpleBeam",
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Support"
+}

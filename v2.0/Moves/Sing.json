@@ -1,0 +1,26 @@
+{
+    "Name": "Sing",
+    "Type": "Normal",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Cute",
+    "Accuracy2": "Perform",
+    "Target": "Foe",
+    "Effect": "Inflict Sleep on the target. Sound Based. -3 Accuracy.",
+    "Description": "With a charming song, the user lulls its foe to sleep.",
+    "_id": "sing",
+    "Attributes": {
+        "SoundBased": true,
+        "AccuracyReduction": 3
+    },
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Sleep",
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Support"
+}

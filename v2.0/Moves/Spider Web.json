@@ -1,0 +1,25 @@
+{
+    "Name": "Spider Web",
+    "Type": "Bug",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Insight",
+    "Accuracy2": "Stealth",
+    "Target": "Battlefield",
+    "Effect": "Blocks.",
+    "Description": "The User quietly releases a web on the field. All foes will be trapped.",
+    "_id": "spider-web",
+    "Attributes": {
+        "BlockDamagePool": 0
+    },
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Block",
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Support"
+}

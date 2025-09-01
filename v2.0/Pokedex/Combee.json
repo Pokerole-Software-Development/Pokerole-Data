@@ -1,0 +1,76 @@
+{
+    "Number": 415,
+    "DexID": "0415",
+    "Name": "Combee",
+    "Type1": "Bug",
+    "Type2": "Flying",
+    "BaseHP": 3,
+    "Strength": 1,
+    "MaxStrength": 3,
+    "Dexterity": 2,
+    "MaxDexterity": 5,
+    "Vitality": 1,
+    "MaxVitality": 3,
+    "Special": 1,
+    "MaxSpecial": 3,
+    "Insight": 1,
+    "MaxInsight": 3,
+    "Ability1": "Honey Gather",
+    "Ability2": "",
+    "HiddenAbility": "Hustle",
+    "EventAbilities": "",
+    "RecommendedRank": "Starter",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "combee",
+    "DexCategory": "Tiny Bee Pokemon",
+    "Height": {
+        "Meters": 0.3,
+        "Feet": 1.0
+    },
+    "Weight": {
+        "Kilograms": 5.5,
+        "Pounds": 12.1
+    },
+    "DexDescription": "It forms hives around trees. It flies all day sipping the nectar from flowers to make honey. It is usually born a male. If a female is born, it will grow into a Vespiqueen and start its own Hive.",
+    "Evolutions": [
+        {
+            "To": "Vespiquen",
+            "Kind": "Level",
+            "Speed": "Slow",
+            "Gender": "Female"
+        }
+    ],
+    "Image": "combee.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Sweet Scent"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Gust"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Bug Bite"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Bug Buzz"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Tailwind"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Swift"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Endeavor"
+        }
+    ]
+}

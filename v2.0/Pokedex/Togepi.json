@@ -1,0 +1,120 @@
+{
+    "Number": 175,
+    "DexID": "0175",
+    "Name": "Togepi",
+    "Type1": "Fairy",
+    "Type2": "",
+    "BaseHP": 3,
+    "Strength": 1,
+    "MaxStrength": 3,
+    "Dexterity": 1,
+    "MaxDexterity": 3,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 1,
+    "MaxSpecial": 3,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Hustle",
+    "Ability2": "Serene Grace",
+    "HiddenAbility": "Super Luck",
+    "EventAbilities": "",
+    "RecommendedRank": "Starter",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "togepi",
+    "DexCategory": "Spike Ball Pokemon",
+    "Height": {
+        "Meters": 0.3,
+        "Feet": 1.0
+    },
+    "Weight": {
+        "Kilograms": 1.5,
+        "Pounds": 3.3
+    },
+    "DexDescription": "This Pokemon stores all the kindness and good feelings inside of it\u2019s shell and shares them with others, when the shell is full it becomes so happy that it finally evolves. It is said that it\u2019ll bring good fortune to its trainer.",
+    "Evolutions": [
+        {
+            "To": "Togetic",
+            "Kind": "Stat",
+            "Stat": "Happiness",
+            "Value": 5
+        }
+    ],
+    "Image": "togepi.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Growl"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Charm"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Metronome"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Sweet Kiss"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Yawn"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Encore"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Follow Me"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Bestow"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Baton Pass"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Ancient Power"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Safeguard"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Wish"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Double-Edge"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Last Resort"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "After You"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Lucky Chant"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Nasty Plot"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Extrasensory"
+        }
+    ]
+}

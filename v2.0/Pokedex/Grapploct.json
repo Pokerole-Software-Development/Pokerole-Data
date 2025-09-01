@@ -1,0 +1,115 @@
+{
+    "Number": 853,
+    "DexID": "0853",
+    "Name": "Grapploct",
+    "Type1": "Fighting",
+    "Type2": "",
+    "BaseHP": 4,
+    "Strength": 3,
+    "MaxStrength": 6,
+    "Dexterity": 1,
+    "MaxDexterity": 3,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 2,
+    "MaxSpecial": 5,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Limber",
+    "Ability2": "",
+    "HiddenAbility": "Technician",
+    "EventAbilities": "",
+    "RecommendedRank": "Amateur",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "grapploct",
+    "DexCategory": "Jujitsu Pokemon",
+    "Height": {
+        "Meters": 1.6,
+        "Feet": 5.2
+    },
+    "Weight": {
+        "Kilograms": 39.0,
+        "Pounds": 86.0
+    },
+    "DexDescription": "A body made up of nothing but muscle makes its tentacles very powerful. They come out of the ocean to find opponents to battle, once the fight is over they go back into the sea.",
+    "Evolutions": [
+        {
+            "From": "Clobbopus",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "grapploct.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Rock Smash"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Leer"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Feint"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Bind"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Detect"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Brick Break"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Bulk Up"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Submission"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Taunt"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Octolock"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Octazooka"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Reversal"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Superpower"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Topsy-Turvy"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Close Combat"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Liquidation"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Brutal Swing"
+        }
+    ]
+}

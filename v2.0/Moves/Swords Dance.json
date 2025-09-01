@@ -1,0 +1,26 @@
+{
+    "Name": "Swords Dance",
+    "Type": "Normal",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Perform",
+    "Target": "User",
+    "Effect": "Increase the User's Strength by 2.",
+    "Description": "The Pokemon makes a dance that raises its battle spirit.",
+    "_id": "swords-dance",
+    "Attributes": {},
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "Strength"
+                ],
+                "Stages": 2,
+                "Affects": "User"
+            }
+        ]
+    },
+    "Category": "Support"
+}

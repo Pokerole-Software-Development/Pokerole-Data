@@ -1,0 +1,135 @@
+{
+    "Number": 248,
+    "DexID": "0248M1",
+    "Name": "Tyranitar (Mega Form)",
+    "Type1": "Rock",
+    "Type2": "Dark",
+    "BaseHP": 7,
+    "Strength": 4,
+    "MaxStrength": 8,
+    "Dexterity": 2,
+    "MaxDexterity": 5,
+    "Vitality": 4,
+    "MaxVitality": 8,
+    "Special": 3,
+    "MaxSpecial": 6,
+    "Insight": 3,
+    "MaxInsight": 7,
+    "Ability1": "Sand Stream",
+    "Ability2": "",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Master",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "tyranitar-mega-form",
+    "DexCategory": "Armor Pokemon",
+    "Height": {
+        "Meters": 2.5,
+        "Feet": 8.2
+    },
+    "Weight": {
+        "Kilograms": 255.0,
+        "Pounds": 562.2
+    },
+    "DexDescription": "The power of the Mega Stone is so overwhelming it splits its back open. It becomes overwhelmed by its ferocious instincts and it\u2019s unclear if it can even hear its Trainer through the pain and rage.",
+    "Evolutions": [
+        {
+            "From": "Tyranitar",
+            "Kind": "Mega",
+            "Item": "Tyranitarite"
+        }
+    ],
+    "Image": "tyranitar-mega-form.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Bite"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Leer"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Screech"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Sandstorm"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Fire Fang"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Thunder Fang"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Ice Fang"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Chip Away"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Rock Slide"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Scary Face"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Thrash"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Dark Pulse"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Payback"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Crunch"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Earthquake"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Stone Edge"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Hyper Beam"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Giga Impact"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Dragon Dance"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Outrage"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Superpower"
+        }
+    ]
+}

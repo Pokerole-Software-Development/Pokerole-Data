@@ -1,0 +1,25 @@
+{
+    "Name": "Extreme Speed",
+    "Type": "Normal",
+    "Power": 3,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "Priority 2. Triple the Pokemon's movement speed.",
+    "Description": "The user charges at a blinding speed against the target.",
+    "_id": "extreme-speed",
+    "Attributes": {
+        "Priority": 2
+    },
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "ExtremeSpeed",
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Physical"
+}

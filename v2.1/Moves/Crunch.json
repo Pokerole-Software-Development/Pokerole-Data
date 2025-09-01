@@ -1,0 +1,30 @@
+{
+    "Name": "Crunch",
+    "Type": "Dark",
+    "Power": 3,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Strength",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "Single Target. Bite Move. Lethal. Roll 1 Chance Die to Reduce the foe's Defense by 1.",
+    "Description": "The Pokemon uses its fangs to viciously tear whatever it is biting.",
+    "_id": "crunch",
+    "Attributes": {
+        "Lethal": true,
+        "BiteMove": true
+    },
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "Def"
+                ],
+                "Stages": -1,
+                "ChanceDice": 1,
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Physical"
+}

@@ -1,0 +1,111 @@
+{
+    "Number": 492,
+    "DexID": "0492F1",
+    "Name": "Shaymin (Sky Form)",
+    "Type1": "Grass",
+    "Type2": "Flying",
+    "BaseHP": 5,
+    "Strength": 6,
+    "MaxStrength": 6,
+    "Dexterity": 7,
+    "MaxDexterity": 7,
+    "Vitality": 5,
+    "MaxVitality": 5,
+    "Special": 7,
+    "MaxSpecial": 7,
+    "Insight": 5,
+    "MaxInsight": 5,
+    "Ability1": "Serene Grace",
+    "Ability2": "",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Pro",
+    "GenderType": "N",
+    "Legendary": true,
+    "GoodStarter": false,
+    "_id": "shaymin-sky-form",
+    "DexCategory": "No Data",
+    "Height": {
+        "Meters": 0.4,
+        "Feet": 1.3
+    },
+    "Weight": {
+        "Kilograms": 5.2,
+        "Pounds": 11.5
+    },
+    "DexDescription": "There are old traces of gigantic trees that once grew all over the earth. They were called the \u201cTrees of Life\u201d and their flowers granted the power of flight to the kindhearted, or so the legend says.",
+    "Evolutions": [
+        {
+            "From": "Shaymin",
+            "Kind": "Special",
+            "Item": "Gracidea flower"
+        }
+    ],
+    "Image": "shaymin-sky-form.png",
+    "Moves": [
+        {
+            "Learned": "Master",
+            "Name": "Growth"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Magical Leaf"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Leech Seed"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Synthesis"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Sweet Scent"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Natural Gift"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Worry Seed"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Air Slash"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Energy Ball"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Sweet Kiss"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Leaf Storm"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Seed Flare"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Endeavor"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Zen Headbutt"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Giga Drain"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Tailwind"
+        }
+    ]
+}

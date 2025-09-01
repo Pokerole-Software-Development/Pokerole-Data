@@ -1,0 +1,123 @@
+{
+    "Number": 735,
+    "DexID": "0735",
+    "Name": "Gumshoos",
+    "Type1": "Normal",
+    "Type2": "",
+    "BaseHP": 4,
+    "Strength": 3,
+    "MaxStrength": 6,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Stakeout",
+    "Ability2": "Strong Jaw",
+    "HiddenAbility": "Adaptability",
+    "EventAbilities": "",
+    "RecommendedRank": "Amateur",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "gumshoos",
+    "DexCategory": "Stakeout Pokemon",
+    "Height": {
+        "Meters": 0.7,
+        "Feet": 2.3
+    },
+    "Weight": {
+        "Kilograms": 14.2,
+        "Pounds": 31.3
+    },
+    "DexDescription": "Alolan Ratatta became nocturnal to evade this Pokemon, as it is their main Predator. Gumshoos now go hungry for days before they find something suitable to eat, they compensate by sleeping a lot.",
+    "Evolutions": [
+        {
+            "From": "Yungoos",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "gumshoos.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Leer"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Pursuit"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Sand Attack"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Odor Sleuth"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Bide"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Bite"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Mud Slap"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Super Fang"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Take Down"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Scary Face"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Yawn"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Hyper Fang"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Crunch"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Thrash"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Rest"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Revenge"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Sleep Talk"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Last Resort"
+        }
+    ]
+}

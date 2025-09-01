@@ -1,0 +1,26 @@
+{
+    "Name": "Withdraw",
+    "Type": "Water",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Vitality",
+    "Accuracy2": "Brawl",
+    "Target": "User",
+    "Effect": "Increase User's Defense.",
+    "Description": "The user hides inside its hard shell to protect itself from incoming attacks.",
+    "_id": "withdraw",
+    "Attributes": {},
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "Def"
+                ],
+                "Stages": 1,
+                "Affects": "User"
+            }
+        ]
+    },
+    "Category": "Support"
+}

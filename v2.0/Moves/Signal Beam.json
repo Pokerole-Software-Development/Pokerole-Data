@@ -1,0 +1,24 @@
+{
+    "Name": "Signal Beam",
+    "Type": "Bug",
+    "Power": 3,
+    "Damage1": "Special",
+    "Damage2": "",
+    "Accuracy1": "Special",
+    "Accuracy2": "Channel",
+    "Target": "Foe",
+    "Effect": "Roll 1 Chance Dice to Confuse the foe.",
+    "Description": "The user emits an intense light that harms the foes and may leave them dazed like moths.",
+    "_id": "signal-beam",
+    "Attributes": {},
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Confuse",
+                "Affects": "Targets",
+                "ChanceDice": 1
+            }
+        ]
+    },
+    "Category": "Special"
+}

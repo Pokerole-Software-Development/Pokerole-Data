@@ -1,0 +1,26 @@
+{
+    "Name": "Cross Poison",
+    "Type": "Poison",
+    "Power": 3,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "High Critical. Roll 1 Chance Dice to Poison the foe.",
+    "Description": "The Pokemon drenches poison into its pincers to slash the enemy in a brutal way.",
+    "_id": "cross-poison",
+    "Attributes": {
+        "HighCritical": true
+    },
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Poison",
+                "Affects": "Targets",
+                "ChanceDice": 1
+            }
+        ]
+    },
+    "Category": "Physical"
+}

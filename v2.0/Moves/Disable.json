@@ -1,0 +1,23 @@
+{
+    "Name": "Disable",
+    "Type": "Normal",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Insight",
+    "Accuracy2": "Channel",
+    "Target": "Foe",
+    "Effect": "The Target cannot use the last move it performed. Lasts 4 Rounds.",
+    "Description": "The user hits a nerve on the foe, impeding it from performing its previous action for a short while.",
+    "_id": "disable",
+    "Attributes": {},
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Disable",
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Support"
+}

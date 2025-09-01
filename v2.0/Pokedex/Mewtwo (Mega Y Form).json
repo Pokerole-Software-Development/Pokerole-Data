@@ -1,0 +1,147 @@
+{
+    "Number": 150,
+    "DexID": "0150M2",
+    "Name": "Mewtwo (Mega Y Form)",
+    "Type1": "Psychic",
+    "Type2": "",
+    "BaseHP": 6,
+    "Strength": 8,
+    "MaxStrength": 8,
+    "Dexterity": 7,
+    "MaxDexterity": 7,
+    "Vitality": 5,
+    "MaxVitality": 5,
+    "Special": 10,
+    "MaxSpecial": 10,
+    "Insight": 7,
+    "MaxInsight": 7,
+    "Ability1": "Insomnia",
+    "Ability2": "",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Master",
+    "GenderType": "N",
+    "Legendary": true,
+    "GoodStarter": false,
+    "_id": "mewtwo-mega-y-form",
+    "DexCategory": "No Data",
+    "Height": {
+        "Meters": 1.5,
+        "Feet": 4.9
+    },
+    "Weight": {
+        "Kilograms": 33.0,
+        "Pounds": 72.8
+    },
+    "DexDescription": "With the power of the Mega Stone its body got smaller but its power grew immensely. It can blow up even a skyscraper with just its thoughts",
+    "Evolutions": [
+        {
+            "From": "Mewtwo",
+            "Kind": "Mega",
+            "Item": "Mewtwonite Y"
+        }
+    ],
+    "Image": "mewtwo-mega-y-form.png",
+    "Moves": [
+        {
+            "Learned": "Master",
+            "Name": "Laser Focus"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Psywave"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Confusion"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Disable"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Safeguard"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Swift"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Future Sight"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Psych Up"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Miracle Eye"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Psycho Cut"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Power Swap"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Guard Swap"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Recover"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Psychic"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Barrier"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Aura Sphere"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Amnesia"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Mist"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Me First"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Psystrike"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Self Destruct"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Telekinesis"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Blizzard"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Drain Punch"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Snatch"
+        }
+    ]
+}

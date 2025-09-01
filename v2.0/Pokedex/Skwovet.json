@@ -1,0 +1,111 @@
+{
+    "Number": 819,
+    "DexID": "0819",
+    "Name": "Skwovet",
+    "Type1": "Normal",
+    "Type2": "",
+    "BaseHP": 3,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 1,
+    "MaxDexterity": 3,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 1,
+    "MaxSpecial": 3,
+    "Insight": 1,
+    "MaxInsight": 3,
+    "Ability1": "Cheek Pouch",
+    "Ability2": "",
+    "HiddenAbility": "Gluttony",
+    "EventAbilities": "",
+    "RecommendedRank": "Starter",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "skwovet",
+    "DexCategory": "Cheeky Pokemon",
+    "Height": {
+        "Meters": 0.3,
+        "Feet": 1.0
+    },
+    "Weight": {
+        "Kilograms": 2.5,
+        "Pounds": 5.5
+    },
+    "DexDescription": "They love to feed on berries and nuts they store on their cheeks, they can get very anxious if its cheeks are empty. If you feed one of them they will follow you and call for others so you feed them as well.",
+    "Evolutions": [
+        {
+            "To": "Greedent",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "skwovet.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Tail Whip"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Bite"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Stuff Cheeks"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Stockpile"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Swallow"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Spit Up"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Body Slam"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Rest"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Counter"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Bullet Seed"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Super Fang"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Belch"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Defense Curl"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Rollout"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Crunch"
+        }
+    ]
+}

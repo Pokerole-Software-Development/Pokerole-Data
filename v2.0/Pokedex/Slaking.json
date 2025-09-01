@@ -1,0 +1,119 @@
+{
+    "Number": 289,
+    "DexID": "0289",
+    "Name": "Slaking",
+    "Type1": "Normal",
+    "Type2": "",
+    "BaseHP": 8,
+    "Strength": 4,
+    "MaxStrength": 8,
+    "Dexterity": 3,
+    "MaxDexterity": 6,
+    "Vitality": 3,
+    "MaxVitality": 6,
+    "Special": 2,
+    "MaxSpecial": 5,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Truant",
+    "Ability2": "",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Ace",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "slaking",
+    "DexCategory": "Lazy Pokemon",
+    "Height": {
+        "Meters": 2.0,
+        "Feet": 6.6
+    },
+    "Weight": {
+        "Kilograms": 130.5,
+        "Pounds": 287.7
+    },
+    "DexDescription": "They spend all day sleeping and eating grass that grows within their reach. Sometimes they live beneath trees, waiting for fruits to fall. They dislike intruders on their territory but rarely do anything about them.",
+    "Evolutions": [
+        {
+            "From": "Vigoroth",
+            "Kind": "Level",
+            "Speed": "Fast"
+        }
+    ],
+    "Image": "slaking.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Scratch"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Yawn"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Encore"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Punishment"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Feint Attack"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Slack Off"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Covet"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Encore"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Fling"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Amnesia"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Swagger"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Hammer Arm"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Chip Away"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Counter"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Flail"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Block"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Focus Punch"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Gunk Shot"
+        }
+    ]
+}

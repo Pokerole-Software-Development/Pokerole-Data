@@ -1,0 +1,18 @@
+{
+    "Name": "Sky Uppercut",
+    "Type": "Fighting",
+    "Power": 3,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "-1 Accuracy.",
+    "Description": "The user attacks with an uppercut, throwing the foe skyward with lots of force.",
+    "_id": "sky-uppercut",
+    "Attributes": {
+        "AccuracyReduction": 1
+    },
+    "AddedEffects": {},
+    "Category": "Physical"
+}

@@ -1,0 +1,19 @@
+{
+    "Name": "Ice Shard",
+    "Type": "Ice",
+    "Power": 2,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "Ranged. Priority 1.",
+    "Description": "The user quickly freezes some bits of ice and throws them at the target.",
+    "_id": "ice-shard",
+    "Attributes": {
+        "PhysicalRanged": true,
+        "Priority": 1
+    },
+    "AddedEffects": {},
+    "Category": "Physical"
+}

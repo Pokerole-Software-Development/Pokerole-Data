@@ -1,0 +1,79 @@
+{
+    "Number": 440,
+    "DexID": "0440",
+    "Name": "Happiny",
+    "Type1": "Normal",
+    "Type2": "",
+    "BaseHP": 4,
+    "Strength": 1,
+    "MaxStrength": 2,
+    "Dexterity": 1,
+    "MaxDexterity": 3,
+    "Vitality": 1,
+    "MaxVitality": 2,
+    "Special": 1,
+    "MaxSpecial": 2,
+    "Insight": 1,
+    "MaxInsight": 3,
+    "Ability1": "Natural Cure",
+    "Ability2": "Serene Grace",
+    "HiddenAbility": "Friend Guard",
+    "EventAbilities": "",
+    "RecommendedRank": "Starter",
+    "GenderType": "F",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "happiny",
+    "DexCategory": "Playhouse Pokemon",
+    "Height": {
+        "Meters": 0.6,
+        "Feet": 2.0
+    },
+    "Weight": {
+        "Kilograms": 24.4,
+        "Pounds": 53.8
+    },
+    "DexDescription": "It is not common to see Happinies. This baby Pokemon cannot produce eggs yet, so she searches for white stones and carries them on its pouch. It likes to look pretty and tries to always be adorable.",
+    "Evolutions": [
+        {
+            "To": "Chansey",
+            "Kind": "Level",
+            "Item": "Oval Stone"
+        }
+    ],
+    "Image": "happiny.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Pound"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Charm"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Copycat"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Refresh"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Sweet Kiss"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Helping Hand"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Present"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Drain Punch"
+        }
+    ]
+}

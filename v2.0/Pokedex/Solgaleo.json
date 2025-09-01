@@ -1,0 +1,135 @@
+{
+    "Number": 791,
+    "DexID": "0791",
+    "Name": "Solgaleo",
+    "Type1": "Psychic",
+    "Type2": "Steel",
+    "BaseHP": 7,
+    "Strength": 7,
+    "MaxStrength": 7,
+    "Dexterity": 6,
+    "MaxDexterity": 6,
+    "Vitality": 6,
+    "MaxVitality": 6,
+    "Special": 5,
+    "MaxSpecial": 5,
+    "Insight": 5,
+    "MaxInsight": 5,
+    "Ability1": "Full Metal Body",
+    "Ability2": "",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Master",
+    "GenderType": "N",
+    "Legendary": true,
+    "GoodStarter": false,
+    "_id": "solgaleo",
+    "DexCategory": "No Data",
+    "Height": {
+        "Meters": 3.4,
+        "Feet": 11.2
+    },
+    "Weight": {
+        "Kilograms": 230.0,
+        "Pounds": 507.1
+    },
+    "DexDescription": "There are legends about a being that radiated with the sun, on its forehead a third eye that connected to another dimension.",
+    "Evolutions": [
+        {
+            "From": "Cosmoem",
+            "Kind": "Level",
+            "Game": "Sword"
+        }
+    ],
+    "Image": "solgaleo.png",
+    "Moves": [
+        {
+            "Learned": "Master",
+            "Name": "Sunsteel Strike"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Cosmic Power"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Wake-Up Slap"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Teleport"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Metal Claw"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Iron Head"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Iron Head"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Zen Headbutt"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Flash Cannon"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Morning Sun"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Crunch"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Metal Burst"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Solar Beam"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Noble Roar"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Flare Blitz"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Wide Guard"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Giga Impact"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Sunny Day"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Light Screen"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Outrage"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Flame Charge"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Dazzling Gleam"
+        }
+    ]
+}

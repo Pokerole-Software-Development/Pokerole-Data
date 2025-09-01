@@ -1,0 +1,19 @@
+{
+    "Name": "Head Smash",
+    "Type": "Rock",
+    "Power": 6,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Strength",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "Recoil. -2 Accuracy.",
+    "Description": "The user charges head first to attack the foe, the strike is devastating for both.",
+    "_id": "head-smash",
+    "Attributes": {
+        "Recoil": true,
+        "AccuracyReduction": 2
+    },
+    "AddedEffects": {},
+    "Category": "Physical"
+}

@@ -1,0 +1,84 @@
+{
+    "Number": 174,
+    "DexID": "0174",
+    "Name": "Igglybuff",
+    "Type1": "Normal",
+    "Type2": "Fairy",
+    "BaseHP": 3,
+    "Strength": 1,
+    "MaxStrength": 3,
+    "Dexterity": 1,
+    "MaxDexterity": 2,
+    "Vitality": 1,
+    "MaxVitality": 2,
+    "Special": 1,
+    "MaxSpecial": 3,
+    "Insight": 1,
+    "MaxInsight": 3,
+    "Ability1": "Cute Charm",
+    "Ability2": "Competitive",
+    "HiddenAbility": "Friend Guard",
+    "EventAbilities": "",
+    "RecommendedRank": "Starter",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "igglybuff",
+    "DexCategory": "Balloon Pokemon",
+    "Height": {
+        "Meters": 0.3,
+        "Feet": 1.0
+    },
+    "Weight": {
+        "Kilograms": 1.0,
+        "Pounds": 2.2
+    },
+    "DexDescription": "It has a very light body that makes it float and bounce. If you are not careful it can bounce away without control. After being bottle fed it will not bounce but wiggle around. It gets cranky if it doesn\u2019t take a nap.",
+    "Evolutions": [
+        {
+            "To": "Jigglypuff",
+            "Kind": "Stat",
+            "Stat": "Happiness",
+            "Value": 4
+        }
+    ],
+    "Image": "igglybuff.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Sing"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Charm"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Defense Curl"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Pound"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Sweet Kiss"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Copycat"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Hyper Voice"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Bounce"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Perish Song"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "Name": "Fire Fang",
+    "Type": "Fire",
+    "Power": 2,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "Roll 2 Chance to Flinch the Foe. Roll 2 Chance Dice to Burn the foe. -1 Accuracy.",
+    "Description": "The user breathes fire from its mouth while biting the target.",
+    "_id": "fire-fang",
+    "Attributes": {
+        "AccuracyReduction": 1
+    },
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Flinch",
+                "Affects": "Targets",
+                "ChanceDice": 2
+            },
+            {
+                "Type": "Burn",
+                "Affects": "Targets",
+                "ChanceDice": 2
+            }
+        ]
+    },
+    "Category": "Physical"
+}

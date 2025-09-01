@@ -1,0 +1,28 @@
+{
+    "Name": "Screech",
+    "Type": "Normal",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Tough",
+    "Accuracy2": "Perform",
+    "Target": "Foe",
+    "Effect": "Reduce the foe's Defense by 2. Sound Based.",
+    "Description": "The user disrupts the fighting stance of its foe by sending a sharp sound to the foe's ears.",
+    "_id": "screech",
+    "Attributes": {
+        "SoundBased": true
+    },
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "Def"
+                ],
+                "Stages": -2,
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Support"
+}

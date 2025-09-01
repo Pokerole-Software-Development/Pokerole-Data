@@ -1,0 +1,26 @@
+{
+    "Name": "Electroweb",
+    "Type": "Electric",
+    "Power": 2,
+    "Damage1": "Special",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Channel",
+    "Target": "All Foes",
+    "Effect": "Reduce Dexterity of those affected.",
+    "Description": "Shoots an electrified web at all foes to restrict their movement. Walking through this web can be painful.",
+    "_id": "electroweb",
+    "Attributes": {},
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "Dexterity"
+                ],
+                "Stages": -1,
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Special"
+}

@@ -1,0 +1,83 @@
+{
+    "Number": 36,
+    "DexID": "0036",
+    "Name": "Clefable",
+    "Type1": "Fairy",
+    "Type2": "",
+    "BaseHP": 5,
+    "Strength": 2,
+    "MaxStrength": 5,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 3,
+    "MaxSpecial": 6,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Cute Charm",
+    "Ability2": "Magic Guard",
+    "HiddenAbility": "Unaware",
+    "EventAbilities": "",
+    "RecommendedRank": "Amateur",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "clefable",
+    "DexCategory": "Fairy Pokemon",
+    "Height": {
+        "Meters": 1.3,
+        "Feet": 4.3
+    },
+    "Weight": {
+        "Kilograms": 40.0,
+        "Pounds": 88.2
+    },
+    "DexDescription": "There are not many records about it in the wild. They are timid but playful. Clefable uses its wings to skip lightly as if it was flying. Its bouncy step lets it walk on water. On quiet, moonlit nights, it strolls near lakes.",
+    "Evolutions": [
+        {
+            "From": "Clefairy",
+            "Kind": "Stone",
+            "Item": "Moon Stone"
+        }
+    ],
+    "Image": "clefable.png",
+    "Moves": [
+        {
+            "Learned": "Beginner",
+            "Name": "Spotlight"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Sing"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Moonblast"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Minimize"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Double Slap"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Drain Punch"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Metronome"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Heal Pulse"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Wish"
+        }
+    ]
+}

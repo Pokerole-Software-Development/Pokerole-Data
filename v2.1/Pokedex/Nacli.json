@@ -1,0 +1,115 @@
+{
+    "Number": 932,
+    "DexID": "0932",
+    "Name": "Nacli",
+    "Type1": "Rock",
+    "Type2": "",
+    "BaseHP": 3,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 1,
+    "MaxDexterity": 3,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 1,
+    "MaxSpecial": 3,
+    "Insight": 1,
+    "MaxInsight": 3,
+    "Ability1": "Purifying Salt",
+    "Ability2": "Clear Body",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Standard",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "nacli",
+    "DexCategory": "Rock Salt Pokémon",
+    "Height": {
+        "Meters": 0.4,
+        "Feet": 1.3
+    },
+    "Weight": {
+        "Kilograms": 16.0,
+        "Pounds": 35.3
+    },
+    "DexDescription": "These Pokémon are born in layers of rock salt that exist underground. The ground scrapes the salt off as they travel, but they replenish it. This made them very appreciated in the old days as they shared their salt.",
+    "Evolutions": [
+        {
+            "To": "Naclstack",
+            "Kind": "Level",
+            "Speed": "Slow"
+        }
+    ],
+    "Image": "nacli.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Harden"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Rock Throw"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Mud Shot"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Smack Down"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Rock Polish"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Headbutt"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Iron Defense"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Stealth Rock"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Rock Slide"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Recover"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Heavy Slam"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Earthquake"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Stone Edge"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Zen Headbutt"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Ancient Power"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Body Slam"
+        }
+    ]
+}

@@ -1,0 +1,138 @@
+{
+    "Number": 550,
+    "DexID": "0550H",
+    "Name": "Basculin (Hisuian Form)",
+    "Type1": "Water",
+    "Type2": "",
+    "BaseHP": 4,
+    "Strength": 2,
+    "MaxStrength": 5,
+    "Dexterity": 3,
+    "MaxDexterity": 6,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 2,
+    "MaxSpecial": 5,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Rattled",
+    "Ability2": "Adaptability",
+    "HiddenAbility": "Mold Breaker",
+    "EventAbilities": "",
+    "RecommendedRank": "Rookie",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "basculin-hisuian-form",
+    "DexCategory": "Mellow Pokémon",
+    "Height": {
+        "Meters": 1.0,
+        "Feet": 3.3
+    },
+    "Weight": {
+        "Kilograms": 11,
+        "Pounds": 25
+    },
+    "DexDescription": "A Basculin variant that existed in old Hisui. It had a timid and skittish demeanor, unlike the modern specimens who are prone to violence. It was rare to see; it fled as soon as it noticed you. None have been seen in 200 years.",
+    "Evolutions": [
+        {
+        "To": "Basculegion F",
+        "Kind": "Level",
+        "Speed": "Slow",
+        "Special": "Female"
+        },
+        {
+        "To": "Basculegion M",
+        "Kind": "Level",
+        "Speed": "Slow",
+        "Special": "Male"
+        }
+    ],
+    "Image": "basculin-hisuian-form.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Water Gun"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Tail Whip"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Bite"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Flail"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Aqua Jet"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Scary Face"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Headbutt"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Soak"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Uproar"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Crunch"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Take Down"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Dive"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Chip Away"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Endeavor"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Chip Away"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Double-Edge"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Head Smash"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Agility"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Flip Turn"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Last Respects"
+        }
+    ]
+}

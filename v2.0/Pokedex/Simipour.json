@@ -1,0 +1,75 @@
+{
+    "Number": 516,
+    "DexID": "0516",
+    "Name": "Simipour",
+    "Type1": "Water",
+    "Type2": "",
+    "BaseHP": 4,
+    "Strength": 3,
+    "MaxStrength": 6,
+    "Dexterity": 3,
+    "MaxDexterity": 6,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 3,
+    "MaxSpecial": 6,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Gluttony",
+    "Ability2": "",
+    "HiddenAbility": "Torrent",
+    "EventAbilities": "",
+    "RecommendedRank": "Amateur",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "simipour",
+    "DexCategory": "Geyser Pokemon",
+    "Height": {
+        "Meters": 1.0,
+        "Feet": 3.3
+    },
+    "Weight": {
+        "Kilograms": 29.0,
+        "Pounds": 63.9
+    },
+    "DexDescription": "It prefers places with clean water. When its tuft runs low, it replenishes it by siphoning water up with its tail. It is said that if you see a Simipour Swimming in a pond, the water is safe to drink.",
+    "Evolutions": [
+        {
+            "From": "Panpour",
+            "Kind": "Stone",
+            "Item": "Water Stone"
+        }
+    ],
+    "Image": "simipour.png",
+    "Moves": [
+        {
+            "Learned": "Beginner",
+            "Name": "Leer"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Lick"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Fury Swipes"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Scald"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Aqua Ring"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Hydro Pump"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Gunk Shot"
+        }
+    ]
+}

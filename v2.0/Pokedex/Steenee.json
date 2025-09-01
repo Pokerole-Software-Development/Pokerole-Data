@@ -1,0 +1,116 @@
+{
+    "Number": 762,
+    "DexID": "0762",
+    "Name": "Steenee",
+    "Type1": "Grass",
+    "Type2": "",
+    "BaseHP": 4,
+    "Strength": 1,
+    "MaxStrength": 3,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 1,
+    "MaxSpecial": 3,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Leaf Guard",
+    "Ability2": "Oblivious",
+    "HiddenAbility": "Sweet Veil",
+    "EventAbilities": "",
+    "RecommendedRank": "Beginner",
+    "GenderType": "F",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "steenee",
+    "DexCategory": "Fruit Pokemon",
+    "Height": {
+        "Meters": 0.7,
+        "Feet": 2.3
+    },
+    "Weight": {
+        "Kilograms": 8.2,
+        "Pounds": 18.1
+    },
+    "DexDescription": "Its sweet aroma keeps attracting predators but it fends them away with its hard and bitter head leaves. It likes to be taken seriously and can be hard to deal with, if you make it mad you\u2019ll receive a kick.",
+    "Evolutions": [
+        {
+            "From": "Bounsweet",
+            "Kind": "Level",
+            "Speed": "Medium"
+        },
+        {
+            "To": "Tsareena",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "steenee.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Play Nice"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Splash"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Sweet Scent"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Rapid Spin"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Razor Leaf"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Double Slap"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Magical Leaf"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Teeter Dance"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Stomp"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Aromatic Mist"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Captivate"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Aromatherapy"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Leaf Storm"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Acupressure"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Feint"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Synthesis"
+        }
+    ]
+}

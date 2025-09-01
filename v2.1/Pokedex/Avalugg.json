@@ -1,0 +1,147 @@
+{
+    "Number": 713,
+    "DexID": "0713",
+    "Name": "Avalugg",
+    "Type1": "Ice",
+    "Type2": "",
+    "BaseHP": 6,
+    "Strength": 3,
+    "MaxStrength": 6,
+    "Dexterity": 1,
+    "MaxDexterity": 3,
+    "Vitality": 4,
+    "MaxVitality": 9,
+    "Special": 1,
+    "MaxSpecial": 3,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Ice Body",
+    "Ability2": "Sturdy",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Expert",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "avalugg",
+    "DexCategory": "Iceberg Pokémon",
+    "Height": {
+        "Meters": 2.0,
+        "Feet": 6.6
+    },
+    "Weight": {
+        "Kilograms": 505.0,
+        "Pounds": 1113.3
+    },
+    "DexDescription": "They carry their Bergmite offspring on their backs. Its Ice body is hard as steel and its cumbersome frame crushes anything that stands in its way. They are capable of swimming but they move very slowly.",
+    "Evolutions": [
+        {
+            "From": "Bergmite",
+            "Kind": "Level",
+            "Speed": "Slow"
+        }
+    ],
+    "Image": "avalugg.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Rapid Spin"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Harden"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Sharpen"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Powder Snow"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Curse"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Icy Wind"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Protect"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Block"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Bite"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Body Slam"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Iron Head"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Ice Fang"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Iron Defense"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Recover"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Mountain Glide"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Wide Guard"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Superpower"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Crunch"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Blizzard"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Double-Edge"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Skull Bash"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Aurora Veil"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Heavy Slam"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Body Press"
+        }
+    ]
+}

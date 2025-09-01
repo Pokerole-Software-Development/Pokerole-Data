@@ -1,0 +1,23 @@
+{
+    "Name": "Throat Chop",
+    "Type": "Dark",
+    "Power": 3,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "The target cannot use any \"Sound Based\" Move for the rest of the scene.",
+    "Description": "A heinous attack to a Pokemon's throat that will leave them unable to make a sound for hours.",
+    "_id": "throat-chop",
+    "Attributes": {},
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Silence",
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Physical"
+}

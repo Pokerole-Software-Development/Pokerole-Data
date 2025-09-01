@@ -1,0 +1,16 @@
+{
+    "Name": "Acrobatics",
+    "Type": "Flying",
+    "Power": 4,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "If the User has a Held Item, remove 2 Dice from the Damage Roll.",
+    "Description": "The user makes quick and graceful acrobatic moves to hit the foe, it will be swifter if nothing gets in the way.",
+    "_id": "acrobatics",
+    "Attributes": {},
+    "AddedEffects": {},
+    "Category": "Physical"
+}

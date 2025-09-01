@@ -1,0 +1,16 @@
+{
+    "Name": "Bug Bite",
+    "Type": "Bug",
+    "Power": 2,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "If the Target Pokemon is holding a berry, the user eats it and gains its effect.",
+    "Description": "The Pokemon nibbles its foe, if it finds something tasty it will eat it in an instant. It may try to eat almost anything.",
+    "_id": "bug-bite",
+    "Attributes": {},
+    "AddedEffects": {},
+    "Category": "Physical"
+}

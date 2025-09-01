@@ -1,0 +1,23 @@
+{
+    "Name": "Confuse Ray",
+    "Type": "Ghost",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Insight",
+    "Accuracy2": "Nature",
+    "Target": "Foe",
+    "Effect": "Confuse the foe.",
+    "Description": "The user flashes a sinister ray of bright light that leaves the target disoriented and confused.",
+    "_id": "confuse-ray",
+    "Attributes": {},
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Confuse",
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Support"
+}

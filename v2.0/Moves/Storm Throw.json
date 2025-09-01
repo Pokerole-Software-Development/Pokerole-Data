@@ -1,0 +1,18 @@
+{
+    "Name": "Storm Throw",
+    "Type": "Fighting",
+    "Power": 2,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "If the Accuracy Roll is successful this move becomes a Critical Hit.",
+    "Description": "The user impacts a weak spot with a powerful blow.",
+    "_id": "storm-throw",
+    "Attributes": {
+        "AlwaysCrit": true
+    },
+    "AddedEffects": {},
+    "Category": "Physical"
+}

@@ -1,0 +1,19 @@
+{
+    "Name": "Attack Order",
+    "Type": "Bug",
+    "Power": 3,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Tough",
+    "Accuracy2": "Nature",
+    "Target": "Foe",
+    "Effect": "High Critical. Ranged.",
+    "Description": "The user calls upon her swarm and heeds them to charge against you. No matter where you run, they will surround you. Hope you are not allergic to bees.",
+    "_id": "attack-order",
+    "Attributes": {
+        "HighCritical": true,
+        "PhysicalRanged": true
+    },
+    "AddedEffects": {},
+    "Category": "Physical"
+}

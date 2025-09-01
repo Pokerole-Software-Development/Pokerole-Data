@@ -1,0 +1,20 @@
+{
+    "Name": "Snowscape",
+    "Type": "Ice",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Special",
+    "Accuracy2": "Nature",
+    "Target": "Battlefield",
+    "Effect": "Target Battlefield. Activate Snowy Weather. Duration 4 Rounds.",
+    "Description": "A heavy snowstorm sweeps through the battlefield, covering everything with a thick layer of snow.",
+    "_id": "snowscape",
+    "Attributes": {
+        "Duration": 4
+    },
+    "AddedEffects": {
+        "TerrainEffect": "Hail"
+    },
+    "Category": "Support"
+}

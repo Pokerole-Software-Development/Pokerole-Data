@@ -1,0 +1,139 @@
+{
+    "Number": 451,
+    "DexID": "0451",
+    "Name": "Skorupi",
+    "Type1": "Poison",
+    "Type2": "Bug",
+    "BaseHP": 3,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 1,
+    "MaxSpecial": 3,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Battle Armor",
+    "Ability2": "Sniper",
+    "HiddenAbility": "Keen Eye",
+    "EventAbilities": "",
+    "RecommendedRank": "Rookie",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "skorupi",
+    "DexCategory": "Scorpion Pokémon",
+    "Height": {
+        "Meters": 0.8,
+        "Feet": 2.6
+    },
+    "Weight": {
+        "Kilograms": 12.0,
+        "Pounds": 26.5
+    },
+    "DexDescription": "It lives in deserts and arid regions. It buries itself under the sand, waiting for unsuspecting prey to come nearby. It will then sting the prey and cling to it tenaciously until the poison takes effect.",
+    "Evolutions": [
+        {
+            "To": "Drapion",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "skorupi.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Poison Sting"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Leer"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Hone Claws"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Pin Missile"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Bite"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Bug Bite"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Venoshock"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Acupressure"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Toxic Spikes"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Scary Face"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Pursuit"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Toxic"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Fell Stinger"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Knock Off"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Poison Fang"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "X-Scissor"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Night Slash"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Swords Dance"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Cross Poison"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Crunch"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Aqua Tail"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Aerial Ace"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Poison Tail"
+        }
+    ]
+}

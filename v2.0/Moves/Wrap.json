@@ -1,0 +1,26 @@
+{
+    "Name": "Wrap",
+    "Type": "Normal",
+    "Power": 1,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "Blocks. Roll 2 Dice of Damage against the foe at the end of each Round. Lasts 4 Rounds. -1 Accuracy.",
+    "Description": "The Pokemon traps its foe with its body or vines, causing some damage.",
+    "_id": "wrap",
+    "Attributes": {
+        "BlockDamagePool": 2,
+        "AccuracyReduction": 1
+    },
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Block",
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Physical"
+}

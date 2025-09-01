@@ -1,0 +1,123 @@
+{
+    "Number": 696,
+    "DexID": "0696",
+    "Name": "Tyrunt",
+    "Type1": "Rock",
+    "Type2": "Dragon",
+    "BaseHP": 4,
+    "Strength": 2,
+    "MaxStrength": 5,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Strong Jaw",
+    "Ability2": "Sturdy",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Advanced",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "tyrunt",
+    "DexCategory": "Royal Heir Pokémon",
+    "Height": {
+        "Meters": 0.8,
+        "Feet": 2.6
+    },
+    "Weight": {
+        "Kilograms": 26.0,
+        "Pounds": 57.3
+    },
+    "DexDescription": "This Pokémon was restored from a fossil. If something happens that it doesn't like, it throws a tantrum and runs wild. Many of the researchers that brought it back were attacked by its powerful jaws.",
+    "Evolutions": [
+        {
+            "To": "Tyrantrum",
+            "Kind": "Level",
+            "Speed": "Slow"
+        }
+    ],
+    "Image": "tyrunt.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Tail Whip"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Roar"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Ancient Power"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Bide"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Charm"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Bite"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Dragon Tail"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Stomp"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Rock Slide"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Dragon Claw"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Crunch"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Thrash"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Stealth Rock"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Earthquake"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Horn Drill"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Fire Fang"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Ice Fang"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Thunder Fang"
+        }
+    ]
+}

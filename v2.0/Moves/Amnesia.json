@@ -1,0 +1,26 @@
+{
+    "Name": "Amnesia",
+    "Type": "Psychic",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Insight",
+    "Accuracy2": "Alert",
+    "Target": "User",
+    "Effect": "Increase the User's Sp. Defense by 2.",
+    "Description": "As a fine example of mind over matter, the user temporarily empties its mind to make it more resilient.",
+    "_id": "amnesia",
+    "Attributes": {},
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "SpDef"
+                ],
+                "Stages": 2,
+                "Affects": "User"
+            }
+        ]
+    },
+    "Category": "Support"
+}

@@ -1,0 +1,132 @@
+{
+    "Number": 80,
+    "DexID": "0080",
+    "Name": "Slowbro",
+    "Type1": "Water",
+    "Type2": "Psychic",
+    "BaseHP": 5,
+    "Strength": 2,
+    "MaxStrength": 5,
+    "Dexterity": 1,
+    "MaxDexterity": 3,
+    "Vitality": 4,
+    "MaxVitality": 6,
+    "Special": 3,
+    "MaxSpecial": 6,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Oblivious",
+    "Ability2": "Own Tempo",
+    "HiddenAbility": "Regenerator",
+    "EventAbilities": "",
+    "RecommendedRank": "Amateur",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "slowbro",
+    "DexCategory": "Hermit Crab Pokemon",
+    "Height": {
+        "Meters": 1.6,
+        "Feet": 5.2
+    },
+    "Weight": {
+        "Kilograms": 78.5,
+        "Pounds": 173.1
+    },
+    "DexDescription": "This Pokemon fused with a Shellder that bit into its tail. It\u2019s a slow swimmer and doesn\u2019t react to pain but Shellder tends to keep it out of trouble.",
+    "Evolutions": [
+        {
+            "From": "Slowpoke",
+            "Kind": "Level",
+            "Speed": "Slow"
+        },
+        {
+            "To": "Slowbro (Mega Form)",
+            "Kind": "Mega",
+            "Item": "Slowbronite"
+        }
+    ],
+    "Image": "slowbro.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Yawn"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Curse"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Growl"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Water Gun"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Confusion"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Disable"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Headbutt"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Water Pulse"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Zen Headbutt"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Slack Off"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Withdraw"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Amnesia"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Psychic"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Rain Dance"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Psych Up"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Heal Pulse"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Aqua Tail"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Belly Drum"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Future Sight"
+        }
+    ]
+}

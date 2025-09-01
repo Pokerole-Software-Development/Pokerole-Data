@@ -1,0 +1,26 @@
+{
+    "Name": "Aqua Step (Athletic)",
+    "Type": "Water",
+    "Power": 3,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Athletic",
+    "Target": "Foe",
+    "Effect": "Single Target. Increase the User's Dexterity by 1.",
+    "Description": "With some light and fluid dance steps, the user toys with its target by kicking and splashing around.",
+    "_id": "aqua-step-(athletic)",
+    "Attributes": {},
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "Dexterity"
+                ],
+                "Stages": 1,
+                "Affects": "User"
+            }
+        ]
+    },
+    "Category": "Physical"
+}

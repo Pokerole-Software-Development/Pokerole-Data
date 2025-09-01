@@ -1,0 +1,23 @@
+{
+    "Name": "Attract",
+    "Type": "Normal",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Beauty",
+    "Accuracy2": "Allure",
+    "Target": "Foe",
+    "Effect": "If Successful, Target is now In Love. This Move fails if target is from same gender as the User or genderless.",
+    "Description": "The user makes use of its good looks and attitude to infatuate its foe.",
+    "_id": "attract",
+    "Attributes": {},
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Infaturate",
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Support"
+}

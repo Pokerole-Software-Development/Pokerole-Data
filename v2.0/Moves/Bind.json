@@ -1,0 +1,26 @@
+{
+    "Name": "Bind",
+    "Type": "Normal",
+    "Power": 1,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "Block. Deal 2 dice of damage at the end of each Round. Lasts 4 Rounds. -2 Accuracy.",
+    "Description": "The Pokemon uses its body to bind the foe, restraining and squeezing it.",
+    "_id": "bind",
+    "Attributes": {
+        "BlockDamagePool": 2,
+        "AccuracyReduction": 2
+    },
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Block",
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Physical"
+}

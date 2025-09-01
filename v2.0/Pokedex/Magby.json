@@ -1,0 +1,115 @@
+{
+    "Number": 240,
+    "DexID": "0240",
+    "Name": "Magby",
+    "Type1": "Fire",
+    "Type2": "",
+    "BaseHP": 3,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 1,
+    "MaxVitality": 3,
+    "Special": 1,
+    "MaxSpecial": 3,
+    "Insight": 1,
+    "MaxInsight": 3,
+    "Ability1": "Flame Body",
+    "Ability2": "",
+    "HiddenAbility": "Vital Spirit",
+    "EventAbilities": "",
+    "RecommendedRank": "Beginner",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "magby",
+    "DexCategory": "Live Coal Pokemon",
+    "Height": {
+        "Meters": 0.7,
+        "Feet": 2.3
+    },
+    "Weight": {
+        "Kilograms": 21.4,
+        "Pounds": 47.2
+    },
+    "DexDescription": "They inhale and exhale embers from their mouth and nostrils. Their body temperature is so hot, they may ignite anything they touch and the floor they walk. Magby can be found in volcanoes.",
+    "Evolutions": [
+        {
+            "To": "Magmar",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "magby.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Leer"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Smog"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Ember"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Smokescreen"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Feint Attack"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Fire Spin"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Clear Smog"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Flame Burst"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Confuse Ray"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Fire Punch"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Lava Plume"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Sunny Day"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Flamethrower"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Fire Blast"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Karate Chop"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Belch"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Screech"
+        }
+    ]
+}

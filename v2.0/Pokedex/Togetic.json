@@ -1,0 +1,133 @@
+{
+    "Number": 176,
+    "DexID": "0176",
+    "Name": "Togetic",
+    "Type1": "Fairy",
+    "Type2": "Flying",
+    "BaseHP": 4,
+    "Strength": 1,
+    "MaxStrength": 3,
+    "Dexterity": 1,
+    "MaxDexterity": 3,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 2,
+    "MaxSpecial": 5,
+    "Insight": 3,
+    "MaxInsight": 6,
+    "Ability1": "Hustle",
+    "Ability2": "Serene Grace",
+    "HiddenAbility": "Super Luck",
+    "EventAbilities": "",
+    "RecommendedRank": "Amateur",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "togetic",
+    "DexCategory": "Happiness Pokemon",
+    "Height": {
+        "Meters": 0.6,
+        "Feet": 2.0
+    },
+    "Weight": {
+        "Kilograms": 3.2,
+        "Pounds": 7.1
+    },
+    "DexDescription": "Although there have been very few sightings of this Pokemon in the wild, it is known to appear before kind hearted people and grant them happiness. It is very energetic and friendly.",
+    "Evolutions": [
+        {
+            "From": "Togepi",
+            "Kind": "Stat",
+            "Stat": "Happiness",
+            "Value": 5
+        },
+        {
+            "To": "Togekiss",
+            "Kind": "Stone",
+            "Item": "Shiny Stone"
+        }
+    ],
+    "Image": "togetic.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Growl"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Charm"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Sweet Kiss"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Metronome"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Magical Leaf"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Yawn"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Fairy Wind"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Encore"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Follow Me"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Bestow"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Safeguard"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Ancient Power"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Baton Pass"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Wish"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Double-Edge"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Last Resort"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "After You"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Lucky Chant"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Nasty Plot"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Extrasensory"
+        }
+    ]
+}

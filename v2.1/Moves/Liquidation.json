@@ -1,0 +1,29 @@
+{
+    "Name": "Liquidation",
+    "Type": "Water",
+    "Power": 3,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Strength",
+    "Accuracy2": "Athletic/Brawl",
+    "Target": "Foe",
+    "Effect": "Single Target. Lethal. Roll 2 Chance Dice to Reduce the Target's Defense by 1.",
+    "Description": "The Pokémon gets close to its foe then strikes while shooting a full-force blast of pressurized water. The water may cut or dent through the target's armor.",
+    "_id": "liquidation",
+    "Attributes": {
+        "Lethal": true
+    },
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "Def"
+                ],
+                "Stages": -1,
+                "ChanceDice": 2,
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Physical"
+}

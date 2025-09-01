@@ -1,0 +1,26 @@
+{
+    "Name": "Fire Lash",
+    "Type": "Fire",
+    "Power": 3,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "Reduce Foe's Defense.",
+    "Description": "With a whip of fire, the Pokemon ensnares its foe, who is left defenseless and at its mercy.",
+    "_id": "fire-lash",
+    "Attributes": {},
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "Def"
+                ],
+                "Stages": -1,
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Physical"
+}

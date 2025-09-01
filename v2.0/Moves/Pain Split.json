@@ -1,0 +1,27 @@
+{
+    "Name": "Pain Split",
+    "Type": "Normal",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Will",
+    "Accuracy2": "Channel",
+    "Target": "Foe",
+    "Effect": "The user gives its Pain Penalizations to the foe. User ignores Pain Penalization effects on itself. For cannot ignore them with Will but it can still ignore its own Pain Penalizations. HP on both remains the same.",
+    "Description": "The user shares its pain with the foe. After a short while it becomes excruciating for the target.",
+    "_id": "pain-split",
+    "Attributes": {},
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "PainSplitUser",
+                "Affects": "User"
+            },
+            {
+                "Type": "PainSplitTarget",
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Support"
+}

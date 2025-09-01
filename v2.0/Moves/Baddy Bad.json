@@ -1,0 +1,24 @@
+{
+    "Name": "Baddy Bad",
+    "Type": "Dark",
+    "Power": 3,
+    "Damage1": "Special",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Channel",
+    "Target": "Foe",
+    "Effect": "If successful, for the next 4 Rounds the User and Allies will receive 1 less damage from Physical Attacks. This effect does not stack. If the user of this Move is at its Final Stage of Evolution, this move fails.",
+    "Description": "The Pokemon acts like a thug and channels its own dark aura as protection for itself and its allies.",
+    "_id": "baddy-bad",
+    "Attributes": {},
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "BaddyBad",
+                "Affects": "User",
+                "Rounds": 4
+            }
+        ]
+    },
+    "Category": "Special"
+}

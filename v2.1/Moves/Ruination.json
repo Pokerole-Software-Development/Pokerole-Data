@@ -1,0 +1,19 @@
+{
+    "Name": "Ruination",
+    "Type": "Dark",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Insight",
+    "Accuracy2": "Channel",
+    "Target": "Foe",
+    "Effect": "Single Target. Unique. Lethal. Roll Damage dice equal to the Target's Total HP, ignore Defenses. This Move will fail if the Target has previously been hit with this Move during the Battle.",
+    "Description": "The Pokemon viciously snarls showing its teeth. Its menacing look will make the foe cower in fear.",
+    "_id": "ruination",
+    "Attributes": {
+        "Unique": true,
+        "Lethal": true
+    },
+    "AddedEffects": {},
+    "Category": "Special"
+}

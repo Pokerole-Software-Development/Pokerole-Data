@@ -1,0 +1,23 @@
+{
+    "Name": "Mind Reader",
+    "Type": "Normal",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Insight",
+    "Accuracy2": "Channel",
+    "Target": "Foe",
+    "Effect": "This Pokemon gets 2 automatic successes on the next Accuracy Roll or Evasion Roll against the target.",
+    "Description": "The user reads the foe's mind. It knows exactly what to do next.",
+    "_id": "mind-reader",
+    "Attributes": {},
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "MindReader",
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Support"
+}

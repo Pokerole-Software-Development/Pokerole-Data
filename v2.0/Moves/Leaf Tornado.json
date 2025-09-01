@@ -1,0 +1,29 @@
+{
+    "Name": "Leaf Tornado",
+    "Type": "Grass",
+    "Power": 2,
+    "Damage1": "Special",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Channel",
+    "Target": "Foe",
+    "Effect": "Roll 5 Chance Dice to Reduce the Foe's Accuracy. -1 Accuracy.",
+    "Description": "A bush worth of sharp leaves swirls around the foe making it harder for it to aim attacks properly.",
+    "_id": "leaf-tornado",
+    "Attributes": {
+        "AccuracyReduction": 1
+    },
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "Accuracy"
+                ],
+                "Stages": -1,
+                "ChanceDice": 5,
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Special"
+}

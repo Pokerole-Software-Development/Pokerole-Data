@@ -1,0 +1,18 @@
+{
+    "Name": "Razor Wind",
+    "Type": "Normal",
+    "Power": 3,
+    "Damage1": "Special",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Channel",
+    "Target": "All Foes",
+    "Effect": "High Critical. Charge.",
+    "Description": "A sharp wind current is unleased against anyone standing against this Pokemon.",
+    "_id": "razor-wind",
+    "Attributes": {
+        "HighCritical": true
+    },
+    "AddedEffects": {},
+    "Category": "Special"
+}

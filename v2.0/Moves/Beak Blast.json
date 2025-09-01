@@ -1,0 +1,27 @@
+{
+    "Name": "Beak Blast",
+    "Type": "Flying",
+    "Power": 4,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "Ranged. Charge Move. Low Priority 3. If the User is hit by a Non Ranged Physical Attack while this move is charging, apply Burn 2 to the foe.",
+    "Description": "The Pokemon gets ready to release a boiling gas through its beak, which gets incredibly hot. The resulting blast sounds like a train's horn.",
+    "_id": "beak-blast",
+    "Attributes": {
+        "PhysicalRanged": true,
+        "Charge": true,
+        "Priority": -3
+    },
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "BeakBlast",
+                "Affects": "User"
+            }
+        ]
+    },
+    "Category": "Physical"
+}

@@ -1,0 +1,20 @@
+{
+    "Name": "Giga Impact",
+    "Type": "Normal",
+    "Power": 6,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Strength",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "Must Recharge. Lethal. -1 Accuracy.",
+    "Description": "The Pokemon strikes with a brutal force using all its body. The impact leaves the user somewhat stunned.",
+    "_id": "giga-impact",
+    "Attributes": {
+        "Lethal": true,
+        "MustRecharge": true,
+        "AccuracyReduction": 1
+    },
+    "AddedEffects": {},
+    "Category": "Physical"
+}

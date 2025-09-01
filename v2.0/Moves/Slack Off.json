@@ -1,0 +1,22 @@
+{
+    "Name": "Slack Off",
+    "Type": "Normal",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Vitality",
+    "Accuracy2": "Nature",
+    "Target": "User",
+    "Effect": "Basic Heal. If successful, spend 1 Will point to activate.",
+    "Description": "The Pokemon gets lazy and loafs around instead of fighting. This makes up for a short rest.",
+    "_id": "slack-off",
+    "Attributes": {},
+    "AddedEffects": {
+        "Heal": {
+            "Type": "Basic",
+            "Target": "Targets",
+            "WillPointCost": 1
+        }
+    },
+    "Category": "Support"
+}

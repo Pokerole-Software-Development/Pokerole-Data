@@ -1,0 +1,119 @@
+{
+    "Number": 597,
+    "DexID": "0597",
+    "Name": "Ferroseed",
+    "Type1": "Grass",
+    "Type2": "Steel",
+    "BaseHP": 3,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 1,
+    "MaxDexterity": 2,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 1,
+    "MaxSpecial": 3,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Iron Barbs",
+    "Ability2": "Anticipation",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Rookie",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "ferroseed",
+    "DexCategory": "Thorn Seed Pokémon",
+    "Height": {
+        "Meters": 0.6,
+        "Feet": 2.0
+    },
+    "Weight": {
+        "Kilograms": 18.8,
+        "Pounds": 41.4
+    },
+    "DexDescription": "They stick their thorns into cave walls and absorb the minerals from the rocks. When threatened, they attack by shooting a barrage of spikes, which gives them a chance to escape by rolling away.",
+    "Evolutions": [
+        {
+            "To": "Ferrothorn",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "ferroseed.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Harden"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Metal Claw"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Rollout"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Pin Missile"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Ingrain"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Flash Cannon"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Iron Head"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Self Destruct"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Mirror Shot"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Iron Defense"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Curse"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Gyro Ball"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Payback"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Explosion"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Leech Seed"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Spikes"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Seed Bomb"
+        }
+    ]
+}

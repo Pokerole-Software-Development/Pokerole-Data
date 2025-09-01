@@ -1,0 +1,27 @@
+{
+    "Name": "Tearful Look",
+    "Type": "Normal",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Cute",
+    "Accuracy2": "Allure",
+    "Target": "Foe",
+    "Effect": "Reduce Foe's Strength and Special.",
+    "Description": "The Pokemon's eyes start watering as if it were about to cry, it's foe is moved by the tears and loses its will to fight.",
+    "_id": "tearful-look",
+    "Attributes": {},
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "Strength",
+                    "Special"
+                ],
+                "Stages": -1,
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Support"
+}

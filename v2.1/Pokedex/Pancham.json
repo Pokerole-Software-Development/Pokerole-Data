@@ -1,0 +1,123 @@
+{
+    "Number": 674,
+    "DexID": "0674",
+    "Name": "Pancham",
+    "Type1": "Fighting",
+    "Type2": "",
+    "BaseHP": 3,
+    "Strength": 2,
+    "MaxStrength": 5,
+    "Dexterity": 1,
+    "MaxDexterity": 3,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Iron Fist",
+    "Ability2": "Scrappy",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Rookie",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "pancham",
+    "DexCategory": "Playful Pokémon",
+    "Height": {
+        "Meters": 0.6,
+        "Feet": 2.0
+    },
+    "Weight": {
+        "Kilograms": 8.0,
+        "Pounds": 17.6
+    },
+    "DexDescription": "It lives in bamboo forests. It is very energetic and playful. It wishes to be taken seriously, but has a hard time due to its cute appearance. For this reason it may start hanging out with the wrong crowd.",
+    "Evolutions": [
+        {
+            "To": "Pangoro",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "pancham.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Leer"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Arm Thrust"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Taunt"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Circle Throw"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Comet Punch"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Low Sweep"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Work Up"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Slash"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Karate Chop"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Vital Throw"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Crunch"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Body Slam"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Parting Shot"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Entrainment"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Sky Uppercut"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Fire Punch"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Ice Punch"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Thunder Punch"
+        }
+    ]
+}

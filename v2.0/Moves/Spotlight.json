@@ -1,0 +1,25 @@
+{
+    "Name": "Spotlight",
+    "Type": "Normal",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Cool",
+    "Accuracy2": "Perform",
+    "Target": "One Ally",
+    "Effect": "Priority 3. Foes will target One Ally this turn.",
+    "Description": "The user points a focused light onto one of its allies as if it were on a stage, the ally can't help but catch everyone's attention into itself.",
+    "_id": "spotlight",
+    "Attributes": {
+        "Priority": 3
+    },
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "FollowMeSpotlight",
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Support"
+}

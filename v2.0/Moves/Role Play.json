@@ -1,0 +1,23 @@
+{
+    "Name": "Role Play",
+    "Type": "Psychic",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Clever",
+    "Accuracy2": "Perform",
+    "Target": "Foe",
+    "Effect": "Copy the target's Ability. The abilities Flower Gift, Illusion, Imposter, Stance Change, Wonder Guard, and Plot Device cannot be copied.",
+    "Description": "The user mimics the target and takes on the most basic features from that character.",
+    "_id": "role-play",
+    "Attributes": {},
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "ChangedAbility",
+                "Affects": "User"
+            }
+        ]
+    },
+    "Category": "Support"
+}

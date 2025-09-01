@@ -1,0 +1,88 @@
+{
+    "Number": 173,
+    "DexID": "0173",
+    "Name": "Cleffa",
+    "Type1": "Fairy",
+    "Type2": "",
+    "BaseHP": 3,
+    "Strength": 1,
+    "MaxStrength": 3,
+    "Dexterity": 1,
+    "MaxDexterity": 2,
+    "Vitality": 1,
+    "MaxVitality": 3,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Cute Charm",
+    "Ability2": "Magic Guard",
+    "HiddenAbility": "Friend Guard",
+    "EventAbilities": "",
+    "RecommendedRank": "Starter",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "cleffa",
+    "DexCategory": "Star Shape Pokemon",
+    "Height": {
+        "Meters": 0.3,
+        "Feet": 1.0
+    },
+    "Weight": {
+        "Kilograms": 3.0,
+        "Pounds": 6.6
+    },
+    "DexDescription": "An extremely elusive Pokemon. A few have appeared when the night skies are filled with shooting stars - but they always disappear at dawn. Friendship and love allows it to go into the next step of life.",
+    "Evolutions": [
+        {
+            "To": "Clefairy",
+            "Kind": "Stat",
+            "Stat": "Happiness",
+            "Value": 4
+        }
+    ],
+    "Image": "cleffa.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Pound"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Charm"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Encore"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Sweet Kiss"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Sing"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Copycat"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Tickle"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Fake Tears"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Magical Leaf"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Wonder Room"
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "Name": "Aurora Veil",
+    "Type": "Ice",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Special",
+    "Accuracy2": "Channel",
+    "Target": "User and Allies",
+    "Effect": "Target User's Side of the Field. Force Field against Physical & Special Damage. This Move will fail if not performed under Hail Weather. Duration 4 Rounds, even if Hail Weather is over.",
+    "Description": "Aurora lights and hail spin around the Pokémon and its allies, deflecting attacks.",
+    "_id": "aurora-veil",
+    "Attributes": {
+        "Forcefield": {
+            "DamageType": "all",
+            "DamageReduction": 1
+        },
+        "Duration": 4
+    },
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "AuroraVeil",
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Support"
+}

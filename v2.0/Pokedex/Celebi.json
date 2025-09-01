@@ -1,0 +1,113 @@
+{
+    "Number": 251,
+    "DexID": "0251",
+    "Name": "Celebi",
+    "Type1": "Grass",
+    "Type2": "Psychic",
+    "BaseHP": 5,
+    "Strength": 6,
+    "MaxStrength": 6,
+    "Dexterity": 6,
+    "MaxDexterity": 6,
+    "Vitality": 6,
+    "MaxVitality": 6,
+    "Special": 6,
+    "MaxSpecial": 6,
+    "Insight": 6,
+    "MaxInsight": 6,
+    "Ability1": "Natural Cure",
+    "Ability2": "",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Master",
+    "GenderType": "N",
+    "Legendary": true,
+    "GoodStarter": false,
+    "_id": "celebi",
+    "DexCategory": "No Data",
+    "Height": {
+        "Meters": 0.6,
+        "Feet": 2.0
+    },
+    "Weight": {
+        "Kilograms": 5.0,
+        "Pounds": 11.0
+    },
+    "DexDescription": "Guardian of the Forest. Celebi is said to be able to travel through time, amending mistakes from people who hurt the land, and crafting a bright future for those who live nearby.",
+    "Evolutions": [],
+    "Image": "celebi.png",
+    "Moves": [
+        {
+            "Learned": "Master",
+            "Name": "Leech Seed"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Confusion"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Recover"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Heal Bell"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Safeguard"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Magical Leaf"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Ancient Power"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Baton Pass"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Natural Gift"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Heal Block"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Future Sight"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Healing Wish"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Leaf Storm"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Perish Song"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Double Team"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Trick Room"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Nature Power"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Worry Seed"
+        }
+    ]
+}

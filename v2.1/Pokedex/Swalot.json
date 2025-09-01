@@ -1,0 +1,135 @@
+{
+    "Number": 317,
+    "DexID": "0317",
+    "Name": "Swalot",
+    "Type1": "Poison",
+    "Type2": "",
+    "BaseHP": 6,
+    "Strength": 2,
+    "MaxStrength": 5,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 2,
+    "MaxSpecial": 5,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Liquid Ooze",
+    "Ability2": "Sticky Hold",
+    "HiddenAbility": "Gluttony",
+    "EventAbilities": "",
+    "RecommendedRank": "Advanced",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "swalot",
+    "DexCategory": "Poison Bag Pokémon",
+    "Height": {
+        "Meters": 1.7,
+        "Feet": 5.6
+    },
+    "Weight": {
+        "Kilograms": 80.0,
+        "Pounds": 176.4
+    },
+    "DexDescription": "Swalot spurt toxic fluids from their pores, and once the prey is weak, it gets swallowed whole since they have no teeth. They may eat anything up to the size of a car's tire. Do not get too close to them.",
+    "Evolutions": [
+        {
+            "From": "Gulpin",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "swalot.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Pound"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Yawn"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Poison Gas"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Sludge"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Amnesia"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Encore"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Toxic"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Body Slam"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Acid Spray"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Block"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Stockpile"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Spit Up"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Swallow"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Gastro Acid"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Sludge Bomb"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Belch"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Pain Split"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Wring Out"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Gunk Shot"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Acid Armor"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Self Destruct"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Destiny Bond"
+        }
+    ]
+}

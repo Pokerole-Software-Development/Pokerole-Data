@@ -1,0 +1,20 @@
+{
+    "Name": "Hail",
+    "Type": "Ice",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Special",
+    "Accuracy2": "Nature",
+    "Target": "Battlefield",
+    "Effect": "Target Battlefield. Activate Hail Weather. Duration 4 Rounds.",
+    "Description": "The user summons a hailstorm that will stay on the battlefield for some time.",
+    "_id": "hail",
+    "Attributes": {
+        "Duration": 4
+    },
+    "AddedEffects": {
+        "TerrainEffect": "Hail"
+    },
+    "Category": "Support"
+}

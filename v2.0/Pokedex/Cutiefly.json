@@ -1,0 +1,103 @@
+{
+    "Number": 742,
+    "DexID": "0742",
+    "Name": "Cutiefly",
+    "Type1": "Bug",
+    "Type2": "Fairy",
+    "BaseHP": 3,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 2,
+    "MaxDexterity": 5,
+    "Vitality": 1,
+    "MaxVitality": 3,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 1,
+    "MaxInsight": 3,
+    "Ability1": "Honey Gather",
+    "Ability2": "Shield Dust",
+    "HiddenAbility": "Sweet Veil",
+    "EventAbilities": "",
+    "RecommendedRank": "Starter",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "cutiefly",
+    "DexCategory": "Bee Fly Pokemon",
+    "Height": {
+        "Meters": 0.1,
+        "Feet": 0.3
+    },
+    "Weight": {
+        "Kilograms": 0.2,
+        "Pounds": 0.4
+    },
+    "DexDescription": "These delicate Pokemon gather by the numbers in flower meadows. They are attracted to happy and joyful people, the story says that Cutiefly see their auras and they resemble flowers.",
+    "Evolutions": [
+        {
+            "To": "Ribombee",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "cutiefly.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Absorb"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Fairy Wind"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Stun Spore"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Struggle Bug"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Silver Wind"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Draining Kiss"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Sweet Scent"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Bug Buzz"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Dazzling Gleam"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Aromatherapy"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Quiver Dance"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Moonblast"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Baton Pass"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Speed Swap"
+        }
+    ]
+}

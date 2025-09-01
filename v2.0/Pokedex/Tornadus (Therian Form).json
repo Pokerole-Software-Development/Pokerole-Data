@@ -1,0 +1,122 @@
+{
+    "Number": 641,
+    "DexID": "0641F1",
+    "Name": "Tornadus (Therian Form)",
+    "Type1": "Flying",
+    "Type2": "",
+    "BaseHP": 4,
+    "Strength": 6,
+    "MaxStrength": 6,
+    "Dexterity": 7,
+    "MaxDexterity": 7,
+    "Vitality": 5,
+    "MaxVitality": 5,
+    "Special": 6,
+    "MaxSpecial": 6,
+    "Insight": 5,
+    "MaxInsight": 5,
+    "Ability1": "Regenerator",
+    "Ability2": "",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Master",
+    "GenderType": "M",
+    "Legendary": true,
+    "GoodStarter": false,
+    "_id": "tornadus-therian-form",
+    "DexCategory": "No Data",
+    "Height": {
+        "Meters": 1.4,
+        "Feet": 4.6
+    },
+    "Weight": {
+        "Kilograms": 63.0,
+        "Pounds": 138.9
+    },
+    "DexDescription": "Some Pokemon reveal their true forms after recovering power lost to them. Great forces of nature can help them recover their strength such as Tornadoes, Lightning, and even a Landslide.",
+    "Evolutions": [
+        {
+            "From": "Tornadus",
+            "Kind": "Form"
+        }
+    ],
+    "Image": "tornadus-therian-form.png",
+    "Moves": [
+        {
+            "Learned": "Master",
+            "Name": "Uproar"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Astonish"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Gust"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Swagger"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Bite"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Revenge"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Air Cutter"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Extrasensory"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Agility"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Air Slash"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Crunch"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Tailwind"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Rain Dance"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Hurricane"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Dark Pulse"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Hammer Arm"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Thrash"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Whirlwind"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Defog"
+        }
+    ]
+}

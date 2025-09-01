@@ -1,0 +1,27 @@
+{
+    "Name": "Aromatic Mist",
+    "Type": "Fairy",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Insight",
+    "Accuracy2": "Nature",
+    "Target": "One Ally",
+    "Effect": "Increase one Ally's Defense and Sp. Defense.",
+    "Description": "The Pokemon showers an ally in a mist with a revitalizing armoa.",
+    "_id": "aromatic-mist",
+    "Attributes": {},
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "Def",
+                    "SpDef"
+                ],
+                "Stages": 1,
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Support"
+}

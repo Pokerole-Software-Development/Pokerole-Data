@@ -1,0 +1,125 @@
+{
+    "Number": 539,
+    "DexID": "0539",
+    "Name": "Sawk",
+    "Type1": "Fighting",
+    "Type2": "",
+    "BaseHP": 5,
+    "Strength": 3,
+    "MaxStrength": 7,
+    "Dexterity": 2,
+    "MaxDexterity": 5,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 1,
+    "MaxSpecial": 3,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Sturdy",
+    "Ability2": "Inner Focus",
+    "HiddenAbility": "Mold Breaker",
+    "EventAbilities": "",
+    "RecommendedRank": "Advanced",
+    "GenderType": "M",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "sawk",
+    "DexCategory": "Karate Pokémon",
+    "Height": {
+        "Meters": 1.4,
+        "Feet": 4.6
+    },
+    "Weight": {
+        "Kilograms": 51.0,
+        "Pounds": 112.4
+    },
+    "DexDescription": "This Pokémon is entirely dedicated to becoming stronger. Many have secluded in the mountains to train all day. Wild ones make their clothes out of plants and vines they find. Sawk and Throh train together.",
+    "Evolutions": [],
+    "Image": "sawk.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Rock Smash"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Leer"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Focus Energy"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Bide"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Double Kick"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Quick Guard"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Low Sweep"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Bulk Up"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Retaliate"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Brick Break"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Brick Break"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Karate Chop"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Strength"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Poison Jab"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Low Kick"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Endure"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Reversal"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Close Combat"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Close Combat"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Dual Chop"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Block"
+        }
+    ]
+}

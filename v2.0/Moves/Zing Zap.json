@@ -1,0 +1,24 @@
+{
+    "Name": "Zing Zap",
+    "Type": "Electric",
+    "Power": 3,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "Roll 3 Chance Dice to Flinch the Foe.",
+    "Description": "The user hurls itself as a zig-zaging ball of electricity that explodes on contact, this leaves the foe unable to move for a few seconds.",
+    "_id": "zing-zap",
+    "Attributes": {},
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Flinch",
+                "Affects": "Targets",
+                "ChanceDice": 3
+            }
+        ]
+    },
+    "Category": "Physical"
+}

@@ -1,0 +1,135 @@
+{
+    "Number": 381,
+    "DexID": "0381M1",
+    "Name": "Latios (Mega Form)",
+    "Type1": "Dragon",
+    "Type2": "Psychic",
+    "BaseHP": 5,
+    "Strength": 7,
+    "MaxStrength": 7,
+    "Dexterity": 6,
+    "MaxDexterity": 6,
+    "Vitality": 6,
+    "MaxVitality": 6,
+    "Special": 8,
+    "MaxSpecial": 8,
+    "Insight": 7,
+    "MaxInsight": 7,
+    "Ability1": "Levitate",
+    "Ability2": "",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Master",
+    "GenderType": "M",
+    "Legendary": true,
+    "GoodStarter": false,
+    "_id": "latios-mega-form",
+    "DexCategory": "No Data",
+    "Height": {
+        "Meters": 2.3,
+        "Feet": 7.5
+    },
+    "Weight": {
+        "Kilograms": 70.0,
+        "Pounds": 154.3
+    },
+    "DexDescription": "Latios is very in sync with human logic, it can communicate using telepathy. With the power of the Mega Stone all of its capabilities are enhanced although its personality becomes more caring than usual.",
+    "Evolutions": [
+        {
+            "From": "Latios",
+            "Kind": "Mega",
+            "Item": "Latiasite"
+        }
+    ],
+    "Image": "latios-mega-form.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Helping Hand"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Safeguard"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Psywave"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Heal Block"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Protect"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Dragon Dance"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Stored Power"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Refresh"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Heal Pulse"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Dragon Breath"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Luster Purge"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Psycho Shift"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Recover"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Telekinesis"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Zen Headbutt"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Power Split"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Psychic"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Dragon Pulse"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Memento"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Camouflage"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Transform"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Role Play"
+        }
+    ]
+}

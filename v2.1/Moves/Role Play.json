@@ -1,0 +1,26 @@
+{
+    "Name": "Role Play",
+    "Type": "Psychic",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Clever",
+    "Accuracy2": "Perform",
+    "Target": "Foe",
+    "Effect": "Single Target. Replace the User's Ability with the Target's. Whole Scene Duration. Unique Abilities can't be copied.",
+    "Description": "The Pokémon is a great actor. Their impersonations are really good!... maybe a bit too good.",
+    "_id": "role-play",
+    "Attributes": {
+        "AbilityChange": true,
+        "Duration": "wholeScene"
+    },
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "ChangedAbility",
+                "Affects": "User"
+            }
+        ]
+    },
+    "Category": "Support"
+}

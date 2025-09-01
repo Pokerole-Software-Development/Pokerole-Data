@@ -1,0 +1,18 @@
+{
+    "Name": "Psyshock",
+    "Type": "Psychic",
+    "Power": 3,
+    "Damage1": "Special",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Channel",
+    "Target": "Foe",
+    "Effect": "This Move is resisted with the Foe's Defense instead of its Sp. Defense",
+    "Description": "Materialize a psychic wave that pushes the target with real physical force.",
+    "_id": "psyshock",
+    "Attributes": {
+        "ResistedWithDefense": true
+    },
+    "AddedEffects": {},
+    "Category": "Special"
+}

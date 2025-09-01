@@ -1,0 +1,20 @@
+{
+    "Name": "Hyper Beam",
+    "Type": "Normal",
+    "Power": 6,
+    "Damage1": "Special",
+    "Damage2": "",
+    "Accuracy1": "Special",
+    "Accuracy2": "Channel",
+    "Target": "Foe",
+    "Effect": "Must Recharge. Lethal. -1 Accuracy.",
+    "Description": "The Pokemon casts an incredible beam that leaves a giant trail of destruction behind. The user is left exhausted.",
+    "_id": "hyper-beam",
+    "Attributes": {
+        "Lethal": true,
+        "MustRecharge": true,
+        "AccuracyReduction": 1
+    },
+    "AddedEffects": {},
+    "Category": "Special"
+}

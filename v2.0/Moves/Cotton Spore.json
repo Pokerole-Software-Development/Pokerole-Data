@@ -1,0 +1,26 @@
+{
+    "Name": "Cotton Spore",
+    "Type": "Grass",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Insight",
+    "Accuracy2": "Channel",
+    "Target": "Foe",
+    "Effect": "Reduce foe's Dexterity by 2.",
+    "Description": "The Pokemon covers the foe in cotton, disrupting its movement speed.",
+    "_id": "cotton-spore",
+    "Attributes": {},
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "Dexterity"
+                ],
+                "Stages": -2,
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Support"
+}

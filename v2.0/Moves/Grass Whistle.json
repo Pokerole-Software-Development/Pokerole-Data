@@ -1,0 +1,26 @@
+{
+    "Name": "Grass Whistle",
+    "Type": "Grass",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Special",
+    "Accuracy2": "Perform",
+    "Target": "Foe",
+    "Effect": "Sound Based. Put the Target to Sleep. -3 Accuracy.",
+    "Description": "The user plays a beautiful and soothing melody that lulls the target into a peaceful sleep.",
+    "_id": "grass-whistle",
+    "Attributes": {
+        "SoundBased": true,
+        "AccuracyReduction": 3
+    },
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Sleep",
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Support"
+}

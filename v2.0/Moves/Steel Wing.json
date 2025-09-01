@@ -1,0 +1,29 @@
+{
+    "Name": "Steel Wing",
+    "Type": "Steel",
+    "Power": 3,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "Roll 1 Chance Dice to Increase the User's Defense. -1 Accuracy.",
+    "Description": "The Pokemon uses its sharp feathers as if they were razors.",
+    "_id": "steel-wing",
+    "Attributes": {
+        "AccuracyReduction": 1
+    },
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "Def"
+                ],
+                "Stages": 1,
+                "ChanceDice": 1,
+                "Affects": "User"
+            }
+        ]
+    },
+    "Category": "Physical"
+}

@@ -1,0 +1,118 @@
+{
+    "Number": 555,
+    "DexID": "0555GF1",
+    "Name": "Darmanitan (Galarian Zen Form)",
+    "Type1": "Ice",
+    "Type2": "Fire",
+    "BaseHP": 4,
+    "Strength": 4,
+    "MaxStrength": 8,
+    "Dexterity": 3,
+    "MaxDexterity": 7,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 1,
+    "MaxSpecial": 3,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Gorilla Tactics",
+    "Ability2": "Zen Mode",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Amateur",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "darmanitan-galarian-zen-form",
+    "DexCategory": "Zen Charm Pokemon (Galarian)",
+    "Height": {
+        "Meters": 1.7,
+        "Feet": 5.6
+    },
+    "Weight": {
+        "Kilograms": 120.0,
+        "Pounds": 264.6
+    },
+    "DexDescription": "Zen Charm Pokemon (Galarian) When Darmanitan gets angry  atrophied fire core is reignited, This Pokemon breathes fire and  destroys everything on its path.. They must be calmed down or its own heat may melt their bodies.",
+    "Evolutions": [
+        {
+            "From": "Darmanitan (Galarian Form)",
+            "Kind": "Form"
+        }
+    ],
+    "Image": "darmanitan-galarian-zen-form.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Taunt"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Bite"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Powder Snow"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Avalanche"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Work Up"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Ice Fang"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Headbutt"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Ice Punch"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Uproar"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Belly Drum"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Blizzard"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Thrash"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Superpower"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Icicle Crash"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Sunny Day"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Flare Blitz"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Fire Fang"
+        }
+    ]
+}

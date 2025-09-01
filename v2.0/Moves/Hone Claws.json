@@ -1,0 +1,27 @@
+{
+    "Name": "Hone Claws",
+    "Type": "Dark",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Insight",
+    "Accuracy2": "Nature",
+    "Target": "User",
+    "Effect": "Increase the User's Strength and Accuracy.",
+    "Description": "The Pokemon sharpens its claws to perform more precise attacks.",
+    "_id": "hone-claws",
+    "Attributes": {},
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "Strength",
+                    "Accuracy"
+                ],
+                "Stages": 1,
+                "Affects": "User"
+            }
+        ]
+    },
+    "Category": "Support"
+}

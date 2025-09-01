@@ -1,0 +1,135 @@
+{
+    "Number": 834,
+    "DexID": "0834",
+    "Name": "Drednaw",
+    "Type1": "Water",
+    "Type2": "Rock",
+    "BaseHP": 5,
+    "Strength": 3,
+    "MaxStrength": 6,
+    "Dexterity": 2,
+    "MaxDexterity": 5,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 2,
+    "MaxSpecial": 5,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Strong Jaw",
+    "Ability2": "Swift Swim",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Advanced",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "drednaw",
+    "DexCategory": "Bite Pokémon",
+    "Height": {
+        "Meters": 1.0,
+        "Feet": 3.3
+    },
+    "Weight": {
+        "Kilograms": 115.5,
+        "Pounds": 254.6
+    },
+    "DexDescription": "It stays immobile near rivers and lakes, disguised as a rock until it snaps at an unsuspecting prey. Once something is trapped by its sharp teeth there is no way to take it out as it is incredibly stubborn.",
+    "Evolutions": [
+        {
+            "From": "Chewtle",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "drednaw.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Water Gun"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Bite"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Protect"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Rain Dance"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Megahorn"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Headbutt"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Rock Tomb"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Razor Shell"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Rock Polish"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Stealth Rock"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Counter"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Gastro Acid"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Ice Fang"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Jaw Lock"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Body Slam"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Crunch"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Liquidation"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Head Smash"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Super Fang"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Skull Bash"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Iron Defense"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "Name": "Bounce",
+    "Type": "Flying",
+    "Power": 3,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Athletic",
+    "Target": "Foe",
+    "Effect": "Single Target. Charge Move. Out of Range while Charging. Vulnerable while charging to: 'Thunder', 'Twister', 'Sky Uppercut', 'Gust', 'Hurricane', 'Smack Down'. Roll 3 Chance Dice to Paralyze the Target.",
+    "Description": "The Pokémon jumps at least 30 feet in the air before landing with a mighty stomp on top of the foe. While in the air it is safe from most threats but its still vulnerable to bad weather.",
+    "_id": "bounce",
+    "Attributes": {
+        "Charge": true,
+        "Vulnerable": true
+    },
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Paralyze",
+                "Affects": "Targets",
+                "ChanceDice": 3
+            }
+        ]
+    },
+    "Category": "Physical"
+}

@@ -1,0 +1,26 @@
+{
+    "Name": "Rapid Spin",
+    "Type": "Normal",
+    "Power": 2,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "Single Target. Increase User's Dexterity by 1. Remove Entry Hazards, Terrains (eg. Grassy Terrain, Misty Terrain), Ongoing Damage, and Leech Seed from the User and/or their side of the field.",
+    "Description": "The Pokémon spins swiftly to strike the foe. Anything near will be scattered around.",
+    "_id": "rapid-spin",
+    "Attributes": {},
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "Dexterity"
+                ],
+                "Stages": 1,
+                "Affects": "User"
+            }
+        ]
+    },
+    "Category": "Physical"
+}

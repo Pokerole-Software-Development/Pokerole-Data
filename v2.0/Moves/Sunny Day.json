@@ -1,0 +1,18 @@
+{
+    "Name": "Sunny Day",
+    "Type": "Fire",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Special",
+    "Accuracy2": "Nature",
+    "Target": "Battlefield",
+    "Effect": "Sunny Weather is activated for the next 4 Rounds.",
+    "Description": "The Pokemon will raise the temperature along with the sun, it doesn't work at night, indoors, underground, or underwater.",
+    "_id": "sunny-day",
+    "Attributes": {},
+    "AddedEffects": {
+        "TerrainEffect": "Sunny"
+    },
+    "Category": "Support"
+}

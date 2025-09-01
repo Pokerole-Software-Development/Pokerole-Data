@@ -1,0 +1,27 @@
+{
+    "Name": "Decorate",
+    "Type": "Fairy",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Beauty",
+    "Accuracy2": "Nature",
+    "Target": "One Ally",
+    "Effect": "Increase the Strength and Special of One Ally by 2",
+    "Description": "Using some frosting the Pokemon decorates their target to look bigger, more powerful, and incredibly delicious!",
+    "_id": "decorate",
+    "Attributes": {},
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "Strength",
+                    "Special"
+                ],
+                "Stages": 2,
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Support"
+}

@@ -1,0 +1,23 @@
+{
+    "Name": "Mind Reader",
+    "Type": "Normal",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Insight",
+    "Accuracy2": "Channel",
+    "Target": "Foe",
+    "Effect": "Single Target. The User has 2 automatic and unremovable successes on the next Accuracy Roll or Evasion Roll against the Target.",
+    "Description": "The user reads the foe's mind. It knows exactly what to do next.",
+    "_id": "mind-reader",
+    "Attributes": {},
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "MindReader",
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Support"
+}

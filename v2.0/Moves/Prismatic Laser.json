@@ -1,0 +1,19 @@
+{
+    "Name": "Prismatic Laser",
+    "Type": "Psychic",
+    "Power": 6,
+    "Damage1": "Special",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Channel",
+    "Target": "Foe",
+    "Effect": "Lethal. Must Recharge.",
+    "Description": "Through a prism, the user shoots a concentrated laser beam that pierces everything that comes in contact with it. The effort leaves the user mentally exhausted.",
+    "_id": "prismatic-laser",
+    "Attributes": {
+        "Lethal": true,
+        "MustRecharge": true
+    },
+    "AddedEffects": {},
+    "Category": "Special"
+}

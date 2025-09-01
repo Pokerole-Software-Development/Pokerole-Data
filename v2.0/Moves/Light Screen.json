@@ -1,0 +1,23 @@
+{
+    "Name": "Light Screen",
+    "Type": "Psychic",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Special",
+    "Accuracy2": "Channel",
+    "Target": "User and Allies",
+    "Effect": "User and Allies will receive 1 less Damage from Special Attacks. Lasts 4 Rounds.",
+    "Description": "The user manifests its mental power on the world, creating walls and floors of light that help prevent the passing of energies.",
+    "_id": "light-screen",
+    "Attributes": {},
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "LightScreen",
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Support"
+}

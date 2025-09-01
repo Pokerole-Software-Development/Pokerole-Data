@@ -1,0 +1,18 @@
+{
+    "Name": "Crush Grip",
+    "Type": "Normal",
+    "Power": 1,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Strength",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "Lethal. If the foe has a Base HP higher than 3, add 1 Die to the Damage pool for every exceeding point. Up to 9 Dice may be added this way",
+    "Description": "The Pokemon grips the foe and starts crushing it. Small targets are difficult to grasp but larger bodies will not be released until they break.",
+    "_id": "crush-grip",
+    "Attributes": {
+        "Lethal": true
+    },
+    "AddedEffects": {},
+    "Category": "Physical"
+}

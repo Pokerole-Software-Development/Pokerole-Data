@@ -1,0 +1,23 @@
+{
+    "Name": "Conversion",
+    "Type": "Normal",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Will",
+    "Accuracy2": "Channel",
+    "Target": "User",
+    "Effect": "The user changes its type at random.",
+    "Description": "The Pokemon downloads the data of a Move to add it to its code.",
+    "_id": "conversion",
+    "Attributes": {},
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Conversion",
+                "Affects": "User"
+            }
+        ]
+    },
+    "Category": "Support"
+}

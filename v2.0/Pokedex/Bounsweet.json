@@ -1,0 +1,95 @@
+{
+    "Number": 761,
+    "DexID": "0761",
+    "Name": "Bounsweet",
+    "Type1": "Grass",
+    "Type2": "",
+    "BaseHP": 3,
+    "Strength": 1,
+    "MaxStrength": 3,
+    "Dexterity": 1,
+    "MaxDexterity": 3,
+    "Vitality": 1,
+    "MaxVitality": 3,
+    "Special": 1,
+    "MaxSpecial": 3,
+    "Insight": 1,
+    "MaxInsight": 3,
+    "Ability1": "Leaf Guard",
+    "Ability2": "Oblivious",
+    "HiddenAbility": "Sweet Veil",
+    "EventAbilities": "",
+    "RecommendedRank": "Starter",
+    "GenderType": "F",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "bounsweet",
+    "DexCategory": "Fruit Pokemon",
+    "Height": {
+        "Meters": 0.3,
+        "Feet": 1.0
+    },
+    "Weight": {
+        "Kilograms": 3.2,
+        "Pounds": 7.1
+    },
+    "DexDescription": "This happy-go-lucky Pokemon produces a delicious aroma that unfortunately attracts predators to it, when it escapes, it looks as if it\u2019s happily skipping around so it rarely gets help.",
+    "Evolutions": [
+        {
+            "To": "Steenee",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "bounsweet.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Splash"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Play Nice"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Rapid Spin"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Razor Leaf"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Sweet Scent"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Magical Leaf"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Teeter Dance"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Flail"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Aromatic Mist"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Charm"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Play Rough"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Acupressure"
+        }
+    ]
+}

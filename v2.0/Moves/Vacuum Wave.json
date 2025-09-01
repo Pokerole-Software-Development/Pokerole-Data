@@ -1,0 +1,18 @@
+{
+    "Name": "Vacuum Wave",
+    "Type": "Fighting",
+    "Power": 2,
+    "Damage1": "Special",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Channel",
+    "Target": "Foe",
+    "Effect": "Priority 1.",
+    "Description": "The user pulls the enemy closer using the power of its ki. This traction has a lot of strength and may break anything it pulls.",
+    "_id": "vacuum-wave",
+    "Attributes": {
+        "Priority": 1
+    },
+    "AddedEffects": {},
+    "Category": "Special"
+}

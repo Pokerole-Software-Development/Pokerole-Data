@@ -1,0 +1,20 @@
+{
+    "Name": "Sunsteel Strike",
+    "Type": "Steel",
+    "Power": 4,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Strength",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "Lethal. If anything on the foe's side of the field would prevent this move from dealing damage (Pokemon types. Abilities. Shield Moves. Weather. Or Barriers.) ignore it. This Move cannot be Clashed.",
+    "Description": "You suddenly stop your in tracks as you see a bright and blinding light coming towards you at great speed. You did not see what hit you and then it's all darkness.",
+    "_id": "sunsteel-strike",
+    "Attributes": {
+        "Lethal": true
+    },
+    "AddedEffects": {
+        "IgnoreShield": true
+    },
+    "Category": "Physical"
+}

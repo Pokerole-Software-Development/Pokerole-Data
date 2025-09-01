@@ -1,0 +1,29 @@
+{
+    "Name": "Sky Attack",
+    "Type": "Flying",
+    "Power": 6,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Strength",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "Single Target. Low Accuracy 1. Charge Move. High Critical. Lethal. Roll 3 Chance Dice to Flinch the Target.",
+    "Description": "The Pokémon darts from the sky with a graceful and lethal strike, propelled by the wind, crushing the foe on the ground.",
+    "_id": "sky-attack",
+    "Attributes": {
+        "HighCritical": true,
+        "Lethal": true,
+        "Charge": true,
+        "AccuracyReduction": 1
+    },
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Flinch",
+                "Affects": "Targets",
+                "ChanceDice": 3
+            }
+        ]
+    },
+    "Category": "Physical"
+}

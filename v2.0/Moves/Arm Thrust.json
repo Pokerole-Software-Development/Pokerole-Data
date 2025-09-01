@@ -1,0 +1,18 @@
+{
+    "Name": "Arm Thrust",
+    "Type": "Fighting",
+    "Power": 1,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "Successive Actions.",
+    "Description": "The user quickly throws blows of open-palmed thrusts against the foe.",
+    "_id": "arm-thrust",
+    "Attributes": {
+        "SuccessiveActions": true
+    },
+    "AddedEffects": {},
+    "Category": "Physical"
+}

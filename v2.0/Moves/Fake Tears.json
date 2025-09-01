@@ -1,0 +1,26 @@
+{
+    "Name": "Fake Tears",
+    "Type": "Dark",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Cute",
+    "Accuracy2": "Perform",
+    "Target": "Foe",
+    "Effect": "Reduce the foe's Sp. Defense by 2.",
+    "Description": "The user stops battling and feigns to be crying, disrupting the foe's mood to battle and making it lower its guard.",
+    "_id": "fake-tears",
+    "Attributes": {},
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "SpDef"
+                ],
+                "Stages": -2,
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Support"
+}

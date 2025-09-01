@@ -1,0 +1,18 @@
+{
+    "Name": "Grapple (Athletic)",
+    "Type": "Typeless",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Strength",
+    "Accuracy2": "Athletic",
+    "Target": "Foe",
+    "Effect": "Single Target. Blocks. The Target may resist this Maneuver by rolling Strength or Dexterity and scoring the same or more Successes than the User. The User can't Act while Grappling. The User can release the Grapple at any point to act.",
+    "Description": "Force the target into a wrestling lock, use a lasso rodeo-style, or simply cling onto one of their legs; the point is: you won't let them escape!",
+    "_id": "grapple-(athletic)",
+    "Attributes": {
+        "BlockDamagePool": 0
+    },
+    "AddedEffects": {},
+    "Category": "Support"
+}

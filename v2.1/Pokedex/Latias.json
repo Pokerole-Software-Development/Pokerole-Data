@@ -1,0 +1,131 @@
+{
+    "Number": 380,
+    "DexID": "0380",
+    "Name": "Latias",
+    "Type1": "Dragon",
+    "Type2": "Psychic",
+    "BaseHP": 5,
+    "Strength": 5,
+    "MaxStrength": 5,
+    "Dexterity": 6,
+    "MaxDexterity": 6,
+    "Vitality": 5,
+    "MaxVitality": 5,
+    "Special": 6,
+    "MaxSpecial": 6,
+    "Insight": 7,
+    "MaxInsight": 7,
+    "Ability1": "Levitate",
+    "Ability2": "",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Ace",
+    "GenderType": "F",
+    "Legendary": true,
+    "GoodStarter": false,
+    "_id": "latias",
+    "DexCategory": "No Data",
+    "Height": {
+        "Meters": 1.4,
+        "Feet": 4.6
+    },
+    "Weight": {
+        "Kilograms": 40.0,
+        "Pounds": 88.2
+    },
+    "DexDescription": "The legend tells about two Pokémon that could take human shapes, use Psychic powers, and become invisible. They were raised by an old couple as their own children. The little girl had a red dress.",
+    "Evolutions": [
+        {
+            "To": "Latias (Mega Form)",
+            "Kind": "Mega",
+            "Item": "Latiasite"
+        }
+    ],
+    "Image": "latias.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Helping Hand"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Safeguard"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Psywave"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Wish"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Water Sport"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Charm"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Stored Power"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Refresh"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Heal Pulse"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Dragon Breath"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Mist Ball"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Psycho Shift"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Recover"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Reflect Type"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Zen Headbutt"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Guard Split"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Psychic"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Dragon Pulse"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Healing Wish"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Camouflage"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Role Play"
+        }
+    ]
+}

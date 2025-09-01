@@ -1,0 +1,18 @@
+{
+    "Name": "Double-Edge",
+    "Type": "Normal",
+    "Power": 5,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Strength",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "Recoil.",
+    "Description": "The user recklessly slams its foe to deal a lot of damage, but it may also hurt itself in the process.",
+    "_id": "double-edge",
+    "Attributes": {
+        "Recoil": true
+    },
+    "AddedEffects": {},
+    "Category": "Physical"
+}

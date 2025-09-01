@@ -1,0 +1,26 @@
+{
+    "Name": "Cotton Guard",
+    "Type": "Grass",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Insight",
+    "Accuracy2": "Channel",
+    "Target": "Foe",
+    "Effect": "Increase the User's Defense by 3.",
+    "Description": "The user covers itself in cotton puffs that severely reduce the impact of physical attacks.",
+    "_id": "cotton-guard",
+    "Attributes": {},
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "Def"
+                ],
+                "Stages": 3,
+                "Affects": "User"
+            }
+        ]
+    },
+    "Category": "Support"
+}

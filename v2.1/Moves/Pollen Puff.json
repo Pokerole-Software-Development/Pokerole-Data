@@ -1,0 +1,18 @@
+{
+    "Name": "Pollen Puff",
+    "Type": "Bug",
+    "Power": 3,
+    "Damage1": "Special",
+    "Damage2": "",
+    "Accuracy1": "Special",
+    "Accuracy2": "Nature",
+    "Target": "Foe",
+    "Effect": "Single Target. Projectile Move. * Or Target One Ally. *When this move is used against an ally, it will heal 2 HP instead of dealing damage; Spend 1 Will Point to get this effect.",
+    "Description": "The Pokémon creates a puff of pollen that explodes on the foe's face and gives them a terrible allergy. When consumed, these puffs are sweet and very nutritious.",
+    "_id": "pollen-puff",
+    "Attributes": {
+        "ProjectileMove": true
+    },
+    "AddedEffects": {},
+    "Category": "Special"
+}

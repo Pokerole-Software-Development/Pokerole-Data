@@ -1,0 +1,27 @@
+{
+    "Name": "Tickle",
+    "Type": "Normal",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "Reduce the foe's Strength and Defense.",
+    "Description": "The Pokemon tickles the foe. The laughter really disturbs the foe's fighting stance.",
+    "_id": "tickle",
+    "Attributes": {},
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "Strength",
+                    "Def"
+                ],
+                "Stages": -1,
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Support"
+}

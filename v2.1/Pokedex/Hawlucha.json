@@ -1,0 +1,129 @@
+{
+    "Number": 701,
+    "DexID": "0701",
+    "Name": "Hawlucha",
+    "Type1": "Fighting",
+    "Type2": "Flying",
+    "BaseHP": 5,
+    "Strength": 2,
+    "MaxStrength": 5,
+    "Dexterity": 3,
+    "MaxDexterity": 6,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 2,
+    "MaxSpecial": 5,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Limber",
+    "Ability2": "Mold Breaker",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Advanced",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "hawlucha",
+    "DexCategory": "Wrestling Pokémon",
+    "Height": {
+        "Meters": 0.8,
+        "Feet": 2.6
+    },
+    "Weight": {
+        "Kilograms": 21.5,
+        "Pounds": 47.4
+    },
+    "DexDescription": "Although small in size, its proficient fighting skills enable it to keep up with big bruisers like Machamp and Hariyama. Using its wings to attack from above allows it to gain an edge in battle.",
+    "Evolutions": [],
+    "Image": "hawlucha.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Hone Claws"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Wing Attack"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Detect"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Aerial Ace"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Karate Chop"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Fling"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Encore"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Feather Dance"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Submission"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Bounce"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Taunt"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Roost"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Swords Dance"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Flying Press"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "High Jump Kick"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Sky Drop"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Endeavor"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Sky Attack"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Agility"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Entrainment"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Baton Pass"
+        }
+    ]
+}

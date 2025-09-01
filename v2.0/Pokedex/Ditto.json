@@ -1,0 +1,45 @@
+{
+    "Number": 132,
+    "DexID": "0132",
+    "Name": "Ditto",
+    "Type1": "Normal",
+    "Type2": "",
+    "BaseHP": 4,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Limber",
+    "Ability2": "",
+    "HiddenAbility": "Imposter",
+    "EventAbilities": "",
+    "RecommendedRank": "Amateur",
+    "GenderType": "N",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "ditto",
+    "DexCategory": "Transform Pokemon",
+    "Height": {
+        "Meters": 0.3,
+        "Feet": 1.0
+    },
+    "Weight": {
+        "Kilograms": 4.0,
+        "Pounds": 8.8
+    },
+    "DexDescription": "This Pokemon is quite common but it\u2019s pretty difficult to spot. It can transform into any other Pokemon and imitate their behavior. When it sleeps, it changes into a stone to avoid being attacked.",
+    "Evolutions": [],
+    "Image": "ditto.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Transform"
+        }
+    ]
+}

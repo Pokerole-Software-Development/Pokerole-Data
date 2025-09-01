@@ -1,0 +1,18 @@
+{
+    "Name": "Mat Block",
+    "Type": "Fighting",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Athletic",
+    "Target": "User and Allies",
+    "Effect": "Shield. Reduce 3 Dice from the foe's Damage Pool. This Move only works the first Round the User has been out.",
+    "Description": "The Pokemon uses a mat or something similar as a shield.",
+    "_id": "mat-block",
+    "Attributes": {
+        "ShieldMove": true
+    },
+    "AddedEffects": {},
+    "Category": "Support"
+}

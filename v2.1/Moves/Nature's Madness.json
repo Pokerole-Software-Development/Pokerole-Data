@@ -1,0 +1,26 @@
+{
+    "Name": "Nature's Madness",
+    "Type": "Fairy",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Insight",
+    "Accuracy2": "Nature",
+    "Target": "Foe",
+    "Effect": "Damage Roll is Half of the Foe's remaining HP (up to 10) Rounded down. If the remaining HP of the foe is 1, this move fails. Ignore the foe's Defenses. -1 Accuracy.",
+    "Description": "The forces of nature attack as if they had a will of their own. Water will try to drown you, plants will trap you, lightning will come out of nowhere, and even your own body will fail you.",
+    "_id": "nature's-madness",
+    "Attributes": {
+        "AccuracyReduction": 1,
+        "IgnoreDefenses": true
+    },
+    "AddedEffects": {
+        "FixedDamage": {
+            "Type": "HpPercentage",
+            "Value": 0.5,
+            "MaxValue": 10,
+            "Target": "Targets"
+        }
+    },
+    "Category": "Special"
+}

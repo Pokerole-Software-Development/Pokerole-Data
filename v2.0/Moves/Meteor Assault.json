@@ -1,0 +1,20 @@
+{
+    "Name": "Meteor Assault",
+    "Type": "Fighting",
+    "Power": 6,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Strength",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "Lethal. Must Recharge. -1 Accuracy.",
+    "Description": "The Pokemon will make an incredible jump to the sky, then lunge towards the foe at a staggering speed, crashing the ground upon impact. The user is left very tired.",
+    "_id": "meteor-assault",
+    "Attributes": {
+        "Lethal": true,
+        "MustRecharge": true,
+        "AccuracyReduction": 1
+    },
+    "AddedEffects": {},
+    "Category": "Physical"
+}

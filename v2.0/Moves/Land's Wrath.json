@@ -1,0 +1,19 @@
+{
+    "Name": "Land's Wrath",
+    "Type": "Ground",
+    "Power": 3,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Strength",
+    "Accuracy2": "Channel",
+    "Target": "All Foes",
+    "Effect": "Lethal. Ranged. All Foes in Range.",
+    "Description": "The earth moves on its own, no attacker in sight. The floor crumbles and the ground shakes while engulfing its victims. From the rubble, lush trees emerge a short time after.",
+    "_id": "land's-wrath",
+    "Attributes": {
+        "Lethal": true,
+        "PhysicalRanged": true
+    },
+    "AddedEffects": {},
+    "Category": "Physical"
+}

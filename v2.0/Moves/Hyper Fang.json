@@ -1,0 +1,24 @@
+{
+    "Name": "Hyper Fang",
+    "Type": "Normal",
+    "Power": 3,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "Roll 1 Chance Dice to Flinch.",
+    "Description": "The Pokemon bites hard into the foe with its powerful fangs.",
+    "_id": "hyper-fang",
+    "Attributes": {},
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Flinch",
+                "Affects": "Targets",
+                "ChanceDice": 1
+            }
+        ]
+    },
+    "Category": "Physical"
+}

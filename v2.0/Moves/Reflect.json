@@ -1,0 +1,23 @@
+{
+    "Name": "Reflect",
+    "Type": "Psychic",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Special",
+    "Accuracy2": "Channel",
+    "Target": "User and Allies",
+    "Effect": "User and Allies will receive 1 less Damage from Physical Attacks. Lasts 4 Rounds.",
+    "Description": "The user manifests its mental power on the world, creating invisible walls and floors that prevent the passing of objects.",
+    "_id": "reflect",
+    "Attributes": {},
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Reflect",
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Support"
+}

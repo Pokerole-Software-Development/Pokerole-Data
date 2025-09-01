@@ -1,0 +1,18 @@
+{
+    "Name": "Ally Switch",
+    "Type": "Psychic",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Special",
+    "Accuracy2": "Channel",
+    "Target": "One Ally",
+    "Effect": "Target Self. Switcher Move for the User. The Switched Pokémon has 1 Extra Action this Round.",
+    "Description": "The user teleports and another Pokémon takes its place. Did it disappear? Or was it never there to begin with?",
+    "_id": "ally-switch",
+    "Attributes": {
+        "SwitcherMove": true
+    },
+    "AddedEffects": {},
+    "Category": "Support"
+}

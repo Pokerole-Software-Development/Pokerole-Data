@@ -1,0 +1,19 @@
+{
+    "Name": "Double Slap",
+    "Type": "Normal",
+    "Power": 1,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "Successive Actions. -2 Accuracy.",
+    "Description": "The user attacks its foe with two or more slaps in the face.",
+    "_id": "double-slap",
+    "Attributes": {
+        "SuccessiveActions": true,
+        "AccuracyReduction": 2
+    },
+    "AddedEffects": {},
+    "Category": "Physical"
+}

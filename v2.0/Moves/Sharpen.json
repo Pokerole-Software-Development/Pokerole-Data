@@ -1,0 +1,26 @@
+{
+    "Name": "Sharpen",
+    "Type": "Normal",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Athletic",
+    "Target": "User",
+    "Effect": "Increase the User's Strength.",
+    "Description": "The user cuts down the rough edges of its body to make it as sharp as a razor.",
+    "_id": "sharpen",
+    "Attributes": {},
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "Strength"
+                ],
+                "Stages": 1,
+                "Affects": "User"
+            }
+        ]
+    },
+    "Category": "Support"
+}

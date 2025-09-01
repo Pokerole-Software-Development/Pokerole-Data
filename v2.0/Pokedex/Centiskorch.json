@@ -1,0 +1,111 @@
+{
+    "Number": 851,
+    "DexID": "0851",
+    "Name": "Centiskorch",
+    "Type1": "Fire",
+    "Type2": "Bug",
+    "BaseHP": 5,
+    "Strength": 3,
+    "MaxStrength": 6,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 2,
+    "MaxSpecial": 5,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Flash Fire",
+    "Ability2": "White Smoke",
+    "HiddenAbility": "Flame Body",
+    "EventAbilities": "",
+    "RecommendedRank": "Ace",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "centiskorch",
+    "DexCategory": "Radiator Pokemon",
+    "Height": {
+        "Meters": 3.0,
+        "Feet": 9.8
+    },
+    "Weight": {
+        "Kilograms": 120.0,
+        "Pounds": 264.6
+    },
+    "DexDescription": "It lashes its body like a whip and launches itself at enemies, while its burning body is already dangerous on its own, this excessively hostile Pokemon also has large and very sharp fangs.",
+    "Evolutions": [
+        {
+            "From": "Sizzlipede",
+            "Kind": "Level",
+            "Speed": "Slow"
+        }
+    ],
+    "Image": "centiskorch.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Ember"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Smokescreen"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Wrap"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Bite"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Flame Wheel"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Bug Bite"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Coil"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Slam"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Fire Spin"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Crunch"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Fire Lash"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Lunge"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Burn Up"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Fire Fang"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Scald"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Thunder Fang"
+        }
+    ]
+}

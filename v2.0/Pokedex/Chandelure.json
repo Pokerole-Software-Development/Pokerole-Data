@@ -1,0 +1,79 @@
+{
+    "Number": 609,
+    "DexID": "0609",
+    "Name": "Chandelure",
+    "Type1": "Ghost",
+    "Type2": "Fire",
+    "BaseHP": 5,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 4,
+    "MaxSpecial": 8,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Flash Fire",
+    "Ability2": "Flame Body",
+    "HiddenAbility": "Infiltrator",
+    "EventAbilities": "",
+    "RecommendedRank": "Pro",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "chandelure",
+    "DexCategory": "Luring Pokemon",
+    "Height": {
+        "Meters": 1.0,
+        "Feet": 3.3
+    },
+    "Weight": {
+        "Kilograms": 34.3,
+        "Pounds": 75.6
+    },
+    "DexDescription": "It consumes the spirits of the living, puts people in a hypnotic trance and consumes them with fire. Being consumed in Chandelure's flame burns up the spirit, leaving only the body behind.",
+    "Evolutions": [
+        {
+            "From": "Lampent",
+            "Kind": "Stone",
+            "Item": "Dusk Stone"
+        }
+    ],
+    "Image": "chandelure.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Confuse Ray"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Smog"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Pain Split"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Flame Burst"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Hex"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Power Split"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Acid Armor"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Clear Smog"
+        }
+    ]
+}

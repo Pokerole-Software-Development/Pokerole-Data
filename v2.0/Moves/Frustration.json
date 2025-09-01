@@ -1,0 +1,16 @@
+{
+    "Name": "Frustration",
+    "Type": "Normal",
+    "Power": 0,
+    "Damage1": "Strength",
+    "Damage2": "Missing happiness",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "BRAWL",
+    "Target": "Foe",
+    "Effect": "Add +1 Dice to the Damage Roll for every missing point of Happiness on the User.",
+    "Description": "A move that relies on how badly a Pokemon has been treated to make it vicious and uncaring.",
+    "_id": "frustration",
+    "Attributes": {},
+    "AddedEffects": {},
+    "Category": "Physical"
+}

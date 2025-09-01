@@ -1,0 +1,26 @@
+{
+    "Name": "Nasty Plot",
+    "Type": "Dark",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Clever",
+    "Accuracy2": "Alert",
+    "Target": "User",
+    "Effect": "Increase the user's Special by 2.",
+    "Description": "The Pokemon starts plotting on how to defeat the enemy. Its evil laugh reveals the bad intentions.",
+    "_id": "nasty-plot",
+    "Attributes": {},
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "Special"
+                ],
+                "Stages": 2,
+                "Affects": "User"
+            }
+        ]
+    },
+    "Category": "Support"
+}

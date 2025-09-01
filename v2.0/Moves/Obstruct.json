@@ -1,0 +1,29 @@
+{
+    "Name": "Obstruct",
+    "Type": "Dark",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Intimidate",
+    "Target": "User",
+    "Effect": "Priority 4. Shield Move. * If the Foe used a Non-Ranged Physical Move against the user, Reduce the Foes Defense by 2. Reduce 3 Dice from the foe's Damage Pool.",
+    "Description": "In a reckless action, the user charges against the foe to stop its momentum and block its incoming attack. Being so close allows the user to reach for weak spots.",
+    "_id": "obstruct",
+    "Attributes": {
+        "ShieldMove": true,
+        "Priority": 4
+    },
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "Def"
+                ],
+                "Stages": -2,
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Support"
+}

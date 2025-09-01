@@ -1,0 +1,139 @@
+{
+    "Number": 474,
+    "DexID": "0474",
+    "Name": "Porygon-Z",
+    "Type1": "Normal",
+    "Type2": "",
+    "BaseHP": 5,
+    "Strength": 2,
+    "MaxStrength": 5,
+    "Dexterity": 2,
+    "MaxDexterity": 5,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 3,
+    "MaxSpecial": 7,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Download",
+    "Ability2": "Adaptability",
+    "HiddenAbility": "Analytic",
+    "EventAbilities": "",
+    "RecommendedRank": "Expert",
+    "GenderType": "N",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "porygon-z",
+    "DexCategory": "Virtual Pokémon",
+    "Height": {
+        "Meters": 0.9,
+        "Feet": 3.0
+    },
+    "Weight": {
+        "Kilograms": 34.0,
+        "Pounds": 75.0
+    },
+    "DexDescription": "A software for exploring another dimension was installed in Porygon. However, it began acting oddly due to glitches in the code. Since then, it has a fondness for videos of Meowth and Skitty on the internet",
+    "Evolutions": [
+        {
+            "From": "Porygon2",
+            "Kind": "Trade",
+            "Item": "Dubious Disc"
+        }
+    ],
+    "Image": "porygon-z.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Conversion"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Conversion 2"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Defense Curl"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Thunder Shock"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Agility"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Psybeam"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Trick Room"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Nasty Plot"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Magnet Rise"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Recover"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Recycle"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Embargo"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Signal Beam"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Lock-On"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Discharge"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Magic Coat"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Tri Attack"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Zap Cannon"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Hyper Beam"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Pain Split"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Electroweb"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Trick"
+        }
+    ]
+}

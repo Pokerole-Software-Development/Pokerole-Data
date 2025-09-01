@@ -1,0 +1,118 @@
+{
+    "Number": 386,
+    "DexID": "0386F2",
+    "Name": "Deoxys (Defense Form)",
+    "Type1": "Psychic",
+    "Type2": "",
+    "BaseHP": 4,
+    "Strength": 5,
+    "MaxStrength": 5,
+    "Dexterity": 5,
+    "MaxDexterity": 5,
+    "Vitality": 9,
+    "MaxVitality": 9,
+    "Special": 5,
+    "MaxSpecial": 5,
+    "Insight": 9,
+    "MaxInsight": 9,
+    "Ability1": "Pressure",
+    "Ability2": "",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Master",
+    "GenderType": "N",
+    "Legendary": true,
+    "GoodStarter": false,
+    "_id": "deoxys-defense-form",
+    "DexCategory": "No Data",
+    "Height": {
+        "Meters": 1.7,
+        "Feet": 5.6
+    },
+    "Weight": {
+        "Kilograms": 60.8,
+        "Pounds": 134.0
+    },
+    "DexDescription": "One member of the space crew mentioned a broad creature that could reflect their weapon\u2019s attacks back at them. There was an explosion and the creature left, unscathed.",
+    "Evolutions": [
+        {
+            "From": "Deoxys",
+            "Kind": "Form"
+        }
+    ],
+    "Image": "deoxys-defense-form.png",
+    "Moves": [
+        {
+            "Learned": "Master",
+            "Name": "Leer"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Wrap"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Night Shade"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Teleport"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Knock Off"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Spikes"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Psychic"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Snatch"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Psycho Shift"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Zen Headbutt"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Iron Defense"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Amnesia"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Psycho Boost"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Recover"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Counter"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Mirror Coat"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Bind"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Signal Beam"
+        }
+    ]
+}

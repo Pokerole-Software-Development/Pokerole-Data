@@ -1,0 +1,24 @@
+{
+    "Name": "Needle Arm",
+    "Type": "Grass",
+    "Power": 2,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "Roll 3 Chance Dice to Flinch the Foe.",
+    "Description": "The Pokemon hits the foe with its flailing arms, some thorns may get stuck on the target like needles.",
+    "_id": "needle-arm",
+    "Attributes": {},
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Flinch",
+                "Affects": "Targets",
+                "ChanceDice": 3
+            }
+        ]
+    },
+    "Category": "Physical"
+}

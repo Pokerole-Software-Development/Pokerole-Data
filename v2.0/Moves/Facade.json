@@ -1,0 +1,16 @@
+{
+    "Name": "Facade",
+    "Type": "Normal",
+    "Power": 3,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "If User's got a Status Ailment (Paralysis, Poison, Burn, etc.) Add 3 Extra Dice to the Damage pool.",
+    "Description": "The Pokemon will make an upfront attack. If the user is suffering, the attack will be stronger.",
+    "_id": "facade",
+    "Attributes": {},
+    "AddedEffects": {},
+    "Category": "Physical"
+}

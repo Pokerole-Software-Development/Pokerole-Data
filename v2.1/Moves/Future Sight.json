@@ -1,0 +1,25 @@
+{
+    "Name": "Future Sight",
+    "Type": "Psychic",
+    "Power": 5,
+    "Damage1": "Special",
+    "Damage2": "",
+    "Accuracy1": "Insight",
+    "Accuracy2": "Channel",
+    "Target": "Foe",
+    "Effect": "Single Target. This Move's Damage is dealt at the beginning of the next Round. Ignore Shield Moves, Force Field, Cover, & Substitute. If the Target Retires or Switches out from Battle, the Damage will be dealt to the next Opponent or to one of its Allies.",
+    "Description": "The Pokémon foresees something terrible happening to the target. It may see images from its own future without any risk.",
+    "_id": "future-sight",
+    "Attributes": {
+        "IgnoreShield": true
+    },
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "FutureSight",
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Special"
+}

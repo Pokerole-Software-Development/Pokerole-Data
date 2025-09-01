@@ -1,0 +1,23 @@
+{
+    "Name": "Magnet Rise",
+    "Type": "Electric",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Insight",
+    "Accuracy2": "Nature",
+    "Target": "User",
+    "Effect": "For the Next 4 Rounds the User gains immunity against Ground Type Moves.",
+    "Description": "The Pokemon uses the magnetic field of the earth to repel itself from the ground, allowing it to float for a short period of time.",
+    "_id": "magnet-rise",
+    "Attributes": {},
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Float",
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Support"
+}

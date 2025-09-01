@@ -1,0 +1,18 @@
+{
+    "Name": "Swift",
+    "Type": "Normal",
+    "Power": 2,
+    "Damage1": "Special",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Channel",
+    "Target": "All Foes",
+    "Effect": "Never Fail.",
+    "Description": "The user shoots a star shaped light beam that hits the target at blinding speed.",
+    "_id": "swift",
+    "Attributes": {
+        "NeverFail": true
+    },
+    "AddedEffects": {},
+    "Category": "Special"
+}

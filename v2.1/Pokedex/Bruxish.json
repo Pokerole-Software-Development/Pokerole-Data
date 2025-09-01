@@ -1,0 +1,133 @@
+{
+    "Number": 779,
+    "DexID": "0779",
+    "Name": "Bruxish",
+    "Type1": "Water",
+    "Type2": "Psychic",
+    "BaseHP": 4,
+    "Strength": 3,
+    "MaxStrength": 6,
+    "Dexterity": 2,
+    "MaxDexterity": 5,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 2,
+    "MaxSpecial": 5,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Dazzling",
+    "Ability2": "Strong Jaw",
+    "HiddenAbility": "Wonder Skin",
+    "EventAbilities": "",
+    "RecommendedRank": "Advanced",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "bruxish",
+    "DexCategory": "Gnash Teeth Pokémon",
+    "Height": {
+        "Meters": 0.9,
+        "Feet": 3.0
+    },
+    "Weight": {
+        "Kilograms": 19.0,
+        "Pounds": 41.9
+    },
+    "DexDescription": "The protuberance on its head emits psychic waves that confuse its prey; while it is confused, Bruxish grinds it with its sharp teeth. This grinding noise makes other Pokémon flee from the place in hurry.",
+    "Evolutions": [],
+    "Image": "bruxish.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Water Gun"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Astonish"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Confusion"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Bite"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Rage"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Disable"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Aqua Jet"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Ice Fang"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Psywave"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Screech"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Aqua Tail"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Crunch"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Taunt"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Waterfall"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Poison Fang"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Safeguard"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Liquidation"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Pain Split"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Synchronoise"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Psychic Fangs"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Light Screen"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Reflect"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Flip Turn"
+        }
+    ]
+}

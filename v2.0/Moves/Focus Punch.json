@@ -1,0 +1,19 @@
+{
+    "Name": "Focus Punch",
+    "Type": "Fighting",
+    "Power": 6,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Strength",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "Fist Based. Charge Move. The User will flinch if it gets hit before releasing this attack.",
+    "Description": "A brutal punch that requires calm and concentration",
+    "_id": "focus-punch",
+    "Attributes": {
+        "Charge": true,
+        "FistBased": true
+    },
+    "AddedEffects": {},
+    "Category": "Physical"
+}

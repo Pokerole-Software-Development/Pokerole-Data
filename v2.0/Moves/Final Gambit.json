@@ -1,0 +1,19 @@
+{
+    "Name": "Final Gambit",
+    "Type": "Fighting",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Will",
+    "Accuracy2": "Athletic",
+    "Target": "Foe",
+    "Effect": "Ignore the foe's Defenses. The user faints after dealing damage.",
+    "Description": "The Pokemon puts its last strength into an all-or-nothing attack. After that, it faints.",
+    "_id": "final-gambit",
+    "Attributes": {
+        "UserFaints": true,
+        "IgnoreDefenses": true
+    },
+    "AddedEffects": {},
+    "Category": "Special"
+}

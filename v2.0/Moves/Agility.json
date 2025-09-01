@@ -1,0 +1,26 @@
+{
+    "Name": "Agility",
+    "Type": "Psychic",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Athletic",
+    "Target": "User",
+    "Effect": "Increase the User's Dexterity by 2.",
+    "Description": "The user relaxes and lightens its body to move faster.",
+    "_id": "agility",
+    "Attributes": {},
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "Dexterity"
+                ],
+                "Stages": 2,
+                "Affects": "User"
+            }
+        ]
+    },
+    "Category": "Support"
+}

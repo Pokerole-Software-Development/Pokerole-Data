@@ -1,0 +1,159 @@
+{
+    "Number": 330,
+    "DexID": "0330",
+    "Name": "Flygon",
+    "Type1": "Ground",
+    "Type2": "Dragon",
+    "BaseHP": 5,
+    "Strength": 3,
+    "MaxStrength": 6,
+    "Dexterity": 3,
+    "MaxDexterity": 6,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 2,
+    "MaxSpecial": 5,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Levitate",
+    "Ability2": "",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Expert",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "flygon",
+    "DexCategory": "Mystic Pokémon",
+    "Height": {
+        "Meters": 2.0,
+        "Feet": 6.6
+    },
+    "Weight": {
+        "Kilograms": 82.0,
+        "Pounds": 180.8
+    },
+    "DexDescription": "Known as the 'Elemental Spirit of the Desert'. Their wings create a cloud of dust that surrounds this Pokémon while flying, while their flapping produces a sound that resembles a woman singing.",
+    "Evolutions": [
+        {
+            "From": "Vibrava",
+            "Kind": "Level",
+            "Speed": "Slow"
+        }
+    ],
+    "Image": "flygon.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Sonic Boom"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Sand Attack"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Laser Focus"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Dragon Breath"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Supersonic"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Sand Tomb"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Mud Slap"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Bide"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Bulldoze"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Bug Buzz"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Screech"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Dragon Claw"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Feint Attack"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Sandstorm"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Dragon Tail"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Uproar"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Earth Power"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Rock Slide"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Dragon Dance"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Superpower"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Hyper Beam"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Earthquake"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Dragon Rush"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Boomburst"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Outrage"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Draco Meteor"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Heat Wave"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Roost"
+        }
+    ]
+}

@@ -1,0 +1,111 @@
+{
+    "Number": 836,
+    "DexID": "0836",
+    "Name": "Boltund",
+    "Type1": "Electric",
+    "Type2": "",
+    "BaseHP": 4,
+    "Strength": 2,
+    "MaxStrength": 5,
+    "Dexterity": 3,
+    "MaxDexterity": 7,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 2,
+    "MaxSpecial": 5,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Strong Jaw",
+    "Ability2": "",
+    "HiddenAbility": "Competitive",
+    "EventAbilities": "",
+    "RecommendedRank": "Amateur",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "boltund",
+    "DexCategory": "Dog Pokemon",
+    "Height": {
+        "Meters": 1.0,
+        "Feet": 3.3
+    },
+    "Weight": {
+        "Kilograms": 34.0,
+        "Pounds": 75.0
+    },
+    "DexDescription": "It sends electricity through its legs to boost their speed, it easily breaks 50 mph. They get destructive and stressed if you do not take them out to run daily, otherwise they are chill and easygoing Pokemon.",
+    "Evolutions": [
+        {
+            "From": "Yamper",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "boltund.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Electrify"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Tail Whip"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Nuzzle"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Bite"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Roar"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Spark"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Charm"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Crunch"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Charge"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Wild Charge"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Play Rough"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Electric Terrain"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Psychic Fangs"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Dig"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Thunder Fang"
+        }
+    ]
+}

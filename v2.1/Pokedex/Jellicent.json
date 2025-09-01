@@ -1,0 +1,143 @@
+{
+    "Number": 593,
+    "DexID": "0593",
+    "Name": "Jellicent",
+    "Type1": "Water",
+    "Type2": "Ghost",
+    "BaseHP": 6,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 2,
+    "MaxSpecial": 5,
+    "Insight": 3,
+    "MaxInsight": 6,
+    "Ability1": "Water Absorb",
+    "Ability2": "Cursed Body",
+    "HiddenAbility": "Damp",
+    "EventAbilities": "",
+    "RecommendedRank": "Expert",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "jellicent",
+    "DexCategory": "Floating Pokémon",
+    "Height": {
+        "Meters": 2.2,
+        "Feet": 7.2
+    },
+    "Weight": {
+        "Kilograms": 135.0,
+        "Pounds": 297.6
+    },
+    "DexDescription": "Its body is mostly seawater. It feeds on the life energy of its victims. It is regal, pompous, and hates orders. The fate of the ships and crew that wander into Jellicent's territory: All sunken, all lost, all vanished.",
+    "Evolutions": [
+        {
+            "From": "Frillish",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "jellicent.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Water Gun"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Water Sport"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Absorb"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Poison Sting"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Bubble"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Night Shade"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Water Pulse"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Rain Dance"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Ominous Wind"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Hex"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Bubble Beam"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Brine"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Recover"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Shadow Ball"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Acid Armor"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Trick Room"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Whirlpool"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Wring Out"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Hydro Pump"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Destiny Bond"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Water Spout"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Pain Split"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Confuse Ray"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Spite"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "Name": "Barrage",
+    "Type": "Normal",
+    "Power": 1,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Channel",
+    "Target": "Foe",
+    "Effect": "Single Target. Low Accuracy 1. Ranged. Successive Actions. Projectile Move.",
+    "Description": "The Pokemon throws many round objects at the target, one after the other.",
+    "_id": "barrage",
+    "Attributes": {
+        "PhysicalRanged": true,
+        "SuccessiveActions": true,
+        "AccuracyReduction": 1,
+        "ProjectileMove": true
+    },
+    "AddedEffects": {},
+    "Category": "Physical"
+}

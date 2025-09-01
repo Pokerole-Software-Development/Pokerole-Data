@@ -1,0 +1,19 @@
+{
+    "Name": "Bullet Punch",
+    "Type": "Steel",
+    "Power": 2,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "Fist Based. Priority 1.",
+    "Description": "The user launches itself against the foe to strike it with an iron fist.",
+    "_id": "bullet-punch",
+    "Attributes": {
+        "FistBased": true,
+        "Priority": 1
+    },
+    "AddedEffects": {},
+    "Category": "Physical"
+}

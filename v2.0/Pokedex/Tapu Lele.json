@@ -1,0 +1,125 @@
+{
+    "Number": 786,
+    "DexID": "0786",
+    "Name": "Tapu Lele",
+    "Type1": "Psychic",
+    "Type2": "Fairy",
+    "BaseHP": 4,
+    "Strength": 5,
+    "MaxStrength": 5,
+    "Dexterity": 6,
+    "MaxDexterity": 6,
+    "Vitality": 5,
+    "MaxVitality": 5,
+    "Special": 7,
+    "MaxSpecial": 7,
+    "Insight": 6,
+    "MaxInsight": 6,
+    "Ability1": "Psychic Surge",
+    "Ability2": "",
+    "HiddenAbility": "Telepathy",
+    "EventAbilities": "",
+    "RecommendedRank": "Pro",
+    "GenderType": "N",
+    "Legendary": true,
+    "GoodStarter": false,
+    "_id": "tapu-lele",
+    "DexCategory": "No Data",
+    "Height": {
+        "Meters": 1.2,
+        "Feet": 3.9
+    },
+    "Weight": {
+        "Kilograms": 18.6,
+        "Pounds": 41.0
+    },
+    "DexDescription": "It is said that an innocent but cruel spirit guards Akala island. When the spirit is feeling benevolent it scatters some of its scales around, these scales have healing powers.",
+    "Evolutions": [],
+    "Image": "tapu-lele.png",
+    "Moves": [
+        {
+            "Learned": "Master",
+            "Name": "Psychic Terrain"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Aromatic Mist"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Aromatherapy"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Mean Look"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Draining Kiss"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Astonish"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Withdraw"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Confusion"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Psywave"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Skill Swap"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Sweet Scent"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Psyshock"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Tickle"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Nature's Madness"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Extrasensory"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Flatter"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Moonblast"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Magic Room"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Iron Defense"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Wonder Room"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Telekinesis"
+        }
+    ]
+}

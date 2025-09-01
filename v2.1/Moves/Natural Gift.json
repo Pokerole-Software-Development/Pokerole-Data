@@ -1,0 +1,18 @@
+{
+    "Name": "Natural Gift",
+    "Type": "Normal",
+    "Power": 3,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Insight",
+    "Accuracy2": "Nature",
+    "Target": "Foe",
+    "Effect": "Single Target. Ranged. The User loses its held berry. See more info on Natural Gift on P. XXX",
+    "Description": "The user throws its berry at the foe. The results can be quite surprising.",
+    "_id": "natural-gift",
+    "Attributes": {
+        "PhysicalRanged": true
+    },
+    "AddedEffects": {},
+    "Category": "Physical"
+}

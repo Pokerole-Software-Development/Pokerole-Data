@@ -1,0 +1,24 @@
+{
+    "Name": "Horn Drill",
+    "Type": "Normal",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Strength",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "Single Target. Low Accuracy 5. Deal Damage equal to the Target's Remaining HP, plus 1 Lethal Damage.",
+    "Description": "The user stabs the target with a horn used like a drill. The foe is often left in a critical condition. A move of which to be wary.",
+    "_id": "horn-drill",
+    "Attributes": {
+        "Lethal": true,
+        "AccuracyReduction": 5
+    },
+    "AddedEffects": {
+        "FixedDamage": {
+            "Type": "OneHitKO",
+            "Target": "Targets"
+        }
+    },
+    "Category": "Physical"
+}

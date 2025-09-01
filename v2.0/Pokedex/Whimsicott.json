@@ -1,0 +1,91 @@
+{
+    "Number": 547,
+    "DexID": "0547",
+    "Name": "Whimsicott",
+    "Type1": "Grass",
+    "Type2": "Fairy",
+    "BaseHP": 4,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 3,
+    "MaxDexterity": 6,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 2,
+    "MaxSpecial": 5,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Prankster",
+    "Ability2": "Infiltrator",
+    "HiddenAbility": "Chlorophyll",
+    "EventAbilities": "",
+    "RecommendedRank": "Amateur",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "whimsicott",
+    "DexCategory": "Windveiled Pokemon",
+    "Height": {
+        "Meters": 0.7,
+        "Feet": 2.3
+    },
+    "Weight": {
+        "Kilograms": 6.6,
+        "Pounds": 14.6
+    },
+    "DexDescription": "Riding whirlwinds, they appear and disappear. These Pokemon sneak through even the smallest gaps into houses and cause all sorts of mischief the balls of white fluff it leaves behind reveal its presence.",
+    "Evolutions": [
+        {
+            "From": "Cottonee",
+            "Kind": "Stone",
+            "Item": "Sun Stone"
+        }
+    ],
+    "Image": "whimsicott.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Growth"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Leech Seed"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Mega Drain"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Cotton Spore"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Gust"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Tailwind"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Moonblast"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Hurricane"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Fake Tears"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Memento"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Encore"
+        }
+    ]
+}

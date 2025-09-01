@@ -1,0 +1,23 @@
+{
+    "Name": "Lucky Chant",
+    "Type": "Normal",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Special",
+    "Accuracy2": "Perform",
+    "Target": "User and Allies",
+    "Effect": "User and Allies in range can re-roll one un-successful die from all their rolls until the end of the scene. If an opponent would land a Critical Hit it doesn't. Outside of battle good things happen at the story tellers discretion.",
+    "Description": "The user chants an incantation to the skies. The beautiful performance grants this Pokemon and its allies divine protection.",
+    "_id": "lucky-chant",
+    "Attributes": {},
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "LuckyChant",
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Support"
+}

@@ -1,0 +1,111 @@
+{
+    "Number": 855,
+    "DexID": "0855",
+    "Name": "Polteageist",
+    "Type1": "Ghost",
+    "Type2": "",
+    "BaseHP": 4,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 2,
+    "MaxDexterity": 5,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 3,
+    "MaxSpecial": 7,
+    "Insight": 3,
+    "MaxInsight": 6,
+    "Ability1": "Weak Armor",
+    "Ability2": "",
+    "HiddenAbility": "Cursed Body",
+    "EventAbilities": "",
+    "RecommendedRank": "Amateur",
+    "GenderType": "N",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "polteageist",
+    "DexCategory": "Black Tea Pokemon",
+    "Height": {
+        "Meters": 0.2,
+        "Feet": 0.7
+    },
+    "Weight": {
+        "Kilograms": 0.4,
+        "Pounds": 0.9
+    },
+    "DexDescription": "This species lives in old ceramic teapots. They struggle to find real antiques, for most tea sets nowadays are just imitations. Never leave your tea unattended or a Poltegeist might come to haunt it.",
+    "Evolutions": [
+        {
+            "From": "Sinistea",
+            "Kind": "Item",
+            "Item": "Cracked Pot"
+        }
+    ],
+    "Image": "polteageist.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Teatime"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Withdraw"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Astonish"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Mega Drain"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Aromatic Mist"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Sucker Punch"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Protect"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Giga Drain"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Shadow Ball"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Nasty Plot"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Shell Smash"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Memento"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Strength Sap"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Poltergeist"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Stored Power"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Self Destruct"
+        }
+    ]
+}

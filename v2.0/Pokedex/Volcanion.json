@@ -1,0 +1,109 @@
+{
+    "Number": 721,
+    "DexID": "0721",
+    "Name": "Volcanion",
+    "Type1": "Fire",
+    "Type2": "Water",
+    "BaseHP": 4,
+    "Strength": 6,
+    "MaxStrength": 6,
+    "Dexterity": 5,
+    "MaxDexterity": 5,
+    "Vitality": 7,
+    "MaxVitality": 7,
+    "Special": 7,
+    "MaxSpecial": 7,
+    "Insight": 5,
+    "MaxInsight": 5,
+    "Ability1": "Water Absorb",
+    "Ability2": "",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Pro",
+    "GenderType": "N",
+    "Legendary": true,
+    "GoodStarter": false,
+    "_id": "volcanion",
+    "DexCategory": "No Data",
+    "Height": {
+        "Meters": 1.7,
+        "Feet": 5.6
+    },
+    "Weight": {
+        "Kilograms": 195.0,
+        "Pounds": 429.9
+    },
+    "DexDescription": "In the early days of world exploring, there are records of an entire mountain blowing up in a cloud of steam. The explorers claimed that a creature in the fog was responsible.",
+    "Evolutions": [],
+    "Image": "volcanion.png",
+    "Moves": [
+        {
+            "Learned": "Master",
+            "Name": "Flare Blitz"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Take Down"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Mist"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Haze"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Flame Charge"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Water Pulse"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Stomp"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Scald"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Weather Ball"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Body Slam"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Hydro Pump"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Overheat"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Explosion"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Steam Eruption"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Solar Beam"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Earth Power"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Superpower"
+        }
+    ]
+}

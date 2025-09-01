@@ -1,0 +1,84 @@
+{
+    "Number": 366,
+    "DexID": "0366",
+    "Name": "Clamperl",
+    "Type1": "Water",
+    "Type2": "",
+    "BaseHP": 3,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 1,
+    "MaxDexterity": 3,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 2,
+    "MaxSpecial": 5,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Swift Swim",
+    "Ability2": "",
+    "HiddenAbility": "Rattled",
+    "EventAbilities": "",
+    "RecommendedRank": "Beginner",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "clamperl",
+    "DexCategory": "Bivalve Pokemon",
+    "Height": {
+        "Meters": 0.4,
+        "Feet": 1.3
+    },
+    "Weight": {
+        "Kilograms": 52.5,
+        "Pounds": 115.7
+    },
+    "DexDescription": "It is protected by a sturdy shell which is used to catch its prey. Clamperl will produce a magnificent pearl once in a lifetime. That pearl is said to increase psychic powers and will sell for a lot of money.",
+    "Evolutions": [
+        {
+            "To": "Huntail",
+            "Kind": "Trade",
+            "Item": "Dragon Fang"
+        },
+        {
+            "To": "Gorebyss",
+            "Kind": "Trade",
+            "Item": "Dragon Scale"
+        }
+    ],
+    "Image": "clamperl.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Clamp"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Water Gun"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Iron Defense"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Whirlpool"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Shell Smash"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Refresh"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Endure"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Mud Sport"
+        }
+    ]
+}

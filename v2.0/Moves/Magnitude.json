@@ -1,0 +1,18 @@
+{
+    "Name": "Magnitude",
+    "Type": "Ground",
+    "Power": 0,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Brawl",
+    "Target": "Area",
+    "Effect": "Ranged. 1 Dice to determine this Move's Power",
+    "Description": "The user quakes the ground plates. Some plates will move easier than others.",
+    "_id": "magnitude",
+    "Attributes": {
+        "PhysicalRanged": true
+    },
+    "AddedEffects": {},
+    "Category": "Physical"
+}

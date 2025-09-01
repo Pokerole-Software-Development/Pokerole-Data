@@ -1,0 +1,20 @@
+{
+    "Name": "Night Slash",
+    "Type": "Dark",
+    "Power": 3,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Stealth",
+    "Target": "Foe",
+    "Effect": "Single Target. Lethal. High Critical. Cutter Move.",
+    "Description": "The user quickly slashes through the target as soon as it gets the chance. The intent to end the target's life is frightening.",
+    "_id": "night-slash",
+    "Attributes": {
+        "HighCritical": true,
+        "Lethal": true,
+        "CutterMove": true
+    },
+    "AddedEffects": {},
+    "Category": "Physical"
+}

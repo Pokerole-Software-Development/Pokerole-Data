@@ -1,0 +1,19 @@
+{
+    "Name": "Roar",
+    "Type": "Normal",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Tough",
+    "Accuracy2": "Intimidate",
+    "Target": "Foe",
+    "Effect": "Low Priority 6. In the wild the battle ends. In an official fight, the Pokemon switches out. If its the last or only Pokemon the move fails. Switcher Move.",
+    "Description": "A mighty roar that scares the foe.",
+    "_id": "roar",
+    "Attributes": {
+        "SwitcherMove": true,
+        "Priority": -6
+    },
+    "AddedEffects": {},
+    "Category": "Support"
+}

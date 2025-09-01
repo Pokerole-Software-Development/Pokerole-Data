@@ -1,0 +1,112 @@
+{
+    "Number": 274,
+    "DexID": "0274",
+    "Name": "Nuzleaf",
+    "Type1": "Grass",
+    "Type2": "Dark",
+    "BaseHP": 4,
+    "Strength": 2,
+    "MaxStrength": 5,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 1,
+    "MaxInsight": 3,
+    "Ability1": "Chlorophyll",
+    "Ability2": "Early Bird",
+    "HiddenAbility": "Pickpocket",
+    "EventAbilities": "",
+    "RecommendedRank": "Beginner",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "nuzleaf",
+    "DexCategory": "Wily Pokemon",
+    "Height": {
+        "Meters": 1.0,
+        "Feet": 3.3
+    },
+    "Weight": {
+        "Kilograms": 28.0,
+        "Pounds": 61.7
+    },
+    "DexDescription": "They live inside holes on big trees. Their leaves are played like flutes to strike fear and discomfort in lost people\u2019s hearts. They like to go out and startle people. Their noses are really sensitive and frail.",
+    "Evolutions": [
+        {
+            "From": "Seedot",
+            "Kind": "Level",
+            "Speed": "Medium"
+        },
+        {
+            "To": "Shiftry",
+            "Kind": "Stone",
+            "Item": "Leaf Stone"
+        }
+    ],
+    "Image": "nuzleaf.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Pound"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Growth"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Harden"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Razor Leaf"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Nature Power"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Fake Out"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Torment"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Leaf Blade"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Feint Attack"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Razor Wind"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Swagger"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Extrasensory"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Bullet Seed"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Leech Seed"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Foul Play"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "Name": "Imprison",
+    "Type": "Psychic",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Clever",
+    "Accuracy2": "Channel",
+    "Target": "Foe",
+    "Effect": "The foe cannot use any Moves known by the User. Lasts for a day.",
+    "Description": "This move blocks specific parts of the memory the user is well aware of. Be it moves, techniques, names, places, people, or situations. The target won't be able to recall those memories.",
+    "_id": "imprison",
+    "Attributes": {},
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Imprison",
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Support"
+}

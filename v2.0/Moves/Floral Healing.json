@@ -1,0 +1,22 @@
+{
+    "Name": "Floral Healing",
+    "Type": "Fairy",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Insight",
+    "Accuracy2": "Nature",
+    "Target": "One Ally",
+    "Effect": "Basic Heal. If performed over Grassy Terrain this move is a Complete Heal.",
+    "Description": "The user creates a flower crown that heals and relaxes its wearer. Under the right conditions this move also creates a flower patch around its target.",
+    "_id": "floral-healing",
+    "Attributes": {},
+    "AddedEffects": {
+        "Heal": {
+            "Type": "Basic",
+            "Target": "Targets",
+            "WillPointCost": 1
+        }
+    },
+    "Category": "Support"
+}

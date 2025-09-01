@@ -1,0 +1,127 @@
+{
+    "Number": 322,
+    "DexID": "0322",
+    "Name": "Numel",
+    "Type1": "Fire",
+    "Type2": "Ground",
+    "BaseHP": 3,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 1,
+    "MaxDexterity": 3,
+    "Vitality": 1,
+    "MaxVitality": 3,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Oblivious",
+    "Ability2": "Simple",
+    "HiddenAbility": "Own Tempo",
+    "EventAbilities": "",
+    "RecommendedRank": "Rookie",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "numel",
+    "DexCategory": "Numb Pokémon",
+    "Height": {
+        "Meters": 0.7,
+        "Feet": 2.3
+    },
+    "Weight": {
+        "Kilograms": 24.0,
+        "Pounds": 52.9
+    },
+    "DexDescription": "An incredibly dim-witted Pokémon. They don't notice being hit. If they get hungry, they faint. Numel's body is a cauldron of boiling magma. On rainy days, the magma cools and its speed is lowered.",
+    "Evolutions": [
+        {
+            "To": "Camerupt",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "numel.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Growl"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Ember"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Focus Energy"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Bulldoze"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Flame Burst"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Flame Wheel"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Amnesia"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Earth Power"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Magnitude"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Curse"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Take Down"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Lava Plume"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Yawn"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Flamethrower"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Double-Edge"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Earthquake"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Iron Head"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Rock Smash"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Growth"
+        }
+    ]
+}

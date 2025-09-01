@@ -1,0 +1,75 @@
+{
+    "Number": 360,
+    "DexID": "0360",
+    "Name": "Wynaut",
+    "Type1": "Psychic",
+    "Type2": "",
+    "BaseHP": 3,
+    "Strength": 1,
+    "MaxStrength": 3,
+    "Dexterity": 1,
+    "MaxDexterity": 3,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 1,
+    "MaxSpecial": 3,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Shadow Tag",
+    "Ability2": "",
+    "HiddenAbility": "Telepathy",
+    "EventAbilities": "",
+    "RecommendedRank": "Starter",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "wynaut",
+    "DexCategory": "Bright Pokemon",
+    "Height": {
+        "Meters": 0.6,
+        "Feet": 2.0
+    },
+    "Weight": {
+        "Kilograms": 14.0,
+        "Pounds": 30.9
+    },
+    "DexDescription": "Its face always appears to be happy, but Wynaut can be deceitful. You can only discern its true emotions through its tail. They live together in caves and bump into each other to gain strength.",
+    "Evolutions": [
+        {
+            "To": "Wobbuffet",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "wynaut.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Charm"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Encore"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Splash"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Counter"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Destiny Bond"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Mirror Coat"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Safeguard"
+        }
+    ]
+}

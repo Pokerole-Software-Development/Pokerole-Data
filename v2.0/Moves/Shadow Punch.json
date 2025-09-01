@@ -1,0 +1,19 @@
+{
+    "Name": "Shadow Punch",
+    "Type": "Ghost",
+    "Power": 2,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "Fist Based. Never Fail.",
+    "Description": "The Pokemon punches through its own shadow. The attack comes out from the foe's shadows as if it were a portal.",
+    "_id": "shadow-punch",
+    "Attributes": {
+        "FistBased": true,
+        "NeverFail": true
+    },
+    "AddedEffects": {},
+    "Category": "Physical"
+}

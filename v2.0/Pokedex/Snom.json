@@ -1,0 +1,68 @@
+{
+    "Number": 872,
+    "DexID": "0872",
+    "Name": "Snom",
+    "Type1": "Ice",
+    "Type2": "Bug",
+    "BaseHP": 3,
+    "Strength": 1,
+    "MaxStrength": 3,
+    "Dexterity": 1,
+    "MaxDexterity": 3,
+    "Vitality": 1,
+    "MaxVitality": 3,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 1,
+    "MaxInsight": 3,
+    "Ability1": "Shield Dust",
+    "Ability2": "",
+    "HiddenAbility": "Ice Scales",
+    "EventAbilities": "",
+    "RecommendedRank": "Starter",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "snom",
+    "DexCategory": "Worm Pokemon",
+    "Height": {
+        "Meters": 0.3,
+        "Feet": 1.0
+    },
+    "Weight": {
+        "Kilograms": 3.8,
+        "Pounds": 8.4
+    },
+    "DexDescription": "It spits out thread imbued with a frigid energy and uses it to tie its body to branches, disguising itself as an icicle while it sleeps. It feeds only of snow, if it melts it will freeze it again to continue eating.",
+    "Evolutions": [
+        {
+            "To": "Frosmoth",
+            "Kind": "Stat",
+            "Stat": "Happiness",
+            "Value": 5
+        }
+    ],
+    "Image": "snom.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Powder Snow"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Struggle Bug"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Rest"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Snore"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Bug Bite"
+        }
+    ]
+}

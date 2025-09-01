@@ -1,0 +1,26 @@
+{
+    "Name": "Howl",
+    "Type": "Normal",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Cool",
+    "Accuracy2": "Intimidate",
+    "Target": "User",
+    "Effect": "Increase the User's Strength.",
+    "Description": "The Pokemon lets out an impressive howl, making it appear a lot more menacing.",
+    "_id": "howl",
+    "Attributes": {},
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "Strength"
+                ],
+                "Stages": 1,
+                "Affects": "User"
+            }
+        ]
+    },
+    "Category": "Support"
+}

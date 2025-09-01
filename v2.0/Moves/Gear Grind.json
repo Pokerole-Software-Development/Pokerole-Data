@@ -1,0 +1,19 @@
+{
+    "Name": "Gear Grind",
+    "Type": "Steel",
+    "Power": 2,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "Double Action. -1 Accuracy.",
+    "Description": "The user traps the foe between its gears and crushes it with two painful grinds.",
+    "_id": "gear-grind",
+    "Attributes": {
+        "DoubleAction": true,
+        "AccuracyReduction": 1
+    },
+    "AddedEffects": {},
+    "Category": "Physical"
+}

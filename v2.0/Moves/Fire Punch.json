@@ -1,0 +1,26 @@
+{
+    "Name": "Fire Punch",
+    "Type": "Fire",
+    "Power": 3,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "Fist Based. Roll 1 Chance Dice to apply Burn 2 to the foe.",
+    "Description": "The User can ignite its fists for a brief moment without any danger of getting burned. The foe may not be so lucky.",
+    "_id": "fire-punch",
+    "Attributes": {
+        "FistBased": true
+    },
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Burn2",
+                "Affects": "Targets",
+                "ChanceDice": 1
+            }
+        ]
+    },
+    "Category": "Physical"
+}

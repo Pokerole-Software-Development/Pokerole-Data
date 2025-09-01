@@ -1,0 +1,24 @@
+{
+    "Name": "Iron Head",
+    "Type": "Steel",
+    "Power": 3,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "Roll 3 Chance Dice to Flinch the Foe.",
+    "Description": "The Pokemon charges at the foe with a brutal headbutt that may leave the target knocked down on the ground.",
+    "_id": "iron-head",
+    "Attributes": {},
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Flinch",
+                "Affects": "Targets",
+                "ChanceDice": 3
+            }
+        ]
+    },
+    "Category": "Physical"
+}

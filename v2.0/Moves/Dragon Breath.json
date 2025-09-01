@@ -1,0 +1,24 @@
+{
+    "Name": "Dragon Breath",
+    "Type": "Dragon",
+    "Power": 2,
+    "Damage1": "Special",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Channel",
+    "Target": "Foe",
+    "Effect": "Roll 3 Chance Dice to Paralyze the foe.",
+    "Description": "The user lets out a mystical green breath that hinders the movement of anyone it touches.",
+    "_id": "dragon-breath",
+    "Attributes": {},
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Paralyze",
+                "Affects": "Targets",
+                "ChanceDice": 3
+            }
+        ]
+    },
+    "Category": "Special"
+}

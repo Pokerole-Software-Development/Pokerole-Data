@@ -1,0 +1,127 @@
+{
+    "Number": 321,
+    "DexID": "0321",
+    "Name": "Wailord",
+    "Type1": "Water",
+    "Type2": "",
+    "BaseHP": 11,
+    "Strength": 2,
+    "MaxStrength": 5,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 2,
+    "MaxSpecial": 5,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Water Veil",
+    "Ability2": "Oblivious",
+    "HiddenAbility": "Pressure",
+    "EventAbilities": "",
+    "RecommendedRank": "Ace",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "wailord",
+    "DexCategory": "Float Whale Pokemon",
+    "Height": {
+        "Meters": 14.5,
+        "Feet": 47.6
+    },
+    "Weight": {
+        "Kilograms": 398.0,
+        "Pounds": 877.4
+    },
+    "DexDescription": "The largest Pokemon known to date. Wailords weight is really light so they can dive almost 10,000 feet with one breath. They live in open ocean herding fish to swallow in one gulp. They are used to being free.",
+    "Evolutions": [
+        {
+            "From": "Wailmer",
+            "Kind": "Level",
+            "Speed": "Slow"
+        }
+    ],
+    "Image": "wailord.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Splash"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Growl"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Water Gun"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Rollout"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Noble Roar"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Whirlpool"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Astonish"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Water Pulse"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Mist"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Dive"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Brine"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Water Spout"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Amnesia"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Rest"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Bounce"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Hydro Pump"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Heavy Slam"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Soak"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Clear Smog"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Defense Curl"
+        }
+    ]
+}

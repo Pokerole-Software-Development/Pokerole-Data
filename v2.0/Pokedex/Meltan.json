@@ -1,0 +1,87 @@
+{
+    "Number": 808,
+    "DexID": "0808",
+    "Name": "Meltan",
+    "Type1": "Steel",
+    "Type2": "",
+    "BaseHP": 3,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 1,
+    "MaxDexterity": 3,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 1,
+    "MaxInsight": 3,
+    "Ability1": "Magnet Pull",
+    "Ability2": "",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Amateur",
+    "GenderType": "N",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "meltan",
+    "DexCategory": "Hex Nut Pokemon",
+    "Height": {
+        "Meters": 0.2,
+        "Feet": 0.7
+    },
+    "Weight": {
+        "Kilograms": 8.0,
+        "Pounds": 17.6
+    },
+    "DexDescription": "They are elusive as they can liquefy their body to move through small spaces. They live in groups, but when the time comes, one strong Meltan will absorb all the others and evolve.",
+    "Evolutions": [
+        {
+            "To": "Melmetal",
+            "Kind": "Level",
+            "Speed": "Unknown"
+        }
+    ],
+    "Image": "meltan.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Thunder Shock"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Harden"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Tail Whip"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Headbutt"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Thunder Wave"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Acid Armor"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Flash Cannon"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Protect"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Gyro Ball"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Steel Beam"
+        }
+    ]
+}

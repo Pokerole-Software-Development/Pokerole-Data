@@ -1,0 +1,26 @@
+{
+    "Name": "Low Sweep",
+    "Type": "Fighting",
+    "Power": 2,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "Reduce Foe's Dexterity by 2.",
+    "Description": "The Pokemon strikes the foe's legs, leaving it unable to walk normally or run.",
+    "_id": "low-sweep",
+    "Attributes": {},
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "Dexterity"
+                ],
+                "Stages": -2,
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Physical"
+}

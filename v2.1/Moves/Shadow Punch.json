@@ -1,0 +1,19 @@
+{
+    "Name": "Shadow Punch",
+    "Type": "Ghost",
+    "Power": 2,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Strength",
+    "Accuracy2": "Brawl/Stealth",
+    "Target": "Foe",
+    "Effect": "Single Target. Never Miss. Fist Move.",
+    "Description": "The Pokémon punches the air; inadvertently, its shadow delivers the punch through the victim's shadow. This move is impossible to anticipate.",
+    "_id": "shadow-punch",
+    "Attributes": {
+        "FistBased": true,
+        "NeverFail": true
+    },
+    "AddedEffects": {},
+    "Category": "Physical"
+}

@@ -1,0 +1,103 @@
+{
+    "Number": 856,
+    "DexID": "0856",
+    "Name": "Hatenna",
+    "Type1": "Psychic",
+    "Type2": "",
+    "BaseHP": 3,
+    "Strength": 1,
+    "MaxStrength": 3,
+    "Dexterity": 1,
+    "MaxDexterity": 3,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Healer",
+    "Ability2": "Anticipation",
+    "HiddenAbility": "Magic Bounce",
+    "EventAbilities": "",
+    "RecommendedRank": "Beginner",
+    "GenderType": "F",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "hatenna",
+    "DexCategory": "Calm Pokemon",
+    "Height": {
+        "Meters": 0.4,
+        "Feet": 1.3
+    },
+    "Weight": {
+        "Kilograms": 3.4,
+        "Pounds": 7.5
+    },
+    "DexDescription": "Though the protrusion on its head it senses other creatures\u2019 emotions. If you don\u2019t have a calm disposition, it will never warm up to you. They get overwhelmed in places with many people, preferring to hide alone.",
+    "Evolutions": [
+        {
+            "To": "Hattrem",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "hatenna.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Confusion"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Play Nice"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Life Dew"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Disarming Voice"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Aromatherapy"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Psybeam"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Heal Pulse"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Dazzling Gleam"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Calm Mind"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Psychic"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Healing Wish"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Nuzzle"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "After You"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Aromatic Mist"
+        }
+    ]
+}

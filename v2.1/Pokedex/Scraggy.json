@@ -1,0 +1,131 @@
+{
+    "Number": 559,
+    "DexID": "0559",
+    "Name": "Scraggy",
+    "Type1": "Dark",
+    "Type2": "Fighting",
+    "BaseHP": 3,
+    "Strength": 2,
+    "MaxStrength": 5,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 1,
+    "MaxSpecial": 3,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Shed Skin",
+    "Ability2": "Moxie",
+    "HiddenAbility": "Intimidate",
+    "EventAbilities": "",
+    "RecommendedRank": "Rookie",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "scraggy",
+    "DexCategory": "Shedding Pokémon",
+    "Height": {
+        "Meters": 0.6,
+        "Feet": 2.0
+    },
+    "Weight": {
+        "Kilograms": 11.8,
+        "Pounds": 26.0
+    },
+    "DexDescription": "It sheds skin constantly, but keeps wearing it since the old skin has a rubber-like texture and it can pull it all the way up to its head. It bashes foes with headbutts and is known for making dirty moves while fighting.",
+    "Evolutions": [
+        {
+            "To": "Scrafty",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "scraggy.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Low Kick"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Leer"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Feint Attack"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Sand Attack"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Headbutt"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Facade"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Payback"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Chip Away"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Protect"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Beat Up"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Scary Face"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Brick Break"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Swagger"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Crunch"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Rock Climb"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "High Jump Kick"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Focus Punch"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Head Smash"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Fake Out"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Thunder Punch"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Fire Punch"
+        }
+    ]
+}

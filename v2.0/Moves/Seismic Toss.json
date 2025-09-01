@@ -1,0 +1,18 @@
+{
+    "Name": "Seismic Toss",
+    "Type": "Fighting",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Strength",
+    "Accuracy2": "Athletic",
+    "Target": "Foe",
+    "Effect": "Roll Damage Dice according to the User's Rank. 1 Dice at Starter Rank. 2 Dice at Beginner Rank.  3 dice at Amateur Rank.  4 Dice at Ace Rank.  5 Dice at Professional Rank. Ignores Defense.",
+    "Description": "The target gets launched up then falls face first into the ground, the stronger the user the higher the foe will be thrown.",
+    "_id": "seismic-toss",
+    "Attributes": {
+        "IgnoreDefenses": true
+    },
+    "AddedEffects": {},
+    "Category": "Physical"
+}

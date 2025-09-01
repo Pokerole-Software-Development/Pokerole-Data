@@ -1,0 +1,26 @@
+{
+    "Name": "Mystical Fire",
+    "Type": "Fire",
+    "Power": 2,
+    "Damage1": "Special",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Channel",
+    "Target": "Foe",
+    "Effect": "Reduce Foe's Special.",
+    "Description": "This mystical fire not only burns the foe, it also drains its power.",
+    "_id": "mystical-fire",
+    "Attributes": {},
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "Special"
+                ],
+                "Stages": -1,
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Special"
+}

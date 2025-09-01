@@ -1,0 +1,23 @@
+{
+    "Name": "Nuzzle",
+    "Type": "Electric",
+    "Power": 1,
+    "Damage1": "Special",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Allure",
+    "Target": "Foe",
+    "Effect": "Single Target. Paralyze the foe.",
+    "Description": "The Pokémon rubs its electrified cheeks against the foe, it looks very cute but it can be dangerous.",
+    "_id": "nuzzle",
+    "Attributes": {},
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Paralyze",
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Physical"
+}

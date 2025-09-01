@@ -1,0 +1,139 @@
+{
+    "Number": 101,
+    "DexID": "0101",
+    "Name": "Electrode",
+    "Type1": "Electric",
+    "Type2": "",
+    "BaseHP": 4,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 4,
+    "MaxDexterity": 8,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 2,
+    "MaxSpecial": 5,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Static",
+    "Ability2": "Soundproof",
+    "HiddenAbility": "Aftermath",
+    "EventAbilities": "",
+    "RecommendedRank": "Expert",
+    "GenderType": "N",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "electrode",
+    "DexCategory": "Ball Pokémon",
+    "Height": {
+        "Meters": 1.2,
+        "Feet": 3.9
+    },
+    "Weight": {
+        "Kilograms": 66.6,
+        "Pounds": 146.8
+    },
+    "DexDescription": "It is known for causing blackouts in cities. After evolving, it explodes as a way to release excess electricity or simply to amuse itself. Trainers need to be careful around a bored Electrode.",
+    "Evolutions": [
+        {
+            "From": "Voltorb",
+            "Kind": "Level",
+            "Speed": "Slow"
+        }
+    ],
+    "Image": "electrode.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Charge"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Sonic Boom"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Thunder Shock"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Eerie Impulse"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Magnetic Flux"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Flash"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Rollout"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Spark"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Charge Beam"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Screech"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Electro Ball"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Light Screen"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Swift"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Self Destruct"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Magnet Rise"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Discharge"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Gyro Ball"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Mirror Coat"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Explosion"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Reflect"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Endure"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Zap Cannon"
+        }
+    ]
+}

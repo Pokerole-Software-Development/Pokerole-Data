@@ -1,0 +1,131 @@
+{
+    "Number": 47,
+    "DexID": "0047",
+    "Name": "Parasect",
+    "Type1": "Bug",
+    "Type2": "Grass",
+    "BaseHP": 4,
+    "Strength": 3,
+    "MaxStrength": 6,
+    "Dexterity": 1,
+    "MaxDexterity": 3,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 2,
+    "MaxSpecial": 5,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Effect Spore",
+    "Ability2": "Dry Skin",
+    "HiddenAbility": "Damp",
+    "EventAbilities": "",
+    "RecommendedRank": "Standard",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "parasect",
+    "DexCategory": "Mushroom Pokémon",
+    "Height": {
+        "Meters": 1.0,
+        "Feet": 3.3
+    },
+    "Weight": {
+        "Kilograms": 29.5,
+        "Pounds": 65.0
+    },
+    "DexDescription": "Their personality changes after evolution since the mushroom takes over its mind. Its body is now a husk devoid of nutrients. To survive, they cling to a tree and absorb the nutrients until the tree dies.",
+    "Evolutions": [
+        {
+            "From": "Paras",
+            "Kind": "Level",
+            "Speed": "Fast"
+        }
+    ],
+    "Image": "parasect.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Scratch"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Stun Spore"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Poison Powder"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Absorb"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Sleep Powder"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Spore"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Fury Cutter"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Growth"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Psybeam"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Agility"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Slash"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Aromatherapy"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Rage Powder"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Leech Seed"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Giga Drain"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Synthesis"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "X-Scissor"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Cross Poison"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Wide Guard"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Grassy Terrain"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Fell Stinger"
+        }
+    ]
+}

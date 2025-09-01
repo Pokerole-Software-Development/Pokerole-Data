@@ -1,0 +1,16 @@
+{
+    "Name": "Pursuit",
+    "Type": "Dark",
+    "Power": 2,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "If the foe is Switching Out or escaping. Add 2 Dice to the Damage Pool and Priority 1 to this move.",
+    "Description": "The Pokemon chases the foe to deliver a final blow before it escapes.",
+    "_id": "pursuit",
+    "Attributes": {},
+    "AddedEffects": {},
+    "Category": "Physical"
+}

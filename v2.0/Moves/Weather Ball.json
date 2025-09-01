@@ -1,0 +1,16 @@
+{
+    "Name": "Weather Ball",
+    "Type": "Normal",
+    "Power": 2,
+    "Damage1": "Special",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Nature",
+    "Target": "Foe",
+    "Effect": "If the battlefield is under a Weather, add +2 to the Damage Roll and change the Type of the Move accordingly: Sun-Fire. Rain-Water. Hail-Ice. Sandstorm-Rock. Wind-Flying.",
+    "Description": "The user creates a ball of energy that will use the climate around it to grow in size and power.",
+    "_id": "weather-ball",
+    "Attributes": {},
+    "AddedEffects": {},
+    "Category": "Special"
+}

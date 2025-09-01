@@ -1,0 +1,20 @@
+{
+    "Name": "Bonemerang",
+    "Type": "Ground",
+    "Power": 2,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "Ranged. Double Action. -1 Accuracy.",
+    "Description": "The Pokemon throws a bone to hit the foe. The bone returns like a boomerang, striking a second time.",
+    "_id": "bonemerang",
+    "Attributes": {
+        "PhysicalRanged": true,
+        "DoubleAction": true,
+        "AccuracyReduction": 1
+    },
+    "AddedEffects": {},
+    "Category": "Physical"
+}

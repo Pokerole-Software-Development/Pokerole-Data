@@ -1,0 +1,23 @@
+{
+    "Name": "Odor Sleuth",
+    "Type": "Normal",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Insight",
+    "Accuracy2": "Alert",
+    "Target": "Foe",
+    "Effect": "The Foe can not Evade moves performed by the User. User's Normal and Fighting Moves can affect Ghost Types and Ghost Moves can affect Normal Types. Add all Successes from this Move to any Rolls to Track the target.",
+    "Description": "The Pokemon uses its keen smell to detect the foe.",
+    "_id": "odor-sleuth",
+    "Attributes": {},
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "ForesightOdorSleuth",
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Support"
+}

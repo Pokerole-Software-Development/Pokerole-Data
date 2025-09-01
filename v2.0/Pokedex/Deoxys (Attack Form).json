@@ -1,0 +1,118 @@
+{
+    "Number": 386,
+    "DexID": "0386F1",
+    "Name": "Deoxys (Attack Form)",
+    "Type1": "Psychic",
+    "Type2": "",
+    "BaseHP": 4,
+    "Strength": 10,
+    "MaxStrength": 10,
+    "Dexterity": 8,
+    "MaxDexterity": 8,
+    "Vitality": 2,
+    "MaxVitality": 2,
+    "Special": 10,
+    "MaxSpecial": 10,
+    "Insight": 2,
+    "MaxInsight": 2,
+    "Ability1": "Pressure",
+    "Ability2": "",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Master",
+    "GenderType": "N",
+    "Legendary": true,
+    "GoodStarter": false,
+    "_id": "deoxys-attack-form",
+    "DexCategory": "No Data",
+    "Height": {
+        "Meters": 1.7,
+        "Feet": 5.6
+    },
+    "Weight": {
+        "Kilograms": 60.8,
+        "Pounds": 134.0
+    },
+    "DexDescription": "The main engineer of the space crew reported a tentacled creature that ripped with ease through the thick metal hull of the ship to escape. The ship was recovered and was indeed torn in two sections.",
+    "Evolutions": [
+        {
+            "From": "Deoxys",
+            "Kind": "Form"
+        }
+    ],
+    "Image": "deoxys-attack-form.png",
+    "Moves": [
+        {
+            "Learned": "Master",
+            "Name": "Leer"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Wrap"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Night Shade"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Teleport"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Taunt"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Pursuit"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Psychic"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Superpower"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Psycho Shift"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Zen Headbutt"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Cosmic Power"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Zap Cannon"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Psycho Boost"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Hyper Beam"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Toxic"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Laser Focus"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Bind"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Signal Beam"
+        }
+    ]
+}

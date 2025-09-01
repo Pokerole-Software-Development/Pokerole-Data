@@ -1,0 +1,119 @@
+{
+    "Number": 260,
+    "DexID": "0260M1",
+    "Name": "Swampert (Mega Form)",
+    "Type1": "Water",
+    "Type2": "Ground",
+    "BaseHP": 7,
+    "Strength": 4,
+    "MaxStrength": 8,
+    "Dexterity": 2,
+    "MaxDexterity": 5,
+    "Vitality": 3,
+    "MaxVitality": 6,
+    "Special": 3,
+    "MaxSpecial": 6,
+    "Insight": 3,
+    "MaxInsight": 6,
+    "Ability1": "Swift Swim",
+    "Ability2": "",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Pro",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "swampert-mega-form",
+    "DexCategory": "Mud Fish Pokemon",
+    "Height": {
+        "Meters": 1.9,
+        "Feet": 6.2
+    },
+    "Weight": {
+        "Kilograms": 102.0,
+        "Pounds": 224.9
+    },
+    "DexDescription": "The power of the Mega Stone increases its muscle strength, it would appear to be slower but its skin is so slippy it allows it to quickly slide over puddles and mud. It also becomes a bit bolder and moody.",
+    "Evolutions": [
+        {
+            "From": "Swampert",
+            "Kind": "Mega",
+            "Item": "Swampertite"
+        }
+    ],
+    "Image": "swampert-mega-form.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Growl"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Mud Slap"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Water Gun"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Take Down"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Bide"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Mud Shot"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Foresight"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Mud Bomb"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Rock Slide"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Muddy Water"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Hammer Arm"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Protect"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Earthquake"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Endeavor"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Wide Guard"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Hydro Cannon"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Avalanche"
+        }
+    ]
+}

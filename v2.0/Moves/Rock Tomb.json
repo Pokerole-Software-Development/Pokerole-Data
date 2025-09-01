@@ -1,0 +1,29 @@
+{
+    "Name": "Rock Tomb",
+    "Type": "Rock",
+    "Power": 2,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Channel",
+    "Target": "Foe",
+    "Effect": "Ranged. Reduce Foe's Dexterity. -1 Accuracy.",
+    "Description": "The Pokemon covers the foe in gravel and rocks, leaving it unable to move freely.",
+    "_id": "rock-tomb",
+    "Attributes": {
+        "PhysicalRanged": true,
+        "AccuracyReduction": 1
+    },
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "Dexterity"
+                ],
+                "Stages": -1,
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Physical"
+}

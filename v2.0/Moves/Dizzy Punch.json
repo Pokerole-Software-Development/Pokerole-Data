@@ -1,0 +1,26 @@
+{
+    "Name": "Dizzy Punch",
+    "Type": "Normal",
+    "Power": 3,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "Roll 2 Chance Dice to Confuse the foe. Fist Based.",
+    "Description": "A swift punch to the jaw that spins the target and may leave it quite dizzy and disoriented.",
+    "_id": "dizzy-punch",
+    "Attributes": {
+        "FistBased": true
+    },
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Confuse",
+                "Affects": "Targets",
+                "ChanceDice": 2
+            }
+        ]
+    },
+    "Category": "Physical"
+}

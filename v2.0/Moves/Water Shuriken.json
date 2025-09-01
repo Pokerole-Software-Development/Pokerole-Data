@@ -1,0 +1,19 @@
+{
+    "Name": "Water Shuriken",
+    "Type": "Water",
+    "Power": 1,
+    "Damage1": "Special",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Channel",
+    "Target": "Foe",
+    "Effect": "Ranged. Priority 1. Successive Actions.",
+    "Description": "The Pokemon quickly throws sharp jets of water in the shape of a shuriken.",
+    "_id": "water-shuriken",
+    "Attributes": {
+        "SuccessiveActions": true,
+        "Priority": 1
+    },
+    "AddedEffects": {},
+    "Category": "Special"
+}

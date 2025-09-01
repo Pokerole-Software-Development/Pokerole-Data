@@ -1,0 +1,16 @@
+{
+    "Name": "Stored Power",
+    "Type": "Psychic",
+    "Power": 1,
+    "Damage1": "Special",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Channel",
+    "Target": "Foe",
+    "Effect": "Add 1 Extra Dice of Damage for each Increased attribute the user has (ie. Clefairy has 1 Increased Point in Defense and 1 Evasion. Stored Power will have 2 Extra Dice on the Damage Pool). Up to 7 Dice may be added.",
+    "Description": "This move allows the user to release its power. If the user has any boosts, the damage is increased.",
+    "_id": "stored-power",
+    "Attributes": {},
+    "AddedEffects": {},
+    "Category": "Special"
+}

@@ -1,0 +1,26 @@
+{
+    "Name": "Rock Polish",
+    "Type": "Rock",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Channel",
+    "Target": "User",
+    "Effect": "Increase User's Dexterity by 2.",
+    "Description": "The user polishes the rough ends of its rock body for easier and faster movement.",
+    "_id": "rock-polish",
+    "Attributes": {},
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "Dexterity"
+                ],
+                "Stages": 2,
+                "Affects": "User"
+            }
+        ]
+    },
+    "Category": "Support"
+}

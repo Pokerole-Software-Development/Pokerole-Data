@@ -1,0 +1,18 @@
+{
+    "Name": "Fling",
+    "Type": "Dark",
+    "Power": 1,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "Ranged. Add up to 4 Dice to the Damage Pool, depending on the held item thrown. See P. 432 for more info.",
+    "Description": "The usr takes its held item and throws it at the opponent. You may get it back after the fight.",
+    "_id": "fling",
+    "Attributes": {
+        "PhysicalRanged": true
+    },
+    "AddedEffects": {},
+    "Category": "Physical"
+}

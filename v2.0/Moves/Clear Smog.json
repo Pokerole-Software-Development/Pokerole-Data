@@ -1,0 +1,18 @@
+{
+    "Name": "Clear Smog",
+    "Type": "Poison",
+    "Power": 2,
+    "Damage1": "Special",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Channel",
+    "Target": "Foe",
+    "Effect": "Never Fail. Reset all Increased or Reduced Attributes and Traits of the foe.",
+    "Description": "The user sucks all gases to clear away all impurities. The target is left heeling hurt, but light headed.",
+    "_id": "clear-smog",
+    "Attributes": {
+        "NeverFail": true
+    },
+    "AddedEffects": {},
+    "Category": "Special"
+}

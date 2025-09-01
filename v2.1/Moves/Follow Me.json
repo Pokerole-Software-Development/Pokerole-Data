@@ -1,0 +1,26 @@
+{
+    "Name": "Follow Me",
+    "Type": "Normal",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Cool",
+    "Accuracy2": "Perform",
+    "Target": "User",
+    "Effect": "Target Self. Priority 5. All Foes' Moves able to do so will Target the User. Duration 1 Round.",
+    "Description": "The Pokémon will draw everyone's attention. All foes are taunted to do their worst.",
+    "_id": "follow-me",
+    "Attributes": {
+        "Priority": 5,
+        "Duration": 1
+    },
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "FollowMeSpotlight",
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Support"
+}

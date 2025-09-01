@@ -1,0 +1,115 @@
+{
+    "Number": 77,
+    "DexID": "0077G",
+    "Name": "Ponyta (Galarian Form)",
+    "Type1": "Psychic",
+    "Type2": "",
+    "BaseHP": 3,
+    "Strength": 2,
+    "MaxStrength": 5,
+    "Dexterity": 2,
+    "MaxDexterity": 5,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Run Away",
+    "Ability2": "Pastel Veil",
+    "HiddenAbility": "Anticipation",
+    "EventAbilities": "",
+    "RecommendedRank": "Rookie",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "ponyta-galarian-form",
+    "DexCategory": "Unique Horn Pokémon",
+    "Height": {
+        "Meters": 0.8,
+        "Feet": 2.6
+    },
+    "Weight": {
+        "Kilograms": 24.0,
+        "Pounds": 52.9
+    },
+    "DexDescription": "The old magical forests of Galar made Ponyta adopt a mystic nature. Their miraculous horn can heal most wounds and sense the purity in your heart; if you hold evil, you'll never see this Pokémon in the wild.",
+    "Evolutions": [
+        {
+            "To": "Rapidash (Galarian Form)",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "ponyta-galarian-form.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Growl"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Tail Whip"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Confusion"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Fairy Wind"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Take Down"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Mystical Fire"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Psybeam"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Stomp"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Psychic"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Agility"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Heal Pulse"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Dazzling Gleam"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Healing Wish"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Future Sight"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Ally Switch"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Protect"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "Name": "Boomburst",
+    "Type": "Normal",
+    "Power": 6,
+    "Damage1": "Special",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Channel",
+    "Target": "Area",
+    "Effect": "Sound Based.",
+    "Description": "The user creates an explosive sound that deafens everyone in the battlefield.",
+    "_id": "boomburst",
+    "Attributes": {
+        "SoundBased": true
+    },
+    "AddedEffects": {},
+    "Category": "Special"
+}

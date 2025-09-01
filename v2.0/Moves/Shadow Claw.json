@@ -1,0 +1,18 @@
+{
+    "Name": "Shadow Claw",
+    "Type": "Ghost",
+    "Power": 3,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "High Critical.",
+    "Description": "Claws become semi-ethereal and are able to briefly pierce armor, hide, skin, and objects so it can strike the target on any weak spot.",
+    "_id": "shadow-claw",
+    "Attributes": {
+        "HighCritical": true
+    },
+    "AddedEffects": {},
+    "Category": "Physical"
+}

@@ -1,0 +1,23 @@
+{
+    "Name": "Bide",
+    "Type": "Normal",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "The User will take the next 2 hits. After those two attacks, you may use this Move again to retaliate with Strength + Twice the Damage Received from those 2 hits.",
+    "Description": "The user endures the hit then unleashes an attack even greater.",
+    "_id": "bide",
+    "Attributes": {},
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Bide",
+                "Affects": "User"
+            }
+        ]
+    },
+    "Category": "Physical"
+}

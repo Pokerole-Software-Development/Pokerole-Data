@@ -1,0 +1,18 @@
+{
+    "Name": "Sucker Punch",
+    "Type": "Dark",
+    "Power": 3,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "Priority 1. This move can only be used after the Target rolls a damaging move.",
+    "Description": "While the foe is preparing its attack, the user takes advantage and strikes.",
+    "_id": "sucker-punch",
+    "Attributes": {
+        "Priority": 1
+    },
+    "AddedEffects": {},
+    "Category": "Physical"
+}

@@ -1,0 +1,123 @@
+{
+    "Number": 555,
+    "DexID": "0555G",
+    "Name": "Darmanitan (Galarian Form)",
+    "Type1": "Ice",
+    "Type2": "",
+    "BaseHP": 4,
+    "Strength": 3,
+    "MaxStrength": 6,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 3,
+    "MaxVitality": 6,
+    "Special": 1,
+    "MaxSpecial": 3,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Gorilla Tactics",
+    "Ability2": "Zen Mode",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Amateur",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "darmanitan-galarian-form",
+    "DexCategory": "Zen Charm Pokemon",
+    "Height": {
+        "Meters": 1.7,
+        "Feet": 5.6
+    },
+    "Weight": {
+        "Kilograms": 120.0,
+        "Pounds": 264.6
+    },
+    "DexDescription": "The Galarian form of Darmanitan. They walk into towns during the blizzards to steal food. Darmanitans seem mean, but they are gentle and shy.",
+    "Evolutions": [
+        {
+            "From": "Darumaka (Galarian Form)",
+            "Kind": "Stone",
+            "Item": "Ice Stone"
+        },
+        {
+            "To": "Darmanitan (Galarian Zen Form)",
+            "Kind": "Form"
+        }
+    ],
+    "Image": "darmanitan-galarian-form.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Taunt"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Bite"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Powder Snow"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Avalanche"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Work Up"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Ice Fang"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Headbutt"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Ice Punch"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Uproar"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Belly Drum"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Blizzard"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Thrash"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Superpower"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Icicle Crash"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Thief"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Bulldoze"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Freeze Dry"
+        }
+    ]
+}

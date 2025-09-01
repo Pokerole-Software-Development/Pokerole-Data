@@ -1,0 +1,99 @@
+{
+    "Number": 846,
+    "DexID": "0846",
+    "Name": "Arrokuda",
+    "Type1": "Water",
+    "Type2": "",
+    "BaseHP": 3,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 1,
+    "MaxVitality": 3,
+    "Special": 1,
+    "MaxSpecial": 3,
+    "Insight": 1,
+    "MaxInsight": 3,
+    "Ability1": "Swift Swim",
+    "Ability2": "",
+    "HiddenAbility": "Propeller Tail",
+    "EventAbilities": "",
+    "RecommendedRank": "Amateur",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "arrokuda",
+    "DexCategory": "Rush Pokemon",
+    "Height": {
+        "Meters": 0.5,
+        "Feet": 1.6
+    },
+    "Weight": {
+        "Kilograms": 1.0,
+        "Pounds": 2.2
+    },
+    "DexDescription": "They propel themselves, swimming at high speeds to hunt their prey. After they have eaten their swim becomes sluggish and they are at risk of being eaten themselves. They are proud of their pointed jaw.",
+    "Evolutions": [
+        {
+            "To": "Barraskewda",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "arrokuda.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Peck"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Aqua Jet"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Fury Attack"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Bite"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Agility"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Dive"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Laser Focus"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Crunch"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Liquidation"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Double-Edge"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Slash"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Drill Run"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Ice Fang"
+        }
+    ]
+}

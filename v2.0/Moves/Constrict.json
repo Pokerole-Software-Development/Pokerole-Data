@@ -1,0 +1,25 @@
+{
+    "Name": "Constrict",
+    "Type": "Normal",
+    "Power": 1,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "Blocks. Roll 2 Dice of Damage against the foe at the end of each Round. Lasts 4 Rounds.",
+    "Description": "The Pokemon uses its body to hold and constrict the foe. It won't let go easily.",
+    "_id": "constrict",
+    "Attributes": {
+        "BlockDamagePool": 2
+    },
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Block",
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Physical"
+}

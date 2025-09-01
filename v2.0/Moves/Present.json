@@ -1,0 +1,18 @@
+{
+    "Name": "Present",
+    "Type": "Normal",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Cute",
+    "Accuracy2": "Allure",
+    "Target": "Foe",
+    "Effect": "Roll dice with a 50-50 chance of dealing 2 set damage to the target or recovering 2 HP to the target. -1 Accuracy.",
+    "Description": "The user approaches its foe and gives it a lovely present that may be nice or may be a prank.",
+    "_id": "present",
+    "Attributes": {
+        "AccuracyReduction": 1
+    },
+    "AddedEffects": {},
+    "Category": "Physical"
+}

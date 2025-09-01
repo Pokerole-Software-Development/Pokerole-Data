@@ -1,0 +1,25 @@
+{
+    "Name": "Dark Void",
+    "Type": "Dark",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Insight",
+    "Accuracy2": "Channel",
+    "Target": "All Foes",
+    "Effect": "All Foes in Range have the Sleep condition.  -3 Accuracy.",
+    "Description": "A portal opens and transports all foes to a world of darkness, inside they can't see or feel anything, it's like they are trapped in an eternal slumber.",
+    "_id": "dark-void",
+    "Attributes": {
+        "AccuracyReduction": 3
+    },
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Sleep",
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Support"
+}

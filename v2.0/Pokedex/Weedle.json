@@ -1,0 +1,63 @@
+{
+    "Number": 13,
+    "DexID": "0013",
+    "Name": "Weedle",
+    "Type1": "Bug",
+    "Type2": "Poison",
+    "BaseHP": 3,
+    "Strength": 1,
+    "MaxStrength": 3,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 1,
+    "MaxVitality": 3,
+    "Special": 1,
+    "MaxSpecial": 3,
+    "Insight": 1,
+    "MaxInsight": 3,
+    "Ability1": "Shield Dust",
+    "Ability2": "",
+    "HiddenAbility": "Run Away",
+    "EventAbilities": "",
+    "RecommendedRank": "Starter",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "weedle",
+    "DexCategory": "Hairy Pokemon",
+    "Height": {
+        "Meters": 0.3,
+        "Feet": 1.0
+    },
+    "Weight": {
+        "Kilograms": 3.2,
+        "Pounds": 7.1
+    },
+    "DexDescription": "Often found in forests eating leaves. It has a sharp, venomous stinger on its head for defense. It has an acute sense of smell to find food, and its bright-colored body is intended to warn off predators.",
+    "Evolutions": [
+        {
+            "To": "Kakuna",
+            "Kind": "Level",
+            "Speed": "Fast"
+        }
+    ],
+    "Image": "weedle.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Poison Sting"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "String Shot"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Bug Bite"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Electroweb"
+        }
+    ]
+}

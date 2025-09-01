@@ -1,0 +1,112 @@
+{
+    "Number": 811,
+    "DexID": "0811",
+    "Name": "Thwackey",
+    "Type1": "Grass",
+    "Type2": "",
+    "BaseHP": 4,
+    "Strength": 2,
+    "MaxStrength": 5,
+    "Dexterity": 2,
+    "MaxDexterity": 5,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Overgrow",
+    "Ability2": "",
+    "HiddenAbility": "Grassy Surge",
+    "EventAbilities": "",
+    "RecommendedRank": "Amateur",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "thwackey",
+    "DexCategory": "Beat Pokemon",
+    "Height": {
+        "Meters": 0.7,
+        "Feet": 2.3
+    },
+    "Weight": {
+        "Kilograms": 14.0,
+        "Pounds": 30.9
+    },
+    "DexDescription": "Thwakeys are passionate about their drumming, they can get so caught up in their music that they don\u2019t notice the battle is already over. The faster they can beat their drums, the stronger they are.",
+    "Evolutions": [
+        {
+            "From": "Grookey",
+            "Kind": "Level",
+            "Speed": "Medium"
+        },
+        {
+            "To": "Rillaboom",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "thwackey.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Double Hit"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Scratch"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Growl"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Branch Poke"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Taunt"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Razor Leaf"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Screech"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Knock Off"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Slam"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Uproar"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Wood Hammer"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Endeavor"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Fake Out"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Acrobatics"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Leech Seed"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "Name": "Karate Chop",
+    "Type": "Fighting",
+    "Power": 3,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "High Critical.",
+    "Description": "A basic fighting chop that has been practiced and mastered.",
+    "_id": "karate-chop",
+    "Attributes": {
+        "HighCritical": true
+    },
+    "AddedEffects": {},
+    "Category": "Physical"
+}

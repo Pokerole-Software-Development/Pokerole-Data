@@ -1,0 +1,29 @@
+{
+    "Name": "Muddy Water",
+    "Type": "Water",
+    "Power": 3,
+    "Damage1": "Special",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Channel",
+    "Target": "All Foes",
+    "Effect": "All Foes in Range. Roll 3 Chance Dice to Reduce the Accuracy of those affected. -2 Accuracy.",
+    "Description": "The user fills its mouth with dirt and spits a torrent of mud at the foes. This mud may get in the eyes of the enemies.",
+    "_id": "muddy-water",
+    "Attributes": {
+        "AccuracyReduction": 2
+    },
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "Accuracy"
+                ],
+                "Stages": -1,
+                "ChanceDice": 3,
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Special"
+}

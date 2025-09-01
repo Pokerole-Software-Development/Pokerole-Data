@@ -1,0 +1,115 @@
+{
+    "Number": 750,
+    "DexID": "0750",
+    "Name": "Mudsdale",
+    "Type1": "Ground",
+    "Type2": "",
+    "BaseHP": 5,
+    "Strength": 3,
+    "MaxStrength": 7,
+    "Dexterity": 1,
+    "MaxDexterity": 3,
+    "Vitality": 3,
+    "MaxVitality": 6,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Own Tempo",
+    "Ability2": "Stamina",
+    "HiddenAbility": "Inner Focus",
+    "EventAbilities": "",
+    "RecommendedRank": "Amateur",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "mudsdale",
+    "DexCategory": "Draft Horse Pokemon",
+    "Height": {
+        "Meters": 2.5,
+        "Feet": 8.2
+    },
+    "Weight": {
+        "Kilograms": 920.0,
+        "Pounds": 2028.3
+    },
+    "DexDescription": "Hard tempered and resilient. The hooves of this Pokemon stomp through concrete, while it is not very fast it can keep a steady pace for days, even when dragging weight.",
+    "Evolutions": [
+        {
+            "From": "Mudbray",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "mudsdale.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Mud Slap"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Mud Sport"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Rototiller"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Bulldoze"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Double Kick"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Stomp"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Bide"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "High Horsepower"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Iron Defense"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Heavy Slam"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Counter"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Earthquake"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Mega Kick"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Superpower"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Rock Slide"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Giga Impact"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Close Combat"
+        }
+    ]
+}

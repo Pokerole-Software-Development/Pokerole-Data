@@ -1,0 +1,25 @@
+{
+    "Name": "Fairy Lock",
+    "Type": "Fairy",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Insight",
+    "Accuracy2": "Nature",
+    "Target": "Battlefield",
+    "Effect": "Blocks. Last 1 Round.",
+    "Description": "The user moves as if locking a door. It takes a few moments before everyone realizes that they are not really trapped.",
+    "_id": "fairy-lock",
+    "Attributes": {
+        "BlockDamagePool": 0
+    },
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Block",
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Support"
+}

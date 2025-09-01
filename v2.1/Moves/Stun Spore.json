@@ -1,0 +1,25 @@
+{
+    "Name": "Stun Spore",
+    "Type": "Grass",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Clever",
+    "Accuracy2": "Nature",
+    "Target": "Foe",
+    "Effect": "Single Target. Low Accuracy 3. Paralyze the Target.",
+    "Description": "A blow of dust that paralyzes the target on the spot and cramps its muscles.",
+    "_id": "stun-spore",
+    "Attributes": {
+        "AccuracyReduction": 3
+    },
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Paralyze",
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Support"
+}

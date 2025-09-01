@@ -1,0 +1,26 @@
+{
+    "Name": "Snore",
+    "Type": "Normal",
+    "Power": 2,
+    "Damage1": "Special",
+    "Damage2": "",
+    "Accuracy1": "Special",
+    "Accuracy2": "Perform",
+    "Target": "Foe",
+    "Effect": "This move can only be used if the user asleep. Roll 3 Chance Dice to Flinch the foe. Sound Based Move.",
+    "Description": "After falling asleep the user lets out a powerful snore, disrupting any focus the foe had.",
+    "_id": "snore",
+    "Attributes": {
+        "SoundBased": true
+    },
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Flinch",
+                "Affects": "Targets",
+                "ChanceDice": 3
+            }
+        ]
+    },
+    "Category": "Special"
+}

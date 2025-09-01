@@ -1,0 +1,24 @@
+{
+    "Name": "Extrasensory",
+    "Type": "Psychic",
+    "Power": 3,
+    "Damage1": "Special",
+    "Damage2": "",
+    "Accuracy1": "Insight",
+    "Accuracy2": "Channel",
+    "Target": "Foe",
+    "Effect": "Single Target. Roll 1 Chance Die to Flinch the Target.",
+    "Description": "The user attacks with an odd, almost invisible power.",
+    "_id": "extrasensory",
+    "Attributes": {},
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Flinch",
+                "ChanceDice": 1,
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Special"
+}
