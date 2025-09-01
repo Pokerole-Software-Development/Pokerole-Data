@@ -1,0 +1,135 @@
+{
+    "Number": 206,
+    "DexID": "0206",
+    "Name": "Dunsparce",
+    "Type1": "Normal",
+    "Type2": "",
+    "BaseHP": 6,
+    "Strength": 2,
+    "MaxStrength": 5,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Run Away",
+    "Ability2": "Serene Grace",
+    "HiddenAbility": "Rattled",
+    "EventAbilities": "",
+    "RecommendedRank": "Standard",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "dunsparce",
+    "DexCategory": "Land Snake Pokémon",
+    "Height": {
+        "Meters": 1.5,
+        "Feet": 4.9
+    },
+    "Weight": {
+        "Kilograms": 28,
+        "Pounds": 61
+    },
+    "DexDescription": "If seen, Dunsparce is quick to escape by boring into the ground with its drill tail. It can float slightly with its wings. It is almost blind but finds its way in the huge underground mazes where it lives.",
+    "Evolutions": [
+        {
+            "To": "Dudunsparce",
+            "Kind": "Special",
+            "Special": "Learn Hyper Drill"
+        }
+    ],
+    "Image": "dunsparce.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Flail"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Defense Curl"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Rollout"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Mud Slap"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Glare"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Screech"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Ancient Power"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Spite"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Drill Run"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Dig"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Yawn"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Body Slam"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Roost"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Endure"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Coil"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Hyper Drill"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Dragon Rush"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Double-Edge"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Endeavor"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Scale Shot"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Agility"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Last Resort"
+        }
+    ]
+}

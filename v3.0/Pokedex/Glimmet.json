@@ -1,0 +1,119 @@
+{
+    "Number": 969,
+    "DexID": "0969",
+    "Name": "Glimmet",
+    "Type1": "Rock",
+    "Type2": "Poison",
+    "BaseHP": 3,
+    "Strength": 1,
+    "MaxStrength": 3,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 1,
+    "MaxVitality": 3,
+    "Special": 3,
+    "MaxSpecial": 6,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Toxic Debris",
+    "Ability2": "Corrosion",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Rookie",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "glimmet",
+    "DexCategory": "Ore Pokémon",
+    "Height": {
+        "Meters": 0.7,
+        "Feet": 3.0
+    },
+    "Weight": {
+        "Kilograms": 8.0,
+        "Pounds": 17.6
+    },
+    "DexDescription": "Attached to cave walls they appear to be crystal flowers. Beware, as they release a pollen that is toxic to inhale and their petals are actually crystallized poison. They close the flower when they are in bright places.",
+    "Evolutions": [
+        {
+        "To": "Glimmora",
+        "Kind": "Level",
+        "Speed": "Slow"
+        }
+    ],
+    "Image": "glimmet.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Rock Throw"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Harden"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Smack Down"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Acid Spray"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Ancient Power"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Rock Polish"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Stealth Rock"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Venoshock"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Sandstorm"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Dazzling Gleam"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Rock Slide"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Power Gem"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Acid Armor"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Sludge Wave"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Self Destruct"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Spikes"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Toxic Spikes"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Confuse Ray"
+        }
+    ]
+}

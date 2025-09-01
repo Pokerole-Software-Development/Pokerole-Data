@@ -1,0 +1,139 @@
+{
+    "Number": 432,
+    "DexID": "0432",
+    "Name": "Purugly",
+    "Type1": "Normal",
+    "Type2": "",
+    "BaseHP": 5,
+    "Strength": 2,
+    "MaxStrength": 5,
+    "Dexterity": 3,
+    "MaxDexterity": 6,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Thick Fat",
+    "Ability2": "Defiant",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Expert",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "purugly",
+    "DexCategory": "Tiger Cat Pokémon",
+    "Height": {
+        "Meters": 1.0,
+        "Feet": 3.3
+    },
+    "Weight": {
+        "Kilograms": 43.8,
+        "Pounds": 96.6
+    },
+    "DexDescription": "It becomes wilder and aggressive after evolving. It is known to claim other Pokémon nests as its own. It will make itself appear bigger and glare with piercing eyes to achieve dominance over someone.",
+    "Evolutions": [
+        {
+            "From": "Glameow",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "purugly.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Fake Out"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Scratch"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Growl"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Hypnosis"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Feint Attack"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Aerial Ace"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Fury Swipes"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Assist"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Charm"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Captivate"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Taunt"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Retaliate"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Slash"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Swagger"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Sucker Punch"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Attract"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Hone Claws"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Play Rough"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Night Slash"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Double-Edge"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Wake-Up Slap"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Fake Tears"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Last Resort"
+        }
+    ]
+}

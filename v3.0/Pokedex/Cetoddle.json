@@ -1,0 +1,119 @@
+{
+    "Number": 974,
+    "DexID": "09274",
+    "Name": "Cetoddle",
+    "Type1": "Ice",
+    "Type2": "",
+    "BaseHP": 6,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 1,
+    "MaxSpecial": 3,
+    "Insight": 1,
+    "MaxInsight": 3,
+    "Ability1": "Thick Fat",
+    "Ability2": "Snow Cloak",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Standard",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "cetoddle",
+    "DexCategory": "Terra Whale Pokémon",
+    "Height": {
+        "Meters": 1.2,
+        "Feet": 3.9
+    },
+    "Weight": {
+        "Kilograms": 45.0,
+        "Pounds": 99.2
+    },
+    "DexDescription": "Recent studies show they are close cousins to Wailmer. Unlike their sea relatives, the Cetoddle line started dwelling on land a long time ago. Frigid regions became the perfect habitat for these playful Pokémon.",
+    "Evolutions": [
+        {
+            "To": "Cetitan",
+            "Kind": "Stone",
+            "Item": "Ice Stone"
+        }
+    ],
+    "Image": "cetoddle.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Powder Snow"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Growl"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Echoed Voice"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Ice Shard"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Rest"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Take Down"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Flail"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Avalanche"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Bounce"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Body Slam"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Amnesia"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Ice Spinner"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Double-Edge"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Blizzard"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Play Rough"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Yawn"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Charm"
+        }
+    ]
+}

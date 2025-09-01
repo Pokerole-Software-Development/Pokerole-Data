@@ -1,0 +1,139 @@
+{
+    "Number": 947,
+    "DexID": "0947",
+    "Name": "Brambleghast",
+    "Type1": "Grass",
+    "Type2": "Ghost",
+    "BaseHP": 4,
+    "Strength": 3,
+    "MaxStrength": 7,
+    "Dexterity": 2,
+    "MaxDexterity": 5,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 2,
+    "MaxSpecial": 5,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Wind Rider",
+    "Ability2": "Infiltrator",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Advanced",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "brambleghast",
+    "DexCategory": "Tumbleweed Pokémon",
+    "Height": {
+        "Meters": 1.2,
+        "Feet": 3.9
+    },
+    "Weight": {
+        "Kilograms": 6.0,
+        "Pounds": 13.2
+    },
+    "DexDescription": "They wander through arid regions. If an unsuspecting creature comes across them, they will enclose their brambles as a cage and slowly absorb the victim's life force, discarding only bones after they are done.",
+    "Evolutions": [
+        {
+            "From": "Bramblin",
+            "Kind": "Level",
+            "Speed": "Slow"
+        }
+    ],
+    "Image": "brambleghast.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Astonish"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Rollout"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Defense Curl"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Absorb"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Rapid Spin"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Bullet Seed"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Shadow Sneak"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Leech Seed"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Infestation"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Hex"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Mega Drain"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Disable"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Spikes"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Curse"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Grass Knot"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Night Shade"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Phantom Force"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Giga Drain"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Pain Split"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Power Whip"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Toxic Spikes"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Substitute"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Grassy Terrain"
+        }
+    ]
+}

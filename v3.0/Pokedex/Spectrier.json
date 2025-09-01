@@ -1,0 +1,129 @@
+{
+    "Number": 897,
+    "DexID": "0897",
+    "Name": "Spectrier",
+    "Type1": "Ghost",
+    "Type2": "",
+    "BaseHP": 6,
+    "Strength": 4,
+    "MaxStrength": 4,
+    "Dexterity": 7,
+    "MaxDexterity": 7,
+    "Vitality": 4,
+    "MaxVitality": 4,
+    "Special": 8,
+    "MaxSpecial": 8,
+    "Insight": 5,
+    "MaxInsight": 5,
+    "Ability1": "Grim Neigh",
+    "Ability2": "",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Ace",
+    "GenderType": "N",
+    "Legendary": true,
+    "GoodStarter": false,
+    "_id": "spectrier",
+    "DexCategory": "No Data",
+    "Height": {
+        "Meters": 2.0,
+        "Feet": 6.5
+    },
+    "Weight": {
+        "Kilograms": 45.0,
+        "Pounds": 99.2
+    },
+    "DexDescription": "People have reported seeing a black horse, quietly prancing in the dark of the night. As soon as the creature notices them, it vanishes in the shadows. Its cries bring feelings of dread to the listeners.",
+    "Evolutions": [],
+    "Image": "spectrier.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Tail Whip"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Double Kick"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Hex"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Stomp"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Confuse Ray"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Haze"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Shadow Ball"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Take Down"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Agility"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Thrash"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Disable"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Double-Edge"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Nasty Plot"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Will-o-Wisp"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Dark Pulse"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Snarl"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Scary Face"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Foul Play"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Swift"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Phantom Force"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Hyper Beam"
+        }
+    ]
+}

@@ -1,0 +1,144 @@
+{
+    "Number": 264,
+    "DexID": "0264G",
+    "Name": "Linoone (Galarian Form)",
+    "Type1": "Dark",
+    "Type2": "Normal",
+    "BaseHP": 5,
+    "Strength": 2,
+    "MaxStrength": 5,
+    "Dexterity": 3,
+    "MaxDexterity": 6,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Pickup",
+    "Ability2": "Quick Feet",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Standard",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "linoone-galarian-form",
+    "DexCategory": "Rushing Pokémon",
+    "Height": {
+        "Meters": 0.5,
+        "Feet": 1.6
+    },
+    "Weight": {
+        "Kilograms": 32.5,
+        "Pounds": 71.7
+    },
+    "DexDescription": "It uses its long tongue to taunt its opponents. Once the foe is enraged, this Pokémon hurls itself at it, tackling them forcefully. They are bad-mannered and enjoy thrashing things about.",
+    "Evolutions": [
+        {
+            "From": "Zigzagoon (Galarian Form)",
+            "Kind": "Level",
+            "Speed": "Medium"
+        },
+        {
+            "To": "Obstagoon",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "linoone-galarian-form.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Leer"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Sand Attack"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Lick"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Take Down"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Taunt"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Baby-Doll Eyes"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Snarl"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Pin Missile"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Odor Sleuth"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Headbutt"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Fury Swipes"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Switcheroo"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Flail"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Hone Claws"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Rest"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Scary Face"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Night Slash"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Double-Edge"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Counter"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Parting Shot"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Knock Off"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Quick Guard"
+        }
+    ]
+}

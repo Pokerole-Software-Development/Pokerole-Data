@@ -1,0 +1,147 @@
+{
+    "Number": 462,
+    "DexID": "0462",
+    "Name": "Magnezone",
+    "Type1": "Electric",
+    "Type2": "Steel",
+    "BaseHP": 5,
+    "Strength": 2,
+    "MaxStrength": 5,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 3,
+    "MaxVitality": 6,
+    "Special": 3,
+    "MaxSpecial": 7,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Magnet Pull",
+    "Ability2": "Sturdy",
+    "HiddenAbility": "Analytic",
+    "EventAbilities": "",
+    "RecommendedRank": "Expert",
+    "GenderType": "N",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "magnezone",
+    "DexCategory": "Magnet Area Pokémon",
+    "Height": {
+        "Meters": 1.2,
+        "Feet": 3.9
+    },
+    "Weight": {
+        "Kilograms": 180.0,
+        "Pounds": 396.8
+    },
+    "DexDescription": "Magneton only evolves in very specific areas of the globe. It has the ability to repel itself from the ground using magnetism. If it is nervous, it pulls all the pieces of metal around it until it relaxes.",
+    "Evolutions": [
+        {
+            "From": "Magneton",
+            "Kind": "Level",
+            "Speed": "Slow"
+        }
+    ],
+    "Image": "magnezone.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Supersonic"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Thunder Shock"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Sonic Boom"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Magnetic Flux"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Electric Terrain"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Light Screen"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Thunder Wave"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Magnet Bomb"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Spark"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Mirror Shot"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Metal Sound"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Electro Ball"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Flash Cannon"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Screech"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Magnet Rise"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Barrier"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Mirror Coat"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Lock-On"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Discharge"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Gyro Ball"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Zap Cannon"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Rising Voltage"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Iron Defense"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Steel Beam"
+        }
+    ]
+}

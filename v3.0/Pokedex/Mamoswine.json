@@ -1,0 +1,143 @@
+{
+    "Number": 473,
+    "DexID": "0473",
+    "Name": "Mamoswine",
+    "Type1": "Ice",
+    "Type2": "Ground",
+    "BaseHP": 6,
+    "Strength": 3,
+    "MaxStrength": 7,
+    "Dexterity": 2,
+    "MaxDexterity": 5,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 2,
+    "MaxSpecial": 5,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Snow Cloak",
+    "Ability2": "Thick Fat",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Ace",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "mamoswine",
+    "DexCategory": "Twin Tusk Pokémon",
+    "Height": {
+        "Meters": 2.5,
+        "Feet": 8.2
+    },
+    "Weight": {
+        "Kilograms": 873,
+        "Pounds": 1920
+    },
+    "DexDescription": "It was everywhere during the ice age, but its population declined afterwards. This Pokémon uses strong tusks to remove the soil and snow and dig up roots and plants to eat. It has a bad temper.",
+    "Evolutions": [
+        {
+            "From": "Piloswine",
+            "Kind": "Level",
+            "Speed": "Slow"
+        }
+    ],
+    "Image": "mamoswine.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Odor Sleuth"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Mud Sport"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Peck"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Mud Slap"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Powder Snow"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Mud Bomb"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Fury Attack"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Ice Shard"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Icy Wind"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Ancient Power"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Ice Fang"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Endure"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Scary Face"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Mist"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Amnesia"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Double Hit"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Hail"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Thrash"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Blizzard"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Earthquake"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Fissure"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Icicle Crash"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Avalanche"
+        }
+    ]
+}

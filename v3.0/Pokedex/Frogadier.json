@@ -1,0 +1,128 @@
+{
+    "Number": 657,
+    "DexID": "0657",
+    "Name": "Frogadier",
+    "Type1": "Water",
+    "Type2": "",
+    "BaseHP": 4,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 3,
+    "MaxDexterity": 6,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 2,
+    "MaxSpecial": 5,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Torrent",
+    "Ability2": "Protean",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Standard",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "frogadier",
+    "DexCategory": "Bubble Frog Pokémon",
+    "Height": {
+        "Meters": 0.6,
+        "Feet": 2.0
+    },
+    "Weight": {
+        "Kilograms": 10.9,
+        "Pounds": 24.0
+    },
+    "DexDescription": "It is incredibly hard to catch. It starts practicing its skills by throwing foam-covered pebbles at foes. Many trainers find this rebellious stage very challenging to handle and end up being its targets of practice.",
+    "Evolutions": [
+        {
+            "From": "Froakie",
+            "Kind": "Level",
+            "Speed": "Medium"
+        },
+        {
+            "To": "Greninja",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "frogadier.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Pound"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Growl"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Bubble"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Quick Attack"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Lick"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Water Pulse"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Smokescreen"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Round"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Fling"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Smack Down"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Shadow Sneak"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Spikes"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Double Team"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Substitute"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Bounce"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Hydro Pump"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Mud Sport"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Toxic Spikes"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Water Pledge"
+        }
+    ]
+}

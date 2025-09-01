@@ -1,0 +1,143 @@
+{
+    "Number": 95,
+    "DexID": "0095",
+    "Name": "Onix",
+    "Type1": "Rock",
+    "Type2": "Ground",
+    "BaseHP": 8,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 2,
+    "MaxDexterity": 5,
+    "Vitality": 4,
+    "MaxVitality": 8,
+    "Special": 1,
+    "MaxSpecial": 3,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Rock Head",
+    "Ability2": "Weak Armor",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Expert",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "onix",
+    "DexCategory": "Rock Snake Pokémon",
+    "Height": {
+        "Meters": 8.8,
+        "Feet": 28.9
+    },
+    "Weight": {
+        "Kilograms": 210.0,
+        "Pounds": 463.0
+    },
+    "DexDescription": "It is not full-size when it's born. Years of eating boulders make it a real giant. It lives on mountains and in dark tunnels. Its frightening roars travel echo through the caves. It is very aggressive towards others.",
+    "Evolutions": [
+        {
+            "To": "Steelix",
+            "Kind": "Trade",
+            "Item": "Metal Coat"
+        }
+    ],
+    "Image": "onix.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Harden"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Mud Sport"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Bind"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Curse"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Rock Throw"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Rock Tomb"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Rage"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Stealth Rock"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Rock Polish"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Smack Down"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Dragon Breath"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Slam"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Screech"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Rock Slide"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Sand Tomb"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Dig"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Iron Tail"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Stone Edge"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Double-Edge"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Sandstorm"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Ancient Power"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Self Destruct"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Endure"
+        }
+    ]
+}

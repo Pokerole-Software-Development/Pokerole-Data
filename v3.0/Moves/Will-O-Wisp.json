@@ -1,0 +1,25 @@
+{
+    "Name": "Will-O-Wisp",
+    "Type": "Fire",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Special",
+    "Accuracy2": "Channel",
+    "Target": "Foe",
+    "Effect": "Single Target. Low Accuracy 2. Inflict 1st Degree Burn on the Target. Using this Move repeatedly against the same Target increases the Burn Degree.",
+    "Description": "The user calls upon an eerie blue flame made with the souls of the departed. They appear harmless until they have you surrounded.",
+    "_id": "will-o-wisp",
+    "Attributes": {
+        "AccuracyReduction": 2
+    },
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Burn",
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Support"
+}

@@ -1,0 +1,126 @@
+{
+    "Number": 641,
+    "DexID": "0641",
+    "Name": "Tornadus",
+    "Type1": "Flying",
+    "Type2": "",
+    "BaseHP": 5,
+    "Strength": 6,
+    "MaxStrength": 6,
+    "Dexterity": 6,
+    "MaxDexterity": 6,
+    "Vitality": 5,
+    "MaxVitality": 5,
+    "Special": 7,
+    "MaxSpecial": 7,
+    "Insight": 5,
+    "MaxInsight": 5,
+    "Ability1": "Prankster",
+    "Ability2": "Defiant",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Ace",
+    "GenderType": "M",
+    "Legendary": true,
+    "GoodStarter": false,
+    "_id": "tornadus",
+    "DexCategory": "No Data",
+    "Height": {
+        "Meters": 1.5,
+        "Feet": 4.9
+    },
+    "Weight": {
+        "Kilograms": 63.0,
+        "Pounds": 138.9
+    },
+    "DexDescription": "Unova suffers from terrible tornadoes and devastating wind currents that leave houses and buildings in ruins. Some people claim a Pokémon riding the winds is responsible for all the devastation.",
+    "Evolutions": [
+        {
+            "To": "Tornadus (Therian Form)",
+            "Kind": "Form"
+        }
+    ],
+    "Image": "tornadus.png",
+    "Moves": [
+        {
+            "Learned": "Ace",
+            "Name": "Astonish"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Gust"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Leer"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Bite"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Air Cutter"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Uproar"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Agility"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Tailwind"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Revenge"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Swagger"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Extrasensory"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Crunch"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Air Slash"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Dark Pulse"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Rain Dance"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Defog"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Whirlwind"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Thrash"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Hammer Arm"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Hurricane"
+        }
+    ]
+}

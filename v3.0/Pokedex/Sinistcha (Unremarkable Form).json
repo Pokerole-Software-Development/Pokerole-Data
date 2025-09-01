@@ -1,0 +1,87 @@
+{
+    "Number": 1013,
+    "DexID": "1013F1",
+    "Name": "Sinistcha (Unremarkable Form)",
+    "Type1": "Grass",
+    "Type2": "Ghost",
+    "BaseHP": 0,
+    "Strength": 0,
+    "MaxStrength": 0,
+    "Dexterity": 0,
+    "MaxDexterity": 0,
+    "Vitality": 0,
+    "MaxVitality": 0,
+    "Special": 0,
+    "MaxSpecial": 0,
+    "Insight": 0,
+    "MaxInsight": 0,
+    "Ability1": "Hospitality",
+    "Ability2": "Heatproof",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "???",
+    "GenderType": "N",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "sinistcha-unremarkable-form",
+    "DexCategory": "Matcha Pokémon",
+    "Height": {
+        "Meters": 0.2,
+        "Feet": 0.7
+    },
+    "Weight": {
+        "Kilograms": 2.2,
+        "Pounds": 4.9
+    },
+    "DexDescription": "???",
+    "Evolutions": [
+        {
+            "From": "Poltchageist (Counterfeit Form)",
+            "Kind": "Item",
+            "Item": "Unremarkable Teacup"
+        }
+    ],
+    "Image": "sinistcha-unremarkable-form.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "???"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "???"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "???"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "???"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "???"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "???"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "???"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "???"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "???"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "???"
+        }
+    ]
+}

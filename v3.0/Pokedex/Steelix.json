@@ -1,0 +1,164 @@
+{
+    "Number": 208,
+    "DexID": "0208",
+    "Name": "Steelix",
+    "Type1": "Steel",
+    "Type2": "Ground",
+    "BaseHP": 9,
+    "Strength": 2,
+    "MaxStrength": 5,
+    "Dexterity": 1,
+    "MaxDexterity": 3,
+    "Vitality": 5,
+    "MaxVitality": 10,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Rock Head",
+    "Ability2": "Sturdy",
+    "HiddenAbility": "Sheer Force",
+    "EventAbilities": "",
+    "RecommendedRank": "Expert",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "steelix",
+    "DexCategory": "Iron Snake Pokémon",
+    "Height": {
+        "Meters": 9.2,
+        "Feet": 30.2
+    },
+    "Weight": {
+        "Kilograms": 1000,
+        "Pounds": 2205
+    },
+    "DexDescription": "Some say that when an Onix lives underground for 100 years, its body becomes hard as steel. Steelix lives deep underground, tempered by high pressure and heat. It can see in the darkness.",
+    "Evolutions": [
+        {
+            "From": "Onix",
+            "Kind": "Trade",
+            "Item": "Metal Coat"
+        },
+        {
+            "To": "Steelix (Mega Form)",
+            "Kind": "Mega",
+            "Item": "Steelixite"
+        }
+    ],
+    "Image": "steelix.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Harden"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Autotomize"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Bind"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Curse"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Rock Throw"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Rock Tomb"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Rage"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Stealth Rock"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Rock Polish"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Smack Down"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Dragon Breath"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Screech"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Crunch"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Fire Fang"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Ice Fang"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Thunder Fang"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Rock Slide"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Dig"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Sand Tomb"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Sandstorm"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Iron Tail"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Stone Edge"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Double-Edge"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Magnet Rise"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Steel Roller"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Self Destruct"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Aqua Tail"
+        }
+    ]
+}

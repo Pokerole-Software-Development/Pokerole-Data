@@ -1,0 +1,125 @@
+{
+    "Number": 128,
+    "DexID": "0128PC",
+    "Name": "Tauros (Paldean Form) (Aqua Form)",
+    "Type1": "Fighting",
+    "Type2": "",
+    "BaseHP": 5,
+    "Strength": 2,
+    "MaxStrength": 5,
+    "Dexterity": 3,
+    "MaxDexterity": 6,
+    "Vitality": 3,
+    "MaxVitality": 7,
+    "Special": 1,
+    "MaxSpecial": 2,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Intimidate",
+    "Ability2": "Anger Point",
+    "HiddenAbility": "Sheer Force",
+    "EventAbilities": "",
+    "RecommendedRank": "Expert",
+    "GenderType": "M",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "tauros",
+    "DexCategory": "Wild Bull Pokémon",
+    "Height": {
+        "Meters": 1.4,
+        "Feet": 4.6
+    },
+    "Weight": {
+        "Kilograms": 220,
+        "Pounds": 485
+    },
+    "DexDescription": "This is a male species. These Tauros are specially bred in Paldea for their ability to travel in water. Their body is thick with a fat layer under the skin that helps them float. They shoot powerful water jets from their horns.",
+    "Evolutions": [],
+    "Image": "tauros-paldean-form-aqua-form.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Tail Whip"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Rage"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Double Kick"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Work Up"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Scary Face"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Aqua Jet"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Headbutt"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Payback"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Raging Bull"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Rest"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Zen Headbutt"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Assurance"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Swagger"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Thrash"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Wave Crash"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Lash Out"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Close Combat"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Liquidation"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Drill Run"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Outrage"
+        }
+    ]
+}

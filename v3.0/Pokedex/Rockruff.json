@@ -1,0 +1,144 @@
+{
+    "Number": 744,
+    "DexID": "0744",
+    "Name": "Rockruff",
+    "Type1": "Rock",
+    "Type2": "",
+    "BaseHP": 3,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 1,
+    "MaxVitality": 3,
+    "Special": 1,
+    "MaxSpecial": 3,
+    "Insight": 1,
+    "MaxInsight": 3,
+    "Ability1": "Keen Eye",
+    "Ability2": "Vital Spirit",
+    "HiddenAbility": "Steadfast",
+    "EventAbilities": "Own Tempo",
+    "RecommendedRank": "Rookie",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "rockruff",
+    "DexCategory": "Puppy Pokémon",
+    "Height": {
+        "Meters": 0.5,
+        "Feet": 1.6
+    },
+    "Weight": {
+        "Kilograms": 9.2,
+        "Pounds": 20.3
+    },
+    "DexDescription": "Rockruff are very social and friendly. Their keen sense of smell allows them to find their trainers easily. However, as they age they become wilder and rebellious. Do not let them roam alone at night.",
+    "Evolutions": [
+        {
+            "To": "Lycanroc (Midday Form)",
+            "Kind": "Level",
+            "Speed": "Slow",
+            "Special": "Day"
+        },
+        {
+            "To": "Lycanroc (Dusk Form)",
+            "Kind": "Level",
+            "Speed": "Slow",
+            "Special": "Dawn"
+        },
+        {
+            "To": "Lycanroc (Midnight Form)",
+            "Kind": "Level",
+            "Speed": "Slow",
+            "Special": "Night"
+        }
+    ],
+    "Image": "rockruff.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Leer"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Sand Attack"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Rock Throw"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Double Team"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Howl"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Bite"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Rock Tomb"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Odor Sleuth"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Roar"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Rock Slide"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Crunch"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Scary Face"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Stealth Rock"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Fire Fang"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Thunder Fang"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Rock Climb"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Stone Edge"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Snarl"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Thrash"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Play Rough"
+        }
+    ]
+}

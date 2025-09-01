@@ -1,0 +1,152 @@
+{
+    "Number": 334,
+    "DexID": "0334",
+    "Name": "Altaria",
+    "Type1": "Dragon",
+    "Type2": "Flying",
+    "BaseHP": 5,
+    "Strength": 2,
+    "MaxStrength": 5,
+    "Dexterity": 2,
+    "MaxDexterity": 5,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 2,
+    "MaxSpecial": 5,
+    "Insight": 3,
+    "MaxInsight": 6,
+    "Ability1": "Natural Cure",
+    "Ability2": "Cloud Nine",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Expert",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "altaria",
+    "DexCategory": "Humming Pokémon",
+    "Height": {
+        "Meters": 1.1,
+        "Feet": 3.6
+    },
+    "Weight": {
+        "Kilograms": 20.6,
+        "Pounds": 45.4
+    },
+    "DexDescription": "Seen as dancing clouds in the sky, Altaria sing melodies in their sweet voices, evoking wonder, beauty, and dreams for the listeners. They live far away from people and throw colorful fireballs at uninvited guests.",
+    "Evolutions": [
+        {
+            "From": "Swablu",
+            "Kind": "Level",
+            "Speed": "Slow"
+        },
+        {
+            "To": "Altaria (Mega Form)",
+            "Kind": "Mega",
+            "Item": "Altarianite"
+        }
+    ],
+    "Image": "altaria.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Peck"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Growl"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Astonish"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Pluck"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Mist"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Disarming Voice"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Round"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Fury Attack"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Safeguard"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Dragon Breath"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Natural Gift"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Sing"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Take Down"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Refresh"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Cotton Guard"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Mirror Move"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Moonblast"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Dragon Dance"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Dragon Pulse"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Perish Song"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Sky Attack"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Hurricane"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Draco Meteor"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Power Swap"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Substitute"
+        }
+    ]
+}

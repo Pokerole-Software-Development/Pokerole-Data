@@ -1,0 +1,141 @@
+{
+    "Number": 441,
+    "DexID": "0441",
+    "Name": "Chatot",
+    "Type1": "Normal",
+    "Type2": "Flying",
+    "BaseHP": 5,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 2,
+    "MaxDexterity": 5,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 2,
+    "MaxSpecial": 5,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Keen Eye",
+    "Ability2": "Tangled Feet",
+    "HiddenAbility": "Big Pecks",
+    "EventAbilities": "",
+    "RecommendedRank": "Standard",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "chatot",
+    "DexCategory": "Music Note Pokémon",
+    "Height": {
+        "Meters": 0.5,
+        "Feet": 1.6
+    },
+    "Weight": {
+        "Kilograms": 1.9,
+        "Pounds": 4.2
+    },
+    "DexDescription": "It mimics the cries of other Pokémon to trick them and prevent attacks. Chatot who live with humans learn words and phrases, but it's unknown it they really know their meaning. Their imitations are very convincing.",
+    "Evolutions": [],
+    "Image": "chatot.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Peck"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Growl"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Confide"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Taunt"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Sing"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Chatter"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Fury Attack"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Round"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Mimic"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Echoed Voice"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Swift"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Air Cutter"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Roost"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Uproar"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Mirror Move"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Synchronoise"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Air Slash"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Feather Dance"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Parting Shot"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Hyper Voice"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Play Rough"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Hurricane"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Agility"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Boomburst"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Nasty Plot"
+        }
+    ]
+}

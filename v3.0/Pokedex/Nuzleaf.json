@@ -1,0 +1,148 @@
+{
+    "Number": 274,
+    "DexID": "0274",
+    "Name": "Nuzleaf",
+    "Type1": "Grass",
+    "Type2": "Dark",
+    "BaseHP": 4,
+    "Strength": 2,
+    "MaxStrength": 5,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 1,
+    "MaxInsight": 3,
+    "Ability1": "Chlorophyll",
+    "Ability2": "Early Bird",
+    "HiddenAbility": "Pickpocket",
+    "EventAbilities": "",
+    "RecommendedRank": "Standard",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "nuzleaf",
+    "DexCategory": "Wily Pokémon",
+    "Height": {
+        "Meters": 1.0,
+        "Feet": 3.3
+    },
+    "Weight": {
+        "Kilograms": 28.0,
+        "Pounds": 61.7
+    },
+    "DexDescription": "They live inside holes in big trees. Their leaves are played like flutes to strike fear and discomfort in lost people's hearts. They like to go out and startle people. Their noses are really sensitive and frail.",
+    "Evolutions": [
+        {
+            "From": "Seedot",
+            "Kind": "Level",
+            "Speed": "Medium"
+        },
+        {
+            "To": "Shiftry",
+            "Kind": "Stone",
+            "Item": "Leaf Stone"
+        }
+    ],
+    "Image": "nuzleaf.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Harden"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Bide"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Absorb"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Astonish"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Growth"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Rollout"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Razor Leaf"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Nature Power"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Fake Out"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Payback"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Air Cutter"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Extrasensory"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Mega Drain"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Synthesis"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Sunny Day"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Torment"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Swagger"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Leaf Blade"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Sucker Punch"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Explosion"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Beat Up"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Grassy Terrain"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Foul Play"
+        }
+    ]
+}

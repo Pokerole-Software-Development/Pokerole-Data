@@ -1,0 +1,152 @@
+{
+    "Number": 259,
+    "DexID": "0259",
+    "Name": "Marshtomp",
+    "Type1": "Water",
+    "Type2": "Ground",
+    "BaseHP": 4,
+    "Strength": 2,
+    "MaxStrength": 5,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Torrent",
+    "Ability2": "Swift Swim",
+    "HiddenAbility": "Damp",
+    "EventAbilities": "",
+    "RecommendedRank": "Standard",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "marshtomp",
+    "DexCategory": "Mud Fish Pokémon",
+    "Height": {
+        "Meters": 0.7,
+        "Feet": 2.3
+    },
+    "Weight": {
+        "Kilograms": 28.0,
+        "Pounds": 61.7
+    },
+    "DexDescription": "A sticky film allows them to live out of water. They are seen playing in the mud at beaches to rehydrate their dry bodies. They are slow runners and swimmers but they can be fast sliding through the mud.",
+    "Evolutions": [
+        {
+            "From": "Mudkip",
+            "Kind": "Level",
+            "Speed": "Medium"
+        },
+        {
+            "To": "Swampert",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "marshtomp.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Growl"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Mud Slap"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Water Gun"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Bide"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Rock Smash"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Mud Sport"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Mud Bomb"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Rock Throw"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Take Down"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Protect"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Supersonic"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Rock Slide"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Water Pulse"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Surf"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Whirlpool"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Screech"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Amnesia"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Hydro Pump"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Muddy Water"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Earthquake"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Endeavor"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Water Pledge"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Ice Punch"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Dynamic Punch"
+        }
+    ]
+}

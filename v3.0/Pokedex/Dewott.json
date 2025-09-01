@@ -1,0 +1,142 @@
+{
+    "Number": 502,
+    "DexID": "0502",
+    "Name": "Dewott",
+    "Type1": "Water",
+    "Type2": "",
+    "BaseHP": 5,
+    "Strength": 2,
+    "MaxStrength": 5,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 2,
+    "MaxSpecial": 5,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Torrent",
+    "Ability2": "Shell Armor",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Standard",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "dewott",
+    "DexCategory": "Discipline Pokémon",
+    "Height": {
+        "Meters": 0.8,
+        "Feet": 2.6
+    },
+    "Weight": {
+        "Kilograms": 24.5,
+        "Pounds": 54.0
+    },
+    "DexDescription": "It isolates itself from others and trains every day to perform a double scalchop slash technique. This Pokémon takes itself very seriously and won't back down from any challenge.",
+    "Evolutions": [
+        {
+            "From": "Oshawott",
+            "Kind": "Level",
+            "Speed": "Medium"
+        },
+        {
+            "To": "Samurott",
+            "Kind": "Level",
+            "Speed": "Medium"
+        },
+        {
+            "To": "Samurott (Hisuian Form)",
+            "Kind": "Level",
+            "Speed": "Medium",
+            "Region": "Hisui"
+        }
+    ],
+    "Image": "dewott.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Tail Whip"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Water Gun"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Water Sport"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Focus Energy"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Razor Shell"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Fury Cutter"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Water Pulse"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Revenge"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Aqua Jet"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Encore"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Aqua Tail"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Cut"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "X-Scissor"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Retaliate"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Swords Dance"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Taunt"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Hydro Pump"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Dive"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Detect"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Water Pledge"
+        }
+    ]
+}

@@ -1,0 +1,135 @@
+{
+    "Number": 58,
+    "DexID": "0058H",
+    "Name": "Growlithe (Hisuian Form)",
+    "Type1": "Fire",
+    "Type2": "Rock",
+    "BaseHP": 3,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Intimidate",
+    "Ability2": "Justified",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Rookie",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "growlithe-hisuian-form",
+    "DexCategory": "Puppy Pokémon",
+    "Height": {
+        "Meters": 0.8,
+        "Feet": 2.7
+    },
+    "Weight": {
+        "Kilograms": 25,
+        "Pounds": 50
+    },
+    "DexDescription": "There are records of its existence in old Hisuian territories, but all that remains today are old stone statues of fierce and vigilant Pokémon. It was said to live in pairs, deep in the mountains and away from humans.",
+    "Evolutions": [
+        {
+            "To": "Arcanine (Hisuian Form)",
+            "Kind": "Stone",
+            "Item": "Fire Stone"
+        }
+    ],
+    "Image": "growlithe-hisuian-form.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Roar"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Ember"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Leer"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Bite"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Odor Sleuth"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Flame Wheel"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Iron Tail"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Ancient Power"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Fire Fang"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Take Down"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Work Up"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Power Gem"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Flamethrower"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Lava Plume"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Rock Slide"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Raging Fury"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Crunch"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Play Rough"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Flare Blitz"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Flame Charge"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Dig"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Rock Smash"
+        }
+    ]
+}

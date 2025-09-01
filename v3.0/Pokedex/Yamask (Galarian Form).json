@@ -1,0 +1,127 @@
+{
+    "Number": 562,
+    "DexID": "0562G",
+    "Name": "Yamask (Galarian Form)",
+    "Type1": "Ground",
+    "Type2": "Ghost",
+    "BaseHP": 3,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 1,
+    "MaxDexterity": 3,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 1,
+    "MaxSpecial": 3,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Wandering Spirit",
+    "Ability2": "",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Standard",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "yamask-galarian-form",
+    "DexCategory": "Spirit Pokémon",
+    "Height": {
+        "Meters": 0.5,
+        "Feet": 1.6
+    },
+    "Weight": {
+        "Kilograms": 1.5,
+        "Pounds": 3.3
+    },
+    "DexDescription": "It's said that this Pokémon was formed when an ancient clay tablet was drawn to the dark energy of a spirit. The clay slab seems to be absorbing Yamask's power; that's why it is so pale.",
+    "Evolutions": [
+        {
+            "To": "Runerigus",
+            "Kind": "Special",
+            "Special": "Train near a rune painting"
+        }
+    ],
+    "Image": "yamask-galarian-form.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Astonish"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Protect"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Haze"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Night Shade"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Disable"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Brutal Swing"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Crafty Shield"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Hex"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Mean Look"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Slam"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Curse"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Shadow Ball"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Poltergeist"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Earthquake"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Guard Split"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Power Split"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Destiny Bond"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Sandstorm"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Memento"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Psychic"
+        }
+    ]
+}

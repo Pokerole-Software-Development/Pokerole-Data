@@ -1,0 +1,123 @@
+{
+    "Number": 218,
+    "DexID": "0218",
+    "Name": "Slugma",
+    "Type1": "Fire",
+    "Type2": "",
+    "BaseHP": 3,
+    "Strength": 1,
+    "MaxStrength": 3,
+    "Dexterity": 1,
+    "MaxDexterity": 3,
+    "Vitality": 1,
+    "MaxVitality": 3,
+    "Special": 2,
+    "MaxSpecial": 5,
+    "Insight": 1,
+    "MaxInsight": 3,
+    "Ability1": "Magma Armor",
+    "Ability2": "Flame Body",
+    "HiddenAbility": "Weak Armor",
+    "EventAbilities": "",
+    "RecommendedRank": "Starter",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "slugma",
+    "DexCategory": "Lava Pokémon",
+    "Height": {
+        "Meters": 0.7,
+        "Feet": 2.3
+    },
+    "Weight": {
+        "Kilograms": 35.0,
+        "Pounds": 77.2
+    },
+    "DexDescription": "They are extremely common in volcanic areas where they group together. They are made of molten magma instead of blood and flesh. Slugma replenish parts of their body by absorbing molten rocks.",
+    "Evolutions": [
+        {
+            "To": "Magcargo",
+            "Kind": "Level",
+            "Speed": "Slow"
+        }
+    ],
+    "Image": "slugma.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Smog"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Yawn"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Ember"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Rock Throw"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Harden"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Incinerate"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Clear Smog"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Recover"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Flame Burst"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Ancient Power"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Amnesia"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Flamethrower"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Body Slam"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Lava Plume"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Rock Slide"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Earth Power"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Acid Armor"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Toxic"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Heat Wave"
+        }
+    ]
+}

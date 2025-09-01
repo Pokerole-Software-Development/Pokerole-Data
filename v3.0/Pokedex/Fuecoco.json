@@ -1,0 +1,123 @@
+{
+    "Number": 909,
+    "DexID": "0909",
+    "Name": "Fuecoco",
+    "Type1": "Fire",
+    "Type2": "",
+    "BaseHP": 3,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 1,
+    "MaxDexterity": 3,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 2,
+    "MaxSpecial": 5,
+    "Insight": 1,
+    "MaxInsight": 3,
+    "Ability1": "Blaze",
+    "Ability2": "Unaware",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Rookie",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "fuecoco",
+    "DexCategory": "Fire Croc Pokemon",
+    "Height": {
+        "Meters": 0.4,
+        "Feet": 1.04
+    },
+    "Weight": {
+        "Kilograms": 10,
+        "Pounds": 21
+    },
+    "DexDescription": "The yellow scales on its belly and tail absorb heat from the environment and the one's on its head release the heat in the form of fiery flames. Fuecoco are easy-going creatures who love food and eating.",
+    "Image": "fuecoco.png",
+    "Evolutions": [
+        {
+            "To": "Crocalor",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Moves": [
+        {
+           "Learned": "Starter",
+           "Name": "Tackle"
+        },
+        {
+           "Learned": "Starter",
+           "Name": "Leer"
+        },
+        {
+           "Learned": "Starter",
+           "Name": "Ember"
+        },
+        {
+           "Learned": "Rookie",
+           "Name": "Round"
+        },
+        {
+           "Learned": "Rookie",
+           "Name": "Bite"
+        },
+        {
+           "Learned": "Standard",
+           "Name": "Incinerate"
+        },
+        {
+           "Learned": "Standard",
+           "Name": "Yawn"
+        },
+        {
+           "Learned": "Standard",
+           "Name": "Snarl"
+        },
+        {
+           "Learned": "Standard",
+           "Name": "Roar"
+        },
+        {
+           "Learned": "Standard",
+           "Name": "Mud Slap"
+        },
+        {
+           "Learned": "Advanced",
+           "Name": "Flamethrower"
+        },
+        {
+           "Learned": "Advanced",
+           "Name": "Fire Fang"
+        },
+        {
+           "Learned": "Advanced",
+           "Name": "Curse"
+        },
+        {
+           "Learned": "Advanced",
+           "Name": "Slack Off"
+        },
+        {
+           "Learned": "Advanced",
+           "Name": "Hyper Voice"
+        },
+        {
+           "Learned": "Expert",
+           "Name": "Fire Blast"
+        },
+        {
+           "Learned": "Ace",
+           "Name": "Sing"
+        },
+        {
+           "Learned": "Ace",
+           "Name": "Helping Hand"
+        },
+        {
+           "Learned": "Ace",
+           "Name": "Fire Pledge"
+        }
+    ]
+}

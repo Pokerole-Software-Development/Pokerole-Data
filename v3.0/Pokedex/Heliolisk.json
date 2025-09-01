@@ -1,0 +1,139 @@
+{
+    "Number": 695,
+    "DexID": "0695",
+    "Name": "Heliolisk",
+    "Type1": "Electric",
+    "Type2": "Normal",
+    "BaseHP": 4,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 3,
+    "MaxDexterity": 6,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 3,
+    "MaxSpecial": 6,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Dry Skin",
+    "Ability2": "Solar Power",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Advanced",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "heliolisk",
+    "DexCategory": "Generator Pokémon",
+    "Height": {
+        "Meters": 1.0,
+        "Feet": 3.3
+    },
+    "Weight": {
+        "Kilograms": 21.0,
+        "Pounds": 46.3
+    },
+    "DexDescription": "They flare their frills in the sun to recharge. A single Heliolisk is able to generate the power to light a skyscraper. For this reason, researchers are investing in the preservation and welfare of this species.",
+    "Evolutions": [
+        {
+            "From": "Helioptile",
+            "Kind": "Stone",
+            "Item": "Sun Stone"
+        }
+    ],
+    "Image": "heliolisk.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Mud Slap"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Tail Whip"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Pound"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Thunder Shock"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Quick Attack"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Charge"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Eerie Impulse"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Light Screen"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Bulldoze"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Weather Ball"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Volt Switch"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Parabolic Charge"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Thunder Wave"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Thunderbolt"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Sunny Day"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Fire Punch"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Solar Beam"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Electrify"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Discharge"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Thunder"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Dragon Pulse"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Agility"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Hyper Voice"
+        }
+    ]
+}

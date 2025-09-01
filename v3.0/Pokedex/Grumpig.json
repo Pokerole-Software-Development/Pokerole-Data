@@ -1,0 +1,151 @@
+{
+    "Number": 326,
+    "DexID": "0326",
+    "Name": "Grumpig",
+    "Type1": "Psychic",
+    "Type2": "",
+    "BaseHP": 5,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 2,
+    "MaxDexterity": 5,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 2,
+    "MaxSpecial": 5,
+    "Insight": 3,
+    "MaxInsight": 6,
+    "Ability1": "Thick Fat",
+    "Ability2": "Own Tempo",
+    "HiddenAbility": "Gluttony",
+    "EventAbilities": "",
+    "RecommendedRank": "Standard",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "grumpig",
+    "DexCategory": "Manipulate Pokémon",
+    "Height": {
+        "Meters": 0.9,
+        "Feet": 3.0
+    },
+    "Weight": {
+        "Kilograms": 71.5,
+        "Pounds": 157.6
+    },
+    "DexDescription": "Grumpig control their foes with their Psychic powers amplified by the pearls on their head and a hypnotic dance. However, when they use their powers, they have a difficult time breathing.",
+    "Evolutions": [
+        {
+            "From": "Spoink",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "grumpig.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Splash"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Psywave"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Growl"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Psybeam"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Odor Sleuth"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Confuse Ray"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Teeter Dance"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Magic Coat"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Psych Up"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Power Gem"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Rest"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Snore"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Zen Headbutt"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Payback"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Trick"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Shadow Ball"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Psyshock"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Dynamic Punch"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Role Play"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Bounce"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Trick Room"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Belch"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Psychic"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Signal Beam"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Sleep Talk"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Future Sight"
+        }
+    ]
+}

@@ -1,0 +1,128 @@
+{
+    "Number": 30,
+    "DexID": "0030",
+    "Name": "Nidorina",
+    "Type1": "Poison",
+    "Type2": "",
+    "BaseHP": 4,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Poison Point",
+    "Ability2": "Rivalry",
+    "HiddenAbility": "Hustle",
+    "EventAbilities": "",
+    "RecommendedRank": "Standard",
+    "GenderType": "F",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "nidorina",
+    "DexCategory": "Poison Pin Pokémon",
+    "Height": {
+        "Meters": 0.8,
+        "Feet": 2.6
+    },
+    "Weight": {
+        "Kilograms": 20.0,
+        "Pounds": 44.1
+    },
+    "DexDescription": "Nidorina are jealous creatures. They don't like other females near their mates. Otherwise, they are very social creatures. When they are around friends or family, their barbs are tucked away to prevent injury.",
+    "Evolutions": [
+        {
+            "From": "Nidoran F",
+            "Kind": "Level",
+            "Speed": "Medium"
+        },
+        {
+            "To": "Nidoqueen",
+            "Kind": "Stone",
+            "Item": "Moon Stone"
+        }
+    ],
+    "Image": "nidorina.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Poison Sting"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Growl"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Scratch"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Tail Whip"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Fury Swipes"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Toxic Spikes"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Double Kick"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Bite"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Helping Hand"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Toxic"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Flatter"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Crunch"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Earth Power"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Captivate"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Lovely Kiss"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Poison Fang"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Moonlight"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Charm"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Water Pulse"
+        }
+    ]
+}

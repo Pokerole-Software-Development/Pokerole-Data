@@ -1,0 +1,155 @@
+{
+    "Number": 392,
+    "DexID": "0392",
+    "Name": "Infernape",
+    "Type1": "Fire",
+    "Type2": "Fighting",
+    "BaseHP": 5,
+    "Strength": 3,
+    "MaxStrength": 6,
+    "Dexterity": 3,
+    "MaxDexterity": 6,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 3,
+    "MaxSpecial": 6,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Blaze",
+    "Ability2": "Iron Fist",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Expert",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "infernape",
+    "DexCategory": "Flame Pokémon",
+    "Height": {
+        "Meters": 1.2,
+        "Feet": 3.9
+    },
+    "Weight": {
+        "Kilograms": 55.0,
+        "Pounds": 121.3
+    },
+    "DexDescription": "Its fire crown showcases its proud and fiery nature. Infernape won't hesitate to fight bigger foes and will take on any challenge they face. Once Infernape enters a battle, it won't back down until it wins.",
+    "Evolutions": [
+        {
+            "From": "Monferno",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "infernape.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Scratch"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Leer"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Ember"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Taunt"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Fury Swipes"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Power-Up Punch"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Mach Punch"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Flame Wheel"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Feint"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "U-Turn"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Punishment"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Nasty Plot"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Slack Off"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Facade"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Acrobatics"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Calm Mind"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Fire Spin"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Swift"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Raging Fury"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Flamethrower"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Close Combat"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Double-Edge"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Flare Blitz"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Dual Chop"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Gunk Shot"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Endure"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Blast Burn"
+        }
+    ]
+}

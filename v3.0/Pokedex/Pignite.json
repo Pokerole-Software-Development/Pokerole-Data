@@ -1,0 +1,128 @@
+{
+    "Number": 499,
+    "DexID": "0499",
+    "Name": "Pignite",
+    "Type1": "Fire",
+    "Type2": "Fighting",
+    "BaseHP": 5,
+    "Strength": 2,
+    "MaxStrength": 5,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 2,
+    "MaxSpecial": 5,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Blaze",
+    "Ability2": "Thick Fat",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Standard",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "pignite",
+    "DexCategory": "Fire Pig Pokémon",
+    "Height": {
+        "Meters": 1.0,
+        "Feet": 3.3
+    },
+    "Weight": {
+        "Kilograms": 55.5,
+        "Pounds": 122.4
+    },
+    "DexDescription": "Whatever it eats becomes fuel for the flame in its stomach. When it is angered, the intensity of the flame increases. It is not common to see them the wild. They are mostly found living in warm places.",
+    "Evolutions": [
+        {
+            "From": "Tepig",
+            "Kind": "Level",
+            "Speed": "Medium"
+        },
+        {
+            "To": "Emboar",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "pignite.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Tail Whip"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Ember"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Odor Sleuth"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Defense Curl"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Flame Charge"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Arm Thrust"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Smog"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Rollout"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Take Down"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Heat Crash"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Assurance"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Flamethrower"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Head Smash"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Roar"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Flare Blitz"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Fire Pledge"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Magnitude"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Sucker Punch"
+        }
+    ]
+}

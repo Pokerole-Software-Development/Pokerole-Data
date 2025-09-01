@@ -1,0 +1,111 @@
+{
+    "Number": 919,
+    "DexID": "0919",
+    "Name": "Nymble",
+    "Type1": "Bug",
+    "Type2": "",
+    "BaseHP": 3,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Swarm",
+    "Ability2": "Tinted Lens",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Rookie",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "nymble",
+    "DexCategory": "Grasshopper Pokémon",
+    "Height": {
+        "Meters": 0.2,
+        "Feet": 0.7
+    },
+    "Weight": {
+        "Kilograms": 1.0,
+        "Pounds": 2.2
+    },
+    "DexDescription": "It is very small in size but it has a third set of legs that allow it to jump up to 30 feet (9 m) in the air in a pinch. It is also a very capable battler who only escapes from a fight if there's really no other choice.",
+    "Evolutions": [
+        {
+            "To": "Lokix",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "nymble.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Leer"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Struggle Bug"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Astonish"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Assurance"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Double Kick"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Screech"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Endure"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Bug Bite"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Feint"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Agility"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Sucker Punch"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "First Impression"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Bounce"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "U-Turn"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Facade"
+        }
+    ]
+}

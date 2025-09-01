@@ -1,0 +1,152 @@
+{
+    "Number": 181,
+    "DexID": "0181",
+    "Name": "Ampharos",
+    "Type1": "Electric",
+    "Type2": "",
+    "BaseHP": 5,
+    "Strength": 2,
+    "MaxStrength": 5,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 3,
+    "MaxSpecial": 6,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Static",
+    "Ability2": "Plus",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Advanced",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "ampharos",
+    "DexCategory": "Light Pokémon",
+    "Height": {
+        "Meters": 1.4,
+        "Feet": 4.6
+    },
+    "Weight": {
+        "Kilograms": 61.5,
+        "Pounds": 135.6
+    },
+    "DexDescription": "It's not common to see it in the wild. The tip of its tail shines brightly and in the old days, people sent light signals with the help of this Pokémon. It has a good disposition towards people in general.",
+    "Evolutions": [
+        {
+            "From": "Flaaffy",
+            "Kind": "Level",
+            "Speed": "Medium"
+        },
+        {
+            "To": "Ampharos (Mega Form)",
+            "Kind": "Mega",
+            "Item": "Ampharosite"
+        }
+    ],
+    "Image": "ampharos.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Growl"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Thunder Wave"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Thunder Shock"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Magnetic Flux"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Charge"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Ion Deluge"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Electro Ball"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Fire Punch"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Thunder Punch"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Take Down"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Cotton Spore"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Confuse Ray"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Power Gem"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Signal Beam"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Dragon Pulse"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Discharge"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Cotton Guard"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Charge Beam"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Light Screen"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Zap Cannon"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Thunder"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Magnet Rise"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Agility"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Outrage"
+        }
+    ]
+}

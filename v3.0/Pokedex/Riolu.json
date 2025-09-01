@@ -1,0 +1,144 @@
+{
+    "Number": 447,
+    "DexID": "0447",
+    "Name": "Riolu",
+    "Type1": "Fighting",
+    "Type2": "",
+    "BaseHP": 3,
+    "Strength": 2,
+    "MaxStrength": 5,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 1,
+    "MaxVitality": 3,
+    "Special": 1,
+    "MaxSpecial": 3,
+    "Insight": 1,
+    "MaxInsight": 3,
+    "Ability1": "Inner Focus",
+    "Ability2": "Prankster",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Rookie",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "riolu",
+    "DexCategory": "Emanation Pokémon",
+    "Height": {
+        "Meters": 0.7,
+        "Feet": 2.3
+    },
+    "Weight": {
+        "Kilograms": 20.2,
+        "Pounds": 44.5
+    },
+    "DexDescription": "Scarce in the wild, but it has been seen living in mountains. It has the ability to see auras; thanks to this it is capable of sensing emotions. It won't get close to those with evil or selfish intentions.",
+    "Evolutions": [
+        {
+            "To": "Lucario",
+            "Kind": "Stat",
+            "Stat": "Loyalty",
+            "Value": 5
+        }
+    ],
+    "Image": "riolu.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Quick Attack"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Foresight"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Endure"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Counter"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Feint"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Metal Claw"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Bite"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Power-Up Punch"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Work Up"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Screech"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Nasty Plot"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Copycat"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Quick Guard"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Crunch"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Bullet Punch"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Swords Dance"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Force Palm"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Helping Hand"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Blaze Kick"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Reversal"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Iron Defense"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Coaching"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Agility"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Drain Punch"
+        }
+    ]
+}

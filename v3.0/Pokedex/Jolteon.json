@@ -1,0 +1,119 @@
+{
+    "Number": 135,
+    "DexID": "0135",
+    "Name": "Jolteon",
+    "Type1": "Electric",
+    "Type2": "",
+    "BaseHP": 4,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 3,
+    "MaxDexterity": 7,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 3,
+    "MaxSpecial": 6,
+    "Insight": 3,
+    "MaxInsight": 6,
+    "Ability1": "Volt Absorb",
+    "Ability2": "Quick Feet",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Advanced",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "jolteon",
+    "DexCategory": "Lightning Pokémon",
+    "Height": {
+        "Meters": 0.8,
+        "Feet": 2.6
+    },
+    "Weight": {
+        "Kilograms": 24.5,
+        "Pounds": 54.0
+    },
+    "DexDescription": "This Pokémon evolved after being affected by electric radiation. Every hair on its body starts to stand sharply if it becomes charged with electricity. It shoots lightning from all around its body.",
+    "Evolutions": [
+        {
+            "From": "Eevee",
+            "Kind": "Stone",
+            "Item": "Thunder Stone"
+        }
+    ],
+    "Image": "jolteon.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Helping Hand"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Tail Whip"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Sand Attack"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Thunder Shock"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Quick Attack"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Double Kick"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Thunder Fang"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Pin Missile"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Agility"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Thunder Wave"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Discharge"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Rising Voltage"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Thunder"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Last Resort"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Magnet Rise"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Wish"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Endure"
+        }
+    ]
+}

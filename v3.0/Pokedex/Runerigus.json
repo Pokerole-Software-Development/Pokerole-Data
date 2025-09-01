@@ -1,0 +1,143 @@
+{
+    "Number": 867,
+    "DexID": "0867",
+    "Name": "Runerigus",
+    "Type1": "Ground",
+    "Type2": "Ghost",
+    "BaseHP": 4,
+    "Strength": 3,
+    "MaxStrength": 6,
+    "Dexterity": 1,
+    "MaxDexterity": 3,
+    "Vitality": 4,
+    "MaxVitality": 8,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 3,
+    "MaxInsight": 6,
+    "Ability1": "Wandering Spirit",
+    "Ability2": "",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Expert",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "runerigus",
+    "DexCategory": "Grudge Pokémon",
+    "Height": {
+        "Meters": 1.6,
+        "Feet": 5.2
+    },
+    "Weight": {
+        "Kilograms": 66.6,
+        "Pounds": 146.8
+    },
+    "DexDescription": "A powerful curse was woven into an ancient rune painting. The spirit of Yamask is absorbed by this curse and it evolves into a Runerigus. Do not touch the shadow parts of its body or you'll see terrible visions of the past.",
+    "Evolutions": [
+        {
+            "From": "Yamask (Galarian Form)",
+            "Kind": "Special",
+            "Special": "Train near a rune painting"
+        }
+    ],
+    "Image": "runerigus.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Astonish"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Protect"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Haze"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Night Shade"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Disable"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Brutal Swing"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Crafty Shield"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Hex"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Mean Look"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Stealth Rock"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Rock Tomb"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Shadow Claw"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Scary Face"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Slam"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Curse"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Shadow Ball"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Poltergeist"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Earthquake"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Power Split"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Guard Split"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Destiny Bond"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Memento"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Iron Defense"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Body Press"
+        }
+    ]
+}

@@ -1,0 +1,129 @@
+{
+    "Number": 61,
+    "DexID": "0061",
+    "Name": "Poliwhirl",
+    "Type1": "Water",
+    "Type2": "",
+    "BaseHP": 4,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 2,
+    "MaxDexterity": 5,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Water Absorb",
+    "Ability2": "Damp",
+    "HiddenAbility": "Swift Swim",
+    "EventAbilities": "",
+    "RecommendedRank": "Standard",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "poliwhirl",
+    "DexCategory": "Tadpole Pokémon",
+    "Height": {
+        "Meters": 1.0,
+        "Feet": 3.3
+    },
+    "Weight": {
+        "Kilograms": 20.0,
+        "Pounds": 44.1
+    },
+    "DexDescription": "Though it is skilled at walking, it prefers to live underwater where there's less danger. It sweats to keep its skin moist. Thanks to this, it can easily slip out of the clutches of any enemy.",
+    "Evolutions": [
+        {
+            "From": "Poliwag",
+            "Kind": "Level",
+            "Speed": "Medium"
+        },
+        {
+            "To": "Poliwrath",
+            "Kind": "Stone",
+            "Item": "Water Stone"
+        },
+        {
+            "To": "Politoed",
+            "Kind": "Trade",
+            "Item": "King's Rock"
+        }
+    ],
+    "Image": "poliwhirl.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Water Sport"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Water Gun"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Hypnosis"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Bubble"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Double Slap"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Rain Dance"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Body Slam"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Earth Power"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Mud Shot"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Bubble Beam"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Wake-Up Slap"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Belly Drum"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Mud Bomb"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Hydro Pump"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Double-Edge"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Ice Punch"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Mind Reader"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Refresh"
+        }
+    ]
+}

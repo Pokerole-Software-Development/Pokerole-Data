@@ -1,0 +1,131 @@
+{
+    "Number": 1000,
+    "DexID": "1000",
+    "Name": "Gholdengo",
+    "Type1": "Steel",
+    "Type2": "Ghost",
+    "BaseHP": 5,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 2,
+    "MaxDexterity": 5,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 3,
+    "MaxSpecial": 7,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Good as Gold",
+    "Ability2": "",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Advanced",
+    "GenderType": "N",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "gholdengo",
+    "DexCategory": "Coin Entity Pokémon",
+    "Height": {
+        "Meters": 1.2,
+        "Feet": 3.9
+    },
+    "Weight": {
+        "Kilograms": 30.0,
+        "Pounds": 66.1
+    },
+    "DexDescription": "Its sturdy body and surfing board is made of pure gold. This Pokémon gets along well with others and is quick to make friends. Loose change is left behind wherever Gholdengo has engaged in combat.",
+    "Evolutions": [
+        {
+            "From": "Gimmighoul (Chest Form)",
+            "Kind": "Special",
+            "Special": "Fill the gold chest"
+        }
+    ],
+    "Image": "gholdengo.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Astonish"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Protect"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Night Shade"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Confuse Ray"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Substitute"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Metal Sound"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Hex"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Thief"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Light Screen"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Reflect"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Dazzling Gleam"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Shadow Ball"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Power Gem"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Recover"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Make it Rain"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Nasty Plot"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Memento"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Thunder Wave"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Hyper Beam"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Steel Beam"
+        }
+    ]
+}

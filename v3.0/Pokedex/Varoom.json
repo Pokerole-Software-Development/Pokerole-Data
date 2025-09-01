@@ -1,0 +1,119 @@
+{
+    "Number": 965,
+    "DexID": "0965",
+    "Name": "Varoom",
+    "Type1": "Steel",
+    "Type2": "Poison",
+    "BaseHP": 3,
+    "Strength": 2,
+    "MaxStrength": 5,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 1,
+    "MaxSpecial": 3,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Overcoat",
+    "Ability2": "Slow Start",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Standard",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "varoom",
+    "DexCategory": "Single-Cyl Pokémon",
+    "Height": {
+        "Meters": 1.0,
+        "Feet": 3.3
+    },
+    "Weight": {
+        "Kilograms": 35.0,
+        "Pounds": 77.2
+    },
+    "DexDescription": "It is believed this Pokémon came to life after an unknown poison Pokémon entered and enspirited an old scrap engine. It uses rocks and minerals to shape itself some wheels, but it can attach itself to small vehicles.",
+    "Evolutions": [
+        {
+            "To": "Revavroom",
+            "Kind": "Level",
+            "Speed": "Slow"
+        }
+    ],
+    "Image": "varoom.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Lick"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Poison Gas"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Smog"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Taunt"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Assurance"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Sludge"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Gyro Ball"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Headbutt"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Screech"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Iron Head"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Swagger"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Poison Jab"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Uproar"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Spin Out"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Gunk Shot"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Parting Shot"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Haze"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Sludge Bomb"
+        }
+    ]
+}

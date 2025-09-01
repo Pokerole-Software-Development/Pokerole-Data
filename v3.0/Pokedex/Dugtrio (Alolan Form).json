@@ -1,0 +1,139 @@
+{
+    "Number": 51,
+    "DexID": "0051A",
+    "Name": "Dugtrio (Alolan Form)",
+    "Type1": "Ground",
+    "Type2": "Steel",
+    "BaseHP": 4,
+    "Strength": 3,
+    "MaxStrength": 6,
+    "Dexterity": 3,
+    "MaxDexterity": 6,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Sand Veil",
+    "Ability2": "Tangling Hair",
+    "HiddenAbility": "Sand Force",
+    "EventAbilities": "",
+    "RecommendedRank": "Expert",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "dugtrio-alolan-form",
+    "DexCategory": "Mole Pokémon",
+    "Height": {
+        "Meters": 0.7,
+        "Feet": 2.3
+    },
+    "Weight": {
+        "Kilograms": 66.6,
+        "Pounds": 146.8
+    },
+    "DexDescription": "Thanks to its golden mane, this Pokémon has been revered as a feminine deity. The triplets groom each other to help keep the hair glossy and dirt-free. They don't like to be petted.",
+    "Evolutions": [
+        {
+            "From": "Diglett (Alolan Form)",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "dugtrio-alolan-form.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Metal Claw"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Sand Attack"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Growl"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Astonish"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Mud Slap"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Magnitude"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Bulldoze"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Rototiller"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Mud Bomb"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Sucker Punch"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Dig"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Earth Power"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Tri Attack"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Iron Head"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Sand Tomb"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Night Slash"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Sandstorm"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Earthquake"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Fissure"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Ancient Power"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Stone Edge"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Iron Defense"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Steel Beam"
+        }
+    ]
+}

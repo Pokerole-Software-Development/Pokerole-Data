@@ -1,0 +1,135 @@
+{
+    "Number": 592,
+    "DexID": "0592",
+    "Name": "Frillish",
+    "Type1": "Water",
+    "Type2": "Ghost",
+    "BaseHP": 4,
+    "Strength": 1,
+    "MaxStrength": 3,
+    "Dexterity": 1,
+    "MaxDexterity": 3,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Water Absorb",
+    "Ability2": "Damp",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Standard",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "frillish",
+    "DexCategory": "Floating Pokémon",
+    "Height": {
+        "Meters": 1.2,
+        "Feet": 3.9
+    },
+    "Weight": {
+        "Kilograms": 33.0,
+        "Pounds": 72.8
+    },
+    "DexDescription": "If a Frillish is spotted, all beaches nearby will be closed for the day. This Pokemon paralizes a swimming victim and wraps them, dragging them to the bottom of the sea. Females have pink shade.",
+    "Evolutions": [
+        {
+            "To": "Jellicent",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "frillish.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Water Gun"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Water Sport"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Absorb"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Poison Sting"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Bubble"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Night Shade"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Water Pulse"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Rain Dance"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Ominous Wind"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Hex"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Bubble Beam"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Brine"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Recover"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Shadow Ball"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Whirlpool"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Wring Out"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Hydro Pump"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Destiny Bond"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Water Spout"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Dazzling Gleam"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Confuse Ray"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Giga Drain"
+        }
+    ]
+}

@@ -1,0 +1,135 @@
+{
+    "Number": 80,
+    "DexID": "0080G",
+    "Name": "Slowbro (Galarian Form)",
+    "Type1": "Poison",
+    "Type2": "Psychic",
+    "BaseHP": 6,
+    "Strength": 3,
+    "MaxStrength": 6,
+    "Dexterity": 1,
+    "MaxDexterity": 3,
+    "Vitality": 3,
+    "MaxVitality": 6,
+    "Special": 3,
+    "MaxSpecial": 6,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Quick Draw",
+    "Ability2": "Own Tempo",
+    "HiddenAbility": "Regenerator",
+    "EventAbilities": "",
+    "RecommendedRank": "Advanced",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "slowbro-galarian-form",
+    "DexCategory": "Hermit Crab Pokémon",
+    "Height": {
+        "Meters": 1.6,
+        "Feet": 5.2
+    },
+    "Weight": {
+        "Kilograms": 70.5,
+        "Pounds": 155.4
+    },
+    "DexDescription": "Slowbro in Galar do not wait for Shellder to bite their tails; they grab them by the tongue. The Shellder will defend itself by injecting poison, but Slowbro's spicy sap protects it, turning it into a Poison-Type instead.",
+    "Evolutions": [
+        {
+            "From": "Slowpoke (Galarian Form)",
+            "Kind": "Special",
+            "Special": "Grab Shellder by Tongue"
+        }
+    ],
+    "Image": "slowbro-galarian-form.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Curse"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Growl"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Acid"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Yawn"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Confusion"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Disable"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Headbutt"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Water Pulse"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Zen Headbutt"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Shell Side Arm"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Withdraw"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Amnesia"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Surf"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Slack Off"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Psychic"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Psych Up"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Rain Dance"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Heal Pulse"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Flamethrower"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Expanding Force"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Venoshock"
+        }
+    ]
+}

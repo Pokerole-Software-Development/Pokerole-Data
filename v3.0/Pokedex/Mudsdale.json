@@ -1,0 +1,139 @@
+{
+    "Number": 750,
+    "DexID": "0750",
+    "Name": "Mudsdale",
+    "Type1": "Ground",
+    "Type2": "",
+    "BaseHP": 6,
+    "Strength": 3,
+    "MaxStrength": 7,
+    "Dexterity": 1,
+    "MaxDexterity": 3,
+    "Vitality": 3,
+    "MaxVitality": 6,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Inner Focus",
+    "Ability2": "Stamina",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Expert",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "mudsdale",
+    "DexCategory": "Draft Horse Pokémon",
+    "Height": {
+        "Meters": 2.5,
+        "Feet": 8.2
+    },
+    "Weight": {
+        "Kilograms": 920.0,
+        "Pounds": 2028.3
+    },
+    "DexDescription": "Hard-tempered and resilient. The hooves of this Pokémon stomp through concrete. While it is not very fast, it can keep a steady pace for days, even when dragging weight. A very dependable Pokémon.",
+    "Evolutions": [
+        {
+            "From": "Mudbray",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "mudsdale.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Mud Slap"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Mud Sport"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Rock Smash"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Double Kick"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Iron Defense"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Bulldoze"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Rototiller"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Stomp"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Bide"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Counter"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Strength"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "High Horsepower"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Heavy Slam"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Magnitude"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Rock Slide"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Stealth Rock"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Mega Kick"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Earthquake"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Superpower"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Giga Impact"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Lash Out"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Body Press"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Close Combat"
+        }
+    ]
+}

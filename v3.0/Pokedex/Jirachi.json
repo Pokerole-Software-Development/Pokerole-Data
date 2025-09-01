@@ -1,0 +1,121 @@
+{
+    "Number": 385,
+    "DexID": "0385",
+    "Name": "Jirachi",
+    "Type1": "Steel",
+    "Type2": "Psychic",
+    "BaseHP": 6,
+    "Strength": 6,
+    "MaxStrength": 6,
+    "Dexterity": 6,
+    "MaxDexterity": 6,
+    "Vitality": 6,
+    "MaxVitality": 6,
+    "Special": 6,
+    "MaxSpecial": 6,
+    "Insight": 6,
+    "MaxInsight": 6,
+    "Ability1": "Serene Grace",
+    "Ability2": "",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Ace",
+    "GenderType": "N",
+    "Legendary": true,
+    "GoodStarter": false,
+    "_id": "jirachi",
+    "DexCategory": "No Data",
+    "Height": {
+        "Meters": 0.3,
+        "Feet": 1.0
+    },
+    "Weight": {
+        "Kilograms": 1.1,
+        "Pounds": 2.4
+    },
+    "DexDescription": "It is said that every 1000 years, a shooting star appears in the sky for 7 days, granting wishes to those of pure heart. Another common saying is: 'Be careful what you wish for.'",
+    "Evolutions": [],
+    "Image": "jirachi.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Wish"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Doom Desire"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Meteor Mash"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Swift"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Helping Hand"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Psychic"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Refresh"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Lucky Chant"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Rest"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Zen Headbutt"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Double-Edge"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Gravity"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Healing Wish"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Future Sight"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Cosmic Power"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Last Resort"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Confusion"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Confide"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Trick"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Trick Room"
+        }
+    ]
+}

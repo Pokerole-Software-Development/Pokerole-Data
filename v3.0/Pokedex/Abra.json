@@ -1,0 +1,79 @@
+{
+    "Number": 63,
+    "DexID": "0063",
+    "Name": "Abra",
+    "Type1": "Psychic",
+    "Type2": "",
+    "BaseHP": 3,
+    "Strength": 1,
+    "MaxStrength": 3,
+    "Dexterity": 2,
+    "MaxDexterity": 5,
+    "Vitality": 1,
+    "MaxVitality": 2,
+    "Special": 3,
+    "MaxSpecial": 6,
+    "Insight": 1,
+    "MaxInsight": 3,
+    "Ability1": "Synchronize",
+    "Ability2": "Inner Focus",
+    "HiddenAbility": "Magic Guard",
+    "EventAbilities": "",
+    "RecommendedRank": "Standard",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "abra",
+    "DexCategory": "Psi Pokémon",
+    "Height": {
+        "Meters": 0.9,
+        "Feet": 3.0
+    },
+    "Weight": {
+        "Kilograms": 19.5,
+        "Pounds": 43.0
+    },
+    "DexDescription": "They are attracted to the city and tend to live close to humans. Its Psychic abilities are still developing, It must sleep 18 hours a day or else it won't be able to use them. When in danger, it teleports away.",
+    "Evolutions": [
+        {
+            "To": "Kadabra",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "abra.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Teleport"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Confusion"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Ally Switch"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Mimic"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Guard Split"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Metronome"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Signal Beam"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Future Sight"
+        }
+    ]
+}

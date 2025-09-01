@@ -1,0 +1,121 @@
+{
+    "Number": 704,
+    "DexID": "0704",
+    "Name": "Goomy",
+    "Type1": "Dragon",
+    "Type2": "",
+    "BaseHP": 3,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 1,
+    "MaxDexterity": 3,
+    "Vitality": 1,
+    "MaxVitality": 3,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Sap Sipper",
+    "Ability2": "Hydration",
+    "HiddenAbility": "Gooey",
+    "EventAbilities": "",
+    "RecommendedRank": "Starter",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "goomy",
+    "DexCategory": "Soft Tissue Pokémon",
+    "Height": {
+        "Meters": 0.3,
+        "Feet": 1.0
+    },
+    "Weight": {
+        "Kilograms": 2.8,
+        "Pounds": 6.2
+    },
+    "DexDescription": "The weakest but best tempered Dragon Pokémon known. It lives in damp and shady places so its body doesn't dry out. It's covered in a slimy membrane that makes things slide off of it.",
+    "Evolutions": [
+        {
+            "To": "Sliggoo",
+            "Kind": "Level",
+            "Speed": "Medium"
+        },
+        {
+            "To": "Sliggoo (Hisuian Form)",
+            "Kind": "Level",
+            "Speed": "Medium",
+            "Region": "Hisui"
+        }
+    ],
+    "Image": "goomy.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Absorb"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Water Gun"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Dragon Breath"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Protect"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Bubble"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Water Pulse"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Bide"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Rain Dance"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Flail"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Dragon Pulse"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Curse"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Body Slam"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Muddy Water"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Infestation"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Counter"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Endure"
+        }
+    ]
+}

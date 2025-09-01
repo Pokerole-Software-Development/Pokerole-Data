@@ -1,0 +1,132 @@
+{
+    "Number": 838,
+    "DexID": "0838",
+    "Name": "Carkol",
+    "Type1": "Rock",
+    "Type2": "Fire",
+    "BaseHP": 5,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Steam Engine",
+    "Ability2": "Flash Fire",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Standard",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "carkol",
+    "DexCategory": "Coal Pokémon",
+    "Height": {
+        "Meters": 1.1,
+        "Feet": 3.6
+    },
+    "Weight": {
+        "Kilograms": 78.0,
+        "Pounds": 172.0
+    },
+    "DexDescription": "It rolls its legs: their heavy weight creates parallel trackmarks that allow them to travel faster through caves and tunnels. In old times, people used Carkol's coal as fuel for they can hold fire for a long time.",
+    "Evolutions": [
+        {
+            "From": "Rolycoly",
+            "Kind": "Level",
+            "Speed": "Medium"
+        },
+        {
+            "To": "Coalossal",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "carkol.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Smokescreen"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Rapid Spin"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Smack Down"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Flame Charge"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Spikes"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Endure"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Iron Defense"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Block"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Will-o-Wisp"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Rock Polish"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Ancient Power"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Incinerate"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Stealth Rock"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Heat Crash"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Rock Blast"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Burn Up"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "High Horsepower"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Bulldoze"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Scorching Sands"
+        }
+    ]
+}

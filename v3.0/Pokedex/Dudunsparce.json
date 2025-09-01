@@ -1,0 +1,143 @@
+{
+    "Number": 982,
+    "DexID": "0982",
+    "Name": "Dudunsparce",
+    "Type1": "Normal",
+    "Type2": "",
+    "BaseHP": 7,
+    "Strength": 3,
+    "MaxStrength": 6,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 2,
+    "MaxSpecial": 5,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Rattled",
+    "Ability2": "Serene Grace",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Advanced",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "dudunsparce",
+    "DexCategory": "Land Snake Pokémon",
+    "Height": {
+        "Meters": 4.5,
+        "Feet": 14.8
+    },
+    "Weight": {
+        "Kilograms": 47.4,
+        "Pounds": 104.5
+    },
+    "DexDescription": "It builds nests within solid bedrock by using its tail. Gentle in nature, it will carry any Pokémon who wander into its home and guide them back to the exit. Enemies will be driven out by a blast of air from its lungs.",
+    "Evolutions": [
+        {
+            "From": "Dunsparce",
+            "Kind": "Special",
+            "Special": "Learn Hyper Drill"
+        }
+    ],
+    "Image": "dudunsparce.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Flail"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Defense Curl"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Rollout"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Mud Slap"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Glare"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Screech"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Ancient Power"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Spite"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Drill Run"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Dig"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Yawn"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Air Slash"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Roost"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Endure"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Coil"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Hyper Drill"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Dragon Rush"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Double-Edge"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Endeavor"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Hurricane"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Boomburst"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Dragon Tail"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Tailwind"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Trump Card"
+        }
+    ]
+}

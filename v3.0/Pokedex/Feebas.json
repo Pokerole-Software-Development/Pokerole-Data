@@ -1,0 +1,72 @@
+{
+    "Number": 349,
+    "DexID": "0349",
+    "Name": "Feebas",
+    "Type1": "Water",
+    "Type2": "",
+    "BaseHP": 3,
+    "Strength": 1,
+    "MaxStrength": 2,
+    "Dexterity": 2,
+    "MaxDexterity": 5,
+    "Vitality": 1,
+    "MaxVitality": 3,
+    "Special": 1,
+    "MaxSpecial": 2,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Oblivious",
+    "Ability2": "Swift Swim",
+    "HiddenAbility": "Adaptability",
+    "EventAbilities": "",
+    "RecommendedRank": "Starter",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "feebas",
+    "DexCategory": "Fish Pokémon",
+    "Height": {
+        "Meters": 0.6,
+        "Feet": 2.0
+    },
+    "Weight": {
+        "Kilograms": 7.4,
+        "Pounds": 16.3
+    },
+    "DexDescription": "This Pokémon tastes awful, and they are incredibly ugly, smelly, kind of dumb, and terrible fighters. To make things worse, they rarely reproduce as they don't find each other attractive; for this reason, they are extremely rare.",
+    "Evolutions": [
+        {
+            "To": "Milotic",
+            "Kind": "Stat",
+            "Stat": "Beauty",
+            "Value": 5
+        }
+    ],
+    "Image": "feebas.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Splash"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Flail"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Brine"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Mud Sport"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Dive"
+        }
+    ]
+}

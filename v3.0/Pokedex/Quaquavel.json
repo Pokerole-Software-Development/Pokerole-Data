@@ -1,0 +1,151 @@
+{
+    "Number": 914,
+    "DexID": "0914",
+    "Name": "Quaquavel",
+    "Type1": "Water",
+    "Type2": "Fighting",
+    "BaseHP": 5,
+    "Strength": 3,
+    "MaxStrength": 7,
+    "Dexterity": 3,
+    "MaxDexterity": 6,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 2,
+    "MaxSpecial": 5,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Torrent",
+    "Ability2": "Moxie",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Expert",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "quaquavel",
+    "DexCategory": "Dancing Pokemon",
+    "Height": {
+        "Meters": 1.8,
+        "Feet": 5.11
+    },
+    "Weight": {
+        "Kilograms": 61,
+        "Pounds": 136
+    },
+    "DexDescription": "Their legs are incredibly powerful, do not underestimate their rhythmic dancing for their kicks can send a car rolling. They attract attention by spreading a beautiful tail made of water feathers.",
+    "Image": "quaquavel.png",
+    "Evolutions": [
+        {
+            "From": "Quaxwell",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Moves": [
+        {
+           "Learned": "Starter",
+           "Name": "Pound"
+        },
+        {
+           "Learned": "Starter",
+           "Name": "Growl"
+        },
+        {
+           "Learned": "Rookie",
+           "Name": "Water Gun"
+        },
+        {
+           "Learned": "Rookie",
+           "Name": "Work Up"
+        },
+        {
+           "Learned": "Standard",
+           "Name": "Wing Attack"
+        },
+        {
+           "Learned": "Standard",
+           "Name": "Aqua Jet"
+        },
+        {
+           "Learned": "Standard",
+           "Name": "Water Pulse"
+        },
+        {
+           "Learned": "Standard",
+           "Name": "Low Sweep"
+        },
+        {
+           "Learned": "Advanced",
+           "Name": "Double Hit"
+        },
+        {
+           "Learned": "Advanced",
+           "Name": "Aqua Cutter"
+        },
+        {
+           "Learned": "Advanced",
+           "Name": "Acrobatics"
+        },
+        {
+           "Learned": "Advanced",
+           "Name": "Focus Energy"
+        },
+        {
+           "Learned": "Advanced",
+           "Name": "Air Slash"
+        },
+        {
+           "Learned": "Advanced",
+           "Name": "Aqua Step"
+        },
+        {
+           "Learned": "Expert",
+           "Name": "Roost"
+        },
+        {
+           "Learned": "Expert",
+           "Name": "Detect"
+        },
+        {
+           "Learned": "Expert",
+           "Name": "Mega Kick"
+        },
+        {
+           "Learned": "Expert",
+           "Name": "Air Cutter"
+        },
+        {
+           "Learned": "Expert",
+           "Name": "Feather Dance"
+        },
+        {
+           "Learned": "Expert",
+           "Name": "Liquidation"
+        },
+        {
+           "Learned": "Expert",
+           "Name": "Close Combat"
+        },
+        {
+           "Learned": "Expert",
+           "Name": "Wave Crash"
+        },
+        {
+           "Learned": "Ace",
+           "Name": "Swords Dance"
+        },
+        {
+           "Learned": "Ace",
+           "Name": "Brave Bird"
+        },
+        {
+           "Learned": "Ace",
+           "Name": "Ice Spinner"
+        },
+        {
+           "Learned": "Ace",
+           "Name": "Hydro Cannon"
+        }
+    ]
+}

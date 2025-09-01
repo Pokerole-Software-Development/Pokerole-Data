@@ -1,0 +1,151 @@
+{
+    "Number": 579,
+    "DexID": "0579",
+    "Name": "Reuniclus",
+    "Type1": "Psychic",
+    "Type2": "",
+    "BaseHP": 6,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 1,
+    "MaxDexterity": 3,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 3,
+    "MaxSpecial": 7,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Magic Guard",
+    "Ability2": "Regenerator",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Expert",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "reuniclus",
+    "DexCategory": "Multiplying Pokémon",
+    "Height": {
+        "Meters": 1.0,
+        "Feet": 3.3
+    },
+    "Weight": {
+        "Kilograms": 20.1,
+        "Pounds": 44.3
+    },
+    "DexDescription": "These intelligent Pokémon fight by controlling their arms with Psychic energy. They have been seen forming networks of many Reuniclus holding hands and unleashing an incredible Psychic wave.",
+    "Evolutions": [
+        {
+            "From": "Duosion",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "reuniclus.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Endeavor"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Confusion"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Psywave"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Protect"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Dizzy Punch"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Telekinesis"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Recover"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Psybeam"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Charm"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Psyshock"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Light Screen"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Reflect"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Rollout"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Snatch"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Hidden Power"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Ally Switch"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Pain Split"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Psychic"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Skill Swap"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Heal Block"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Hammer Arm"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Wonder Room"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Future Sight"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Substitute"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Psychic Terrain"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Expanding Force"
+        }
+    ]
+}

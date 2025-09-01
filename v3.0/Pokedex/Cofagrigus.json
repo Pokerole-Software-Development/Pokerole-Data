@@ -1,0 +1,143 @@
+{
+    "Number": 563,
+    "DexID": "0563",
+    "Name": "Cofagrigus",
+    "Type1": "Ghost",
+    "Type2": "",
+    "BaseHP": 4,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 1,
+    "MaxDexterity": 3,
+    "Vitality": 4,
+    "MaxVitality": 8,
+    "Special": 3,
+    "MaxSpecial": 6,
+    "Insight": 3,
+    "MaxInsight": 6,
+    "Ability1": "Mummy",
+    "Ability2": "",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Expert",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "cofagrigus",
+    "DexCategory": "Coffin Pokémon",
+    "Height": {
+        "Meters": 1.7,
+        "Feet": 5.6
+    },
+    "Weight": {
+        "Kilograms": 76.5,
+        "Pounds": 168.7
+    },
+    "DexDescription": "This Pokémon has only been seen a few times in the ruins and tombs of ancient civilizations. It curses and transforms people and Pokémon into mummy-like creatures. It is said it feeds on pure gold.",
+    "Evolutions": [
+        {
+            "From": "Yamask",
+            "Kind": "Level",
+            "Speed": "Slow"
+        }
+    ],
+    "Image": "cofagrigus.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Astonish"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Protect"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Haze"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Night Shade"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Disable"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Will-o-Wisp"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Sand Tomb"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Shadow Claw"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Crafty Shield"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Hex"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Mean Look"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Grudge"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Curse"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Shadow Ball"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Ominous Wind"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Dark Pulse"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Imprison"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Heal Block"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Guard Split"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Power Split"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Destiny Bond"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Iron Defense"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Body Press"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Trick Room"
+        }
+    ]
+}

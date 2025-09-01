@@ -1,0 +1,111 @@
+{
+    "Number": 283,
+    "DexID": "0283",
+    "Name": "Surskit",
+    "Type1": "Bug",
+    "Type2": "Water",
+    "BaseHP": 3,
+    "Strength": 1,
+    "MaxStrength": 3,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 1,
+    "MaxVitality": 3,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Swift Swim",
+    "Ability2": "Rain Dish",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Starter",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "surskit",
+    "DexCategory": "Pond Skater Pokémon",
+    "Height": {
+        "Meters": 0.5,
+        "Feet": 1.6
+    },
+    "Weight": {
+        "Kilograms": 1,
+        "Pounds": 2
+    },
+    "DexDescription": "Surskit secretes oil from its feet to skate on water. It may be found on ponds, lakes and puddles in towns. The tip of its head produces a delicious sugary syrup often used in desserts and sweets.",
+    "Evolutions": [
+        {
+            "To": "Masquerain",
+            "Kind": "Level",
+            "Speed": "Fast"
+        }
+    ],
+    "Image": "surskit.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Water Gun"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Quick Attack"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Sweet Scent"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Bubble"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Soak"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Water Sport"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Agility"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Haze"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Mist"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Sticky Web"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Bubble Beam"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Aqua Jet"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Baton Pass"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Signal Beam"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Mud Shot"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Hydro Pump"
+        }
+    ]
+}

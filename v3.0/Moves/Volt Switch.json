@@ -1,0 +1,18 @@
+{
+    "Name": "Volt Switch",
+    "Type": "Electric",
+    "Power": 2,
+    "Damage1": "Special",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Channel",
+    "Target": "Foe",
+    "Effect": " Single Target. Switcher Move for the User.",
+    "Description": "The User quickly shoots an electricity jolt, then switches places with an awaiting Pokémon partner at the speed of lightning.",
+    "_id": "volt-switch",
+    "Attributes": {
+        "SwitcherMove": true
+    },
+    "AddedEffects": {},
+    "Category": "Special"
+}

@@ -1,0 +1,147 @@
+{
+    "Number": 571,
+    "DexID": "0571",
+    "Name": "Zoroark (Hisuian Form)",
+    "Type1": "Normal",
+    "Type2": "Ghost",
+    "BaseHP": 4,
+    "Strength": 3,
+    "MaxStrength": 6,
+    "Dexterity": 3,
+    "MaxDexterity": 6,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 3,
+    "MaxSpecial": 7,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Illusion",
+    "Ability2": "",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Expert",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "zoroark-hisuian-form",
+    "DexCategory": "Illusion Fox Pokémon",
+    "Height": {
+        "Meters": 1.9,
+        "Feet": 6.2
+    },
+    "Weight": {
+        "Kilograms": 105,
+        "Pounds": 203
+    },
+    "DexDescription": "Hisuian scrolls show a Pokémon who attacked so intensely, its own attacks wounded its flesh: scary tales of a white beast who was the embodiment of death. The identity of this Pokémon remains unknown.",
+    "Evolutions": [
+        {
+            "From": "Zorua (Hisuian Form)",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "zoroark-hisuian-form.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Scratch"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Leer"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Shadow Sneak"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Hone Claws"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Fury Swipes"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Curse"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Double Team"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Copycat"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Torment"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Taunt"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Shadow Ball"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Knock Off"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Spite"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Agility"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Shadow Claw"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "U-Turn"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Imprison"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Embargo"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Punishment"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Bitter Malice"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Phantom Force"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Foul Play"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Snowscape"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Detect"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Comeuppance"
+        }
+    ]
+}

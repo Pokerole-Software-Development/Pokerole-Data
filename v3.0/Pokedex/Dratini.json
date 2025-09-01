@@ -1,0 +1,119 @@
+{
+    "Number": 147,
+    "DexID": "0147",
+    "Name": "Dratini",
+    "Type1": "Dragon",
+    "Type2": "",
+    "BaseHP": 3,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Shed Skin",
+    "Ability2": "Marvel Scale",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Rookie",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "dratini",
+    "DexCategory": "Dragon Pokémon",
+    "Height": {
+        "Meters": 1.8,
+        "Feet": 5.9
+    },
+    "Weight": {
+        "Kilograms": 3.3,
+        "Pounds": 7.3
+    },
+    "DexDescription": "Up until recently its existence was debated as being a mere legend, then a small colony was found underwater. It is still extremely rare to find. It sheds skin and grows larger every day.",
+    "Evolutions": [
+        {
+            "To": "Dragonair",
+            "Kind": "Level",
+            "Speed": "Slow"
+        }
+    ],
+    "Image": "dratini.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Wrap"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Leer"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Thunder Wave"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Twister"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Dragon Rage"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Slam"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Agility"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Dragon Tail"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Aqua Tail"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Dragon Rush"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Safeguard"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Rain Dance"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Dragon Dance"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Outrage"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Hyper Beam"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Aqua Jet"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Scale Shot"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Extreme Speed"
+        }
+    ]
+}

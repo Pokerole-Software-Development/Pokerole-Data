@@ -1,0 +1,147 @@
+{
+    "Number": 655,
+    "DexID": "0655",
+    "Name": "Delphox",
+    "Type1": "Fire",
+    "Type2": "Psychic",
+    "BaseHP": 5,
+    "Strength": 2,
+    "MaxStrength": 5,
+    "Dexterity": 3,
+    "MaxDexterity": 6,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 3,
+    "MaxSpecial": 6,
+    "Insight": 3,
+    "MaxInsight": 6,
+    "Ability1": "Blaze",
+    "Ability2": "Magician",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Expert",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "delphox",
+    "DexCategory": "Fox Pokémon",
+    "Height": {
+        "Meters": 1.5,
+        "Feet": 4.9
+    },
+    "Weight": {
+        "Kilograms": 58.0,
+        "Pounds": 127
+    },
+    "DexDescription": "It swirls its twig to create amazing flamethrowers. It gazes into the flame at the tip of its stick to achieve a focused state; rumor says that it can see the future within the glowing ember.",
+    "Evolutions": [
+        {
+            "From": "Braixen",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "delphox.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Scratch"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Tail Whip"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Ember"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Howl"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Flame Charge"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Psybeam"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Fire Spin"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Mystical Fire"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Lucky Chant"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Shadow Ball"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Light Screen"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Psyshock"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Flamethrower"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Will-o-Wisp"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Psychic"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Dazzling Gleam"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Sunny Day"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Magic Room"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Magic Coat"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Fire Blast"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Future Sight"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Wish"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Shock Wave"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Telekinesis"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Blast Burn"
+        }
+    ]
+}

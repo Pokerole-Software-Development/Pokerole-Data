@@ -1,0 +1,135 @@
+{
+    "Number": 184,
+    "DexID": "0184",
+    "Name": "Azumarill",
+    "Type1": "Water",
+    "Type2": "Fairy",
+    "BaseHP": 6,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Huge Power",
+    "Ability2": "Sap Sipper",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Advanced",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "azumarill",
+    "DexCategory": "Aqua Rabbit Pokémon",
+    "Height": {
+        "Meters": 0.8,
+        "Feet": 2.6
+    },
+    "Weight": {
+        "Kilograms": 28.5,
+        "Pounds": 62.8
+    },
+    "DexDescription": "It stays in water virtually all day long. Its blue fur makes it difficult to spot when submerged. Azumarill uses its sensitive ears to locate prey even underwater. They are not aggressive and even get close to humans.",
+    "Evolutions": [
+        {
+            "From": "Marill",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "azumarill.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Water Gun"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Tail Whip"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Water Sport"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Bubble"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Defense Curl"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Rollout"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Bubble Beam"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Helping Hand"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Charm"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Rain Dance"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Aqua Tail"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Bounce"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Play Rough"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Aqua Ring"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Double-Edge"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Hydro Pump"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Superpower"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Steel Roller"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Aqua Jet"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Belly Drum"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Misty Explosion"
+        }
+    ]
+}

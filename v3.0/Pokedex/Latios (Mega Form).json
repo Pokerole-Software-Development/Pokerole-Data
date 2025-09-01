@@ -1,0 +1,131 @@
+{
+    "Number": 381,
+    "DexID": "0381M1",
+    "Name": "Latios (Mega Form)",
+    "Type1": "Dragon",
+    "Type2": "Psychic",
+    "BaseHP": 6,
+    "Strength": 7,
+    "MaxStrength": 7,
+    "Dexterity": 6,
+    "MaxDexterity": 6,
+    "Vitality": 6,
+    "MaxVitality": 6,
+    "Special": 8,
+    "MaxSpecial": 8,
+    "Insight": 7,
+    "MaxInsight": 7,
+    "Ability1": "Levitate",
+    "Ability2": "",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Master",
+    "GenderType": "M",
+    "Legendary": true,
+    "GoodStarter": false,
+    "_id": "latios-mega-form",
+    "DexCategory": "No Data",
+    "Height": {
+        "Meters": 2.3,
+        "Feet": 7.5
+    },
+    "Weight": {
+        "Kilograms": 70.0,
+        "Pounds": 154.3
+    },
+    "DexDescription": "Latios is very in sync with human logic; it can communicate using telepathy. With the power of the Mega Stone, all of its capabilities are enhanced, although its personality becomes more caring than usual.",
+    "Evolutions": [
+        {
+            "From": "Latios",
+            "Kind": "Mega",
+            "Item": "Latiasite"
+        }
+    ],
+    "Image": "latios-mega-form.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Helping Hand"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Safeguard"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Psywave"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Heal Block"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Protect"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Dragon Dance"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Stored Power"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Refresh"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Heal Pulse"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Dragon Breath"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Luster Purge"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Psycho Shift"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Recover"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Telekinesis"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Zen Headbutt"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Power Split"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Psychic"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Dragon Pulse"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Memento"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Camouflage"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Role Play"
+        }
+    ]
+}

@@ -1,0 +1,139 @@
+{
+    "Number": 735,
+    "DexID": "0735",
+    "Name": "Gumshoos",
+    "Type1": "Normal",
+    "Type2": "",
+    "BaseHP": 4,
+    "Strength": 3,
+    "MaxStrength": 6,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Stakeout",
+    "Ability2": "Strong Jaw",
+    "HiddenAbility": "Adaptability",
+    "EventAbilities": "",
+    "RecommendedRank": "Amateur",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "gumshoos",
+    "DexCategory": "Stakeout Pokémon",
+    "Height": {
+        "Meters": 0.7,
+        "Feet": 2.3
+    },
+    "Weight": {
+        "Kilograms": 14.2,
+        "Pounds": 31.3
+    },
+    "DexDescription": "Alolan Ratatta became nocturnal to evade this Pokémon, as it is their main predator. Gumshoos now go hungry for days before they find something suitable to eat; they compensate by sleeping a lot.",
+    "Evolutions": [
+        {
+            "From": "Yungoos",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "gumshoos.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Leer"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Pursuit"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Sand Attack"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Odor Sleuth"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Bide"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Bite"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Mud Slap"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Fire Fang"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Ice Fang"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Thunder Fang"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Super Fang"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Take Down"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Scary Face"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Yawn"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Hyper Fang"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Crunch"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Thrash"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Endeavor"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Rest"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Taunt"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Sleep Talk"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Last Resort"
+        }
+    ]
+}

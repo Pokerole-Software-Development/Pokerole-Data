@@ -1,0 +1,111 @@
+{
+    "Number": 955,
+    "DexID": "0955",
+    "Name": "Flittle",
+    "Type1": "Psychic",
+    "Type2": "",
+    "BaseHP": 3,
+    "Strength": 1,
+    "MaxStrength": 3,
+    "Dexterity": 2,
+    "MaxDexterity": 5,
+    "Vitality": 1,
+    "MaxVitality": 3,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 1,
+    "MaxInsight": 3,
+    "Ability1": "Anticipation",
+    "Ability2": "Frisk",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Starter",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "flittle",
+    "DexCategory": "Frill Pokémon",
+    "Height": {
+        "Meters": 0.2,
+        "Feet": 0.7
+    },
+    "Weight": {
+        "Kilograms": 1.5,
+        "Pounds": 3.3
+    },
+    "DexDescription": "Surprisingly fast for their size. You can find them running around in the desert, using their psychic power to increase their speed. They have a reputation for relentlessly chasing after anyone taking berries from them.",
+    "Evolutions": [
+        {
+            "To": "Espathra",
+            "Kind": "Level",
+            "Speed": "Slow"
+        }
+    ],
+    "Image": "flittle.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Peck"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Growl"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Confusion"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Baby-Doll Eyes"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Disarming Voice"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Quick Attack"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Psybeam"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Pluck"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Swift"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Hypnosis"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Agility"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Roost"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Uproar"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Psyshock"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Helping Hand"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Ally Switch"
+        }
+    ]
+}

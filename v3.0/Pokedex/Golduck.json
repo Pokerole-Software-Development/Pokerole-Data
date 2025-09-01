@@ -1,0 +1,135 @@
+{
+    "Number": 55,
+    "DexID": "0055",
+    "Name": "Golduck",
+    "Type1": "Water",
+    "Type2": "",
+    "BaseHP": 5,
+    "Strength": 2,
+    "MaxStrength": 5,
+    "Dexterity": 2,
+    "MaxDexterity": 5,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 3,
+    "MaxSpecial": 6,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Cloud Nine",
+    "Ability2": "Swift Swim",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Advanced",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "golduck",
+    "DexCategory": "Duck Pokémon",
+    "Height": {
+        "Meters": 1.7,
+        "Feet": 5.6
+    },
+    "Weight": {
+        "Kilograms": 76.6,
+        "Pounds": 168.9
+    },
+    "DexDescription": "A Golduck is a very good swimmer and can be found near most bodies of water. Its forehead shimmers with light when using its psychic abilities. There are records of wild Golduck that rescued people in the water.",
+    "Evolutions": [
+        {
+            "From": "Psyduck",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "golduck.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Water Sport"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Scratch"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Tail Whip"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Water Gun"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Disable"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Confusion"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Amnesia"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Aqua Jet"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Water Pulse"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Fury Swipes"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Screech"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Soak"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Zen Headbutt"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Psych Up"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Aqua Tail"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Me First"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Hydro Pump"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Wonder Room"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Flip Turn"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Confuse Ray"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Tri Attack"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Future Sight"
+        }
+    ]
+}

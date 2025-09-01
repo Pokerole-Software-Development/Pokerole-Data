@@ -1,0 +1,119 @@
+{
+    "Number": 347,
+    "DexID": "0347",
+    "Name": "Anorith",
+    "Type1": "Rock",
+    "Type2": "Bug",
+    "BaseHP": 3,
+    "Strength": 3,
+    "MaxStrength": 6,
+    "Dexterity": 2,
+    "MaxDexterity": 5,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 1,
+    "MaxSpecial": 3,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Battle Armor",
+    "Ability2": "Swift Swim",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Rookie",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "anorith",
+    "DexCategory": "Old Shrimp Pokémon",
+    "Height": {
+        "Meters": 0.7,
+        "Feet": 2.3
+    },
+    "Weight": {
+        "Kilograms": 12.5,
+        "Pounds": 27.6
+    },
+    "DexDescription": "This ancient Pokémon is thought to be the common ancestor of many modern Bug Pokémon. The fossils show it lived in big schools and it preferred warm waters. Anorith used their claws to catch small prey.",
+    "Evolutions": [
+        {
+            "To": "Armaldo",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "anorith.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Scratch"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Harden"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Mud Sport"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Fury Cutter"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Water Gun"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Smack Down"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Metal Claw"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Ancient Power"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Bug Bite"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Slash"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Brine"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Crush Claw"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Protect"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Rock Blast"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "X-Scissor"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Hone Claws"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Rapid Spin"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Aqua Jet"
+        }
+    ]
+}

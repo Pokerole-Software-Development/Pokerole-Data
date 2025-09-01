@@ -1,0 +1,111 @@
+{
+    "Number": 938,
+    "DexID": "0938",
+    "Name": "Tadbulb",
+    "Type1": "Electric",
+    "Type2": "",
+    "BaseHP": 3,
+    "Strength": 1,
+    "MaxStrength": 3,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 1,
+    "MaxVitality": 3,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 1,
+    "MaxInsight": 3,
+    "Ability1": "Own Tempo",
+    "Ability2": "Static",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Rookie",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "tadbulb",
+    "DexCategory": "EleTadpole Pokémon",
+    "Height": {
+        "Meters": 0.3,
+        "Feet": 1.0
+    },
+    "Weight": {
+        "Kilograms": 0.4,
+        "Pounds": 0.9
+    },
+    "DexDescription": "This Pokémon generates electricity by shaking its tail. You can see them in swampy ponds as blinking lights in the water. When in danger, it will alert its peers by blinking rapidly. Thunderclouds make them rise to the surface.",
+    "Evolutions": [
+        {
+            "To": "Bellibolt",
+            "Kind": "Stone",
+            "Stone": "Thunder Stone"
+        }
+    ],
+    "Image": "tadbulb.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Mud Slap"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Thunder Shock"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Water Gun"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Charge"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Spark"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Mud Shot"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Flail"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Discharge"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Weather Ball"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Electric Terrain"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Sucker Punch"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Zap Cannon"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Soak"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Parabolic Charge"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Water Pulse"
+        }
+    ]
+}

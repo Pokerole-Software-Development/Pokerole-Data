@@ -1,0 +1,119 @@
+{
+    "Number": 438,
+    "DexID": "0438",
+    "Name": "Bonsly",
+    "Type1": "Rock",
+    "Type2": "",
+    "BaseHP": 3,
+    "Strength": 2,
+    "MaxStrength": 5,
+    "Dexterity": 1,
+    "MaxDexterity": 2,
+    "Vitality": 3,
+    "MaxVitality": 6,
+    "Special": 1,
+    "MaxSpecial": 2,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Sturdy",
+    "Ability2": "Rattled",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Starter",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "bonsly",
+    "DexCategory": "Bonsai Pokémon",
+    "Height": {
+        "Meters": 0.5,
+        "Feet": 1.6
+    },
+    "Weight": {
+        "Kilograms": 15.0,
+        "Pounds": 33.1
+    },
+    "DexDescription": "They thrive in arid places. It looks like it's crying all the time, but it's actually adjusting the moisture of its body and releasing excess water. Over time, they become excellent at impersonating trees.",
+    "Evolutions": [
+        {
+            "To": "Sudowoodo",
+            "Kind": "Level",
+            "Move": "Mimic"
+        }
+    ],
+    "Image": "bonsly.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Fake Tears"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Flail"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Rock Throw"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Low Kick"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Copycat"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Feint Attack"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Hold Hands"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Mimic"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Rock Tomb"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Tearful Look"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Block"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Counter"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Rock Slide"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Sucker Punch"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Double-Edge"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Sand Tomb"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Foul Play"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Rock Polish"
+        }
+    ]
+}

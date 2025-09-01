@@ -1,0 +1,139 @@
+{
+    "Number": 685,
+    "DexID": "0685",
+    "Name": "Slurpuff",
+    "Type1": "Fairy",
+    "Type2": "",
+    "BaseHP": 5,
+    "Strength": 2,
+    "MaxStrength": 5,
+    "Dexterity": 2,
+    "MaxDexterity": 5,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 2,
+    "MaxSpecial": 5,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Sweet Veil",
+    "Ability2": "Unburden",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Advanced",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "slurpuff",
+    "DexCategory": "Meringue Pokémon",
+    "Height": {
+        "Meters": 0.8,
+        "Feet": 2.6
+    },
+    "Weight": {
+        "Kilograms": 5.0,
+        "Pounds": 11.0
+    },
+    "DexDescription": "This Pokémon lives in human cities and towns. It has an extremely keen sense of smell. It puts its sensitive nose to use by helping bakers and chefs to find the most delicious ingredients.",
+    "Evolutions": [
+        {
+            "From": "Swirlix",
+            "Kind": "Trade",
+            "Item": "Whipped Dream"
+        }
+    ],
+    "Image": "slurpuff.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Sweet Scent"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Play Nice"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Fairy Wind"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Aromatherapy"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Draining Kiss"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Fake Tears"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Round"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "String Shot"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Cotton Spore"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Substitute"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Charm"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Energy Ball"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Wish"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Light Screen"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Gastro Acid"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Sticky Web"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Cotton Guard"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Play Rough"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Giga Impact"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Belly Drum"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Drain Punch"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Copycat"
+        }
+    ]
+}

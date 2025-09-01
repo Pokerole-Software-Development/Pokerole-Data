@@ -1,0 +1,127 @@
+{
+    "Number": 749,
+    "DexID": "0749",
+    "Name": "Mudbray",
+    "Type1": "Ground",
+    "Type2": "",
+    "BaseHP": 3,
+    "Strength": 3,
+    "MaxStrength": 6,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Own Tempo",
+    "Ability2": "Stamina",
+    "HiddenAbility": "Inner Focus",
+    "EventAbilities": "",
+    "RecommendedRank": "Rookie",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "mudbray",
+    "DexCategory": "Donkey Pokémon",
+    "Height": {
+        "Meters": 1.0,
+        "Feet": 3.3
+    },
+    "Weight": {
+        "Kilograms": 110.0,
+        "Pounds": 242.5
+    },
+    "DexDescription": "They are very strong. The mud on their hooves serves them as grip to pull themselves forward. They enjoy prancing in muddy places and will become stubborn and disobedient if denied that pleasure.",
+    "Evolutions": [
+        {
+            "To": "Mudsdale",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "mudbray.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Mud Slap"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Mud Sport"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Rock Smash"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Double Kick"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Iron Defense"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Bulldoze"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Rototiller"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Stomp"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Bide"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Counter"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Strength"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "High Horsepower"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Heavy Slam"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Magnitude"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Mega Kick"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Earthquake"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Superpower"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Stomping Tantrum"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Mud Bomb"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Endure"
+        }
+    ]
+}

@@ -1,0 +1,150 @@
+{
+    "Number": 483,
+    "DexID": "0483F1",
+    "Name": "Dialga (Origin Form)",
+    "Type1": "Steel",
+    "Type2": "Dragon",
+    "BaseHP": 8,
+    "Strength": 8,
+    "MaxStrength": 8,
+    "Dexterity": 6,
+    "MaxDexterity": 6,
+    "Vitality": 10,
+    "MaxVitality": 10,
+    "Special": 11,
+    "MaxSpecial": 11,
+    "Insight": 10,
+    "MaxInsight": 10,
+    "Ability1": "Pressure",
+    "Ability2": "Telepathy",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Champion",
+    "GenderType": "N",
+    "Legendary": true,
+    "GoodStarter": false,
+    "_id": "dialga-origin-form",
+    "DexCategory": "No Data",
+    "Height": {
+        "Meters": 7,
+        "Feet": 23
+    },
+    "Weight": {
+        "Kilograms": 850,
+        "Pounds": 1874
+    },
+    "DexDescription": "Religious lore talks about Arceus' secondborn, the ruler of time. The creator made its children in its image, but slightly less powerful so as to not repeat the mistake of its destructive firstborn.",
+    "Evolutions": [
+        {
+            "From": "Dialga",
+            "Kind": "Form"
+        }
+    ],
+    "Image": "dialga-origin-form.png",
+    "Moves": [
+        {
+            "Learned": "Champion",
+            "Name": "Dragon Breath"
+        },
+        {
+            "Learned": "Champion",
+            "Name": "Scary Face"
+        },
+        {
+            "Learned": "Champion",
+            "Name": "Metal Claw"
+        },
+        {
+            "Learned": "Champion",
+            "Name": "Ancient Power"
+        },
+        {
+            "Learned": "Champion",
+            "Name": "Slash"
+        },
+        {
+            "Learned": "Champion",
+            "Name": "Power Gem"
+        },
+        {
+            "Learned": "Champion",
+            "Name": "Flash Cannon"
+        },
+        {
+            "Learned": "Champion",
+            "Name": "Dragon Claw"
+        },
+        {
+            "Learned": "Champion",
+            "Name": "Metal Burst"
+        },
+        {
+            "Learned": "Champion",
+            "Name": "Aura Sphere"
+        },
+        {
+            "Learned": "Champion",
+            "Name": "Earth Power"
+        },
+        {
+            "Learned": "Champion",
+            "Name": "Iron Tail"
+        },
+        {
+            "Learned": "Champion",
+            "Name": "Safeguard"
+        },
+        {
+            "Learned": "Champion",
+            "Name": "Protect"
+        },
+        {
+            "Learned": "Champion",
+            "Name": "Trick Room"
+        },
+        {
+            "Learned": "Champion",
+            "Name": "Hidden Power"
+        },
+        {
+            "Learned": "Champion",
+            "Name": "Heavy Slam"
+        },
+        {
+            "Learned": "Champion",
+            "Name": "Psych Up"
+        },
+        {
+            "Learned": "Champion",
+            "Name": "Dragon Pulse"
+        },
+        {
+            "Learned": "Champion",
+            "Name": "Iron Defense"
+        },
+        {
+            "Learned": "Champion",
+            "Name": "Echoed Voice"
+        },
+        {
+            "Learned": "Champion",
+            "Name": "Magnet Rise"
+        },
+        {
+            "Learned": "Champion",
+            "Name": "Draco Meteor"
+        },
+        {
+            "Learned": "Champion",
+            "Name": "Hyper Beam"
+        },
+        {
+            "Learned": "Champion",
+            "Name": "Steel Beam"
+        },
+        {
+            "Learned": "Champion",
+            "Name": "Roar of Time"
+        }
+    ]
+}

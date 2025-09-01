@@ -1,0 +1,150 @@
+{
+    "Number": 479,
+    "DexID": "0479",
+    "Name": "Rotom",
+    "Type1": "Electric",
+    "Type2": "Ghost",
+    "BaseHP": 4,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 2,
+    "MaxDexterity": 5,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 3,
+    "MaxSpecial": 6,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Levitate",
+    "Ability2": "",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Advanced",
+    "GenderType": "N",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "rotom",
+    "DexCategory": "Plasma Pokémon",
+    "Height": {
+        "Meters": 0.3,
+        "Feet": 1.0
+    },
+    "Weight": {
+        "Kilograms": 0.3,
+        "Pounds": 0.7
+    },
+    "DexDescription": "Its electric body can merge with certain machines to take control of them and cause mischief and chaos. It changes its form to that of an electric appliance, allowing it to become more powerful.",
+    "Evolutions": [
+        {
+            "To": "Rotom (Heat Form)",
+            "Kind": "Form"
+        },
+        {
+            "To": "Rotom (Fan Form)",
+            "Kind": "Form"
+        },
+        {
+            "To": "Rotom (Mow Form)",
+            "Kind": "Form"
+        },
+        {
+            "To": "Rotom (Frost Form)",
+            "Kind": "Form"
+        },
+        {
+            "To": "Rotom (Wash Form)",
+            "Kind": "Form"
+        },
+        {
+            "To": "Rotom (Dex Form)",
+            "Kind": "Form"
+        }
+    ],
+    "Image": "rotom.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Astonish"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Thunder Wave"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Thunder Shock"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Confuse Ray"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Double Team"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Charge"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Electro Ball"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Shock Wave"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Hex"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Substitute"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Trick"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Discharge"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Thunderbolt"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Shadow Ball"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Uproar"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Dark Pulse"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Thunder"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Nasty Plot"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Poltergeist"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Volt Switch"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Eerie Impulse"
+        }
+    ]
+}

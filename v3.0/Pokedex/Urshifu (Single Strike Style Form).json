@@ -1,0 +1,127 @@
+{
+    "Number": 892,
+    "DexID": "0892F1",
+    "Name": "Urshifu (Single Strike Style Form)",
+    "Type1": "Fighting",
+    "Type2": "Dark",
+    "BaseHP": 6,
+    "Strength": 7,
+    "MaxStrength": 7,
+    "Dexterity": 6,
+    "MaxDexterity": 6,
+    "Vitality": 6,
+    "MaxVitality": 6,
+    "Special": 4,
+    "MaxSpecial": 4,
+    "Insight": 4,
+    "MaxInsight": 4,
+    "Ability1": "Unseen Fist",
+    "Ability2": "",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Ace",
+    "GenderType": "",
+    "Legendary": true,
+    "GoodStarter": false,
+    "_id": "urshifu-single-strike-style-form",
+    "DexCategory": "Wushu Pokémon",
+    "Height": {
+        "Meters": 1.9,
+        "Feet": 6.2
+    },
+    "Weight": {
+        "Kilograms": 105,
+        "Pounds": 231.4
+    },
+    "DexDescription": "This Pokémon passed through a series of trials inside a temple of darkness. Its fighting style is strong and uses a devastating hardened fist. It's a firm believer in exploiting its foe's weaknesses.",
+    "Evolutions": [
+        {
+            "From": "Kubfu",
+            "Kind": "Special",
+            "Special": "Finishing Trials of Darkness"
+        }
+    ],
+    "Image": "urshifu-single-strike-style-form.png",
+    "Moves": [
+        {
+            "Learned": "Ace",
+            "Name": "Wicked Blow"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Sucker Punch"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Rock Smash"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Leer"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Endure"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Focus Energy"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Aerial Ace"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Scary Face"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Headbutt"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Brick Break"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Detect"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Bulk Up"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Iron Head"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Dynamic Punch"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Counter"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Close Combat"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Focus Punch"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Throat Chop"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Lash Out"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Poison Jab"
+        }
+    ]
+}

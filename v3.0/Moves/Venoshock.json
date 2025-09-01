@@ -1,0 +1,16 @@
+{
+    "Name": "Venoshock",
+    "Type": "Poison",
+    "Power": 2,
+    "Damage1": "Special",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Channel",
+    "Target": "Foe",
+    "Effect": "If the Foe is already poisoned, add 2 Extra Dice to the Damage Pool.",
+    "Description": "The Pokemon shoots a special kind of toxin that reacts violently if the foe is already weakened with poison.",
+    "_id": "venoshock",
+    "Attributes": {},
+    "AddedEffects": {},
+    "Category": "Special"
+}

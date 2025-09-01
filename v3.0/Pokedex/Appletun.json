@@ -1,0 +1,135 @@
+{
+    "Number": 842,
+    "DexID": "0842",
+    "Name": "Appletun",
+    "Type1": "Grass",
+    "Type2": "Dragon",
+    "BaseHP": 6,
+    "Strength": 2,
+    "MaxStrength": 5,
+    "Dexterity": 1,
+    "MaxDexterity": 3,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 3,
+    "MaxSpecial": 6,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Ripen",
+    "Ability2": "Thick Fat",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Advanced",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "appletun",
+    "DexCategory": "Apple Nectar Pokémon",
+    "Height": {
+        "Meters": 0.4,
+        "Feet": 1.3
+    },
+    "Weight": {
+        "Kilograms": 13.0,
+        "Pounds": 28.7
+    },
+    "DexDescription": "Eating a sweet apple caused its evolution. A nectarous scent wafts from its body, luring in the bug Pokémon it preys on, but it also attracts other Pokémon who eat the skins atop of its back.",
+    "Evolutions": [
+        {
+            "From": "Applin",
+            "Kind": "Item",
+            "Item": "Sweet Apple"
+        }
+    ],
+    "Image": "appletun.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Withdraw"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Astonish"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Headbutt"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Recycle"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Growth"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Sweet Scent"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Defense Curl"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Rollout"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Curse"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Stomp"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Leech Seed"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Protect"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Bullet Seed"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Recover"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Apple Acid"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Body Slam"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Iron Defense"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Dragon Pulse"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Energy Ball"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Giga Drain"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Solar Beam"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Draco Meteor"
+        }
+    ]
+}

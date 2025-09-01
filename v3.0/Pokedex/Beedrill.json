@@ -1,0 +1,144 @@
+{
+    "Number": 15,
+    "DexID": "0015",
+    "Name": "Beedrill",
+    "Type1": "Bug",
+    "Type2": "Poison",
+    "BaseHP": 5,
+    "Strength": 2,
+    "MaxStrength": 5,
+    "Dexterity": 2,
+    "MaxDexterity": 5,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Swarm",
+    "Ability2": "",
+    "HiddenAbility": "Sniper",
+    "EventAbilities": "",
+    "RecommendedRank": "Standard",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "beedrill",
+    "DexCategory": "Poison Bee Pokémon",
+    "Height": {
+        "Meters": 1.0,
+        "Feet": 3.3
+    },
+    "Weight": {
+        "Kilograms": 29.5,
+        "Pounds": 65.0
+    },
+    "DexDescription": "Beedrill are extremely territorial. For safety reasons, no one should ever approach their nest. If disturbed, they will attack in a swarm. It has three stings. The one on its tail secretes a powerful poison.",
+    "Evolutions": [
+        {
+            "From": "Kakuna",
+            "Kind": "Level",
+            "Speed": "Fast"
+        },
+        {
+            "To": "Beedrill (Mega Form)",
+            "Kind": "Mega",
+            "Item": "Beedrillite"
+        }
+    ],
+    "Image": "beedrill.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Poison Sting"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Focus Energy"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Rage"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Twineedle"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Infestation"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Fury Attack"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Fury Cutter"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Pursuit"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Venoshock"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Ominous Wind"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Assurance"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Pin Missile"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Poison Jab"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Toxic Spikes"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Drill Run"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Agility"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Swords Dance"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Throat Chop"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Fell Stinger"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Endeavor"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Tailwind"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Brick Break"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Outrage"
+        }
+    ]
+}

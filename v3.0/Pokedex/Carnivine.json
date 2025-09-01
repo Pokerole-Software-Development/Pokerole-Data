@@ -1,0 +1,141 @@
+{
+    "Number": 455,
+    "DexID": "0455",
+    "Name": "Carnivine",
+    "Type1": "Grass",
+    "Type2": "",
+    "BaseHP": 5,
+    "Strength": 3,
+    "MaxStrength": 6,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 2,
+    "MaxSpecial": 5,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Levitate",
+    "Ability2": "",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Advanced",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "carnivine",
+    "DexCategory": "Bug Catcher Pokémon",
+    "Height": {
+        "Meters": 1.4,
+        "Feet": 4.6
+    },
+    "Weight": {
+        "Kilograms": 27.0,
+        "Pounds": 59.5
+    },
+    "DexDescription": "It binds itself to trees in marshes. It attracts prey with its sweet-smelling drool and gulps them down in one bite. It can take it a whole day to digest a single prey, but it won't need to eat for at least a week.",
+    "Evolutions": [],
+    "Image": "carnivine.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Bind"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Growth"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Bite"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Vine Whip"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Sweet Scent"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Ingrain"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Stun Spore"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Sleep Powder"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Razor Leaf"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Cut"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Energy Ball"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Acid Spray"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Feint Attack"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Leaf Tornado"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Stockpile"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Spit Up"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Swallow"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Grass Knot"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Seed Bomb"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Crunch"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Wring Out"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Power Whip"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Rage Powder"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Gastro Acid"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Attract"
+        }
+    ]
+}

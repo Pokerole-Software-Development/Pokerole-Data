@@ -1,0 +1,125 @@
+{
+    "Number": 128,
+    "DexID": "0128PC",
+    "Name": "Tauros (Paldean Form) (Combat Form)",
+    "Type1": "Fighting",
+    "Type2": "",
+    "BaseHP": 5,
+    "Strength": 3,
+    "MaxStrength": 7,
+    "Dexterity": 2,
+    "MaxDexterity": 5,
+    "Vitality": 3,
+    "MaxVitality": 6,
+    "Special": 1,
+    "MaxSpecial": 2,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Intimidate",
+    "Ability2": "Anger Point",
+    "HiddenAbility": "Sheer Force",
+    "EventAbilities": "",
+    "RecommendedRank": "Expert",
+    "GenderType": "M",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "tauros",
+    "DexCategory": "Wild Bull Pokémon",
+    "Height": {
+        "Meters": 1.4,
+        "Feet": 4.6
+    },
+    "Weight": {
+        "Kilograms": 230,
+        "Pounds": 507
+    },
+    "DexDescription": "This is a male species. These Tauros are specially bred in Paldea for their thicker muscles and fierce combat disposition. Their horns are shorter than their Common Tauros cousins, but they make up for it with very powerful kicks.",
+    "Evolutions": [],
+    "Image": "tauros-paldean-form-combat-form.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Tail Whip"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Rage"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Double Kick"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Work Up"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Scary Face"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Pursuit"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Headbutt"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Payback"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Raging Bull"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Rest"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Zen Headbutt"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Assurance"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Swagger"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Thrash"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Double-Edge"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Lash Out"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Close Combat"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Body Press"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Drill Run"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Outrage"
+        }
+    ]
+}

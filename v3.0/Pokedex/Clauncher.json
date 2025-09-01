@@ -1,0 +1,123 @@
+{
+    "Number": 692,
+    "DexID": "0692",
+    "Name": "Clauncher",
+    "Type1": "Water",
+    "Type2": "",
+    "BaseHP": 3,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 1,
+    "MaxDexterity": 3,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Mega Launcher",
+    "Ability2": "",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Rookie",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "clauncher",
+    "DexCategory": "Water Gun Pokémon",
+    "Height": {
+        "Meters": 0.5,
+        "Feet": 1.6
+    },
+    "Weight": {
+        "Kilograms": 8.3,
+        "Pounds": 18.3
+    },
+    "DexDescription": "They live on beaches and in shallow waters. They can knock down a flying prey by shooting water from their massive claws. Their meat is delicious, but their tough shell and demeanor keeps predators at bay.",
+    "Evolutions": [
+        {
+            "To": "Clawitzer",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "clauncher.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Splash"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Water Gun"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Water Sport"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Vice Grip"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Bubble"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Flail"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Aqua Jet"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Smack Down"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Hone Claws"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Bubble Beam"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Water Pulse"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Swords Dance"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Bounce"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Aura Sphere"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Muddy Water"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Crabhammer"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Endure"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Icy Wind"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Helping Hand"
+        }
+    ]
+}

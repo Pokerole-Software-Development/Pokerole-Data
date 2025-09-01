@@ -1,0 +1,123 @@
+{
+    "Number": 588,
+    "DexID": "0588",
+    "Name": "Karrablast",
+    "Type1": "Bug",
+    "Type2": "",
+    "BaseHP": 3,
+    "Strength": 2,
+    "MaxStrength": 5,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 1,
+    "MaxSpecial": 3,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Swarm",
+    "Ability2": "Shed Skin",
+    "HiddenAbility": "No Guard",
+    "EventAbilities": "",
+    "RecommendedRank": "Rookie",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "karrablast",
+    "DexCategory": "Clamping Pokémon",
+    "Height": {
+        "Meters": 0.5,
+        "Feet": 1.6
+    },
+    "Weight": {
+        "Kilograms": 5.9,
+        "Pounds": 13.0
+    },
+    "DexDescription": "When they feel threatened, they spit an acidic liquid to drive attackers away. This Pokémon targets Shelmet as they compete for food. It only evolves when it has a Shelmet's shell as its new home.",
+    "Evolutions": [
+        {
+            "To": "Escavalier",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "karrablast.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Peck"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Leer"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Fury Cutter"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Fury Attack"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Endure"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "False Swipe"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Acid Spray"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Headbutt"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Flail"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Scary Face"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "X-Scissor"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Swords Dance"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Slash"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Take Down"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Bug Buzz"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Double-Edge"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Feint Attack"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Bug Bite"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Horn Attack"
+        }
+    ]
+}

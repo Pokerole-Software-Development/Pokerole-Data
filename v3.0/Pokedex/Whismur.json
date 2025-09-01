@@ -1,0 +1,111 @@
+{
+    "Number": 293,
+    "DexID": "0293",
+    "Name": "Whismur",
+    "Type1": "Normal",
+    "Type2": "",
+    "BaseHP": 3,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 1,
+    "MaxDexterity": 3,
+    "Vitality": 1,
+    "MaxVitality": 3,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 1,
+    "MaxInsight": 3,
+    "Ability1": "Soundproof",
+    "Ability2": "Rattled",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Starter",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "whismur",
+    "DexCategory": "Whisper Pokémon",
+    "Height": {
+        "Meters": 0.6,
+        "Feet": 2.0
+    },
+    "Weight": {
+        "Kilograms": 16.3,
+        "Pounds": 35.9
+    },
+    "DexDescription": "Their timid voice is barely audible, however, if it senses danger, they start crying loud enough to deafen anyone nearby. Their own noise scares them even more, so they cry harder until their ear covers shut.",
+    "Evolutions": [
+        {
+            "To": "Loudred",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "whismur.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Pound"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Astonish"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Howl"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Echoed Voice"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Rest"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Sleep Talk"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Stomp"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Roar"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Supersonic"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Screech"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Uproar"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Synchronoise"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Hyper Voice"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Disarming Voice"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Fake Tears"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Snore"
+        }
+    ]
+}

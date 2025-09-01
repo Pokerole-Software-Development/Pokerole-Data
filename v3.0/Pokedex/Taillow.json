@@ -1,0 +1,111 @@
+{
+    "Number": 276,
+    "DexID": "0276",
+    "Name": "Taillow",
+    "Type1": "Normal",
+    "Type2": "Flying",
+    "BaseHP": 3,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 2,
+    "MaxDexterity": 5,
+    "Vitality": 1,
+    "MaxVitality": 3,
+    "Special": 1,
+    "MaxSpecial": 3,
+    "Insight": 1,
+    "MaxInsight": 3,
+    "Ability1": "Guts",
+    "Ability2": "Scrappy",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Rookie",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "taillow",
+    "DexCategory": "Tiny Swallow Pokémon",
+    "Height": {
+        "Meters": 0.3,
+        "Feet": 1.0
+    },
+    "Weight": {
+        "Kilograms": 2.3,
+        "Pounds": 5.1
+    },
+    "DexDescription": "They are brave and noble when facing bigger foes whoever they might be. However, being just a child, it usually feels lonely and cries at night. They can be seen migrating south in the winter.",
+    "Evolutions": [
+        {
+            "To": "Swellow",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "taillow.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Peck"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Growl"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Focus Energy"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Quick Attack"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Wing Attack"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Double Team"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Quick Guard"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Air Slash"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Aerial Ace"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Agility"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Endeavor"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Reversal"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Brave Bird"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Endure"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Rage"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Refresh"
+        }
+    ]
+}

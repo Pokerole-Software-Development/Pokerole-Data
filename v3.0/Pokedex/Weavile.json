@@ -1,0 +1,159 @@
+{
+    "Number": 461,
+    "DexID": "0461",
+    "Name": "Weavile",
+    "Type1": "Dark",
+    "Type2": "Ice",
+    "BaseHP": 5,
+    "Strength": 3,
+    "MaxStrength": 7,
+    "Dexterity": 3,
+    "MaxDexterity": 7,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Pressure",
+    "Ability2": "Pickpocket",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Expert",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "weavile",
+    "DexCategory": "Sharp Claw Pokémon",
+    "Height": {
+        "Meters": 1.1,
+        "Feet": 3.6
+    },
+    "Weight": {
+        "Kilograms": 34.0,
+        "Pounds": 75.0
+    },
+    "DexDescription": "They live in cold regions, forming groups of four that hunt prey with impressive coordination. They leave claw marks and patterns to indicate their territory. They are devious and love to cause trouble.",
+    "Evolutions": [
+        {
+            "From": "Sneasel",
+            "Kind": "Level",
+            "Item": "Razor Claw"
+        }
+    ],
+    "Image": "weavile.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Leer"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Scratch"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Taunt"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Quick Attack"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Feint Attack"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Embargo"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Assurance"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Icy Wind"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Fury Swipes"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Agility"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Metal Claw"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Revenge"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Nasty Plot"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Hone Claws"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Beat Up"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Screech"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Fling"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Slash"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Snatch"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Night Slash"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Ice Shard"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Poison Jab"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Swords Dance"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Punishment"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Dark Pulse"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Icicle Crash"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Fake Out"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Low Kick"
+        }
+    ]
+}

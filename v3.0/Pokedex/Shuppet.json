@@ -1,0 +1,127 @@
+{
+    "Number": 353,
+    "DexID": "0353",
+    "Name": "Shuppet",
+    "Type1": "Ghost",
+    "Type2": "",
+    "BaseHP": 3,
+    "Strength": 2,
+    "MaxStrength": 5,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 1,
+    "MaxVitality": 3,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 1,
+    "MaxInsight": 3,
+    "Ability1": "Frisk",
+    "Ability2": "Insomnia",
+    "HiddenAbility": "Cursed Body",
+    "EventAbilities": "",
+    "RecommendedRank": "Rookie",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "shuppet",
+    "DexCategory": "Puppet Pokémon",
+    "Height": {
+        "Meters": 0.6,
+        "Feet": 2.0
+    },
+    "Weight": {
+        "Kilograms": 2.3,
+        "Pounds": 5.1
+    },
+    "DexDescription": "They feed on dark emotions such as envy, jealousy, and vengefulness. If they sting you, they'll fill you with a vindictive desire. They don't have bodies under their blanket and they are looking for a body to possess",
+    "Evolutions": [
+        {
+            "To": "Banette",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "shuppet.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Knock Off"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Screech"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Night Shade"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Spite"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Will-o-Wisp"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Shadow Sneak"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Snatch"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Feint Attack"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Curse"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Hex"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Shadow Ball"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Sucker Punch"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Pain Split"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Embargo"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Grudge"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Trick"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Phantom Force"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Substitute"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Icy Wind"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Role Play"
+        }
+    ]
+}

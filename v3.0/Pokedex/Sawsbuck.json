@@ -1,0 +1,139 @@
+{
+    "Number": 586,
+    "DexID": "0586",
+    "Name": "Sawsbuck",
+    "Type1": "Normal",
+    "Type2": "Grass",
+    "BaseHP": 5,
+    "Strength": 3,
+    "MaxStrength": 6,
+    "Dexterity": 3,
+    "MaxDexterity": 6,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Chlorophyll",
+    "Ability2": "Sap Sipper",
+    "HiddenAbility": "Serene Grace",
+    "EventAbilities": "",
+    "RecommendedRank": "Advanced",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "sawsbuck",
+    "DexCategory": "Season Pokémon",
+    "Height": {
+        "Meters": 1.9,
+        "Feet": 6.2
+    },
+    "Weight": {
+        "Kilograms": 184,
+        "Pounds": 408
+    },
+    "DexDescription": "The plants growing on its horns change according to the season. They live in herds that migrate in search of grass. The leaders of the herd possess magnificent horns. They tend to be peaceful creatures.",
+    "Evolutions": [
+        {
+            "From": "Deerling",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "sawsbuck.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Camouflage"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Growl"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Sand Attack"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Double Kick"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Horn Leech"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Feint Attack"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Leech Seed"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Jump Kick"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Take Down"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Swords Dance"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Sunny Day"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Energy Ball"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Aromatherapy"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Megahorn"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Charm"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Nature Power"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Wild Charge"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Double-Edge"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Solar Beam"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Agility"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Bounce"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Last Resort"
+        }
+    ]
+}

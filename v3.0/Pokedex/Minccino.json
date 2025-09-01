@@ -1,0 +1,127 @@
+{
+    "Number": 572,
+    "DexID": "0572",
+    "Name": "Minccino",
+    "Type1": "Normal",
+    "Type2": "",
+    "BaseHP": 3,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 2,
+    "MaxDexterity": 5,
+    "Vitality": 1,
+    "MaxVitality": 3,
+    "Special": 1,
+    "MaxSpecial": 3,
+    "Insight": 1,
+    "MaxInsight": 3,
+    "Ability1": "Cute Charm",
+    "Ability2": "Technician",
+    "HiddenAbility": "Skill Link",
+    "EventAbilities": "",
+    "RecommendedRank": "Rookie",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "minccino",
+    "DexCategory": "Chinchilla Pokémon",
+    "Height": {
+        "Meters": 0.4,
+        "Feet": 1.3
+    },
+    "Weight": {
+        "Kilograms": 5.8,
+        "Pounds": 12.8
+    },
+    "DexDescription": "They greet one another by rubbing their tails, which are always kept well-groomed and clean. Houseparents love to keep them as pets because they eagerly help to clean the house.",
+    "Evolutions": [
+        {
+            "To": "Cinccino",
+            "Kind": "Stone",
+            "Item": "Shiny Stone"
+        }
+    ],
+    "Image": "minccino.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Pound"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Baby-Doll Eyes"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Helping Hand"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Double Slap"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Echoed Voice"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Sing"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Charm"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Swift"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Encore"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "After You"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Tail Slap"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Tickle"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Slam"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Captivate"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Hyper Voice"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Wake-Up Slap"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Last Resort"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Aqua Tail"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Iron Tail"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Seed Bomb"
+        }
+    ]
+}

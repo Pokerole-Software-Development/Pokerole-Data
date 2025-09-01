@@ -1,0 +1,135 @@
+{
+    "Number": 210,
+    "DexID": "0210",
+    "Name": "Granbull",
+    "Type1": "Fairy",
+    "Type2": "",
+    "BaseHP": 5,
+    "Strength": 3,
+    "MaxStrength": 7,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Intimidate",
+    "Ability2": "Quick Feet",
+    "HiddenAbility": "Rattled",
+    "EventAbilities": "",
+    "RecommendedRank": "Advanced",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "granbull",
+    "DexCategory": "Fairy Pokémon",
+    "Height": {
+        "Meters": 1.4,
+        "Feet": 4.6
+    },
+    "Weight": {
+        "Kilograms": 48.7,
+        "Pounds": 107.4
+    },
+    "DexDescription": "Granbull is usually a timid creature that is easily spooked. Its fangs are extremely powerful and scary so no one dares to mess with it or its loved ones. It will use its giant fangs to attack if it needs to.",
+    "Evolutions": [
+        {
+            "From": "Snubbull",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "granbull.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Tail Whip"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Charm"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Scary Face"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Fire Fang"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Ice Fang"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Thunder Fang"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Bite"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Lick"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Headbutt"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Roar"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Taunt"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Rage"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Play Rough"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Payback"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Crunch"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Super Fang"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Close Combat"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Outrage"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Strength"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Heal Bell"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Stomping Tantrum"
+        }
+    ]
+}

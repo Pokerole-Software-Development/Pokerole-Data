@@ -1,0 +1,123 @@
+{
+    "Number": 41,
+    "DexID": "0041",
+    "Name": "Zubat",
+    "Type1": "Poison",
+    "Type2": "Flying",
+    "BaseHP": 3,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 1,
+    "MaxVitality": 3,
+    "Special": 1,
+    "MaxSpecial": 3,
+    "Insight": 1,
+    "MaxInsight": 3,
+    "Ability1": "Inner Focus",
+    "Ability2": "Infiltrator",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Starter",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "zubat",
+    "DexCategory": "Bat Pokémon",
+    "Height": {
+        "Meters": 0.8,
+        "Feet": 2.6
+    },
+    "Weight": {
+        "Kilograms": 7.5,
+        "Pounds": 16.5
+    },
+    "DexDescription": "It lives in dark caves all around the world. Prolonged exposure to the sun will make it unhealthy. It is blind but uses echolocation to find its way. At night, they leave their cave to feed on fruit and bug Pokémon.",
+    "Evolutions": [
+        {
+            "To": "Golbat",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "zubat.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Absorb"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Supersonic"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Astonish"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Bite"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Wing Attack"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Confuse Ray"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Air Cutter"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Poison Fang"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Swift"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Quick Guard"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Leech Life"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Mean Look"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Haze"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Acrobatics"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Venoshock"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Air Slash"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Nasty Plot"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Super Fang"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Venom Drench"
+        }
+    ]
+}

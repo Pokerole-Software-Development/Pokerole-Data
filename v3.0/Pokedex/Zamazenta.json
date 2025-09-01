@@ -1,0 +1,114 @@
+{
+    "Number": 889,
+    "DexID": "0889",
+    "Name": "Zamazenta",
+    "Type1": "Fighting",
+    "Type2": "",
+    "BaseHP": 5,
+    "Strength": 7,
+    "MaxStrength": 7,
+    "Dexterity": 7,
+    "MaxDexterity": 7,
+    "Vitality": 6,
+    "MaxVitality": 6,
+    "Special": 5,
+    "MaxSpecial": 5,
+    "Insight": 6,
+    "MaxInsight": 6,
+    "Ability1": "Dauntless Shield",
+    "Ability2": "",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Ace",
+    "GenderType": "N",
+    "Legendary": true,
+    "GoodStarter": false,
+    "_id": "zamazenta",
+    "DexCategory": "No Data",
+    "Height": {
+        "Meters": 2.9,
+        "Feet": 9.5
+    },
+    "Weight": {
+        "Kilograms": 210.0,
+        "Pounds": 463.0
+    },
+    "DexDescription": "There is a legend of a hero who through sheer might wielded the shield of heroes to protect the people from the greatest evil.",
+    "Evolutions": [
+        {
+            "To": "Zamazenta (Crown Form)",
+            "Kind": "Form"
+        }
+    ],
+    "Image": "zamazenta.png",
+    "Moves": [
+        {
+            "Learned": "Ace",
+            "Name": "Metal Burst"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Wide Guard"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Metal Claw"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Howl"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Quick Attack"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Bite"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Slash"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Swords Dance"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Iron Head"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Laser Focus"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Crunch"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Moonblast"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Close Combat"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Giga Impact"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Light Screen"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Reflect"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Safeguard"
+        }
+    ]
+}

@@ -1,0 +1,120 @@
+{
+    "Number": 762,
+    "DexID": "0762",
+    "Name": "Steenee",
+    "Type1": "Grass",
+    "Type2": "",
+    "BaseHP": 4,
+    "Strength": 1,
+    "MaxStrength": 3,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 1,
+    "MaxSpecial": 3,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Leaf Guard",
+    "Ability2": "Oblivious",
+    "HiddenAbility": "Sweet Veil",
+    "EventAbilities": "",
+    "RecommendedRank": "Rookie",
+    "GenderType": "F",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "steenee",
+    "DexCategory": "Fruit Pokémon",
+    "Height": {
+        "Meters": 0.7,
+        "Feet": 2.3
+    },
+    "Weight": {
+        "Kilograms": 8.2,
+        "Pounds": 18.1
+    },
+    "DexDescription": "Its sweet aroma keeps attracting predators but it fends them away with its hard and bitter head leaves. It likes to be taken seriously and can be hard to deal with, if you make it mad you'll receive a kick.",
+    "Evolutions": [
+        {
+            "From": "Bounsweet",
+            "Kind": "Level",
+            "Speed": "Medium"
+        },
+        {
+            "To": "Tsareena",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "steenee.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Splash"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Play Nice"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Rapid Spin"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Razor Leaf"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Sweet Scent"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Double Slap"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Teeter Dance"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Magical Leaf"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Captivate"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Stomp"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Aromatic Mist"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Aromatherapy"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Leaf Storm"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Play Rough"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Synthesis"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Feint"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Acupressure"
+        }
+    ]
+}

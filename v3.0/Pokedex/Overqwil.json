@@ -1,0 +1,151 @@
+{
+    "Number": 904,
+    "DexID": "0904",
+    "Name": "Overqwil",
+    "Type1": "Dark",
+    "Type2": "Poison",
+    "BaseHP": 5,
+    "Strength": 3,
+    "MaxStrength": 6,
+    "Dexterity": 2,
+    "MaxDexterity": 5,
+    "Vitality": 3,
+    "MaxVitality": 6,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Poison Point",
+    "Ability2": "Intimidate",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Expert",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "overqwil",
+    "DexCategory": "Pin Cluster Pokémon",
+    "Height": {
+        "Meters": 2.0,
+        "Feet": 6.6
+    },
+    "Weight": {
+        "Kilograms": 38.0,
+        "Pounds": 83.8
+    },
+    "DexDescription": "These incredibly bad-tempered Pokémon used to plague the coastline of Hisui. They remained immobile and exploded on contact, leaving them vulnerable to hunters who ended up driving them extinct.",
+    "Evolutions": [
+        {
+        "From": "Qwilfish (Hisuian Form)",
+        "Kind": "Level",
+        "Speed": "Medium"
+        }
+    ],
+    "Image": "overqwil.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Poison Sting"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Harden"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Supersonic"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Fell Stinger"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Bite"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Spikes"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Toxic Spikes"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Barb Barrage"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Pin Missile"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Stockpile"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Spit Up"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Minimize"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Smart Strike"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Reversal"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Aqua Tail"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Poison Tail"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Toxic"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Acupressure"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Poison Jab"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Crunch"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Destiny Bond"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Liquidation"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Self Destruct"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Agility"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Swords Dance"
+        }
+    ]
+}

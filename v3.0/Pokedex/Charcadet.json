@@ -1,0 +1,124 @@
+{
+    "Number": 935,
+    "DexID": "0935",
+    "Name": "Charcadet",
+    "Type1": "Fire",
+    "Type2": "",
+    "BaseHP": 3,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 1,
+    "MaxDexterity": 3,
+    "Vitality": 1,
+    "MaxVitality": 3,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 1,
+    "MaxInsight": 3,
+    "Ability1": "Flash Fire",
+    "Ability2": "Flame Body",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Starter",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "charcadet",
+    "DexCategory": "Fire Child Pokémon",
+    "Height": {
+        "Meters": 0.6,
+        "Feet": 2.0
+    },
+    "Weight": {
+        "Kilograms": 10.5,
+        "Pounds": 23.1
+    },
+    "DexDescription": "It is said a burnt charcoal came to life after being possesed by a fiery spirit. They are brave little creatures who won't retreat from a battle, attacking with raging flames. They are known to love fatty foods.",
+    "Evolutions": [
+        {
+            "To": "Armarouge",
+            "Kind": "Special",
+            "Special": "Wearing Auspicious Armor"
+        },
+        {
+            "To": "Ceruledge",
+            "Kind": "Special",
+            "Special": "Wearing Malicious Armor"
+        }
+    ],
+    "Image": "charcadet.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Ember"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Leer"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Astonish"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Clear Smog"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Fire Spin"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Will-o-Wisp"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Night Shade"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Flame Charge"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Incinerate"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Sunny Day"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Disable"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Quick Guard"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Shadow Sneak"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Lava Plume"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Destiny Bond"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Night Slash"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Spite"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Solar Blade"
+        }
+    ]
+}

@@ -1,0 +1,139 @@
+{
+    "Number": 945,
+    "DexID": "0945",
+    "Name": "Grafaiai",
+    "Type1": "Poison",
+    "Type2": "Normal",
+    "BaseHP": 4,
+    "Strength": 3,
+    "MaxStrength": 6,
+    "Dexterity": 3,
+    "MaxDexterity": 6,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 2,
+    "MaxSpecial": 5,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Poison Touch",
+    "Ability2": "Prankster",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Advanced",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "grafaiai",
+    "DexCategory": "Toxic Monkey Pokémon",
+    "Height": {
+        "Meters": 0.7,
+        "Feet": 2.3
+    },
+    "Weight": {
+        "Kilograms": 27.2,
+        "Pounds": 60.0
+    },
+    "DexDescription": "Their saliva is poisonous, and it changes color depending on their diet. They use this colorful saliva to paint over trees and surfaces. Once they're set on a pattern, they'll draw it all over to mark their territory.",
+    "Evolutions": [
+        {
+            "From": "Shroodle",
+            "Kind": "Level",
+            "Speed": "Slow"
+        }
+    ],
+    "Image": "grafaiai.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Scratch"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Leer"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Acid Spray"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Doodle"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Fury Swipes"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Switcheroo"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Poison Fang"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Flatter"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Thief"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Acrobatics"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Slash"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "U-Turn"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Poison Jab"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Taunt"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Shadow Claw"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Toxic"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Knock Off"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Foul Play"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Substitute"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Gunk Shot"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Swords Dance"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Cross Poison"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Copycat"
+        }
+    ]
+}

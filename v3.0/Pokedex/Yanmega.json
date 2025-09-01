@@ -1,0 +1,155 @@
+{
+    "Number": 469,
+    "DexID": "0469",
+    "Name": "Yanmega",
+    "Type1": "Bug",
+    "Type2": "Flying",
+    "BaseHP": 5,
+    "Strength": 2,
+    "MaxStrength": 5,
+    "Dexterity": 3,
+    "MaxDexterity": 6,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 3,
+    "MaxSpecial": 6,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Speed Boost",
+    "Ability2": "Tinted Lens",
+    "HiddenAbility": "Frisk",
+    "EventAbilities": "",
+    "RecommendedRank": "Expert",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "yanmega",
+    "DexCategory": "Ogre Darner Pokémon",
+    "Height": {
+        "Meters": 1.9,
+        "Feet": 6.2
+    },
+    "Weight": {
+        "Kilograms": 51.5,
+        "Pounds": 113.5
+    },
+    "DexDescription": "It goes back to its prehistoric roots. It is a lot more violent than its pre-evolved form. Its jaw power is incredible and it is adept at biting apart foes while flying by at high speed. This Pokémon can be brutal",
+    "Evolutions": [
+        {
+            "From": "Yanma",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "yanmega.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Gust"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Quick Attack"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Aerial Ace"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "String Shot"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Bug Bite"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Foresight"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Sonic Boom"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Detect"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Supersonic"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Uproar"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Pursuit"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Ancient Power"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Hypnosis"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Wing Attack"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Screech"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Double Team"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Feint"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Slash"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "U-Turn"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Air Slash"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Bug Buzz"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Night Slash"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Crunch"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Silver Wind"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Giga Drain"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Reversal"
+        }
+    ]
+}

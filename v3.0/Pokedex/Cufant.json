@@ -1,0 +1,127 @@
+{
+    "Number": 878,
+    "DexID": "0878",
+    "Name": "Cufant",
+    "Type1": "Steel",
+    "Type2": "",
+    "BaseHP": 3,
+    "Strength": 2,
+    "MaxStrength": 5,
+    "Dexterity": 1,
+    "MaxDexterity": 3,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 1,
+    "MaxSpecial": 3,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Sheer Force",
+    "Ability2": "Heavy Metal",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Rookie",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "cufant",
+    "DexCategory": "Copperderm Pokémon",
+    "Height": {
+        "Meters": 1.2,
+        "Feet": 3.9
+    },
+    "Weight": {
+        "Kilograms": 100.0,
+        "Pounds": 220.5
+    },
+    "DexDescription": "If a job requires serious strength, this Pokémon will excel at it. Its copper body tarnishes in the rain, turning a vibrant green color. Its trunk is specially designed to dig the ground; in the wild they uproot trees to eat.",
+    "Evolutions": [
+        {
+            "To": "Copperajah",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "cufant.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Growl"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Rollout"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Rock Smash"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Bulldoze"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Stomp"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Dig"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Screech"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Stealth Rock"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Iron Defense"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Strength"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Iron Head"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Zen Headbutt"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Brutal Swing"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Play Rough"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "High Horsepower"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Superpower"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Rototiller"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Whirlwind"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Mega Kick"
+        }
+    ]
+}

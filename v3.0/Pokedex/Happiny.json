@@ -1,0 +1,99 @@
+{
+    "Number": 440,
+    "DexID": "0440",
+    "Name": "Happiny",
+    "Type1": "Normal",
+    "Type2": "",
+    "BaseHP": 6,
+    "Strength": 1,
+    "MaxStrength": 2,
+    "Dexterity": 1,
+    "MaxDexterity": 3,
+    "Vitality": 1,
+    "MaxVitality": 2,
+    "Special": 1,
+    "MaxSpecial": 2,
+    "Insight": 1,
+    "MaxInsight": 3,
+    "Ability1": "Natural Cure",
+    "Ability2": "Serene Grace",
+    "HiddenAbility": "Friend Guard",
+    "EventAbilities": "",
+    "RecommendedRank": "Starter",
+    "GenderType": "F",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "happiny",
+    "DexCategory": "Playhouse Pokémon",
+    "Height": {
+        "Meters": 0.6,
+        "Feet": 2.0
+    },
+    "Weight": {
+        "Kilograms": 24.4,
+        "Pounds": 53.8
+    },
+    "DexDescription": "It is not common to see Happiny. This baby Pokémon cannot produce eggs yet, so it searches for white stones and carries them in its pouch. They like to look pretty and always try to act adorable.",
+    "Evolutions": [
+        {
+            "To": "Chansey",
+            "Kind": "Level",
+            "Item": "Oval Stone"
+        }
+    ],
+    "Image": "happiny.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Pound"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Charm"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Copycat"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Refresh"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Minimize"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Fairy Wind"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Sweet Kiss"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Hold Hands"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Covet"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Disarming Voice"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Present"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Helping Hand"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Drain Punch"
+        }
+    ]
+}

@@ -1,0 +1,133 @@
+{
+    "Number": 1005,
+    "DexID": "1005",
+    "Name": "Roaring Moon",
+    "Type1": "Dragon",
+    "Type2": "Dark",
+    "BaseHP": 6,
+    "Strength": 3,
+    "MaxStrength": 7,
+    "Dexterity": 3,
+    "MaxDexterity": 6,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 3,
+    "MaxInsight": 6,
+    "Ability1": "Protosynthesis",
+    "Ability2": "",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Expert",
+    "GenderType": "N",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "roaring-moon",
+    "DexCategory": "Paradox Pokémon",
+    "Height": {
+        "Meters": 2.0,
+        "Feet": 6.6
+    },
+    "Weight": {
+        "Kilograms": 380.0,
+        "Pounds": 837.7
+    },
+    "DexDescription": "This savage creature shares features with Salamence's Mega Form. Its demeanor is completely feral and will attack unprovoked. A true tyrant of the skies.",
+    "Evolutions": [],
+    "Image": "roaring-moon.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Dragon Breath"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Leer"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Bite"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Focus Energy"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Incinerate"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Headbutt"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Scary Face"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Dragon Claw"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "X-Scissor"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Zen Headbutt"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Night Slash"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Flamethrower"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Dragon Rush"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Dragon Dance"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Throat Chop"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Fly"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Jaw Lock"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Roost"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Double-Edge"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Outrage"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Sunny Day"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Scale Shot"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Earthquake"
+        }
+    ]
+}

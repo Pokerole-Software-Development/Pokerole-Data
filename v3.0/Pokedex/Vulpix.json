@@ -1,0 +1,139 @@
+{
+    "Number": 37,
+    "DexID": "0037",
+    "Name": "Vulpix",
+    "Type1": "Fire",
+    "Type2": "",
+    "BaseHP": 3,
+    "Strength": 1,
+    "MaxStrength": 3,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 1,
+    "MaxVitality": 3,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Flash Fire",
+    "Ability2": "Drought",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Rookie",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "vulpix",
+    "DexCategory": "Fox Pokémon",
+    "Height": {
+        "Meters": 0.6,
+        "Feet": 2.0
+    },
+    "Weight": {
+        "Kilograms": 9.9,
+        "Pounds": 21.8
+    },
+    "DexDescription": "It is born with just one tail. As it grows, its single white tail gains color and splits into six. It is quite warm and cuddly - very popular with the ladies. It is, however, uncommon to see one in the wild.",
+    "Evolutions": [
+        {
+            "To": "Ninetales",
+            "Kind": "Stone",
+            "Item": "Fire Stone"
+        }
+    ],
+    "Image": "vulpix.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Ember"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Tail Whip"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Roar"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Baby-Doll Eyes"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Quick Attack"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Fire Spin"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Confuse Ray"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Imprison"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Feint Attack"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Flame Burst"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Will-o-Wisp"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Hex"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Payback"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Extrasensory"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Safeguard"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Flamethrower"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Captivate"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Grudge"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Fire Blast"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Inferno"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Pain Split"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Spite"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Heat Wave"
+        }
+    ]
+}

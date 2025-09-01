@@ -1,0 +1,135 @@
+{
+    "Number": 319,
+    "DexID": "0319M1",
+    "Name": "Sharpedo (Mega Form)",
+    "Type1": "Water",
+    "Type2": "Dark",
+    "BaseHP": 6,
+    "Strength": 4,
+    "MaxStrength": 8,
+    "Dexterity": 3,
+    "MaxDexterity": 6,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 3,
+    "MaxSpecial": 6,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Strong Jaw",
+    "Ability2": "",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Ace",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "sharpedo-mega-form",
+    "DexCategory": "Brutal Pokémon",
+    "Height": {
+        "Meters": 2.5,
+        "Feet": 8.2
+    },
+    "Weight": {
+        "Kilograms": 227,
+        "Pounds": 500
+    },
+    "DexDescription": "As soon as it feels the power of the Mega Stone surge through its body, its mind goes blank with fury and violence. Its sharp spikes and teeth regrow sharper if it loses them. The yellow marks on its body are scars",
+    "Evolutions": [
+        {
+            "From": "Sharpedo",
+            "Kind": "Mega",
+            "Item": "Sharpedonite"
+        }
+    ],
+    "Image": "sharpedo-mega-form.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Aqua Jet"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Leer"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Bite"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Feint"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Rage"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Focus Energy"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Scary Face"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Ice Fang"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Screech"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Swagger"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Taunt"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Crunch"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Slash"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Poison Fang"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Agility"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Assurance"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Night Slash"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Skull Bash"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Liquidation"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Psychic Fangs"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Spite"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Flip Turn"
+        }
+    ]
+}

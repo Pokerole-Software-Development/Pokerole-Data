@@ -1,0 +1,125 @@
+{
+    "Number": 561,
+    "DexID": "0561",
+    "Name": "Sigilyph",
+    "Type1": "Psychic",
+    "Type2": "Flying",
+    "BaseHP": 5,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 3,
+    "MaxDexterity": 6,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 3,
+    "MaxSpecial": 6,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Wonder Skin",
+    "Ability2": "Magic Guard",
+    "HiddenAbility": "Tinted Lens",
+    "EventAbilities": "",
+    "RecommendedRank": "Expert",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "sigilyph",
+    "DexCategory": "Avianoid Pokémon",
+    "Height": {
+        "Meters": 1.4,
+        "Feet": 4.6
+    },
+    "Weight": {
+        "Kilograms": 14.0,
+        "Pounds": 30.9
+    },
+    "DexDescription": "It is known that they worked as guards for an ancient civilization and a few can still be seen patrolling its borders, following the same route for centuries. They attack people that sneak through their barriers.",
+    "Evolutions": [],
+    "Image": "sigilyph.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Gust"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Psywave"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Gravity"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Miracle Eye"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Hypnosis"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Air Cutter"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Psybeam"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Whirlwind"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Cosmic Power"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Air Slash"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Psychic"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Tailwind"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Light Screen"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Reflect"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Mirror Move"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Synchronoise"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Sky Attack"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Skill Swap"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Telekinesis"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Stored Power"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Psycho Shift"
+        }
+    ]
+}

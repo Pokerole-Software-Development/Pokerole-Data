@@ -1,0 +1,149 @@
+{
+    "Number": 439,
+    "DexID": "0439",
+    "Name": "Mime Jr",
+    "Type1": "Psychic",
+    "Type2": "Fairy",
+    "BaseHP": 3,
+    "Strength": 1,
+    "MaxStrength": 3,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 2,
+    "MaxSpecial": 5,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Soundproof",
+    "Ability2": "Filter",
+    "HiddenAbility": "Technician",
+    "EventAbilities": "",
+    "RecommendedRank": "Starter",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "mime-jr",
+    "DexCategory": "Mime Pokémon",
+    "Height": {
+        "Meters": 0.6,
+        "Feet": 2.0
+    },
+    "Weight": {
+        "Kilograms": 13.0,
+        "Pounds": 28.7
+    },
+    "DexDescription": "It likes places where people gather and imitates their expressions to try to understand their feelings. It mimics foes, confuses them, then it escapes. It doesn't take long to become a master mime.",
+    "Evolutions": [
+        {
+            "To": "Mr. Mime",
+            "Kind": "Level",
+            "Move": "Mimic"
+        },
+        {
+            "To": "Mr. Mime (Galarian Form)",
+            "Kind": "Level",
+            "Move": "Mimic",
+            "Region": "Galar"
+        }
+    ],
+    "Image": "mime-jr.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Confusion"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Barrier"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Tickle"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Baton Pass"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Copycat"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Trick"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Encore"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Double Slap"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Hold Hands"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Mimic"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Reflect"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Light Screen"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Meditate"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Psybeam"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Recycle"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Dazzling Gleam"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Iron Defense"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Substitute"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Role Play"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Safeguard"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Psychic"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Nasty Plot"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Teeter Dance"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Wake-Up Slap"
+        }
+    ]
+}

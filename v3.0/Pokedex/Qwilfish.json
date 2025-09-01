@@ -1,0 +1,145 @@
+{
+    "Number": 211,
+    "DexID": "0211",
+    "Name": "Qwilfish",
+    "Type1": "Water",
+    "Type2": "Poison",
+    "BaseHP": 4,
+    "Strength": 3,
+    "MaxStrength": 6,
+    "Dexterity": 2,
+    "MaxDexterity": 5,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Poison Point",
+    "Ability2": "Swift Swim",
+    "HiddenAbility": "Intimidate",
+    "EventAbilities": "",
+    "RecommendedRank": "Standard",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "qwilfish",
+    "DexCategory": "Balloon Pokémon",
+    "Height": {
+        "Meters": 0.5,
+        "Feet": 1.6
+    },
+    "Weight": {
+        "Kilograms": 3.9,
+        "Pounds": 8.6
+    },
+    "DexDescription": "It swallows water to inflate its body to appear bigger than its foes. Qwilfish must swallow 2 gallons of water to be able to shoot its stings. The poison produced by Qwilfish is known to cause fainting.",
+    "Evolutions": [],
+    "Image": "qwilfish.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Poison Sting"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Harden"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Supersonic"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Fell Stinger"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Water Gun"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Spikes"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Rollout"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Bubble"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Toxic Spikes"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Minimize"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Pin Missile"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Stockpile"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Spit Up"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Revenge"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Brine"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Acupressure"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Toxic"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Aqua Tail"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Poison Jab"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Aqua Jet"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Hydro Pump"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Destiny Bond"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Self Destruct"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Scale Shot"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Swords Dance"
+        }
+    ]
+}

@@ -1,0 +1,151 @@
+{
+    "Number": 150,
+    "DexID": "0150M2",
+    "Name": "Mewtwo (Mega Y Form)",
+    "Type1": "Psychic",
+    "Type2": "",
+    "BaseHP": 6,
+    "Strength": 8,
+    "MaxStrength": 8,
+    "Dexterity": 7,
+    "MaxDexterity": 7,
+    "Vitality": 5,
+    "MaxVitality": 5,
+    "Special": 10,
+    "MaxSpecial": 10,
+    "Insight": 7,
+    "MaxInsight": 7,
+    "Ability1": "Insomnia",
+    "Ability2": "",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Master",
+    "GenderType": "N",
+    "Legendary": true,
+    "GoodStarter": false,
+    "_id": "mewtwo-mega-y-form",
+    "DexCategory": "No Data",
+    "Height": {
+        "Meters": 1.5,
+        "Feet": 4.9
+    },
+    "Weight": {
+        "Kilograms": 33.0,
+        "Pounds": 72.8
+    },
+    "DexDescription": "With the power of the Mega Stone, its body got smaller but its power grew immensely. It can blow up even a skyscraper with just its thoughts",
+    "Evolutions": [
+        {
+            "From": "Mewtwo",
+            "Kind": "Mega",
+            "Item": "Mewtwonite Y"
+        }
+    ],
+    "Image": "mewtwo-mega-y-form.png",
+    "Moves": [
+        {
+            "Learned": "Ace",
+            "Name": "Laser Focus"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Psywave"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Confusion"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Disable"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Safeguard"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Swift"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Future Sight"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Psych Up"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Miracle Eye"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Psycho Cut"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Power Swap"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Guard Swap"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Recover"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Psychic"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Barrier"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Aura Sphere"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Amnesia"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Mist"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Me First"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Psystrike"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Self Destruct"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Telekinesis"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Blizzard"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Drain Punch"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Snatch"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Life Dew"
+        }
+    ]
+}

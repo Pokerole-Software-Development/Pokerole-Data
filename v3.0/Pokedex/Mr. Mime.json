@@ -1,0 +1,159 @@
+{
+    "Number": 122,
+    "DexID": "0122",
+    "Name": "Mr. Mime",
+    "Type1": "Psychic",
+    "Type2": "Fairy",
+    "BaseHP": 4,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 2,
+    "MaxDexterity": 5,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 3,
+    "MaxSpecial": 6,
+    "Insight": 3,
+    "MaxInsight": 7,
+    "Ability1": "Technician",
+    "Ability2": "Filter",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Advanced",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "mr-mime",
+    "DexCategory": "Barrier Pokémon",
+    "Height": {
+        "Meters": 1.3,
+        "Feet": 4.3
+    },
+    "Weight": {
+        "Kilograms": 54.5,
+        "Pounds": 120.2
+    },
+    "DexDescription": "You don't find this Pokémon, it finds you. It is really smart and amuses itself by showing people its power to create barriers with pantomime. It creates an invisible box and flees when you try to figure out the exit.",
+    "Evolutions": [
+        {
+            "From": "Mime Jr",
+            "Kind": "Level",
+            "Move": "Mimic"
+        }
+    ],
+    "Image": "mr-mime.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Confusion"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Barrier"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Quick Guard"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Baton Pass"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Wide Guard"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Protect"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Copycat"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Magical Leaf"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Encore"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Trick"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Role Play"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Hypnosis"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Recycle"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Psybeam"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Power Swap"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Light Screen"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Mirror Coat"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Guard Swap"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Mimic"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Safeguard"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Reflect"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Teeter Dance"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Sucker Punch"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Substitute"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Psychic"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Dazzling Gleam"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Expanding Force"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Psychic Terrain"
+        }
+    ]
+}

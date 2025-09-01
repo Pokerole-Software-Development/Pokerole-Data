@@ -1,0 +1,26 @@
+{
+    "Name": "Wild Charge",
+    "Type": "Electric",
+    "Power": 3,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Strength",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "Single Target. Recoil. Roll 1 Chance die to Paralyze the foe.",
+    "Description": "The Pokémon surrounds itself with wild bolts of lighting, then tackles recklessly.",
+    "_id": "wild-charge",
+    "Attributes": {
+        "Recoil": true
+    },
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Paralyze",
+                "Affects": "Targets",
+                "ChanceDice": 1
+            }
+        ]
+    },
+    "Category": "Physical"
+}

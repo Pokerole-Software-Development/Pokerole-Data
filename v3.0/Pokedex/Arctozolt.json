@@ -1,0 +1,121 @@
+{
+    "Number": 881,
+    "DexID": "0881",
+    "Name": "Arctozolt",
+    "Type1": "Electric",
+    "Type2": "Ice",
+    "BaseHP": 5,
+    "Strength": 3,
+    "MaxStrength": 6,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 3,
+    "MaxVitality": 6,
+    "Special": 2,
+    "MaxSpecial": 5,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Volt Absorb",
+    "Ability2": "Slush Rush",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Advanced",
+    "GenderType": "N",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "arctozolt",
+    "DexCategory": "Fossil Pokémon",
+    "Height": {
+        "Meters": 2.3,
+        "Feet": 7.5
+    },
+    "Weight": {
+        "Kilograms": 150.0,
+        "Pounds": 330.7
+    },
+    "DexDescription": "This DNA hybrid has a hard time walking around. The bottom part is from a Pokémon from an arctic region and the upper lived in warm jungles. Poor thing is always shivering and sneezing without control.",
+    "Evolutions": [],
+    "Image": "arctozolt.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Powder Snow"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Thunder Shock"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Charge"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Echoed Voice"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Ancient Power"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Pluck"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Avalanche"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Freeze Dry"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Slam"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Discharge"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Thunder Fang"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Iron Tail"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Wild Charge"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Hail"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Bolt Beak"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Icicle Crash"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Blizzard"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Surf"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Thunder"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Iron Defense"
+        }
+    ]
+}

@@ -1,0 +1,140 @@
+{
+    "Number": 549,
+    "DexID": "0549H",
+    "Name": "Lilligant (Hisuian Form)",
+    "Type1": "Grass",
+    "Type2": "Fighting",
+    "BaseHP": 5,
+    "Strength": 3,
+    "MaxStrength": 6,
+    "Dexterity": 3,
+    "MaxDexterity": 6,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Chlorophyll",
+    "Ability2": "Hustle",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Advanced",
+    "GenderType": "F",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "lilligant-hisuian-form",
+    "DexCategory": "Spinning Pokémon",
+    "Height": {
+        "Meters": 1.4,
+        "Feet": 4.5
+    },
+    "Weight": {
+        "Kilograms": 16.3,
+        "Pounds": 35.9
+    },
+    "DexDescription": "Liligant who lived a long time ago in the land of Hisui had to adapt to the cold. Their long legs allowed them to move through snow. Weather got so harsh they could not bloom anymore and this variant disappeared.",
+    "Evolutions": [
+        {
+            "From": "Petilil",
+            "Kind": "Stone",
+            "Item": "Sun Stone",
+            "Region": "Hisui"
+        }
+    ],
+    "Image": "lilligant-hisuian-form.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Absorb"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Growth"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Helping Hand"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Stun Spore"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Mega Drain"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Defog"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Teeter Dance"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Victory Dance"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Trop Kick"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Sleep Powder"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Leaf Blade"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Leech Seed"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "After You"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Giga Drain"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Entrainment"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Sunny Day"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Axe Kick"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Mega Kick"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Synthesis"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Solar Blade"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Swords Dance"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Close Combat"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Ice Spinner"
+        }
+    ]
+}

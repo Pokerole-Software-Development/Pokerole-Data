@@ -1,0 +1,139 @@
+{
+    "Number": 959,
+    "DexID": "0959",
+    "Name": "Tinkaton",
+    "Type1": "Fairy",
+    "Type2": "Steel",
+    "BaseHP": 5,
+    "Strength": 2,
+    "MaxStrength": 5,
+    "Dexterity": 3,
+    "MaxDexterity": 6,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 2,
+    "MaxSpecial": 5,
+    "Insight": 3,
+    "MaxInsight": 6,
+    "Ability1": "Mold Breaker",
+    "Ability2": "Own Tempo",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Expert",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "tinkaton",
+    "DexCategory": "Hammer Pokémon",
+    "Height": {
+        "Meters": 0.7,
+        "Feet": 2.3
+    },
+    "Weight": {
+        "Kilograms": 112.8,
+        "Pounds": 248.7
+    },
+    "DexDescription": "The Tinkatuff with the biggest and strongest hammer evolves into this intelligent and daring Pokémon. They hunt Corviknight by knocking rocks into the sky with their giant hammers. Cute but dangerous.",
+    "Evolutions": [
+        {
+            "From": "Tinkatuff",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "tinkaton.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Astonish"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Fairy Wind"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Baby-Doll Eyes"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Metal Claw"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Covet"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Rock Smash"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Draining Kiss"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Sweet Kiss"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Brutal Swing"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Slam"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Flash Cannon"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Knock Off"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Fake Out"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Flatter"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Skitter Smack"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Play Rough"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Swords Dance"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Smack Down"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Heavy Slam"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Gigaton Hammer"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Brick Break"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Reflect"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Light Screen"
+        }
+    ]
+}

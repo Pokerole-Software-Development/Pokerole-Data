@@ -1,0 +1,131 @@
+{
+    "Number": 130,
+    "DexID": "0130M1",
+    "Name": "Gyarados (Mega Form)",
+    "Type1": "Water",
+    "Type2": "Dark",
+    "BaseHP": 8,
+    "Strength": 4,
+    "MaxStrength": 8,
+    "Dexterity": 2,
+    "MaxDexterity": 5,
+    "Vitality": 3,
+    "MaxVitality": 6,
+    "Special": 2,
+    "MaxSpecial": 5,
+    "Insight": 3,
+    "MaxInsight": 7,
+    "Ability1": "Mold Breaker",
+    "Ability2": "",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Ace",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "gyarados-mega-form",
+    "DexCategory": "Atrocious Pokémon",
+    "Height": {
+        "Meters": 6.5,
+        "Feet": 21.3
+    },
+    "Weight": {
+        "Kilograms": 100,
+        "Pounds": 220
+    },
+    "DexDescription": "With the power of the Mega Stone, its body suffers a lot of strain, making it faster and stronger but also angrier and uncontrollable. It must have a strong bond or it will fall into a destructive rampage.",
+    "Evolutions": [
+        {
+            "From": "Gyarados",
+            "Kind": "Mega",
+            "Item": "Gyaradosite"
+        }
+    ],
+    "Image": "gyarados-mega-form.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Dragon Rage"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Leer"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Twister"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Whirlpool"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Scary Face"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Ice Fang"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Brine"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Bite"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Thrash"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Aqua Tail"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Waterfall"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Crunch"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Rain Dance"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Dragon Dance"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Hydro Pump"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Lash Out"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Hyper Beam"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Hurricane"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Thunder Wave"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Outrage"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Bounce"
+        }
+    ]
+}

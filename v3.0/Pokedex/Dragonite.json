@@ -1,0 +1,143 @@
+{
+    "Number": 149,
+    "DexID": "0149",
+    "Name": "Dragonite",
+    "Type1": "Dragon",
+    "Type2": "Flying",
+    "BaseHP": 5,
+    "Strength": 3,
+    "MaxStrength": 7,
+    "Dexterity": 2,
+    "MaxDexterity": 5,
+    "Vitality": 3,
+    "MaxVitality": 6,
+    "Special": 3,
+    "MaxSpecial": 6,
+    "Insight": 3,
+    "MaxInsight": 6,
+    "Ability1": "Inner Focus",
+    "Ability2": "Multiscale",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Expert",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "dragonite",
+    "DexCategory": "Dragon Pokémon",
+    "Height": {
+        "Meters": 2.2,
+        "Feet": 7.2
+    },
+    "Weight": {
+        "Kilograms": 210.0,
+        "Pounds": 463.0
+    },
+    "DexDescription": "Very few people have ever seen this Pokémon. Its intelligence matches that of humans. There are records of a Pokémon with a similar description that helped rescue a ship full of people during a hurricane.",
+    "Evolutions": [
+        {
+            "From": "Dragonair",
+            "Kind": "Level",
+            "Speed": "Slow"
+        }
+    ],
+    "Image": "dragonite.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Wrap"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Leer"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Thunder Wave"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Twister"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Dragon Rage"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Slam"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Thunder Punch"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Fire Punch"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Wing Attack"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Dragon Tail"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Agility"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Dragon Rush"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Aqua Tail"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Rain Dance"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Safeguard"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Roost"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Dragon Dance"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Outrage"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Hyper Beam"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Hurricane"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Focus Punch"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Extreme Speed"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Tailwind"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Draco Meteor"
+        }
+    ]
+}

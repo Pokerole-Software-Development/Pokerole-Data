@@ -1,0 +1,123 @@
+{
+    "Number": 813,
+    "DexID": "0813",
+    "Name": "Scorbunny",
+    "Type1": "Fire",
+    "Type2": "",
+    "BaseHP": 3,
+    "Strength": 2,
+    "MaxStrength": 5,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 1,
+    "MaxVitality": 3,
+    "Special": 1,
+    "MaxSpecial": 3,
+    "Insight": 1,
+    "MaxInsight": 3,
+    "Ability1": "Blaze",
+    "Ability2": "Libero",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Rookie",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "scorbunny",
+    "DexCategory": "Rabbit Pokémon",
+    "Height": {
+        "Meters": 0.3,
+        "Feet": 1.0
+    },
+    "Weight": {
+        "Kilograms": 4.5,
+        "Pounds": 9.9
+    },
+    "DexDescription": "Scorbunny is small and energetic. They love to run in large fields from one side to another for hours. There are heat pads on its feet and nose: as it runs or battles they can get burning hot.",
+    "Evolutions": [
+        {
+            "To": "Raboot",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "scorbunny.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Growl"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Ember"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Quick Attack"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Sand Attack"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Low Sweep"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Double Kick"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Flame Charge"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "U-Turn"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Headbutt"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Agility"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Reversal"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Mega Kick"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Counter"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Bounce"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Double-Edge"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Fire Pledge"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Super Fang"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Baton Pass"
+        }
+    ]
+}

@@ -1,0 +1,128 @@
+{
+    "Number": 33,
+    "DexID": "0033",
+    "Name": "Nidorino",
+    "Type1": "Poison",
+    "Type2": "",
+    "BaseHP": 4,
+    "Strength": 2,
+    "MaxStrength": 5,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Poison Point",
+    "Ability2": "Rivalry",
+    "HiddenAbility": "Hustle",
+    "EventAbilities": "",
+    "RecommendedRank": "Standard",
+    "GenderType": "M",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "nidorino",
+    "DexCategory": "Poison Pin Pokémon",
+    "Height": {
+        "Meters": 0.9,
+        "Feet": 3.0
+    },
+    "Weight": {
+        "Kilograms": 19.5,
+        "Pounds": 43.0
+    },
+    "DexDescription": "An independent and fierce creature. It roams alone in search of a mate and will compete with other males around. It will violently charge with a venom-drenched horn against intruders.",
+    "Evolutions": [
+        {
+            "From": "Nidoran M",
+            "Kind": "Level",
+            "Speed": "Medium"
+        },
+        {
+            "To": "Nidoking",
+            "Kind": "Stone",
+            "Item": "Moon Stone"
+        }
+    ],
+    "Image": "nidorino.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Poison Sting"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Leer"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Peck"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Focus Energy"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Fury Attack"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Toxic Spikes"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Double Kick"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Horn Attack"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Helping Hand"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Toxic"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Flatter"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Poison Jab"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Lovely Kiss"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Captivate"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Horn Drill"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Beat Up"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Morning Sun"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Smart Strike"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Head Smash"
+        }
+    ]
+}

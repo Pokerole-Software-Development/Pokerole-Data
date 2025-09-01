@@ -1,0 +1,116 @@
+{
+    "Number": 915,
+    "DexID": "0915",
+    "Name": "Lechonk",
+    "Type1": "Normal",
+    "Type2": "",
+    "BaseHP": 3,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 1,
+    "MaxDexterity": 3,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 1,
+    "MaxInsight": 3,
+    "Ability1": "Aroma Veil",
+    "Ability2": "Gluttony",
+    "HiddenAbility": "Thick Fat",
+    "EventAbilities": "",
+    "RecommendedRank": "Starter",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "lechonk",
+    "DexCategory": "Hog Pokemon",
+    "Height": {
+        "Meters": 0.5,
+        "Feet": 1.8
+    },
+    "Weight": {
+        "Kilograms": 10,
+        "Pounds": 22
+    },
+    "DexDescription": "They can be seen foraging for food in the acorn forests of Paldea. Do not be deceived, these Pokémon have a refined sense of taste and only like fine foods. Their natural herbal scent makes for great hams.",
+    "Image": "lechonk.png",
+    "Evolutions": [
+        {
+            "To": "Oinkologne (Female Form)",
+            "Kind": "Level",
+            "Speed": "Fast"
+        },
+        {
+            "To": "Oinkologne (Male Form)",
+            "Kind": "Level",
+            "Speed": "Fast"
+        }
+    ],
+    "Moves": [
+        {
+           "Learned": "Starter",
+           "Name": "Tackle"
+        },
+        {
+           "Learned": "Starter",
+           "Name": "Tail Whip"
+        },
+        {
+           "Learned": "Rookie",
+           "Name": "Disarming Voice"
+        },
+        {
+           "Learned": "Rookie",
+           "Name": "Echoed Voice"
+        },
+        {
+           "Learned": "Standard",
+           "Name": "Mud Shot"
+        },
+        {
+           "Learned": "Standard",
+           "Name": "Sweet Scent"
+        },
+        {
+           "Learned": "Standard",
+           "Name": "Dig"
+        },
+        {
+           "Learned": "Standard",
+           "Name": "Headbutt"
+        },
+        {
+           "Learned": "Standard",
+           "Name": "Yawn"
+        },
+        {
+           "Learned": "Advanced",
+           "Name": "Take Down"
+        },
+        {
+           "Learned": "Advanced",
+           "Name": "Work Up"
+        },
+        {
+           "Learned": "Advanced",
+           "Name": "Uproar"
+        },
+        {
+           "Learned": "Expert",
+           "Name": "Double-Edge"
+        },
+        {
+           "Learned": "Ace",
+           "Name": "Odor Sleuth"
+        },
+        {
+           "Learned": "Ace",
+           "Name": "Endeavor"
+        },
+        {
+           "Learned": "Ace",
+           "Name": "Helping Hand"
+        }
+    ]
+}

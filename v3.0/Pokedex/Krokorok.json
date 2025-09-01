@@ -1,0 +1,140 @@
+{
+    "Number": 552,
+    "DexID": "0552",
+    "Name": "Krokorok",
+    "Type1": "Ground",
+    "Type2": "Dark",
+    "BaseHP": 4,
+    "Strength": 2,
+    "MaxStrength": 5,
+    "Dexterity": 2,
+    "MaxDexterity": 5,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Intimidate",
+    "Ability2": "Moxie",
+    "HiddenAbility": "Anger Point",
+    "EventAbilities": "",
+    "RecommendedRank": "Advanced",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "krokorok",
+    "DexCategory": "Desert Croc Pokémon",
+    "Height": {
+        "Meters": 1.0,
+        "Feet": 3.3
+    },
+    "Weight": {
+        "Kilograms": 33.4,
+        "Pounds": 73.6
+    },
+    "DexDescription": "The protective membranes shield their eyes from sandstorms and allow them to see in the dark. They can be aggressive and territorial and love to destroy things with their fangs.",
+    "Evolutions": [
+        {
+            "From": "Sandile",
+            "Kind": "Level",
+            "Speed": "Medium"
+        },
+        {
+            "To": "Krookodile",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "krokorok.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Power Trip"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Leer"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Rage"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Sand Attack"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Hone Claws"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Sand Tomb"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Scary Face"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Bite"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Torment"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Mud Slap"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Dig"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Swagger"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Crunch"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Sandstorm"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Assurance"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Embargo"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Foul Play"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Thrash"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Earthquake"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Beat Up"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Fire Fang"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Iron Tail"
+        }
+    ]
+}

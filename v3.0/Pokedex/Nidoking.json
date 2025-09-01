@@ -1,0 +1,139 @@
+{
+    "Number": 34,
+    "DexID": "0034",
+    "Name": "Nidoking",
+    "Type1": "Poison",
+    "Type2": "Ground",
+    "BaseHP": 5,
+    "Strength": 3,
+    "MaxStrength": 6,
+    "Dexterity": 2,
+    "MaxDexterity": 5,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 2,
+    "MaxSpecial": 5,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Poison Point",
+    "Ability2": "Sheer Force",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Advanced",
+    "GenderType": "M",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "nidoking",
+    "DexCategory": "Drill Pokémon",
+    "Height": {
+        "Meters": 1.4,
+        "Feet": 4.6
+    },
+    "Weight": {
+        "Kilograms": 62.0,
+        "Pounds": 136.7
+    },
+    "DexDescription": "It is recognized by its rock-hard hide and its extended horn. Be careful with the horn as it contains venom. There are records of one trampling and destroying a radio tower that was being built on his territory.",
+    "Evolutions": [
+        {
+            "From": "Nidorino",
+            "Kind": "Stone",
+            "Item": "Moon Stone"
+        }
+    ],
+    "Image": "nidoking.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Poison Sting"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Leer"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Peck"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Focus Energy"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Fury Attack"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Toxic Spikes"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Double Kick"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Horn Attack"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Helping Hand"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Toxic"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Flatter"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Poison Jab"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Chip Away"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Thrash"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Megahorn"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Earth Power"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Drill Run"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Poison Tail"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Horn Drill"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Beat Up"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Avalanche"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Scorching Sands"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Head Smash"
+        }
+    ]
+}

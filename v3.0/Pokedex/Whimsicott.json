@@ -1,0 +1,143 @@
+{
+    "Number": 547,
+    "DexID": "0547",
+    "Name": "Whimsicott",
+    "Type1": "Grass",
+    "Type2": "Fairy",
+    "BaseHP": 4,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 3,
+    "MaxDexterity": 6,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 2,
+    "MaxSpecial": 5,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Prankster",
+    "Ability2": "Infiltrator",
+    "HiddenAbility": "Chlorophyll",
+    "EventAbilities": "",
+    "RecommendedRank": "Advanced",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "whimsicott",
+    "DexCategory": "Windveiled Pokémon",
+    "Height": {
+        "Meters": 0.7,
+        "Feet": 2.3
+    },
+    "Weight": {
+        "Kilograms": 6.6,
+        "Pounds": 14.6
+    },
+    "DexDescription": "Riding whirlwinds, they come and go. These Pokémon sneak through even the smallest gap into houses and cause all sorts of mischief. The tufts of allergenic white fluff it leaves behind reveal its presence.",
+    "Evolutions": [
+        {
+            "From": "Cottonee",
+            "Kind": "Stone",
+            "Item": "Sun Stone"
+        }
+    ],
+    "Image": "whimsicott.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Absorb"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Helping Hand"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Fairy Wind"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Stun Spore"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Gust"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Mega Drain"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Razor Leaf"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Growth"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Poison Powder"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Charm"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Leech Seed"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Tailwind"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Moonblast"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Cotton Spore"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Energy Ball"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Sunny Day"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Cotton Guard"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Memento"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Endeavor"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Giga Drain"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Solar Beam"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Beat Up"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Nature Power"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Encore"
+        }
+    ]
+}

@@ -1,0 +1,119 @@
+{
+    "Number": 19,
+    "DexID": "0019",
+    "Name": "Rattata",
+    "Type1": "Normal",
+    "Type2": "",
+    "BaseHP": 3,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 2,
+    "MaxDexterity": 5,
+    "Vitality": 1,
+    "MaxVitality": 3,
+    "Special": 1,
+    "MaxSpecial": 3,
+    "Insight": 1,
+    "MaxInsight": 3,
+    "Ability1": "Run Away",
+    "Ability2": "Guts",
+    "HiddenAbility": "Hustle",
+    "EventAbilities": "",
+    "RecommendedRank": "Starter",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "rattata",
+    "DexCategory": "Mouse Pokémon",
+    "Height": {
+        "Meters": 0.3,
+        "Feet": 1.0
+    },
+    "Weight": {
+        "Kilograms": 3.5,
+        "Pounds": 7.7
+    },
+    "DexDescription": "It can live anywhere it can find food, but they are often in cities and fields. They form large families in their burrows. Since they are often preyed upon, Rattatas are always alert and quick to flee.",
+    "Evolutions": [
+        {
+            "To": "Raticate",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "rattata.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Tail Whip"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Quick Attack"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Focus Energy"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Bite"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Pursuit"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Hyper Fang"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Assurance"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Sucker Punch"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Crunch"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Super Fang"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Fury Swipes"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Endeavor"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Double-Edge"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Final Gambit"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Flame Wheel"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Screech"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Iron Tail"
+        }
+    ]
+}
