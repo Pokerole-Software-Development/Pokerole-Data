@@ -4,22 +4,22 @@
     "Name": "Archaludon",
     "Type1": "Steel",
     "Type2": "Dragon",
-    "BaseHP": 0,
-    "Strength": 0,
-    "MaxStrength": 0,
-    "Dexterity": 0,
-    "MaxDexterity": 0,
-    "Vitality": 0,
-    "MaxVitality": 0,
-    "Special": 0,
-    "MaxSpecial": 0,
-    "Insight": 0,
-    "MaxInsight": 0,
+    "BaseHP": 6,
+    "Strength": 3,
+    "MaxStrength": 6,
+    "Dexterity": 2,
+    "MaxDexterity": 5,
+    "Vitality": 3,
+    "MaxVitality": 7,
+    "Special": 3,
+    "MaxSpecial": 7,
+    "Insight": 2,
+    "MaxInsight": 4,
     "Ability1": "Stamina",
     "Ability2": "Sturdy",
     "HiddenAbility": "",
     "EventAbilities": "",
-    "RecommendedRank": "???",
+    "RecommendedRank": "Ace",
     "GenderType": "N",
     "Legendary": false,
     "GoodStarter": false,
@@ -31,51 +31,113 @@
     },
     "Weight": {
         "Kilograms": 60.0,
-        "Pounds": 132.2
+        "Pounds": 132.0
     },
-    "DexDescription": "???",
-    "Evolutions": [],
+    "DexDescription": "The metal alloy its body is made of is very light but incredibly resistant. It feeds on electricity, its tall size attracting lightning during storms. They can also be found digging in deep caves.",
+    "Evolutions": [
+        {
+            "From": "Duraludon",
+            "Kind": "Level",
+            "Speed": "Slow"
+        }
+    ],
     "Image": "archaludon.png",
     "Moves": [
         {
             "Learned": "Starter",
-            "Name": "???"
+            "Name": "Metal Claw"
         },
         {
             "Learned": "Starter",
-            "Name": "???"
+            "Name": "Leer"
         },
         {
             "Learned": "Rookie",
-            "Name": "???"
+            "Name": "Rock Smash"
         },
         {
             "Learned": "Rookie",
-            "Name": "???"
+            "Name": "Hone Claws"
         },
         {
             "Learned": "Standard",
-            "Name": "???"
+            "Name": "Iron Head"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Protect"
         },
         {
             "Learned": "Advanced",
-            "Name": "???"
+            "Name": "Metal Sound"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Breaking Swipe"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Dragon Tail"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Iron Defense"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Focus Energy"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Dragon Claw"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Flash Cannon"
         },
         {
             "Learned": "Expert",
-            "Name": "???"
+            "Name": "Reflect"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Swords Dance"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Light Screen"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Thunderbolt"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Night Slash"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Electro Shot"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Metal Burst"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Hyper Beam"
         },
         {
             "Learned": "Ace",
-            "Name": "???"
+            "Name": "Draco Meteor"
         },
         {
             "Learned": "Ace",
-            "Name": "???"
+            "Name": "Steel Beam"
         },
         {
             "Learned": "Ace",
-            "Name": "???"
+            "Name": "Solar Beam"
         }
     ]
 }
