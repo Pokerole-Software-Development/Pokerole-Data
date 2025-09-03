@@ -27,18 +27,18 @@
     "DexCategory": "Tundra Pokémon",
     "Height": {
         "Meters": 2.7,
-        "Feet": 8.9
+        "Feet": 9.0
     },
     "Weight": {
-        "Kilograms": 900,
-        "Pounds": 1980
+        "Kilograms": 900.0,
+        "Pounds": 1980.0
     },
     "DexDescription": "It produced a freezing cold mist from the crystals on its sides and relied on size to deter predators. It also created tall walls of ice to block them. The one restored from a fossil is calm and has adapted well.",
     "Evolutions": [
         {
             "From": "Amaura",
             "Kind": "Level",
-            "Speed": "Medium"
+            "Speed": "Slow"
         }
     ],
     "Image": "aurorus.png",
