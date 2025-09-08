@@ -24,14 +24,14 @@
     "Legendary": false,
     "GoodStarter": false,
     "_id": "basculin-hisuian-form",
-    "DexCategory": "Mellow Pokémon",
+    "DexCategory": "Hostile (?) Pokémon",
     "Height": {
-        "Meters": 1.0,
-        "Feet": 3.3
+        "Meters": 0.8,
+        "Feet": 2.6
     },
     "Weight": {
-        "Kilograms": 11,
-        "Pounds": 25
+        "Kilograms": 11.0,
+        "Pounds": 25.0
     },
     "DexDescription": "A Basculin variant that existed in old Hisui. It had a timid and skittish demeanor, unlike the modern specimens who are prone to violence. It was rare to see; it fled as soon as it noticed you. None have been seen in 200 years.",
     "Evolutions": [
@@ -112,7 +112,7 @@
         },
         {
             "Learned": "Expert",
-            "Name": "Chip Away"
+            "Name": "Wave Crash"
         },
         {
             "Learned": "Expert",
