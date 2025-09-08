@@ -10,11 +10,11 @@
     "Dexterity": 2,
     "MaxDexterity": 4,
     "Vitality": 2,
-    "MaxVitality": 4,
+    "MaxVitality": 5,
     "Special": 2,
-    "MaxSpecial": 5,
+    "MaxSpecial": 4,
     "Insight": 2,
-    "MaxInsight": 4,
+    "MaxInsight": 5,
     "Ability1": "Aroma Veil",
     "Ability2": "Thick Fat",
     "HiddenAbility": "Gluttony",
@@ -27,13 +27,13 @@
     "DexCategory": "Hog Pokemon",
     "Height": {
         "Meters": 1,
-        "Feet": 3.3
+        "Feet": 3.25
     },
     "Weight": {
         "Kilograms": 120,
         "Pounds": 264
     },
-    "DexDescription": "Despite their appearance, these Pokémon smell like flowers. Females have thick, strong and well-devel- oped legs, which makes them able to jump up to 16 feet in the air and the best selection for aged hams.",
+    "DexDescription": "Despite their appearance, these Pokémon smell like flowers. Females have thick, strong and well-developed legs, which makes them able to jump up to 16 feet in the air and the best selection for aged hams.",
     "Image": "oinkologne-female-form.png",
     "Evolutions": [
         {
@@ -44,96 +44,96 @@
     ],
     "Moves": [
         {
-           "Learned": "Starter",
-           "Name": "Tackle"
+            "Learned": "Starter",
+            "Name": "Tackle"
         },
         {
-           "Learned": "Starter",
-           "Name": "Tail Whip"
+            "Learned": "Starter",
+            "Name": "Tail Whip"
         },
         {
-           "Learned": "Rookie",
-           "Name": "Disarming Voice"
+            "Learned": "Rookie",
+            "Name": "Disarming Voice"
         },
         {
-           "Learned": "Rookie",
-           "Name": "Echoed Voice"
+            "Learned": "Rookie",
+            "Name": "Echoed Voice"
         },
         {
-           "Learned": "Standard",
-           "Name": "Mud Shot"
+            "Learned": "Standard",
+            "Name": "Mud Shot"
         },
         {
-           "Learned": "Standard",
-           "Name": "Sweet Scent"
+            "Learned": "Standard",
+            "Name": "Sweet Scent"
         },
         {
-           "Learned": "Standard",
-           "Name": "Dig"
+            "Learned": "Standard",
+            "Name": "Dig"
         },
         {
-           "Learned": "Standard",
-           "Name": "Headbutt"
+            "Learned": "Standard",
+            "Name": "Headbutt"
         },
         {
-           "Learned": "Standard",
-           "Name": "Stockpile"
+            "Learned": "Standard",
+            "Name": "Stockpile"
         },
         {
-           "Learned": "Standard",
-           "Name": "Swallow"
+            "Learned": "Standard",
+            "Name": "Swallow"
         },
         {
-           "Learned": "Standard",
-           "Name": "Spit Up"
+            "Learned": "Standard",
+            "Name": "Spit Up"
         },
         {
-           "Learned": "Advanced",
-           "Name": "Take Down"
+            "Learned": "Advanced",
+            "Name": "Take Down"
         },
         {
-           "Learned": "Advanced",
-           "Name": "Yawn"
+            "Learned": "Advanced",
+            "Name": "Yawn"
         },
         {
-           "Learned": "Advanced",
-           "Name": "Body Press"
+            "Learned": "Advanced",
+            "Name": "Body Press"
         },
         {
-           "Learned": "Advanced",
-           "Name": "Work Up"
+            "Learned": "Advanced",
+            "Name": "Work Up"
         },
         {
-           "Learned": "Advanced",
-           "Name": "Uproar"
+            "Learned": "Advanced",
+            "Name": "Uproar"
         },
         {
-           "Learned": "Expert",
-           "Name": "Double-Edge"
+            "Learned": "Expert",
+            "Name": "Double Edge"
         },
         {
-           "Learned": "Expert",
-           "Name": "Stomping Tantrum"
+            "Learned": "Expert",
+            "Name": "Stomping Tantrum"
         },
         {
-           "Learned": "Expert",
-           "Name": "Belch"
+            "Learned": "Expert",
+            "Name": "Belch"
         },
         {
-           "Learned": "Expert",
-           "Name": "Giga Impact"
+            "Learned": "Expert",
+            "Name": "Giga Impact"
         },
         {
-           "Learned": "Ace",
-           "Name": "Iron Head"
+            "Learned": "Ace",
+            "Name": "Iron Head"
         },
         {
-           "Learned": "Ace",
-           "Name": "Substitute"
+            "Learned": "Ace",
+            "Name": "Substitute"
         },
         {
-           "Learned": "Ace",
-           "Name": "Endure"
+            "Learned": "Ace",
+            "Name": "Endure"
         }
     ]
 }
