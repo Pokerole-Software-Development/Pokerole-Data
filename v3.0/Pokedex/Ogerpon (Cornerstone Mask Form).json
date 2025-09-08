@@ -4,78 +4,134 @@
     "Name": "Ogerpon (Cornerstone Mask Form)",
     "Type1": "Grass",
     "Type2": "Rock",
-    "BaseHP": 0,
-    "Strength": 0,
-    "MaxStrength": 0,
-    "Dexterity": 0,
-    "MaxDexterity": 0,
-    "Vitality": 0,
-    "MaxVitality": 0,
-    "Special": 0,
-    "MaxSpecial": 0,
-    "Insight": 0,
-    "MaxInsight": 0,
+    "BaseHP": 5,
+    "Strength": 7,
+    "MaxStrength": 7,
+    "Dexterity": 6,
+    "MaxDexterity": 6,
+    "Vitality": 5,
+    "MaxVitality": 5,
+    "Special": 4,
+    "MaxSpecial": 4,
+    "Insight": 6,
+    "MaxInsight": 6,
     "Ability1": "Sturdy",
-    "Ability2": "",
+    "Ability2": "Embody Aspect",
     "HiddenAbility": "",
     "EventAbilities": "",
-    "RecommendedRank": "???",
+    "RecommendedRank": "Ace",
     "GenderType": "F",
-    "Legendary": false,
+    "Legendary": true,
     "GoodStarter": false,
     "_id": "ogerpon-cornerstone-mask-form",
     "DexCategory": "Mask Pokémon",
     "Height": {
         "Meters": 1.2,
-        "Feet": 3.9
+        "Feet": 4.0
     },
     "Weight": {
-        "Kilograms": 39.8,
-        "Pounds": 87.7
+        "Kilograms": 40.0,
+        "Pounds": 88.0
     },
-    "DexDescription": "???",
+    "DexDescription": "Ancient myths and legends remain alive to this day. It is said Kitakami is visited by a destructive creature during the festival of masks. The creature thrashes the place and destroys all festive decorations.",
     "Evolutions": [],
     "Image": "ogerpon-cornerstone-mask-form.png",
     "Moves": [
         {
-            "Learned": "Starter",
-            "Name": "???"
-        },
-        {
-            "Learned": "Starter",
-            "Name": "???"
-        },
-        {
-            "Learned": "Rookie",
-            "Name": "???"
-        },
-        {
-            "Learned": "Rookie",
-            "Name": "???"
-        },
-        {
-            "Learned": "Standard",
-            "Name": "???"
-        },
-        {
-            "Learned": "Advanced",
-            "Name": "???"
-        },
-        {
-            "Learned": "Expert",
-            "Name": "???"
+            "Learned": "Ace",
+            "Name": "Vine Whip"
         },
         {
             "Learned": "Ace",
-            "Name": "???"
+            "Name": "Leech seed"
         },
         {
             "Learned": "Ace",
-            "Name": "???"
+            "Name": "Quick Attack"
         },
         {
             "Learned": "Ace",
-            "Name": "???"
+            "Name": "Follow Me"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Focus Energy"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Growth"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Double Kick"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Taunt"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "U-Turn"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Charm"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Scary Face"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Low Sweep"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Slam"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Throat Chop"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Protect"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Spiky Shield"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Sandstorm"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Superpower"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Synthesis"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Ivy Cudgel"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Power Whip"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Wood Hammer"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Land's Wrath"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Head Smash"
         }
     ]
 }
