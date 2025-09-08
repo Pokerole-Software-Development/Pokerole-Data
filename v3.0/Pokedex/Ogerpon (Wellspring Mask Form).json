@@ -34,7 +34,20 @@
         "Pounds": 88.0
     },
     "DexDescription": "Ancient myths and legends remain alive to this day. It is said Kitakami is visited by a treacherous creature during the festival of masks. The creature appears serene but it calls upon rain that ruins the festivities.",
-    "Evolutions": [],
+    "Evolutions": [
+        {
+            "To": "Ogerpon (Cornerstone Mask Form)",
+            "Kind": "Form"
+        },
+        {
+            "To": "Ogerpon (Hearthflame Mask Form)",
+            "Kind": "Form"
+        },
+        {
+            "To": "Ogerpon (Teal Mask Form)",
+            "Kind": "Form"
+        }
+    ],
     "Image": "ogerpon-wellspring-mask-form.png",
     "Moves": [
         {

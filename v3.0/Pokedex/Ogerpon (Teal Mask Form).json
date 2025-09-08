@@ -34,7 +34,20 @@
         "Pounds": 88.0
     },
     "DexDescription": "Ancient myths and legends remain alive to this day. It is said Kitakami is visited by a mischievous creature during the festival of masks. The creature appears playful & wears a mask as disguise to steal snacks.",
-    "Evolutions": [],
+    "Evolutions": [
+        {
+            "To": "Ogerpon (Cornerstone Mask Form)",
+            "Kind": "Form"
+        },
+        {
+            "To": "Ogerpon (Hearthflame Mask Form)",
+            "Kind": "Form"
+        },
+        {
+            "To": "Ogerpon (Wellspring Mask Form)",
+            "Kind": "Form"
+        }
+    ],
     "Image": "ogerpon-teal-mask-form.png",
     "Moves": [
         {

@@ -34,7 +34,20 @@
         "Pounds": 88.0
     },
     "DexDescription": "Ancient myths and legends remain alive to this day. It is said Kitakami is visited by a destructive creature during the festival of masks. The creature thrashes the place and destroys all festive decorations.",
-    "Evolutions": [],
+    "Evolutions": [
+        {
+            "To": "Ogerpon (Hearthflame Mask Form)",
+            "Kind": "Form"
+        },
+        {
+            "To": "Ogerpon (Teal Mask Form)",
+            "Kind": "Form"
+        },
+        {
+            "To": "Ogerpon (Wellspring Mask Form)",
+            "Kind": "Form"
+        }
+    ],
     "Image": "ogerpon-cornerstone-mask-form.png",
     "Moves": [
         {

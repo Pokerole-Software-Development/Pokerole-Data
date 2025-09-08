@@ -34,7 +34,20 @@
         "Pounds": 88.0
     },
     "DexDescription": "Ancient myths and legends remain alive to this day. It is said Kitakami is visited by an angry creature during the festival of masks. The creature looks menacing and sets the town's decoration on fire.",
-    "Evolutions": [],
+    "Evolutions": [
+        {
+            "To": "Ogerpon (Cornerstone Mask Form)",
+            "Kind": "Form"
+        },
+        {
+            "To": "Ogerpon (Teal Mask Form)",
+            "Kind": "Form"
+        },
+        {
+            "To": "Ogerpon (Wellspring Mask Form)",
+            "Kind": "Form"
+        }
+    ],
     "Image": "ogerpon-hearthflame-mask-form.png",
     "Moves": [
         {
