@@ -4,25 +4,25 @@
     "Name": "Poltchageist (Counterfeit Form)",
     "Type1": "Grass",
     "Type2": "Ghost",
-    "BaseHP": 0,
-    "Strength": 0,
-    "MaxStrength": 0,
-    "Dexterity": 0,
-    "MaxDexterity": 0,
-    "Vitality": 0,
-    "MaxVitality": 0,
-    "Special": 0,
-    "MaxSpecial": 0,
-    "Insight": 0,
-    "MaxInsight": 0,
-    "Ability1": "Supersweet Syrup",
-    "Ability2": "Gluttony",
-    "HiddenAbility": "Sticky Hold",
+    "BaseHP": 3,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 2,
+    "MaxSpecial": 5,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Hospitality",
+    "Ability2": "Heatproof",
+    "HiddenAbility": "",
     "EventAbilities": "",
-    "RecommendedRank": "???",
+    "RecommendedRank": "Rookie",
     "GenderType": "N",
     "Legendary": false,
-    "GoodStarter": false,
+    "GoodStarter": true,
     "_id": "poltchageist-counterfeit-form",
     "DexCategory": "Matcha Pokémon",
     "Height": {
@@ -30,10 +30,9 @@
         "Feet": 0.3
     },
     "Weight": {
-        "Kilograms": 1.1,
-        "Pounds": 2.4
+        "Kilograms": 1.0,
+        "Pounds": 2.0
     },
-    "DexDescription": "???",
     "Evolutions": [
         {
             "To": "Sinistcha (Unremarkable Form)",
@@ -45,43 +44,67 @@
     "Moves": [
         {
             "Learned": "Starter",
-            "Name": "???"
+            "Name": "Stun Spore"
         },
         {
             "Learned": "Starter",
-            "Name": "???"
+            "Name": "Withdraw"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Astonish"
         },
         {
             "Learned": "Rookie",
-            "Name": "???"
+            "Name": "Absorb"
         },
         {
             "Learned": "Rookie",
-            "Name": "???"
+            "Name": "Rage Powder"
         },
         {
             "Learned": "Standard",
-            "Name": "???"
+            "Name": "Life Dew"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Foul Play"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Mega Drain"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Hex"
         },
         {
             "Learned": "Advanced",
-            "Name": "???"
+            "Name": "Giga Drain"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Shadow Ball"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Memento"
         },
         {
             "Learned": "Expert",
-            "Name": "???"
+            "Name": "Leaf Storm"
         },
         {
             "Learned": "Ace",
-            "Name": "???"
+            "Name": "Substitute"
         },
         {
             "Learned": "Ace",
-            "Name": "???"
+            "Name": "Iron Defense"
         },
         {
             "Learned": "Ace",
-            "Name": "???"
+            "Name": "Nasty Plot"
         }
     ]
 }
