@@ -26,19 +26,19 @@
     "_id": "qwilfish-hisuian-form",
     "DexCategory": "Balloon Pokémon",
     "Height": {
-        "Meters": 0.5,
-        "Feet": 1.6
+        "Meters": 0.6,
+        "Feet": 2.0
     },
     "Weight": {
-        "Kilograms": 3.9,
-        "Pounds": 8.6
+        "Kilograms": 6.0,
+        "Pounds": 12.0
     },
     "DexDescription": "In ancient times, Qwilfish migrated to Hisuian regions to lay their eggs and evolve. People saw them as vermin, as they polluted their fishing waters. Overhunting happened and Qwilfish was forced to adapt.",
     "Evolutions": [
         {
-        "To": "Overqwil",
-        "Kind": "Level",
-        "Speed": "Medium"
+            "To": "Overqwil",
+            "Kind": "Level",
+            "Speed": "Medium"
         }
     ],
     "Image": "qwilfish-hisuian-form.png",
@@ -129,7 +129,7 @@
         },
         {
             "Learned": "Ace",
-            "Name": "Self Destruct"
+            "Name": "Self-Destruct"
         },
         {
             "Learned": "Ace",
