@@ -2,13 +2,13 @@
     "Number": 895,
     "DexID": "0895",
     "Name": "Regidrago",
-    "Type1": "Electric",
+    "Type1": "Dragon",
     "Type2": "",
     "BaseHP": 10,
     "Strength": 6,
     "MaxStrength": 6,
-    "Dexterity": 11,
-    "MaxDexterity": 11,
+    "Dexterity": 5,
+    "MaxDexterity": 5,
     "Vitality": 4,
     "MaxVitality": 4,
     "Special": 6,
@@ -24,14 +24,14 @@
     "Legendary": true,
     "GoodStarter": false,
     "_id": "regidrago",
-    "DexCategory": "No Data",
+    "DexCategory": "Pokédex has no Data",
     "Height": {
         "Meters": 2.1,
-        "Feet": 6.8
+        "Feet": 7.0
     },
     "Weight": {
         "Kilograms": 200.0,
-        "Pounds": 440.9
+        "Pounds": 440.0
     },
     "DexDescription": "There's a spooky Galarian legend talking of a disembodied and giant dragon head that unleashes its wrath upon anyone it comes across. But surely it's just a silly tale to scare the children, right?",
     "Evolutions": [],
