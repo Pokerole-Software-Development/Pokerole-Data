@@ -4,7 +4,7 @@
     "Name": "Scizor (Mega Form)",
     "Type1": "Bug",
     "Type2": "Steel",
-    "BaseHP": 5,
+    "BaseHP": 6,
     "Strength": 4,
     "MaxStrength": 8,
     "Dexterity": 2,
@@ -19,21 +19,21 @@
     "Ability2": "",
     "HiddenAbility": "",
     "EventAbilities": "",
-    "RecommendedRank": "Pro",
+    "RecommendedRank": "Ace",
     "GenderType": "",
     "Legendary": false,
     "GoodStarter": false,
     "_id": "scizor-mega-form",
-    "DexCategory": "Pincer Pokemon",
+    "DexCategory": "Pincer Pokémon",
     "Height": {
         "Meters": 2.0,
         "Feet": 6.6
     },
     "Weight": {
         "Kilograms": 125.0,
-        "Pounds": 275.6
+        "Pounds": 275.0
     },
-    "DexDescription": "The power of the Mega Stone puts its body trough tremendous stress, if it is inexperienced at wielding it and the battle is too long its pincers will feel heavy and even melt. They must be fast to rip their foes apart.",
+    "DexDescription": "The power of the Mega Stone puts its body through tremendous stress. If it is inexperienced at wielding it and the battle is too long, its pincers will feel heavy and even melt. They must be fast to rip their foes apart.",
     "Evolutions": [
         {
             "From": "Scizor",
@@ -45,87 +45,95 @@
     "Moves": [
         {
             "Learned": "Starter",
-            "Name": "Leer"
-        },
-        {
-            "Learned": "Starter",
-            "Name": "Feint"
-        },
-        {
-            "Learned": "Starter",
             "Name": "Quick Attack"
         },
         {
-            "Learned": "Beginner",
-            "Name": "Pursuit"
+            "Learned": "Starter",
+            "Name": "Leer"
         },
         {
-            "Learned": "Beginner",
+            "Learned": "Rookie",
             "Name": "Focus Energy"
         },
         {
-            "Learned": "Beginner",
+            "Learned": "Rookie",
             "Name": "False Swipe"
         },
         {
-            "Learned": "Amateur",
-            "Name": "Agility"
-        },
-        {
-            "Learned": "Amateur",
+            "Learned": "Standard",
             "Name": "Fury Cutter"
         },
         {
-            "Learned": "Amateur",
+            "Learned": "Standard",
+            "Name": "Pursuit"
+        },
+        {
+            "Learned": "Standard",
             "Name": "Metal Claw"
         },
         {
-            "Learned": "Amateur",
-            "Name": "Razor Wind"
+            "Learned": "Standard",
+            "Name": "Double Team"
         },
         {
-            "Learned": "Amateur",
-            "Name": "Slash"
-        },
-        {
-            "Learned": "Amateur",
-            "Name": "X-Scissor"
-        },
-        {
-            "Learned": "Amateur",
-            "Name": "Night Slash"
-        },
-        {
-            "Learned": "Amateur",
+            "Learned": "Standard",
             "Name": "Double Hit"
         },
         {
-            "Learned": "Ace",
+            "Learned": "Standard",
+            "Name": "Slash"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Agility"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Double Team"
+        },
+        {
+            "Learned": "Advanced",
             "Name": "Iron Defense"
         },
         {
-            "Learned": "Ace",
-            "Name": "Bullet Punch"
+            "Learned": "Advanced",
+            "Name": "Night Slash"
         },
         {
-            "Learned": "Ace",
+            "Learned": "Advanced",
             "Name": "Iron Head"
         },
         {
-            "Learned": "Ace",
+            "Learned": "Advanced",
+            "Name": "Bullet Punch"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Feint"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "X-Scissor"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Laser Focus"
+        },
+        {
+            "Learned": "Expert",
             "Name": "Swords Dance"
         },
         {
-            "Learned": "Pro",
+            "Learned": "Ace",
             "Name": "Steel Wing"
         },
         {
-            "Learned": "Pro",
-            "Name": "Knock Off"
+            "Learned": "Ace",
+            "Name": "Superpower"
         },
         {
-            "Learned": "Pro",
-            "Name": "Superpower"
+            "Learned": "Ace",
+            "Name": "Dual Wingbeat"
         }
     ]
 }
