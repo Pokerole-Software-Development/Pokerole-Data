@@ -30,8 +30,8 @@
         "Feet": 34.4
     },
     "Weight": {
-        "Kilograms": 2000,
-        "Pounds": 4410
+        "Kilograms": 2000.0,
+        "Pounds": 4410.0
     },
     "DexDescription": "With the power of the Mega Stone, its body goes through so much pressure that part of it becomes diamond crystals. Its defense is almost unbreakable, but its temper is short and it's easily angered.",
     "Evolutions": [
@@ -149,7 +149,7 @@
         },
         {
             "Learned": "Ace",
-            "Name": "Self Destruct"
+            "Name": "Self-Destruct"
         },
         {
             "Learned": "Ace",
