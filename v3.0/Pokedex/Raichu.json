@@ -16,8 +16,8 @@
     "Insight": 2,
     "MaxInsight": 5,
     "Ability1": "Static",
-    "Ability2": "",
-    "HiddenAbility": "Lightning Rod",
+    "Ability2": "Lightning Rod",
+    "HiddenAbility": "",
     "EventAbilities": "",
     "RecommendedRank": "Expert",
     "GenderType": "",
@@ -31,7 +31,7 @@
     },
     "Weight": {
         "Kilograms": 30.0,
-        "Pounds": 66.1
+        "Pounds": 66.0
     },
     "DexDescription": "When electricity builds on its body, it starts to emit a faint glow and it becomes more aggressive than it normally is. They live in forests but are rare to find in the wild.",
     "Evolutions": [
@@ -53,11 +53,11 @@
         },
         {
             "Learned": "Rookie",
-            "Name": "Tail Whip"
+            "Name": "Growl"
         },
         {
             "Learned": "Rookie",
-            "Name": "Thunderbolt"
+            "Name": "Play Nice"
         },
         {
             "Learned": "Standard",
