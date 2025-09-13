@@ -1,6 +1,6 @@
 {
     "Number": 571,
-    "DexID": "0571",
+    "DexID": "0571H",
     "Name": "Zoroark (Hisuian Form)",
     "Type1": "Normal",
     "Type2": "Ghost",
@@ -27,11 +27,11 @@
     "DexCategory": "Illusion Fox Pokémon",
     "Height": {
         "Meters": 1.9,
-        "Feet": 6.2
+        "Feet": 6.3
     },
     "Weight": {
-        "Kilograms": 105,
-        "Pounds": 203
+        "Kilograms": 105.0,
+        "Pounds": 230.0
     },
     "DexDescription": "Hisuian scrolls show a Pokémon who attacked so intensely, its own attacks wounded its flesh: scary tales of a white beast who was the embodiment of death. The identity of this Pokémon remains unknown.",
     "Evolutions": [
@@ -109,7 +109,7 @@
         },
         {
             "Learned": "Expert",
-            "Name": "Imprison"
+            "Name": "Punishment"
         },
         {
             "Learned": "Expert",
@@ -117,7 +117,7 @@
         },
         {
             "Learned": "Expert",
-            "Name": "Punishment"
+            "Name": "Nasty Plot"
         },
         {
             "Learned": "Expert",
