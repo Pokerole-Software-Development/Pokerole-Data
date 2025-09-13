@@ -24,16 +24,16 @@
     "Legendary": false,
     "GoodStarter": true,
     "_id": "eevee",
-    "DexCategory": "Evolution Pokémon",
+    "DexCategory": "Evolution Pokemon",
     "Height": {
         "Meters": 0.3,
         "Feet": 1.0
     },
     "Weight": {
-        "Kilograms": 6.5,
-        "Pounds": 14.3
+        "Kilograms": 6.0,
+        "Pounds": 14.0
     },
-    "DexDescription": "This Pokémon is extremely rare to find. Eevee has an unstable genetic makeup that suddenly mutates to fit its environment. Radiation from various stones causes this Pokémon to evolve.",
+    "DexDescription": "This Pokemon is extremely rare to find. Eevee has an unstable genetic makeup that suddenly mutates to fit its environment. Radiation from various stones causes this Pokemon to evolve.",
     "Evolutions": [
         {
             "To": "Vaporeon",
@@ -100,7 +100,7 @@
             "Name": "Sand Attack"
         },
         {
-            "Learned": "Standard",
+            "Learned": "Rookie",
             "Name": "Quick Attack"
         },
         {
@@ -124,7 +124,7 @@
             "Name": "Covet"
         },
         {
-            "Learned": "Advanced",
+            "Learned": "Standard",
             "Name": "Copycat"
         },
         {
