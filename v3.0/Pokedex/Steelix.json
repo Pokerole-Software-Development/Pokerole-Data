@@ -30,8 +30,8 @@
         "Feet": 30.2
     },
     "Weight": {
-        "Kilograms": 1000,
-        "Pounds": 2205
+        "Kilograms": 1000.0,
+        "Pounds": 2205.0
     },
     "DexDescription": "Some say that when an Onix lives underground for 100 years, its body becomes hard as steel. Steelix lives deep underground, tempered by high pressure and heat. It can see in the darkness.",
     "Evolutions": [
@@ -154,7 +154,7 @@
         },
         {
             "Learned": "Ace",
-            "Name": "Self Destruct"
+            "Name": "Self-Destruct"
         },
         {
             "Learned": "Ace",

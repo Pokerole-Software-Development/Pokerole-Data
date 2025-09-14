@@ -19,7 +19,7 @@
     "Ability2": "Pixilate",
     "HiddenAbility": "",
     "EventAbilities": "",
-    "RecommendedRank": "Amateur",
+    "RecommendedRank": "Standard",
     "GenderType": "",
     "Legendary": false,
     "GoodStarter": false,
@@ -30,8 +30,8 @@
         "Feet": 3.3
     },
     "Weight": {
-        "Kilograms": 23.5,
-        "Pounds": 51.8
+        "Kilograms": 23.0,
+        "Pounds": 51.0
     },
     "DexDescription": "This rare and adorable Pokémon emanates a soothing aura to calm disturbances. It is said that only the Trainers who form an unbreakable bond with their Eevee can ever see this Pokémon.",
     "Evolutions": [
@@ -46,6 +46,10 @@
     "Moves": [
         {
             "Learned": "Starter",
+            "Name": "Helping Hand"
+        },
+        {
+            "Learned": "Starter",
             "Name": "Tackle"
         },
         {
@@ -53,68 +57,68 @@
             "Name": "Tail Whip"
         },
         {
-            "Learned": "Beginner",
+            "Learned": "Rookie",
             "Name": "Sand Attack"
         },
         {
-            "Learned": "Beginner",
-            "Name": "Helping Hand"
-        },
-        {
-            "Learned": "Beginner",
+            "Learned": "Standard",
             "Name": "Fairy Wind"
         },
         {
-            "Learned": "Amateur",
-            "Name": "Disarming Voice"
-        },
-        {
-            "Learned": "Amateur",
+            "Learned": "Standard",
             "Name": "Quick Attack"
         },
         {
-            "Learned": "Amateur",
-            "Name": "Swift"
-        },
-        {
-            "Learned": "Amateur",
+            "Learned": "Standard",
             "Name": "Draining Kiss"
         },
         {
-            "Learned": "Amateur",
-            "Name": "Skill Swap"
+            "Learned": "Standard",
+            "Name": "Disarming Voice"
         },
         {
-            "Learned": "Amateur",
+            "Learned": "Advanced",
+            "Name": "Baby-Doll Eyes"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Captivate"
+        },
+        {
+            "Learned": "Advanced",
             "Name": "Misty Terrain"
         },
         {
-            "Learned": "Amateur",
+            "Learned": "Advanced",
             "Name": "Light Screen"
         },
         {
-            "Learned": "Ace",
+            "Learned": "Advanced",
+            "Name": "Skill Swap"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Psych Up"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Last Resort"
+        },
+        {
+            "Learned": "Expert",
             "Name": "Moonblast"
         },
         {
             "Learned": "Ace",
-            "Name": "Last Resort"
-        },
-        {
-            "Learned": "Ace",
-            "Name": "Psych Up"
-        },
-        {
-            "Learned": "Pro",
-            "Name": "Captivate"
-        },
-        {
-            "Learned": "Pro",
             "Name": "Wish"
         },
         {
-            "Learned": "Pro",
+            "Learned": "Ace",
             "Name": "Hyper Voice"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Misty Explosion"
         }
     ]
 }
