@@ -30,13 +30,21 @@
         "Feet": 2.0
     },
     "Weight": {
-        "Kilograms": 3.4,
-        "Pounds": 7.5
+        "Kilograms": 3.0,
+        "Pounds": 7.0
     },
     "DexDescription": "What was thought to be different species ended up being a single Pokémon. Oricorio Pa'u has an aloof but ultimately relaxed nature. Its dance is focused and has an hypnotic rhythm.",
     "Evolutions": [
         {
             "From": "Oricorio (Baile Form)",
+            "Kind": "Form"
+        },
+        {
+            "To": "Oricorio (Pom-Pom Form)",
+            "Kind": "Form"
+        },
+        {
+            "To": "Oricorio (Sensu Form)",
             "Kind": "Form"
         }
     ],
