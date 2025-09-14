@@ -24,21 +24,21 @@
     "Legendary": true,
     "GoodStarter": false,
     "_id": "rayquaza-mega-form",
-    "DexCategory": "No Data",
+    "DexCategory": "Pokédex has no data",
     "Height": {
         "Meters": 10.8,
         "Feet": 35.4
     },
     "Weight": {
         "Kilograms": 392.0,
-        "Pounds": 864.2
+        "Pounds": 864.0
     },
     "DexDescription": "What does the power of the Mega Stone truly entail? Is it the bond between a Trainer and their companion? Or is it all about taking hold of a forbidden power?",
     "Evolutions": [
         {
             "From": "Rayquaza",
             "Kind": "Mega",
-            "Item": "Pokeball"
+            "Special": "Learning Dragon Ascent"
         }
     ],
     "Image": "rayquaza-mega-form.png",

@@ -24,21 +24,21 @@
     "Legendary": true,
     "GoodStarter": false,
     "_id": "rayquaza",
-    "DexCategory": "No Data",
+    "DexCategory": "Pokédex has no data",
     "Height": {
         "Meters": 7.0,
         "Feet": 23.0
     },
     "Weight": {
-        "Kilograms": 405,
-        "Pounds": 892
+        "Kilograms": 405.0,
+        "Pounds": 892.0
     },
     "DexDescription": "The legend tells how Rayquaza lived in the outer layer of this world. It came to end the quarrel between Groudon and Kyogre, granted the world with blue skies, and then left.",
     "Evolutions": [
         {
             "To": "Rayquaza (Mega Form)",
             "Kind": "Mega",
-            "Item": "Pokeball"
+            "Special": "Learning Dragon Ascent"
         }
     ],
     "Image": "rayquaza.png",

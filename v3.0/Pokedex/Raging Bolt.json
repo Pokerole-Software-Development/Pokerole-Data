@@ -1,25 +1,25 @@
 {
-    "Number": 1019,
-    "DexID": "1019",
+    "Number": 1021,
+    "DexID": "1021",
     "Name": "Raging Bolt",
     "Type1": "Electric",
     "Type2": "Dragon",
-    "BaseHP": 0,
-    "Strength": 0,
-    "MaxStrength": 0,
-    "Dexterity": 0,
-    "MaxDexterity": 0,
-    "Vitality": 0,
-    "MaxVitality": 0,
-    "Special": 0,
-    "MaxSpecial": 0,
-    "Insight": 0,
-    "MaxInsight": 0,
+    "BaseHP": 7,
+    "Strength": 2,
+    "MaxStrength": 5,
+    "Dexterity": 2,
+    "MaxDexterity": 5,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 4,
+    "MaxSpecial": 8,
+    "Insight": 2,
+    "MaxInsight": 5,
     "Ability1": "Protosynthesis",
     "Ability2": "",
     "HiddenAbility": "",
     "EventAbilities": "",
-    "RecommendedRank": "???",
+    "RecommendedRank": "Expert",
     "GenderType": "N",
     "Legendary": false,
     "GoodStarter": false,
@@ -31,51 +31,107 @@
     },
     "Weight": {
         "Kilograms": 480.0,
-        "Pounds": 1058.2
+        "Pounds": 1058.0
     },
-    "DexDescription": "???",
+    "DexDescription": "Pokédex glitches as it has no data. After the old man's project failed, the creatures were left on their own. But life found a way. Now these creatures are out there, trying to reclaim this world as theirs.",
     "Evolutions": [],
     "Image": "raging-bolt.png",
     "Moves": [
         {
             "Learned": "Starter",
-            "Name": "???"
+            "Name": "Twister"
         },
         {
             "Learned": "Starter",
-            "Name": "???"
+            "Name": "Sunny Day"
         },
         {
             "Learned": "Rookie",
-            "Name": "???"
+            "Name": "Shock Wave"
         },
         {
             "Learned": "Rookie",
-            "Name": "???"
+            "Name": "Stomp"
         },
         {
             "Learned": "Standard",
-            "Name": "???"
+            "Name": "Charge"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Dragon Breath"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Electric Terrain"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Discharge"
         },
         {
             "Learned": "Advanced",
-            "Name": "???"
+            "Name": "Noble Roar"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Breaking Swipe"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Taunt"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Electro Ball"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Solar Beam"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Stomping Tantrum"
         },
         {
             "Learned": "Expert",
-            "Name": "???"
+            "Name": "Supercell Slam"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Rising Voltage"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Dragon Tail"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Zap Cannon"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Dragon Pulse"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Thunder"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Body Press"
         },
         {
             "Learned": "Ace",
-            "Name": "???"
+            "Name": "Giga Impact"
         },
         {
             "Learned": "Ace",
-            "Name": "???"
+            "Name": "Draco Meteor"
         },
         {
             "Learned": "Ace",
-            "Name": "???"
+            "Name": "Ancient Power"
         }
     ]
 }

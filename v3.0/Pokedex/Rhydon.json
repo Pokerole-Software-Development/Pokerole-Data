@@ -27,11 +27,11 @@
     "DexCategory": "Drill Pokémon",
     "Height": {
         "Meters": 1.9,
-        "Feet": 6.2
+        "Feet": 6.3
     },
     "Weight": {
-        "Kilograms": 240,
-        "Pounds": 528
+        "Kilograms": 240.0,
+        "Pounds": 528.0
     },
     "DexDescription": "It has a horn that serves as a drill for destroying rocks and boulders. Rhydon occasionally goes for a swim in rivers and even magma pools. Its great resistance prevents it from taking any damage.",
     "Evolutions": [
@@ -57,71 +57,71 @@
             "Name": "Tail Whip"
         },
         {
-            "Learned": "Beginner",
+            "Learned": "Rookie",
             "Name": "Stomp"
         },
         {
-            "Learned": "Beginner",
+            "Learned": "Rookie",
             "Name": "Fury Attack"
         },
         {
-            "Learned": "Beginner",
+            "Learned": "Standard",
             "Name": "Smack Down"
         },
         {
-            "Learned": "Amateur",
+            "Learned": "Standard",
             "Name": "Scary Face"
         },
         {
-            "Learned": "Amateur",
+            "Learned": "Standard",
             "Name": "Rock Blast"
         },
         {
-            "Learned": "Amateur",
+            "Learned": "Standard",
             "Name": "Bulldoze"
         },
         {
-            "Learned": "Amateur",
+            "Learned": "Advanced",
             "Name": "Chip Away"
         },
         {
-            "Learned": "Amateur",
+            "Learned": "Advanced",
             "Name": "Take Down"
         },
         {
-            "Learned": "Amateur",
+            "Learned": "Advanced",
             "Name": "Drill Run"
         },
         {
-            "Learned": "Ace",
+            "Learned": "Advanced",
             "Name": "Hammer Arm"
         },
         {
-            "Learned": "Ace",
-            "Name": "Stone Edge"
-        },
-        {
-            "Learned": "Ace",
+            "Learned": "Expert",
             "Name": "Earthquake"
         },
         {
-            "Learned": "Ace",
+            "Learned": "Expert",
+            "Name": "Stone Edge"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Megahorn"
+        },
+        {
+            "Learned": "Expert",
             "Name": "Horn Drill"
         },
         {
             "Learned": "Ace",
-            "Name": "Megahorn"
-        },
-        {
-            "Learned": "Pro",
             "Name": "Dragon Rush"
         },
         {
-            "Learned": "Pro",
+            "Learned": "Ace",
             "Name": "Skull Bash"
         },
         {
-            "Learned": "Pro",
+            "Learned": "Ace",
             "Name": "Smart Strike"
         }
     ]
