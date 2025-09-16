@@ -31,13 +31,13 @@
     },
     "Weight": {
         "Kilograms": 89.0,
-        "Pounds": 196.2
+        "Pounds": 196.0
     },
     "DexDescription": "There are ancient records of a Rock-Type evolution for Scyther using Black Augurite, but this mineral is completely mined out today. They were known to be solitary creatures that chopped wood in the forests.",
     "Evolutions": [
         {
             "From": "Scyther",
-            "Kind": "Trade",
+            "Kind": "Item",
             "Item": "Black Augurite"
         }
     ],
