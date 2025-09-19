@@ -1,51 +1,51 @@
 {
-    "Number": 430,
-    "DexID": "0430",
-    "Name": "Honchkrow",
-    "Type1": "Dark",
-    "Type2": "Flying",
+    "Number": 1019,
+    "DexID": "1019",
+    "Name": "Hydrapple",
+    "Type1": "Grass",
+    "Type2": "Dragon",
     "BaseHP": 6,
     "Strength": 3,
-    "MaxStrength": 7,
+    "MaxStrength": 5,
     "Dexterity": 2,
-    "MaxDexterity": 5,
-    "Vitality": 2,
-    "MaxVitality": 4,
+    "MaxDexterity": 4,
+    "Vitality": 3,
+    "MaxVitality": 6,
     "Special": 3,
-    "MaxSpecial": 6,
+    "MaxSpecial": 7,
     "Insight": 2,
-    "MaxInsight": 4,
-    "Ability1": "Moxie",
-    "Ability2": "Super Luck",
+    "MaxInsight": 5,
+    "Ability1": "Regenerator",
+    "Ability2": "Supersweet Syrup",
     "HiddenAbility": "",
     "EventAbilities": "",
     "RecommendedRank": "Expert",
     "GenderType": "",
     "Legendary": false,
     "GoodStarter": false,
-    "_id": "honchkrow",
-    "DexCategory": "Big Boss Pokémon",
+    "_id": "hydrapple",
+    "DexCategory": "Apple Hydra Pokémon",
     "Height": {
-        "Meters": 0.9,
-        "Feet": 3.0
+        "Meters": 1.8,
+        "Feet": 5.9
     },
     "Weight": {
-        "Kilograms": 27.0,
-        "Pounds": 60.0
+        "Kilograms": 93.0,
+        "Pounds": 205.0
     },
-    "DexDescription": "It lets out a deep cry to summon Murkrow, which fetch food and shiny objects for Honchkrow. It is, however, a tyrant to the Murkrow. It only goes out at night to carry out evil deeds.",
+    "DexDescription": "Up to seven serpent Pokémon have been found living inside one of these sticky apples. The larger serpent becomes the leader. Each with its own personality, their moods and motives rarely allign.",
     "Evolutions": [
         {
-            "From": "Murkrow",
-            "Kind": "Stone",
-            "Item": "Dusk Stone"
+            "From": "Dipplin",
+            "Kind": "Item",
+            "Item": "Syrupy Seed"
         }
     ],
-    "Image": "honchkrow.png",
+    "Image": "hydrapple.png",
     "Moves": [
         {
             "Learned": "Starter",
-            "Name": "Peck"
+            "Name": "Withdraw"
         },
         {
             "Learned": "Starter",
@@ -53,99 +53,95 @@
         },
         {
             "Learned": "Rookie",
-            "Name": "Pursuit"
+            "Name": "Recycle"
         },
         {
             "Learned": "Rookie",
-            "Name": "Gust"
+            "Name": "Magical Leaf"
         },
         {
             "Learned": "Standard",
-            "Name": "Haze"
+            "Name": "Growth"
         },
         {
             "Learned": "Standard",
-            "Name": "Wing Attack"
+            "Name": "Sweet Scent"
         },
         {
             "Learned": "Standard",
-            "Name": "Nasty Plot"
-        },
-        {
-            "Learned": "Standard",
-            "Name": "Swagger"
+            "Name": "Dragon Tail"
         },
         {
             "Learned": "Advanced",
-            "Name": "Assurance"
+            "Name": "Pounce"
         },
         {
             "Learned": "Advanced",
-            "Name": "Night Shade"
+            "Name": "Bullet Seed"
         },
         {
             "Learned": "Advanced",
-            "Name": "Feint Attack"
+            "Name": "Reflect"
         },
         {
             "Learned": "Advanced",
-            "Name": "Taunt"
-        },
-        {
-            "Learned": "Advanced",
-            "Name": "Air Cutter"
-        },
-        {
-            "Learned": "Advanced",
-            "Name": "Mean Look"
-        },
-        {
-            "Learned": "Advanced",
-            "Name": "Quash"
-        },
-        {
-            "Learned": "Expert",
-            "Name": "Dark Pulse"
-        },
-        {
-            "Learned": "Expert",
-            "Name": "Tailwind"
-        },
-        {
-            "Learned": "Expert",
-            "Name": "Torment"
-        },
-        {
-            "Learned": "Expert",
             "Name": "Sucker Punch"
         },
         {
-            "Learned": "Expert",
-            "Name": "Night Slash"
+            "Learned": "Advanced",
+            "Name": "Protect"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Dragon Breath"
         },
         {
             "Learned": "Expert",
-            "Name": "Foul Play"
+            "Name": "Recover"
         },
         {
             "Learned": "Expert",
-            "Name": "Roost"
+            "Name": "Earth Power"
         },
         {
             "Learned": "Expert",
-            "Name": "Brave Bird"
+            "Name": "Gyro Ball"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Syrup Bomb"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Dragon Pulse"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Substitute"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Energy Ball"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Power Whip"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Fickle Beam"
         },
         {
             "Learned": "Ace",
-            "Name": "Heat Wave"
+            "Name": "Leaf Storm"
         },
         {
             "Learned": "Ace",
-            "Name": "Psycho Shift"
+            "Name": "Hydro Pump"
         },
         {
             "Learned": "Ace",
-            "Name": "Perish Song"
+            "Name": "Draco Meteor"
         }
     ]
 }

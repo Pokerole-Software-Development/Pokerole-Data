@@ -31,14 +31,14 @@
     },
     "Weight": {
         "Kilograms": 15.0,
-        "Pounds": 33.1
+        "Pounds": 33.0
     },
     "DexDescription": "Houndstone can be found resting in graveyards. It is said they guide and guard the souls of the departed. It is a fiercely loyal Pokémon that not even death could tear apart from its master.",
     "Evolutions": [
         {
-        "From": "Greavard",
-        "Kind": "Level",
-        "Speed": "Slow"
+            "From": "Greavard",
+            "Kind": "Level",
+            "Speed": "Slow"
         }
     ],
     "Image": "houndstone.png",
@@ -81,7 +81,7 @@
         },
         {
             "Learned": "Advanced",
-            "Name": "Will-o-Wisp"
+            "Name": "Will-O-Wisp"
         },
         {
             "Learned": "Advanced",
