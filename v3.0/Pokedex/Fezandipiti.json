@@ -4,24 +4,24 @@
     "Name": "Fezandipiti",
     "Type1": "Poison",
     "Type2": "Fairy",
-    "BaseHP": 0,
-    "Strength": 0,
-    "MaxStrength": 0,
-    "Dexterity": 0,
-    "MaxDexterity": 0,
-    "Vitality": 0,
-    "MaxVitality": 0,
-    "Special": 0,
-    "MaxSpecial": 0,
-    "Insight": 0,
-    "MaxInsight": 0,
+    "BaseHP": 5,
+    "Strength": 5,
+    "MaxStrength": 5,
+    "Dexterity": 6,
+    "MaxDexterity": 6,
+    "Vitality": 5,
+    "MaxVitality": 5,
+    "Special": 5,
+    "MaxSpecial": 5,
+    "Insight": 7,
+    "MaxInsight": 7,
     "Ability1": "Toxic Chain",
     "Ability2": "Technician",
     "HiddenAbility": "",
     "EventAbilities": "",
-    "RecommendedRank": "???",
+    "RecommendedRank": "Ace",
     "GenderType": "M",
-    "Legendary": false,
+    "Legendary": true,
     "GoodStarter": false,
     "_id": "fezandipiti",
     "DexCategory": "Retainer Pokémon",
@@ -30,52 +30,104 @@
         "Feet": 4.6
     },
     "Weight": {
-        "Kilograms": 30.1,
-        "Pounds": 66.4
+        "Kilograms": 30.0,
+        "Pounds": 66.0
     },
-    "DexDescription": "???",
+    "DexDescription": "The most famous legend in Kitakami tells about how three Pokémon and their master defeated an ogre. One of them was ugly and dull but became bright and beautiful after eating a forbidden magical mochi.",
     "Evolutions": [],
     "Image": "fezandipiti.png",
     "Moves": [
         {
-            "Learned": "Starter",
-            "Name": "???"
-        },
-        {
-            "Learned": "Starter",
-            "Name": "???"
-        },
-        {
-            "Learned": "Rookie",
-            "Name": "???"
-        },
-        {
-            "Learned": "Rookie",
-            "Name": "???"
-        },
-        {
-            "Learned": "Standard",
-            "Name": "???"
-        },
-        {
-            "Learned": "Advanced",
-            "Name": "???"
-        },
-        {
-            "Learned": "Expert",
-            "Name": "???"
+            "Learned": "Ace",
+            "Name": "Double Kick"
         },
         {
             "Learned": "Ace",
-            "Name": "???"
+            "Name": "Peck"
         },
         {
             "Learned": "Ace",
-            "Name": "???"
+            "Name": "Poison Gas"
         },
         {
             "Learned": "Ace",
-            "Name": "???"
+            "Name": "Disarming Voice"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Quick Attack"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Attract"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Wing Attack"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Cross Poison"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Tail Slap"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Beat Up"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Swagger"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Flatter"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Roost"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "U-Turn"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Nasty Plot"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Swords Dance"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Tailwind"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Icy Wind"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Toxic"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Dark Pulse"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Fly"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Gunk Shot"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Moonblast"
         }
     ]
 }
