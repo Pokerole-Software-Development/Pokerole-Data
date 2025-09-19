@@ -2,80 +2,100 @@
     "Number": 1024,
     "DexID": "1024F1",
     "Name": "Terapagos (Normal Form)",
-    "Type1": "???",
-    "Type2": "???",
-    "BaseHP": 0,
-    "Strength": 0,
-    "MaxStrength": 0,
-    "Dexterity": 0,
-    "MaxDexterity": 0,
-    "Vitality": 0,
-    "MaxVitality": 0,
-    "Special": 0,
-    "MaxSpecial": 0,
-    "Insight": 0,
-    "MaxInsight": 0,
-    "Ability1": "???",
+    "Type1": "Normal",
+    "Type2": "",
+    "BaseHP": 4,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Tera Shift",
     "Ability2": "",
     "HiddenAbility": "",
     "EventAbilities": "",
-    "RecommendedRank": "???",
+    "RecommendedRank": "Rookie",
     "GenderType": "N",
     "Legendary": false,
     "GoodStarter": false,
     "_id": "terapagos-normal-form",
-    "DexCategory": "??? Pokémon",
+    "DexCategory": "Tera Pokémon",
     "Height": {
-        "Meters": 0.0,
-        "Feet": 0.0
+        "Meters": 0.2,
+        "Feet": 0.7
     },
     "Weight": {
-        "Kilograms": 0.0,
-        "Pounds": 0.0
+        "Kilograms": 6.0,
+        "Pounds": 14.0
     },
-    "DexDescription": "???",
+    "DexDescription": "Believed to be extinct, it was just recently re-discovered when a specimen was found in a dormant state deep at an excavation for Tera Crystals formed more than 2 million years ago.",
     "Evolutions": [],
     "Image": "terapagos-normal-form.png",
     "Moves": [
         {
             "Learned": "Starter",
-            "Name": "???"
+            "Name": "Withdraw"
         },
         {
             "Learned": "Starter",
-            "Name": "???"
+            "Name": "Rapid Spin"
         },
         {
             "Learned": "Rookie",
-            "Name": "???"
+            "Name": "Headbutt"
         },
         {
             "Learned": "Rookie",
-            "Name": "???"
+            "Name": "Ancient Power"
         },
         {
             "Learned": "Standard",
-            "Name": "???"
+            "Name": "Tri Attack"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Protect"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Earth Power"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Heavy Slam"
         },
         {
             "Learned": "Advanced",
-            "Name": "???"
+            "Name": "Gyro Ball"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Double Edge"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Rock Polish"
         },
         {
             "Learned": "Expert",
-            "Name": "???"
+            "Name": "Tera Blast"
         },
         {
             "Learned": "Ace",
-            "Name": "???"
+            "Name": "Endure"
         },
         {
             "Learned": "Ace",
-            "Name": "???"
+            "Name": "Hidden Power"
         },
         {
             "Learned": "Ace",
-            "Name": "???"
+            "Name": "Tera Starstorm"
         }
     ]
 }
