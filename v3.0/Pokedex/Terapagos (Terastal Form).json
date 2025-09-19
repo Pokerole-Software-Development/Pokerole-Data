@@ -34,7 +34,16 @@
         "Pounds": 35.0
     },
     "DexDescription": "The connection they have to the Terastral phenomenon is still a mystery. It has shown the ability of terastallizing at will by absorbing the energy of attacks coming its way.",
-    "Evolutions": [],
+    "Evolutions": [
+        {
+            "From": "Terapagos (Normal Form)",
+            "Kind": "Form"
+        },
+        {
+            "To": "Terapagos (Stellar Form)",
+            "Kind": "Form"
+        }
+    ],
     "Image": "terapagos-terastal-form.png",
     "Moves": [
         {

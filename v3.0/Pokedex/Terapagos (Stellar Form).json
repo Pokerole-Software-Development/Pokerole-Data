@@ -34,7 +34,12 @@
         "Pounds": 170.0
     },
     "DexDescription": "An old expedition journal states the sight of this Pokémon, describing it as an underground floating planet. But no other sighting has ever been reported.",
-    "Evolutions": [],
+    "Evolutions": [
+        {
+            "From": "Terapagos (Terastal Form)",
+            "Kind": "Form"
+        }
+    ],
     "Image": "terapagos-stellar-form.png",
     "Moves": [
         {

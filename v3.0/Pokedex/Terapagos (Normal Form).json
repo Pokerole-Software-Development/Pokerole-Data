@@ -34,7 +34,12 @@
         "Pounds": 14.0
     },
     "DexDescription": "Believed to be extinct, it was just recently re-discovered when a specimen was found in a dormant state deep at an excavation for Tera Crystals formed more than 2 million years ago.",
-    "Evolutions": [],
+    "Evolutions": [
+        {
+            "To": "Terapagos (Terastal Form)",
+            "Kind": "Form"
+        }
+    ],
     "Image": "terapagos-normal-form.png",
     "Moves": [
         {
