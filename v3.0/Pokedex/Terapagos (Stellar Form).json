@@ -2,80 +2,140 @@
     "Number": 1024,
     "DexID": "1024F3",
     "Name": "Terapagos (Stellar Form)",
-    "Type1": "???",
-    "Type2": "???",
-    "BaseHP": 0,
-    "Strength": 0,
-    "MaxStrength": 0,
-    "Dexterity": 0,
-    "MaxDexterity": 0,
-    "Vitality": 0,
-    "MaxVitality": 0,
-    "Special": 0,
-    "MaxSpecial": 0,
-    "Insight": 0,
-    "MaxInsight": 0,
-    "Ability1": "???",
+    "Type1": "Normal",
+    "Type2": "",
+    "BaseHP": 8,
+    "Strength": 6,
+    "MaxStrength": 6,
+    "Dexterity": 5,
+    "MaxDexterity": 5,
+    "Vitality": 6,
+    "MaxVitality": 6,
+    "Special": 7,
+    "MaxSpecial": 7,
+    "Insight": 6,
+    "MaxInsight": 6,
+    "Ability1": "Teraform Zero",
     "Ability2": "",
     "HiddenAbility": "",
     "EventAbilities": "",
-    "RecommendedRank": "???",
+    "RecommendedRank": "Master",
     "GenderType": "N",
     "Legendary": false,
     "GoodStarter": false,
     "_id": "terapagos-stellar-form",
-    "DexCategory": "??? Pokémon",
+    "DexCategory": "Pokédex has no data",
     "Height": {
-        "Meters": 0.0,
-        "Feet": 0.0
+        "Meters": 1.7,
+        "Feet": 5.6
     },
     "Weight": {
-        "Kilograms": 0.0,
-        "Pounds": 0.0
+        "Kilograms": 77.0,
+        "Pounds": 170.0
     },
-    "DexDescription": "???",
+    "DexDescription": "An old expedition journal states the sight of this Pokémon, describing it as an underground floating planet. But no other sighting has ever been reported.",
     "Evolutions": [],
     "Image": "terapagos-stellar-form.png",
     "Moves": [
         {
-            "Learned": "Starter",
-            "Name": "???"
+            "Learned": "Master",
+            "Name": "Withdraw"
         },
         {
-            "Learned": "Starter",
-            "Name": "???"
+            "Learned": "Master",
+            "Name": "Rapid Spin"
         },
         {
-            "Learned": "Rookie",
-            "Name": "???"
+            "Learned": "Master",
+            "Name": "Headbutt"
         },
         {
-            "Learned": "Rookie",
-            "Name": "???"
+            "Learned": "Master",
+            "Name": "Ancient Power"
         },
         {
-            "Learned": "Standard",
-            "Name": "???"
+            "Learned": "Master",
+            "Name": "Tri Attack"
         },
         {
-            "Learned": "Advanced",
-            "Name": "???"
+            "Learned": "Master",
+            "Name": "Protect"
         },
         {
-            "Learned": "Expert",
-            "Name": "???"
+            "Learned": "Master",
+            "Name": "Sunny Day"
         },
         {
-            "Learned": "Ace",
-            "Name": "???"
+            "Learned": "Master",
+            "Name": "Rain Dance"
         },
         {
-            "Learned": "Ace",
-            "Name": "???"
+            "Learned": "Master",
+            "Name": "Dazzling Gleam"
         },
         {
-            "Learned": "Ace",
-            "Name": "???"
+            "Learned": "Master",
+            "Name": "Flash Cannon"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Scorching Sands"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Heavy Slam"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Gyro Ball"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Double Edge"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Rock Polish"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Tera Blast"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Meteor Beam"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Ice Beam"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Thunder"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Solar Beam"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Flare Blitz"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Surf"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Endure"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Hyper Beam"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Tera Starstorm"
         }
     ]
 }
