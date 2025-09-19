@@ -1,48 +1,43 @@
 {
-    "Number": 913,
-    "DexID": "0913",
-    "Name": "Quaxwell",
+    "Number": 914,
+    "DexID": "0914",
+    "Name": "Quaquaval",
     "Type1": "Water",
-    "Type2": "",
-    "BaseHP": 4,
-    "Strength": 2,
-    "MaxStrength": 5,
-    "Dexterity": 2,
-    "MaxDexterity": 5,
+    "Type2": "Fighting",
+    "BaseHP": 5,
+    "Strength": 3,
+    "MaxStrength": 7,
+    "Dexterity": 3,
+    "MaxDexterity": 6,
     "Vitality": 2,
-    "MaxVitality": 4,
+    "MaxVitality": 5,
     "Special": 2,
-    "MaxSpecial": 4,
+    "MaxSpecial": 5,
     "Insight": 2,
-    "MaxInsight": 4,
+    "MaxInsight": 5,
     "Ability1": "Torrent",
     "Ability2": "Moxie",
     "HiddenAbility": "",
     "EventAbilities": "",
-    "RecommendedRank": "Standard",
+    "RecommendedRank": "Expert",
     "GenderType": "",
     "Legendary": false,
     "GoodStarter": false,
-    "_id": "quaxwell",
-    "DexCategory": "Practicing Pokemon",
+    "_id": "quaquavel",
+    "DexCategory": "Dancing Pokemon",
     "Height": {
-        "Meters": 1.2,
-        "Feet": 3.9
+        "Meters": 1.8,
+        "Feet": 5.11
     },
     "Weight": {
-        "Kilograms": 21.0,
-        "Pounds": 47.0
+        "Kilograms": 61.0,
+        "Pounds": 136.0
     },
-    "DexDescription": "They are very observant Pokémon, trying to incorporate the movements they see into their dance. They practice in shallow water, kicking gracefully until they make no splash at all. A serious and diligent Pokémon.",
-    "Image": "quaxwell.png",
+    "DexDescription": "Their legs are incredibly powerful; do not underestimate their rhythmic dancing for their kicks can send a car rolling. They attract attention by spreading a beautiful tail made of water feathers.",
+    "Image": "quaquavel.png",
     "Evolutions": [
         {
-            "From": "Quaxley",
-            "Kind": "Level",
-            "Speed": "Medium"
-        },
-        {
-            "To": "Quaquavel",
+            "From": "Quaxwell",
             "Kind": "Level",
             "Speed": "Medium"
         }
@@ -81,7 +76,7 @@
             "Name": "Low Sweep"
         },
         {
-            "Learned": "Standard",
+            "Learned": "Advanced",
             "Name": "Double Hit"
         },
         {
@@ -102,19 +97,27 @@
         },
         {
             "Learned": "Advanced",
-            "Name": "Detect"
+            "Name": "Aqua Step"
         },
         {
-            "Learned": "Advanced",
+            "Learned": "Expert",
             "Name": "Roost"
         },
         {
-            "Learned": "Advanced",
+            "Learned": "Expert",
+            "Name": "Detect"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Mega Kick"
+        },
+        {
+            "Learned": "Expert",
             "Name": "Air Cutter"
         },
         {
             "Learned": "Expert",
-            "Name": "Swift"
+            "Name": "Feather Dance"
         },
         {
             "Learned": "Expert",
@@ -122,19 +125,27 @@
         },
         {
             "Learned": "Expert",
-            "Name": "Feather Dance"
+            "Name": "Close Combat"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Wave Crash"
         },
         {
             "Learned": "Ace",
-            "Name": "Baton Pass"
+            "Name": "Swords Dance"
         },
         {
             "Learned": "Ace",
-            "Name": "Counter"
+            "Name": "Brave Bird"
         },
         {
             "Learned": "Ace",
-            "Name": "Water Pledge"
+            "Name": "Ice Spinner"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Hydro Cannon"
         }
     ]
 }
