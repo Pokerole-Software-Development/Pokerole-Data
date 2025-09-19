@@ -30,11 +30,16 @@
         "Feet": 2.3
     },
     "Weight": {
-        "Kilograms": 59.1,
-        "Pounds": 130.3
+        "Kilograms": 59.0,
+        "Pounds": 130.0
     },
     "DexDescription": "They form packs and hunt Pawniard and Bisharp for their metal. The metal scraps make their homes and strengthen their hammers. They like to test the strength of each other's hammers to determine a leader.",
     "Evolutions": [
+        {
+            "From": "Tinkatink",
+            "Kind": "Level",
+            "Speed": "Medium"
+        },
         {
             "To": "Tinkaton",
             "Kind": "Level",

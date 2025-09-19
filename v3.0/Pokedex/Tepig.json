@@ -27,11 +27,11 @@
     "DexCategory": "Fire Pig Pokémon",
     "Height": {
         "Meters": 0.5,
-        "Feet": 1.6
+        "Feet": 1.7
     },
     "Weight": {
-        "Kilograms": 9.9,
-        "Pounds": 21.8
+        "Kilograms": 10.0,
+        "Pounds": 21.0
     },
     "DexDescription": "It blows fire through its nose. When it catches a cold, the fire becomes pitch-black smoke instead. Tepig loves to eat roasted berries and its keen sense of smell allows it to find them easily.",
     "Evolutions": [
@@ -45,74 +45,74 @@
     "Moves": [
         {
             "Learned": "Starter",
-            "Name": "Tail Whip"
-        },
-        {
-            "Learned": "Starter",
             "Name": "Tackle"
         },
         {
-            "Learned": "Beginner",
-            "Name": "Odor Sleuth"
+            "Learned": "Starter",
+            "Name": "Tail Whip"
         },
         {
-            "Learned": "Beginner",
+            "Learned": "Rookie",
             "Name": "Ember"
         },
         {
-            "Learned": "Amateur",
+            "Learned": "Rookie",
+            "Name": "Odor Sleuth"
+        },
+        {
+            "Learned": "Standard",
             "Name": "Defense Curl"
         },
         {
-            "Learned": "Amateur",
+            "Learned": "Standard",
             "Name": "Flame Charge"
         },
         {
-            "Learned": "Amateur",
+            "Learned": "Standard",
             "Name": "Smog"
         },
         {
-            "Learned": "Amateur",
+            "Learned": "Standard",
             "Name": "Rollout"
         },
         {
-            "Learned": "Amateur",
+            "Learned": "Standard",
             "Name": "Take Down"
         },
         {
-            "Learned": "Amateur",
+            "Learned": "Standard",
             "Name": "Heat Crash"
         },
         {
-            "Learned": "Amateur",
+            "Learned": "Advanced",
             "Name": "Assurance"
         },
         {
-            "Learned": "Ace",
+            "Learned": "Advanced",
             "Name": "Flamethrower"
         },
         {
-            "Learned": "Ace",
+            "Learned": "Advanced",
             "Name": "Head Smash"
         },
         {
-            "Learned": "Ace",
+            "Learned": "Advanced",
             "Name": "Roar"
         },
         {
-            "Learned": "Ace",
+            "Learned": "Expert",
             "Name": "Flare Blitz"
         },
         {
-            "Learned": "Pro",
+            "Learned": "Ace",
             "Name": "Fire Pledge"
         },
         {
-            "Learned": "Pro",
+            "Learned": "Ace",
             "Name": "Body Slam"
         },
         {
-            "Learned": "Pro",
+            "Learned": "Ace",
             "Name": "Sucker Punch"
         }
     ]

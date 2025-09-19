@@ -1,9 +1,9 @@
 {
     "Number": 128,
-    "DexID": "0128PC",
+    "DexID": "0128PB",
     "Name": "Tauros (Paldean Form) (Blaze Form)",
     "Type1": "Fighting",
-    "Type2": "",
+    "Type2": "Fire",
     "BaseHP": 5,
     "Strength": 3,
     "MaxStrength": 6,
@@ -23,15 +23,15 @@
     "GenderType": "M",
     "Legendary": false,
     "GoodStarter": false,
-    "_id": "tauros",
+    "_id": "tauros-paldean-form-blaze-form",
     "DexCategory": "Wild Bull Pokémon",
     "Height": {
         "Meters": 1.4,
         "Feet": 4.6
     },
     "Weight": {
-        "Kilograms": 170,
-        "Pounds": 374
+        "Kilograms": 170.0,
+        "Pounds": 374.0
     },
     "DexDescription": "This is a male species. These Tauros are specially bred in Paldea for their lighter bodies and speed. They run so fast, they blaze the grass they charge in. The blaze breed is especially hot-headed and stubborn.",
     "Evolutions": [],
