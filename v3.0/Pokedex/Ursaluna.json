@@ -5,8 +5,8 @@
     "Type1": "Ground",
     "Type2": "Normal",
     "BaseHP": 7,
-    "Strength": 3,
-    "MaxStrength": 7,
+    "Strength": 4,
+    "MaxStrength": 8,
     "Dexterity": 2,
     "MaxDexterity": 4,
     "Vitality": 3,
@@ -26,14 +26,14 @@
     "_id": "ursaluna",
     "DexCategory": "Peat Pokémon",
     "Height": {
-        "Meters": 1.8,
-        "Feet": 5.9
+        "Meters": 2.4,
+        "Feet": 7.8
     },
     "Weight": {
-        "Kilograms": 252,
-        "Pounds": 555
+        "Kilograms": 417.0,
+        "Pounds": 920.0
     },
-    "DexDescription": "An ancient Hisui tribe had stories about Ursaring evolving using peat. Peat is mostly useless and does not have any energy properties that could aid in evolution. No other region has reported an evolution for Ursaring.",
+    "DexDescription": "An ancient Hisui tribe had stories about Ursaring evolving using peat. Peat is mostly useless and does not have any energy properties that could aid in evolution. No Ursaring has been reported to evolve in recent years.",
     "Evolutions": [
         {
             "From": "Ursaring",
@@ -66,7 +66,7 @@
         },
         {
             "Learned": "Standard",
-            "Name": "Scary Face"
+            "Name": "Sweet Scent"
         },
         {
             "Learned": "Standard",
@@ -86,7 +86,7 @@
         },
         {
             "Learned": "Advanced",
-            "Name": "Sweet Scent"
+            "Name": "Endure"
         },
         {
             "Learned": "Advanced",
