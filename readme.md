@@ -3,7 +3,7 @@
 This repo is a Source of Truth for the [Pokerole](https://www.pokeroleproject.com/) tabletop game. This is a developer focused repository: if you're not a programmer, you probably want to check the list of applications built off of this data. 
 
 - This repo contains JSON documents for Pokemon, Natures, Abilities, Moves, and Learnsets for the Pokerole system. 
-- It will preserve 2.0 data alongside 2.1 data when 2.1 is released. 
+- v2.0 is perserved here along side the most recent edition, v3.0.
 - The repo has a sprite library with filenames consistent with the JSON data.
 
 # Applications Using The Dataset
@@ -36,10 +36,11 @@ Check the enhancement issues for anything we've identified that's need doing as 
 # Credits and Contacts
 
 - Needless to say, Pokemon is owned by Nintendo
-- I can be contacted through Github (here) or Discord where my username is Willowlark#2359 as the primary maintainer. 
+- I can be contacted through Github (here) or Discord where my username is Willowlark as the primary maintainer. 
 - The original data (`raw/PokeroleBot`) that was used to generate the base dataset was compiled out of the book by Shadeslayer into this [repository](https://github.com/XShadeSlayerXx/PokeRole-Discord.py-Base). 
 - `raw/XMLDump` was dumped by SirIntellegence(Brain-Storm.exe) and is sourced from [this repository](https://github.com/SirIntellegence/pokerole-tools/releases/tag/v0.0.0)
 - Box sprites were compiled from this [repository](https://github.com/msikma/pokesprite).
 - Home sprites were ripped from [the spriter's resource](https://www.spriters-resource.com/nintendo_switch/pokemonhome/).
 - [Pokerole](https://www.pokeroleproject.com/) was written by it's own team, check them out. They provided the Booksprites as well.
 - Pokemon Shuffle style tokens were provided by Shaedn on this Discord
+- The preview files for the Version 3.0 were painstakingly setup By Priestess of Neptune, a ton of work we're infinitely grateful. 
