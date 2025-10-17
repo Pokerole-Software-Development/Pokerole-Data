@@ -27,11 +27,11 @@
     "DexCategory": "Shell Bunker Pokémon",
     "Height": {
         "Meters": 2.0,
-        "Feet": 6.6
+        "Feet": 6.7
     },
     "Weight": {
-        "Kilograms": 481,
-        "Pounds": 1060
+        "Kilograms": 481.0,
+        "Pounds": 1060.0
     },
     "DexDescription": "Goodra living in the Hisui region a few centruries ago were as kind-hearted as those from today. Their hard shells were used to defend those close to them to the point of sacrificing themselves to extinction.",
     "Evolutions": [
@@ -74,15 +74,7 @@
         },
         {
             "Learned": "Standard",
-            "Name": "Bubble"
-        },
-        {
-            "Learned": "Advanced",
-            "Name": "Dragon Pulse"
-        },
-        {
-            "Learned": "Advanced",
-            "Name": "Iron Tail"
+            "Name": "Iron Head"
         },
         {
             "Learned": "Advanced",
@@ -90,11 +82,19 @@
         },
         {
             "Learned": "Advanced",
-            "Name": "Bide"
+            "Name": "Iron Tail"
         },
         {
             "Learned": "Advanced",
             "Name": "Rain Dance"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Bide"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Dragon Pulse"
         },
         {
             "Learned": "Advanced",
