@@ -27,11 +27,11 @@
     "DexCategory": "Sword Blade Pokémon",
     "Height": {
         "Meters": 1.6,
-        "Feet": 5.2
+        "Feet": 5.3
     },
     "Weight": {
         "Kilograms": 70.0,
-        "Pounds": 154.3
+        "Pounds": 154.0
     },
     "DexDescription": "It leads a group of Pawniard. It battles to become the boss, but will be driven from the group if it loses. They are ruthless leaders and merciless with their foes. Weakness has no place among them.",
     "Evolutions": [
@@ -39,6 +39,11 @@
             "From": "Pawniard",
             "Kind": "Level",
             "Speed": "Medium"
+        },
+        {
+            "To": "Kingambit",
+            "Kind": "Level",
+            "Speed": "Slow"
         }
     ],
     "Image": "bisharp.png",
