@@ -1,23 +1,23 @@
 {
     "Number": 901,
-    "DexID": "0901",
-    "Name": "Ursaluna",
+    "DexID": "0901F1",
+    "Name": "Ursaluna (Kitakami Form)",
     "Type1": "Ground",
     "Type2": "Normal",
-    "BaseHP": 7,
-    "Strength": 4,
-    "MaxStrength": 8,
+    "BaseHP": 6,
+    "Strength": 2,
+    "MaxStrength": 5,
     "Dexterity": 2,
     "MaxDexterity": 4,
     "Vitality": 3,
-    "MaxVitality": 6,
-    "Special": 2,
-    "MaxSpecial": 4,
+    "MaxVitality": 7,
+    "Special": 3,
+    "MaxSpecial": 7,
     "Insight": 2,
-    "MaxInsight": 5,
+    "MaxInsight": 4,
     "Ability1": "Guts",
-    "Ability2": "Bulletproof",
-    "HiddenAbility": "Unnerve",
+    "Ability2": "Mind's Eye",
+    "HiddenAbility": "",
     "EventAbilities": "",
     "RecommendedRank": "Expert",
     "GenderType": "",
@@ -26,14 +26,14 @@
     "_id": "ursaluna",
     "DexCategory": "Peat Pokémon",
     "Height": {
-        "Meters": 2.4,
-        "Feet": 7.8
+        "Meters": 2.7,
+        "Feet": 8.8
     },
     "Weight": {
         "Kilograms": 417.0,
         "Pounds": 920.0
     },
-    "DexDescription": "An ancient Hisui tribe had stories about Ursaring evolving using peat. Peat is mostly useless and does not have any energy properties that could aid in evolution. No Ursaring has been reported to evolve in recent years.",
+    "DexDescription": "An old legend of the Kitakami region claims the blood moon comes after a tradegy has ravaged the land. All Ursaluna depicted by them show a red mark on its head and claimed seeing one was a bad omen.",
     "Evolutions": [
         {
             "From": "Ursaring",
@@ -42,7 +42,7 @@
             "Special": "Moon Ritual"
         }
     ],
-    "Image": "ursaluna.png",
+    "Image": "ursaluna-kitakami-form.png",
     "Moves": [
         {
             "Learned": "Starter",
@@ -58,7 +58,7 @@
         },
         {
             "Learned": "Rookie",
-            "Name": "Fake Tears"
+            "Name": "Snarl"
         },
         {
             "Learned": "Standard",
@@ -66,7 +66,7 @@
         },
         {
             "Learned": "Standard",
-            "Name": "Sweet Scent"
+            "Name": "Harden"
         },
         {
             "Learned": "Standard",
@@ -90,15 +90,15 @@
         },
         {
             "Learned": "Advanced",
-            "Name": "Metal Claw"
+            "Name": "Calm Mind"
         },
         {
             "Learned": "Advanced",
-            "Name": "Play Rough"
+            "Name": "Moonlight"
         },
         {
             "Learned": "Advanced",
-            "Name": "High Horsepower"
+            "Name": "Mud shot"
         },
         {
             "Learned": "Advanced",
@@ -110,23 +110,23 @@
         },
         {
             "Learned": "Expert",
-            "Name": "Stone Edge"
+            "Name": "Snore"
         },
         {
             "Learned": "Expert",
-            "Name": "Fire Punch"
+            "Name": "Hyper Voice"
         },
         {
             "Learned": "Expert",
-            "Name": "Ice Punch"
+            "Name": "Earth Power"
         },
         {
             "Learned": "Expert",
-            "Name": "Thunder Punch"
+            "Name": "Moonblast"
         },
         {
             "Learned": "Expert",
-            "Name": "Thrash"
+            "Name": "Blood Moon"
         },
         {
             "Learned": "Expert",
@@ -138,7 +138,7 @@
         },
         {
             "Learned": "Ace",
-            "Name": "Earthquake"
+            "Name": "Focus Blast"
         },
         {
             "Learned": "Ace",
@@ -146,7 +146,7 @@
         },
         {
             "Learned": "Ace",
-            "Name": "Giga Impact"
+            "Name": "Hyper Beam"
         }
     ]
 }
