@@ -16,8 +16,8 @@
     "Insight": 2,
     "MaxInsight": 5,
     "Ability1": "Compound Eyes",
-    "Ability2": "",
-    "HiddenAbility": "Tinted Lens",
+    "Ability2": "Tinted Lens",
+    "HiddenAbility": "",
     "EventAbilities": "",
     "RecommendedRank": "Standard",
     "GenderType": "",
@@ -31,7 +31,7 @@
     },
     "Weight": {
         "Kilograms": 32.0,
-        "Pounds": 70.5
+        "Pounds": 70.0
     },
     "DexDescription": "It can be found in forests and plains. It loves the honey in some flowers even with tiny amounts of pollen. Its wings are covered by dust that allows it to fly even when it's raining.",
     "Evolutions": [
@@ -60,7 +60,7 @@
             "Name": "Gust"
         },
         {
-            "Learned": "Rookie",
+            "Learned": "Standard",
             "Name": "Bug Bite"
         },
         {
