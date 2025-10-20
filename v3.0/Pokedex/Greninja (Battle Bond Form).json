@@ -1,6 +1,6 @@
 {
     "Number": 658,
-    "DexID": "0658F",
+    "DexID": "0658F1",
     "Name": "Greninja (Battle Bond Form)",
     "Type1": "Water",
     "Type2": "Dark",
@@ -15,9 +15,9 @@
     "MaxSpecial": 8,
     "Insight": 2,
     "MaxInsight": 5,
-    "Ability1": "Battle Bond",
+    "Ability1": "Protean",
     "Ability2": "",
-    "HiddenAbility": "Protean",
+    "HiddenAbility": "Battle Bond",
     "EventAbilities": "",
     "RecommendedRank": "Expert",
     "GenderType": "",
@@ -27,16 +27,16 @@
     "DexCategory": "Ninja Pokémon",
     "Height": {
         "Meters": 1.5,
-        "Feet": 4.9
+        "Feet": 5.0
     },
     "Weight": {
         "Kilograms": 40.0,
-        "Pounds": 88.2
+        "Pounds": 88.0
     },
     "DexDescription": "The mysteries of the Pokémon world are vast. There is something called 'The Bond Phenomenon' where a Pokémon and its trainer share a connection so strong that the Pokémon changes due to it.",
     "Evolutions": [
         {
-            "From": "Frogadier",
+            "From": "Greninja",
             "Kind": "Form"
         }
     ],
