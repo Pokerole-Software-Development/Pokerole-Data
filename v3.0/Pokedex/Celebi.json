@@ -4,7 +4,7 @@
     "Name": "Celebi",
     "Type1": "Grass",
     "Type2": "Psychic",
-    "BaseHP": 5,
+    "BaseHP": 6,
     "Strength": 6,
     "MaxStrength": 6,
     "Dexterity": 6,
@@ -108,6 +108,10 @@
         {
             "Learned": "Ace",
             "Name": "Worry Seed"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Life Dew"
         }
     ]
 }
