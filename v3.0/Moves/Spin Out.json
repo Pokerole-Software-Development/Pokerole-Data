@@ -7,12 +7,10 @@
     "Accuracy1": "Strength",
     "Accuracy2": "Brawl",
     "Target": "Foe",
-    "Effect": "Single Target. Lethal. Reduce the User's Dexterity by 2.",
+    "Effect": "Single Target. Reduce the User’s Dexterity by 2.",
     "Description": "The Pokémon spins its wheels or legs against a target pinned on the ground. This deals a lot of damage but also leaves the user too exhausted to run.",
     "_id": "spin-out",
-    "Attributes": {
-        "Lethal": true
-    },
+    "Attributes": {},
     "AddedEffects": {
         "StatChanges": [
             {

@@ -11,8 +11,7 @@
     "Description": "The Pokémon strikes with a powerful punch. Through contact, it absorbs some vital energy.",
     "_id": "drain-punch",
     "Attributes": {
-        "FistBased": true,
-        "FistMove": true
+        "FistBased": true
     },
     "AddedEffects": {
         "Heal": {

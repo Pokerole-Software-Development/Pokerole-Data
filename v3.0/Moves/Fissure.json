@@ -2,19 +2,17 @@
     "Name": "Fissure",
     "Type": "Ground",
     "Power": 0,
-    "Damage1": "-",
+    "Damage1": "",
     "Damage2": "",
     "Accuracy1": "Strength",
     "Accuracy2": "Channel",
     "Target": "Foe",
-    "Effect": "Single Target. Low Accuracy 5. Ranged. Deal Damage to the Target equal to its Remaining HP, plus 1 Lethal Damge. If the Target is out of range due to using the Move \"Dig\" this Move hits anyways.",
+    "Effect": "Single Target. Low Accuracy 5. Ranged. Deal Damage to the Target equal to its Remaining HP, plus 1 Lethal Damage. If the Target is Out of Range due to using the Move 'Dig' this Move hits anyways.",
     "Description": "The user tears the ground apart in a monstrous display of force. If the foe falls through the fissure, it might need a rescue team to get it out.",
     "_id": "fissure",
     "Attributes": {
         "PhysicalRanged": true,
-        "AccuracyReduction": -5,
-        "Lethal": true,
-        "Ranged": true
+        "AccuracyReduction": 5
     },
     "AddedEffects": {
         "FixedDamage": {

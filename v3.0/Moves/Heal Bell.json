@@ -6,13 +6,12 @@
     "Damage2": "",
     "Accuracy1": "Special",
     "Accuracy2": "Perform",
-    "Target": "All Allies",
+    "Target": "User and Allies",
     "Effect": "Target User and Allies in Range. Sound Move. Cure any Status Ailment on the Targets.",
     "Description": "The Pokemon chimes a magical bell. Legend says the soothing sound has healing properties.",
     "_id": "heal-bell",
     "Attributes": {
-        "SoundBased": true,
-        "SoundMove": true
+        "SoundBased": true
     },
     "AddedEffects": {
         "AilmentHeal": [

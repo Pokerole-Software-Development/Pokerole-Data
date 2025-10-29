@@ -4,21 +4,16 @@
     "Power": 2,
     "Damage1": "Strength",
     "Damage2": "",
-    "Accuracy1": "Strength",
+    "Accuracy1": "Dexterity",
     "Accuracy2": "Brawl",
     "Target": "Foe",
-    "Effect": "Single Target. Low Accuracy 1. Late Reaction 6. Switcher Move for the Foe.  In the wild, the battle may end.",
+    "Effect": "Single Target. Low Accuracy 1. Low Priority 6. Switcher Move for the Foe. In the wild, the battle ends.",
     "Description": "This powerful tail strike can knockback anyone up to 100 feet away!",
     "_id": "dragon-tail",
     "Attributes": {
         "SwitcherMove": true,
-        "AccuracyReduction": -1,
-        "Priority": 6,
-        "reaction": [
-            "Late ",
-            "6"
-        ],
-        "switcherMove": "Foe"
+        "AccuracyReduction": 1,
+        "Priority": 6
     },
     "AddedEffects": {},
     "Category": "Physical"

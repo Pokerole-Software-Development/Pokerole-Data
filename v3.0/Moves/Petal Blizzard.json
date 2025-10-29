@@ -7,13 +7,12 @@
     "Accuracy1": "Dexterity",
     "Accuracy2": "Channel",
     "Target": "Area",
-    "Effect": "Area Move. Ranged. Wind Move.",
+    "Effect": "Area Move. Ranged. Wind Based.",
     "Description": "The Pokémon showers the battlefield with a raging blizzard of petals and leaves. Anyone close to the user will suffer the consequences.",
     "_id": "petal-blizzard",
     "Attributes": {
         "PhysicalRanged": true,
-        "WindBased": true,
-        "Ranged": true
+        "WindBased": true
     },
     "AddedEffects": {},
     "Category": "Physical"

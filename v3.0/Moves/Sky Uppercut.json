@@ -7,12 +7,11 @@
     "Accuracy1": "Dexterity",
     "Accuracy2": "Athletic",
     "Target": "Foe",
-    "Effect": "Single Target. Fist Move. Low Accuracy 1.  If the Target is Out of Range due to using \"Fly\", \"Bounce\" or \"Sky Drop\" this Move hits anyways.",
+    "Effect": "Single Target. Low Accuracy 1. If the Target is Out of Range due to using 'Fly', 'Bounce', or 'Sky Drop' this Move hits anyways.",
     "Description": "The user attacks with an uppercut, throwing the foe skyward with lots of force. Even flyers are not safe from this attack.",
     "_id": "sky-uppercut",
     "Attributes": {
-        "AccuracyReduction": -1,
-        "FistMove": true
+        "AccuracyReduction": 1
     },
     "AddedEffects": {},
     "Category": "Physical"

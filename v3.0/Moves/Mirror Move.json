@@ -2,7 +2,7 @@
     "Name": "Mirror Move",
     "Type": "Flying",
     "Power": 0,
-    "Damage1": "SameasCopiedMove",
+    "Damage1": "",
     "Damage2": "",
     "Accuracy1": "Insight",
     "Accuracy2": "Perform",
@@ -11,8 +11,7 @@
     "Description": "The Pokémon parrots its target cries and movements. In an almost perfect impersonation that manages to copy its powers.",
     "_id": "mirror-move",
     "Attributes": {
-        "CopyMove": true,
-        "Unique": true
+        "CopyMove": true
     },
     "AddedEffects": {},
     "Category": "Support"

@@ -1,18 +1,17 @@
 {
     "Name": "Belch",
     "Type": "Poison",
-    "Power": 4,
+    "Power": 5,
     "Damage1": "Special",
     "Damage2": "",
-    "Accuracy1": "MissingBeautyPoints",
-    "Accuracy2": "",
+    "Accuracy1": "Special",
+    "Accuracy2": "Channel",
     "Target": "Foe",
-    "Effect": "Single Target. Low Accuracy 1. Sound Move. The user must eat a berry or something similar during the Round before using this Move, otherwise it will fail. This effect only works once per berry/food eaten.",
+    "Effect": "The user must eat something before using this Move. -1 Accuracy.",
     "Description": "The user lets out a horrible belch on the target. The air contains toxins that deal a terrible damage.",
     "_id": "belch",
     "Attributes": {
-        "AccuracyReduction": -1,
-        "SoundMove": true
+        "AccuracyReduction": 1
     },
     "AddedEffects": {},
     "Category": "Special"

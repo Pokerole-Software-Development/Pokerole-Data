@@ -7,12 +7,11 @@
     "Accuracy1": "Tough",
     "Accuracy2": "Channel",
     "Target": "Foe",
-    "Effect": "Single Target. Low Accuracy 3. Sound Move. Confuse the Target.",
+    "Effect": "Single Target. Low Accuracy 3. Confuse the Target.",
     "Description": "The Pokémon emits a series of ultrasonic waves that make the foe dizzy and disoriented.",
     "_id": "supersonic",
     "Attributes": {
-        "AccuracyReduction": -3,
-        "SoundMove": true
+        "AccuracyReduction": 3
     },
     "AddedEffects": {
         "Ailments": [

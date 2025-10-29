@@ -7,12 +7,12 @@
     "Accuracy1": "Special",
     "Accuracy2": "Channel",
     "Target": "Foe",
-    "Effect": "Single Target. Low Accuracy 1. lethal. Reduce User's Special by 2.",
+    "Effect": "Single Target. Low Accuracy 1. Lethal. Reduce User's Special by 2.",
     "Description": "The Pokémon calls a comet that falls from the sky to deal a brutal amount of damage. eat demands a lot from the user.",
     "_id": "draco-meteor",
     "Attributes": {
         "Lethal": true,
-        "AccuracyReduction": -1
+        "AccuracyReduction": 1
     },
     "AddedEffects": {
         "StatChanges": [

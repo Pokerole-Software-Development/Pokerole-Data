@@ -6,17 +6,13 @@
     "Damage2": "",
     "Accuracy1": "Will",
     "Accuracy2": "Alert",
-    "Target": "Self",
-    "Effect": "Target Self. Reaction 5. Shield Move. Reduce 3 Damage this Pokemon would receive from a Physical or Special Move. Negate the Added Effects of Moves that target the user.",
+    "Target": "User",
+    "Effect": "Target Self. Priority 5. Shield Move. Reduce 3 Damage this Pokémon would receive from a Physical or Special Move. Negate the Added Effects of Any Moves that target the user.",
     "Description": "The user creates an energy shield to deflect a blow. Some Pokémon may even perform an amazing parry to block the incoming attack.",
     "_id": "protect",
     "Attributes": {
         "ShieldMove": true,
-        "Priority": 5,
-        "reaction": [
-            null,
-            "5"
-        ]
+        "Priority": 5
     },
     "AddedEffects": {},
     "Category": "Support"

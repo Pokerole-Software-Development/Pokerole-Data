@@ -6,17 +6,13 @@
     "Damage2": "",
     "Accuracy1": "Will",
     "Accuracy2": "Channel",
-    "Target": "Self",
-    "Effect": "Target Self. Reaction 5. Shield Move. If a Physical or Special Move would cause the user to fant, they remain at 1 HP instead, remove this effect afterwards. The effect re-activates on the user's next Turn. Whole Round duration.",
+    "Target": "User",
+    "Effect": "Target Self. Priority 5. Shield Move. For the rest of the Round, Physical & Special Moves cannot reduce the user's HP to less than 1. Status Ailments, Weather Conditions, Recoil, Self inflicted damage can still deal damage.",
     "Description": "The user gets prepared to receive a fatal blow. It resists the pain despite being seriously hurt.",
     "_id": "endure",
     "Attributes": {
         "ShieldMove": true,
-        "Priority": 5,
-        "reaction": [
-            null,
-            "5"
-        ]
+        "Priority": 5
     },
     "AddedEffects": {
         "Ailments": [

@@ -7,17 +7,17 @@
     "Accuracy1": "Dexterity",
     "Accuracy2": "Brawl",
     "Target": "All Foes",
-    "Effect": "All Foes in Range. Poison those Affected. Remove Entry Hazards, Terrains (ie Grassy Terrain, Misty Terrain), Ongoing Damage and Leech seed from the User or their side of the field.",
+    "Effect": "All Foes in Range. Poison those Affected. Remove Entry Hazards, Terrains (eg. Grassy Terrain, Misty Terrain), Ongoing Damage, and Leech Seed from the User or their side of the Field.",
     "Description": "The user spins around the field, cutting through obstacles and shooting small darts full of a toxic venom. The earth is poisoned and left barren.",
     "_id": "mortal-spin",
     "Attributes": {},
     "AddedEffects": {
         "Ailments": [
-            {
-                "Type": "Poison",
-                "Affects": "Targets"
-            }
-        ]
+        {
+            "Type": "Poison",
+            "Affects": "Targets"
+        }
+    ]
     },
     "Category": "Physical"
 }

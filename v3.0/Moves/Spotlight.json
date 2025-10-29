@@ -6,17 +6,13 @@
     "Damage2": "",
     "Accuracy1": "Cool",
     "Accuracy2": "Perform",
-    "Target": "Ally",
-    "Effect": "Target One Ally. Reaction 3. All of the Foe's Moves will Target the Chosen Ally if able. Duration 1 Round.",
+    "Target": "One Ally",
+    "Effect": "Target One Ally. Priority 3. All of the Foe's Moves able to do so will Target the Targeted Ally. Duration 1 Round.",
     "Description": "The user points a focused light onto one of its allies as if it were on a stage. The ally can't help but catch everyone's attention.",
     "_id": "spotlight",
     "Attributes": {
         "Priority": 3,
-        "Duration": 1,
-        "reaction": [
-            null,
-            "3"
-        ]
+        "Duration": 1
     },
     "AddedEffects": {
         "Ailments": [

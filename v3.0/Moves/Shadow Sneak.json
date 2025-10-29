@@ -7,15 +7,11 @@
     "Accuracy1": "Dexterity/Strength",
     "Accuracy2": "Stealth",
     "Target": "Foe",
-    "Effect": "Single Target. Reaction 1.",
+    "Effect": "Single Target. Priority 1.",
     "Description": "The user sneaks through darkness and strikes out of the target's shadow. The Pokémon can move freely inside shadows as if it were incorporeal.",
     "_id": "shadow-sneak",
     "Attributes": {
-        "Priority": 1,
-        "reaction": [
-            null,
-            "1"
-        ]
+        "Priority": 1
     },
     "AddedEffects": {},
     "Category": "Physical"

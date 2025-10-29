@@ -7,18 +7,13 @@
     "Accuracy1": "Vitality",
     "Accuracy2": "Brawl",
     "Target": "Foe",
-    "Effect": "Single Target. Low Accuracy -1. Late Reaction 1. Switcher Move for the foe.",
+    "Effect": "Single Target. Low Accuracy 1. Low Priority 1. Switcher Move for the foe.",
     "Description": "The user throws the target 60 feet out of the battlefield.",
     "_id": "circle-throw",
     "Attributes": {
         "SwitcherMoveForFoe": true,
-        "AccuracyReduction": -1,
-        "Priority": -1,
-        "reaction": [
-            "Late ",
-            "1"
-        ],
-        "switcherMove": "Foe"
+        "AccuracyReduction": 1,
+        "Priority": -1
     },
     "AddedEffects": {},
     "Category": "Physical"

@@ -7,15 +7,11 @@
     "Accuracy1": "Insight",
     "Accuracy2": "Channel",
     "Target": "Foe",
-    "Effect": "Single Target. Reaction 1.",
+    "Effect": "Single Target. Priority 1.",
     "Description": "The user pulls the enemy closer using the power of its ki. This traction has a lot of strength and may break anything it pulls.",
     "_id": "vacuum-wave",
     "Attributes": {
-        "Priority": 1,
-        "reaction": [
-            null,
-            "1"
-        ]
+        "Priority": 1
     },
     "AddedEffects": {},
     "Category": "Special"

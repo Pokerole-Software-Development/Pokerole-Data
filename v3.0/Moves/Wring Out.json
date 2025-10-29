@@ -7,12 +7,10 @@
     "Accuracy1": "Strength",
     "Accuracy2": "Brawl",
     "Target": "Foe",
-    "Effect": "Single Target. Lethal. *Remove 1 Dice from the Damage Pool for every missing HP on the target. Up to 4 Dice may be removed this way.",
+    "Effect": "Single Target. Remove 1 Dice from the Damage Pool for every missing HP on the target. Up to 4 Dice may be removed this way.",
     "Description": "The Pokémon literally squeezes the life out of its target. As life is fading, squeezing will be harder.",
     "_id": "wring-out",
-    "Attributes": {
-        "Lethal": true
-    },
+    "Attributes": {},
     "AddedEffects": {},
     "Category": "Physical"
 }

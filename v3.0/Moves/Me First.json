@@ -1,19 +1,18 @@
 {
     "Name": "Me First",
     "Type": "Normal",
-    "Power": 0,
-    "Damage1": "SameasCopiedMove+1",
+    "Power": 1,
+    "Damage1": "",
     "Damage2": "",
     "Accuracy1": "Insight",
     "Accuracy2": "Athletic",
     "Target": "Foe",
-    "Effect": "Single Target. Priority. Copy Move. Support Moves can't be copied. Unique Moves can't be copied. You may choose another Target(s) for the copied Move.",
+    "Effect": "Single Target. Priority 1. Copy Move. Support Moves can't be copied. Unique Moves can't be copied. You may choose another Target(s) for the copied Move.",
     "Description": "The user anticipates the next attack so it can hit the target with astounding speed.",
     "_id": "me-first",
     "Attributes": {
         "Priority": 1,
-        "CopyMove": true,
-        "Unique": true
+        "CopyMove": true
     },
     "AddedEffects": {},
     "Category": "Support"

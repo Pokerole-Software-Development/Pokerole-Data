@@ -5,15 +5,12 @@
     "Damage1": "Strength",
     "Damage2": "",
     "Accuracy1": "Special",
-    "Accuracy2": "Brawl",
+    "Accuracy2": "Channel",
     "Target": "Foe",
-    "Effect": "Single Target. Fist Move. Unique. Double Action. Roll 3 Chance Dice to Flinch the Foe after each hit. This Move may only Flinch once.",
+    "Effect": "Roll 3 Chance Dice to Flinch the Foe.",
     "Description": "The user hardens its limbs and then rotates them at great speed to hit the foe twice in a row. The blow can leave the victim crushed on the floor.",
     "_id": "double-iron-bash",
-    "Attributes": {
-        "Unique": true,
-        "DoubleAction": true
-    },
+    "Attributes": {},
     "AddedEffects": {
         "Ailments": [
             {

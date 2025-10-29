@@ -4,7 +4,7 @@
     "Power": 4,
     "Damage1": "Strength",
     "Damage2": "",
-    "Accuracy1": "Strength/Dexterity",
+    "Accuracy1": "Strength",
     "Accuracy2": "Channel",
     "Target": "Foe",
     "Effect": "Single Target. Low Accuracy 2. Ranged. Projectile Move.",
@@ -12,9 +12,8 @@
     "_id": "egg-bomb",
     "Attributes": {
         "PhysicalRanged": true,
-        "AccuracyReduction": -2,
-        "ProjectileMove": true,
-        "Ranged": true
+        "AccuracyReduction": 2,
+        "ProjectileMove": true
     },
     "AddedEffects": {},
     "Category": "Physical"

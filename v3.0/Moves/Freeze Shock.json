@@ -4,7 +4,7 @@
     "Power": 6,
     "Damage1": "Strength",
     "Damage2": "",
-    "Accuracy1": "Special",
+    "Accuracy1": "Strength",
     "Accuracy2": "Channel",
     "Target": "Foe",
     "Effect": "Single Target. Low Accuracy 1. Charge Move. Ranged. Lethal. Unique. Roll 3 Chance Dice to Paralyze the Target.",
@@ -14,9 +14,8 @@
         "Lethal": true,
         "PhysicalRanged": true,
         "Charge": true,
-        "AccuracyReduction": -1,
-        "Unique": true,
-        "Ranged": true
+        "AccuracyReduction": 1,
+        "Unique": true
     },
     "AddedEffects": {
         "Ailments": [

@@ -7,13 +7,12 @@
     "Accuracy1": "Clever",
     "Accuracy2": "Stealth",
     "Target": "Foe",
-    "Effect": "Single Target. Replace the User's Ability with the Target's. Whole Scene Duration.  Unique Abilities can't be copied.",
+    "Effect": "Single Target. Replace the User's Ability with the Target's. Whole Scene Duration. Unique Abilities can't be copied.",
     "Description": "By doodling a quick drawing of their target the doodle somehow allows the Pokémon to make use of the depicted creature's powers.",
     "_id": "doodle",
     "Attributes": {
         "Duration": "wholeScene",
-        "AbiltyChange": true,
-        "Unique": true
+        "AbiltyChange": true
     },
     "AddedEffects": {},
     "Category": "Support"

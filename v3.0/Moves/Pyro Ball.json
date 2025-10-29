@@ -5,15 +5,14 @@
     "Damage1": "Strength",
     "Damage2": "",
     "Accuracy1": "Strength",
-    "Accuracy2": "Channel/Athletic",
+    "Accuracy2": "Athletic/Channel",
     "Target": "Foe",
-    "Effect": "Single Target. Low Accuracy 1. Projectile Move. Ranged. Roll 1 Chance die to inflict 2nd Degree Burn on the Target.",
+    "Effect": "Single Target. Low Accuracy 1. Ranged. Roll 1 Chance Die to inflict 2nd Degree Burn on the Target.",
     "Description": "The Pokémon lights a heavy stone on fire and kicks it while it's ablaze. The hit is pretty heavy already; the fire is just for showing off.",
     "_id": "pyro-ball",
     "Attributes": {
-        "AccuracyReduction": -1,
-        "PhysicalRanged": true,
-        "Ranged": true
+        "AccuracyReduction": 1,
+        "PhysicalRanged": true
     },
     "AddedEffects": {
         "Ailments": [

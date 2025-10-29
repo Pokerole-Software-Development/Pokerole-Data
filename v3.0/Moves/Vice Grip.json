@@ -7,12 +7,10 @@
     "Accuracy1": "Strength",
     "Accuracy2": "Brawl",
     "Target": "Foe",
-    "Effect": "Single Target. Lethal.",
+    "Effect": "Single Target.",
     "Description": "The Pokémon traps the foe with its pincers or jaws and applies pressure that will leave a nasty bruise.",
     "_id": "vice-grip",
-    "Attributes": {
-        "Lethal": true
-    },
+    "Attributes": {},
     "AddedEffects": {},
     "Category": "Physical"
 }

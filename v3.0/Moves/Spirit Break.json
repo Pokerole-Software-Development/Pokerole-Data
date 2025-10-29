@@ -1,18 +1,16 @@
 {
     "Name": "Spirit Break",
     "Type": "Fairy",
-    "Power": 3,
+    "Power": 2,
     "Damage1": "Strength",
     "Damage2": "",
     "Accuracy1": "Insight",
-    "Accuracy2": "Intimidate",
+    "Accuracy2": "Brawl",
     "Target": "Foe",
-    "Effect": "Single Target. Reduce the Target's Special by 1.",
+    "Effect": "If successful, reduce the Foe's Special.",
     "Description": "Sometimes words hurt a lot more than blows. With this Move the Pokemon deals both.",
     "_id": "spirit-break",
-    "Attributes": {
-        "AccuracyReduction": -1
-    },
+    "Attributes": {},
     "AddedEffects": {
         "StatChanges": [
             {

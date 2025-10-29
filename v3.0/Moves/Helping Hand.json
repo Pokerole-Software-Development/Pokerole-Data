@@ -5,17 +5,13 @@
     "Damage1": "",
     "Damage2": "",
     "Accuracy1": "Cool",
-    "Accuracy2": "Alert",
-    "Target": "Ally",
-    "Effect": "Target One Ally. Reaction 5. The Target Gets 2 Extra Dice on their next Skill Check/Accuracy Roll, and 2 Extra Dice on their next Damage Roll. This Effect does not Stack.",
+    "Accuracy2": "Perform",
+    "Target": "One Ally",
+    "Effect": "Target One Ally. Priority 5. The Target Gets 2 Extra Dice on their next Skill Check / Accuracy Roll, and 2 Extra Dice on their next Damage Roll. This Effect does not Stack.",
     "Description": "The Pokemon assists an ally. Together they are stronger.",
     "_id": "helping-hand",
     "Attributes": {
-        "Priority": 5,
-        "reaction": [
-            null,
-            "5"
-        ]
+        "Priority": 5
     },
     "AddedEffects": {
         "Ailments": [

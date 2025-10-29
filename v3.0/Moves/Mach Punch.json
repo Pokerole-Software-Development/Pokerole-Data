@@ -7,17 +7,12 @@
     "Accuracy1": "Dexterity",
     "Accuracy2": "Brawl",
     "Target": "Foe",
-    "Effect": "Single Target. Reaction 1. Fist Move.",
+    "Effect": "Single Target. Priority 1. Fist Move.",
     "Description": "The user launches a punch so quickly that it's barely seen.",
     "_id": "mach-punch",
     "Attributes": {
         "FistBased": true,
-        "Priority": 1,
-        "reaction": [
-            null,
-            "1"
-        ],
-        "FistMove": true
+        "Priority": 1
     },
     "AddedEffects": {},
     "Category": "Physical"

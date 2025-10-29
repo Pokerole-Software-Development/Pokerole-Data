@@ -7,12 +7,10 @@
     "Accuracy1": "Will",
     "Accuracy2": "Channel",
     "Target": "Foe",
-    "Effect": "Single Target. The User Faints. Reduce the Target's Will to 0 points and reset any effect it got from spending them. Roll Target's Loyalty at the end of the round, increase difficulty by 1 each round. Failing this roll faints the Target.",
+    "Effect": "Single Target. The User Faints. Reduce the Target's Will to 0 and reset any Effects it got from spending Will Points. Roll Target's Loyalty at the end of the round; increase difficulty by 1 each round. Failing this roll faints the Target.",
     "Description": "The user leaves an imprinting grudge on the foe; this makes the target unwilling to fight. It may only keep battling if something greater is at risk.",
     "_id": "grudge",
-    "Attributes": {
-        "UserFaints": true
-    },
+    "Attributes": {},
     "AddedEffects": {},
     "Category": "Support"
 }

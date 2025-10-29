@@ -7,13 +7,12 @@
     "Accuracy1": "Dexterity",
     "Accuracy2": "Brawl",
     "Target": "Foe",
-    "Effect": "Single Target. Low Accuracy 1. Fist Move. Roll 2 Chance Dice to increase the User's Strength by 1.",
+    "Effect": "Fist Based. Roll 2 Chance Dice to Increase the User's Strength. -1 Accuracy.",
     "Description": "The user charges with a strong fist and strikes like a meteor.",
     "_id": "meteor-mash",
     "Attributes": {
         "FistBased": true,
-        "AccuracyReduction": -1,
-        "FistMove": true
+        "AccuracyReduction": 1
     },
     "AddedEffects": {
         "StatChanges": [

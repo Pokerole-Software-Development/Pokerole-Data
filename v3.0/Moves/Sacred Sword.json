@@ -7,12 +7,11 @@
     "Accuracy1": "Strength",
     "Accuracy2": "Brawl",
     "Target": "Foe",
-    "Effect": "Single Target. Cutter Move. Ignore Defenses.",
+    "Effect": "Single Target. Ignore Defenses.",
     "Description": "The user slashes at its target with a mighty blade. There's no hide nor armor thick enough to resist its valorous steel.",
     "_id": "sacred-sword",
     "Attributes": {
-        "IgnoreDefenses": true,
-        "CutterMove": true
+        "IgnoreDefenses": true
     },
     "AddedEffects": {},
     "Category": "Physical"

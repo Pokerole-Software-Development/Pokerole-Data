@@ -7,11 +7,11 @@
     "Accuracy1": "Strength",
     "Accuracy2": "Athletic",
     "Target": "Foe",
-    "Effect": "Single Target. Low Accuracy 2. Roll 2 Chance Dice to Confuse the Target.  Out of battle it aids to climb cliffs and mountains with ease.",
+    "Effect": "Single Target. Low Accuracy 2. Roll 2 Chance Dice to Confuse the Target. Out of battle it aids to climb cliffs and mountains with ease.",
     "Description": "The user climbs on top of the foe. This may be confusing for some Pokemon.",
     "_id": "rock-climb",
     "Attributes": {
-        "AccuracyReduction": -2
+        "AccuracyReduction": 2
     },
     "AddedEffects": {
         "Ailments": [

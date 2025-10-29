@@ -7,11 +7,11 @@
     "Accuracy1": "Dexterity",
     "Accuracy2": "Brawl",
     "Target": "Foe",
-    "Effect": "Single Target. Low Accuracy 1. Roll 1 Chance Die to Increase the User's Strength by 1.",
+    "Effect": "Roll 1 Chance Dice to Increase the user's Strength. -1 Accuracy.",
     "Description": "The Pokemon attacks using its sharp claws, the friction may leave them even sharper.",
     "_id": "metal-claw",
     "Attributes": {
-        "AccuracyReduction": -1
+        "AccuracyReduction": 1
     },
     "AddedEffects": {
         "StatChanges": [

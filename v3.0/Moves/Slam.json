@@ -7,11 +7,11 @@
     "Accuracy1": "Strength",
     "Accuracy2": "Brawl",
     "Target": "Foe",
-    "Effect": "Single Target. Low Accuracy 1.",
+    "Effect": "Single Target. Low Accuracy 2.",
     "Description": "The user slams the foe with its tail, vines, etc. to deal a decent amount of damage.",
     "_id": "slam",
     "Attributes": {
-        "AccuracyReduction": -1
+        "AccuracyReduction": 2
     },
     "AddedEffects": {},
     "Category": "Physical"

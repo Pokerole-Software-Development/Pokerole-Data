@@ -14,9 +14,8 @@
         "Lethal": true,
         "PhysicalRanged": true,
         "MustRecharge": true,
-        "AccuracyReduction": -1,
-        "ProjectileMove": true,
-        "Ranged": true
+        "AccuracyReduction": 1,
+        "ProjectileMove": true
     },
     "AddedEffects": {},
     "Category": "Physical"

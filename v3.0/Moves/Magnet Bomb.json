@@ -4,17 +4,15 @@
     "Power": 2,
     "Damage1": "Strength",
     "Damage2": "",
-    "Accuracy1": "Special",
+    "Accuracy1": "Dexterity",
     "Accuracy2": "Channel",
     "Target": "Foe",
-    "Effect": "Single Target. Ranged. Never Miss. Projectile Move.",
+    "Effect": "Ranged. Never Fail.",
     "Description": "The Pokemon hurls a metal bomb that is attracted to the target like a magnet. The moment it touches the foe, it will explode.",
     "_id": "magnet-bomb",
     "Attributes": {
         "PhysicalRanged": true,
-        "NeverFail": true,
-        "Ranged": true,
-        "neverMiss": true
+        "NeverFail": true
     },
     "AddedEffects": {},
     "Category": "Physical"

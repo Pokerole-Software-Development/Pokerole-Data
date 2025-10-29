@@ -5,18 +5,14 @@
     "Damage1": "",
     "Damage2": "",
     "Accuracy1": "Cool",
-    "Accuracy2": "Charm/Etiquette",
+    "Accuracy2": "Allure",
     "Target": "Foe",
-    "Effect": "Single Target. Reaction 3. The Target will repeat the exact same action sequence it had last Round. Target must have had an action sequence. Duration 1 Round. If used on the previous Round, this move fails. See more on p. 529.",
+    "Effect": "Single Target. Priority 3. The Target will repeat the exact same action sequence it had last Round. Target must have had an action sequence. This effect lasts 4 Rounds.",
     "Description": "The user claps and cheers at the target to encourage it to repeat what it just did.",
     "_id": "encore",
     "Attributes": {
         "Priority": 3,
-        "Duration": 4,
-        "reaction": [
-            null,
-            "3"
-        ]
+        "Duration": 4
     },
     "AddedEffects": {},
     "Category": "Support"

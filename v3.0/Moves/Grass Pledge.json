@@ -1,13 +1,13 @@
 {
     "Name": "Grass Pledge",
     "Type": "Grass",
-    "Power": 3,
+    "Power": 2,
     "Damage1": "Special",
     "Damage2": "",
     "Accuracy1": "Insight",
     "Accuracy2": "Nature",
-    "Target": "Area",
-    "Effect": "Area Move. Reduce by 1 the Dexterity of those affected. This Effect Targets the Battle Field: Entry Hazard. Reduce by 1 the Dexterity of Target's that enter the battlefield. Pokemon with Immunity to Ground are not affected.",
+    "Target": "Battlefield and Area",
+    "Effect": "Area Move. Reduce the Dexterity of those Affected. This Effect Targets the Battlefield: Entry Hazard. Reduce by 1 the Dexterity of Targets that enter the Battlefield. Pokémon with Immunity to Ground-Type Moves are not Affected.",
     "Description": "The Pokémon chants to invoke the power of grass. Its pledge is heard and then soil trembles and the ground crumbles as vegetation rises to grapple anyone in the field.",
     "_id": "grass-pledge",
     "Attributes": {

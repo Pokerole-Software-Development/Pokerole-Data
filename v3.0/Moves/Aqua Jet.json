@@ -5,17 +5,13 @@
     "Damage1": "Strength",
     "Damage2": "",
     "Accuracy1": "Dexterity",
-    "Accuracy2": "Brawl",
+    "Accuracy2": "Athletic",
     "Target": "Foe",
-    "Effect": "Single Target. Reaction 1.",
+    "Effect": "Single Target. Priority 1.",
     "Description": "The user propels itself with a blast of water and strikes at high speed.",
     "_id": "aqua-jet",
     "Attributes": {
-        "Priority": 1,
-        "reaction": [
-            null,
-            "1"
-        ]
+        "Priority": 1
     },
     "AddedEffects": {},
     "Category": "Physical"

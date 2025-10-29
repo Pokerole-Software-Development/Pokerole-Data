@@ -7,15 +7,11 @@
     "Accuracy1": "Dexterity",
     "Accuracy2": "Brawl",
     "Target": "Foe",
-    "Effect": "Single Target. Reaction 2.  Out of battle, triple the Pokemon's movement speed.",
+    "Effect": "Single Target. Priority 2.",
     "Description": "The user charges at a blinding speed against the target.",
     "_id": "extreme-speed",
     "Attributes": {
-        "Priority": 2,
-        "reaction": [
-            null,
-            "2"
-        ]
+        "Priority": 2
     },
     "AddedEffects": {
         "Ailments": [

@@ -6,8 +6,8 @@
     "Damage2": "",
     "Accuracy1": "Vitality",
     "Accuracy2": "Stealth",
-    "Target": "Self",
-    "Effect": "Target Self. Deal 2 damage to the User. Put a Substitute Decoy with 2 HP and the same defenses as the user. See p. 531",
+    "Target": "User",
+    "Effect": "Target Self. Deal 2 Damage to the User. Put a Decoy with 2HP and the same defenses as the user. If the Decoy's HP is depleted, it breaks and the User comes back into the fight. Decoy can only be affected by Damage from Physical & Special Moves.",
     "Description": "The Pokémon disappears in a poof of smoke. A decoy identical to the user takes their place in battle. The user keeps attacking from the shadows while the decoy serves as distraction.",
     "_id": "substitute",
     "Attributes": {

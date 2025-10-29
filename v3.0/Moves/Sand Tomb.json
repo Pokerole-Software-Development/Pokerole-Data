@@ -7,16 +7,15 @@
     "Accuracy1": "Strength",
     "Accuracy2": "Nature",
     "Target": "Foe",
-    "Effect": "Single Target. Low Accuracy 2. Ranged. Blocks. Ongoing Damage. Duration 4 Rounds. Increase the Target's difficulty t Evade at Storyteller's discretion.",
+    "Effect": "Single Target. Low Accuracy 2. Ranged. Blocks. Ongoing Damage. Duration 4 Rounds. Increase the Target's difficulty to Evade at Storyteller's discretion.",
     "Description": "The Pokémon creates a shifting sand pit around the foe to bury it alive. The poor victim struggles for air as the sand sinks them lower and lower.",
     "_id": "sand-tomb",
     "Attributes": {
         "PhysicalRanged": true,
         "BlockDamagePool": 2,
-        "AccuracyReduction": -2,
+        "AccuracyReduction": 2,
         "OngoingDamage": true,
-        "Duration": 4,
-        "Ranged": true
+        "Duration": 4
     },
     "AddedEffects": {
         "Ailments": [

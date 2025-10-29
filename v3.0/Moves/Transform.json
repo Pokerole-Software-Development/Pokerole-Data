@@ -6,13 +6,12 @@
     "Damage2": "",
     "Accuracy1": "Will",
     "Accuracy2": "Channel",
-    "Target": "Self",
-    "Effect": "Target Self. Unique Move. The User transforms into a copy of a chosen Target. It has the same Ability, Attributes, Attribute Increases and Reductions, and Moves, keeping Transform. Whole Scene Duration.",
+    "Target": "User",
+    "Effect": "Target Self. The User transforms into a copy of a chosen Target. It has the same Ability, Attributes, Attribute Increases and Reductions, and Moves. Whole Scene Duration.",
     "Description": "The user modifies its own DNA structure to become an identical clone of any Pokemon or object it can see.",
     "_id": "transform",
     "Attributes": {
-        "Duration": "wholeScene",
-        "Unique": true
+        "Duration": "wholeScene"
     },
     "AddedEffects": {},
     "Category": "Support"

@@ -4,7 +4,7 @@
     "Power": 2,
     "Damage1": "Strength",
     "Damage2": "",
-    "Accuracy1": "Strength",
+    "Accuracy1": "Dexterity",
     "Accuracy2": "Channel",
     "Target": "Foe",
     "Effect": "Single Target. Low Accuracy 1. Ranged. Reduce the Target's Dexterity by 1.",
@@ -12,8 +12,7 @@
     "_id": "rock-tomb",
     "Attributes": {
         "PhysicalRanged": true,
-        "AccuracyReduction": -1,
-        "Ranged": true
+        "AccuracyReduction": 1
     },
     "AddedEffects": {
         "StatChanges": [

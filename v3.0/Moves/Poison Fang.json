@@ -4,15 +4,13 @@
     "Power": 2,
     "Damage1": "Strength",
     "Damage2": "",
-    "Accuracy1": "Strength",
+    "Accuracy1": "Dexterity",
     "Accuracy2": "Brawl",
     "Target": "Foe",
-    "Effect": "Single Target. Bite Move. Roll 5 Chance Dice to Badly Poison the Target.",
+    "Effect": "Roll 5 Chance Dice to Badly Poison the Foe.",
     "Description": "The Pokemon bites the foe and injects its poison directly through its fangs. After that it just waits for the poison to slowly take care of its foe.",
     "_id": "poison-fang",
-    "Attributes": {
-        "BiteMove": true
-    },
+    "Attributes": {},
     "AddedEffects": {
         "Ailments": [
             {

@@ -7,12 +7,12 @@
     "Accuracy1": "Dexterity",
     "Accuracy2": "Brawl",
     "Target": "Foe",
-    "Effect": "Single Target. Low Accuracy 2. High Critical.",
+    "Effect": "Single Target. Low Accuracy 2. High Critical",
     "Description": "The user delivers a chop with its arms crossed, trying to hit a weak spot.",
     "_id": "cross-chop",
     "Attributes": {
         "HighCritical": true,
-        "AccuracyReduction": -2
+        "AccuracyReduction": 2
     },
     "AddedEffects": {},
     "Category": "Physical"

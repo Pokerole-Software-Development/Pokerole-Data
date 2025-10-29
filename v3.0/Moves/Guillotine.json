@@ -2,7 +2,7 @@
     "Name": "Guillotine",
     "Type": "Normal",
     "Power": 0,
-    "Damage1": "-",
+    "Damage1": "",
     "Damage2": "",
     "Accuracy1": "Strength",
     "Accuracy2": "Brawl",
@@ -12,7 +12,7 @@
     "_id": "guillotine",
     "Attributes": {
         "Lethal": true,
-        "AccuracyReduction": -5
+        "AccuracyReduction": 5
     },
     "AddedEffects": {
         "FixedDamage": {

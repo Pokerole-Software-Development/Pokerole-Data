@@ -6,13 +6,12 @@
     "Damage2": "",
     "Accuracy1": "Insight",
     "Accuracy2": "Etiquette",
-    "Target": "Ally",
+    "Target": "One Ally",
     "Effect": "Target One Ally. Copy Move. Choose one Move known by an Ally or member of your party, who may or may not be active in battle. You may choose another Target(s) for the Move. Unique Moves can't be copied.",
     "Description": "The user hurriedly remembers actions performed by others and mimics them. Some Pokémon can even imitate human tasks and help carry them out.",
     "_id": "assist",
     "Attributes": {
-        "CopyMove": true,
-        "Unique": true
+        "CopyMove": true
     },
     "AddedEffects": {},
     "Category": "Support"

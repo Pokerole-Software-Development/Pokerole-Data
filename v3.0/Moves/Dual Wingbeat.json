@@ -7,11 +7,11 @@
     "Accuracy1": "Dexterity",
     "Accuracy2": "Brawl",
     "Target": "Foe",
-    "Effect": "Single Target. Low Accuarcy 1. Double action.",
+    "Effect": "Single Target. Low Accuracy 1. Double Action.",
     "Description": "The Pokémon slams the foe from above. Each wing provides a good smacking.",
     "_id": "dual-wingbeat",
     "Attributes": {
-        "AccuracyReduction": -1,
+        "AccuracyReduction": 2,
         "DoubleAction": true
     },
     "AddedEffects": {},

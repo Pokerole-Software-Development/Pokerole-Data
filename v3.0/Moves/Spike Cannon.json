@@ -7,13 +7,12 @@
     "Accuracy1": "Dexterity",
     "Accuracy2": "Brawl",
     "Target": "Foe",
-    "Effect": "Single Target. Ranged. Successive Actions. Projectile Move.",
+    "Effect": "Single Target. Ranged. Succesive Actions.",
     "Description": "The Pokémon shoots a wave of pointy projectiles at the foe.",
     "_id": "spike-cannon",
     "Attributes": {
         "PhysicalRanged": true,
-        "SuccessiveActions": true,
-        "Ranged": true
+        "SuccessiveActions": true
     },
     "AddedEffects": {},
     "Category": "Physical"

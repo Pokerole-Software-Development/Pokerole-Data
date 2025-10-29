@@ -7,7 +7,7 @@
     "Accuracy1": "Strength",
     "Accuracy2": "Brawl",
     "Target": "Foe",
-    "Effect": "Single Target. Roll 2 Chance Dice to Poison the Target.   *If the User's Special score is higher than their Strength, this Move becomes Special, using Channel for accuracy and inflicting damage with Special.",
+    "Effect": "Single Target. Roll 2 Chance Dice to Poison the Target. If the User’s Strength score is higher than their Special, this Move becomes Physical, using Brawl for Accuracy and inflicting Damage with Strength.",
     "Description": "The Pokémon shoots toxic slime at the foe. The blast produced by the shot of its strong arm is just as devastating as the slime.",
     "_id": "shell-side-arm-(physical)",
     "Attributes": {},
@@ -20,5 +20,5 @@
             }
         ]
     },
-    "Category": "Strength"
+    "Category": "Physical"
 }

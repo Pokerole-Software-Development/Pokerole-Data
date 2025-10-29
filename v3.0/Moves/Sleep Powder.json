@@ -7,12 +7,11 @@
     "Accuracy1": "Clever",
     "Accuracy2": "Nature",
     "Target": "Foe",
-    "Effect": "Single Target. Low Accuracy 3. Powder Move. Put the Target to Sleep.",
+    "Effect": "Single Target. Low Accuracy 3. Put the Target to Sleep.",
     "Description": "The user scatters powder around. Anyone who comes in contact with it will fall asleep.",
     "_id": "sleep-powder",
     "Attributes": {
-        "AccuracyReduction": -3,
-        "PowderMove": true
+        "AccuracyReduction": 3
     },
     "AddedEffects": {
         "Ailments": [

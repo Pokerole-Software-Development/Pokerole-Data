@@ -7,15 +7,11 @@
     "Accuracy1": "Strength",
     "Accuracy2": "Nature",
     "Target": "Foe",
-    "Effect": "Single Target. Late Reaction 4. *If the User received damage from the target during this Turn add 2 Extra Dice to the Damage Pool. *If Snowy Weather is active add 2 Extra Dice to the Damage Pool.",
+    "Effect": "Single Target. Low Priority 4. If the User received damage from the target during this Round, add 2 Extra Dice to the Damage Pool.",
     "Description": "The user builds up a lot of snow around itself. If anything disturbs the snow, it will fall on the attacker like an avalanche.",
     "_id": "avalanche",
     "Attributes": {
-        "Priority": -4,
-        "reaction": [
-            "Late ",
-            "4"
-        ]
+        "Priority": -4
     },
     "AddedEffects": {},
     "Category": "Physical"
