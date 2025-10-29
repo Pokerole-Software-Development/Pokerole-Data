@@ -1,0 +1,21 @@
+{
+    "Name": "jet stream",
+    "Type": "Dragon",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Special",
+    "Accuracy2": "Channel",
+    "Target": "All Allies",
+    "Effect": "Targets User and Allies in Range. On the next round, the User and their Allies have Reaction 1 on all moves.",
+    "Description": "",
+    "_id": "",
+    "Attributes": {
+        "reaction": [
+            null,
+            "1"
+        ]
+    },
+    "AddedEffects": {},
+    "Category": "Support"
+}

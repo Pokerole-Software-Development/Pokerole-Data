@@ -11,7 +11,7 @@
     "Description": "The user charges rapidly against the foe. The strike may leave the target gasping for air.",
     "_id": "dragon-rush",
     "Attributes": {
-        "AccuracyReduction": 2
+        "AccuracyReduction": -2
     },
     "AddedEffects": {
         "Ailments": [

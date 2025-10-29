@@ -7,11 +7,12 @@
     "Accuracy1": "Special",
     "Accuracy2": "Channel",
     "Target": "Foe",
-    "Effect": "Single Target. If the User has already received Damage from the Target this Round, Remove the Target's Ability for the rest of the Scene. This effect does not end by switching out the affected Pokémon. Unique Abilities are not affected by this.",
+    "Effect": "Single Target. If the User has already received Damage from the Target this Round, Remove the Target's Ability for the rest of the scene. This effect does not end by switching out the affected Pokemon. Unique Abilities are not affected by this effect.",
     "Description": "Zygarde shoots a beam that fractures the target to its core, rendering it unable to sustain even the most basic of its traits.",
     "_id": "core-enforcer",
     "Attributes": {
-        "Duration": "wholeScene"
+        "Duration": "wholeScene",
+        "Unique": true
     },
     "AddedEffects": {},
     "Category": "Special"

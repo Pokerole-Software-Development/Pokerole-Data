@@ -1,0 +1,19 @@
+{
+    "Name": "blazing torque",
+    "Type": "Fire",
+    "Power": 4,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Special",
+    "Accuracy2": "Channel",
+    "Target": "Foe",
+    "Effect": "Single Target. Lethal. Ranged. Roll 3 Chance dice to inflict 2nd Degee Burn on the Target.",
+    "Description": "",
+    "_id": "",
+    "Attributes": {
+        "Lethal": true,
+        "Ranged": true
+    },
+    "AddedEffects": {},
+    "Category": "Physical"
+}

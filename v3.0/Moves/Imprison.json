@@ -6,8 +6,8 @@
     "Damage2": "",
     "Accuracy1": "Clever",
     "Accuracy2": "Channel",
-    "Target": "Foe",
-    "Effect": "Single Target. The Target cannot use Moves also known by the User. Whole Scene Duration. This effect does not end by switching out the Affected Pokémon.",
+    "Target": "Self",
+    "Effect": "Target Self. While the User is on the battlefield, Moves known by the User cannot be used by foes. This effect ends if the User is removed from battle.",
     "Description": "This move blocks specific parts of the memory the user is well aware of. Be it moves, techniques, names, places, people, or situations; the target won't be able to recall those memories.",
     "_id": "imprison",
     "Attributes": {

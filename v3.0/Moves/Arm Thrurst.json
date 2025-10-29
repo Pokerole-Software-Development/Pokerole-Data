@@ -1,0 +1,18 @@
+{
+    "Name": "arm thrurst",
+    "Type": "Fighting",
+    "Power": 1,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "Single Target. Successive Actions.",
+    "Description": "",
+    "_id": "",
+    "Attributes": {
+        "SuccessiveActions": true
+    },
+    "AddedEffects": {},
+    "Category": "Physical"
+}

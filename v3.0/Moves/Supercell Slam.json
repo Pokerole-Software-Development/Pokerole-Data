@@ -1,0 +1,18 @@
+{
+    "Name": "supercell slam",
+    "Type": "Electric",
+    "Power": 4,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "Single Target. Low Accuracy 1. If the Accuracy roll fails, Roll 4 Dice of Typeless Damage against the user, ignoring defenses.",
+    "Description": "",
+    "_id": "",
+    "Attributes": {
+        "AccuracyReduction": -1
+    },
+    "AddedEffects": {},
+    "Category": "Physical"
+}

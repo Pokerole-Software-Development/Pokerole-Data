@@ -4,14 +4,14 @@
     "Power": 3,
     "Damage1": "Strength",
     "Damage2": "",
-    "Accuracy1": "Dexterity",
+    "Accuracy1": "Strength",
     "Accuracy2": "Brawl",
     "Target": "Foe",
-    "Effect": "Roll 1 Chance Dice to Reduce foe's Strength. -1 Accuracy.",
+    "Effect": "Single Target. Low Accuracy 1. Roll 1 Chance Dice to Reduce Target's Strength by 1.",
     "Description": "The user and the foe start a playful wrestle, it soon escalates into something not so pretty.",
     "_id": "play-rough",
     "Attributes": {
-        "AccuracyReduction": 1
+        "AccuracyReduction": -1
     },
     "AddedEffects": {
         "StatChanges": [

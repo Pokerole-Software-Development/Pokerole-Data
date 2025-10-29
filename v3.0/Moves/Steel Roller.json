@@ -7,11 +7,12 @@
     "Accuracy1": "Strength",
     "Accuracy2": "Brawl",
     "Target": "Foe",
-    "Effect": "Can’t be used if there is no Active Terrain (Grassy Terrain, Electric Terrain etc.) on the Battlefield. Remove any active Terrain on the Battlefield.",
+    "Effect": "Single Target. Lethal. Can't be used if there is no Active Terrain (Grassy Terrain, Electric Terrain, etc.) on the Battlefield. Remove any active Terrain on the Battlefield.",
     "Description": "The Pokémon rolls so fast it seems to turn into a wheel destroy- ing anything on its path. Buildings come crashing down, forests are swept away and the soil is left as a blank slate.",
     "_id": "steel-roller",
     "Attributes": {
-        "ResetTerrain": true
+        "ResetTerrain": true,
+        "Lethal": true
     },
     "AddedEffects": {},
     "Category": "Physical"

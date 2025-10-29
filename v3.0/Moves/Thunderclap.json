@@ -1,0 +1,21 @@
+{
+    "Name": "thunderclap",
+    "Type": "Electric",
+    "Power": 3,
+    "Damage1": "Special",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Channel",
+    "Target": "Foe",
+    "Effect": "Single Target. Reaction 6. *This Move can only be used as a Reaction and only if the Target used a Physical or Special Move, otherwise it will fail.",
+    "Description": "",
+    "_id": "",
+    "Attributes": {
+        "reaction": [
+            null,
+            "6"
+        ]
+    },
+    "AddedEffects": {},
+    "Category": "Special"
+}

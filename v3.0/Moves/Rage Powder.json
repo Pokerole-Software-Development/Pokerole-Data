@@ -6,12 +6,17 @@
     "Damage2": "",
     "Accuracy1": "Insight",
     "Accuracy2": "Intimidate",
-    "Target": "User",
-    "Effect": "Target Self. Priority 2. For the rest of the Round, all Damaging Moves performed by Foes must target the User.",
+    "Target": "Self",
+    "Effect": "Target Self. Reaction 2. Powder Move. All of the Foe's Physical and Special Moves will Target the user if able. Duration 1 Round.",
     "Description": "The Pokemon releases an irritating powder that annoys and enrages foes into attacking.",
     "_id": "rage-powder",
     "Attributes": {
-        "Priority": 2
+        "Priority": 2,
+        "reaction": [
+            null,
+            "2"
+        ],
+        "PowderMove": true
     },
     "AddedEffects": {
         "Ailments": [

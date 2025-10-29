@@ -7,11 +7,13 @@
     "Accuracy1": "Dexterity",
     "Accuracy2": "Brawl",
     "Target": "Foe",
-    "Effect": "Single Target. Never Miss.",
+    "Effect": "Single Target. Cutter Move. Never Miss.",
     "Description": "The Pokémon rises up in the air towards a light source, momentarily blinding the foe, then plummets quickly to attack the opponent.",
     "_id": "aerial-ace",
     "Attributes": {
-        "NeverFail": true
+        "NeverFail": true,
+        "neverMiss": true,
+        "CutterMove": true
     },
     "AddedEffects": {},
     "Category": "Physical"

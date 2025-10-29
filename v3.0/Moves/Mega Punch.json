@@ -11,8 +11,9 @@
     "Description": "The Pokemon throws a mega-potent hook towards the foe's face.",
     "_id": "mega-punch",
     "Attributes": {
-        "AccuracyReduction": 1,
-        "FistBased": true
+        "AccuracyReduction": -1,
+        "FistBased": true,
+        "FistMove": true
     },
     "AddedEffects": {},
     "Category": "Physical"

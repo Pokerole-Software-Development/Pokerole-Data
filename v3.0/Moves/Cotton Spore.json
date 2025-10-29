@@ -7,10 +7,12 @@
     "Accuracy1": "Clever",
     "Accuracy2": "Nature",
     "Target": "Foe",
-    "Effect": "Single Target. Reduce the Target's Dexterity by 2.",
+    "Effect": "Single Target. Powder Move. Reduce the Target's Dexterity by 2.",
     "Description": "The Pokémon covers the foe in cotton, disrupting its movement speed.",
     "_id": "cotton-spore",
-    "Attributes": {},
+    "Attributes": {
+        "PowderMove": true
+    },
     "AddedEffects": {
         "StatChanges": [
             {

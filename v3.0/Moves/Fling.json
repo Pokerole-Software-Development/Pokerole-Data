@@ -7,11 +7,12 @@
     "Accuracy1": "Dexterity",
     "Accuracy2": "Channel",
     "Target": "Foe",
-    "Effect": "Single Target. Ranged. *Add up to 4 Damage. User loses its Held Item. Item Thrown. See P. XXX for more info.",
+    "Effect": "Single Target. Ranged. *If the User is holding an Item, Add up to 4 dice to the damage pool. User loses its Held Item. See p. 530",
     "Description": "The user takes its held item and throws it at the opponent. You may get it back after the fight.",
     "_id": "fling",
     "Attributes": {
-        "PhysicalRanged": true
+        "PhysicalRanged": true,
+        "Ranged": true
     },
     "AddedEffects": {},
     "Category": "Physical"

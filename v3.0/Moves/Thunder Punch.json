@@ -11,7 +11,8 @@
     "Description": "A charged punch to deliver a shocking blow.",
     "_id": "thunder-punch",
     "Attributes": {
-        "FistBased": true
+        "FistBased": true,
+        "FistMove": true
     },
     "AddedEffects": {
         "Ailments": [

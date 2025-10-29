@@ -7,13 +7,14 @@
     "Accuracy1": "Strength",
     "Accuracy2": "Brawl",
     "Target": "Foe",
-    "Effect": "Single Target. Lethal. Cutter. Never Miss.",
+    "Effect": "Single Target. Lethal. Cutter Move. Never Miss.",
     "Description": "The user gets on their knees and bows to its foe, then as the foe accepts this courtesy, a treacherous slash reveals the evil intent of the ruse.",
     "_id": "knock-off",
     "Attributes": {
         "Lethal": true,
         "CutterMove": true,
-        "NeverFail": true
+        "NeverFail": true,
+        "neverMiss": true
     },
     "AddedEffects": {},
     "Category": "Physical"

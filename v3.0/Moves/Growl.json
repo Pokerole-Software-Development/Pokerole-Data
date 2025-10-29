@@ -11,7 +11,8 @@
     "Description": "Either by a menacing attitude or cute demeanor, the foe will be unsure about attacking the user with full force.",
     "_id": "growl",
     "Attributes": {
-        "SoundBased": true
+        "SoundBased": true,
+        "SoundMove": true
     },
     "AddedEffects": {
         "StatChanges": [

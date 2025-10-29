@@ -1,0 +1,19 @@
+{
+    "Name": "electro shot",
+    "Type": "Electric",
+    "Power": 6,
+    "Damage1": "Special",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Channel",
+    "Target": "Foe",
+    "Effect": "Single Target. Lethal. Charge Move. If Rain Weather is active, you skip this Move's Charge acton. Increase the User's Special Score by 1.",
+    "Description": "",
+    "_id": "",
+    "Attributes": {
+        "Lethal": true,
+        "Charge": true
+    },
+    "AddedEffects": {},
+    "Category": "Special"
+}

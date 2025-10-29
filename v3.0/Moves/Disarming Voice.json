@@ -5,14 +5,16 @@
     "Damage1": "Special",
     "Damage2": "",
     "Accuracy1": "Insight",
-    "Accuracy2": "Perform",
+    "Accuracy2": "Charm/Perform",
     "Target": "All Foes",
-    "Effect": "Sound Based. Never Fail. Targets All foes in range.",
+    "Effect": "Target All Foes in Range. Sound Move. Never Miss.",
     "Description": "With a charming and manipulative cry, the user deals emotional damage to its opponent. This move always makes the target feel bad.",
     "_id": "disarming-voice",
     "Attributes": {
         "SoundBased": true,
-        "NeverFail": true
+        "NeverFail": true,
+        "neverMiss": true,
+        "SoundMove": true
     },
     "AddedEffects": {},
     "Category": "Special"

@@ -7,11 +7,12 @@
     "Accuracy1": "Beauty",
     "Accuracy2": "Perform",
     "Target": "Area",
-    "Effect": "Area Move. Sound Move. Three Rounds after this Move is used, deal damage to those affected equal to their remaining HP. Removing the User from battle prevents this effect.",
+    "Effect": "Area Move. Sound Move. Three Rounds after this Move is used, deal damage to those affected equal to their remaining HP. Removing from battle prevents this effect.",
     "Description": "A song of mourning and despair that resonates on the minds of anyone who listens. Makes you feel like you are on your death bed.",
     "_id": "perish-song",
     "Attributes": {
-        "SoundBased": true
+        "SoundBased": true,
+        "SoundMove": true
     },
     "AddedEffects": {
         "Ailments": [

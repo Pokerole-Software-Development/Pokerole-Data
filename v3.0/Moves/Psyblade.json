@@ -1,0 +1,19 @@
+{
+    "Name": "psyblade",
+    "Type": "Psychic",
+    "Power": 3,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Dexterity/Insight",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "Single Target. Lethal. Cutter Move. *If Electric Terrain is active, add 2 Extra Dice to the Damage pool of this Move.",
+    "Description": "",
+    "_id": "",
+    "Attributes": {
+        "Lethal": true,
+        "CutterMove": true
+    },
+    "AddedEffects": {},
+    "Category": "Physical"
+}

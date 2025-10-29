@@ -13,7 +13,8 @@
     "Attributes": {
         "PhysicalRanged": true,
         "SuccessiveActions": true,
-        "AccuracyReduction": 1
+        "AccuracyReduction": -1,
+        "Ranged": true
     },
     "AddedEffects": {},
     "Category": "Physical"

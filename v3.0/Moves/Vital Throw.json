@@ -7,12 +7,17 @@
     "Accuracy1": "Vitality",
     "Accuracy2": "Brawl",
     "Target": "Foe",
-    "Effect": "Single Target. Low Priority 1. Never Miss.",
+    "Effect": "Single Target. Late Reaction 1. Never Miss.",
     "Description": "The Pokémon waits for the perfect moment to strike the foe.",
     "_id": "vital-throw",
     "Attributes": {
         "NeverFail": true,
-        "Priority": -1
+        "Priority": -1,
+        "reaction": [
+            "Late ",
+            "1"
+        ],
+        "neverMiss": true
     },
     "AddedEffects": {},
     "Category": "Physical"

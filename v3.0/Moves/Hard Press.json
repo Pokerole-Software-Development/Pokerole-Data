@@ -1,0 +1,18 @@
+{
+    "Name": "hard press",
+    "Type": "Steel",
+    "Power": 6,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Strength",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "Single Target. *Reduce 1 Die from the Damage Pool for every missing Hp the User has. Up to 5 Dice may be removed this way.",
+    "Description": "",
+    "_id": "",
+    "Attributes": {
+        "HurtPenalty": true
+    },
+    "AddedEffects": {},
+    "Category": "Physical"
+}

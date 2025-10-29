@@ -6,8 +6,8 @@
     "Damage2": "",
     "Accuracy1": "Special",
     "Accuracy2": "Channel",
-    "Target": "All Foes",
-    "Effect": "All Foes in Range. Reduce the User’s Special by 2. At the end of the battle give the User and every Trainer whose Pokémon was hit money equal to their Rank: Starter/Rookie - $50.00; Standard - $100.00; Advanced - $200.00; Ace - $500.00",
+    "Target": "Area",
+    "Effect": "Area Move. Reduce the User's Special by 2. At the end of the battle give the User and every Trainer whose Pokemon was hit, Money equal to their Rank: Starter/Rookie - 100 Standard - 250 Advanced - 500 Ace or more - 1000",
     "Description": "The Pokémon bursts in an explosion of golden light that makes bits of gold fall from the sky. The explosion doesn’t tell friend from foe and neither does money.",
     "_id": "pay-day",
     "Attributes": {
@@ -19,8 +19,8 @@
                 "Stats": [
                     "Special"
                 ],
-                    "Stages": -2,
-                    "Affects": "User"
+                "Stages": -2,
+                "Affects": "User"
             }
         ],
         "Ailments": [

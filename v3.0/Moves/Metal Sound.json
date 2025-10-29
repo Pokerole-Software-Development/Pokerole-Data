@@ -7,11 +7,12 @@
     "Accuracy1": "Tough",
     "Accuracy2": "Perform",
     "Target": "Foe",
-    "Effect": "Sound Based. Reduce the foe's Special Defense by 2.",
+    "Effect": "Single Target. Sound Move. Reduce the Target's Sp. Defense by 2.",
     "Description": "The user produces a horrible noise that impedes the foe from focusing on the fight, leaving it vulnerable to attacks.",
     "_id": "metal-sound",
     "Attributes": {
-        "SoundBased": true
+        "SoundBased": true,
+        "SoundMove": true
     },
     "AddedEffects": {
         "StatChanges": [

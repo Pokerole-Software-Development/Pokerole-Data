@@ -12,7 +12,8 @@
     "_id": "rock-throw",
     "Attributes": {
         "PhysicalRanged": true,
-        "AccuracyReduction": 1
+        "AccuracyReduction": -1,
+        "Ranged": true
     },
     "AddedEffects": {},
     "Category": "Physical"

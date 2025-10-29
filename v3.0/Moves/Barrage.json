@@ -13,8 +13,9 @@
     "Attributes": {
         "PhysicalRanged": true,
         "SuccessiveActions": true,
-        "AccuracyReduction": 1,
-        "ProjectileMove": true
+        "AccuracyReduction": -1,
+        "ProjectileMove": true,
+        "Ranged": true
     },
     "AddedEffects": {},
     "Category": "Physical"

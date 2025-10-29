@@ -6,12 +6,16 @@
     "Damage2": "",
     "Accuracy1": "Dexterity",
     "Accuracy2": "Athletic",
-    "Target": "User and Allies",
-    "Effect": "Target User and Allies in Range. Shield Move. Reduce 3 Damage from a Physical or Special Move.",
+    "Target": "All Allies",
+    "Effect": "Target User and Allies in Range. Shield Move. Reaction 1. Reduce 3 Damage from a Physical or Special Move.",
     "Description": "The Pokemon uses a mat or something similar as a shield.",
     "_id": "mat-block",
     "Attributes": {
-        "ShieldMove": true
+        "ShieldMove": true,
+        "reaction": [
+            null,
+            "1"
+        ]
     },
     "AddedEffects": {},
     "Category": "Support"

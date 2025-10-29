@@ -4,16 +4,21 @@
     "Power": 0,
     "Damage1": "",
     "Damage2": "",
-    "Accuracy1": "Dexterity",
+    "Accuracy1": "Dexterity/Special",
     "Accuracy2": "Nature",
     "Target": "Foe",
-    "Effect": "Single Target. Low Priority 6. Wind Based. Switcher Move for the Foe. In the wild, the battle ends.",
+    "Effect": "Single Target. Late Reaction 6. Switcher Move for the Foe.  In the wild, the battle may end.",
     "Description": "The Pokémon creates a powerful wind current that swirls the enemy around and sends it flying away.",
     "_id": "whirlwind",
     "Attributes": {
         "SwitcherMoveForFoe": true,
         "Priority": -6,
-        "WindBased": true
+        "WindBased": true,
+        "reaction": [
+            "Late ",
+            "6"
+        ],
+        "switcherMove": "Foe"
     },
     "AddedEffects": {},
     "Category": "Support"

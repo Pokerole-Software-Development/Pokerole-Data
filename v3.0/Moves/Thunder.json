@@ -7,12 +7,12 @@
     "Accuracy1": "Special",
     "Accuracy2": "Channel",
     "Target": "Foe",
-    "Effect": "Single Target. Low Accuracy 2. Lethal. Roll 3 Chance Dice to Paralyze the Target. Rain Weather eliminates Low Accuracy. Sunny Weather increases it Low Accuracy 4. If the Target is Out of Range due to using “Fly”, “Bounce” or “Sky Drop” this Move hits anyways.",
+    "Effect": "Single Target. Low Accuracy 2. Lethal. Roll 3 Chance Dice to Paralyze the Target. Rain Weather eliminates Low Accuracy. Sunny Weather increases it to Low Accuracy 4. If the Target is Out of Range due to using \"Fly\", \"Bounce\", or \"Sky Drop\" this Move hits anyways.",
     "Description": "The Pokémon commands the skies to send a giant lightning bolt to a specific point. Difficult to command under clear skies, lethal during a storm. Flying Pokémon are specially vulnerable.",
     "_id": "thunder",
     "Attributes": {
         "Lethal": true,
-        "AccuracyReduction": 2
+        "AccuracyReduction": -2
     },
     "AddedEffects": {
         "Ailments": [

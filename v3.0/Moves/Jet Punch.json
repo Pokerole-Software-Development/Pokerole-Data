@@ -7,12 +7,17 @@
     "Accuracy1": "Dexterity",
     "Accuracy2": "Brawl",
     "Target": "Foe",
-    "Effect": "Single Target. Priority 1. Fist Based.",
+    "Effect": "Single Target. Reaction 1. Fist Move.",
     "Description": "The fist of justice strikes true, swift ... and wet!",
     "_id": "jet-punch",
     "Attributes": {
         "Priority": 1,
-        "FistBased": true
+        "FistBased": true,
+        "reaction": [
+            null,
+            "1"
+        ],
+        "FistMove": true
     },
     "AddedEffects": {},
     "Category": "Physical"

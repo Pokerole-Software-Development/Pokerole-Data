@@ -7,12 +7,12 @@
     "Accuracy1": "Special",
     "Accuracy2": "Channel",
     "Target": "Foe",
-    "Effect": "Single Target. Low Accuracy 1. Must Recharge.",
+    "Effect": "Single Target. Low Accuracy 1. Must Recharge",
     "Description": "The Pokémon blasts the foe with a water surge that could bring down a house. The user needs to rest afterwards.",
     "_id": "hydro-cannon",
     "Attributes": {
         "MustRecharge": true,
-        "AccuracyReduction": 1
+        "AccuracyReduction": -1
     },
     "AddedEffects": {},
     "Category": "Special"

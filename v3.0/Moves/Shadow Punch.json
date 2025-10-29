@@ -12,7 +12,9 @@
     "_id": "shadow-punch",
     "Attributes": {
         "FistBased": true,
-        "NeverFail": true
+        "NeverFail": true,
+        "neverMiss": true,
+        "FistMove": true
     },
     "AddedEffects": {},
     "Category": "Physical"

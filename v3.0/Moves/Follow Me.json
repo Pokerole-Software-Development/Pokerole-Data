@@ -6,13 +6,17 @@
     "Damage2": "",
     "Accuracy1": "Cool",
     "Accuracy2": "Perform",
-    "Target": "User",
-    "Effect": "Target Self. Priority 5. All Foes' Moves able to do so will Target the User. Duration 1 Round.",
+    "Target": "Self",
+    "Effect": "Target Self. Reaction 5. All Foe's Moves able to do so will Target the user. Duration 1 Round.",
     "Description": "The Pokémon will draw everyone's attention. All foes are taunted to do their worst.",
     "_id": "follow-me",
     "Attributes": {
         "Priority": 5,
-        "Duration": 1
+        "Duration": 1,
+        "reaction": [
+            null,
+            "5"
+        ]
     },
     "AddedEffects": {
         "Ailments": [

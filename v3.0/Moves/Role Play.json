@@ -12,7 +12,8 @@
     "_id": "role-play",
     "Attributes": {
         "AbilityChange": true,
-        "Duration": "wholeScene"
+        "Duration": "wholeScene",
+        "Unique": true
     },
     "AddedEffects": {
         "Ailments": [

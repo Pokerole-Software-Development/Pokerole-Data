@@ -4,7 +4,7 @@
     "Power": 1,
     "Damage1": "Strength",
     "Damage2": "",
-    "Accuracy1": "Strength",
+    "Accuracy1": "Strength/Dexterity",
     "Accuracy2": "Brawl",
     "Target": "Foe",
     "Effect": "Single Target. Ranged. Double Action. Roll 2 Chance Dice to Poison the Target each hit.",
@@ -12,7 +12,8 @@
     "_id": "twineedle",
     "Attributes": {
         "PhysicalRanged": true,
-        "DoubleAction": true
+        "DoubleAction": true,
+        "Ranged": true
     },
     "AddedEffects": {
         "Ailments": [

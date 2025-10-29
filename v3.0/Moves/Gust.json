@@ -7,11 +7,12 @@
     "Accuracy1": "Dexterity",
     "Accuracy2": "Channel",
     "Target": "Foe",
-    "Effect": "Single Target. Wind Based. If the Target is Out of Range due to using 'Fly', 'Bounce', or 'Sky Drop', this Move hits anyways.",
+    "Effect": "Single Target. Wind Move. If the Target is Out of Range due to using \"Fly\", \"Bounce\" or \"Sky Drop\", this Move hits anyway.",
     "Description": "The Pokemon flaps its wings to strike the foe with wind.",
     "_id": "gust",
     "Attributes": {
-        "WindBaed": true
+        "WindBaed": true,
+        "WindBased": true
     },
     "AddedEffects": {},
     "Category": "Special"

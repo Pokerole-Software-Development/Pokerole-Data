@@ -7,11 +7,12 @@
     "Accuracy1": "Insight",
     "Accuracy2": "Intimidate",
     "Target": "Foe",
-    "Effect": "Single Target. Sound-based. Target spends 2 Will points without any benefit, this effect does not stack.",
+    "Effect": "Single Target. Sound Move. Target spends 3 Will points without any benefit, this effect does not stack.",
     "Description": "The Pokémon mutters ancient forbidden and forgotten power words. The mere sound breaks the spirit of anyone who hears it.",
     "_id": "eerie-spell",
     "Attributes": {
-        "SoundBased": true
+        "SoundBased": true,
+        "SoundMove": true
     },
     "AddedEffects": {},
     "Category": "Special"

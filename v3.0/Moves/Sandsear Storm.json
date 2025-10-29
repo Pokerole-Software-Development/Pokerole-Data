@@ -7,12 +7,12 @@
     "Accuracy1": "Special",
     "Accuracy2": "Nature",
     "Target": "Area",
-    "Effect": "Area Move. Low Accuracy 2. Lethal. Wind Based. Roll 3 Chance Dice to inflict 2nd Degree Burn to those Affected.",
+    "Effect": "Area Move. Low Accuracy 2. Lethal. Wind Move. Roll 3 Chance Dice to inflict 2nd Degree Burn on those affected.",
     "Description": "An overwhelming storm made of blistering sands rages through the battlefield. Survivors describe it as being hit with live coal embers.",
     "_id": "sandsear-storm",
     "Attributes": {
         "WindBased": true,
-        "AccuracyReduction": 2,
+        "AccuracyReduction": -2,
         "Lethal": true
     },
     "AddedEffects": {

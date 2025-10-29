@@ -4,13 +4,15 @@
     "Power": 2,
     "Damage1": "Special",
     "Damage2": "",
-    "Accuracy1": "Dexterity",
+    "Accuracy1": "Special",
     "Accuracy2": "Channel",
     "Target": "Foe",
-    "Effect": "-",
+    "Effect": "Single Target. Wind Move.",
     "Description": "The Pokemon strikes with a wind covered in fairy dust. It causes itching.",
     "_id": "fairy-wind",
-    "Attributes": {},
+    "Attributes": {
+        "WindBased": true
+    },
     "AddedEffects": {},
     "Category": "Special"
 }

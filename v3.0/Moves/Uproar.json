@@ -7,12 +7,13 @@
     "Accuracy1": "Dexterity",
     "Accuracy2": "Channel",
     "Target": "Random Foe",
-    "Effect": "Target Random foe. Sound Move. This Effect Targets the Battle Field: Pokémon will be cured of the Sleep Status. Duration 1 Round.",
+    "Effect": "Target Random Foe. Sound Move.  This Effect Targets the Battle Field: Pokemon will be cured of the Sleep Status. Duration 1 Round.",
     "Description": "The Pokémon shouts and screams and squaks so hard the noise really hurts the ears. Nobody could get a full night of sleep with all that ruckus.",
     "_id": "uproar",
     "Attributes": {
         "SoundBased": true,
-        "Duration": 1
+        "Duration": 1,
+        "SoundMove": true
     },
     "AddedEffects": {},
     "Category": "Special"

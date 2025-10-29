@@ -1,0 +1,18 @@
+{
+    "Name": "malignant chain",
+    "Type": "Poison",
+    "Power": 4,
+    "Damage1": "Special",
+    "Damage2": "",
+    "Accuracy1": "Insight",
+    "Accuracy2": "Channel/Intimidate",
+    "Target": "Foe",
+    "Effect": "Single Target. Unique. Roll 5 Chance Dice to Badly Poison the Target. At the end of the Round, if the Target was Poisoned by this Move, roll their Loyalty, get at least 3 successes, if it fails, from the next Round the Target becomes the user's Ally untl the poison is healed.",
+    "Description": "",
+    "_id": "",
+    "Attributes": {
+        "Unique": true
+    },
+    "AddedEffects": {},
+    "Category": "Special"
+}
