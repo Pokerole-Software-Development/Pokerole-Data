@@ -7,11 +7,13 @@
     "Accuracy1": "Vitality",
     "Accuracy2": "Stealth",
     "Target": "Foe",
-    "Effect": "Single Target. Lethal. Low Priority 3. This Move's damage is only rolled the next time the User is hit with a Non-Ranged Physical Attack.",
+    "Effect": "Single Target. Lethal. Late Reaction 3. This Move's damage is only rolled the next time the User is hit with a Non-Ranged Physical attack.",
     "Description": "It apparently just buries underground, but secretely the Pokémon prepares its shell to detonate; anyone who steps on it will be blown to pieces.",
     "_id": "shell-trap",
     "Attributes": {
-        "Priority": -3
+        "LateReaction": "3",
+        "Lethal": true,
+        "Ranged": true
     },
     "AddedEffects": {
         "Ailments": [

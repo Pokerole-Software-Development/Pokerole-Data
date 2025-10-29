@@ -7,11 +7,11 @@
     "Accuracy1": "Insight",
     "Accuracy2": "Brawl",
     "Target": "Foe",
-    "Effect": "Roll 3 Chance Dice to Flinch the foe.",
+    "Effect": "Single Target. Low Accuracy 1. Roll 3 Chance Dice to Flinch the Target.",
     "Description": "The user focuses its will on its head to strike with a headbutt.",
     "_id": "zen-headbutt",
     "Attributes": {
-        "AccuracyReduction": 1
+        "AccuracyReduction": -1
     },
     "AddedEffects": {
         "Ailments": [

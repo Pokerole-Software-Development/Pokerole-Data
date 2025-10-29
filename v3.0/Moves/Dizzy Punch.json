@@ -11,7 +11,8 @@
     "Description": "The Pokémon locates their enemy's balance point and lands a swift punch that disorients and confuses the target.",
     "_id": "dizzy-punch",
     "Attributes": {
-        "FistBased": true
+        "FistBased": true,
+        "FistMove": true
     },
     "AddedEffects": {
         "Ailments": [

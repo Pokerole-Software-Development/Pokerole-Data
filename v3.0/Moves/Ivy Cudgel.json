@@ -1,0 +1,16 @@
+{
+    "Name": "Ivy Cudgel",
+    "Type": "Grass",
+    "Power": 3,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Strength/Insight",
+    "Accuracy2": "Nature",
+    "Target": "Foe",
+    "Effect": "Single Target. *The Type of this Move becomes the same as the User's Secondary Type if possible Otherwise their Main Type. This affects Weakness, Resistances, and STAB accordingly.",
+    "Description": "",
+    "_id": "ivy_cudgel",
+    "Attributes": {},
+    "AddedEffects": {},
+    "Category": "Physical"
+}

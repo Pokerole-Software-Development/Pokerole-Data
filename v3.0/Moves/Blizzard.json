@@ -7,13 +7,14 @@
     "Accuracy1": "Special",
     "Accuracy2": "Channel",
     "Target": "All Foes",
-    "Effect": "All Foes in Range. Low Accuracy 2. Lethal. Wind Based. Roll 1 Chance Die to Freeze those Affected. Sunny Weather increases to Low Accuracy 4. Hail/Snowy Weather eliminates Low Accuracy and adds the effect 'Never Miss'.",
+    "Effect": "All Foes in Range. Low Accuracy 2. Lethal. Wind Move. Roll 1 Chance Die to Freeze those affected. *Sunny Weather increases to Low Accuracy 4. **Hail/Snowy Weather remove Low Accuracy and adds the effect \"Never Miss\".",
     "Description": "The user summons a turbulent and gelid wind that feels like ice daggers. A pleasant day may make it difficult to call upon, but beware if the temperatures go below zero.",
     "_id": "blizzard",
     "Attributes": {
-        "AccuracyReduction": 2,
+        "AccuracyReduction": -2,
         "Lethal": true,
-        "WindBased": true
+        "WindBased": true,
+        "NeverMiss": true
     },
     "AddedEffects": {
         "Ailments": [

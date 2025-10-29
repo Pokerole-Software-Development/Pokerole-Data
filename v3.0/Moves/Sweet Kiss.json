@@ -5,13 +5,13 @@
     "Damage1": "",
     "Damage2": "",
     "Accuracy1": "Cute",
-    "Accuracy2": "Allure",
+    "Accuracy2": "Charm",
     "Target": "Foe",
-    "Effect": "Confuse the foe. -2 Accuracy.",
+    "Effect": "Single Target. Low Accuracy 2. Confuse the Target.",
     "Description": "The Pokemon moves towards the foe and plants a delicate kiss on its cheek, then leaves playfully. The foe struggles to know what it meant.",
     "_id": "sweet-kiss",
     "Attributes": {
-        "AccuracyReduction": 2
+        "AccuracyReduction": -2
     },
     "AddedEffects": {
         "Ailments": [

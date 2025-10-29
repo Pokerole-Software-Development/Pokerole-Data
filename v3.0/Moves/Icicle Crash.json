@@ -7,11 +7,12 @@
     "Accuracy1": "Dexterity",
     "Accuracy2": "Channel",
     "Target": "Foe",
-    "Effect": "Single Target. Low Accuracy 1. Roll 3 Chance Dice to Flinch the Target.",
+    "Effect": "Single Target. Low Accuracy 1. Lethal. Roll 3 Chance Dice to Flinch the Target.",
     "Description": "The user drops a big icicle over the foe. The impact may leave the opponent dazed.",
     "_id": "icicle-crash",
     "Attributes": {
-        "AccuracyReduction": 1
+        "AccuracyReduction": -1,
+        "Lethal": true
     },
     "AddedEffects": {
         "Ailments": [

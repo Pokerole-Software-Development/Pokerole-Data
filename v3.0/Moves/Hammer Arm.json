@@ -4,14 +4,15 @@
     "Power": 4,
     "Damage1": "Strength",
     "Damage2": "",
-    "Accuracy1": "Strength",
+    "Accuracy1": "Dexterity",
     "Accuracy2": "Brawl",
     "Target": "Foe",
-    "Effect": "Single Target. Low Accuracy 1. Reduce User's Dexterity by 1.",
+    "Effect": "Single Target. Fist Move. Low Accuracy 1. Reduce User's Dexterity by 1.",
     "Description": "A mighty arm thrust that leaves the user quite tired.",
     "_id": "hammer-arm",
     "Attributes": {
-        "AccuracyReduction": 1
+        "AccuracyReduction": -1,
+        "FistMove": true
     },
     "AddedEffects": {
         "StatChanges": [

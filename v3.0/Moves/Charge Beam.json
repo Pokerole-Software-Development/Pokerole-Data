@@ -11,7 +11,7 @@
     "Description": "The Pokémon releases an electric beam, if any charge remains unused, it will make use of it to boost its power.",
     "_id": "charge-beam",
     "Attributes": {
-        "AccuracyReduction": 1
+        "AccuracyReduction": -1
     },
     "AddedEffects": {
         "StatChanges": [

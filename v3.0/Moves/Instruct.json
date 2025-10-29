@@ -5,13 +5,14 @@
     "Damage1": "",
     "Damage2": "",
     "Accuracy1": "Insight",
-    "Accuracy2": "Allure",
+    "Accuracy2": "Charm",
     "Target": "Foe",
     "Effect": "Single Target. Copy Move. Unique Moves can't be copied. You may choose another Target(s) for the copied Move.",
     "Description": "The Pokémon sends a psychic command to a target, enabling the user to make use of their abilities for their own gain. If you see a Pokémon attacking their own allies... this was it.",
     "_id": "instruct",
     "Attributes": {
-        "CopyMove": true
+        "CopyMove": true,
+        "Unique": true
     },
     "AddedEffects": {},
     "Category": "Support"

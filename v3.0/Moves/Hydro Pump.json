@@ -7,11 +7,11 @@
     "Accuracy1": "Special",
     "Accuracy2": "Channel",
     "Target": "Foe",
-    "Effect": "Single Target. Low Accuracy 2.",
+    "Effect": "Single Target. Low Accuracy 2",
     "Description": "The user builds up pressure inside its body and then releases a tremendous amount of water at the target.",
     "_id": "hydro-pump",
     "Attributes": {
-        "AccuracyReduction": 2
+        "AccuracyReduction": -2
     },
     "AddedEffects": {},
     "Category": "Special"

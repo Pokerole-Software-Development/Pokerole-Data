@@ -7,10 +7,12 @@
     "Accuracy1": "Insight",
     "Accuracy2": "Nature",
     "Target": "Foe",
-    "Effect": "Single Target. The next time the Target uses a Fire-Type Move, Roll Neutral Damage Dice equal to that Move's power, ignore defenses.",
+    "Effect": "Single Target. Powder Move. The next time the Target uses a Fire-Type Move, Roll Typeless Damage Dice equal to that Move's power, ignore defenses.",
     "Description": "The foe is fully covered with a flammable powder, a source of fire might ignite it with explosive results.",
     "_id": "powder",
-    "Attributes": {},
+    "Attributes": {
+        "PowderMove": true
+    },
     "AddedEffects": {
         "Ailments": [
             {

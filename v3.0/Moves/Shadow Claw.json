@@ -7,11 +7,12 @@
     "Accuracy1": "Dexterity",
     "Accuracy2": "Brawl",
     "Target": "Foe",
-    "Effect": "Single Taget. High Critical.",
+    "Effect": "Single Target. Lethal. High Critical.",
     "Description": "The user's claws become semi-ethereal and are able to briefly pierce armor, hide, skin, and objects so it can strike the target at any weak spot.",
     "_id": "shadow-claw",
     "Attributes": {
-        "HighCritical": true
+        "HighCritical": true,
+        "Lethal": true
     },
     "AddedEffects": {},
     "Category": "Physical"

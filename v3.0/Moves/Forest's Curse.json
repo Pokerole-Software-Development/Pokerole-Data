@@ -7,7 +7,7 @@
     "Accuracy1": "Will",
     "Accuracy2": "Nature",
     "Target": "Foe",
-    "Effect": "Single Target. Add the Grass Type to the Target's Type (eg. Pikachu will now be “Electric/Grass” Charizard will now be “Fire/Flying/Grass”). If the Target already has a third Type, replace it.",
+    "Effect": "Single Target. Add the Grass Type to the Target's Type. (ie Pikachu will now be \"Electric/Grass\", Charizard will not be \"Fire/Flying/Grass\") If the Target already has a third Type attached, replace it.",
     "Description": "The user calls the forest to lay a curse upon the target, making it grow vines and vegetation around its whole body. The curse will not be easily lifted without a medium's help.",
     "_id": "forest's-curse",
     "Attributes": {

@@ -1,0 +1,18 @@
+{
+    "Name": "Hydro Vortex",
+    "Type": "Water",
+    "Power": "",
+    "Damage1": "SameasBasePower",
+    "Damage2": "",
+    "Accuracy1": "SameasBaseMove",
+    "Accuracy2": 0,
+    "Target": "Foe",
+    "Effect": "Single Target. Suggested effects: Attribute Increase, Damage Increase See p. 610 for more info.",
+    "Description": "",
+    "_id": "hydro_vortex",
+    "Attributes": {
+        "ZMove": true
+    },
+    "AddedEffects": {},
+    "Category": ""
+}

@@ -4,14 +4,15 @@
     "Power": 4,
     "Damage1": "Special",
     "Damage2": "",
-    "Accuracy1": "Dexterity",
-    "Accuracy2": "Perform",
+    "Accuracy1": "Special",
+    "Accuracy2": "Channel",
     "Target": "All Foes",
-    "Effect": "Target all Foes in Range. . Sound Move. Reduce User's Defense by 1.",
+    "Effect": "Target all Foes in Range. Sound Move. Reduce User's Defense by 1.",
     "Description": "The Pokémon rattles the scales of its armor creating a frightening noise in the area. Some of its scales fall off as a result, leaving some areas exposed.",
     "_id": "clanging-scales",
     "Attributes": {
-        "SoundBased": true
+        "SoundBased": true,
+        "SoundMove": true
     },
     "AddedEffects": {
         "StatChanges": [

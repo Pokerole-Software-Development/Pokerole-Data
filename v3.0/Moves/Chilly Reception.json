@@ -4,15 +4,15 @@
     "Power": 0,
     "Damage1": "",
     "Damage2": "",
-    "Accuracy1": "Cool",
+    "Accuracy1": "MissingCoolPoints",
     "Accuracy2": "",
     "Target": "Battlefield",
-    "Effect": "Target Battlefield. Switcher Move For the User. Activate Snowy Weather. Duration 4 Rounds. Pokémon with this Move may forfeit their Cool score completely. If the Pokémon forgets this Move, restore 1 Point to their Cool Score.",
+    "Effect": "Target Battlefield. Switcher Move For the User. Activate Snowy Weather. Duration 4 Rounds. Pokemon with this Move may forfeit their Cool score completely. If the Pokemon forgets this Move, restore 1 Point to their Cool Score.",
     "Description": "'What did a Geodude say to another Geodude? Let's Rock!' The user tells a joke so terrible the whole battlefield freezes. Afterwards, the user retreats in shame.",
     "_id": "blizzard",
     "Attributes": {
         "Duration": 4,
-        "SwitcherMove": true
+        "SwitcherMove": "User"
     },
     "AddedEffects": {},
     "Category": "Support"

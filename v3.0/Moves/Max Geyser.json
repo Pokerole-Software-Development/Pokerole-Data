@@ -1,0 +1,18 @@
+{
+    "Name": "Max Geyser",
+    "Type": "Water",
+    "Power": 2,
+    "Damage1": "SameasBasePower",
+    "Damage2": "",
+    "Accuracy1": "SameasBaseMove",
+    "Accuracy2": 2,
+    "Target": "All Foes",
+    "Effect": "Target all foes in Range or a Single Max Target. Activate the Effects of Rain Weather. (Disregard location) Duration 4 Rounds.",
+    "Description": "",
+    "_id": "max_geyser",
+    "Attributes": {
+        "MaxMove": true
+    },
+    "AddedEffects": {},
+    "Category": ""
+}

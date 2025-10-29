@@ -7,12 +7,13 @@
     "Accuracy1": "Dexterity",
     "Accuracy2": "Brawl",
     "Target": "Foe",
-    "Effect": "Single Target. Fist Move. If successful, all Normal-Type Moves of the User will be considered Electric- Type. Whole Scene Duration.",
+    "Effect": "Single Target. Fist Move. If successful, all Normal-Type Moves of the User will be considered Electric-Type. Whole Scene Duration.",
     "Description": "The user charges its fists with electricity, upon impact, the charge materializes into plasma that adds an electric element to all of its Normal moves.",
     "_id": "plasma-fists",
     "Attributes": {
         "FistBased": true,
-        "Duration": "wholeScene"
+        "Duration": "wholeScene",
+        "FistMove": true
     },
     "AddedEffects": {
         "Ailments": [

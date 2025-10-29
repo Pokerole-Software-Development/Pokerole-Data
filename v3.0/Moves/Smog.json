@@ -4,14 +4,14 @@
     "Power": 1,
     "Damage1": "Special",
     "Damage2": "",
-    "Accuracy1": "Dexterity",
+    "Accuracy1": "Special",
     "Accuracy2": "Channel",
     "Target": "Foe",
-    "Effect": "Roll 4 Chance Dice Poison the Foe. -2 Accuracy.",
+    "Effect": "Single Target. Low Accuracy 2. Roll 4 Chance Dice to Poison the Target.",
     "Description": "The target is attacked with a discharge of filthy gases.",
     "_id": "smog",
     "Attributes": {
-        "AccuracyReduction": 2
+        "AccuracyReduction": -2
     },
     "AddedEffects": {
         "Ailments": [

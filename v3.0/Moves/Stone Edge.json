@@ -14,8 +14,9 @@
         "HighCritical": true,
         "Lethal": true,
         "PhysicalRanged": true,
-        "AccuracyReduction": 2,
-        "CutterMove": true
+        "AccuracyReduction": -2,
+        "CutterMove": true,
+        "Ranged": true
     },
     "AddedEffects": {},
     "Category": "Physical"

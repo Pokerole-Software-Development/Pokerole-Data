@@ -11,7 +11,8 @@
     "Description": "The Pokémon uses its own body as an amplifier for the energizing sounds it produces.",
     "_id": "overdrive",
     "Attributes": {
-        "SoundBased": true
+        "SoundBased": true,
+        "SoundMove": true
     },
     "AddedEffects": {},
     "Category": "Special"

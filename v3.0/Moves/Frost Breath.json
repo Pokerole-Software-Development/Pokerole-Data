@@ -7,11 +7,11 @@
     "Accuracy1": "Insight",
     "Accuracy2": "Channel",
     "Target": "Foe",
-    "Effect": "Single Target. Low Accuracy 1. This Move is always considered to be a Critical Hit and gets the proper Bonus for it.",
+    "Effect": "Single Target. Low Accuracy 1. This Move is always considered to be a Critical hit and gets the proper Bonus for it.",
     "Description": "The user locates the most-exposed parts of its foe and sends a gelid breath against them. The sudden chill goes through the foe's spine, easily bringing them to their knees.",
     "_id": "frost-breath",
     "Attributes": {
-        "AccuracyReduction": 1,
+        "AccuracyReduction": -1,
         "AlwaysCrit": true
     },
     "AddedEffects": {},

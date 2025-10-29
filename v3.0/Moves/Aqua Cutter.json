@@ -7,13 +7,14 @@
     "Accuracy1": "Strength",
     "Accuracy2": "Channel",
     "Target": "Foe",
-    "Effect": "Single Target. Ranged. High Critical. Cutter.",
+    "Effect": "Single Target. Ranged. High Critical. Cutter Move.",
     "Description": "The user compacts water and shoots it as a pressurized jet. This jet is very sharp and can easily cut through solids.",
     "_id": "aqua-cutter",
     "Attributes": {
         "CutterMove": true,
         "PhysicalRanged": true,
-        "HighCritical": true
+        "HighCritical": true,
+        "Ranged": true
     },
     "AddedEffects": {},
     "Category": "Physical"

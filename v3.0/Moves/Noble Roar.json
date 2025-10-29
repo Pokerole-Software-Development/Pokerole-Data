@@ -5,13 +5,14 @@
     "Damage1": "",
     "Damage2": "",
     "Accuracy1": "Tough",
-    "Accuracy2": "Intimidate",
+    "Accuracy2": "Etiquette/Intimidate",
     "Target": "Foe",
     "Effect": "Single Target. Sound Move. Reduce by 1 the Target's Strength and Special.",
     "Description": "The Pokémon makes a roar that commands respect and authority from anyone listening.",
     "_id": "noble-roar",
     "Attributes": {
-        "SoundBased": true
+        "SoundBased": true,
+        "SoundMove": true
     },
     "AddedEffects": {
         "StatChanges": [

@@ -1,0 +1,19 @@
+{
+    "Name": "Combat Torque",
+    "Type": "Fighting",
+    "Power": 4,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Strength",
+    "Accuracy2": "Channel",
+    "Target": "Foe",
+    "Effect": "Single Target. Lethal. Ranged. Roll 3 Chance dice to Paralyze the Target.",
+    "Description": "",
+    "_id": "combat_torque",
+    "Attributes": {
+        "Lethal": true,
+        "Ranged": true
+    },
+    "AddedEffects": {},
+    "Category": "Physical"
+}

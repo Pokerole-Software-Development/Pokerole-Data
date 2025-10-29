@@ -7,11 +7,12 @@
     "Accuracy1": "Dexterity",
     "Accuracy2": "Brawl",
     "Target": "Foe",
-    "Effect": "Single Target. Ranged. At the end of the battle give Money to your Trainer Equal to their Rank: Starter/Rookie - $50.00; Standard - $100.00; Advanced - $200.00; Ace - $500.00",
+    "Effect": "Single Target. Ranged. At the end of the battle give Money to your Trainer Equal to their Rank: Starter/Rookie - 100 Standard - 250 Advanced - 500 Ace or more - 1000",
     "Description": "This move grants good fortune, making it more likely to get more money after each battle.",
     "_id": "pay-day",
     "Attributes": {
-        "PhysicalRanged": true
+        "PhysicalRanged": true,
+        "Ranged": true
     },
     "AddedEffects": {
         "Ailments": [

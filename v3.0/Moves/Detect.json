@@ -6,13 +6,13 @@
     "Damage2": "",
     "Accuracy1": "Insight",
     "Accuracy2": "Alert",
-    "Target": "User",
-    "Effect": "Target Self. Priority 5. Shield Move. Reduce 3 Damage This Pokémon would receive from a Physical or Special Move. Negate the Added Effects of Any Moves that target the user.",
+    "Target": "Self",
+    "Effect": "Target Self. Reaction 5. Shield Move. Reduce 3 Damage this Pokemon would receive from a Physical or Special move. Negate the Added Effcts of Any Moves that target the user.",
     "Description": "The user detects the intentions of the attacker and acts out to minimize the damage.",
     "_id": "detect",
     "Attributes": {
         "ShieldMove": true,
-        "Priority": 5
+        "Reaction": "5"
     },
     "AddedEffects": {},
     "Category": "Support"

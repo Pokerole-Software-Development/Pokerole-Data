@@ -1,0 +1,18 @@
+{
+    "Name": "Wildfire",
+    "Type": "Fire",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Special",
+    "Accuracy2": "Channel",
+    "Target": "Area",
+    "Effect": "Area Move. Inflict 2nd Degree Burn on those afflicted. If the Target is Grass-Type, when Switching out, inflict 1st Degree Burn to the Pokemon that switched in.",
+    "Description": "",
+    "_id": "wildfire",
+    "Attributes": {
+        "AccuracyReduction": -3
+    },
+    "AddedEffects": {},
+    "Category": "Support"
+}

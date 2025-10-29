@@ -11,7 +11,8 @@
     "Description": "The Pokémon uses this punch to test the surface of an object. The user toughens up to deal better blows.",
     "_id": "power-up-punch",
     "Attributes": {
-        "FistBased": true
+        "FistBased": true,
+        "FistMove": true
     },
     "AddedEffects": {
         "StatChanges": [

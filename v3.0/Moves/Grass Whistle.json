@@ -12,7 +12,8 @@
     "_id": "grass-whistle",
     "Attributes": {
         "SoundBased": true,
-        "AccuracyReduction": 3
+        "AccuracyReduction": -3,
+        "SoundMove": true
     },
     "AddedEffects": {
         "Ailments": [

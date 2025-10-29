@@ -1,0 +1,19 @@
+{
+    "Name": "Dark Matter",
+    "Type": "Dark",
+    "Power": 6,
+    "Damage1": "Special",
+    "Damage2": "",
+    "Accuracy1": "Special",
+    "Accuracy2": "Channel",
+    "Target": "Foe",
+    "Effect": "Single Target. Low Accuracy 1. Must recharge. Lethal.",
+    "Description": "",
+    "_id": "dark_matter",
+    "Attributes": {
+        "AccuracyReduction": -1,
+        "Lethal": true
+    },
+    "AddedEffects": {},
+    "Category": "Special"
+}

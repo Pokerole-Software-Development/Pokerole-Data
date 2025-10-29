@@ -12,7 +12,8 @@
     "_id": "dynamic-punch",
     "Attributes": {
         "FistBased": true,
-        "AccuracyReduction": 3
+        "AccuracyReduction": -3,
+        "FistMove": true
     },
     "AddedEffects": {
         "Ailments": [

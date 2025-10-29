@@ -1,0 +1,18 @@
+{
+    "Name": "Mountain Gale",
+    "Type": "Ice",
+    "Power": 4,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Strength",
+    "Accuracy2": "Channel",
+    "Target": "Foe",
+    "Effect": "Single Target. Ranged. Roll 3 Chance Dice to Flinch the Foe.",
+    "Description": "",
+    "_id": "mountain_gale",
+    "Attributes": {
+        "Ranged": true
+    },
+    "AddedEffects": {},
+    "Category": "Physical"
+}

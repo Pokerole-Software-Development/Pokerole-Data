@@ -1,0 +1,18 @@
+{
+    "Name": "Nightshade",
+    "Type": "Ghost",
+    "Power": 0,
+    "Damage1": "Varies",
+    "Damage2": "",
+    "Accuracy1": "Insight/Special",
+    "Accuracy2": "Intimidate",
+    "Target": "Foe",
+    "Effect": "Single Target. Roll Ghost-Type Damage Dice according to the User's Rank: Starter 1 Die / Rookie 2 Dice / Standard 4 Dice/ Advacned 6 Dice / Expert 8 Dice / Ace and forward 10 Dice. Ignore Defenses.",
+    "Description": "",
+    "_id": "nightshade",
+    "Attributes": {
+        "IgnoreDefenses": true
+    },
+    "AddedEffects": {},
+    "Category": "Special"
+}

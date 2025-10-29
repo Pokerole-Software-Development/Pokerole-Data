@@ -7,12 +7,13 @@
     "Accuracy1": "Dexterity",
     "Accuracy2": "Brawl",
     "Target": "Foe",
-    "Effect": "Single Target. Low Accuracy 1. Successive Actions.",
+    "Effect": "Single Target. Low Accuracy 1. Double Action.",
     "Description": "The user attacks its foe with two or more slaps in the face.",
     "_id": "double-slap",
     "Attributes": {
         "SuccessiveActions": true,
-        "AccuracyReduction": 1
+        "AccuracyReduction": -1,
+        "DoubleAction": true
     },
     "AddedEffects": {},
     "Category": "Physical"

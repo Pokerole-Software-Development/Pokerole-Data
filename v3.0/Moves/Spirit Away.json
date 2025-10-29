@@ -1,0 +1,19 @@
+{
+    "Name": "Spirit Away",
+    "Type": "Fairy",
+    "Power": 4,
+    "Damage1": "Special",
+    "Damage2": "",
+    "Accuracy1": "Special",
+    "Accuracy2": "Channel",
+    "Target": "Foe",
+    "Effect": "Single Target. Charge Move. Out of Range while Charging. The Target is also Out of Range but can target the User. Unique.",
+    "Description": "",
+    "_id": "spirit_away",
+    "Attributes": {
+        "Charge": true,
+        "Unique": true
+    },
+    "AddedEffects": {},
+    "Category": "Special"
+}

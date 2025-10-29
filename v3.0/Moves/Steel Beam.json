@@ -7,11 +7,12 @@
     "Accuracy1": "Special",
     "Accuracy2": "Channel",
     "Target": "Foe",
-    "Effect": "Recoil.",
+    "Effect": "Single Target. Lethal. Recoil.",
     "Description": "A concentrated ray of light that is capable of melting even the thickest steel plates. Unfortunately the user will also have trouble handling this power.",
     "_id": "steel-beam",
     "Attributes": {
-        "Recoil": true
+        "Recoil": true,
+        "Lethal": true
     },
     "AddedEffects": {},
     "Category": "Special"

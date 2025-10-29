@@ -4,14 +4,15 @@
     "Power": 0,
     "Damage1": "",
     "Damage2": "",
-    "Accuracy1": "Special",
+    "Accuracy1": "Dexterity",
     "Accuracy2": "Channel",
-    "Target": "One Ally",
-    "Effect": "Target Self. Switcher Move for the User. The Switched Pokémon has 1 Extra Action this Round.",
+    "Target": "Self",
+    "Effect": "Target Self. Reaction 3. Switcher Move for the User.  If successful, restore the Action this Move costed and the switched ally may use a Reaction when they enter the field.",
     "Description": "The user teleports and another Pokémon takes its place. Did it disappear? Or was it never there to begin with?",
     "_id": "ally-switch",
     "Attributes": {
-        "SwitcherMove": true
+        "SwitcherMove": "User",
+        "Reaction": "3"
     },
     "AddedEffects": {},
     "Category": "Support"

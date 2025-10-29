@@ -7,11 +7,11 @@
     "Accuracy1": "Special",
     "Accuracy2": "Channel",
     "Target": "Foe",
-    "Effect": "Single Target. Low Accuracy 2. Projectile Move. Roll 1 Chance die to Reduce the foe's Sp. Defense by 1.",
+    "Effect": "Single Target. Low Accuracy 2. Projectile Move. Roll 1 Chance die to Reduce te foe's Sp. Defense by 1.",
     "Description": "The user concentrates and releases a blast of energy.",
     "_id": "focus-blast",
     "Attributes": {
-        "AccuracyReduction": 2,
+        "AccuracyReduction": -2,
         "ProjectileMove": true
     },
     "AddedEffects": {

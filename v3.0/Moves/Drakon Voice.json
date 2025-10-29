@@ -1,0 +1,19 @@
+{
+    "Name": "Drakon Voice",
+    "Type": "Dragon",
+    "Power": 4,
+    "Damage1": "Special",
+    "Damage2": "",
+    "Accuracy1": "Special",
+    "Accuracy2": "Channel",
+    "Target": "Foe",
+    "Effect": "Single Target. Low Accuracy 1. Sound Move.",
+    "Description": "",
+    "_id": "drakon_voice",
+    "Attributes": {
+        "AccuracyReduction": -1,
+        "SoundMove": true
+    },
+    "AddedEffects": {},
+    "Category": "Special"
+}

@@ -1,0 +1,18 @@
+{
+    "Name": "Continental Crush",
+    "Type": "Rock",
+    "Power": "",
+    "Damage1": "SameasBasePower",
+    "Damage2": "",
+    "Accuracy1": "SameasBaseMove",
+    "Accuracy2": 0,
+    "Target": "Foe",
+    "Effect": "Single Target. Suggested effects: Remove Terrain, Attribute Increase, Damage Increase See p. 610 for more info.",
+    "Description": "",
+    "_id": "continental_crush",
+    "Attributes": {
+        "ZMove": true
+    },
+    "AddedEffects": {},
+    "Category": ""
+}

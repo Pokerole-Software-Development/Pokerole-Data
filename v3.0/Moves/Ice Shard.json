@@ -7,12 +7,13 @@
     "Accuracy1": "Dexterity",
     "Accuracy2": "Channel",
     "Target": "Foe",
-    "Effect": "Single Target. Priority 1. Ranged.",
+    "Effect": "Single Target. Reaction 1. Ranged.",
     "Description": "The user quickly freezes some bits of ice and throws them at the target.",
     "_id": "ice-shard",
     "Attributes": {
         "PhysicalRanged": true,
-        "Priority": 1
+        "Reaction": "1",
+        "Ranged": true
     },
     "AddedEffects": {},
     "Category": "Physical"

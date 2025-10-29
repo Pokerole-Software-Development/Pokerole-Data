@@ -11,7 +11,8 @@
     "Description": "The Pokémon rises on top of its foe and drops an apple on their head. The foe proceeds to eat the apple, distracting it from the fight.",
     "_id": "grav-apple",
     "Attributes": {
-        "PhysicalRanged": true
+        "PhysicalRanged": true,
+        "Ranged": true
     },
     "AddedEffects": {
         "StatChanges": [
