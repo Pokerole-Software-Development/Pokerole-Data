@@ -1,12 +1,13 @@
 {
     "Name": "Pecha Berry",
     "_id": "pecha-berry",
-    "Source": "Core 2.0",
+    "Source": "Core 3.0",
     "PMD": true,
     "Pocket": "Medicine",
     "Category": "Berry",
-    "Description": "Eating this Berry will cure Poison.",
+    "Description": "This berry's sweet pulp will absorb simple poison out of the bloodstream. Heal Poison.",
     "OneUse": false,
     "PMDPrice": 60.0,
+    "TrainerPrice": "Uncommon",
     "Cures": "Poison"
 }

@@ -1,13 +1,14 @@
 {
     "Name": "Zinc",
     "_id": "zinc",
-    "Source": "Core 2.0",
+    "Source": "Core 3.0",
     "PMD": true,
     "Pocket": "Medicine",
     "Category": "Vitamin",
-    "Description": "Zinc capsules help with focus and brain development. Boost lasts one month.",
+    "Description": "Zinc capsules aid on brain development.",
     "OneUse": true,
     "PMDPrice": 4500.0,
-    "Boost": "Insight",
+    "TrainerPrice": "9800",
+    "Boost": "SpecialDefense",
     "Value": 1
 }

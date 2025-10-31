@@ -1,13 +1,13 @@
 {
     "Name": "Silk Scarf",
     "_id": "silk-scarf",
-    "Source": "Core 2.0",
+    "Source": "Core 3.0",
     "PMD": false,
     "Pocket": "HeldItems",
     "Category": "TypeBoosting",
-    "Description": "Adds 1 damage die to Normal type moves.",
+    "Description": "A basic scarf, simple, but fashionable. Add 1 Extra die to the Damage pool of Normal-Type Moves.",
     "OneUse": false,
-    "TrainerPrice": "",
+    "TrainerPrice": "Not for Sale",
     "ForTypes": "Normal",
     "Boost": "Damage",
     "Value": 1

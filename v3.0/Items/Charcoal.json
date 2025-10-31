@@ -1,13 +1,13 @@
 {
     "Name": "Charcoal",
     "_id": "charcoal",
-    "Source": "Core 2.0",
+    "Source": "Core 3.0",
     "PMD": false,
     "Pocket": "HeldItems",
     "Category": "TypeBoosting",
-    "Description": "Adds 1 damage die to Fire type moves.",
+    "Description": "Special charcoal to keep a flame strong. Add 1 Extra die to the Damage pool of Fire-Type Moves.",
     "OneUse": false,
-    "TrainerPrice": "",
+    "TrainerPrice": "Not for Sale",
     "ForTypes": "Fire",
     "Boost": "Damage",
     "Value": 1

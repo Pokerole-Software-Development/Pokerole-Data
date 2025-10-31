@@ -1,12 +1,12 @@
 {
     "Name": "Awakening",
     "_id": "awakening",
-    "Source": "Core 2.0",
+    "Source": "Core 3.0",
     "PMD": false,
     "Pocket": "Medicine",
     "Category": "Status",
-    "Description": "Sprays a water-based solution to awake a drowsy pokemon.",
-    "OneUse": false,
+    "Description": "Sprays a water-based solution to awake a drowsy pokemon. Heal Sleep.",
+    "OneUse": true,
     "TrainerPrice": "250",
     "Cures": "Sleep"
 }

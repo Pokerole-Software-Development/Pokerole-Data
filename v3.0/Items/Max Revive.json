@@ -1,12 +1,12 @@
 {
     "Name": "Max Revive",
     "_id": "max-revive",
-    "Source": "Core 2.0",
+    "Source": "Core 3.0",
     "PMD": false,
     "Pocket": "Medicine",
     "Category": "Healing",
-    "Description": "A bigger shard that is not available to the public",
-    "OneUse": false,
+    "Description": "A bigger rock shard with enhaced effects. Found raw in deep caves. Very rare to find. Not available in stores. Restore conciousness & Full HP.",
+    "OneUse": true,
     "TrainerPrice": "Not for Sale",
     "HealthRestored": 99,
     "Cures": "Fainted"
