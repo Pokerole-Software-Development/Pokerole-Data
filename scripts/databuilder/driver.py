@@ -2,7 +2,7 @@ from os.path import join, exists
 from os import makedirs
 from fire import Fire
 from glob import glob
-import json, yaml
+import json
 
 class Driver(object):
     '''
@@ -11,14 +11,14 @@ class Driver(object):
     inherits from the base Engine.
     '''
 
-    def __init__(self, engine, root='../../', game_version='v3.0'):
+    def __init__(self, engine, root=None, game_version=None):
         self.engine = engine
-        self.root = root
-        self.game_version = game_version
+        self.root = root if root else '../../'
+        self.game_version = game_version if game_version else self.engine.game_version
         
     def generate_pokedex(self, data_path=None):
         if not data_path: data_path = join(self.root, self.game_version, 'Pokedex')
-        for src in glob(data_path+"/[NOPQRSVXYZ]*.json"):
+        for src in glob(data_path+"/*.json"):
             entry = json.loads(open(src).read())
             record = self.engine.pokedex_entry(entry)
         
