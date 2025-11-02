@@ -8,6 +8,7 @@ class Engine(object):
     def __init__(self, output_path, game_version):
         self.output_path = output_path
         self.game_version = game_version
+        self.driver = None
     
     # # These functions take JSON and return a string to be outputted. 
     
@@ -26,9 +27,9 @@ class Engine(object):
 
     # # Utility
     
-    def _write_to(self, data, path):
+    def _write_to(self, data, path, mode='w'):
         self._pathgen(dirname(path))
-        open(path,'w').write(data)
+        open(path,mode).write(data)
     
     def _pathgen(self, path, validate=False):
         '''

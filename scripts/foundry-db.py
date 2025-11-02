@@ -52,7 +52,7 @@ class Foundry_DataBuilder(DataBuilder):
     
     def __init__(self, 
                 root='../',
-                pokerole_version='v2.0',
+                pokerole_version='v3.0',
                 system_version='0.3.1',
                 # foundry_dir='/Users/bill/Library/Application Support/FoundryVTT/Data/systems/pokerole'
                 foundry_dir='/Volumes/Files/RPG Assets/Foundry/Data/systems/pokerole'
@@ -599,7 +599,7 @@ class Foundry_DataBuilder(DataBuilder):
                 accMod1 = ''
                 accMod2 = ''
                 effect += ' Roll Insight+Empathy dice for accuracy. See the description for more details.'
-                description += "<p>Empathy is a custom skill, which you can add manually on the Pokémon's character sheet. You can edit this move to auto-roll once you've added the skill by setting Accuracy Modifier 1 to 'insight' and Accuracy Modifier 2 to 'empathy'.</p>";
+                description += "<p>Empathy is a custom skill, which you can add manually on the Pokémon's character sheet. You can edit this move to auto-roll once you've added the skill by setting Accuracy Modifier 1 to 'insight' and Accuracy Modifier 2 to 'empathy'.</p>"
             if id == 'copycat':
                 accMod1 = ''
                 accMod2 = ''
