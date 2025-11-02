@@ -1,13 +1,14 @@
 {
     "Name": "Protein",
     "_id": "protein",
-    "Source": "Core 2.0",
+    "Source": "Core 3.0",
     "PMD": true,
     "Pocket": "Medicine",
     "Category": "Vitamin",
-    "Description": "A tasty milkshake that aids in the growth of bigger and stronger muscles. Boost lasts one month.",
+    "Description": "A tasty milkshake that aids in the growth of bigger and stronger muscles.",
     "OneUse": true,
     "PMDPrice": 4000.0,
+    "TrainerPrice": "9800",
     "Boost": "Strength",
     "Value": 1
 }

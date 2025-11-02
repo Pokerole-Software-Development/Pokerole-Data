@@ -1,12 +1,13 @@
 {
     "Name": "Chesto Berry",
     "_id": "chesto-berry",
-    "Source": "Core 2.0",
+    "Source": "Core 3.0",
     "PMD": true,
     "Pocket": "Medicine",
     "Category": "Berry",
-    "Description": "Eating this Berry will cure Sleep.",
-    "OneUse": false,
+    "Description": "It is difficult to eat, so tough and dry that it will heal the drowsiness. Heal Sleep.",
+    "OneUse": true,
     "PMDPrice": 30.0,
+    "TrainerPrice": "Common",
     "Cures": "Sleep"
 }

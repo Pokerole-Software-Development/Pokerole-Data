@@ -1,11 +1,12 @@
 {
     "Name": "Water Stone",
     "_id": "water-stone",
-    "Source": "Core 2.0",
+    "Source": "Core 3.0",
     "PMD": true,
     "Pocket": "EvolutionItem",
     "Category": "",
-    "Description": "Looks like blue glass and can be found at the bottom of the sea.",
+    "Description": "Sparkly fresh water is trapped inside. This stone can be found at the bottom of the sea and some lakes.",
     "OneUse": true,
-    "PMDPrice": 1000.0
+    "PMDPrice": 1000.0,
+    "TrainerPrice": "5000"
 }

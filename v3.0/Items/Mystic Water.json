@@ -1,13 +1,13 @@
 {
     "Name": "Mystic Water",
     "_id": "mystic-water",
-    "Source": "Core 2.0",
+    "Source": "Core 3.0",
     "PMD": false,
     "Pocket": "HeldItems",
     "Category": "TypeBoosting",
-    "Description": "Adds 1 damage die to Water type moves.",
+    "Description": "Water that emits a mysterious glow. Add 1 Extra die to the Damage pool of Water-Type Moves.",
     "OneUse": false,
-    "TrainerPrice": "",
+    "TrainerPrice": "Not for Sale",
     "ForTypes": "Water",
     "Boost": "Damage",
     "Value": 1

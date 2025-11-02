@@ -1,13 +1,13 @@
 {
     "Name": "Never-Melt Ice",
     "_id": "never-melt-ice",
-    "Source": "Core 2.0",
+    "Source": "Core 3.0",
     "PMD": false,
     "Pocket": "HeldItems",
     "Category": "TypeBoosting",
-    "Description": "Adds 1 damage die to Ice type moves.",
+    "Description": "This magical piece of ice never melts. Add 1 Extra die to the Damage pool of Ice-Type Moves.",
     "OneUse": false,
-    "TrainerPrice": "",
+    "TrainerPrice": "Not for Sale",
     "ForTypes": "Ice",
     "Boost": "Damage",
     "Value": 1

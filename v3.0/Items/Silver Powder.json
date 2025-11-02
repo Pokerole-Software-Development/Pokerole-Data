@@ -1,13 +1,13 @@
 {
     "Name": "Silver Powder",
     "_id": "silver-powder",
-    "Source": "Core 2.0",
+    "Source": "Core 3.0",
     "PMD": false,
     "Pocket": "HeldItems",
     "Category": "TypeBoosting",
-    "Description": "Adds 1 damage die to Bug type moves.",
+    "Description": "An itchy powder that induces allergies. Add 1 Extra die to the Damage pool of Bug-Type Moves.",
     "OneUse": false,
-    "TrainerPrice": "",
+    "TrainerPrice": "Not for Sale",
     "ForTypes": "Bug",
     "Boost": "Damage",
     "Value": 1
