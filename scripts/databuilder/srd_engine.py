@@ -23,8 +23,8 @@ class SRD_Engine(Engine):
         sname = entry['Image'].split('.')
         entry['BookSprite'] = f"SRD-{sname[0]}-BookSprite.{sname[1]}"
         entry['HomeSprite'] = f"SRD-{sname[0]}-HomeSprite.{sname[1]}"
-        entry['BoxSprite'] = f"SRD-{sname[0]}-BoxSprite.{sname[1]}"
-        entry['ShuffleToken'] = f"SRD-{sname[0]}-ShuffleToken.{sname[1]}"
+        # entry['BoxSprite'] = f"SRD-{sname[0]}-BoxSprite.{sname[1]}"
+        # entry['ShuffleToken'] = f"SRD-{sname[0]}-ShuffleToken.{sname[1]}"
         
         entry['Legendary'] = 'Yes' if entry['Legendary'] else 'No'
         goodstarter = 'Yes' if entry['GoodStarter'] else 'No'
@@ -66,8 +66,8 @@ class SRD_Engine(Engine):
             name=name, 
             booksprite=entry['BookSprite'], 
             homesprite=entry['HomeSprite'], 
-            boxsprite=entry['BoxSprite'], 
-            shuffletoken=entry['ShuffleToken'], 
+            # boxsprite=entry['BoxSprite'], 
+            # shuffletoken=entry['ShuffleToken'], 
             dexcategory=entry['DexCategory'], 
             dexdescription=entry['DexDescription'], 
             dexid=entry['DexID'], 
@@ -75,7 +75,7 @@ class SRD_Engine(Engine):
             abilities=abilities, 
             basehp=entry["BaseHP"], 
             feet=feet, 
-            inches=inches, 
+            inches=inches,
             meters=entry['Height']['Meters'], 
             pounds=entry['Weight']['Pounds'],
             kilograms=entry['Weight']['Kilograms'], 
@@ -177,4 +177,4 @@ class SRD_Engine(Engine):
     def import_images(self, source, setname):
         target_path = join(self.output_path, f'SRD-{setname}')
         self._pathgen(target_path)
-        self._copy_imageset(source, target_path, '', f'-{setname[:-1]}')
+        self._copy_imageset(source, target_path, 'SRD-', f'-{setname[:-1]}')
