@@ -2,7 +2,7 @@ from os.path import join, exists
 from os import makedirs
 from fire import Fire
 from glob import glob
-import json, yaml
+import json
 
 VERBOSE = True
 
@@ -13,7 +13,7 @@ class Driver(object):
     inherits from the base Engine.
     '''
 
-    def __init__(self, engine, root='../../', game_version='v3.0'):
+    def __init__(self, engine, root=None, game_version=None):
         self.engine = engine
         self.engine.driver = self
         self.root = root
