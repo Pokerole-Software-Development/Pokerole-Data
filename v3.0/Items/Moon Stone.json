@@ -1,11 +1,12 @@
 {
     "Name": "Moon Stone",
     "_id": "moon-stone",
-    "Source": "Core 2.0",
+    "Source": "Core 3.0",
     "PMD": true,
     "Pocket": "EvolutionItem",
     "Category": "",
-    "Description": "It is a black stone that turns white and luminescent when the moon shines over it.",
+    "Description": "Looks like a common rock until the moon shines upon it, giving it a aether glow. Commonly found in caves.",
     "OneUse": true,
-    "PMDPrice": 1000.0
+    "PMDPrice": 1000.0,
+    "TrainerPrice": "3500"
 }

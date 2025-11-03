@@ -1,13 +1,13 @@
 {
     "Name": "Spell Tag",
     "_id": "spell-tag",
-    "Source": "Core 2.0",
+    "Source": "Core 3.0",
     "PMD": false,
     "Pocket": "HeldItems",
     "Category": "TypeBoosting",
-    "Description": "Adds 1 damage die to Ghost type moves.",
+    "Description": "An old piece of paper used to seal evil spirits. Add 1 Extra die to the Damage pool of Ghost-Type Moves.",
     "OneUse": false,
-    "TrainerPrice": "",
+    "TrainerPrice": "Not for Sale",
     "ForTypes": "Ghost",
     "Boost": "Damage",
     "Value": 1

@@ -4,6 +4,8 @@ from fire import Fire
 from glob import glob
 import json
 
+VERBOSE = True
+
 class Driver(object):
     '''
     The driver is generic and knows how to "pull data" from the dataset. It will pass that 
@@ -13,36 +15,47 @@ class Driver(object):
 
     def __init__(self, engine, root=None, game_version=None):
         self.engine = engine
-        self.root = root if root else '../../'
-        self.game_version = game_version if game_version else self.engine.game_version
+        self.engine.driver = self
+        self.root = root
+        self.game_version = game_version
         
-    def generate_pokedex(self, data_path=None):
+    def generate_pokedex(self, data_path=None, file_match=None):
         if not data_path: data_path = join(self.root, self.game_version, 'Pokedex')
-        for src in glob(data_path+"/*.json"):
+        if not file_match: file_match = "/*.json"
+        for src in glob(data_path+file_match):
+            if VERBOSE: print(src)
             entry = json.loads(open(src).read())
             record = self.engine.pokedex_entry(entry)
         
-    def generate_moves(self, data_path=None):
+    def generate_moves(self, data_path=None, file_match=None):
         if not data_path: data_path = join(self.root, self.game_version, 'Moves')
-        for src in glob(data_path+"/*.json"):
+        if not file_match: file_match = "/*.json"
+        for src in glob(data_path+file_match):
+            if VERBOSE: print(src)
             entry = json.loads(open(src).read())
             record = self.engine.movedex_entry(entry)
         
-    def generate_abilities(self, data_path=None):
+    def generate_abilities(self, data_path=None, file_match=None):
         if not data_path: data_path = join(self.root, self.game_version, 'Abilities')
-        for src in glob(data_path+"/*.json"):
+        if not file_match: file_match = "/*.json"
+        for src in glob(data_path+file_match):
+            if VERBOSE: print(src)
             entry = json.loads(open(src).read())
             record = self.engine.abilitydex_entry(entry)
         
-    def generate_items(self, data_path=None):
+    def generate_items(self, data_path=None, file_match=None):
         if not data_path: data_path = join(self.root, self.game_version, 'Items')
-        for src in glob(data_path+"/*.json"):
+        if not file_match: file_match = "/*.json"
+        for src in glob(data_path+file_match):
+            if VERBOSE: print(src)
             entry = json.loads(open(src).read())
             record = self.engine.itemdex_entry(entry)
     
-    def generate_natures(self, data_path=None):
+    def generate_natures(self, data_path=None, file_match=None):
         if not data_path: data_path = join(self.root, self.game_version, 'Natures')
-        for src in glob(data_path+"/*.json"):
+        if not file_match: file_match = "/*.json"
+        for src in glob(data_path+file_match):
+            if VERBOSE: print(src)
             entry = json.loads(open(src).read())
             record = self.engine.naturedex_entry(entry)
     

@@ -1,12 +1,13 @@
 {
     "Name": "Oran Berry",
     "_id": "oran-berry",
-    "Source": "Core 2.0",
+    "Source": "Core 3.0",
     "PMD": true,
     "Pocket": "Medicine",
     "Category": "Berry",
-    "Description": "Eating this Berry will heal 1 HP.",
+    "Description": "A delicious citric berry that numbs pain away.",
     "OneUse": true,
     "PMDPrice": 50.0,
+    "TrainerPrice": "Uncommon",
     "HealthRestored": 1
 }

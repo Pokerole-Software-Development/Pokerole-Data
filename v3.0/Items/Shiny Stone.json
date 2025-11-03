@@ -1,11 +1,12 @@
 {
     "Name": "Shiny Stone",
     "_id": "shiny-stone",
-    "Source": "Core 2.0",
+    "Source": "Core 3.0",
     "PMD": true,
     "Pocket": "EvolutionItem",
     "Category": "",
-    "Description": "Its crystal-like surface aloows you to see a ball of light inside.",
+    "Description": "Its polished surface allows you to see a ball of light inside. Rare to find, considered a good luck charm.",
     "OneUse": true,
-    "PMDPrice": 1000.0
+    "PMDPrice": 1000.0,
+    "TrainerPrice": "10000"
 }

@@ -18,7 +18,7 @@ class SRD_Engine(Engine):
     
     def pokedex_entry(self, entry):
         # Entry dict is also going to be used for the yml metadata. 
-        if VERBOSE: print(entry['Name'])
+        # if VERBOSE: print(entry['Name'])
         name = entry['Name']
         sname = entry['Image'].split('.')
         entry['BookSprite'] = f"SRD-{sname[0]}-BookSprite.{sname[1]}"
@@ -113,7 +113,23 @@ class SRD_Engine(Engine):
         return moves
         
     def movedex_entry(self, entry):
-        pass
+        moves_template = (
+        '''### `= this.name`\n'''
+        '''*`= this.Description`*\n'''
+        '''\n'''
+        '''**Accuracy:** `= this.Accuracy1` + `= this.Accuracy2`\n'''
+        '''**Damage:** `= this.Power` `= choice(length(this.Damage1)=0, "","\+ "+ this.Damage1)` `= choice(length(this.Damage2)=0, "","\+ "+ this.Damage2)`\n'''
+        '''\n'''
+        '''| Type          | Target          | Category          | Power          |\n'''
+        '''| ------------- | --------------- | ----------------  | -------------- |\n'''
+        '''| `= this.Type` | `= this.Target` | `= this.Category` | `= this.Power` | \n'''
+        '''\n'''
+        '''**Effect:** `= this.Effect`'''
+        )
+        del entry['_id']
+        entry_output = f"---\n{yaml.dump(entry)}---\n\n#PokeroleSRD/Moves\n\n{moves_template}"
+        path = join(self.output_path,'SRD-Moves', f"SRD-{entry['Name']}.md")
+        self._write_to(entry_output, path)
     
     def abilitydex_entry(self, entry):
         ability_template = (
@@ -130,10 +146,13 @@ class SRD_Engine(Engine):
         
     def itemdex_entry(self, entry):
         
+        img = entry.get('ItemSprite', None)
+        img = f"![[{img}|right]]\n" if img else ""
+        
         items_template = (
                 f'''## `= this.Name`\n'''
                 f'''\n'''
-                f'''![[{entry['ItemSprite']}|right]]\n'''
+                f'''{img}'''
                 f'''\n'''
                 f'''*`= this.Description`*\n'''
                 f'''\n'''
