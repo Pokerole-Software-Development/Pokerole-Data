@@ -13,7 +13,7 @@ class Driver(object):
     inherits from the base Engine.
     '''
 
-    def __init__(self, engine, root=None, game_version=None):
+    def __init__(self, engine, root='../../', game_version='v3.0'):
         self.engine = engine
         self.engine.driver = self
         self.root = root
