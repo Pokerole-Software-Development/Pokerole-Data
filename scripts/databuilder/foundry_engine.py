@@ -47,7 +47,7 @@ class Foundry_Engine(Engine):
         
         self.driver._toggle_writes()
     
-        foundry_items = [json.dumps(x, ensure_ascii=False) for x in moves+abilities]
+        foundry_items = moves+abilities
         
         foundry = {
             "_id": blake2b(bytes(entry['_id'], 'utf-8'), digest_size=16).hexdigest(),
