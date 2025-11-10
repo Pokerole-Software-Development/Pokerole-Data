@@ -12,15 +12,15 @@ class Engine(object):
     
     # # These functions take JSON and return a string to be outputted. 
     
-    def pokedex_entry(self, entry):
+    def pokedex_entry(self, entry, write=True):
         pass
-    def movedex_entry(self, entry):
+    def movedex_entry(self, entry, write=True):
         pass
-    def abilitydex_entry(self, entry):
+    def abilitydex_entry(self, entry, write=True):
         pass
-    def itemdex_entry(self, entry):
+    def itemdex_entry(self, entry, write=True):
         pass
-    def naturedex_entry(self, entry):
+    def naturedex_entry(self, entry, write=True):
         pass
     def import_images(self, source, setname):
         pass

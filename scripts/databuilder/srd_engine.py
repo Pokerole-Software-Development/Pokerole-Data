@@ -1,11 +1,8 @@
 from engine import Engine
-from fire import Fire
-from glob import glob
 from os.path import join
-from os import listdir
-from shutil import copy
 import yaml
 import pandas as pd
+from shutil import rmtree
 
 VERBOSE = True
 
@@ -15,8 +12,10 @@ class SRD_Engine(Engine):
         super().__init__(output_path, game_version)
         self.in_vault_path = join("Pokerole SRD", f"SRD {self.game_version}")
         self.output_path = join(output_path, "Pokerole SRD", f"SRD {self.game_version}")
+        # Wipe out the Output folder you provided. 
+        rmtree(self.output_path, ignore_errors=True)
     
-    def pokedex_entry(self, entry):
+    def pokedex_entry(self, entry, write=True):
         # Entry dict is also going to be used for the yml metadata. 
         # if VERBOSE: print(entry['Name'])
         name = entry['Name']
@@ -112,7 +111,7 @@ class SRD_Engine(Engine):
             moves[k+'Moves'] = [m['Name'] for m in stored_moves if m['Learned'] == k]
         return moves
         
-    def movedex_entry(self, entry):
+    def movedex_entry(self, entry, write=True):
         moves_template = (
         '''### `= this.name`\n'''
         '''*`= this.Description`*\n'''
@@ -131,7 +130,7 @@ class SRD_Engine(Engine):
         path = join(self.output_path,'SRD-Moves', f"SRD-{entry['Name']}.md")
         self._write_to(entry_output, path)
     
-    def abilitydex_entry(self, entry):
+    def abilitydex_entry(self, entry, write=True):
         ability_template = (
             '''## `= this.name`\n'''
             '''\n'''
@@ -144,7 +143,7 @@ class SRD_Engine(Engine):
         path = join(self.output_path,'SRD-Abilities', f"SRD-{entry['Name']}.md")
         self._write_to(entry_output, path)
         
-    def itemdex_entry(self, entry):
+    def itemdex_entry(self, entry, write=True):
         
         img = entry.get('ItemSprite', None)
         img = f"![[{img}|right]]\n" if img else ""
@@ -168,7 +167,7 @@ class SRD_Engine(Engine):
         path = join(self.output_path,'SRD-Items', f"SRD-{entry['Name']}.md")
         self._write_to(entry_output, path)
     
-    def nature_entry(self, entry):
+    def nature_entry(self, entry, write=True):
         natures_template = (
             '''## `= this.Nature`\n'''
             '''\n'''
