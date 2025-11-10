@@ -145,8 +145,8 @@ class SRD_Engine(Engine):
         
     def itemdex_entry(self, entry, write=True):
         
-        img = entry.get('ItemSprite', None)
-        img = f"![[{img}|right]]\n" if img else ""
+        img = entry.get('_id', None)
+        img = f"![[SRD-{img}-ItemSprite.png|right]]\n" if img else ""
         
         items_template = (
                 f'''## `= this.Name`\n'''

@@ -508,7 +508,7 @@ class Foundry_Engine(Engine):
         return foundry
     
     def import_images(self, source, setname):
-        fndry_folder = {'BookSprites':'book', 'HomeSprites':'home', 'BoxSprites':'box', 'ShuffleTokens':'shuffle'}[setname]
+        fndry_folder = {'BookSprites':'book', 'HomeSprites':'home', 'BoxSprites':'box', 'ShuffleTokens':'shuffle', "ItemSprites":'items'}[setname]
         target_path = join(self.output_path, join('images', fndry_folder))
         self._pathgen(target_path)
         self._copy_imageset(source, target_path)

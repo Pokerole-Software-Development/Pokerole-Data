@@ -72,7 +72,7 @@ class Driver(object):
     
     def generate_images(self, sets=[]):
         '''For each image set name you provide, call import_images. Setname is a param.'''
-        imagesets = ['BookSprites', 'HomeSprites', 'BoxSprites', 'ShuffleTokens']
+        imagesets = ['BookSprites', 'HomeSprites', 'BoxSprites', 'ShuffleTokens', "ItemSprites"]
         if 'ALL' in sets: sets = imagesets
         for s in sets:
             if s in imagesets:
