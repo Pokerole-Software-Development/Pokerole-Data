@@ -11,11 +11,11 @@
     "Description": "The user manifests its mental power on the world, creating walls and floors of light that help prevent the passing of energies.",
     "_id": "light-screen",
     "Attributes": {
-        "Forcefield": {
+        "Duration": 4,
+        "ForceField": {
             "DamageType": "special",
             "DamageReduction": 1
-        },
-        "Duration": 4
+        }
     },
     "AddedEffects": {
         "Ailments": [

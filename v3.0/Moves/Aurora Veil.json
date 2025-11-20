@@ -11,11 +11,11 @@
     "Description": "Aurora lights and hail spin around the Pokémon and its allies, deflecting attacks.",
     "_id": "aurora-veil",
     "Attributes": {
-        "Forcefield": {
+        "Duration": 4,
+        "ForceField": {
             "DamageType": "all",
             "DamageReduction": 1
-        },
-        "Duration": 4
+        }
     },
     "AddedEffects": {
         "Ailments": [

@@ -11,11 +11,11 @@
     "Description": "The user surrounds itself with a glamorous light, releasing it as a psychic blast. The soft glowing particles remain in the field protecting its fabulousness.",
     "_id": "glitzy-glow",
     "Attributes": {
-        "Forcefield": {
+        "Duration": 4,
+        "ForceField": {
             "DamageType": "special",
             "DamageReduction": 1
-        },
-        "Duration": 4
+        }
     },
     "AddedEffects": {
         "Ailments": [

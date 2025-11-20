@@ -11,11 +11,11 @@
     "Description": "The user manifests its mental power on the world, creating invisible walls and floors that prevent the passing of objects.",
     "_id": "reflect",
     "Attributes": {
-        "Forcefield": {
+        "Duration": 4,
+        "ForceField": {
             "DamageType": "physical",
             "DamageReduction": 1
-        },
-        "Duration": 4
+        }
     },
     "AddedEffects": {
         "Ailments": [
