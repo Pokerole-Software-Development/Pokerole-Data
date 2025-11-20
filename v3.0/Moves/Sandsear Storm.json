@@ -11,9 +11,9 @@
     "Description": "An overwhelming storm made of blistering sands rages through the battlefield. Survivors describe it as being hit with live coal embers.",
     "_id": "sandsear-storm",
     "Attributes": {
-        "WindBased": true,
         "AccuracyReduction": -2,
-        "Lethal": true
+        "Lethal": true,
+        "WindMove": true
     },
     "AddedEffects": {
         "Ailments": [

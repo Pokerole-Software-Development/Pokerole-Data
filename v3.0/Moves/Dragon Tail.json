@@ -11,10 +11,9 @@
     "Description": "This powerful tail strike can knockback anyone up to 100 feet away!",
     "_id": "dragon-tail",
     "Attributes": {
-        "SwitcherMove": true,
+        "SwitcherMove": "Foe",
         "AccuracyReduction": -1,
-        "LateReaction": "6",
-        "switcherMove": "Foe"
+        "LateReaction": "6"
     },
     "AddedEffects": {},
     "Category": "Physical"

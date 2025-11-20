@@ -11,7 +11,7 @@
     "Description": "The Pokemon lets out a spiral current that surrounds the foes. They can't move until they free themselves from this terrible whirlwind.",
     "_id": "twister",
     "Attributes": {
-        "WindBased": true
+        "WindMove": true
     },
     "AddedEffects": {
         "Ailments": [

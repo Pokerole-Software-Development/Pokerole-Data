@@ -12,9 +12,9 @@
     "_id": "whirlwind",
     "Attributes": {
         "SwitcherMoveForFoe": true,
-        "WindBased": true,
         "LateReaction": "6",
-        "switcherMove": "Foe"
+        "WindMove": true,
+        "SwitcherMove": "Foe"
     },
     "AddedEffects": {},
     "Category": "Support"
