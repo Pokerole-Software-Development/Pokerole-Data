@@ -4,10 +4,10 @@
     "Power": 2,
     "Damage1": "Special",
     "Damage2": "",
-    "Accuracy1": "Dexterity",
+    "Accuracy1": "Special",
     "Accuracy2": "Channel",
     "Target": "Foe",
-    "Effect": "Single Target. Low Accuracy 2. Block both User and Target. Ongoing Damage. Increase the Target's difficulty to Evade at Storyteller's discretion. Duration 4 Rounds. If a Target is out of range due to using the Move \"Dive\", this Move hits anyways.",
+    "Effect": "Single Target. Low Accuracy 2. Blocks. Ongoing Damage. Increase the Target's difficulty to Evade at Storyteller's discretion. Duration 4 Rounds. If a Target is out of range due to using the Move \"Dive\", this Move hits anyways.",
     "Description": "The foe is swallowed inside of a violent swirling whirlpool, trapping them in the violent currents, where they fight to stay afloat.",
     "_id": "whirlpool",
     "Attributes": {

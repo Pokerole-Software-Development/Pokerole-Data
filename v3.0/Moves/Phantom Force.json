@@ -12,9 +12,8 @@
     "_id": "phantom-force",
     "Attributes": {
         "Charge": true,
-        "DestroyShield": true,
         "Lethal": true,
-        "ShieldMove": true
+        "IgnoreShield": true
     },
     "AddedEffects": {},
     "Category": "Physical"

@@ -6,15 +6,14 @@
     "Damage2": "",
     "Accuracy1": "Special",
     "Accuracy2": "Channel",
-    "Target": "Foe's Battlefield",
+    "Target": "Foe",
     "Effect": "Single Target. Lethal. Unique. If anything on the foe's side would prevent this move from dealing damage (Pokemon Type, Abilities, Shield Moves, Weather or Force Fields) ignore it. This Move cannot be clashed.",
     "Description": "A cold reflection of the moon shines upon the target. It doesn't hurt physically, but those who stare directly into the light simply collapse.",
     "_id": "moongeist-beam",
     "Attributes": {
         "Lethal": true,
         "Unique": true,
-        "IgnoreShield": true,
-        "ShieldMove": true
+        "IgnoreShield": true
     },
     "AddedEffects": {},
     "Category": "Special"

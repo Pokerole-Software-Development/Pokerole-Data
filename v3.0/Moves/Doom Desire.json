@@ -11,7 +11,7 @@
     "Description": "Be careful what you wish for, this Pokemon will read your most intimate wishes and make them come true in very twisted ways.",
     "_id": "doom-desire",
     "Attributes": {
-        "ShieldMove": true,
+        "IgnoreShield": true,
         "Unique": true
     },
     "AddedEffects": {

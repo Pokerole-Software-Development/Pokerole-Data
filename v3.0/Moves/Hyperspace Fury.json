@@ -6,13 +6,12 @@
     "Damage2": "",
     "Accuracy1": "Special",
     "Accuracy2": "Stealth",
-    "Target": "Foe's Battlefield",
+    "Target": "Foe",
     "Effect": "Single Target. Never Miss. Ignores the effect of any Force Field or Shield Move active on the foe's side. Reduce the User's Defense by 1.",
     "Description": "The Pokémon opens portals to attack with each one of its arms, bypassing all defenses and making it impossible to escape; however, portals go both ways.",
     "_id": "hyperspace-fury",
     "Attributes": {
         "IgnoreShield": true,
-        "ShieldMove": true,
         "NeverMiss": true
     },
     "AddedEffects": {

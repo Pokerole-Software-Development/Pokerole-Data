@@ -11,8 +11,7 @@
     "Description": "The Pokémon foresees something terrible happening to the target. It may see images from its own future without any risk.",
     "_id": "future-sight",
     "Attributes": {
-        "IgnoreShield": true,
-        "ShieldMove": true
+        "IgnoreShield": true
     },
     "AddedEffects": {
         "Ailments": [
