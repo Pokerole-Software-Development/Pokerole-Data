@@ -11,7 +11,7 @@
     "Description": "The user concentrates and releases a blast of energy.",
     "_id": "focus-blast",
     "Attributes": {
-        "AccuracyReduction": 2,
+        "AccuracyReduction": -2,
         "ProjectileMove": true
     },
     "AddedEffects": {

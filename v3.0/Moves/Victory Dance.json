@@ -4,10 +4,10 @@
     "Power": 0,
     "Damage1": "",
     "Damage2": "",
-    "Accuracy1": "Dexterity",
-    "Accuracy2": "Brawl",
-    "Target": "User",
-    "Effect": "Target Self. Increase by 1 the User's Strength and Defense. Add 1 Die to the User's Damage Pool for all Non- Ranged Physical Attacks.",
+    "Accuracy1": "Cool",
+    "Accuracy2": "Perform",
+    "Target": "Self",
+    "Effect": "Target Self. Increase by 1 the User's Strength and Defense. Add 1 Die to the User's Damage Pool for all Non-Ranged Physical Attacks.",
     "Description": "The user dances spelling the letters 'EZ' in a display of overconfidence, encouraging their foes to either get good or give up already.",
     "_id": "victory-dance",
     "Attributes": {},
@@ -23,5 +23,5 @@
             }
         ]
     },
-    "Category": "Physical"
+    "Category": "Support"
 }

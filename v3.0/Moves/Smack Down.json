@@ -7,11 +7,12 @@
     "Accuracy1": "Strength",
     "Accuracy2": "Channel",
     "Target": "Foe",
-    "Effect": "Single Target. Ranged. Remove the Target's Immunity to Ground-Type Moves. If the Target is Out of Range due to using 'Fly', 'Bounce', or 'Sky Drop', this Move hits anyways.",
+    "Effect": "Single Target. Ranged. Remove the Target's immunity to Ground-Type Moves. If the Target is Out of Range due to using \"Fly\", \"Bounce\" or \"Sky Drop\", this Move hits anyways.",
     "Description": "The user hurls a projectile, usually a heavy rock, that sends the foe down to the ground, leaving it unable to take off from the ground afterwards.",
     "_id": "smack-down",
     "Attributes": {
-        "PhysicalRanged": true
+        "PhysicalRanged": true,
+        "Ranged": true
     },
     "AddedEffects": {
         "Ailments": [

@@ -4,15 +4,15 @@
     "Power": 4,
     "Damage1": "Strength",
     "Damage2": "",
-    "Accuracy1": "Dexterity",
+    "Accuracy1": "Special",
     "Accuracy2": "Stealth",
     "Target": "Foe",
-    "Effect": "Single Target. Never Miss. Ignores the effect of any Force Field or Shield Move active on the foe's side. 1 Reduce the User's Defense by 1.",
+    "Effect": "Single Target. Never Miss. Ignores the effect of any Force Field or Shield Move active on the foe's side. Reduce the User's Defense by 1.",
     "Description": "The Pokémon opens portals to attack with each one of its arms, bypassing all defenses and making it impossible to escape; however, portals go both ways.",
     "_id": "hyperspace-fury",
     "Attributes": {
-        "NeverFail": true,
-        "IgnoreShield": true
+        "IgnoreShield": true,
+        "NeverMiss": true
     },
     "AddedEffects": {
         "StatChanges": [

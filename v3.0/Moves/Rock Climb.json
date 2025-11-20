@@ -11,7 +11,7 @@
     "Description": "The user climbs on top of the foe. This may be confusing for some Pokemon.",
     "_id": "rock-climb",
     "Attributes": {
-        "AccuracyReduction": 2
+        "AccuracyReduction": -2
     },
     "AddedEffects": {
         "Ailments": [

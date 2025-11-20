@@ -7,13 +7,13 @@
     "Accuracy1": "Dexterity",
     "Accuracy2": "Channel",
     "Target": "All Foes",
-    "Effect": "Target All Foes in Range. High Critical. Wind Base. Cutter Move.",
+    "Effect": "Target All Foes in Range. High Critical. Wind Move. Cutter Move.",
     "Description": "The user sends out a wave of sharp wind that will harm anything it touches.",
     "_id": "air-cutter",
     "Attributes": {
         "HighCritical": true,
-        "WindBased": true,
-        "CutterMove": true
+        "CutterMove": true,
+        "WindMove": true
     },
     "AddedEffects": {},
     "Category": "Special"

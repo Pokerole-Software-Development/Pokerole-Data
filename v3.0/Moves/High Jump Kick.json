@@ -7,11 +7,11 @@
     "Accuracy1": "Dexterity",
     "Accuracy2": "Athletic",
     "Target": "Foe",
-    "Effect": "Single Target. Low Accuracy 2. If the Accuracy roll fails, Roll 5 Dice of Typeless Damage against the user; ignore defenses.",
+    "Effect": "Single Target. Low Accuracy 2. If the Accuracy roll fails, Roll 5 Dice of Typeless Damage against the user, ignoring defenses.",
     "Description": "The user launches itself up and falls down with a brutal kick. It might hurt the user if it doesn't hit the target.",
     "_id": "high-jump-kick",
     "Attributes": {
-        "AccuracyReduction": 2
+        "AccuracyReduction": -2
     },
     "AddedEffects": {},
     "Category": "Physical"

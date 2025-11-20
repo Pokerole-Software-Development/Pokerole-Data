@@ -7,12 +7,12 @@
     "Accuracy1": "Dexterity",
     "Accuracy2": "Brawl",
     "Target": "Foe",
-    "Effect": "Lethal. Never Fail.",
+    "Effect": "Single Target. Never Miss. Lethal.",
     "Description": "The user stabs the foe using one of its sharp horns with astounding precision, the resulting wound will be very deep and must be treated immediately.",
     "_id": "smart-strike",
     "Attributes": {
         "Lethal": true,
-        "NeverFail": true
+        "NeverMiss": true
     },
     "AddedEffects": {},
     "Category": "Physical"

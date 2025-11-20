@@ -7,12 +7,13 @@
     "Accuracy1": "Strength",
     "Accuracy2": "Intimidate",
     "Target": "Foe",
-    "Effect": "Single Target. Low Priority 6. Switcher Move for the Foe. In the wild, the battle ends.",
+    "Effect": "Single Target. Late Reaction 6. Switcher Move for the Foe. In the wild, the battle may end.",
     "Description": "A mighty roar that scares the foe.",
     "_id": "roar",
     "Attributes": {
         "SwitcherMoveForFoe": true,
-        "Priority": -6
+        "LateReaction": "6",
+        "SwitcherMove": "Foe"
     },
     "AddedEffects": {},
     "Category": "Support"

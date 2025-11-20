@@ -7,10 +7,12 @@
     "Accuracy1": "Dexterity",
     "Accuracy2": "Brawl",
     "Target": "Foe",
-    "Effect": "Single Target.",
+    "Effect": "Single Target. Lethal.",
     "Description": "The user pierces the foe with its beak used as a drill. A dangerous move.",
     "_id": "drill-peck",
-    "Attributes": {},
+    "Attributes": {
+        "Lethal": true
+    },
     "AddedEffects": {},
     "Category": "Physical"
 }

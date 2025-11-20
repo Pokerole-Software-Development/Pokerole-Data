@@ -7,12 +7,12 @@
     "Accuracy1": "Cute/Beauty",
     "Accuracy2": "Perform",
     "Target": "Foe",
-    "Effect": "Single Target. Low Accuracy 3. Sound Move. Put the Target to Sleep.",
+    "Effect": "Single Target. Low Accuracy 3. Sound Move. Put the Target to sleep.",
     "Description": "With a charming song, the user lulls its foe to sleep.",
     "_id": "sing",
     "Attributes": {
-        "SoundBased": true,
-        "AccuracyReduction": 3
+        "AccuracyReduction": -3,
+        "SoundMove": true
     },
     "AddedEffects": {
         "Ailments": [

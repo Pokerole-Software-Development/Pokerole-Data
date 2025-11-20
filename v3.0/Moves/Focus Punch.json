@@ -7,12 +7,12 @@
     "Accuracy1": "Strength",
     "Accuracy2": "Brawl",
     "Target": "Foe",
-    "Effect": "Single Target. Fist Move. Charge Move. The User will Flinch if it is hit while Charging this Move.",
+    "Effect": "Single Target. Fist Move. Charge Move. The User Flinches if it is hit while Charging this Move.",
     "Description": "A brutal punch that requires calm and concentration",
     "_id": "focus-punch",
     "Attributes": {
         "Charge": true,
-        "FistBased": true
+        "FistMove": true
     },
     "AddedEffects": {},
     "Category": "Physical"

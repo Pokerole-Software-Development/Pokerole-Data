@@ -6,16 +6,16 @@
     "Damage2": "",
     "Accuracy1": "Special",
     "Accuracy2": "Channel",
-    "Target": "User and Allies",
-    "Effect": "Target the User's side of the Field. Force Field. Activate a Force Field against Special Damage. Duration 4 Rounds.",
+    "Target": "Ally's Battlefield",
+    "Effect": "Target the User's side of the field. Force Field. Activate a Force Field against Special Damage. Duration 4 Rounds.",
     "Description": "The user manifests its mental power on the world, creating walls and floors of light that help prevent the passing of energies.",
     "_id": "light-screen",
     "Attributes": {
-        "Forcefield": {
+        "Duration": 4,
+        "ForceField": {
             "DamageType": "special",
             "DamageReduction": 1
-        },
-        "Duration": 4
+        }
     },
     "AddedEffects": {
         "Ailments": [

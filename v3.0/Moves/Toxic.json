@@ -7,11 +7,11 @@
     "Accuracy1": "Special",
     "Accuracy2": "Channel",
     "Target": "Foe",
-    "Effect": "Badly Poison the Foe. -1 Accuracy.",
+    "Effect": "Single Target. Low Accuracy 2. Badly Poison the Target.",
     "Description": "With a disgusting diet and training, the user learns how to turn its fluids into a deadly toxin.",
     "_id": "toxic",
     "Attributes": {
-        "AccuracyReduction": 1
+        "AccuracyReduction": -2
     },
     "AddedEffects": {
         "Ailments": [

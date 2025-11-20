@@ -4,7 +4,7 @@
     "Power": 3,
     "Damage1": "Strength",
     "Damage2": "",
-    "Accuracy1": "Dexterity",
+    "Accuracy1": "Strength",
     "Accuracy2": "Brawl",
     "Target": "Foe",
     "Effect": "Single Target. Lethal. Fist Move. If the Accuracy Roll is successful, this Move becomes a Critical Hit.",
@@ -13,7 +13,8 @@
     "Attributes": {
         "Unique": true,
         "Lethal": true,
-        "FistMove": true
+        "FistMove": true,
+        "AlwaysCrit": true
     },
     "AddedEffects": {},
     "Category": "Physical"

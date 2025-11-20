@@ -11,7 +11,7 @@
     "Description": "The user bites the foe and releases a gelid breath through its mouth.",
     "_id": "ice-fang",
     "Attributes": {
-        "AccuracyReduction": 1,
+        "AccuracyReduction": -1,
         "BiteMove": true
     },
     "AddedEffects": {

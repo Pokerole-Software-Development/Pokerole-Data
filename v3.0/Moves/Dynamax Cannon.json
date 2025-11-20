@@ -7,10 +7,12 @@
     "Accuracy1": "Special",
     "Accuracy2": "Channel",
     "Target": "Foe",
-    "Effect": "Single Target. *If the Target is under the effects of Dynamax this Move becomes Lethal and you add 4 Extra Dice to the Damage Pool.",
+    "Effect": "Single Target. *If the Target is under the effects of Dynamax, this Move becomes Lethal and you add 4 Extra Dice to the Damage Pool.",
     "Description": "The Pokémon shoots a heavy projectile, if the foe is under the effects of the Dynamax phenomenon all the energy will be concentrated and explode on the Target.",
     "_id": "dynamax-cannon",
-    "Attributes": {},
+    "Attributes": {
+        "Lethal": true
+    },
     "AddedEffects": {},
     "Category": "Special"
 }

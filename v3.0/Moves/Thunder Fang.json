@@ -11,7 +11,7 @@
     "Description": "The user lands an electrified bite on foe. The direct current may affect the foe greatly.",
     "_id": "thunder-fang",
     "Attributes": {
-        "AccuracyReduction": 1,
+        "AccuracyReduction": -1,
         "BiteMove": true
     },
     "AddedEffects": {

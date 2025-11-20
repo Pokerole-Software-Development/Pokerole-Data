@@ -5,13 +5,13 @@
     "Damage1": "Strength",
     "Damage2": "",
     "Accuracy1": "Insight",
-    "Accuracy2": "Allure/Stealth",
+    "Accuracy2": "Charm/Stealth",
     "Target": "Foe",
     "Effect": "Single Target. Never Miss.",
     "Description": "The Pokémon bows in defeat, begging for forgiveness, then backstabs its guillible foe.",
     "_id": "false-surrender",
     "Attributes": {
-        "NeverFail": true
+        "NeverMiss": true
     },
     "AddedEffects": {},
     "Category": "Physical"

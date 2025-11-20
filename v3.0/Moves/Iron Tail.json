@@ -4,14 +4,14 @@
     "Power": 4,
     "Damage1": "Strength",
     "Damage2": "",
-    "Accuracy1": "Dexterity",
+    "Accuracy1": "Strength",
     "Accuracy2": "Brawl",
     "Target": "Foe",
-    "Effect": "Roll 3 Chance Dice to Reduce the foe's Defense. -3 Accuracy.",
+    "Effect": "Single Target. Low Accuracy 3. Roll 3 Chance Dice to Reduce the Target's Defense by 1.",
     "Description": "The user hits the foe with its hardened tail. The target is left vulnerable against subsequent attacks.",
     "_id": "iron-tail",
     "Attributes": {
-        "AccuracyReduction": 3
+        "AccuracyReduction": -3
     },
     "AddedEffects": {
         "StatChanges": [

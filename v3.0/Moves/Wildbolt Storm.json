@@ -7,13 +7,13 @@
     "Accuracy1": "Special",
     "Accuracy2": "Nature",
     "Target": "Area",
-    "Effect": "Area Move. Low Accuracy 2. Lethal. Wind Based. Roll 3 Chance Dice to Paralyze those affected.",
+    "Effect": "Area Move. Low Accuracy 2. Lethal. Wind Move. Roll 3 Chance Dice to Paralyze those affected.",
     "Description": "The whole battlefield becomes engulfed in a wild lightning storm. Leaving the safety of cover could be a fatal mistake.",
     "_id": "wildbolt-storm",
     "Attributes": {
         "Lethal": true,
-        "AccuracyReduction": 2,
-        "WindBased": true
+        "AccuracyReduction": -2,
+        "WindMove": true
     },
     "AddedEffects": {
         "Ailments": [

@@ -7,12 +7,12 @@
     "Accuracy1": "Dexterity",
     "Accuracy2": "Brawl",
     "Target": "Foe",
-    "Effect": "Single Target. Low Acuracy 1. Double Action.",
+    "Effect": "Single Target. Low Accuracy 1. Double Action.",
     "Description": "The Pokémon uses the classic 'One-Two' to attack the foe.",
     "_id": "double-hit",
     "Attributes": {
         "DoubleAction": true,
-        "AccuracyReduction": 1
+        "AccuracyReduction": -1
     },
     "AddedEffects": {},
     "Category": "Physical"

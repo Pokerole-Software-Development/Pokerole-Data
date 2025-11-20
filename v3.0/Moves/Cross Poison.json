@@ -4,14 +4,15 @@
     "Power": 3,
     "Damage1": "Strength",
     "Damage2": "",
-    "Accuracy1": "Dexterity",
+    "Accuracy1": "Strength",
     "Accuracy2": "Brawl",
     "Target": "Foe",
-    "Effect": "High Critical. Roll 1 Chance Dice to Poison the foe.",
+    "Effect": "Single Target. Cutter Move. High Critical. Roll 1 Chance Die to Poison the Target.",
     "Description": "The Pokemon drenches poison into its pincers to slash the enemy in a brutal way.",
     "_id": "cross-poison",
     "Attributes": {
-        "HighCritical": true
+        "HighCritical": true,
+        "CutterMove": true
     },
     "AddedEffects": {
         "Ailments": [

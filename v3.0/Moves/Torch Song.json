@@ -7,11 +7,11 @@
     "Accuracy1": "Special",
     "Accuracy2": "Perform",
     "Target": "Foe",
-    "Effect": "Single Target. Sound-Based. Increase the User's Special by 1.",
+    "Effect": "Single Target. Sound Move. Increase the User's Special by 1.",
     "Description": "Through a sweet melody, the foe burns a haunting memory into those who harbor ill intent.",
     "_id": "torch-song",
     "Attributes": {
-        "SoundBased": true
+        "SoundMove": true
     },
     "AddedEffects": {
         "StatChanges": [

@@ -7,12 +7,13 @@
     "Accuracy1": "Cool/Clever",
     "Accuracy2": "Athletic",
     "Target": "Foe",
-    "Effect": "Single Target. Replace the Target's Ability with the User's. Unique Abilities can't be passed or replaced. Whole Scene Duration. This effect does not end by switching out the affected Pokémon.",
+    "Effect": "Single Target. Replace the Target's Ability with the User's. Unique Abilities can't be passed or replaced. Whole Scene Duration. This effect does not end by switching out the affected Pokemon.",
     "Description": "The Pokémon trains and teaches its best abilities to their target. The target becomes a master of these abilities in record time.",
     "_id": "entrainment",
     "Attributes": {
         "Duration": "wholeScene",
-        "AbilityChange": true
+        "AbilityChange": true,
+        "Unique": true
     },
     "AddedEffects": {},
     "Category": "Support"

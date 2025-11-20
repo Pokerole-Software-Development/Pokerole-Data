@@ -6,12 +6,13 @@
     "Damage2": "",
     "Accuracy1": "Insight",
     "Accuracy2": "Channel",
-    "Target": "User",
-    "Effect": "Target Self. All of the user's Physical & Special Moves now have “High Critical”. Whole Scene Duration.",
+    "Target": "Self",
+    "Effect": "Target Self. All of the user's Physical & Special Moves now have \"High Critical\". Whole Scene Duration.",
     "Description": "The Pokémon puts all their focus on the battle to make their attacks much more precise.",
     "_id": "focus-energy",
     "Attributes": {
-        "Duration": "wholeScene"
+        "Duration": "wholeScene",
+        "HighCritical": true
     },
     "AddedEffects": {
         "Ailments": [

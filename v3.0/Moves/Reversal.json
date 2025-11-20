@@ -7,10 +7,12 @@
     "Accuracy1": "Vitality",
     "Accuracy2": "Brawl",
     "Target": "Foe",
-    "Effect": "Single Target. Add 1 Extra Dice to the Damage pool for every missing HP the User has. Up to 5 Dice may be added this way.",
+    "Effect": "Single Target. *Add 1 Extra Die to the Damage Pool for every missing HP the User has. Up to 5 Dice may be added this way.",
     "Description": "The user gathers its mettle to block the pain and focus on hitting harder.",
     "_id": "reversal",
-    "Attributes": {},
+    "Attributes": {
+        "HurtBonus": true
+    },
     "AddedEffects": {},
     "Category": "Physical"
 }

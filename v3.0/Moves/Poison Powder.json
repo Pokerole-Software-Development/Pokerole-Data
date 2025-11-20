@@ -4,14 +4,15 @@
     "Power": 0,
     "Damage1": "",
     "Damage2": "",
-    "Accuracy1": "Special",
-    "Accuracy2": "Channel",
+    "Accuracy1": "Clever",
+    "Accuracy2": "Nature",
     "Target": "Foe",
-    "Effect": "Poison the Foe. -2 Accuracy.",
+    "Effect": "Single Target. Low Accuracy 3. Powder Move. Poison the Target.",
     "Description": "The user scatters a small cloud of venomous dust that immediately causes coughing and fever.",
     "_id": "poison-powder",
     "Attributes": {
-        "AccuracyReduction": 2
+        "AccuracyReduction": -2,
+        "PowderMove": true
     },
     "AddedEffects": {
         "Ailments": [

@@ -11,8 +11,8 @@
     "Description": "The user channels its aura and launches this power in the form of a sphere. The foe's aura is hit, leaving the target unscratched but deeply hurt.",
     "_id": "aura-sphere",
     "Attributes": {
-        "NeverFail": true,
-        "ProjectileMove": true
+        "ProjectileMove": true,
+        "NeverMiss": true
     },
     "AddedEffects": {},
     "Category": "Special"

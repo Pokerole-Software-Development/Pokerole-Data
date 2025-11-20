@@ -2,15 +2,18 @@
     "Name": "Metal Burst",
     "Type": "Steel",
     "Power": 0,
-    "Damage1": "",
+    "Damage1": "Varies",
     "Damage2": "",
-    "Accuracy1": "Dexterity",
-    "Accuracy2": "Brawl",
+    "Accuracy1": "Insight",
+    "Accuracy2": "Brawl/Channel",
     "Target": "Foe",
-    "Effect": "This Move only works if the foe just used an attack. Roll the same Damage Pool as your foe's last attack and add 2 Extra Damage Dice.",
+    "Effect": "Single Target. Late Reaction 5. Can only be used if Target's last Move on User was a Physical or Special Move. Roll dice equal to Target's last damage pool rolled against the User plus 2 Dice. Ignore Defenses.",
     "Description": "After receiving damage, the user bursts the tiny but sharp metal piece that came loose because of the foe's attack. The greater the impact the more metal it will shoot.",
     "_id": "metal-burst",
-    "Attributes": {},
+    "Attributes": {
+        "LateReaction": "5",
+        "IgnoreDefenses": true
+    },
     "AddedEffects": {},
     "Category": "Physical"
 }

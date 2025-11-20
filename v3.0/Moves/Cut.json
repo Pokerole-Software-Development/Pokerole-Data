@@ -7,11 +7,12 @@
     "Accuracy1": "Dexterity",
     "Accuracy2": "Brawl",
     "Target": "Foe",
-    "Effect": "Single Target. Cutter Move. Out of battle it will help to easily cut down trees and obstacles.",
+    "Effect": "Single Target. Lethal. Cutter Move. Out of battle it will help to easily cut down trees and obstacles.",
     "Description": "A slim but precise cut that may slice through anything.",
     "_id": "cut",
     "Attributes": {
-        "CutterMove": true
+        "CutterMove": true,
+        "Lethal": true
     },
     "AddedEffects": {},
     "Category": "Physical"

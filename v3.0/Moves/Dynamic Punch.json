@@ -11,8 +11,8 @@
     "Description": "A punch that hits a small pressure point. It leaves the foe disoriented.",
     "_id": "dynamic-punch",
     "Attributes": {
-        "FistBased": true,
-        "AccuracyReduction": 3
+        "AccuracyReduction": -3,
+        "FistMove": true
     },
     "AddedEffects": {
         "Ailments": [

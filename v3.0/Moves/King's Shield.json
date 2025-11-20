@@ -4,15 +4,15 @@
     "Power": 0,
     "Damage1": "",
     "Damage2": "",
-    "Accuracy1": "Dexterity",
+    "Accuracy1": "Vitality",
     "Accuracy2": "Brawl",
-    "Target": "User",
-    "Effect": "Priority 3. Shield. If the foe was using a Physical Move. Reduce the foe's Strength by 2. Reduce 3 Dice from the foe's Damage Pool.",
+    "Target": "Self",
+    "Effect": "Target Self. Reaction 4. Shield Move. Reduce 3 Damage the User would receive from a Damaging Move. *If the Foe used a Non-Ranged Physical Move against the user, Reduce the foe's Strength by 2.",
     "Description": "The Pokemon uses a ghostly shield to protect itself. If the foe managed to touch it, the user will drain some of its lifeforce.",
     "_id": "king's-shield",
     "Attributes": {
         "ShieldMove": true,
-        "Priority": 3
+        "Reaction": "4"
     },
     "AddedEffects": {
         "StatChanges": [

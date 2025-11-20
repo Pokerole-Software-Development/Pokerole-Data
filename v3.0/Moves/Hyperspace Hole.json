@@ -7,14 +7,14 @@
     "Accuracy1": "Insight",
     "Accuracy2": "Channel",
     "Target": "Foe",
-    "Effect": "Single Target. Never Miss. Unique. Ignore Defenses. Ignore Shield Moves, and Force Field.",
+    "Effect": "Single Target. Never Miss. Unique. Ignore Defenses. Ignore Shield Moves and Force Field.",
     "Description": "The laws of physics forbid one object from being in many places at once and from occupying the same space as other bodies. The user disregards their authority...",
     "_id": "hyperspace-hole",
     "Attributes": {
         "IgnoreShield": true,
         "IgnoreDefenses": true,
         "Unique": true,
-        "NeverFail": true
+        "NeverMiss": true
     },
     "AddedEffects": {},
     "Category": "Special"

@@ -11,7 +11,7 @@
     "Description": "The Pokémon approaches the foe disarmingly then attacks suddenly without giving any time to react.",
     "_id": "feint-attack",
     "Attributes": {
-        "NeverFail": true
+        "NeverMiss": true
     },
     "AddedEffects": {},
     "Category": "Physical"

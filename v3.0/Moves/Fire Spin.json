@@ -7,12 +7,12 @@
     "Accuracy1": "Special",
     "Accuracy2": "Channel",
     "Target": "Foe",
-    "Effect": "Single Target. Low Accuracy 2. Blocks. Ongoing Damage. Duration 4 Rounds. Increase the Target's required Succcesses to Evade at Storyteller's discretion.",
+    "Effect": "Single Target. Low Accuracy 2. Blocks. Ongoing Damage. Duration 4 Rounds. Increase the Target's difficulty to Evade at Storyteller's discretion.",
     "Description": "The user creates a vortex of fire that remains spinning in the battlefield, trapping the foe within.",
     "_id": "fire-spin",
     "Attributes": {
         "BlockDamagePool": 2,
-        "AccuracyReduction": 2,
+        "AccuracyReduction": -2,
         "OngoingDamage": true,
         "Duration": 4
     },

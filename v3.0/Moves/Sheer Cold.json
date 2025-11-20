@@ -2,17 +2,18 @@
     "Name": "Sheer Cold",
     "Type": "Ice",
     "Power": 0,
-    "Damage1": "",
+    "Damage1": "-",
     "Damage2": "",
     "Accuracy1": "Special",
     "Accuracy2": "Nature",
     "Target": "Foe",
-    "Effect": "Single Target. Low Accuracy 5. Deal Damage equal to the Target's Remaining HP, plus 1 Lethal Damage.",
+    "Effect": "Single Target. Low Accuracy 5. Ranged. Deal Damage to the Target equal to its Remaining HP, plus 1 Lethal Damage.",
     "Description": "The user freezes the foe from the inside out. Victims of this attack will need urgent medical attention.",
     "_id": "sheer-cold",
     "Attributes": {
         "Lethal": true,
-        "AccuracyReduction": 5
+        "AccuracyReduction": -5,
+        "Ranged": true
     },
     "AddedEffects": {
         "FixedDamage": {

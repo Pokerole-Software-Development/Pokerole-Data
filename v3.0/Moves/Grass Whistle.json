@@ -11,8 +11,8 @@
     "Description": "The user plays a beautiful and soothing melody that lulls the target into a peaceful sleep.",
     "_id": "grass-whistle",
     "Attributes": {
-        "SoundBased": true,
-        "AccuracyReduction": 3
+        "AccuracyReduction": -3,
+        "SoundMove": true
     },
     "AddedEffects": {
         "Ailments": [

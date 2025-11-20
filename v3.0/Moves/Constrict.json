@@ -7,14 +7,19 @@
     "Accuracy1": "Strength",
     "Accuracy2": "Brawl",
     "Target": "Foe",
-    "Effect": "Single Target. This Move deals Typeless Damage. Roll 1 Chance Die to Reduce the Target's Dexterity by 1.",
-    "Description": "The Pokémon tightens its tentacles or body on the foe to keep them locked in a painful squeeze.",
+    "Effect": "Single Target. This Move deals Typeless damage. Roll 1 chance die to reduce the Target's Dexterity by 1.",
+    "Description": "The Pokemon tightens their hold on the foe to keep them locked in a squeeze.",
     "_id": "constrict",
-    "Attributes": {},
+    "Attributes": {
+    },
     "AddedEffects": {
-        "Ailments": [
+        "StatChanges": [
             {
-                "Type": "Block",
+                "Stats": [
+                    "Dex"
+                ],
+                "Stages": -1,
+                "ChanceDice": 1,
                 "Affects": "Targets"
             }
         ]

@@ -6,12 +6,12 @@
     "Damage2": "",
     "Accuracy1": "Special",
     "Accuracy2": "Channel",
-    "Target": "User",
-    "Effect": "Target Self. Switcher Move for the User. In the wild the Battle ends. Out of Battle, Teleportation distances depend on Special and Storyteller's discretion.",
+    "Target": "Self",
+    "Effect": "Target Self. Switcher Move for the User. Out of battle, Teleportation distances and limitations are determined by the User's Special Score and Storyteller's discretion.",
     "Description": "Teleport the user and one more creature to a place of tranquility and high psychic resonance such as Pokémon Centers. Ceilings and walls block this move from working.",
     "_id": "teleport",
     "Attributes": {
-        "SwitcherMove": true
+        "SwitcherMove": "User"
     },
     "AddedEffects": {},
     "Category": "Support"

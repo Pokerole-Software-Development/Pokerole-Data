@@ -13,9 +13,10 @@
     "Attributes": {
         "PhysicalRanged": true,
         "BlockDamagePool": 2,
-        "AccuracyReduction": 2,
+        "AccuracyReduction": -2,
         "OngoingDamage": true,
-        "Duration": 4
+        "Duration": 4,
+        "Ranged": true
     },
     "AddedEffects": {
         "Ailments": [

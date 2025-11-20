@@ -5,13 +5,13 @@
     "Damage1": "",
     "Damage2": "",
     "Accuracy1": "Special",
-    "Accuracy2": "Channel",
-    "Target": "Foe",
-    "Effect": "Single Target. Priority 4. Redirect the effects of a Support Move that would Affect the User or its side of the Battlefield towards the Target's. (eg. The Foe used Stealth Rock, with Magic Coat it will now affect the Foe's side instead of yours).",
+    "Accuracy2": "Stealth",
+    "Target": "Foe's Battlefield",
+    "Effect": "Target Self. Reaction 4. Support Moves that would target the user or its side of the field are inflicted to the foe performing the Move or that foe's side of the field instead.",
     "Description": "The user quickly creates a barrier that reflects any minor attack, status condition, or dirty triick the foe might have wanted to use.",
     "_id": "magic-coat",
     "Attributes": {
-        "Priority": 4
+        "Reaction": "4"
     },
     "AddedEffects": {},
     "Category": "Support"

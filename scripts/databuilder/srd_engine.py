@@ -1,11 +1,8 @@
 from engine import Engine
-from fire import Fire
-from glob import glob
 from os.path import join
-from os import listdir
-from shutil import copy
 import yaml
 import pandas as pd
+from shutil import rmtree
 
 VERBOSE = True
 
@@ -15,20 +12,23 @@ class SRD_Engine(Engine):
         super().__init__(output_path, game_version)
         self.in_vault_path = join("Pokerole SRD", f"SRD {self.game_version}")
         self.output_path = join(output_path, "Pokerole SRD", f"SRD {self.game_version}")
+        # Wipe out the Output folder you provided. 
+        rmtree(self.output_path, ignore_errors=True)
     
-    def pokedex_entry(self, entry):
+    def pokedex_entry(self, entry, write=True):
         # Entry dict is also going to be used for the yml metadata. 
         # if VERBOSE: print(entry['Name'])
         name = entry['Name']
         sname = entry['Image'].split('.')
         entry['BookSprite'] = f"SRD-{sname[0]}-BookSprite.{sname[1]}"
         entry['HomeSprite'] = f"SRD-{sname[0]}-HomeSprite.{sname[1]}"
-        entry['BoxSprite'] = f"SRD-{sname[0]}-BoxSprite.{sname[1]}"
-        entry['ShuffleToken'] = f"SRD-{sname[0]}-ShuffleToken.{sname[1]}"
+        # entry['BoxSprite'] = f"SRD-{sname[0]}-BoxSprite.{sname[1]}"
+        # entry['ShuffleToken'] = f"SRD-{sname[0]}-ShuffleToken.{sname[1]}"
         
-        entry['Legendary'] = 'Yes' if entry['Legendary'] else 'No'
-        goodstarter = 'Yes' if entry['GoodStarter'] else 'No'
-        entry['Moves'] = self._learnset_gen(entry['Moves'])
+        # entry['Legendary'] = 'Yes' if entry['Legendary'] else 'No'
+        # goodstarter = 'Yes' if entry['GoodStarter'] else 'No'
+        entry.update(self._learnset_gen(entry['Moves']))
+        
         
         if entry.get('Evolutions'):
             evocopy = entry['Evolutions'].copy()
@@ -66,26 +66,36 @@ class SRD_Engine(Engine):
             name=name, 
             booksprite=entry['BookSprite'], 
             homesprite=entry['HomeSprite'], 
-            boxsprite=entry['BoxSprite'], 
-            shuffletoken=entry['ShuffleToken'], 
+            # boxsprite=entry['BoxSprite'], 
+            # shuffletoken=entry['ShuffleToken'], 
             dexcategory=entry['DexCategory'], 
             dexdescription=entry['DexDescription'], 
             dexid=entry['DexID'], 
             typeline=entry['Type1']+(f' / {entry["Type2"]}' if entry['Type2'] else ''), 
             abilities=abilities, 
             basehp=entry["BaseHP"], 
+            strengthdots = ('⬤'*entry['Strength'])+('⭘'*(entry['MaxStrength']-entry['Strength'])),
+            strengthraw = str(entry["Strength"])+'/'+str(entry['MaxStrength']),
+            dexteritydots = ('⬤'*entry['Dexterity'])+('⭘'*(entry['MaxDexterity']-entry['Dexterity'])),
+            dexterityraw = str(entry["Dexterity"])+'/'+str(entry['MaxDexterity']),
+            vitalitydots = ('⬤'*entry['Vitality'])+('⭘'*(entry['MaxVitality']-entry['Vitality'])),
+            vitalityraw = str(entry["Vitality"])+'/'+str(entry['MaxVitality']),
+            specialdots = ('⬤'*entry['Special'])+('⭘'*(entry['MaxSpecial']-entry['Special'])),
+            specialraw = str(entry["Special"])+'/'+str(entry['MaxSpecial']),
+            insightdots = ('⬤'*entry['Insight'])+('⭘'*(entry['MaxInsight']-entry['Insight'])),
+            insightraw = str(entry["Insight"])+'/'+str(entry['MaxInsight']),
             feet=feet, 
-            inches=inches, 
+            inches=inches,
             meters=entry['Height']['Meters'], 
             pounds=entry['Weight']['Pounds'],
             kilograms=entry['Weight']['Kilograms'], 
-            goodstarter=goodstarter, 
+            goodstarter= 'Yes' if entry['GoodStarter'] else 'No', 
             recommendedrank=entry['RecommendedRank'], 
             evostring=evostring,
             self_in_vault=join(self.in_vault_path, 'SRD-Pokedex', f"SRD-{name}.md")
         )
         
-        for x in ['DexID', 'BaseHP', 'RecommendedRank', 'GoodStarter', '_id', 'Name']:
+        for x in ['DexID', 'BaseHP', 'RecommendedRank', 'GoodStarter', '_id', 'Name', 'Moves']:
                 del entry[x]
         entry_output = f"---\n{yaml.dump(entry)}---\n\n#PokeroleSRD/Pokedex\n\n{entry_output}"
         
@@ -95,15 +105,13 @@ class SRD_Engine(Engine):
         return entry_output
     
     def _learnset_gen(self, stored_moves):
-        moves = []
-        for m in stored_moves:
-            if moves and m["Learned"] != moves[-1][0]:
-                moves.append(["---------------------------","---------------------------"])
-            # moves.append([m[f'Learned'],f'[[SRD-{m["Name"]}|{m["Name"]}]]'])
-            moves.append([m[f'Learned'], f'''[[{join(self.in_vault_path, 'SRD-Moves', 'SRD-'+m["Name"])}|{m["Name"]}]]'''])
+        ranks = ['Starter','Beginner','Amateur','Ace','Pro','Rookie','Standard','Advanced','Expert']
+        moves = {}
+        for k in ranks:
+            moves[k+'Moves'] = [m['Name'] for m in stored_moves if m['Learned'] == k]
         return moves
         
-    def movedex_entry(self, entry):
+    def movedex_entry(self, entry, write=True):
         moves_template = (
         '''### `= this.name`\n'''
         '''*`= this.Description`*\n'''
@@ -122,7 +130,7 @@ class SRD_Engine(Engine):
         path = join(self.output_path,'SRD-Moves', f"SRD-{entry['Name']}.md")
         self._write_to(entry_output, path)
     
-    def abilitydex_entry(self, entry):
+    def abilitydex_entry(self, entry, write=True):
         ability_template = (
             '''## `= this.name`\n'''
             '''\n'''
@@ -135,10 +143,10 @@ class SRD_Engine(Engine):
         path = join(self.output_path,'SRD-Abilities', f"SRD-{entry['Name']}.md")
         self._write_to(entry_output, path)
         
-    def itemdex_entry(self, entry):
+    def itemdex_entry(self, entry, write=True):
         
-        img = entry.get('ItemSprite', None)
-        img = f"![[{img}|right]]\n" if img else ""
+        img = entry.get('_id', None)
+        img = f"![[SRD-{img}-ItemSprite.png|right]]\n" if img else ""
         
         items_template = (
                 f'''## `= this.Name`\n'''
@@ -159,7 +167,7 @@ class SRD_Engine(Engine):
         path = join(self.output_path,'SRD-Items', f"SRD-{entry['Name']}.md")
         self._write_to(entry_output, path)
     
-    def nature_entry(self, entry):
+    def nature_entry(self, entry, write=True):
         natures_template = (
             '''## `= this.Nature`\n'''
             '''\n'''
@@ -177,4 +185,4 @@ class SRD_Engine(Engine):
     def import_images(self, source, setname):
         target_path = join(self.output_path, f'SRD-{setname}')
         self._pathgen(target_path)
-        self._copy_imageset(source, target_path, '', f'-{setname[:-1]}')
+        self._copy_imageset(source, target_path, 'SRD-', f'-{setname[:-1]}')
