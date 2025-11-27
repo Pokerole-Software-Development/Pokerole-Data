@@ -5,7 +5,7 @@ from datetime import datetime
 from hashlib import blake2b
 import json
 
-DEFAULT_POKEMON_MANEUVERS = ['Struggle', 'Grapple', 'Help Another', 'Cover an Ally', 'Run Away']
+DEFAULT_POKEMON_MANEUVERS = ['Struggle', 'Struggle - Throw' 'Grapple', 'Help Another', 'Cover An Ally', 'Run Away', 'Ambush', 'Clash', 'Evasion', 'Stabilize An Ally']
 POKEMON_TOKEN_IMAGES = 'book'
 
 class Foundry_Engine(Engine):
