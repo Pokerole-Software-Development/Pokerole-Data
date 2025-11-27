@@ -12,7 +12,8 @@
     "_id": "ice-ball",
     "Attributes": {
         "SuccessiveActions": true,
-        "AccuracyReduction": -1
+        "AccuracyReduction": -1,
+        "ProjectileMove": true
     },
     "AddedEffects": {},
     "Category": "Physical"

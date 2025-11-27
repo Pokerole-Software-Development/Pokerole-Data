@@ -10,7 +10,9 @@
     "Effect": "Single Target. Roll 3 Chance Dice to Confuse the Target. If the Accuracy roll fails, Roll 4 Dice of Typeless Damage against the user, ignoring defenses.",
     "Description": "The user attacks by kicking up into the air and slamming its heel down upon the target leaving it both allured and scared. The heel may break if the kick fails.",
     "_id": "axe-kick",
-    "Attributes": {},
+    "Attributes": {
+        "IgnoreDefenses": true
+    },
     "AddedEffects": {},
     "Category": "Physical"
 }

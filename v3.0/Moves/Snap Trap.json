@@ -12,7 +12,8 @@
     "_id": "snap-trap",
     "Attributes": {
         "BlockDamagePool": 0,
-        "Duration": "wholeScene"
+        "Duration": "wholeScene",
+        "OngoingDamage": true
     },
     "AddedEffects": {
         "Ailments": [

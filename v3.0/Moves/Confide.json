@@ -10,7 +10,9 @@
     "Effect": "Single Target. Reduce the Target's Special by 1.",
     "Description": "The Pokémon tells a secret to the target. They giggle together but the foe loses its concentration on the battle.",
     "_id": "confide",
-    "Attributes": {},
+    "Attributes": {
+        "SoundMove": true
+    },
     "AddedEffects": {
         "StatChanges": [
             {
