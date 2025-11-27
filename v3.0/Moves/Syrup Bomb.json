@@ -8,8 +8,8 @@
     "Accuracy2": "Nature",
     "Target": "Foe",
     "Effect": "Single Target. Low Accuracy 1. Projectile Move. Reduce the Target's Dexterity by 1. *This effect can stack up to 3 Times.",
-    "Description": "",
-    "_id": "syrup_bomb",
+    "Description": "The Pokémon spits out a red syrup on their foe; as the syrup hardens the movement of the foe becomes impaired until they become a sweet caramelized statue.",
+    "_id": "syrup-bomb",
     "Attributes": {
         "AccuracyReduction": -1,
         "ProjectileMove": true
