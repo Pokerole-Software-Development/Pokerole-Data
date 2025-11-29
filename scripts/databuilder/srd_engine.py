@@ -95,7 +95,7 @@ class SRD_Engine(Engine):
             self_in_vault=join(self.in_vault_path, 'SRD-Pokedex', f"SRD-{name}.md")
         )
         
-        for x in ['DexID', 'BaseHP', 'RecommendedRank', 'GoodStarter', '_id', 'Name', 'Moves']:
+        for x in ['DexID', '_id', 'Moves']:
                 del entry[x]
         entry_output = f"---\n{yaml.dump(entry)}---\n\n#PokeroleSRD/Pokedex\n\n{entry_output}"
         
@@ -146,7 +146,8 @@ class SRD_Engine(Engine):
     def itemdex_entry(self, entry, write=True):
         
         img = entry.get('_id', None)
-        img = f"![[SRD-{img}-ItemSprite.png|right]]\n" if img else ""
+        entry['Image'] = f'SRD-{img}-ItemSprite.png'
+        img = f"![[{entry['Image']}|right]]\n" if img else ""
         
         items_template = (
                 f'''## `= this.Name`\n'''
