@@ -22,6 +22,7 @@ class SRD_Engine(Engine):
         sname = entry['Image'].split('.')
         entry['BookSprite'] = f"SRD-{sname[0]}-BookSprite.{sname[1]}"
         entry['HomeSprite'] = f"SRD-{sname[0]}-HomeSprite.{sname[1]}"
+        postfix = '-v2.0' if self.game_version == 'v2.0' else ''
         # entry['BoxSprite'] = f"SRD-{sname[0]}-BoxSprite.{sname[1]}"
         # entry['ShuffleToken'] = f"SRD-{sname[0]}-ShuffleToken.{sname[1]}"
         
@@ -50,16 +51,17 @@ class SRD_Engine(Engine):
         height = str(entry['Height']['Feet'])
         feet = height.split('.')[0]
         inches = height.split('.')[1] if '.' in height else 0 
-        abilities = (f"[[SRD-{entry['Ability1']}|{entry['Ability1']}]]"
-                            f"{'' if not entry['Ability2'] else ' / [[SRD-'+ entry['Ability2']+'|'+entry['Ability2']+']]'}"
-                            f"{'' if not entry['HiddenAbility'] else ' ([[SRD-'+entry['HiddenAbility']+'|'+entry['HiddenAbility']+']])'}"
-                            f"{'' if not entry['EventAbilities'] else ' <[[SRD-'+entry['EventAbilities']+'|'+entry['EventAbilities']+']]>'}"
+        abilities = (f"[[SRD-{entry['Ability1']}{postfix}|{entry['Ability1']}]]"
+                            f"{'' if not entry['Ability2'] else ' / [[SRD-'+ entry['Ability2']+postfix+'|'+entry['Ability2']+']]'}"
+                            f"{'' if not entry['HiddenAbility'] else ' ([[SRD-'+entry['HiddenAbility']+postfix+'|'+entry['HiddenAbility']+']])'}"
+                            f"{'' if not entry['EventAbilities'] else ' <[[SRD-'+entry['EventAbilities']+postfix+'|'+entry['EventAbilities']+']]>'}"
                             )
         INTEGERS = ['BaseHP', 'Strength', 'MaxStrength',
         'Dexterity', 'MaxDexterity', 'Vitality', 'MaxVitality', 'Special',
         'MaxSpecial', 'Insight', 'MaxInsight']
         for key in INTEGERS:
             entry[key] = int(entry[key])
+        learnset = "Embedded Views.base#Learnsets " + self.game_version
             
         entry_template = open('resources/srd_pokedex_template.txt').read()
         entry_output = entry_template.format( 
@@ -92,6 +94,7 @@ class SRD_Engine(Engine):
             goodstarter= 'Yes' if entry['GoodStarter'] else 'No', 
             recommendedrank=entry['RecommendedRank'], 
             evostring=evostring,
+            learnset=learnset,
             self_in_vault=join(self.in_vault_path, 'SRD-Pokedex', f"SRD-{name}.md")
         )
         
@@ -99,7 +102,7 @@ class SRD_Engine(Engine):
                 del entry[x]
         entry_output = f"---\n{yaml.dump(entry)}---\n\n#PokeroleSRD/Pokedex\n\n{entry_output}"
         
-        path = join(self.output_path,'SRD-Pokedex', f"SRD-{name}.md")
+        path = join(self.output_path,'SRD-Pokedex', f"SRD-{name}{postfix}.md")
         self._write_to(entry_output, path)
         
         return entry_output
@@ -127,7 +130,8 @@ class SRD_Engine(Engine):
         )
         del entry['_id']
         entry_output = f"---\n{yaml.dump(entry)}---\n\n#PokeroleSRD/Moves\n\n{moves_template}"
-        path = join(self.output_path,'SRD-Moves', f"SRD-{entry['Name']}.md")
+        postfix = '-v2.0' if self.game_version == 'v2.0' else ''
+        path = join(self.output_path,'SRD-Moves', f"SRD-{entry['Name']}{postfix}.md")
         self._write_to(entry_output, path)
     
     def abilitydex_entry(self, entry, write=True):
@@ -140,7 +144,8 @@ class SRD_Engine(Engine):
             )
         del entry['_id']
         entry_output = f"---\n{yaml.dump(entry)}---\n\n#PokeroleSRD/Abilities\n\n{ability_template}"
-        path = join(self.output_path,'SRD-Abilities', f"SRD-{entry['Name']}.md")
+        postfix = '-v2.0' if self.game_version == 'v2.0' else ''
+        path = join(self.output_path,'SRD-Abilities', f"SRD-{entry['Name']}{postfix}.md")
         self._write_to(entry_output, path)
         
     def itemdex_entry(self, entry, write=True):
@@ -165,7 +170,8 @@ class SRD_Engine(Engine):
         del entry['_id']
         
         entry_output = f"---\n{yaml.dump(entry)}---\n\n#PokeroleSRD/Items\n\n{items_template}"
-        path = join(self.output_path,'SRD-Items', f"SRD-{entry['Name']}.md")
+        postfix = '-v2.0' if self.game_version == 'v2.0' else ''
+        path = join(self.output_path,'SRD-Items', f"SRD-{entry['Name']}{postfix}.md")
         self._write_to(entry_output, path)
     
     def nature_entry(self, entry, write=True):

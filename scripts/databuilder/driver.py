@@ -16,8 +16,8 @@ class Driver(object):
     def __init__(self, engine, root='../../', game_version='v3.0'):
         self.engine = engine
         self.engine.driver = self
+        self.game_version = self.engine.game_version
         self.root = root
-        self.game_version = game_version
         self.export = True
         
     def _toggle_writes(self):
