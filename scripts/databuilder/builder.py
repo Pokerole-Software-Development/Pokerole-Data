@@ -10,7 +10,6 @@ driver.generate_moves()
 driver.generate_items()
 driver.generate_pokedex()
 driver.generate_natures()
-driver.generate_images(['ALL'])
 
 srd = SRD_Engine('/Users/bill/Code/Pokerole SRD', 'v3.0')
 driver = Driver(srd)
@@ -20,7 +19,7 @@ driver.generate_moves()
 driver.generate_items()
 driver.generate_pokedex()
 driver.generate_natures()
-driver.generate_images(['ALL'])
+driver.generate_images('BookSprites', 'HomeSprites', "ItemSprites")
 
 # --------------------------------------------------------------------------
 
