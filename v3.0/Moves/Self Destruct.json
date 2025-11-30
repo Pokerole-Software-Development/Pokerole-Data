@@ -1,0 +1,21 @@
+{
+    "Name": "Self Destruct",
+    "Type": "Normal",
+    "Power": 8,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Strength",
+    "Accuracy2": "Channel",
+    "Target": "Area",
+    "Effect": "Area Move. Lethal. Ranged. The User faints.",
+    "Description": "It’s not about winning or losing, some pokémon just want to see the world burn.",
+    "_id": "self-destruct",
+    "Attributes": {
+        "UserFaints": true,
+        "PhysicalRanged": true,
+        "Lethal": true,
+        "Ranged": true
+    },
+    "AddedEffects": {},
+    "Category": "Physical"
+}

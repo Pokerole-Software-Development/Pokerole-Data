@@ -1,0 +1,156 @@
+{
+    "Number": 745,
+    "DexID": "0745F2",
+    "Name": "Lycanroc (Dusk Form)",
+    "Type1": "Rock",
+    "Type2": "",
+    "BaseHP": 5,
+    "Strength": 3,
+    "MaxStrength": 6,
+    "Dexterity": 3,
+    "MaxDexterity": 6,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Tough Claws",
+    "Ability2": "",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Expert",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "lycanroc-dusk-form",
+    "DexCategory": "Wolf Pokémon",
+    "Height": {
+        "Meters": 0.8,
+        "Feet": 2.6
+    },
+    "Weight": {
+        "Kilograms": 25.0,
+        "Pounds": 55.0
+    },
+    "DexDescription": "An independent but loyal Rockruff will evolve at dusk. This evolved form is very hard to achieve. An intense fighting spirit lies underneath its calm exterior. Prone to act on its own.",
+    "Evolutions": [
+        {
+            "From": "Rockruff",
+            "Kind": "Level",
+            "Speed": "Slow",
+            "Special": "Dusk"
+        }
+    ],
+    "Image": "lycanroc-dusk-form.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Crush Claw"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Sand Attack"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Leer"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Rock Throw"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Accelerock"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Counter"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Howl"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Endure"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Rock Tomb"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Bite"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Roar"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Odor Sleuth"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Crunch"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Rock Slide"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Stealth Rock"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Sucker Punch"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Swords Dance"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Scary Face"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Rock Polish"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Fire Fang"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Thunder Fang"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Giga Impact"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Stone Edge"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Iron Defense"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Close Combat"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Taunt"
+        }
+    ]
+}

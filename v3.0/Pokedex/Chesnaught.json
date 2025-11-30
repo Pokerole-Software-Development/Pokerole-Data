@@ -1,0 +1,151 @@
+{
+    "Number": 652,
+    "DexID": "0652",
+    "Name": "Chesnaught",
+    "Type1": "Grass",
+    "Type2": "Fighting",
+    "BaseHP": 5,
+    "Strength": 3,
+    "MaxStrength": 6,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 3,
+    "MaxVitality": 7,
+    "Special": 2,
+    "MaxSpecial": 5,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Overgrow",
+    "Ability2": "Bulletproof",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Expert",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "chesnaught",
+    "DexCategory": "Spiny Armor Pokémon",
+    "Height": {
+        "Meters": 1.6,
+        "Feet": 5.3
+    },
+    "Weight": {
+        "Kilograms": 90.0,
+        "Pounds": 198.0
+    },
+    "DexDescription": "These Pokémon are known for taking defensive stances instead of charging into battle. Many stories tell how during the old wars, Chesnaught protected their allies using their bodies.",
+    "Evolutions": [
+        {
+            "From": "Quilladin",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "chesnaught.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Growl"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Vine Whip"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Rollout"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Bite"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Leech Seed"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Pin Missile"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Needle Arm"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Take Down"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Seed Bomb"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Mud Shot"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Bulk Up"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Feint"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Spikes"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Body Slam"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Spiky Shield"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Drain Punch"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Pain Split"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Wood Hammer"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Hammer Arm"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Giga Impact"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Belly Drum"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Frenzy Plant"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Synthesis"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Dual Chop"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Wide Guard"
+        }
+    ]
+}

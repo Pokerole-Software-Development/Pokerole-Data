@@ -1,0 +1,18 @@
+{
+    "Name": "Quash",
+    "Type": "Dark",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Tough",
+    "Accuracy2": "Intimidate",
+    "Target": "Foe",
+    "Effect": "Single Target. Target's will go last in the Initiative Order. Whole Scene Duration. This effect does not end by switching out the affected Pokemon. If used again, the previous Target has their order in the initiative restored.",
+    "Description": "The user represses the foe through intimidation so it thinks twice before acting.",
+    "_id": "quash",
+    "Attributes": {
+        "Duration": "wholeScene"
+    },
+    "AddedEffects": {},
+    "Category": "Support"
+}

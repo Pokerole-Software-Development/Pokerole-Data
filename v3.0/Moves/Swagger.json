@@ -1,0 +1,32 @@
+{
+    "Name": "Swagger",
+    "Type": "Normal",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Tough/Cool",
+    "Accuracy2": "Intimidate",
+    "Target": "Foe",
+    "Effect": "Single Target. Increase the Target's Strength by 2. Confuse the Target.",
+    "Description": "The Pokémon’s arrogant and mocking attitude enrage their foe and make it lose focus in battle.",
+    "_id": "swagger",
+    "Attributes": {},
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "Strength"
+                ],
+                "Stages": 2,
+                "Affects": "Targets"
+            }
+        ],
+        "Ailments": [
+            {
+                "Type": "Confuse",
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Support"
+}

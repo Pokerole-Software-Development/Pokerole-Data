@@ -1,0 +1,124 @@
+{
+    "Number": 680,
+    "DexID": "0680",
+    "Name": "Doublade",
+    "Type1": "Steel",
+    "Type2": "Ghost",
+    "BaseHP": 4,
+    "Strength": 3,
+    "MaxStrength": 6,
+    "Dexterity": 1,
+    "MaxDexterity": 3,
+    "Vitality": 4,
+    "MaxVitality": 8,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "No Guard",
+    "Ability2": "",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Advanced",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "doublade",
+    "DexCategory": "Sword Pokémon",
+    "Height": {
+        "Meters": 0.8,
+        "Feet": 2.6
+    },
+    "Weight": {
+        "Kilograms": 5.0,
+        "Pounds": 10.0
+    },
+    "DexDescription": "Both swords share a telepathic link to coordinate attacks and slash their enemies to shreds. They feed on the rage of their wielder and promise to make them unbeatable at the cost of their flesh and soul.",
+    "Evolutions": [
+        {
+            "From": "Honedge",
+            "Kind": "Level",
+            "Speed": "Slow"
+        },
+        {
+            "To": "Aegislash",
+            "Kind": "Stone",
+            "Item": "Dusk Stone"
+        }
+    ],
+    "Image": "doublade.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Cut"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Fury Cutter"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Shadow Sneak"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Autotomize"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Aerial Ace"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Pursuit"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Metal Sound"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Slash"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Night Slash"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Retaliate"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Iron Defense"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Iron Head"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Power Trick"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Swords Dance"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Sacred Sword"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Destiny Bond"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Spite"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Wide Guard"
+        }
+    ]
+}

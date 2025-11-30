@@ -1,0 +1,28 @@
+{
+    "Name": "Twineedle",
+    "Type": "Bug",
+    "Power": 1,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Strength/Dexterity",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "Single Target. Ranged. Double Action. Roll 2 Chance Dice to Poison the Target each hit.",
+    "Description": "The Pokémon makes a double stab using a poison-infused sting, claw, or spikes.",
+    "_id": "twineedle",
+    "Attributes": {
+        "PhysicalRanged": true,
+        "DoubleAction": true,
+        "Ranged": true
+    },
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Poison",
+                "Affects": "Targets",
+                "ChanceDice": 2
+            }
+        ]
+    },
+    "Category": "Physical"
+}

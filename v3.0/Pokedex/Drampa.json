@@ -1,0 +1,129 @@
+{
+    "Number": 780,
+    "DexID": "0780",
+    "Name": "Drampa",
+    "Type1": "Normal",
+    "Type2": "Dragon",
+    "BaseHP": 5,
+    "Strength": 2,
+    "MaxStrength": 5,
+    "Dexterity": 1,
+    "MaxDexterity": 3,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 3,
+    "MaxSpecial": 7,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Berserk",
+    "Ability2": "Sap Sipper",
+    "HiddenAbility": "Cloud Nine",
+    "EventAbilities": "",
+    "RecommendedRank": "Advanced",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "drampa",
+    "DexCategory": "Placid Pokémon",
+    "Height": {
+        "Meters": 3.0,
+        "Feet": 9.8
+    },
+    "Weight": {
+        "Kilograms": 185.0,
+        "Pounds": 407.0
+    },
+    "DexDescription": "It lives alone at the top of high mountains but comes down in the morning to eat berries. It is a caring Pokémon, especially towards children, and will fiercely protect any children it cares for with tremendous force.",
+    "Evolutions": [],
+    "Image": "drampa.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Play Nice"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Echoed Voice"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Twister"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Protect"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Glare"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Safeguard"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Dragon Rage"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Natural Gift"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Dragon Breath"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Extrasensory"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Light Screen"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Fly"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Hyper Voice"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Dragon Pulse"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Rain Dance"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Hurricane"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Play Rough"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Dragon Tail"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Outrage"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Thunder"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Tailwind"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Draco Meteor"
+        }
+    ]
+}

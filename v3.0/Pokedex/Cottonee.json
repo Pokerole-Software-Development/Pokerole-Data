@@ -1,0 +1,127 @@
+{
+    "Number": 546,
+    "DexID": "0546",
+    "Name": "Cottonee",
+    "Type1": "Grass",
+    "Type2": "Fairy",
+    "BaseHP": 3,
+    "Strength": 1,
+    "MaxStrength": 3,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 1,
+    "MaxSpecial": 3,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Prankster",
+    "Ability2": "Chlorophyll",
+    "HiddenAbility": "Infiltrator",
+    "EventAbilities": "",
+    "RecommendedRank": "Rookie",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "cottonee",
+    "DexCategory": "Cotton Puff Pokémon",
+    "Height": {
+        "Meters": 0.3,
+        "Feet": 1.0
+    },
+    "Weight": {
+        "Kilograms": 0.6,
+        "Pounds": 1.0
+    },
+    "DexDescription": "They go wherever the wind takes them. On rainy days they can't float, so they take shelter beneath big trees. To defend from predators, they shed their cotton and leave it as a decoy while they escape.",
+    "Evolutions": [
+        {
+            "To": "Whimsicott",
+            "Kind": "Stone",
+            "Item": "Sun Stone"
+        }
+    ],
+    "Image": "cottonee.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Absorb"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Helping Hand"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Fairy Wind"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Stun Spore"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Mega Drain"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Razor Leaf"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Growth"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Poison Powder"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Charm"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Leech Seed"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Cotton Spore"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Energy Ball"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Sunny Day"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Cotton Guard"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Endeavor"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Giga Drain"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Solar Beam"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Beat Up"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Fake Tears"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Substitute"
+        }
+    ]
+}

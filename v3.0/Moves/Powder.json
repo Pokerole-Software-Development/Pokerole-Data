@@ -1,0 +1,25 @@
+{
+    "Name": "Powder",
+    "Type": "Bug",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Insight",
+    "Accuracy2": "Nature",
+    "Target": "Foe",
+    "Effect": "Single Target. Powder Move. The next time the Target uses a Fire-Type Move, Roll Typeless Damage Dice equal to that Move's power, ignore defenses.",
+    "Description": "The foe gets covered by a very flammable powder, the smallest source of fire will ignite it with explosive results.",
+    "_id": "powder",
+    "Attributes": {
+        "PowderMove": true
+    },
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Powder",
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Support"
+}

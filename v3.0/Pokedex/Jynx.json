@@ -1,0 +1,131 @@
+{
+    "Number": 124,
+    "DexID": "0124",
+    "Name": "Jynx",
+    "Type1": "Ice",
+    "Type2": "Psychic",
+    "BaseHP": 4,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 3,
+    "MaxDexterity": 6,
+    "Vitality": 1,
+    "MaxVitality": 3,
+    "Special": 3,
+    "MaxSpecial": 6,
+    "Insight": 3,
+    "MaxInsight": 6,
+    "Ability1": "Oblivious",
+    "Ability2": "Forewarn",
+    "HiddenAbility": "Dry Skin",
+    "EventAbilities": "",
+    "RecommendedRank": "Advanced",
+    "GenderType": "F",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "jynx",
+    "DexCategory": "Human Shape Pokémon",
+    "Height": {
+        "Meters": 1.4,
+        "Feet": 4.6
+    },
+    "Weight": {
+        "Kilograms": 41.0,
+        "Pounds": 89.0
+    },
+    "DexDescription": "It is not common outside cold areas. This Pokémon is female-only. Its cries sound like human speech. However, it is impossible to tell what it is trying to say. The way it moves and talks induces others to dance.",
+    "Evolutions": [
+        {
+            "From": "Smoochum",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "jynx.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Pound"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Lick"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Lovely Kiss"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Sweet Kiss"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Draining Kiss"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Powder Snow"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Double Slap"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Body Slam"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Heart Stamp"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Ice Punch"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Fake Tears"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Mean Look"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Avalanche"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Psychic"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Wring Out"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Wake-Up Slap"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Blizzard"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Perish Song"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Fake Out"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Nasty Plot"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Aurora Veil"
+        }
+    ]
+}

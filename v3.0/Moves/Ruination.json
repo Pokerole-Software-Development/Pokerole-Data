@@ -1,0 +1,20 @@
+{
+    "Name": "Ruination",
+    "Type": "Dark",
+    "Power": 0,
+    "Damage1": "Varies",
+    "Damage2": "",
+    "Accuracy1": "Insight",
+    "Accuracy2": "Channel",
+    "Target": "Foe",
+    "Effect": "Single Target. Unique. Lethal. Roll Damage dice equal to the Target's Total HP. Ignore Defenses. This move will fail if the Target has been previously hit with this Move during the Battle.",
+    "Description": "The Pokémon summons a disaster to befall onto their victim, few make it out alive, and those who do don’t stay that way for long.",
+    "_id": "ruination",
+    "Attributes": {
+        "Unique": true,
+        "Lethal": true,
+        "IgnoreDefenses": true
+    },
+    "AddedEffects": {},
+    "Category": "Special"
+}

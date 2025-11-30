@@ -1,0 +1,140 @@
+{
+    "Number": 319,
+    "DexID": "0319",
+    "Name": "Sharpedo",
+    "Type1": "Water",
+    "Type2": "Dark",
+    "BaseHP": 5,
+    "Strength": 3,
+    "MaxStrength": 7,
+    "Dexterity": 3,
+    "MaxDexterity": 6,
+    "Vitality": 1,
+    "MaxVitality": 3,
+    "Special": 3,
+    "MaxSpecial": 6,
+    "Insight": 1,
+    "MaxInsight": 3,
+    "Ability1": "Rough Skin",
+    "Ability2": "Speed Boost",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Expert",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "sharpedo",
+    "DexCategory": "Brutal Pokémon",
+    "Height": {
+        "Meters": 1.8,
+        "Feet": 6.0
+    },
+    "Weight": {
+        "Kilograms": 177.0,
+        "Pounds": 391.0
+    },
+    "DexDescription": "Known as the 'Bully of the Sea', widely feared for its cruelty, malice and gangster attitude. They hurt Pokémon for fun and sink boats for sport. Sharpedo are among the fastest swimmers.",
+    "Evolutions": [
+        {
+            "From": "Carvanha",
+            "Kind": "Level",
+            "Speed": "Medium"
+        },
+        {
+            "To": "Sharpedo (Mega Form)",
+            "Kind": "Mega",
+            "Item": "Sharpedonite"
+        }
+    ],
+    "Image": "sharpedo.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Aqua Jet"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Leer"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Bite"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Feint"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Rage"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Focus Energy"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Scary Face"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Ice Fang"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Screech"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Swagger"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Taunt"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Crunch"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Slash"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Poison Fang"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Agility"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Assurance"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Night Slash"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Skull Bash"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Liquidation"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Psychic Fangs"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Spite"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Flip Turn"
+        }
+    ]
+}

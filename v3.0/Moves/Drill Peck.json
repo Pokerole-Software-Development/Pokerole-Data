@@ -1,0 +1,18 @@
+{
+    "Name": "Drill Peck",
+    "Type": "Flying",
+    "Power": 3,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "Single Target. Lethal.",
+    "Description": "A bird has no fangs, yet they can still can tear flesh.",
+    "_id": "drill-peck",
+    "Attributes": {
+        "Lethal": true
+    },
+    "AddedEffects": {},
+    "Category": "Physical"
+}

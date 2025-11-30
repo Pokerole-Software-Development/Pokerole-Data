@@ -1,0 +1,123 @@
+{
+    "Number": 390,
+    "DexID": "0390",
+    "Name": "Chimchar",
+    "Type1": "Fire",
+    "Type2": "",
+    "BaseHP": 3,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 1,
+    "MaxVitality": 3,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 1,
+    "MaxInsight": 3,
+    "Ability1": "Blaze",
+    "Ability2": "Iron Fist",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Rookie",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "chimchar",
+    "DexCategory": "Chimp Pokémon",
+    "Height": {
+        "Meters": 0.5,
+        "Feet": 1.7
+    },
+    "Weight": {
+        "Kilograms": 6.0,
+        "Pounds": 13.0
+    },
+    "DexDescription": "They climb sheer cliffs to live at the top of the mountains. Small groups of them tend to visit human camping sites to steal food and objects. They are playful and will wreak havoc if they want to have fun.",
+    "Evolutions": [
+        {
+            "To": "Monferno",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "chimchar.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Scratch"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Leer"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Ember"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Taunt"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Fury Swipes"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Power-Up Punch"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Flame Wheel"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Nasty Plot"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Torment"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Facade"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Slack Off"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Fire Spin"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Acrobatics"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Swift"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Flamethrower"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Double-Edge"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Fake Out"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Helping Hand"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Fire Pledge"
+        }
+    ]
+}

@@ -1,0 +1,135 @@
+{
+    "Number": 748,
+    "DexID": "0748",
+    "Name": "Toxapex",
+    "Type1": "Poison",
+    "Type2": "Water",
+    "BaseHP": 4,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 1,
+    "MaxDexterity": 3,
+    "Vitality": 4,
+    "MaxVitality": 8,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 3,
+    "MaxInsight": 7,
+    "Ability1": "Merciless",
+    "Ability2": "Regenerator",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Expert",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "toxapex",
+    "DexCategory": "Brutal Star Pokémon",
+    "Height": {
+        "Meters": 0.7,
+        "Feet": 2.3
+    },
+    "Weight": {
+        "Kilograms": 14.0,
+        "Pounds": 32.0
+    },
+    "DexDescription": "It crawls along the ocean floor, using its tentacles as a fortress. Its venom has the victim suffering for three days and nights, and even if it's healed, there are aftereffects, for it is a powerful toxin.",
+    "Evolutions": [
+        {
+            "From": "Mareanie",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "toxapex.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Poison Sting"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Peck"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Bite"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Venoshock"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Pin Missile"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Toxic Spikes"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Spike Cannon"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Venom Drench"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Baneful Bunker"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Infestation"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Wide Guard"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Recover"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Light Screen"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Toxic"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Poison Jab"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Pain Split"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Safeguard"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Cross Poison"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Liquidation"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Sludge Bomb"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Iron Defense"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Spikes"
+        }
+    ]
+}

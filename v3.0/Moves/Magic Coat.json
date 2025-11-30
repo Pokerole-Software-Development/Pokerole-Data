@@ -1,0 +1,18 @@
+{
+    "Name": "Magic Coat",
+    "Type": "Psychic",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Special",
+    "Accuracy2": "Stealth",
+    "Target": "Foe's Battlefield",
+    "Effect": "Target Self. Reaction 4. Support Moves that would target the user or its side of the field are inflicted to the foe performing the Move or that foe's side of the field instead.",
+    "Description": "Through a swift mind trick the Pokémon trick the foe into pouring their ill intent on itself.",
+    "_id": "magic-coat",
+    "Attributes": {
+        "Reaction": "4"
+    },
+    "AddedEffects": {},
+    "Category": "Support"
+}

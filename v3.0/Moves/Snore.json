@@ -1,0 +1,26 @@
+{
+    "Name": "Snore",
+    "Type": "Normal",
+    "Power": 2,
+    "Damage1": "Special",
+    "Damage2": "",
+    "Accuracy1": "Insight",
+    "Accuracy2": "Channel",
+    "Target": "Foe",
+    "Effect": "Single Target. Sound Move. Roll 3 Chance Dice to Flinch the Target. If the user is not asleep, this Move fails.",
+    "Description": "While the Pokémon is asleep they start snoring so loud it startles the foe.",
+    "_id": "snore",
+    "Attributes": {
+        "SoundMove": true
+    },
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Flinch",
+                "Affects": "Targets",
+                "ChanceDice": 3
+            }
+        ]
+    },
+    "Category": "Special"
+}

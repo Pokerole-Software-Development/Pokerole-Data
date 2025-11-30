@@ -1,0 +1,23 @@
+{
+    "Name": "Lock-On",
+    "Type": "Normal",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Insight",
+    "Accuracy2": "Alert",
+    "Target": "Self",
+    "Effect": "Target Self. The Next Move the User Performs has 2 automatic successes added on their Accuracy Roll.",
+    "Description": "The Pokémon’s eyes zoom into a moving target to strike with precision at the next opportunity.",
+    "_id": "lock-on",
+    "Attributes": {},
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "LockOn",
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Support"
+}

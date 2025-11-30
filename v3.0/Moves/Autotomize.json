@@ -1,0 +1,32 @@
+{
+    "Name": "Autotomize",
+    "Type": "Steel",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Channel",
+    "Target": "Self",
+    "Effect": "Target Self. Increase the User's Dexterity by 2. Halve the User's weight.",
+    "Description": "Rotating parts and tiny gears, the Pokémon works like a welloiled machine.",
+    "_id": "autotomize",
+    "Attributes": {},
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "Dexterity"
+                ],
+                "Stages": 2,
+                "Affects": "User"
+            }
+        ],
+        "Ailments": [
+            {
+                "Type": "Autotomize",
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Support"
+}

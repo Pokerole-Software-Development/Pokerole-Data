@@ -1,0 +1,19 @@
+{
+    "Name": "Fury Swipes",
+    "Type": "Normal",
+    "Power": 1,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Brawl/Intimidate",
+    "Target": "Foe",
+    "Effect": "Single Target. Low Accuracy 1. Successive Actions.",
+    "Description": "With their sharp claws, the Pokémon will swiftly scatch their foe, leaving its face full of small cuts.",
+    "_id": "fury-swipes",
+    "Attributes": {
+        "SuccessiveActions": true,
+        "AccuracyReduction": -1
+    },
+    "AddedEffects": {},
+    "Category": "Physical"
+}

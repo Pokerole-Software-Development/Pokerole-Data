@@ -1,0 +1,19 @@
+{
+    "Name": "Behemoth Bash",
+    "Type": "Steel",
+    "Power": 4,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Strength",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "Single Target. Unique. *If the Foe is under the effects of Dynamax/Gigantamax, This Move becomes Lethal and add 4 Extra Dice to the Damage Pool.",
+    "Description": "The Pokémon becomes a giant energy shield that pushes back everything in its wake. If the foe is under the effects of the Dynamax phenomenon all its energy will be swept away",
+    "_id": "behemoth-bash",
+    "Attributes": {
+        "Lethal": true,
+        "Unique": true
+    },
+    "AddedEffects": {},
+    "Category": "Physical"
+}

@@ -1,0 +1,18 @@
+{
+    "Name": "Grassy Glide",
+    "Type": "Grass",
+    "Power": 3,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Athletic",
+    "Target": "Foe",
+    "Effect": "Single Target. *If Grassy Terrain is active, this Move has Reaction 1.",
+    "Description": "A single leaf can hold the entire weight of the Pokémon. When moving, it appears to glide over the grass.",
+    "_id": "grassy-glide",
+    "Attributes": {
+        "Reaction": "1"
+    },
+    "AddedEffects": {},
+    "Category": "Physical"
+}

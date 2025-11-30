@@ -1,0 +1,19 @@
+{
+    "Name": "Mirror Coat",
+    "Type": "Psychic",
+    "Power": 0,
+    "Damage1": "Varies",
+    "Damage2": "",
+    "Accuracy1": "Insight",
+    "Accuracy2": "Channel",
+    "Target": "Foe",
+    "Effect": "Single Target. Late Reaction 5. Can only be used if Target's last Move on User was a Special Move. For damage, roll dice equal to Target's last damage pool rolled against the User plus 2. Ignore Defenses.",
+    "Description": "The user gathers the harmful energies around themselves and bounces them back to their source.",
+    "_id": "mirror-coat",
+    "Attributes": {
+        "IgnoreDefenses": true,
+        "LateReaction": "5"
+    },
+    "AddedEffects": {},
+    "Category": "Support"
+}

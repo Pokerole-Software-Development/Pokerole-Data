@@ -1,0 +1,29 @@
+{
+    "Name": "King's Shield",
+    "Type": "Steel",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Vitality",
+    "Accuracy2": "Brawl",
+    "Target": "Self",
+    "Effect": "Target Self. Reaction 4. Shield Move. Reduce 3 Damage the User would receive from a Damaging Move. *If the Foe used a Non-Ranged Physical Move against the user, Reduce the foe's Strength by 2.",
+    "Description": "Off my chair, jester! The king sits there!",
+    "_id": "king's-shield",
+    "Attributes": {
+        "ShieldMove": true,
+        "Reaction": "4"
+    },
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "Strength"
+                ],
+                "Stages": -2,
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Support"
+}

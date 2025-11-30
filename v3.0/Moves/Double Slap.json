@@ -1,0 +1,20 @@
+{
+    "Name": "Double Slap",
+    "Type": "Normal",
+    "Power": 1,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "Single Target. Low Accuracy 1. Double Action.",
+    "Description": "The name is misleading as the user slaps withouth even counting how many slaps they have given already",
+    "_id": "double-slap",
+    "Attributes": {
+        "SuccessiveActions": true,
+        "AccuracyReduction": -1,
+        "DoubleAction": true
+    },
+    "AddedEffects": {},
+    "Category": "Physical"
+}

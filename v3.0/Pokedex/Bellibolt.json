@@ -1,0 +1,135 @@
+{
+    "Number": 939,
+    "DexID": "0939",
+    "Name": "Bellibolt",
+    "Type1": "Electric",
+    "Type2": "",
+    "BaseHP": 6,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 3,
+    "MaxSpecial": 6,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Electromorphosis",
+    "Ability2": "Static",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Advanced",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "bellibolt",
+    "DexCategory": "EleFrog Pokémon",
+    "Height": {
+        "Meters": 1.2,
+        "Feet": 3.9
+    },
+    "Weight": {
+        "Kilograms": 113.0,
+        "Pounds": 249.0
+    },
+    "DexDescription": "It expands and contracts its body with a croaking sound. The belly button on its stomach produces the electricity while the two eye-like organs on its head release it. They are relaxed and friendly creatures.",
+    "Evolutions": [
+        {
+            "From": "Tadbulb",
+            "Kind": "Stone",
+            "Stone": "Thunder Stone"
+        }
+    ],
+    "Image": "bellibolt.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Mud Slap"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Thunder Shock"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Water Gun"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Charge"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Spark"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Mud Shot"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Flail"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Slack Off"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Volt Switch"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Discharge"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Weather Ball"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Electric Terrain"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Sucker Punch"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Eerie Impulse"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Light Screen"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Hyper Voice"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Reflect"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Zap Cannon"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Wild Charge"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Belly Drum"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Muddy Water"
+        }
+    ]
+}

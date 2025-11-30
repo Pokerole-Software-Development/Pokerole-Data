@@ -1,0 +1,20 @@
+{
+    "Name": "Me First",
+    "Type": "Normal",
+    "Power": 0,
+    "Damage1": "SameasCopiedMove+1",
+    "Damage2": "",
+    "Accuracy1": "Insight",
+    "Accuracy2": "Athletic",
+    "Target": "Foe",
+    "Effect": "Single Target. Reaction 1. Copy Move. Support Moves can't be copied. Unique Moves can't be copied. You may choose another Target(s) for the copied Move.",
+    "Description": "The user anticipates the next Move the target will use and impatiently interrupts to be the first in line.",
+    "_id": "me-first",
+    "Attributes": {
+        "Reaction": "1",
+        "CopyMove": true,
+        "Unique": true
+    },
+    "AddedEffects": {},
+    "Category": "Support"
+}

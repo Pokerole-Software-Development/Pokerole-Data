@@ -1,0 +1,26 @@
+{
+    "Name": "Barrier",
+    "Type": "Psychic",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Special",
+    "Accuracy2": "Channel",
+    "Target": "Self",
+    "Effect": "Target Self. Increase the User's Defense by 2.",
+    "Description": "Whenever a foe attempts to to get too close to the user, they suddenly stop as if something ...or someone, prevented their movement.",
+    "_id": "barrier",
+    "Attributes": {},
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "Def"
+                ],
+                "Stages": 2,
+                "Affects": "User"
+            }
+        ]
+    },
+    "Category": "Support"
+}

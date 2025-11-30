@@ -1,0 +1,124 @@
+{
+    "Number": 215,
+    "DexID": "0215",
+    "Name": "Sneasel",
+    "Type1": "Dark",
+    "Type2": "Ice",
+    "BaseHP": 3,
+    "Strength": 3,
+    "MaxStrength": 6,
+    "Dexterity": 3,
+    "MaxDexterity": 6,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 1,
+    "MaxSpecial": 3,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Inner Focus",
+    "Ability2": "Keen Eye",
+    "HiddenAbility": "Pickpocket",
+    "EventAbilities": "",
+    "RecommendedRank": "Standard",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "sneasel",
+    "DexCategory": "Sharp Claw Pokémon",
+    "Height": {
+        "Meters": 0.9,
+        "Feet": 2.9
+    },
+    "Weight": {
+        "Kilograms": 28.0,
+        "Pounds": 62.0
+    },
+    "DexDescription": "It drives weaker Pokémon from their homes and eats their eggs. They are vicious and cunning. They wait for prey hidden in the darkness and enjoy slashing their foes until they get tired or the foe stops moving.",
+    "Evolutions": [
+        {
+            "To": "Weavile",
+            "Kind": "Level",
+            "Item": "Razor Claw",
+            "Special": "Moonlight"
+        }
+    ],
+    "Image": "sneasel.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Leer"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Scratch"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Taunt"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Quick Attack"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Feint Attack"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Icy Wind"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Fury Swipes"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Agility"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Metal Claw"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Hone Claws"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Beat Up"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Screech"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Slash"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Snatch"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Ice Shard"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Punishment"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Ice Punch"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Crush Claw"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Fake Out"
+        }
+    ]
+}

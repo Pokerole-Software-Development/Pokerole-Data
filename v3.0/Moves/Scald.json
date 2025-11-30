@@ -1,0 +1,24 @@
+{
+    "Name": "Scald",
+    "Type": "Water",
+    "Power": 3,
+    "Damage1": "Special",
+    "Damage2": "",
+    "Accuracy1": "Dexterity/Special",
+    "Accuracy2": "Channel",
+    "Target": "Foe",
+    "Effect": "Single Target. Roll 3 Chance Dice to inflict 1st Degree Burn on the Target. If a Target is Out of Range due to using the Move \"Dive\", this Move hits anyways.",
+    "Description": "The user shoots boiling water at the foe, immediately causing blisters.",
+    "_id": "scald",
+    "Attributes": {},
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Burn",
+                "Affects": "Targets",
+                "ChanceDice": 3
+            }
+        ]
+    },
+    "Category": "Special"
+}

@@ -1,0 +1,19 @@
+{
+    "Name": "Gear Grind",
+    "Type": "Steel",
+    "Power": 2,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "Single Target. Low Accuracy 1. Double Action.",
+    "Description": "The foe gets trapped into two gears, the only way out is to let the gears grind against its crushed body.",
+    "_id": "gear-grind",
+    "Attributes": {
+        "DoubleAction": true,
+        "AccuracyReduction": -1
+    },
+    "AddedEffects": {},
+    "Category": "Physical"
+}

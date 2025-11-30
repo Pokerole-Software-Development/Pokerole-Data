@@ -1,0 +1,119 @@
+{
+    "Number": 134,
+    "DexID": "0134",
+    "Name": "Vaporeon",
+    "Type1": "Water",
+    "Type2": "",
+    "BaseHP": 7,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 3,
+    "MaxSpecial": 6,
+    "Insight": 3,
+    "MaxInsight": 6,
+    "Ability1": "Water Absorb",
+    "Ability2": "Hydration",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Advanced",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "vaporeon",
+    "DexCategory": "Bubble Jet Pokémon",
+    "Height": {
+        "Meters": 1.0,
+        "Feet": 3.3
+    },
+    "Weight": {
+        "Kilograms": 29.0,
+        "Pounds": 63.0
+    },
+    "DexDescription": "Eevee underwent a strange mutation. It grew fins and gills that allow it to live underwater. This Pokémon has the ability to become translucent when it dives underwater.",
+    "Evolutions": [
+        {
+            "From": "Eevee",
+            "Kind": "Stone",
+            "Item": "Water Stone"
+        }
+    ],
+    "Image": "vaporeon.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Helping Hand"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Tail Whip"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Sand Attack"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Water Gun"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Quick Attack"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Water Pulse"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Aurora Beam"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Aqua Ring"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Acid Armor"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Haze"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Flip Turn"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Muddy Water"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Last Resort"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Hydro Pump"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Wish"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Yawn"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Icy Wind"
+        }
+    ]
+}

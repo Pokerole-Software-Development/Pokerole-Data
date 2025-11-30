@@ -1,0 +1,129 @@
+{
+    "Number": 973,
+    "DexID": "0973",
+    "Name": "Flamigo",
+    "Type1": "Flying",
+    "Type2": "Fighting",
+    "BaseHP": 5,
+    "Strength": 3,
+    "MaxStrength": 6,
+    "Dexterity": 2,
+    "MaxDexterity": 5,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 2,
+    "MaxSpecial": 5,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Scrappy",
+    "Ability2": "Costar",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Advanced",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "flamigo",
+    "DexCategory": "Synchronize Pokémon",
+    "Height": {
+        "Meters": 1.6,
+        "Feet": 5.3
+    },
+    "Weight": {
+        "Kilograms": 37.0,
+        "Pounds": 81.0
+    },
+    "DexDescription": "They inhabit the shallow waters of lakes and rivers, and have the ability to fight completely synchronized when they are in a flock. If they are alone they knot their neck and stay motionless for an unknown reason.",
+    "Evolutions": [],
+    "Image": "flamigo.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Peck"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Copycat"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Double Kick"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Detect"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Wing Attack"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Focus Energy"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Low Kick"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Feint"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "U-Turn"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Low Sweep"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Double Team"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Tailwind"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Payback"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Roost"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Air Slash"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Mega Kick"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Wide Guard"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Throat Chop"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Brave Bird"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Close Combat"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Swords Dance"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Liquidation"
+        }
+    ]
+}

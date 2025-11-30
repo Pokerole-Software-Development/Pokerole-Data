@@ -1,0 +1,135 @@
+{
+    "Number": 87,
+    "DexID": "0087",
+    "Name": "Dewgong",
+    "Type1": "Water",
+    "Type2": "Ice",
+    "BaseHP": 5,
+    "Strength": 2,
+    "MaxStrength": 5,
+    "Dexterity": 2,
+    "MaxDexterity": 5,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 2,
+    "MaxSpecial": 5,
+    "Insight": 3,
+    "MaxInsight": 6,
+    "Ability1": "Thick Fat",
+    "Ability2": "Ice Body",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Standard",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "dewgong",
+    "DexCategory": "Sea Lion Pokémon",
+    "Height": {
+        "Meters": 1.7,
+        "Feet": 5.6
+    },
+    "Weight": {
+        "Kilograms": 120.0,
+        "Pounds": 264.0
+    },
+    "DexDescription": "Its body is covered with a pure white fur. The colder the weather, the more active it becomes. It hunts at night and it's excellent at catching fish Pokémon. It is also very intelligent and playful.",
+    "Evolutions": [
+        {
+            "From": "Seel",
+            "Kind": "Level",
+            "Speed": "Slow"
+        }
+    ],
+    "Image": "dewgong.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Headbutt"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Growl"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Encore"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Water Gun"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Take Down"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Icy Wind"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Rest"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Ice Shard"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Aurora Beam"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Aqua Ring"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Brine"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Aqua Jet"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Dive"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Hail"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Ice Beam"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Aqua Tail"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Icicle Spear"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Safeguard"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Sheer Cold"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Avalanche"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Perish Song"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Horn Drill"
+        }
+    ]
+}

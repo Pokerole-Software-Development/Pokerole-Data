@@ -1,0 +1,23 @@
+{
+    "Name": "Taunt",
+    "Type": "Dark",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Tough/Cute",
+    "Accuracy2": "Intimidate",
+    "Target": "Foe",
+    "Effect": "Single Target. The Target cannot perform Support Moves (Support Maneuvers may still be performed). Duration 4 Rounds.",
+    "Description": "Through tease and mockery, the foe is enraged to the point it stops thinking clearly.",
+    "_id": "taunt",
+    "Attributes": {},
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Taunt",
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Support"
+}

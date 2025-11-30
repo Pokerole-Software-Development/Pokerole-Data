@@ -1,0 +1,22 @@
+{
+    "Name": "Absorb",
+    "Type": "Grass",
+    "Power": 1,
+    "Damage1": "Special",
+    "Damage2": "",
+    "Accuracy1": "Vitality",
+    "Accuracy2": "Channel/Nature",
+    "Target": "Foe",
+    "Effect": "Single Target. The User restores HP equal to half the damage dealt, rounded down.",
+    "Description": "The user takes nutrients from the nearest source of life they find.",
+    "_id": "absorb",
+    "Attributes": {},
+    "AddedEffects": {
+        "Heal": {
+            "Type": "Leech",
+            "Percentage": 0.5,
+            "Target": "User"
+        }
+    },
+    "Category": "Special"
+}

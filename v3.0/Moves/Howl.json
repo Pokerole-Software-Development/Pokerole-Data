@@ -1,0 +1,26 @@
+{
+    "Name": "Howl",
+    "Type": "Normal",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Cool",
+    "Accuracy2": "Intimidate",
+    "Target": "All Allies",
+    "Effect": "Target User and Allies in Range. Sound Move. Increase by 1 the Strength of those affected.",
+    "Description": "If you hear the howl, the pack has already surrounded you.",
+    "_id": "howl",
+    "Attributes": {},
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "Strength"
+                ],
+                "Stages": 1,
+                "Affects": "User"
+            }
+        ]
+    },
+    "Category": "Support"
+}

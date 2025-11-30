@@ -1,0 +1,29 @@
+{
+    "Name": "Muddy Water",
+    "Type": "Water",
+    "Power": 3,
+    "Damage1": "Special",
+    "Damage2": "",
+    "Accuracy1": "Special",
+    "Accuracy2": "Channel",
+    "Target": "All Foes",
+    "Effect": "Target All Foes in Range. Low Accuracy 2. Roll 3 Chance Dice to Reduce 1 success to all the Accuracy Rolls of those affected.",
+    "Description": "When you can’t see what creatures lurk inside the water, that’s when you know they are the ones that went fishing.",
+    "_id": "muddy-water",
+    "Attributes": {
+        "AccuracyReduction": -2
+    },
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "Accuracy"
+                ],
+                "Stages": -1,
+                "ChanceDice": 3,
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Special"
+}

@@ -1,0 +1,16 @@
+{
+    "Name": "Hex",
+    "Type": "Ghost",
+    "Power": 2,
+    "Damage1": "Special",
+    "Damage2": "",
+    "Accuracy1": "Insight",
+    "Accuracy2": "Channel",
+    "Target": "Foe",
+    "Effect": "Single Target. *If the Target has an active Status Condition, add 2 Extra Dice to the Damage Pool of this Move.",
+    "Description": "The user casts a terrible hex over the target, the effects will be greater if the target is already burdened by an ailment.",
+    "_id": "hex",
+    "Attributes": {},
+    "AddedEffects": {},
+    "Category": "Special"
+}

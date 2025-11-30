@@ -1,0 +1,28 @@
+{
+    "Name": "Cotton Spore",
+    "Type": "Grass",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Clever",
+    "Accuracy2": "Nature",
+    "Target": "Foe",
+    "Effect": "Single Target. Powder Move. Reduce the Target's Dexterity by 2.",
+    "Description": "The foe is covered head to toe in cotton fluff, disrupting its movement.",
+    "_id": "cotton-spore",
+    "Attributes": {
+        "PowderMove": true
+    },
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "Dexterity"
+                ],
+                "Stages": -2,
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Support"
+}

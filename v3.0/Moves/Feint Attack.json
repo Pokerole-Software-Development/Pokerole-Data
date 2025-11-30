@@ -1,0 +1,18 @@
+{
+    "Name": "Feint Attack",
+    "Type": "Dark",
+    "Power": 2,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Stealth",
+    "Target": "Foe",
+    "Effect": "Single Target. Never Miss.",
+    "Description": "The user approaches inconspicuously, pretending to attack the foe directly, then actually hits the foe from behind.",
+    "_id": "feint-attack",
+    "Attributes": {
+        "NeverMiss": true
+    },
+    "AddedEffects": {},
+    "Category": "Physical"
+}

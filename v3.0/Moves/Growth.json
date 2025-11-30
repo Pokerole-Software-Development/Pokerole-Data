@@ -1,0 +1,27 @@
+{
+    "Name": "Growth",
+    "Type": "Normal",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Special",
+    "Accuracy2": "Nature",
+    "Target": "Self",
+    "Effect": "Target Self. Increase by 1 the User's Strength and Special. If the Sunny Weather is active, increase by 2 Instead.",
+    "Description": "The Pokémon makes their body grow in size. They’ll get bigger and stronger in just a few seconds.",
+    "_id": "growth",
+    "Attributes": {},
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "Strength",
+                    "Special"
+                ],
+                "Stages": 1,
+                "Affects": "User"
+            }
+        ]
+    },
+    "Category": "Support"
+}

@@ -1,0 +1,18 @@
+{
+    "Name": "Storm Throw",
+    "Type": "Fighting",
+    "Power": 2,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Vitality",
+    "Accuracy2": "Athletic",
+    "Target": "Foe",
+    "Effect": "Single Target. This Move is always considered to be a Critical Hit and gets the proper Bonus for it.",
+    "Description": "The user throws its foe with a special technique, the foe lands right on their weak spot.",
+    "_id": "storm-throw",
+    "Attributes": {
+        "AlwaysCrit": true
+    },
+    "AddedEffects": {},
+    "Category": "Physical"
+}

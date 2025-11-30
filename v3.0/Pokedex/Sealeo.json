@@ -1,0 +1,132 @@
+{
+    "Number": 364,
+    "DexID": "0364",
+    "Name": "Sealeo",
+    "Type1": "Ice",
+    "Type2": "Water",
+    "BaseHP": 5,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 2,
+    "MaxSpecial": 5,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Ice Body",
+    "Ability2": "Thick Fat",
+    "HiddenAbility": "Oblivious",
+    "EventAbilities": "",
+    "RecommendedRank": "Standard",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "sealeo",
+    "DexCategory": "Ball Roll Pokémon",
+    "Height": {
+        "Meters": 1.1,
+        "Feet": 3.6
+    },
+    "Weight": {
+        "Kilograms": 87.0,
+        "Pounds": 193.0
+    },
+    "DexDescription": "They play with the Spheal in the herd by spinning them with their noses. When they are not in the wild they'll spin almost any round object, even Pokéballs. Sealeo are great hunters underwater.",
+    "Evolutions": [
+        {
+            "From": "Spheal",
+            "Kind": "Level",
+            "Speed": "Medium"
+        },
+        {
+            "To": "Walrein",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "sealeo.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Rollout"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Growl"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Defense Curl"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Water Gun"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Powder Snow"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Ice Ball"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Encore"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Aurora Beam"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Body Slam"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Surf"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Brine"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Hail"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Swagger"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Rest"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Snore"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Blizzard"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Sheer Cold"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Super Fang"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Aqua Ring"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Earthquake"
+        }
+    ]
+}

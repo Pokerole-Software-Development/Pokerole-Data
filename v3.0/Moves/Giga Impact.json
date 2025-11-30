@@ -1,0 +1,20 @@
+{
+    "Name": "Giga Impact",
+    "Type": "Normal",
+    "Power": 6,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Strength",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "Single Target. Low Accuracy 1. Must Recharge. Lethal.",
+    "Description": "The Pokémon strikes with such a brutal force they leave a crater just from the impact. Let them catch their breath afterwards.",
+    "_id": "giga-impact",
+    "Attributes": {
+        "Lethal": true,
+        "MustRecharge": true,
+        "AccuracyReduction": -1
+    },
+    "AddedEffects": {},
+    "Category": "Physical"
+}

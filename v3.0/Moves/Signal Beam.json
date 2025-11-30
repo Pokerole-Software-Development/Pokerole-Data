@@ -1,0 +1,24 @@
+{
+    "Name": "Signal Beam",
+    "Type": "Bug",
+    "Power": 3,
+    "Damage1": "Special",
+    "Damage2": "",
+    "Accuracy1": "Special",
+    "Accuracy2": "Channel",
+    "Target": "Foe",
+    "Effect": "Single Target. Roll 1 Chance Die to Confuse the foe.",
+    "Description": "The Pokémon shoots a buzzing beam that leaves makes the foe head towards bright lights like a dazzled moth.",
+    "_id": "signal-beam",
+    "Attributes": {},
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Confuse",
+                "Affects": "Targets",
+                "ChanceDice": 1
+            }
+        ]
+    },
+    "Category": "Special"
+}

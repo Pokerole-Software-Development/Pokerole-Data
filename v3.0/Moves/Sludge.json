@@ -1,0 +1,24 @@
+{
+    "Name": "Sludge",
+    "Type": "Poison",
+    "Power": 2,
+    "Damage1": "Special",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Channel",
+    "Target": "Foe",
+    "Effect": "Single Target. Roll 3 Chance Dice to Poison the Target.",
+    "Description": "What is it with these Poison Types and covering their victims with all kinds of organic waste?!",
+    "_id": "sludge",
+    "Attributes": {},
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Poison",
+                "Affects": "Targets",
+                "ChanceDice": 3
+            }
+        ]
+    },
+    "Category": "Special"
+}

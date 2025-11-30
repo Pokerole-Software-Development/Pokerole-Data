@@ -1,0 +1,29 @@
+{
+    "Name": "Flower Trick",
+    "Type": "Grass",
+    "Power": 2,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Stealth",
+    "Target": "Foe",
+    "Effect": "Single Target. Never Miss. This Move is always considered to be a Critical Hit and gets the proper Bonus for it.",
+    "Description": "The user throws a bouquet of flowers at the target, who holds them close believing them to be a gift, only to realize the bouquet were flower bombs.",
+    "_id": "flower-trick",
+    "Attributes": {
+        "AlwaysCrit": true,
+        "NeverMiss": true
+    },
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "Dexterity"
+                ],
+                "Stages": -1,
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Physical"
+}

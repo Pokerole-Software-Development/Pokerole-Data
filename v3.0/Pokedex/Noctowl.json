@@ -1,0 +1,135 @@
+{
+    "Number": 164,
+    "DexID": "0164",
+    "Name": "Noctowl",
+    "Type1": "Normal",
+    "Type2": "Flying",
+    "BaseHP": 6,
+    "Strength": 2,
+    "MaxStrength": 5,
+    "Dexterity": 2,
+    "MaxDexterity": 5,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 2,
+    "MaxSpecial": 5,
+    "Insight": 3,
+    "MaxInsight": 6,
+    "Ability1": "Insomnia",
+    "Ability2": "Tinted Lens",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Advanced",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "noctowl",
+    "DexCategory": "Owl Pokémon",
+    "Height": {
+        "Meters": 1.6,
+        "Feet": 5.2
+    },
+    "Weight": {
+        "Kilograms": 60,
+        "Pounds": 133
+    },
+    "DexDescription": "It can hunt in full darkness without fail. All Noctowl owe their success to their superior vision that allows them to see in minimal light, and to their agile and silent wings. They are very intelligent and critical Pokémon.",
+    "Evolutions": [
+        {
+            "From": "Hoothoot",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "noctowl.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Growl"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Peck"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Foresight"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Confusion"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Reflect"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Echoed Voice"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Uproar"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Air Slash"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Take Down"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Extrasensory"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Zen Headbutt"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Hypnosis"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Psycho Shift"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Roost"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Synchronoise"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Moonblast"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Dream Eater"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Sky Attack"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Agility"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Hurricane"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Night Shade"
+        }
+    ]
+}

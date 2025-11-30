@@ -1,0 +1,19 @@
+{
+    "Name": "Aura Sphere",
+    "Type": "Fighting",
+    "Power": 3,
+    "Damage1": "Special",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Channel",
+    "Target": "Foe",
+    "Effect": "Single Target. Never Miss. Projectile Move.",
+    "Description": "By channeling their own aura, the user launches an energy sphere that causes harm on an spiritual level more than a physical one.",
+    "_id": "aura-sphere",
+    "Attributes": {
+        "ProjectileMove": true,
+        "NeverMiss": true
+    },
+    "AddedEffects": {},
+    "Category": "Special"
+}

@@ -1,0 +1,127 @@
+{
+    "Number": 568,
+    "DexID": "0568",
+    "Name": "Trubbish",
+    "Type1": "Poison",
+    "Type2": "",
+    "BaseHP": 3,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 1,
+    "MaxSpecial": 3,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Stench",
+    "Ability2": "Sticky Hold",
+    "HiddenAbility": "Aftermath",
+    "EventAbilities": "",
+    "RecommendedRank": "Rookie",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "trubbish",
+    "DexCategory": "Trash Bag Pokémon",
+    "Height": {
+        "Meters": 0.6,
+        "Feet": 2.0
+    },
+    "Weight": {
+        "Kilograms": 31.0,
+        "Pounds": 68.0
+    },
+    "DexDescription": "The combination of garbage bags and industrial waste caused the chemical reaction that created this Pokémon. It belches a poison gas; breathing it will leave you sick in bed for a week. It loves filthy places.",
+    "Evolutions": [
+        {
+            "To": "Garbodor",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "trubbish.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Pound"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Poison Gas"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Recycle"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Acid Spray"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Amnesia"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Clear Smog"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Toxic Spikes"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Sludge"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Stockpile"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Swallow"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Take Down"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Sludge Bomb"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Toxic"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Belch"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Pain Split"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Gunk Shot"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Explosion"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Drain Punch"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Spikes"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Rollout"
+        }
+    ]
+}

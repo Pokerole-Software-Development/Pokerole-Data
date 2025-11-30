@@ -1,0 +1,18 @@
+{
+    "Name": "Clear Smog",
+    "Type": "Poison",
+    "Power": 2,
+    "Damage1": "Special",
+    "Damage2": "",
+    "Accuracy1": "Insight",
+    "Accuracy2": "Channel",
+    "Target": "Foe",
+    "Effect": "Single Target. Never Miss. Reset all Increased or Reduced Attributes on the Foe.",
+    "Description": "The user shoots a blast of venomous pins that inject venom into the foe, this venom is specially potent against those already compromised.",
+    "_id": "clear-smog",
+    "Attributes": {
+        "NeverMiss": true
+    },
+    "AddedEffects": {},
+    "Category": "Special"
+}

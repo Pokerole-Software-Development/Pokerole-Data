@@ -1,0 +1,26 @@
+{
+    "Name": "Lucky Chant",
+    "Type": "Normal",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Special",
+    "Accuracy2": "Perform",
+    "Target": "All Allies",
+    "Effect": "Target User and Allies in Range. Unique. Targets can Re-roll one un-successful die from all their rolls. Critical Hits do not grant Bonus dice against the Targets. Whole Scene Duration. Out of battle, good things happen at Storyteller's Discretion.",
+    "Description": "The magical incantation of an old priestess, through dance and song, good fortune and divine protection will come to you. This Move also removes evil spirits and curses.",
+    "_id": "lucky-chant",
+    "Attributes": {
+        "Unique": true,
+        "Duration": "wholeScene"
+    },
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "LuckyChant",
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Support"
+}

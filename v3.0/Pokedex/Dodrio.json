@@ -1,0 +1,135 @@
+{
+    "Number": 85,
+    "DexID": "0085",
+    "Name": "Dodrio",
+    "Type1": "Normal",
+    "Type2": "Flying",
+    "BaseHP": 4,
+    "Strength": 3,
+    "MaxStrength": 6,
+    "Dexterity": 3,
+    "MaxDexterity": 6,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Run Away",
+    "Ability2": "Early Bird",
+    "HiddenAbility": "Tangled Feet",
+    "EventAbilities": "",
+    "RecommendedRank": "Advanced",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "dodrio",
+    "DexCategory": "Triple Bird Pokémon",
+    "Height": {
+        "Meters": 1.8,
+        "Feet": 6.0
+    },
+    "Weight": {
+        "Kilograms": 85.0,
+        "Pounds": 187.0
+    },
+    "DexDescription": "A third head comes to change the dynamic the two originals had. It is common to see the three heads fighting. Each one has its own personality, but when they work as a team they can be very powerful.",
+    "Evolutions": [
+        {
+            "From": "Doduo",
+            "Kind": "Level",
+            "Speed": "Slow"
+        }
+    ],
+    "Image": "dodrio.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Peck"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Growl"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Quick Attack"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Leer"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Rage"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Fury Attack"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Wing Attack"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Pursuit"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Pluck"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Uproar"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Acupressure"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Tri Attack"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Swords Dance"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Lunge"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Jump Kick"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Agility"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Endeavor"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Drill Peck"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Thrash"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Mirror Move"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Brave Bird"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Feint Attack"
+        }
+    ]
+}

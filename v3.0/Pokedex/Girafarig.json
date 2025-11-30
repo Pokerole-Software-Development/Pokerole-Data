@@ -1,0 +1,135 @@
+{
+    "Number": 203,
+    "DexID": "0203",
+    "Name": "Girafarig",
+    "Type1": "Normal",
+    "Type2": "Psychic",
+    "BaseHP": 5,
+    "Strength": 2,
+    "MaxStrength": 5,
+    "Dexterity": 2,
+    "MaxDexterity": 5,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 2,
+    "MaxSpecial": 5,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Inner Focus",
+    "Ability2": "Sap Sipper",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Standard",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "girafarig",
+    "DexCategory": "Long Neck Pokémon",
+    "Height": {
+        "Meters": 1.5,
+        "Feet": 5.0
+    },
+    "Weight": {
+        "Kilograms": 141.0,
+        "Pounds": 313.0
+    },
+    "DexDescription": "Its tail is a head on its own. It bites if anything comes close and never rests. Some say that the sum of its two heads grant it Psychic powers. Even if that's true, the tail isn't very bright, but it is quite vicious.",
+    "Evolutions": [
+        {
+            "To": "Farigiraf",
+            "Kind": "Special",
+            "Special": "Learning Twin Beam"
+        }
+    ],
+    "Image": "girafarig.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Astonish"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Power Swap"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Guard Swap"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Growl"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Confusion"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Odor Sleuth"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Stomp"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Agility"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Psybeam"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Baton Pass"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Assurance"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Double Hit"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Psychic"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Zen Headbutt"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Crunch"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Nasty Plot"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Twin Beam"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Hyper Voice"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Sucker Punch"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Substitute"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Night Shade"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "Name": "Leer",
+    "Type": "Normal",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Tough",
+    "Accuracy2": "Intimidate",
+    "Target": "All Foes",
+    "Effect": "Target All Foes in Range. Reduce by 1 the Defense of those affected.",
+    "Description": "The vicious glare of a predator that triggers the flight response of their prey.",
+    "_id": "leer",
+    "Attributes": {},
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "Def"
+                ],
+                "Stages": -1,
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Support"
+}

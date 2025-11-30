@@ -1,0 +1,123 @@
+{
+    "Number": 345,
+    "DexID": "0345",
+    "Name": "Lileep",
+    "Type1": "Rock",
+    "Type2": "Grass",
+    "BaseHP": 3,
+    "Strength": 1,
+    "MaxStrength": 3,
+    "Dexterity": 1,
+    "MaxDexterity": 3,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Suction Cups",
+    "Ability2": "Storm Drain",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Rookie",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "lileep",
+    "DexCategory": "Sea Lily Pokémon",
+    "Height": {
+        "Meters": 1.0,
+        "Feet": 3.3
+    },
+    "Weight": {
+        "Kilograms": 23.0,
+        "Pounds": 52.0
+    },
+    "DexDescription": "Over 100 million years ago, Lileep used to attach themselves to rocks at the bottom of the sea. A disaster led them all to extinction. But their fossils remain, enabling them to be revived by scientists.",
+    "Evolutions": [
+        {
+            "To": "Cradily",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "lileep.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Astonish"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Constrict"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Acid"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Confuse Ray"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Ingrain"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Mega Drain"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Brine"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Amnesia"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Gastro Acid"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Energy Ball"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Stockpile"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Spit Up"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Swallow"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Ancient Power"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Giga Drain"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Wring Out"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Stealth Rock"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Earth Power"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Tickle"
+        }
+    ]
+}

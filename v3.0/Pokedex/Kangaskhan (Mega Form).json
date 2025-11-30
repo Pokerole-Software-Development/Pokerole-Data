@@ -1,0 +1,135 @@
+{
+    "Number": 115,
+    "DexID": "0115M1",
+    "Name": "Kangaskhan (Mega Form)",
+    "Type1": "Normal",
+    "Type2": "",
+    "BaseHP": 7,
+    "Strength": 3,
+    "MaxStrength": 7,
+    "Dexterity": 3,
+    "MaxDexterity": 6,
+    "Vitality": 3,
+    "MaxVitality": 6,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 3,
+    "MaxInsight": 6,
+    "Ability1": "Parental Bond",
+    "Ability2": "",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Ace",
+    "GenderType": "F",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "kangaskhan-mega-form",
+    "DexCategory": "Parent Pokemon",
+    "Height": {
+        "Meters": 2.2,
+        "Feet": 7.2
+    },
+    "Weight": {
+        "Kilograms": 160.0,
+        "Pounds": 352.0
+    },
+    "DexDescription": "The mother gives all the power of the Mega Stone to her child. The child grows violent and they team up as formidable fighters. However, the mother worries about her child's future, as she raised it better than that.",
+    "Evolutions": [
+        {
+            "From": "Kangaskhan",
+            "Kind": "Mega",
+            "Item": "Kangaskhanite"
+        }
+    ],
+    "Image": "kangaskhan-mega-form.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Comet Punch"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Pound"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Tail Whip"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Leer"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Fake Out"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Bite"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Stomp"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Double Hit"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Headbutt"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Rage"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Mega Punch"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Dizzy Punch"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Chip Away"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Endure"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Crunch"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Sucker Punch"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Reversal"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Outrage"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Last Resort"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Aqua Tail"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Endeavor"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Counter"
+        }
+    ]
+}

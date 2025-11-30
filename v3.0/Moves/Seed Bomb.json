@@ -1,0 +1,20 @@
+{
+    "Name": "Seed Bomb",
+    "Type": "Grass",
+    "Power": 3,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Channel/Nature",
+    "Target": "Foe",
+    "Effect": "Single Target. Ranged. Projectile Move.",
+    "Description": "A giant seed is hurled against the target, the hit is not what knocks them down, the tree that explodes suddenly out of the seed is what does.",
+    "_id": "seed-bomb",
+    "Attributes": {
+        "PhysicalRanged": true,
+        "ProjectileMove": true,
+        "Ranged": true
+    },
+    "AddedEffects": {},
+    "Category": "Physical"
+}

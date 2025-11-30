@@ -1,0 +1,26 @@
+{
+    "Name": "Withdraw",
+    "Type": "Water",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Vitality",
+    "Accuracy2": "Stealth",
+    "Target": "Self",
+    "Effect": "Target Self. Increase User's Defense by 1.",
+    "Description": "The Pokémon withraw into their shell for increased protection and to avoid unwanted interactions.",
+    "_id": "withdraw",
+    "Attributes": {},
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "Def"
+                ],
+                "Stages": 1,
+                "Affects": "User"
+            }
+        ]
+    },
+    "Category": "Support"
+}

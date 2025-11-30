@@ -1,0 +1,22 @@
+{
+    "Name": "Horn Leech",
+    "Type": "Grass",
+    "Power": 3,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Vitality",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "Single Target. The User restores HP equal to half the damage dealt, rounded down.",
+    "Description": "The user rams into the foe and uses the leaves growing on their horns to absorb nutrients from it.",
+    "_id": "horn-leech",
+    "Attributes": {},
+    "AddedEffects": {
+        "Heal": {
+            "Type": "Leech",
+            "Percentage": 0.5,
+            "Target": "User"
+        }
+    },
+    "Category": "Physical"
+}

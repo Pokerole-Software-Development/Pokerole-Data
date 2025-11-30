@@ -1,0 +1,26 @@
+{
+    "Name": "Bone Club",
+    "Type": "Ground",
+    "Power": 2,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Strength",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "Single Target. Low Accuracy 1. Roll 2 Chance Dice to Flinch the Target.",
+    "Description": "The Pokémon uses a bone as a club to to smack their foe, a loud “Bonk!” sound can be heard.",
+    "_id": "bone-club",
+    "Attributes": {
+        "AccuracyReduction": -1
+    },
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Flinch",
+                "Affects": "Targets",
+                "ChanceDice": 2
+            }
+        ]
+    },
+    "Category": "Physical"
+}

@@ -1,0 +1,26 @@
+{
+    "Name": "Magic Powder",
+    "Type": "Psychic",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Clever/Cute",
+    "Accuracy2": "Channel",
+    "Target": "Foe",
+    "Effect": "Single Target. Powder Move. Change the target's Type to Psychic.",
+    "Description": "The Pokémon recites an enchantment and blows a cloud of pink dust on its Target. Afterwards, the target becomes incredibly good at guessing which card you got from a deck.",
+    "_id": "magic-powder",
+    "Attributes": {
+        "PowderMove": true
+    },
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "ChangedType",
+                "Affects": "Targets",
+                "TargetType": "Psychic"
+            }
+        ]
+    },
+    "Category": "Support"
+}

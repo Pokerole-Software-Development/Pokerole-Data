@@ -1,0 +1,33 @@
+{
+    "Name": "Memento",
+    "Type": "Dark",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Will",
+    "Accuracy2": "Intimidate",
+    "Target": "Foe",
+    "Effect": "Single Target. The User faints. Reduce by 2 the foe's Strength, Dexterity, Special, Defense, and Sp. Defense. Whole Scene Duration. This effect does not end by switching out the affected Pokemon.",
+    "Description": "As they take their last breath, the Pokémon leaves behind an imprint of regret on their foe.",
+    "_id": "memento",
+    "Attributes": {
+        "Duration": "wholeScene",
+        "UserFaints": true
+    },
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "Strength",
+                    "Dexterity",
+                    "Special",
+                    "Def",
+                    "SpDef"
+                ],
+                "Stages": -2,
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Support"
+}

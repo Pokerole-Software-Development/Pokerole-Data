@@ -1,0 +1,147 @@
+{
+    "Number": 623,
+    "DexID": "0623",
+    "Name": "Golurk",
+    "Type1": "Ground",
+    "Type2": "Ghost",
+    "BaseHP": 5,
+    "Strength": 3,
+    "MaxStrength": 7,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Iron Fist",
+    "Ability2": "No Guard",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Expert",
+    "GenderType": "N",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "golurk",
+    "DexCategory": "Automaton Pokémon",
+    "Height": {
+        "Meters": 2.8,
+        "Feet": 9.2
+    },
+    "Weight": {
+        "Kilograms": 660.0,
+        "Pounds": 1452.0
+    },
+    "DexDescription": "It is said that Golurk were ordered to protect people and Pokémon by the ancient people who created them. There are records of only one still alive found in the ruins; the rest are just statues now.",
+    "Evolutions": [
+        {
+            "From": "Golett",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "golurk.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Mud Slap"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Astonish"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Pound"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Defense Curl"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Rollout"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Shadow Punch"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Curse"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Night Shade"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Stomping Tantrum"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Magnitude"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Iron Defense"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Mega Punch"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "High Horsepower"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Zen Headbutt"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Shadow Ball"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Heavy Slam"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Phantom Force"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Hammer Arm"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Focus Punch"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Dynamic Punch"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Earthquake"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Giga Impact"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Drain Punch"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Block"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Rock Polish"
+        }
+    ]
+}

@@ -1,0 +1,140 @@
+{
+    "Number": 123,
+    "DexID": "0123",
+    "Name": "Scyther",
+    "Type1": "Bug",
+    "Type2": "Flying",
+    "BaseHP": 5,
+    "Strength": 3,
+    "MaxStrength": 6,
+    "Dexterity": 3,
+    "MaxDexterity": 6,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Swarm",
+    "Ability2": "Technician",
+    "HiddenAbility": "Steadfast",
+    "EventAbilities": "",
+    "RecommendedRank": "Advanced",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "scyther",
+    "DexCategory": "Mantis Pokémon",
+    "Height": {
+        "Meters": 1.5,
+        "Feet": 5.0
+    },
+    "Weight": {
+        "Kilograms": 56.0,
+        "Pounds": 123.0
+    },
+    "DexDescription": "It's pretty rare, but a few swarms have been seen in the grasslands. It tears and shreds prey with its wickedly sharp scythes and very rarely spreads its wings to fly. This Pokémon is stealthy and aggressive.",
+    "Evolutions": [
+        {
+            "To": "Scizor",
+            "Kind": "Trade",
+            "Item": "Metal Coat"
+        },
+        {
+            "To": "Kleavor",
+            "Kind": "Trade",
+            "Item": "Black Augurite"
+        }
+    ],
+    "Image": "scyther.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Quick Attack"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Leer"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Vacuum Wave"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Focus Energy"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "False Swipe"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Pursuit"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Feint"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Wing Attack"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Fury Cutter"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Slash"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Razor Wind"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Double Team"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Double Hit"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Night Slash"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Agility"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Air Slash"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Laser Focus"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "X-Scissor"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Swords Dance"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Steel Wing"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Dual Wingbeat"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Quick Guard"
+        }
+    ]
+}

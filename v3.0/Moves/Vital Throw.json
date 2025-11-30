@@ -1,0 +1,19 @@
+{
+    "Name": "Vital Throw",
+    "Type": "Fighting",
+    "Power": 2,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Vitality",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "Single Target. Late Reaction 1. Never Miss.",
+    "Description": "You don’t need to go to the enemy, let them come to you.",
+    "_id": "vital-throw",
+    "Attributes": {
+        "LateReaction": "1",
+        "NeverMiss": true
+    },
+    "AddedEffects": {},
+    "Category": "Physical"
+}

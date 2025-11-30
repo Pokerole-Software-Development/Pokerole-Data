@@ -1,0 +1,18 @@
+{
+    "Name": "Teleport",
+    "Type": "Psychic",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Special",
+    "Accuracy2": "Channel",
+    "Target": "Self",
+    "Effect": "Target Self. Switcher Move for the User. Out of battle, Teleportation distances and limitations are determined by the User's Special Score and Storyteller's discretion.",
+    "Description": "Now you see me. Now you don’t.",
+    "_id": "teleport",
+    "Attributes": {
+        "SwitcherMove": "User"
+    },
+    "AddedEffects": {},
+    "Category": "Support"
+}

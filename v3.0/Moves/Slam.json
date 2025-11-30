@@ -1,0 +1,18 @@
+{
+    "Name": "Slam",
+    "Type": "Normal",
+    "Power": 3,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Strength",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "Single Target. Low Accuracy 1.",
+    "Description": "Everybody get up, it’s time to slam now.",
+    "_id": "slam",
+    "Attributes": {
+        "AccuracyReduction": -1
+    },
+    "AddedEffects": {},
+    "Category": "Physical"
+}

@@ -1,0 +1,18 @@
+{
+    "Name": "Frustration",
+    "Type": "Normal",
+    "Power": 1,
+    "Damage1": "Strength",
+    "Damage2": "Missing happiness",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "Single Target. *Add 1 Extra Die to the Damage Pool of this Move for every missing point of Happiness on the user. Up to 5 Dice may be added this way.",
+    "Description": "A mistreated Pokémon grows vicious and uncaring, a Move fueled by anger.",
+    "_id": "frustration",
+    "Attributes": {
+        "HateBonus": true
+    },
+    "AddedEffects": {},
+    "Category": "Physical"
+}

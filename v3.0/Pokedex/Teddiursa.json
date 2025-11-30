@@ -1,0 +1,127 @@
+{
+    "Number": 216,
+    "DexID": "0216",
+    "Name": "Teddiursa",
+    "Type1": "Normal",
+    "Type2": "",
+    "BaseHP": 3,
+    "Strength": 2,
+    "MaxStrength": 5,
+    "Dexterity": 1,
+    "MaxDexterity": 3,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Pickup",
+    "Ability2": "Honey Gather",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Rookie",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "teddiursa",
+    "DexCategory": "Little Bear Pokémon",
+    "Height": {
+        "Meters": 0.6,
+        "Feet": 2.0
+    },
+    "Weight": {
+        "Kilograms": 18.0,
+        "Pounds": 39.0
+    },
+    "DexDescription": "If they find honey, their crescent moon mark glows. They hoard food for winter and concoct their own honey by mixing fruits and pollen collected by Beedrill. Beware, as their mothers are always close.",
+    "Evolutions": [
+        {
+            "To": "Ursaring",
+            "Kind": "Level",
+            "Speed": "Slow"
+        }
+    ],
+    "Image": "teddiursa.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Baby-Doll Eyes"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Scratch"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Lick"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Fake Tears"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Covet"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Fling"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Fury Swipes"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Feint Attack"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Payback"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Play Nice"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Sweet Scent"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Metal Claw"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Slash"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Charm"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Rest"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Snore"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Thrash"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Play Rough"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Strength"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Yawn"
+        }
+    ]
+}

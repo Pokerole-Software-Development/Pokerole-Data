@@ -1,0 +1,21 @@
+{
+    "Name": "Pin Missile",
+    "Type": "Bug",
+    "Power": 1,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Channel",
+    "Target": "Foe",
+    "Effect": "Single Target. Low Accuracy 1. Ranged. Successive Actions.",
+    "Description": "The Pokémon shoots a barrage of stingers or spikes that pierce like needles.",
+    "_id": "pin-missile",
+    "Attributes": {
+        "PhysicalRanged": true,
+        "SuccessiveActions": true,
+        "AccuracyReduction": -1,
+        "Ranged": true
+    },
+    "AddedEffects": {},
+    "Category": "Physical"
+}

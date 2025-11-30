@@ -1,0 +1,128 @@
+{
+    "Number": 180,
+    "DexID": "0180",
+    "Name": "Flaaffy",
+    "Type1": "Electric",
+    "Type2": "",
+    "BaseHP": 4,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 2,
+    "MaxSpecial": 5,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Static",
+    "Ability2": "Plus",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Standard",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "flaaffy",
+    "DexCategory": "Wool Pokémon",
+    "Height": {
+        "Meters": 0.8,
+        "Feet": 2.6
+    },
+    "Weight": {
+        "Kilograms": 26.0,
+        "Pounds": 58.0
+    },
+    "DexDescription": "Its wool quality changes so that it can generate a higher amount of static electricity with a smaller amount of wool. The bare and slick parts of its hide are shielded with small electric impulses.",
+    "Evolutions": [
+        {
+            "From": "Mareep",
+            "Kind": "Level",
+            "Speed": "Medium"
+        },
+        {
+            "To": "Ampharos",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "flaaffy.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Growl"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Thunder Wave"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Thunder Shock"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Cotton Spore"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Charge"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Take Down"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Electro Ball"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Confuse Ray"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Power Gem"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Signal Beam"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Cotton Guard"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Discharge"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Light Screen"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Charge Beam"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Thunder"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Electric Terrain"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Agility"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Heal Bell"
+        }
+    ]
+}

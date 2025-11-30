@@ -1,0 +1,25 @@
+{
+    "Name": "Disable",
+    "Type": "Normal",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Insight",
+    "Accuracy2": "Channel",
+    "Target": "Foe",
+    "Effect": "Single Target. Disable the last Move performed by the Target. Only one Move may be Disabled at a time.",
+    "Description": "The Pokémon finds the right nerve to pull that will render a foe useless to perform their best Move.",
+    "_id": "disable",
+    "Attributes": {
+        "Duration": 4
+    },
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Disable",
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Support"
+}

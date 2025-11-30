@@ -1,0 +1,24 @@
+{
+    "Name": "Discharge",
+    "Type": "Electric",
+    "Power": 3,
+    "Damage1": "Special",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Channel",
+    "Target": "Area",
+    "Effect": "Area Move. Roll 3 Chance Dice to Paralyze those affected.",
+    "Description": "The user lets out an enormous discharge over the arena. Lightning does not distinguish friend from foe.",
+    "_id": "discharge",
+    "Attributes": {},
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Paralyze",
+                "Affects": "Targets",
+                "ChanceDice": 3
+            }
+        ]
+    },
+    "Category": "Special"
+}

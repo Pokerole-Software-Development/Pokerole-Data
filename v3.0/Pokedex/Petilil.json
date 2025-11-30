@@ -1,0 +1,129 @@
+{
+    "Number": 548,
+    "DexID": "0548",
+    "Name": "Petilil",
+    "Type1": "Grass",
+    "Type2": "",
+    "BaseHP": 3,
+    "Strength": 1,
+    "MaxStrength": 3,
+    "Dexterity": 1,
+    "MaxDexterity": 3,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 2,
+    "MaxSpecial": 5,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Chlorophyll",
+    "Ability2": "Own Tempo",
+    "HiddenAbility": "Leaf Guard",
+    "EventAbilities": "",
+    "RecommendedRank": "Rookie",
+    "GenderType": "F",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "petilil",
+    "DexCategory": "Bulb Pokémon",
+    "Height": {
+        "Meters": 0.5,
+        "Feet": 1.7
+    },
+    "Weight": {
+        "Kilograms": 6.0,
+        "Pounds": 14.0
+    },
+    "DexDescription": "Since they prefer moist and nutritious soil, the areas where Petilil live are known to be good for growing plants. The leaves on its head can be used for medicinal purposes, but they are extra bitter.",
+    "Evolutions": [
+        {
+            "To": "Lilligant",
+            "Kind": "Stone",
+            "Item": "Sun Stone"
+        },
+        {
+            "To": "Lilligant (Hisuian Form)",
+            "Kind": "Stone",
+            "Item": "Sun Stone",
+            "Region": "Hisui"
+        }
+    ],
+    "Image": "petilil.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Absorb"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Growth"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Helping Hand"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Stun Spore"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Mega Drain"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Aromatherapy"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Magical Leaf"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Sleep Powder"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Energy Ball"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Leech Seed"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "After You"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Giga Drain"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Entrainment"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Sunny Day"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Synthesis"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Leaf Storm"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Charm"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Heal Bell"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Grass Whistle"
+        }
+    ]
+}

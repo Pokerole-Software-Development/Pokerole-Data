@@ -1,0 +1,29 @@
+{
+    "Name": "Energy Ball",
+    "Type": "Grass",
+    "Power": 3,
+    "Damage1": "Special",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Channel",
+    "Target": "Foe",
+    "Effect": "Single Target. Projectile Move. Roll 1 Chance Die to Reduce the Target's Sp. Defense by 1.",
+    "Description": "Gathering nature’s energy from nearby plants, trees and roots, the Pokémon forms a ball to shoot at the enemy. Sadly, the surrounding plants will be dry afterwards.",
+    "_id": "energy-ball",
+    "Attributes": {
+        "ProjectileMove": true
+    },
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "SpDef"
+                ],
+                "Stages": -1,
+                "ChanceDice": 1,
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Special"
+}

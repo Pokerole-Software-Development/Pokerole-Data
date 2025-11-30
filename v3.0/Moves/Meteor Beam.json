@@ -1,0 +1,29 @@
+{
+    "Name": "Meteor Beam",
+    "Type": "Rock",
+    "Power": 5,
+    "Damage1": "Special",
+    "Damage2": "",
+    "Accuracy1": "Special",
+    "Accuracy2": "Channel",
+    "Target": "Foe",
+    "Effect": "Single Target. Charge Move. Increase the User's Special by 1 the moment it begins charging.",
+    "Description": "The user overflows with galactic energy while summoning a small meteor to impact the foe. A theory suggests this move might have caused the extintion of prehistoric Pokémon.",
+    "_id": "meteor-beam",
+    "Attributes": {
+        "AccuracyReduction": -1,
+        "Charge": true
+    },
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "Spec"
+                ],
+                "Stages": 1,
+                "Affects": "User"
+            }
+        ]
+    },
+    "Category": "Special"
+}

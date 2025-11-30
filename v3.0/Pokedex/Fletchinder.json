@@ -1,0 +1,132 @@
+{
+    "Number": 662,
+    "DexID": "0662",
+    "Name": "Fletchinder",
+    "Type1": "Fire",
+    "Type2": "Flying",
+    "BaseHP": 4,
+    "Strength": 2,
+    "MaxStrength": 5,
+    "Dexterity": 2,
+    "MaxDexterity": 5,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Flame Body",
+    "Ability2": "Gale Wings",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Standard",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "fletchinder",
+    "DexCategory": "Ember Pokémon",
+    "Height": {
+        "Meters": 0.7,
+        "Feet": 2.3
+    },
+    "Weight": {
+        "Kilograms": 16.0,
+        "Pounds": 35.0
+    },
+    "DexDescription": "From its beak, it expels embers to set tall grass on fire, then it pounces on the bewildered prey that pop out of the grass. Its body becomes engulfed in flames when it starts to battle. It is a fierce Pokémon.",
+    "Evolutions": [
+        {
+            "From": "Fletchling",
+            "Kind": "Level",
+            "Speed": "Medium"
+        },
+        {
+            "To": "Talonflame",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "fletchinder.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Growl"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Peck"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Quick Attack"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Ember"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Flail"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Acrobatics"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Razor Wind"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Natural Gift"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Flame Charge"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Agility"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Aerial Ace"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Me First"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Tailwind"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Steel Wing"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Roost"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Fly"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Snatch"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Quick Guard"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Heat Wave"
+        }
+    ]
+}

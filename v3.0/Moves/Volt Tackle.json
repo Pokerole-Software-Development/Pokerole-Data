@@ -1,0 +1,26 @@
+{
+    "Name": "Volt Tackle",
+    "Type": "Electric",
+    "Power": 5,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Athletic",
+    "Target": "Foe",
+    "Effect": "Single Target. Recoil. Roll 3 Chance die to Paralyze the Target.",
+    "Description": "The Pokémon charges their most powerful electric attack but instead of releasing it, they run at top speed to crash agains their foe with it.",
+    "_id": "volt-tackle",
+    "Attributes": {
+        "Recoil": true
+    },
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Paralyze",
+                "Affects": "Targets",
+                "ChanceDice": 3
+            }
+        ]
+    },
+    "Category": "Physical"
+}

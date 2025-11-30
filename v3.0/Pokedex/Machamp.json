@@ -1,0 +1,138 @@
+{
+    "Number": 68,
+    "DexID": "0068",
+    "Name": "Machamp",
+    "Type1": "Fighting",
+    "Type2": "",
+    "BaseHP": 5,
+    "Strength": 3,
+    "MaxStrength": 7,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Guts",
+    "Ability2": "Steadfast",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Expert",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "machamp",
+    "DexCategory": "Superpower Pokémon",
+    "Height": {
+        "Meters": 1.6,
+        "Feet": 5.3
+    },
+    "Weight": {
+        "Kilograms": 130.0,
+        "Pounds": 286.0
+    },
+    "DexDescription": "There are a few roaming in the mountains. Machamp has the power to hurl anything aside. However, trying to do any work that requires care and dexterity may cause its arms to get tangled.",
+    "Evolutions": [
+        {
+            "From": "Machoke",
+            "Kind": "Trade"
+        }
+    ],
+    "Image": "machamp.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Low Kick"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Leer"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Focus Energy"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Karate Chop"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Foresight"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Low Sweep"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Knock Off"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Seismic Toss"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Revenge"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Vital Throw"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Wide Guard"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Submission"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Strength"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Bulk Up"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Dual Chop"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Scary Face"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Wake-Up Slap"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Double-Edge"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Cross Chop"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Power Trick"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Dynamic Punch"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Poison Jab"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Coaching"
+        }
+    ]
+}

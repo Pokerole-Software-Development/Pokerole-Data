@@ -1,0 +1,19 @@
+{
+    "Name": "Belch",
+    "Type": "Poison",
+    "Power": 4,
+    "Damage1": "Special",
+    "Damage2": "",
+    "Accuracy1": "MissingBeautyPoints",
+    "Accuracy2": "",
+    "Target": "Foe",
+    "Effect": "Single Target. Low Accuracy 1. Sound Move. The user must eat a berry or something similar during the Round before using this Move, otherwise it will fail. This effect only works once per berry/food eaten.",
+    "Description": "The user shoots a blast of venomous pins that inject venom into the foe, this venom is specially potent against those already compromised.",
+    "_id": "belch",
+    "Attributes": {
+        "AccuracyReduction": -1,
+        "SoundMove": true
+    },
+    "AddedEffects": {},
+    "Category": "Special"
+}

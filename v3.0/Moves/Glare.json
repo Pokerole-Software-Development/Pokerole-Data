@@ -1,0 +1,25 @@
+{
+    "Name": "Glare",
+    "Type": "Normal",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Tough",
+    "Accuracy2": "Intimidate",
+    "Target": "Foe",
+    "Effect": "Single Target. Low Accuracy 1. Paralyze the Target.",
+    "Description": "With just one look, the target knows it is about to be someone else’s lunch, fear has them immobilized.",
+    "_id": "glare",
+    "Attributes": {
+        "AccuracyReduction": -1
+    },
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Paralyze",
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Support"
+}

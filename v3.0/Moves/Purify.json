@@ -1,0 +1,20 @@
+{
+    "Name": "Purify",
+    "Type": "Poison",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Special",
+    "Accuracy2": "Nature",
+    "Target": "Foe",
+    "Effect": "Single Target. Heal a Target's Status Ailment (Burns, Freeze, Paralysis, Poisons, Sleep). *If a Status Ailment was healed this way, the User may spend 1 Will point to restore 2 HP.",
+    "Description": "The target is covered by a gelatinous goo to which every impurity sticks. The user then convinces the target eats this goo, and ends up pleasantly surprised by the sweet flavor.",
+    "_id": "purify",
+    "Attributes": {},
+    "AddedEffects": {
+        "AilmentHeal": [
+            "All"
+        ]
+    },
+    "Category": "Support"
+}

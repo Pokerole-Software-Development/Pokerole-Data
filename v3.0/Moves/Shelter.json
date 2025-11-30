@@ -1,0 +1,33 @@
+{
+    "Name": "Shelter",
+    "Type": "Steel",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Vitality",
+    "Accuracy2": "Nature/Stealth",
+    "Target": "Self",
+    "Effect": "Target Self. Increase by 1 the User's Defense and Sp. Defense. Reduce 1 success to all the Accuracy Rolls of the Foes when targeting the User.",
+    "Description": "The user uses a sturdy part of their body as a shelter to hide. It’s difficult for the foes to find an opening.",
+    "_id": "shelter",
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "SpDef",
+                    "Def"
+                ],
+                "Stages": 1,
+                "Affects": "User"
+            },
+            {
+                "Stats": [
+                    "Accuracy"
+                ],
+                "Stages": -1,
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Support"
+}

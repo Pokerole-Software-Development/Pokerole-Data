@@ -1,0 +1,143 @@
+{
+    "Number": 512,
+    "DexID": "0512",
+    "Name": "Simisage",
+    "Type1": "Grass",
+    "Type2": "",
+    "BaseHP": 5,
+    "Strength": 3,
+    "MaxStrength": 6,
+    "Dexterity": 3,
+    "MaxDexterity": 6,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 3,
+    "MaxSpecial": 6,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Overgrow",
+    "Ability2": "Gluttony",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Expert",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "simisage",
+    "DexCategory": "Thorn Monkey Pokémon",
+    "Height": {
+        "Meters": 1.0,
+        "Feet": 3.3
+    },
+    "Weight": {
+        "Kilograms": 30.0,
+        "Pounds": 67.0
+    },
+    "DexDescription": "It becomes somewhat ill-tempered after it evolves. The leaves on its head can be turned into a bitter but effective medicine; however, it will attack with its thorned tail anyone trying to take them.",
+    "Evolutions": [
+        {
+            "From": "Pansage",
+            "Kind": "Stone",
+            "Item": "Leaf Stone"
+        }
+    ],
+    "Image": "simisage.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Scratch"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Play Nice"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Leer"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Lick"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Vine Whip"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Fury Swipes"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Leech Seed"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Bite"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Knock Off"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Low Kick"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Seed Bomb"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Torment"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Fling"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Acrobatics"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Grass Pledge"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Recycle"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Natural Gift"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Crunch"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Grass Knot"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Spiky Shield"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Leaf Storm"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Synthesis"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Gunk Shot"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Nasty Plot"
+        }
+    ]
+}

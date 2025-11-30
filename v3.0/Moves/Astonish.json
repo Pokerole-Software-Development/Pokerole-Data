@@ -1,0 +1,24 @@
+{
+    "Name": "Astonish",
+    "Type": "Ghost",
+    "Power": 1,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Stealth",
+    "Target": "Foe",
+    "Effect": "Single Target. Roll 3 Chance Dice to Flinch the Foe.",
+    "Description": "The user sneaks behind their target to jump scare them.",
+    "_id": "astonish",
+    "Attributes": {},
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Flinch",
+                "Affects": "Targets",
+                "ChanceDice": 3
+            }
+        ]
+    },
+    "Category": "Physical"
+}

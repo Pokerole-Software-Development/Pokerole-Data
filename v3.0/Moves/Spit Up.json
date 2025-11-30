@@ -1,0 +1,16 @@
+{
+    "Name": "Spit Up",
+    "Type": "Normal",
+    "Power": 4,
+    "Damage1": "Special",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Channel",
+    "Target": "Foe",
+    "Effect": "Single Target. The user must have previously used the Move \"Stockpile\", otherwise this Move will fail. Reduce by 1 the User's Defense and Sp. Defense.",
+    "Description": "After stockpiling, the Pokémon spits the stored energy as a mighty beam. The user returns to their original size afterwards.",
+    "_id": "spit-up",
+    "Attributes": {},
+    "AddedEffects": {},
+    "Category": "Special"
+}

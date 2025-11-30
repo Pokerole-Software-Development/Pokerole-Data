@@ -1,0 +1,26 @@
+{
+    "Name": "Hyper Fang",
+    "Type": "Normal",
+    "Power": 3,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Strength",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "Single Target. Bite Move. Roll 1 Chance die to Flinch the Target.",
+    "Description": "The Pokémon bites hard into the foe, leaving nasty teeth marks.",
+    "_id": "hyper-fang",
+    "Attributes": {
+        "BiteMove": true
+    },
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Flinch",
+                "Affects": "Targets",
+                "ChanceDice": 1
+            }
+        ]
+    },
+    "Category": "Physical"
+}

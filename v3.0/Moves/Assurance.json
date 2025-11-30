@@ -1,0 +1,16 @@
+{
+    "Name": "Assurance",
+    "Type": "Dark",
+    "Power": 2,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Insight",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "Single Target. *Add 2 extra Dice to the Damage pool of this Move if the Target has already received Damage from the User this Round.",
+    "Description": "The user indentifies the weakest foe and charges against them.",
+    "_id": "assurance",
+    "Attributes": {},
+    "AddedEffects": {},
+    "Category": "Physical"
+}

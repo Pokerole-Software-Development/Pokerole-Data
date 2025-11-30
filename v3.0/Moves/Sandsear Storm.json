@@ -1,0 +1,28 @@
+{
+    "Name": "Sandsear Storm",
+    "Type": "Ground",
+    "Power": 4,
+    "Damage1": "Special",
+    "Damage2": "",
+    "Accuracy1": "Special",
+    "Accuracy2": "Nature",
+    "Target": "Area",
+    "Effect": "Area Move. Low Accuracy 2. Lethal. Wind Move. Roll 3 Chance Dice to inflict 2nd Degree Burn on those affected.",
+    "Description": "An overwhelming storm made of blistering sands rages through the battlefield, survivors describe it as being hit with live coal embers.",
+    "_id": "sandsear-storm",
+    "Attributes": {
+        "AccuracyReduction": -2,
+        "Lethal": true,
+        "WindMove": true
+    },
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Burn2",
+                "Affects": "Targets",
+                "ChanceDice": 3
+            }
+        ]
+    },
+    "Category": "Special"
+}

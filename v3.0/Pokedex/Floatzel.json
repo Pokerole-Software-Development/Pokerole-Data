@@ -1,0 +1,135 @@
+{
+    "Number": 419,
+    "DexID": "0419",
+    "Name": "Floatzel",
+    "Type1": "Water",
+    "Type2": "",
+    "BaseHP": 5,
+    "Strength": 3,
+    "MaxStrength": 6,
+    "Dexterity": 3,
+    "MaxDexterity": 6,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 2,
+    "MaxSpecial": 5,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Swift Swim",
+    "Ability2": "Water Veil",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Advanced",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "floatzel",
+    "DexCategory": "Sea Weasel Pokémon",
+    "Height": {
+        "Meters": 1.1,
+        "Feet": 3.6
+    },
+    "Weight": {
+        "Kilograms": 33.0,
+        "Pounds": 73.0
+    },
+    "DexDescription": "It floats using its well-developed sack. They roam close to fishing spots to steal an easy meal. People allow them to hang around their boats because they help whenever a person falls into the water.",
+    "Evolutions": [
+        {
+            "From": "Buizel",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "floatzel.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Sonic Boom"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Growl"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Tail Whip"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Water Sport"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Quick Attack"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Water Gun"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Bite"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Ice Fang"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Pursuit"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Swift"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Aqua Jet"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Aqua Tail"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Whirlpool"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Double Hit"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Water Pulse"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Razor Wind"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Agility"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Waterfall"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Hydro Pump"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Bulk Up"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Double Team"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Aqua Ring"
+        }
+    ]
+}

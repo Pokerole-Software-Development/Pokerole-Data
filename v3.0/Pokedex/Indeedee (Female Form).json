@@ -1,0 +1,133 @@
+{
+    "Number": 876,
+    "DexID": "0876F1",
+    "Name": "Indeedee (Female Form)",
+    "Type1": "Psychic",
+    "Type2": "Normal",
+    "BaseHP": 4,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 2,
+    "MaxDexterity": 5,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 3,
+    "MaxSpecial": 6,
+    "Insight": 3,
+    "MaxInsight": 6,
+    "Ability1": "Own Tempo",
+    "Ability2": "Synchronize",
+    "HiddenAbility": "Psychic Surge",
+    "EventAbilities": "",
+    "RecommendedRank": "Standard",
+    "GenderType": "F",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "indeedee-female-form",
+    "DexCategory": "Emotion Pokémon",
+    "Height": {
+        "Meters": 0.9,
+        "Feet": 3.0
+    },
+    "Weight": {
+        "Kilograms": 28.0,
+        "Pounds": 62.0
+    },
+    "DexDescription": "The female of the species. These intelligent Pokémon touch each other's horns to communicate. They love to help and be of service because they gather power from feelings of gratitude.",
+    "Evolutions": [],
+    "Image": "indeedee-female-form.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Stored Power"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Play Nice"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Baton Pass"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Fake Out"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Disarming Voice"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Psybeam"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Helping Hand"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Pay Day"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Follow Me"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Aromatherapy"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Psychic"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Calm Mind"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Endure"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Shadow Ball"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Guard Split"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Light Screen"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Psych Up"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Heal Pulse"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Psychic Terrain"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Healing Wish"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Wonder Room"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Terrain Pulse"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Reflect"
+        }
+    ]
+}

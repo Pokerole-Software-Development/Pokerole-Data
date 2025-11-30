@@ -1,0 +1,123 @@
+{
+    "Number": 672,
+    "DexID": "0672",
+    "Name": "Skiddo",
+    "Type1": "Grass",
+    "Type2": "",
+    "BaseHP": 3,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Sap Sipper",
+    "Ability2": "Grass Pelt",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Rookie",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "skiddo",
+    "DexCategory": "Mount Pokémon",
+    "Height": {
+        "Meters": 0.9,
+        "Feet": 3.0
+    },
+    "Weight": {
+        "Kilograms": 31.0,
+        "Pounds": 68.0
+    },
+    "DexDescription": "It's thought to be one of the first Pokémon to live in harmony with humans. If it has sunshine and water it doesn't need to eat - the leaves on its back will produce the energy for it.",
+    "Evolutions": [
+        {
+            "To": "Gogoat",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "skiddo.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Growth"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Vine Whip"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Tail Whip"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Leech Seed"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Razor Leaf"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Worry Seed"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Synthesis"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Take Down"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Bulldoze"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Seed Bomb"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Bulk Up"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Milk Drink"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Horn Leech"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Leaf Blade"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Double-Edge"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Zen Headbutt"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Endure"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Defense Curl"
+        }
+    ]
+}

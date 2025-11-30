@@ -1,0 +1,27 @@
+{
+    "Name": "Healing Wish",
+    "Type": "Psychic",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Will",
+    "Accuracy2": "Channel",
+    "Target": "Self",
+    "Effect": "Target Self. The user faints. One allied Target restores its full HP and it is cured from any Status Condition. If the chosen Target is not in-battle, it is called out and ready to fight with the same remaining actions as the user.",
+    "Description": "In a display of true selflessness, the user makes the ultimate sacrifice for the well-being of others.",
+    "_id": "healing-wish",
+    "Attributes": {
+        "UserFaints": true
+    },
+    "AddedEffects": {
+        "AilmentHeal": [
+            "All"
+        ],
+        "Heal": {
+            "Type": "Complete",
+            "WillPointCost": 1,
+            "Target": "Targets"
+        }
+    },
+    "Category": "Support"
+}

@@ -1,0 +1,26 @@
+{
+    "Name": "Spotlight",
+    "Type": "Normal",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Cool",
+    "Accuracy2": "Perform",
+    "Target": "Ally",
+    "Effect": "Target One Ally. Reaction 3. All of the Foe's Moves will Target the Chosen Ally if able. Duration 1 Round.",
+    "Description": "The user points a focused light onto one of their allies. The ally can’t help but catch everyone’s attention into itself.",
+    "_id": "spotlight",
+    "Attributes": {
+        "Duration": 1,
+        "Reaction": "3"
+    },
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "FollowMeSpotlight",
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Support"
+}

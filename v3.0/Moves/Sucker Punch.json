@@ -1,0 +1,18 @@
+{
+    "Name": "Sucker Punch",
+    "Type": "Dark",
+    "Power": 3,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Clever",
+    "Accuracy2": "Stealth",
+    "Target": "Foe",
+    "Effect": "Single Target. Late Reaction 6. *This move can only be used as a Late Reaction; and only if the Target used a Physical or Special Move, otherwise it will fail.",
+    "Description": "The Pokémon takes advantage of their foe preparing to attack to unleash a dirty surprise blow.",
+    "_id": "sucker-punch",
+    "Attributes": {
+        "LateReaction": "6"
+    },
+    "AddedEffects": {},
+    "Category": "Physical"
+}

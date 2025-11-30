@@ -1,0 +1,147 @@
+{
+    "Number": 518,
+    "DexID": "0518",
+    "Name": "Musharna",
+    "Type1": "Psychic",
+    "Type2": "",
+    "BaseHP": 6,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 1,
+    "MaxDexterity": 3,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 3,
+    "MaxSpecial": 6,
+    "Insight": 3,
+    "MaxInsight": 6,
+    "Ability1": "Telepathy",
+    "Ability2": "Synchronize",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Advanced",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "musharna",
+    "DexCategory": "Drowsing Pokémon",
+    "Height": {
+        "Meters": 1.1,
+        "Feet": 3.6
+    },
+    "Weight": {
+        "Kilograms": 60.0,
+        "Pounds": 133.0
+    },
+    "DexDescription": "It communicates with the mist on its forehead. It can create shapes and images from dreams it has eaten. It is said that this Pokémon is a link between this world and a another one made entirely of dreams.",
+    "Evolutions": [
+        {
+            "From": "Munna",
+            "Kind": "Stone",
+            "Item": "Moon Stone"
+        }
+    ],
+    "Image": "musharna.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Psywave"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Defense Curl"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Stored Power"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Psybeam"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Hypnosis"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Imprison"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Moonlight"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Magic Coat"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Zen Headbutt"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Calm Mind"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Yawn"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Nightmare"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Dream Eater"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Telekinesis"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Psychic Terrain"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Torment"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Psychic"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Moonblast"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Synchronoise"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Wonder Room"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Lucky Chant"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Future Sight"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Pain Split"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Expanding Force"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Healing Wish"
+        }
+    ]
+}

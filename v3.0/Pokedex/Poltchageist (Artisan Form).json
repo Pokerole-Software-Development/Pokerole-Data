@@ -1,0 +1,111 @@
+{
+    "Number": 1012,
+    "DexID": "1012F2",
+    "Name": "Poltchageist (Artisan Form)",
+    "Type1": "Grass",
+    "Type2": "Ghost",
+    "BaseHP": 3,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 2,
+    "MaxSpecial": 5,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Hospitality",
+    "Ability2": "Heatproof",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Rookie",
+    "GenderType": "N",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "poltchageist-artisan-form",
+    "DexCategory": "Matcha Pokémon",
+    "Height": {
+        "Meters": 0.1,
+        "Feet": 0.3
+    },
+    "Weight": {
+        "Kilograms": 1.0,
+        "Pounds": 2.0
+    },
+    "DexDescription": "This Pokémon haunts high quality tea caddies. It can leave traces of its own body powder on food and beverages to suck the life of those who so much as lick it. Although similar, it's unrelated to Sinistea.",
+    "Evolutions": [
+        {
+            "To": "Sinistcha (Masterpiece Form)",
+            "Kind": "Item",
+            "Item": "Masterpiece Teacup"
+        }
+    ],
+    "Image": "poltchageist-artisan-form.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Stun Spore"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Withdraw"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Astonish"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Absorb"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Rage Powder"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Life Dew"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Foul Play"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Mega Drain"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Hex"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Giga Drain"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Shadow Ball"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Memento"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Leaf Storm"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Substitute"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Iron Defense"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Nasty Plot"
+        }
+    ]
+}

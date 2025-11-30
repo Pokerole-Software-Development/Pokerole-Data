@@ -1,0 +1,20 @@
+{
+    "Name": "Ice Shard",
+    "Type": "Ice",
+    "Power": 2,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Channel",
+    "Target": "Foe",
+    "Effect": "Single Target. Reaction 1. Ranged.",
+    "Description": "With extraordinary swiftness, the Pokémon shoots an ice bullet like the fastest gun in the North Pole.",
+    "_id": "ice-shard",
+    "Attributes": {
+        "PhysicalRanged": true,
+        "Reaction": "1",
+        "Ranged": true
+    },
+    "AddedEffects": {},
+    "Category": "Physical"
+}

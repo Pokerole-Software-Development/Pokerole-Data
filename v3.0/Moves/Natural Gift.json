@@ -1,0 +1,19 @@
+{
+    "Name": "Natural Gift",
+    "Type": "Normal",
+    "Power": 3,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Insight",
+    "Accuracy2": "Nature",
+    "Target": "Foe",
+    "Effect": "Single Target. Ranged. The User loes its held berry. *The Type of this Move changes according to the berry used. See more on p. 530",
+    "Description": "The user throws their held berry at the foe, the myriad of flavors has surprisingly different results.",
+    "_id": "natural-gift",
+    "Attributes": {
+        "PhysicalRanged": true,
+        "Ranged": true
+    },
+    "AddedEffects": {},
+    "Category": "Physical"
+}

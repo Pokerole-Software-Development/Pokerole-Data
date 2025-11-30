@@ -1,0 +1,18 @@
+{
+    "Name": "Rising Voltage",
+    "Type": "Electric",
+    "Power": 3,
+    "Damage1": "Special",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Channel",
+    "Target": "Foe",
+    "Effect": "Single Target. Lethal. *If Electric Terrain is active, add 3 Extra Dice to the Damage pool of this Move.",
+    "Description": "A shockwave travels through the ground, then rises as a golden pillar of thunderbolts.",
+    "_id": "rising-voltage",
+    "Attributes": {
+        "Lethal": true
+    },
+    "AddedEffects": {},
+    "Category": "Special"
+}

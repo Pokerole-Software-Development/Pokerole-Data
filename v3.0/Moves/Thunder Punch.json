@@ -1,0 +1,26 @@
+{
+    "Name": "Thunder Punch",
+    "Type": "Electric",
+    "Power": 3,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Strength",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "Single Target. Fist Move. Roll 1 Chance die to Paralyze the Target.",
+    "Description": "A charged punch to deliver a shocking blow.",
+    "_id": "thunder-punch",
+    "Attributes": {
+        "FistMove": true
+    },
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Paralyze",
+                "Affects": "Targets",
+                "ChanceDice": 1
+            }
+        ]
+    },
+    "Category": "Physical"
+}

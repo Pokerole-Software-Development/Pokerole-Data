@@ -1,0 +1,18 @@
+{
+    "Name": "Forest's Curse",
+    "Type": "Grass",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Will",
+    "Accuracy2": "Nature",
+    "Target": "Foe",
+    "Effect": "Single Target. Add the Grass Type to the Target's Type. (ie Pikachu will now be \"Electric/Grass\", Charizard will not be \"Fire/Flying/Grass\") If the Target already has a third Type attached, replace it.",
+    "Description": "The user lays the forest’scurse upon the target, causing roots and branches to grow on its body until they are a haunted tree. Perform an exorcism or get to a Pokémon Center ASAP",
+    "_id": "forest's-curse",
+    "Attributes": {
+        "Duration": "wholeScene"
+    },
+    "AddedEffects": {},
+    "Category": "Support"
+}

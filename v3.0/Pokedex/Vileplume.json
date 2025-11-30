@@ -1,0 +1,135 @@
+{
+    "Number": 45,
+    "DexID": "0045",
+    "Name": "Vileplume",
+    "Type1": "Grass",
+    "Type2": "Poison",
+    "BaseHP": 5,
+    "Strength": 2,
+    "MaxStrength": 5,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 3,
+    "MaxSpecial": 6,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Chlorophyll",
+    "Ability2": "Effect Spore",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Advanced",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "vileplume",
+    "DexCategory": "Flower Pokémon",
+    "Height": {
+        "Meters": 1.2,
+        "Feet": 4.0
+    },
+    "Weight": {
+        "Kilograms": 19.0,
+        "Pounds": 41.0
+    },
+    "DexDescription": "It lives in marshlands and jungles where it's often mistaken for local flora. The air around a Vileplume turns yellow with the powder it releases as it walks. The pollen is highly toxic and causes paralysis.",
+    "Evolutions": [
+        {
+            "From": "Gloom",
+            "Kind": "Stone",
+            "Item": "Leaf Stone"
+        }
+    ],
+    "Image": "vileplume.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Absorb"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Growth"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Sweet Scent"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Acid"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Poison Powder"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Stun Spore"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Sleep Powder"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Mega Drain"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Moonlight"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Natural Gift"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Toxic"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Giga Drain"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Petal Dance"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Moonblast"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Grassy Terrain"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Petal Blizzard"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Solar Beam"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Grassy Glide"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Gastro Acid"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Corrosive Gas"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Teeter Dance"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Nature Power"
+        }
+    ]
+}

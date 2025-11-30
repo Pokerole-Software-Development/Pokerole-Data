@@ -1,0 +1,131 @@
+{
+    "Number": 219,
+    "DexID": "0219",
+    "Name": "Magcargo",
+    "Type1": "Fire",
+    "Type2": "Rock",
+    "BaseHP": 4,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 1,
+    "MaxDexterity": 3,
+    "Vitality": 3,
+    "MaxVitality": 7,
+    "Special": 2,
+    "MaxSpecial": 5,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Flame Body",
+    "Ability2": "Magma Armor",
+    "HiddenAbility": "Weak Armor",
+    "EventAbilities": "",
+    "RecommendedRank": "Advanced",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "magcargo",
+    "DexCategory": "Lava Pokémon",
+    "Height": {
+        "Meters": 0.8,
+        "Feet": 2.6
+    },
+    "Weight": {
+        "Kilograms": 55.0,
+        "Pounds": 122.0
+    },
+    "DexDescription": "Their shell is molten body that cooled off and hardened. It may appear solid, but it may burst into flames with a single touch. Water vaporizes on contact and rain turns into a cloud of steam.",
+    "Evolutions": [
+        {
+            "From": "Slugma",
+            "Kind": "Level",
+            "Speed": "Slow"
+        }
+    ],
+    "Image": "magcargo.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Smog"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Yawn"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Ember"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Rock Throw"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Harden"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Incinerate"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Clear Smog"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Recover"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Tar Shot"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Ancient Power"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Flame Burst"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Shell Smash"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Amnesia"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Flamethrower"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Body Slam"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Lava Plume"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Rock Slide"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Earth Power"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Scorching Sands"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Self Destruct"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Burn Up"
+        }
+    ]
+}

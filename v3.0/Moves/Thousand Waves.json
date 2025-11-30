@@ -1,0 +1,29 @@
+{
+    "Name": "Thousand Waves",
+    "Type": "Ground",
+    "Power": 3,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Strength",
+    "Accuracy2": "Channel/Stealth",
+    "Target": "All Foes",
+    "Effect": "Target All Foes in Range. Ranged. Unique. Blocks. Whole Scene Duration.",
+    "Description": "Solid ground becomes a sandtrap, cracked earth will close to ensnare your feet. It’s as if the land itself wanted to trap you. There is no attacker nor escape in sight.",
+    "_id": "thousand-waves",
+    "Attributes": {
+        "PhysicalRanged": true,
+        "BlockDamagePool": 0,
+        "Unique": true,
+        "Duration": "wholeScene",
+        "Ranged": true
+    },
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Block",
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Physical"
+}

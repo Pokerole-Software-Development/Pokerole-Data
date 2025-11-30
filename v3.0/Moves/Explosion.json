@@ -1,0 +1,21 @@
+{
+    "Name": "Explosion",
+    "Type": "Normal",
+    "Power": 10,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Strength",
+    "Accuracy2": "Channel",
+    "Target": "Area",
+    "Effect": "Area Move. Ranged. Lethal. The User Faints.",
+    "Description": "Through a massive explosion the Pokémon destroys all they can before fainting. Sometimes the only way to get out of a bad situation is in bits and pieces.",
+    "_id": "explosion",
+    "Attributes": {
+        "Lethal": true,
+        "UserFaints": true,
+        "PhysicalRanged": true,
+        "Ranged": true
+    },
+    "AddedEffects": {},
+    "Category": "Physical"
+}

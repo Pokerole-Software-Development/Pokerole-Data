@@ -1,0 +1,26 @@
+{
+    "Name": "Struggle Bug",
+    "Type": "Bug",
+    "Power": 1,
+    "Damage1": "Special",
+    "Damage2": "",
+    "Accuracy1": "Insight",
+    "Accuracy2": "Channel",
+    "Target": "All Foes",
+    "Effect": "Target All Foes in Range. Reduce by 1 the Special of those affected.",
+    "Description": "The Pokémon sends a distress signal through its antennae to interrupt the foe’s concentration.",
+    "_id": "struggle-bug",
+    "Attributes": {},
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "Special"
+                ],
+                "Stages": -1,
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Physical"
+}

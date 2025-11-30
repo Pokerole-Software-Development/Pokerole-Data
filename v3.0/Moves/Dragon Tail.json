@@ -1,0 +1,20 @@
+{
+    "Name": "Dragon Tail",
+    "Type": "Dragon",
+    "Power": 2,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Strength",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "Single Target. Low Accuracy 1. Late Reaction 6. Switcher Move for the Foe. In the wild, the battle may end.",
+    "Description": "The Pokémon sends their opponent flying up to 100ft in the air with a strong flick of their tail.",
+    "_id": "dragon-tail",
+    "Attributes": {
+        "SwitcherMove": "Foe",
+        "AccuracyReduction": -1,
+        "LateReaction": "6"
+    },
+    "AddedEffects": {},
+    "Category": "Physical"
+}

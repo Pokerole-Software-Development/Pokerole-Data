@@ -1,0 +1,26 @@
+{
+    "Name": "Pounce",
+    "Type": "Bug",
+    "Power": 2,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Stealth",
+    "Target": "Foe",
+    "Effect": "Single Target. Reduce the Target's Dexterity by 1.",
+    "Description": "The Pokémon stands very still, and just as their foe approaches, they suddenly launch into attacking.",
+    "_id": "pounce",
+    "Attributes": {},
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "Dexterity"
+                ],
+                "Stages": -1,
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Physical"
+}

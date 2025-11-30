@@ -1,0 +1,24 @@
+{
+    "Name": "Infernal Parade",
+    "Type": "Ghost",
+    "Power": 2,
+    "Damage1": "Special",
+    "Damage2": "",
+    "Accuracy1": "Insight",
+    "Accuracy2": "Intimidate",
+    "Target": "Foe",
+    "Effect": "Single Target. Roll 2 Chance Dice to inflict 2nd Degree Burn on the Foe. *If the Target has an active Status Condition, add 2 Extra Dice to the Damage Pool of this Move.",
+    "Description": "'You may not be the type to faint when things are odd or things are quaint. But seeing flames you know that ain’t will scorch you into dismay't will scorch you into dismay.'",
+    "_id": "infernal-parade",
+    "Attributes": {},
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Burn2",
+                "Affects": "Targets",
+                "ChanceDice": 2
+            }
+        ]
+    },
+    "Category": "Special"
+}

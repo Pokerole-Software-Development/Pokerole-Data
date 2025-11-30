@@ -1,0 +1,29 @@
+{
+    "Name": "Grav Apple",
+    "Type": "Grass",
+    "Power": 3,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Strength",
+    "Accuracy2": "Channel",
+    "Target": "Foe",
+    "Effect": "Single Target. Ranged. Reduce the Target's Defense by 1.",
+    "Description": "The Pokémon rises on top of its foe and drops an apple on their head. The foe proceeds to eat the apple, distracting it from the fight.",
+    "_id": "grav-apple",
+    "Attributes": {
+        "PhysicalRanged": true,
+        "Ranged": true
+    },
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "Def"
+                ],
+                "Stages": -1,
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Physical"
+}

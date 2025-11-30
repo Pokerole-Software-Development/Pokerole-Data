@@ -1,0 +1,132 @@
+{
+    "Number": 608,
+    "DexID": "0608",
+    "Name": "Lampent",
+    "Type1": "Ghost",
+    "Type2": "Fire",
+    "BaseHP": 4,
+    "Strength": 1,
+    "MaxStrength": 3,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 3,
+    "MaxSpecial": 6,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Flash Fire",
+    "Ability2": "Flame Body",
+    "HiddenAbility": "Infiltrator",
+    "EventAbilities": "",
+    "RecommendedRank": "Advanced",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "lampent",
+    "DexCategory": "Lamp Pokémon",
+    "Height": {
+        "Meters": 0.6,
+        "Feet": 2.0
+    },
+    "Weight": {
+        "Kilograms": 13.0,
+        "Pounds": 28.0
+    },
+    "DexDescription": "This ominous Pokémon is very feared. It always arrives at someone's final moments and steals their spirit. It hangs close to hospitals and other places, simply waiting. It is said that if it gets your soul, you will never rest.",
+    "Evolutions": [
+        {
+            "From": "Litwick",
+            "Kind": "Level",
+            "Speed": "Medium"
+        },
+        {
+            "To": "Chandelure",
+            "Kind": "Stone",
+            "Item": "Dusk Stone"
+        }
+    ],
+    "Image": "lampent.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Astonish"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Smog"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Ember"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Confuse Ray"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Minimize"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Flame Burst"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Hex"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Will-O-Wisp"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Fire Spin"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Night Shade"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Curse"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Shadow Ball"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Imprison"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Pain Split"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Inferno"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Memento"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Overheat"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Clear Smog"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Power Split"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Haze"
+        }
+    ]
+}

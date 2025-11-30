@@ -1,0 +1,114 @@
+{
+    "Number": 888,
+    "DexID": "0888",
+    "Name": "Zacian",
+    "Type1": "Fairy",
+    "Type2": "",
+    "BaseHP": 5,
+    "Strength": 7,
+    "MaxStrength": 7,
+    "Dexterity": 7,
+    "MaxDexterity": 7,
+    "Vitality": 6,
+    "MaxVitality": 6,
+    "Special": 5,
+    "MaxSpecial": 5,
+    "Insight": 6,
+    "MaxInsight": 6,
+    "Ability1": "Intrepid Sword",
+    "Ability2": "",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Ace",
+    "GenderType": "N",
+    "Legendary": true,
+    "GoodStarter": false,
+    "_id": "zacian",
+    "DexCategory": "Pokédex has no data.",
+    "Height": {
+        "Meters": 2.8,
+        "Feet": 9.2
+    },
+    "Weight": {
+        "Kilograms": 110.0,
+        "Pounds": 242.0
+    },
+    "DexDescription": "There is a legend of a heroine who through sheer might wielded the blade of heroes and vanquished a great evil.",
+    "Evolutions": [
+        {
+            "To": "Zacian (Crown Form)",
+            "Kind": "Form"
+        }
+    ],
+    "Image": "zacian.png",
+    "Moves": [
+        {
+            "Learned": "Ace",
+            "Name": "Sacred Sword"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Quick Guard"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Metal Claw"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Howl"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Quick Attack"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Bite"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Slash"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Swords Dance"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Iron Head"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Laser Focus"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Crunch"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Moonblast"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Close Combat"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Giga Impact"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Air Slash"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Psycho Cut"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Solar Blade"
+        }
+    ]
+}

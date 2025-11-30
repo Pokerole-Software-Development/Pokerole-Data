@@ -1,0 +1,143 @@
+{
+    "Number": 981,
+    "DexID": "0981",
+    "Name": "Farigiraf",
+    "Type1": "Normal",
+    "Type2": "Psychic",
+    "BaseHP": 7,
+    "Strength": 2,
+    "MaxStrength": 5,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 3,
+    "MaxSpecial": 6,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Cud Chew",
+    "Ability2": "Armor Tail",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Expert",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "farigiraf",
+    "DexCategory": "Long Neck Pokémon",
+    "Height": {
+        "Meters": 3.2,
+        "Feet": 10.5
+    },
+    "Weight": {
+        "Kilograms": 320.0,
+        "Pounds": 705.0
+    },
+    "DexDescription": "The brain waves of the head and tail synch up, increasing its Psychic powers. The hardened head from its tail protects the main body when whipping its neck around to headbutt enemies.",
+    "Evolutions": [
+        {
+            "From": "Girafarig",
+            "Kind": "Special",
+            "Special": "Mastering Twin Beam"
+        }
+    ],
+    "Image": "farigiraf.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Astonish"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Power Swap"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Guard Swap"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Growl"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Confusion"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Odor Sleuth"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Stomp"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Agility"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Psybeam"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Baton Pass"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Assurance"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Double Hit"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Psychic"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Zen Headbutt"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Crunch"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Nasty Plot"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Twin Beam"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Psychic Fangs"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Hyper Voice"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Future Sight"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Foul Play"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Mirror Coat"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Wish"
+        }
+    ]
+}

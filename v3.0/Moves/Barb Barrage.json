@@ -1,0 +1,26 @@
+{
+    "Name": "Barb Barrage",
+    "Type": "Poison",
+    "Power": 2,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Strength",
+    "Accuracy2": "Channel",
+    "Target": "Foe",
+    "Effect": "Single Target. Roll 3 Chance Dice to Poison the Target. *If the Target already has an active Status Condition, add 2 Extra Dice to the Damage Pool of this Move.",
+    "Description": "The user shoots a blast of venomous pins that inject venom into the foe, this venom is specially potent against those already compromised.",
+    "_id": "cross-poison",
+    "Attributes": {
+        "PhysicalRanged": true
+    },
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Poison",
+                "Affects": "Targets",
+                "ChanceDice": 3
+            }
+        ]
+    },
+    "Category": "Physical"
+}

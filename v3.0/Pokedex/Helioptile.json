@@ -1,0 +1,115 @@
+{
+    "Number": 694,
+    "DexID": "0694",
+    "Name": "Helioptile",
+    "Type1": "Electric",
+    "Type2": "Normal",
+    "BaseHP": 3,
+    "Strength": 1,
+    "MaxStrength": 3,
+    "Dexterity": 2,
+    "MaxDexterity": 5,
+    "Vitality": 1,
+    "MaxVitality": 3,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 1,
+    "MaxInsight": 3,
+    "Ability1": "Dry Skin",
+    "Ability2": "Sand Veil",
+    "HiddenAbility": "Solar Power",
+    "EventAbilities": "",
+    "RecommendedRank": "Rookie",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "helioptile",
+    "DexCategory": "Generator Pokémon",
+    "Height": {
+        "Meters": 0.5,
+        "Feet": 1.7
+    },
+    "Weight": {
+        "Kilograms": 6.0,
+        "Pounds": 13.0
+    },
+    "DexDescription": "They make their home in deserts. Since food is scarce where they live, they use the sun as a source of energy by basking their frills in the light. They run pretty fast as to not burn themselves on the hot sand.",
+    "Evolutions": [
+        {
+            "To": "Heliolisk",
+            "Kind": "Stone",
+            "Item": "Sun Stone"
+        }
+    ],
+    "Image": "helioptile.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Mud Slap"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Tail Whip"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Pound"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Thunder Shock"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Quick Attack"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Charge"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Bulldoze"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Razor Wind"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Volt Switch"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Parabolic Charge"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Thunder Wave"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Thunderbolt"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Electrify"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Thunder"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Electroweb"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Agility"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Scale Shot"
+        }
+    ]
+}

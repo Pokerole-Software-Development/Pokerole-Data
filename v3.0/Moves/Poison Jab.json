@@ -1,0 +1,24 @@
+{
+    "Name": "Poison Jab",
+    "Type": "Poison",
+    "Power": 3,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Brawl/Stealth",
+    "Target": "Foe",
+    "Effect": "Single Target. Roll 3 Chance Dice to Poison the Target.",
+    "Description": "The Pokémon is set on injecting venom directly into the foe’s bloodstream. They can do it the easy way or the hard way.",
+    "_id": "poison-jab",
+    "Attributes": {},
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Poison",
+                "Affects": "Targets",
+                "ChanceDice": 3
+            }
+        ]
+    },
+    "Category": "Physical"
+}

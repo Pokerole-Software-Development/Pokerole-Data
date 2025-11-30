@@ -1,0 +1,18 @@
+{
+    "Name": "Boomburst",
+    "Type": "Normal",
+    "Power": 6,
+    "Damage1": "Special",
+    "Damage2": "",
+    "Accuracy1": "Special",
+    "Accuracy2": "Channel",
+    "Target": "Area",
+    "Effect": "Area Move. Sound Move.",
+    "Description": "The Pokémon creates a sudden explosive sound that deafens everyone around.",
+    "_id": "boomburst",
+    "Attributes": {
+        "SoundMove": true
+    },
+    "AddedEffects": {},
+    "Category": "Special"
+}

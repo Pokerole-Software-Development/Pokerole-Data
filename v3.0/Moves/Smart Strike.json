@@ -1,0 +1,19 @@
+{
+    "Name": "Smart Strike",
+    "Type": "Steel",
+    "Power": 3,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "Single Target. Never Miss. Lethal.",
+    "Description": "The user stabs the foe using one of their sharp horns with astounding precision. The resulting wound is very deep and needs stitches immediately",
+    "_id": "smart-strike",
+    "Attributes": {
+        "Lethal": true,
+        "NeverMiss": true
+    },
+    "AddedEffects": {},
+    "Category": "Physical"
+}

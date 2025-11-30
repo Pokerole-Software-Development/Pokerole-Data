@@ -1,0 +1,29 @@
+{
+    "Name": "Charge Beam",
+    "Type": "Electric",
+    "Power": 2,
+    "Damage1": "Special",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Channel",
+    "Target": "Foe",
+    "Effect": "Single Target. Low Accuracy 1. Roll 5 Chance Dice to Increase User's Special by 1.",
+    "Description": "The Pokémon releases an electric beam, if any charge remains unused, it will make use of it to boost its power.",
+    "_id": "charge-beam",
+    "Attributes": {
+        "AccuracyReduction": -1
+    },
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "Special"
+                ],
+                "Stages": 1,
+                "ChanceDice": 5,
+                "Affects": "User"
+            }
+        ]
+    },
+    "Category": "Special"
+}

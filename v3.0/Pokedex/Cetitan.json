@@ -1,0 +1,139 @@
+{
+    "Number": 975,
+    "DexID": "0975",
+    "Name": "Cetitan",
+    "Type1": "Ice",
+    "Type2": "",
+    "BaseHP": 9,
+    "Strength": 3,
+    "MaxStrength": 6,
+    "Dexterity": 2,
+    "MaxDexterity": 5,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Slush Rush",
+    "Ability2": "Sheer Force",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Advanced",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "cetitan",
+    "DexCategory": "Terra Whale Pokémon",
+    "Height": {
+        "Meters": 4.5,
+        "Feet": 14.8
+    },
+    "Weight": {
+        "Kilograms": 700.0,
+        "Pounds": 1543.0
+    },
+    "DexDescription": "These Pokémon wander around snowy areas; the thick layer of fat on their bodies protects them from the figid temperatures. They are not particularly aggressive, but are fiercely protective of their young.",
+    "Evolutions": [
+        {
+            "From": "Cetoddle",
+            "Kind": "Stone",
+            "Item": "Ice Stone"
+        }
+    ],
+    "Image": "cetitan.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Powder Snow"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Growl"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Echoed Voice"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Ice Shard"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Rest"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Take Down"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Flail"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Snowscape"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Bulldoze"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Avalanche"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Bounce"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Body Slam"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Amnesia"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Chilling Water"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Icicle Crash"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Ice Spinner"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Belly Drum"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Blizzard"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Double-Edge"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Superpower"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Heavy Slam"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Liquidation"
+        }
+    ]
+}

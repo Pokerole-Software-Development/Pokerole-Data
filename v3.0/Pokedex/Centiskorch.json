@@ -1,0 +1,139 @@
+{
+    "Number": 851,
+    "DexID": "0851",
+    "Name": "Centiskorch",
+    "Type1": "Fire",
+    "Type2": "Bug",
+    "BaseHP": 6,
+    "Strength": 3,
+    "MaxStrength": 7,
+    "Dexterity": 2,
+    "MaxDexterity": 5,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 2,
+    "MaxSpecial": 5,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Flash Fire",
+    "Ability2": "Flame Body",
+    "HiddenAbility": "White Smoke",
+    "EventAbilities": "",
+    "RecommendedRank": "Expert",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "centiskorch",
+    "DexCategory": "Radiator Pokémon",
+    "Height": {
+        "Meters": 3.0,
+        "Feet": 9.8
+    },
+    "Weight": {
+        "Kilograms": 120.0,
+        "Pounds": 264.0
+    },
+    "DexDescription": "It lashes its body like a whip and launches itself at enemies. While its burning body is already dangerous on its own, this excessively hostile Pokémon also has large and very sharp fangs.",
+    "Evolutions": [
+        {
+            "From": "Sizzlipede",
+            "Kind": "Level",
+            "Speed": "Slow"
+        }
+    ],
+    "Image": "centiskorch.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Ember"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Smokescreen"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Wrap"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Bite"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Flame Wheel"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Bug Bite"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Struggle Bug"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Venoshock"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Fire Fang"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Thunder Fang"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Coil"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Slam"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Rollout"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Chip Away"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Fire Spin"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Crunch"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Fire Lash"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "X-Scissor"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Power Whip"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Burn Up"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Lash Out"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Scald"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Scorching Sands"
+        }
+    ]
+}

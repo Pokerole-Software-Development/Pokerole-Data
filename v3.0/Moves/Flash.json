@@ -1,0 +1,23 @@
+{
+    "Name": "Flash",
+    "Type": "Normal",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Special",
+    "Accuracy2": "Channel",
+    "Target": "Foe",
+    "Effect": "Single Target. Reduce 1 success to all the Accuracy Rolls of the Target.",
+    "Description": "The Pokémon glows with a bright light to temporarily blind and dazzle their foe. It’s also perfect to light up dark places.",
+    "_id": "flash",
+    "Attributes": {},
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Flash",
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Support"
+}

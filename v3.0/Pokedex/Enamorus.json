@@ -1,0 +1,126 @@
+{
+    "Number": 905,
+    "DexID": "0905",
+    "Name": "Enamorus",
+    "Type1": "Fairy",
+    "Type2": "Flying",
+    "BaseHP": 5,
+    "Strength": 6,
+    "MaxStrength": 6,
+    "Dexterity": 6,
+    "MaxDexterity": 6,
+    "Vitality": 5,
+    "MaxVitality": 5,
+    "Special": 7,
+    "MaxSpecial": 7,
+    "Insight": 5,
+    "MaxInsight": 5,
+    "Ability1": "Healer",
+    "Ability2": "Contrary",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Ace",
+    "GenderType": "F",
+    "Legendary": true,
+    "GoodStarter": false,
+    "_id": "enamorus",
+    "DexCategory": "Pokédex has no data.",
+    "Height": {
+        "Meters": 1.6,
+        "Feet": 5.2
+    },
+    "Weight": {
+        "Kilograms": 48.0,
+        "Pounds": 105.0
+    },
+    "DexDescription": "It is said a Pokémon arrived to Hisui from a far-away land, bringing gale winds that changed the climate of the region. The Pokémon was said to be benign and their love made spring flourish each year.",
+    "Evolutions": [
+        {
+            "To": "Enamorus (Therian Form)",
+            "Kind": "Form"
+        }
+    ],
+    "Image": "enamorus.png",
+    "Moves": [
+        {
+            "Learned": "Ace",
+            "Name": "Astonish"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Fairy Wind"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Leer"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Torment"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Flatter"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Uproar"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Iron Defense"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Twister"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Extrasensory"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Power Shift"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Draining Kiss"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Crunch"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Imprison"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Mystical Fire"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Dazzling Gleam"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Superpower"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Healing Wish"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Moonblast"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Outrage"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Springtide Storm"
+        }
+    ]
+}

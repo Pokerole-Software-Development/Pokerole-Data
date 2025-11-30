@@ -1,0 +1,22 @@
+{
+    "Name": "Milk Drink",
+    "Type": "Normal",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Vitality",
+    "Accuracy2": "Nature",
+    "Target": "Self",
+    "Effect": "Target Self. Basic Heal. If successful, spend 1 Will point to activate. Out of battle, this Move can be used on allies.",
+    "Description": "The Pokémon drinks a glass of milk. Full of calcium and vitamin D it is a healthy and delicious refreshment.",
+    "_id": "milk-drink",
+    "Attributes": {},
+    "AddedEffects": {
+        "Heal": {
+            "Type": "Basic",
+            "Target": "Targets",
+            "WillPointCost": 1
+        }
+    },
+    "Category": "Support"
+}

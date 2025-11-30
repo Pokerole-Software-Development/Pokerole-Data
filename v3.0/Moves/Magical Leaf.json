@@ -1,0 +1,18 @@
+{
+    "Name": "Magical Leaf",
+    "Type": "Grass",
+    "Power": 2,
+    "Damage1": "Special",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Channel/Nature",
+    "Target": "Foe",
+    "Effect": "Single Target. Never Miss.",
+    "Description": "The user sends out a floating leaf that will pursue the target until it hits.",
+    "_id": "magical-leaf",
+    "Attributes": {
+        "NeverMiss": true
+    },
+    "AddedEffects": {},
+    "Category": "Special"
+}

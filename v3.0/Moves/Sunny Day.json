@@ -1,0 +1,20 @@
+{
+    "Name": "Sunny Day",
+    "Type": "Fire",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Special",
+    "Accuracy2": "Nature",
+    "Target": "Battlefield",
+    "Effect": "Target Battlefield. Activate Sunny Weather. Duration 4 Rounds.",
+    "Description": "The Pokémon will call for the sun to shine brighter, increasing the heat of the arena. This Move doesn’t work at night, indoors, or underground/water.",
+    "_id": "sunny-day",
+    "Attributes": {
+        "Duration": 4
+    },
+    "AddedEffects": {
+        "TerrainEffect": "Sunny"
+    },
+    "Category": "Support"
+}

@@ -1,0 +1,150 @@
+{
+    "Number": 1017,
+    "DexID": "1017F3",
+    "Name": "Ogerpon (Teal Mask Form)",
+    "Type1": "Grass",
+    "Type2": "",
+    "BaseHP": 5,
+    "Strength": 7,
+    "MaxStrength": 7,
+    "Dexterity": 6,
+    "MaxDexterity": 6,
+    "Vitality": 5,
+    "MaxVitality": 5,
+    "Special": 4,
+    "MaxSpecial": 4,
+    "Insight": 6,
+    "MaxInsight": 6,
+    "Ability1": "Defiant",
+    "Ability2": "Embody Aspect",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Ace",
+    "GenderType": "F",
+    "Legendary": true,
+    "GoodStarter": false,
+    "_id": "ogerpon-teal-mask-form",
+    "DexCategory": "Mask Pokémon",
+    "Height": {
+        "Meters": 1.2,
+        "Feet": 4.0
+    },
+    "Weight": {
+        "Kilograms": 40.0,
+        "Pounds": 88.0
+    },
+    "DexDescription": "Ancient myths and legends remain alive to this day. It is said Kitakami is visited by a mischievous creature during the festival of masks. The creature appears playful & wears a mask as disguise to steal snacks.",
+    "Evolutions": [
+        {
+            "To": "Ogerpon (Cornerstone Mask Form)",
+            "Kind": "Form"
+        },
+        {
+            "To": "Ogerpon (Hearthflame Mask Form)",
+            "Kind": "Form"
+        },
+        {
+            "To": "Ogerpon (Wellspring Mask Form)",
+            "Kind": "Form"
+        }
+    ],
+    "Image": "ogerpon-teal-mask-form.png",
+    "Moves": [
+        {
+            "Learned": "Ace",
+            "Name": "Vine Whip"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Leech seed"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Quick Attack"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Follow Me"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Focus Energy"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Growth"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Double Kick"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Taunt"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "U-Turn"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Charm"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Scary Face"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Low Sweep"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Slam"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Throat Chop"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Protect"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Spiky Shield"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Grassy Terrain"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Superpower"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Synthesis"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Ivy Cudgel"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Power Whip"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Wood Hammer"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Grassy Glide"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Play Rough"
+        }
+    ]
+}

@@ -1,0 +1,88 @@
+{
+    "Number": 236,
+    "DexID": "0236",
+    "Name": "Tyrogue",
+    "Type1": "Fighting",
+    "Type2": "",
+    "BaseHP": 3,
+    "Strength": 1,
+    "MaxStrength": 3,
+    "Dexterity": 1,
+    "MaxDexterity": 3,
+    "Vitality": 1,
+    "MaxVitality": 3,
+    "Special": 1,
+    "MaxSpecial": 3,
+    "Insight": 1,
+    "MaxInsight": 3,
+    "Ability1": "Guts",
+    "Ability2": "Steadfast",
+    "HiddenAbility": "Vital Spirit",
+    "EventAbilities": "",
+    "RecommendedRank": "Starter",
+    "GenderType": "M",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "tyrogue",
+    "DexCategory": "Scuffle Pokémon",
+    "Height": {
+        "Meters": 0.7,
+        "Feet": 2.3
+    },
+    "Weight": {
+        "Kilograms": 21.0,
+        "Pounds": 46.0
+    },
+    "DexDescription": "Tyrogue is an energetic, competitive and fearless Pokémon that's always looking to get stronger, fighting any enemies even if it loses. They attack anyone, any day, anytime, everyday, without warning.",
+    "Evolutions": [
+        {
+            "To": "Hitmontop",
+            "Kind": "Stat",
+            "Stat": "Insight",
+            "Value": -1
+        },
+        {
+            "To": "Hitmonlee",
+            "Kind": "Stat",
+            "Stat": "Strength",
+            "Value": -1
+        },
+        {
+            "To": "Hitmonchan",
+            "Kind": "Stat",
+            "Stat": "Vitality",
+            "Value": -1
+        }
+    ],
+    "Image": "tyrogue.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Foresight"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Helping Hand"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Fake Out"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Work Up"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Role Play"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Seismic Toss"
+        }
+    ]
+}

@@ -1,0 +1,143 @@
+{
+    "Number": 286,
+    "DexID": "0286",
+    "Name": "Breloom",
+    "Type1": "Grass",
+    "Type2": "Fighting",
+    "BaseHP": 4,
+    "Strength": 3,
+    "MaxStrength": 7,
+    "Dexterity": 2,
+    "MaxDexterity": 5,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Poison Heal",
+    "Ability2": "Technician",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Standard",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "breloom",
+    "DexCategory": "Mushroom Pokémon",
+    "Height": {
+        "Meters": 1.2,
+        "Feet": 4.0
+    },
+    "Weight": {
+        "Kilograms": 39.0,
+        "Pounds": 86.0
+    },
+    "DexDescription": "Their flexible arms and quick footwork can put good fighters to shame. The seeds on their tail and the cap on their head release poison spores. They love humid and hot climates.",
+    "Evolutions": [
+        {
+            "From": "Shroomish",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "breloom.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Absorb"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Stun Spore"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Leech Seed"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Mega Drain"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Mach Punch"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Feint"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Headbutt"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Drain Punch"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Counter"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Poison Powder"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Mind Reader"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Worry Seed"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Growth"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Toxic"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Seed Bomb"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Giga Drain"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Dynamic Punch"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Force Palm"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Spore"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Sky Uppercut"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Substitute"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Fury Cutter"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Thunder Punch"
+        }
+    ]
+}

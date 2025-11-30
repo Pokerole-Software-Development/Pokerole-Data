@@ -1,0 +1,140 @@
+{
+    "Number": 1011,
+    "DexID": "1011",
+    "Name": "Dipplin",
+    "Type1": "Grass",
+    "Type2": "Dragon",
+    "BaseHP": 4,
+    "Strength": 2,
+    "MaxStrength": 5,
+    "Dexterity": 1,
+    "MaxDexterity": 3,
+    "Vitality": 3,
+    "MaxVitality": 6,
+    "Special": 3,
+    "MaxSpecial": 7,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Supersweet Syrup",
+    "Ability2": "",
+    "HiddenAbility": "Sticky Hold",
+    "EventAbilities": "",
+    "RecommendedRank": "Advanced",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "dipplin",
+    "DexCategory": "Candy Apple Pokémon",
+    "Height": {
+        "Meters": 0.4,
+        "Feet": 1.3
+    },
+    "Weight": {
+        "Kilograms": 4.0,
+        "Pounds": 9.0
+    },
+    "DexDescription": "There's actually two Pokémon living inside the candied apple, but they are very sweet to each other and don't mind sharing space. It is very unusual for Applin to evolve into this, as it requires a special apple.",
+    "Evolutions": [
+        {
+            "From": "Applin",
+            "Kind": "Item",
+            "Item": "Candy Apple"
+        },
+        {
+            "To": "Hydrapple",
+            "Kind": "Item",
+            "Item": "Syrupy Apple"
+        }
+    ],
+    "Image": "dipplin.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Withdraw"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Astonish"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Recycle"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Double Hit"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Growth"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Sweet Scent"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Dragon Tail"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Pounce"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Bullet Seed"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Reflect"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Sucker Punch"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Protect"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Dragon Breath"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Recover"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Syrup Bomb"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Gyro Ball"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Substitute"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Dragon Pulse"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Energy Ball"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Giga Drain"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Leaf Storm"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Draco Meteor"
+        }
+    ]
+}

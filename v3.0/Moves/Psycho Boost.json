@@ -1,0 +1,30 @@
+{
+    "Name": "Psycho Boost",
+    "Type": "Psychic",
+    "Power": 6,
+    "Damage1": "Special",
+    "Damage2": "",
+    "Accuracy1": "Special",
+    "Accuracy2": "Channel",
+    "Target": "Foe",
+    "Effect": "Single Target. Low Accuracy 1. Lethal. Unique. Reduce User's Special by 2.",
+    "Description": "The Pokémon releases an explosion of all of its concentrated psychic power in a devastating explosion, afterwards the user will be extremely tired.",
+    "_id": "psycho-boost",
+    "Attributes": {
+        "Lethal": true,
+        "AccuracyReduction": -1,
+        "Unique": true
+    },
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "Special"
+                ],
+                "Stages": -2,
+                "Affects": "User"
+            }
+        ]
+    },
+    "Category": "Special"
+}

@@ -1,0 +1,119 @@
+{
+    "Number": 759,
+    "DexID": "0759",
+    "Name": "Stufful",
+    "Type1": "Normal",
+    "Type2": "Fighting",
+    "BaseHP": 3,
+    "Strength": 2,
+    "MaxStrength": 5,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Fluffy",
+    "Ability2": "Cute Charm",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Rookie",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "stufful",
+    "DexCategory": "Flailing Pokémon",
+    "Height": {
+        "Meters": 0.5,
+        "Feet": 1.7
+    },
+    "Weight": {
+        "Kilograms": 7.0,
+        "Pounds": 15.0
+    },
+    "DexDescription": "Despite its adorable appearance it is a dangerous Pokémon. If anyone but its mother or Trainer touches it, it will respond by angrily flailing its arms around. They are popular pets but owners always regret it.",
+    "Evolutions": [
+        {
+            "To": "Bewear",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "stufful.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Leer"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Baby-Doll Eyes"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Bide"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Payback"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Brutal Swing"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Endure"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Strength"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Take Down"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Flail"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Hammer Arm"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Pain Split"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Thrash"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Double-Edge"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Superpower"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Stomping Tantrum"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Thunder Punch"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Ice Punch"
+        }
+    ]
+}

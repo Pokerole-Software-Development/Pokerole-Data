@@ -1,0 +1,19 @@
+{
+    "Name": "Wide Guard",
+    "Type": "Rock",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Vitality",
+    "Accuracy2": "Brawl",
+    "Target": "All Allies",
+    "Effect": "Target User and Allies in Range. Reaction 3. Shield Move. Reduce 3 Damage the Targets would receive from Physical or Special Move. Negate the Added Effects of Any Moves on the Targets.",
+    "Description": "The Pokémon uses their whole body to provide shelter and protection to everyone they can. They are the rock on which others stand.",
+    "_id": "wide-guard",
+    "Attributes": {
+        "ShieldMove": true,
+        "Reaction": "3"
+    },
+    "AddedEffects": {},
+    "Category": "Support"
+}

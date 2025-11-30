@@ -1,0 +1,20 @@
+{
+    "Name": "Icicle Spear",
+    "Type": "Ice",
+    "Power": 1,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Channel",
+    "Target": "Foe",
+    "Effect": "Single Target. Ranged. Successive Actions.",
+    "Description": "A barrage of icicles shot against the target. They are small but sharp and pointy",
+    "_id": "icicle-spear",
+    "Attributes": {
+        "PhysicalRanged": true,
+        "SuccessiveActions": true,
+        "Ranged": true
+    },
+    "AddedEffects": {},
+    "Category": "Physical"
+}

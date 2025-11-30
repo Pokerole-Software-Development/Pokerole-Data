@@ -1,0 +1,156 @@
+{
+    "Number": 282,
+    "DexID": "0282",
+    "Name": "Gardevoir",
+    "Type1": "Psychic",
+    "Type2": "Fairy",
+    "BaseHP": 5,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 2,
+    "MaxDexterity": 5,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 3,
+    "MaxSpecial": 7,
+    "Insight": 3,
+    "MaxInsight": 6,
+    "Ability1": "Synchronize",
+    "Ability2": "Trace",
+    "HiddenAbility": "Telepathy",
+    "EventAbilities": "",
+    "RecommendedRank": "Expert",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "gardevoir",
+    "DexCategory": "Embrace Pokémon",
+    "Height": {
+        "Meters": 1.6,
+        "Feet": 5.3
+    },
+    "Weight": {
+        "Kilograms": 48.0,
+        "Pounds": 106.0
+    },
+    "DexDescription": "If they sense danger, Gardevoir unleash a wave of psychic energy. They can distort this dimension and defy the laws of matter and physics. They risk their lives to protect their fellows.",
+    "Evolutions": [
+        {
+            "From": "Kirlia",
+            "Kind": "Special",
+            "Item": "Dawn Stone"
+        },
+        {
+            "To": "Gardevoir (Mega Form)",
+            "Kind": "Mega",
+            "Item": "Gardevoirite"
+        }
+    ],
+    "Image": "gardevoir.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Growl"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Disarming Voice"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Double Team"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Confusion"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Hypnosis"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Wish"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Draining Kiss"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Teleport"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Psybeam"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Life Dew"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Charm"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Calm Mind"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Magical Leaf"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Stored Power"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Psychic"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Dazzling Gleam"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Misty Terrain"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Imprison"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Dream Eater"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Moonblast"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Future Sight"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Heal Pulse"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Healing Wish"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Destiny Bond"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Expanding Force"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Memento"
+        }
+    ]
+}

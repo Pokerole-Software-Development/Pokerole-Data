@@ -1,0 +1,130 @@
+{
+    "Number": 645,
+    "DexID": "0645F1",
+    "Name": "Landorus (Therian Form)",
+    "Type1": "Ground",
+    "Type2": "Flying",
+    "BaseHP": 5,
+    "Strength": 8,
+    "MaxStrength": 8,
+    "Dexterity": 5,
+    "MaxDexterity": 5,
+    "Vitality": 5,
+    "MaxVitality": 5,
+    "Special": 6,
+    "MaxSpecial": 6,
+    "Insight": 5,
+    "MaxInsight": 5,
+    "Ability1": "Intimidate",
+    "Ability2": "",
+    "HiddenAbility": "Sheer Force",
+    "EventAbilities": "",
+    "RecommendedRank": "Ace",
+    "GenderType": "M",
+    "Legendary": true,
+    "GoodStarter": false,
+    "_id": "landorus-therian-form",
+    "DexCategory": "Pokédex has no data.",
+    "Height": {
+        "Meters": 1.3,
+        "Feet": 4.3
+    },
+    "Weight": {
+        "Kilograms": 68.0,
+        "Pounds": 150.0
+    },
+    "DexDescription": "Some Pokémon reveal their true forms after recovering power lost to them. Great forces of nature can help them recover their strength such as tornadoes, lightning, and even a landslide.",
+    "Evolutions": [
+        {
+            "From": "Landorus",
+            "Kind": "Form"
+        }
+    ],
+    "Image": "landorus-therian-form.png",
+    "Moves": [
+        {
+            "Learned": "Ace",
+            "Name": "Sand Tomb"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Rock Throw"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Leer"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Block"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Bulldoze"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Rock Tomb"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Swords Dance"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Imprison"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Rock Slide"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Earth Power"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Punishment"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Mud Shot"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Rototiller"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Dig"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Extrasensory"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Stone Edge"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Sandstorm"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Outrage"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Fissure"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Earthquake"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Hammer Arm"
+        }
+    ]
+}

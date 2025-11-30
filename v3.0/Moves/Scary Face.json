@@ -1,0 +1,26 @@
+{
+    "Name": "Scary Face",
+    "Type": "Normal",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Tough",
+    "Accuracy2": "Intimidate",
+    "Target": "Foe",
+    "Effect": "Single Target. Reduce the Target's Dexterity by 2.",
+    "Description": "When a Pokémon looks at you like THAT, you know you gotta thread carefully around them.",
+    "_id": "scary-face",
+    "Attributes": {},
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "Dexterity"
+                ],
+                "Stages": -2,
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Support"
+}

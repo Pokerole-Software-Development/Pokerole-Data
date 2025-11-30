@@ -1,0 +1,22 @@
+{
+    "Name": "Recover",
+    "Type": "Normal",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Special",
+    "Accuracy2": "Nature",
+    "Target": "Self",
+    "Effect": "Target Self. Basic Heal. If successful, spend 1 Will point to activate.",
+    "Description": "The Pokémon uses their energy to quickly mend wounds, their regenerative powers are beyond the imagination.",
+    "_id": "recover",
+    "Attributes": {},
+    "AddedEffects": {
+        "Heal": {
+            "Type": "Basic",
+            "Target": "Targets",
+            "WillPointCost": 1
+        }
+    },
+    "Category": "Support"
+}

@@ -1,0 +1,26 @@
+{
+    "Name": "Nasty Plot",
+    "Type": "Dark",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Clever",
+    "Accuracy2": "Alert",
+    "Target": "Self",
+    "Effect": "Target Self. Increase User's Special by 2.",
+    "Description": "Rubbing both hands and laughing sinisterly the Pokémon rejoices in the evil plans they’ll soon carry out.",
+    "_id": "nasty-plot",
+    "Attributes": {},
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "Special"
+                ],
+                "Stages": 2,
+                "Affects": "User"
+            }
+        ]
+    },
+    "Category": "Support"
+}

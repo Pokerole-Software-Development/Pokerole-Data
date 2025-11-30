@@ -1,0 +1,26 @@
+{
+    "Name": "Rock Climb",
+    "Type": "Normal",
+    "Power": 3,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Strength",
+    "Accuracy2": "Athletic",
+    "Target": "Foe",
+    "Effect": "Single Target. Low Accuracy 2. Roll 2 Chance Dice to Confuse the Target. Out of battle it aids to climb cliffs and mountains with ease.",
+    "Description": "The Pokémon climbs over the foe and rests atop of their head as if it were the top of a mountain. This results confusing for the foe.",
+    "_id": "rock-climb",
+    "Attributes": {
+        "AccuracyReduction": -2
+    },
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Confuse",
+                "Affects": "Targets",
+                "ChanceDice": 2
+            }
+        ]
+    },
+    "Category": "Physical"
+}

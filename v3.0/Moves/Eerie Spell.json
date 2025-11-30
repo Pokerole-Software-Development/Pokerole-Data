@@ -1,0 +1,18 @@
+{
+    "Name": "Eerie Spell",
+    "Type": "Psychic",
+    "Power": 3,
+    "Damage1": "Special",
+    "Damage2": "",
+    "Accuracy1": "Insight",
+    "Accuracy2": "Intimidate",
+    "Target": "Foe",
+    "Effect": "Single Target. Sound Move. Target spends 3 Will points without any benefit, this effect does not stack.",
+    "Description": "The Pokémon mutters ancient spell, forbidden words break the spirit to make the victim easier to manipulate.",
+    "_id": "eerie-spell",
+    "Attributes": {
+        "SoundMove": true
+    },
+    "AddedEffects": {},
+    "Category": "Special"
+}

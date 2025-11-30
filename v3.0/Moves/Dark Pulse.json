@@ -1,0 +1,24 @@
+{
+    "Name": "Dark Pulse",
+    "Type": "Dark",
+    "Power": 3,
+    "Damage1": "Special",
+    "Damage2": "",
+    "Accuracy1": "Insight",
+    "Accuracy2": "Channel",
+    "Target": "Random Foe",
+    "Effect": "Target Random Foe. Roll 2 Chance Dice to Flinch the Target.",
+    "Description": "A haze of dark energy decends on the battlefield preying on those vulnerable to the obscure feelings and fears it provokes.",
+    "_id": "dark-pulse",
+    "Attributes": {},
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Flinch",
+                "Affects": "Targets",
+                "ChanceDice": 2
+            }
+        ]
+    },
+    "Category": "Special"
+}

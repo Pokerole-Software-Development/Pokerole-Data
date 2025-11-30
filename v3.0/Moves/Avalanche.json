@@ -1,0 +1,18 @@
+{
+    "Name": "Avalanche",
+    "Type": "Ice",
+    "Power": 2,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Strength",
+    "Accuracy2": "Nature",
+    "Target": "Foe",
+    "Effect": "Single Target. Late Reaction 4. *If the User received damage from the target during this Turn add 2 Extra Dice to the Damage Pool. *If Snowy Weather is active add 2 Extra Dice to the Damage Pool.",
+    "Description": "The user covers themselves with a heavy snow coat, if anything disturbs the snow, it will fall like a heavy avalanche.",
+    "_id": "avalanche",
+    "Attributes": {
+        "LateReaction": "4"
+    },
+    "AddedEffects": {},
+    "Category": "Physical"
+}

@@ -1,0 +1,143 @@
+{
+    "Number": 3,
+    "DexID": "0003M1",
+    "Name": "Venusaur (Mega Form)",
+    "Type1": "Grass",
+    "Type2": "Poison",
+    "BaseHP": 6,
+    "Strength": 3,
+    "MaxStrength": 6,
+    "Dexterity": 2,
+    "MaxDexterity": 5,
+    "Vitality": 3,
+    "MaxVitality": 7,
+    "Special": 3,
+    "MaxSpecial": 7,
+    "Insight": 3,
+    "MaxInsight": 7,
+    "Ability1": "Thick Fat",
+    "Ability2": "",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Ace",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "venusaur-mega-form",
+    "DexCategory": "Seed Pokémon",
+    "Height": {
+        "Meters": 2.4,
+        "Feet": 8.0
+    },
+    "Weight": {
+        "Kilograms": 300,
+        "Pounds": 660
+    },
+    "DexDescription": "With the power of the Mega Stone, this Pokémon grows taller and thicker. Its bark and skin are now impervious to the elements. Its demeanor becomes even more serious and determined.",
+    "Evolutions": [
+        {
+            "From": "Venusaur",
+            "Kind": "Mega",
+            "Item": "Venusaurite"
+        }
+    ],
+    "Image": "venusaur-mega-form.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Growl"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Growth"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Vine Whip"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Leech Seed"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Razor Leaf"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Poison Powder"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Sleep Powder"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Seed Bomb"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Take Down"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Sweet Scent"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Synthesis"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Worry Seed"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Petal Blizzard"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Curse"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Toxic"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Venoshock"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Petal Dance"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Solar Beam"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Double-Edge"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Terrain Pulse"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Power Whip"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Outrage"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Frenzy Plant"
+        }
+    ]
+}

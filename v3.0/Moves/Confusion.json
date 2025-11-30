@@ -1,0 +1,24 @@
+{
+    "Name": "Confusion",
+    "Type": "Psychic",
+    "Power": 2,
+    "Damage1": "Special",
+    "Damage2": "",
+    "Accuracy1": "Insight",
+    "Accuracy2": "Channel",
+    "Target": "Foe",
+    "Effect": "Single Target. Roll 1 Chance Die to Confuse the Target.",
+    "Description": "A basic mental assault that makes the foe believe they are being attacked by an invisible enemy.",
+    "_id": "confusion",
+    "Attributes": {},
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Confuse",
+                "ChanceDice": 1,
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Special"
+}

@@ -1,0 +1,18 @@
+{
+    "Name": "Fairy Wind",
+    "Type": "Fairy",
+    "Power": 2,
+    "Damage1": "Special",
+    "Damage2": "",
+    "Accuracy1": "Special",
+    "Accuracy2": "Channel",
+    "Target": "Foe",
+    "Effect": "Single Target. Wind Move.",
+    "Description": "The Pokémon let’s out sweet a breeze of glittery fairy dust. It gives a mild rash to those without happy thoughts.",
+    "_id": "fairy-wind",
+    "Attributes": {
+        "WindMove": true
+    },
+    "AddedEffects": {},
+    "Category": "Special"
+}

@@ -1,0 +1,25 @@
+{
+    "Name": "Perish Song",
+    "Type": "Normal",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Beauty",
+    "Accuracy2": "Perform",
+    "Target": "Area",
+    "Effect": "Area Move. Sound Move. Three Rounds after this Move is used, deal damage to those affected equal to their remaining HP. Removing from battle prevents this effect.",
+    "Description": "A song for mourning the departed. Although it sounds beautiful, it fills the heart with grief and despair, making the listeners feel as if they were laying on their death bed.",
+    "_id": "perish-song",
+    "Attributes": {
+        "SoundMove": true
+    },
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "PerishSong",
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Support"
+}

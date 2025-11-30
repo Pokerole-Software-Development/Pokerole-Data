@@ -1,0 +1,143 @@
+{
+    "Number": 998,
+    "DexID": "0998",
+    "Name": "Baxcalibur",
+    "Type1": "Dragon",
+    "Type2": "Ice",
+    "BaseHP": 6,
+    "Strength": 4,
+    "MaxStrength": 8,
+    "Dexterity": 2,
+    "MaxDexterity": 5,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 2,
+    "MaxSpecial": 5,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Ice Body",
+    "Ability2": "Thermal Exchange",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Expert",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "baxcalibur",
+    "DexCategory": "Ice Dragon Pokémon",
+    "Height": {
+        "Meters": 2.1,
+        "Feet": 6.9
+    },
+    "Weight": {
+        "Kilograms": 210.0,
+        "Pounds": 463.0
+    },
+    "DexDescription": "The cryogenic air blasted from Baxcalibur's mouth is so cold it can freeze even lava. It launches itself into battle by flipping upside down to release its frigid breath and finishes off opponents with its dorsal blade.",
+    "Evolutions": [
+        {
+            "From": "Arctibax",
+            "Kind": "Level",
+            "Speed": "Slow"
+        }
+    ],
+    "Image": "baxcalibur.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Leer"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Dragon Tail"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Icy Wind"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Dragon Breath"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Focus Energy"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Bite"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Ice Fang"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Dragon Claw"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Ice Shard"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Snowscape"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Take Down"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Ice Beam"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Crunch"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Icicle Crash"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Breaking Swipe"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Swords Dance"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Brick Break"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Glaive Rush"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Dragon Rush"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Thunder Fang"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Earthquake"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Outrage"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Zen Headbutt"
+        }
+    ]
+}

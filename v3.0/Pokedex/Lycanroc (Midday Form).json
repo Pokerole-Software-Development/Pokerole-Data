@@ -1,0 +1,156 @@
+{
+    "Number": 745,
+    "DexID": "0745",
+    "Name": "Lycanroc (Midday Form)",
+    "Type1": "Rock",
+    "Type2": "",
+    "BaseHP": 5,
+    "Strength": 3,
+    "MaxStrength": 6,
+    "Dexterity": 3,
+    "MaxDexterity": 6,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Steadfast",
+    "Ability2": "Sand Rush",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Expert",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "lycanroc-midday-form",
+    "DexCategory": "Wolf Pokémon",
+    "Height": {
+        "Meters": 0.8,
+        "Feet": 2.6
+    },
+    "Weight": {
+        "Kilograms": 25.0,
+        "Pounds": 55.0
+    },
+    "DexDescription": "A well-disciplined Rockruff will evolve at dawn. This Pokémon is very loyal and trustworthy. It can climb mountains fast and is a quick runner. The rocks on its mane are its main weapons.",
+    "Evolutions": [
+        {
+            "From": "Rockruff",
+            "Kind": "Level",
+            "Speed": "Slow",
+            "Special": "Day"
+        }
+    ],
+    "Image": "lycanroc-midday-form.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Quick Attack"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Sand Attack"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Leer"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Rock Throw"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Quick Guard"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Accelerock"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Howl"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Double Team"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Rock Tomb"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Bite"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Roar"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Odor Sleuth"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Crunch"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Rock Slide"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Stealth Rock"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Sucker Punch"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Swords Dance"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Scary Face"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Rock Polish"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Fire Fang"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Thunder Fang"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Giga Impact"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Stone Edge"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Psychic Fangs"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Close Combat"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Sandstorm"
+        }
+    ]
+}

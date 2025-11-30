@@ -1,0 +1,135 @@
+{
+    "Number": 573,
+    "DexID": "0573",
+    "Name": "Cinccino",
+    "Type1": "Normal",
+    "Type2": "",
+    "BaseHP": 5,
+    "Strength": 3,
+    "MaxStrength": 6,
+    "Dexterity": 3,
+    "MaxDexterity": 6,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Technician",
+    "Ability2": "Skill Link",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Advanced",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "cinccino",
+    "DexCategory": "Scarf Pokémon",
+    "Height": {
+        "Meters": 0.5,
+        "Feet": 1.7
+    },
+    "Weight": {
+        "Kilograms": 7.0,
+        "Pounds": 16.0
+    },
+    "DexDescription": "Their fur feels amazing to the touch. It produces an oil that repels dust and prevents static electricity from building up. It loves to be groomed and pampered. The fur it sheds is highly valued for making fine clothing.",
+    "Evolutions": [
+        {
+            "From": "Minccino",
+            "Kind": "Stone",
+            "Item": "Shiny Stone"
+        }
+    ],
+    "Image": "cinccino.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Pound"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Baby-Doll Eyes"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Helping Hand"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Double Slap"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Echoed Voice"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Sing"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Charm"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Swift"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Encore"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "After You"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Tail Slap"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Tickle"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Slam"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Captivate"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Hyper Voice"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Wake-Up Slap"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Bullet Seed"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Rock Blast"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Last Resort"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Triple Axel"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Aqua Tail"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Fake Tears"
+        }
+    ]
+}

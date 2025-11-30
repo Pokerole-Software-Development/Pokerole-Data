@@ -1,0 +1,18 @@
+{
+    "Name": "Gust",
+    "Type": "Flying",
+    "Power": 2,
+    "Damage1": "Special",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Channel",
+    "Target": "Foe",
+    "Effect": "Single Target. Wind Move. If the Target is Out of Range due to using \"Fly\", \"Bounce\" or \"Sky Drop\", this Move hits anyway.",
+    "Description": "The Pokémon flaps their wings and strikes the foe with a swirl of wind. Pokémon in the air may get swept away",
+    "_id": "gust",
+    "Attributes": {
+        "WindMove": true
+    },
+    "AddedEffects": {},
+    "Category": "Special"
+}

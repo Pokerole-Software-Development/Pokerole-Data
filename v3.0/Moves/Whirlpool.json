@@ -1,0 +1,28 @@
+{
+    "Name": "Whirlpool",
+    "Type": "Water",
+    "Power": 2,
+    "Damage1": "Special",
+    "Damage2": "",
+    "Accuracy1": "Special",
+    "Accuracy2": "Channel",
+    "Target": "Foe",
+    "Effect": "Single Target. Low Accuracy 2. Blocks. Ongoing Damage. Increase the Target's difficulty to Evade at Storyteller's discretion. Duration 4 Rounds. If a Target is out of range due to using the Move \"Dive\", this Move hits anyways.",
+    "Description": "The foe is swallowed inside of a violent swirling whirlpool. Trapping them on the violent currents, barely managing to stay afloat.",
+    "_id": "whirlpool",
+    "Attributes": {
+        "BlockDamagePool": 2,
+        "AccuracyReduction": -2,
+        "OngoingDamage": true,
+        "Duration": 4
+    },
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Block",
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Special"
+}

@@ -1,0 +1,119 @@
+{
+    "Number": 119,
+    "DexID": "0119",
+    "Name": "Seaking",
+    "Type1": "Water",
+    "Type2": "",
+    "BaseHP": 5,
+    "Strength": 3,
+    "MaxStrength": 6,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Swift Swim",
+    "Ability2": "Lightning Rod",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Advanced",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "seaking",
+    "DexCategory": "Goldfish Pokémon",
+    "Height": {
+        "Meters": 1.4,
+        "Feet": 4.3
+    },
+    "Weight": {
+        "Kilograms": 60.0,
+        "Pounds": 132.0
+    },
+    "DexDescription": "In the autumn, Seaking males can be seen doing courtship dances to females. After getting a mate, both will be seen swimming powerfully up rivers and creeks to make their nest.",
+    "Evolutions": [
+        {
+            "From": "Goldeen",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "seaking.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Peck"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Water Sport"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Tail Whip"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Supersonic"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Water Pulse"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Poison Jab"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Horn Attack"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Soak"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Agility"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Aqua Ring"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Flail"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Waterfall"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Fury Attack"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Megahorn"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Horn Drill"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Mud Sport"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Bounce"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Drill Run"
+        }
+    ]
+}

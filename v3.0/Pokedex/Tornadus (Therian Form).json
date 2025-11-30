@@ -1,0 +1,126 @@
+{
+    "Number": 641,
+    "DexID": "0641F1",
+    "Name": "Tornadus (Therian Form)",
+    "Type1": "Flying",
+    "Type2": "",
+    "BaseHP": 5,
+    "Strength": 6,
+    "MaxStrength": 6,
+    "Dexterity": 7,
+    "MaxDexterity": 7,
+    "Vitality": 5,
+    "MaxVitality": 5,
+    "Special": 6,
+    "MaxSpecial": 6,
+    "Insight": 5,
+    "MaxInsight": 5,
+    "Ability1": "Regenerator",
+    "Ability2": "",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Ace",
+    "GenderType": "M",
+    "Legendary": true,
+    "GoodStarter": false,
+    "_id": "tornadus-therian-form",
+    "DexCategory": "Pokédex has no data",
+    "Height": {
+        "Meters": 1.5,
+        "Feet": 5.0
+    },
+    "Weight": {
+        "Kilograms": 63.0,
+        "Pounds": 138.0
+    },
+    "DexDescription": "Some Pokémon reveal their true forms after recovering power lost to them. Great forces of nature can help them recover their strength, such as tornadoes, lightning, and even a landslide.",
+    "Evolutions": [
+        {
+            "From": "Tornadus",
+            "Kind": "Form"
+        }
+    ],
+    "Image": "tornadus-therian-form.png",
+    "Moves": [
+        {
+            "Learned": "Ace",
+            "Name": "Astonish"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Gust"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Leer"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Bite"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Air Cutter"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Uproar"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Agility"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Tailwind"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Revenge"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Swagger"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Extrasensory"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Crunch"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Air Slash"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Dark Pulse"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Rain Dance"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Defog"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Whirlwind"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Thrash"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Hammer Arm"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Hurricane"
+        }
+    ]
+}

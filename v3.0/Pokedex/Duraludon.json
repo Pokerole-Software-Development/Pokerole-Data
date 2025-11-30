@@ -1,0 +1,129 @@
+{
+    "Number": 884,
+    "DexID": "0884",
+    "Name": "Duraludon",
+    "Type1": "Steel",
+    "Type2": "Dragon",
+    "BaseHP": 5,
+    "Strength": 3,
+    "MaxStrength": 6,
+    "Dexterity": 2,
+    "MaxDexterity": 5,
+    "Vitality": 3,
+    "MaxVitality": 6,
+    "Special": 3,
+    "MaxSpecial": 7,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Light Metal",
+    "Ability2": "Heavy Metal",
+    "HiddenAbility": "Stalwart",
+    "EventAbilities": "",
+    "RecommendedRank": "Expert",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "duraludon",
+    "DexCategory": "Alloy Pokémon",
+    "Height": {
+        "Meters": 1.8,
+        "Feet": 5.9
+    },
+    "Weight": {
+        "Kilograms": 40.0,
+        "Pounds": 88.0
+    },
+    "DexDescription": "Its body resembles a shiny polished metal and it's both lightweight and strong. The only drawback is that it rusts easily. It lives in dry climates and deep inside caves because rain and moisture make it cranky.",
+    "Evolutions": [],
+    "Image": "duraludon.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Metal Claw"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Leer"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Rock Smash"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Hone Claws"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Iron Head"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Protect"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Metal Sound"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Breaking Swipe"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Dragon Tail"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Iron Defense"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Laser Focus"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Dragon Claw"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Flash Cannon"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Reflect"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Swords Dance"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Night Slash"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Thunderbolt"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Metal Burst"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Hyper Beam"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Draco Meteor"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Steel Beam"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Body Press"
+        }
+    ]
+}

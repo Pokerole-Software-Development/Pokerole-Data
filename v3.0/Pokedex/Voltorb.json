@@ -1,0 +1,135 @@
+{
+    "Number": 100,
+    "DexID": "0100",
+    "Name": "Voltorb",
+    "Type1": "Electric",
+    "Type2": "",
+    "BaseHP": 3,
+    "Strength": 1,
+    "MaxStrength": 3,
+    "Dexterity": 3,
+    "MaxDexterity": 6,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Static",
+    "Ability2": "Soundproof",
+    "HiddenAbility": "Aftermath",
+    "EventAbilities": "",
+    "RecommendedRank": "Standard",
+    "GenderType": "N",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "voltorb",
+    "DexCategory": "Ball Pokémon",
+    "Height": {
+        "Meters": 0.5,
+        "Feet": 1.7
+    },
+    "Weight": {
+        "Kilograms": 10.0,
+        "Pounds": 22.0
+    },
+    "DexDescription": "They live near factories and electric generators. It bears an uncanny and unexplained resemblance to a Poké Ball. Since it explodes at the slightest provocation, even veteran trainers treat it with caution.",
+    "Evolutions": [
+        {
+            "To": "Electrode",
+            "Kind": "Level",
+            "Speed": "Slow"
+        }
+    ],
+    "Image": "voltorb.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Charge"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Sonic Boom"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Thunder Shock"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Eerie Impulse"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Flash"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Spark"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Rollout"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Screech"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Charge Beam"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Light Screen"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Electro Ball"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Self Destruct"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Swift"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Discharge"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Magnet Rise"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Mirror Coat"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Gyro Ball"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Explosion"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Foul Play"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Sucker Punch"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Endure"
+        }
+    ]
+}

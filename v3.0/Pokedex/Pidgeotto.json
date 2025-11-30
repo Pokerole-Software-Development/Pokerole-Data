@@ -1,0 +1,132 @@
+{
+    "Number": 17,
+    "DexID": "0017",
+    "Name": "Pidgeotto",
+    "Type1": "Normal",
+    "Type2": "Flying",
+    "BaseHP": 4,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 2,
+    "MaxDexterity": 5,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Keen Eye",
+    "Ability2": "Tangled Feet",
+    "HiddenAbility": "Big Pecks",
+    "EventAbilities": "",
+    "RecommendedRank": "Standard",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "pidgeotto",
+    "DexCategory": "Bird Pokémon",
+    "Height": {
+        "Meters": 1.1,
+        "Feet": 3.6
+    },
+    "Weight": {
+        "Kilograms": 30.0,
+        "Pounds": 66.0
+    },
+    "DexDescription": "Each Pidgeotto claims a large meadow area as its territory. This Pokémon flies around, patrolling its home and will attack any intruders with its sharp claws. It will challenge itself to fly a bit higher every day.",
+    "Evolutions": [
+        {
+            "From": "Pidgey",
+            "Kind": "Level",
+            "Speed": "Medium"
+        },
+        {
+            "To": "Pidgeot",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "pidgeotto.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Sand Attack"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Gust"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Quick Attack"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Whirlwind"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Twister"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Feather Dance"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Agility"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Wing Attack"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Mirror Move"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Tailwind"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Aerial Ace"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Steel Wing"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Uproar"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Air Slash"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Roost"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Hurricane"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Brave Bird"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Feint Attack"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Fly"
+        }
+    ]
+}

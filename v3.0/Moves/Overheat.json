@@ -1,0 +1,29 @@
+{
+    "Name": "Overheat",
+    "Type": "Fire",
+    "Power": 6,
+    "Damage1": "Special",
+    "Damage2": "",
+    "Accuracy1": "Special",
+    "Accuracy2": "Channel",
+    "Target": "Foe",
+    "Effect": "Single Target. Low Accuracy 1. Lethal. Reduce User's Special by 2.",
+    "Description": "A furious scorching flame that turns everything on the user’s radius to ash. This incredible destructive display leaves the user exhausted.",
+    "_id": "overheat",
+    "Attributes": {
+        "Lethal": true,
+        "AccuracyReduction": -1
+    },
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "Special"
+                ],
+                "Stages": -2,
+                "Affects": "User"
+            }
+        ]
+    },
+    "Category": "Special"
+}

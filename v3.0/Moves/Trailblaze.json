@@ -1,0 +1,26 @@
+{
+    "Name": "Trailblaze",
+    "Type": "Grass",
+    "Power": 2,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Stealth",
+    "Target": "Foe",
+    "Effect": "Single Target. Increase the User's Dexterity by 1.",
+    "Description": "With their nimble footwork. the user leaps out of the tall grass to take the foe by surprise.",
+    "_id": "trailblaze",
+    "Attributes": {},
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "Dexterity"
+                ],
+                "Stages": 1,
+                "Affects": "User"
+            }
+        ]
+    },
+    "Category": "Physical"
+}

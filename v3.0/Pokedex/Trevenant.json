@@ -1,0 +1,138 @@
+{
+    "Number": 709,
+    "DexID": "0709",
+    "Name": "Trevenant",
+    "Type1": "Ghost",
+    "Type2": "Grass",
+    "BaseHP": 5,
+    "Strength": 3,
+    "MaxStrength": 6,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Natural Cure",
+    "Ability2": "Harvest",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Advanced",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "trevenant",
+    "DexCategory": "Elder Tree Pokémon",
+    "Height": {
+        "Meters": 1.5,
+        "Feet": 5.0
+    },
+    "Weight": {
+        "Kilograms": 71.0,
+        "Pounds": 156.0
+    },
+    "DexDescription": "Using its roots as a nervous system, it controls the trees in the forest. It's kind to the Pokémon that reside inside its body, but it is ruthless to anyone that harms its forest, turning them into haunted trees forever.",
+    "Evolutions": [
+        {
+            "From": "Phantump",
+            "Kind": "Trade"
+        }
+    ],
+    "Image": "trevenant.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Astonish"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Branch Poke"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Leech Seed"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Confuse Ray"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Will-O-Wisp"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Hex"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Growth"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Feint Attack"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Horn Leech"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Curse"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Ingrain"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Imprison"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Disable"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Shadow Claw"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Brutal Swing"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Phantom Force"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Wood Hammer"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Destiny Bond"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Forest's Curse"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Venom Drench"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Grudge"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Trick Room"
+        }
+    ]
+}

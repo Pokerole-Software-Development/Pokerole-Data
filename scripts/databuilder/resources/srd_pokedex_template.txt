@@ -1,0 +1,32 @@
+# {name} 
+
+> [!grid]
+> ![[{booksprite}|wsmall]]
+> ![[{homesprite}]]
+
+*{dexcategory}*
+*{dexdescription}*
+
+**DexID**: {dexid}
+**Name**: {name}
+**Type**: {typeline}
+**Abilities**: {abilities}
+**Base HP**: {basehp}
+
+|           |                 |                |
+| --------- | --------------- | -------------- |
+| Strength  | {strengthdots}  | {strengthraw}  |
+| Dexterity | {dexteritydots} | {dexterityraw} |
+| Vitality  | {vitalitydots}  | {vitalityraw}  |
+| Special   | {specialdots}   | {specialraw}   |
+| Insight   | {insightdots}   | {insightraw}   |
+
+**Height**: {feet}'{inches}" / {meters}m
+**Weight**: {pounds}lbs / {kilograms}kg
+**Good Starter**:: {goodstarter}
+**Recommended Rank**:: {recommendedrank}
+{evostring}
+
+## Learnset
+
+![[{learnset}]]

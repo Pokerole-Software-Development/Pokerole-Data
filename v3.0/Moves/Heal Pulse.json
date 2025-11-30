@@ -1,0 +1,22 @@
+{
+    "Name": "Heal Pulse",
+    "Type": "Psychic",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Will",
+    "Accuracy2": "Channel",
+    "Target": "Ally",
+    "Effect": "Target One Ally. Basic Heal. If successful, spend 1 Will point to activate.",
+    "Description": "Commanding the mind over the matter, the Pokémon speeds up the healing process on an ally.",
+    "_id": "heal-pulse",
+    "Attributes": {},
+    "AddedEffects": {
+        "Heal": {
+            "Type": "Basic",
+            "Target": "Targets",
+            "WillPointCost": 1
+        }
+    },
+    "Category": "Support"
+}

@@ -1,0 +1,158 @@
+{
+    "Number": 646,
+    "DexID": "0646F1",
+    "Name": "Kyurem (Black Form)",
+    "Type1": "Dragon",
+    "Type2": "Ice",
+    "BaseHP": 7,
+    "Strength": 9,
+    "MaxStrength": 9,
+    "Dexterity": 6,
+    "MaxDexterity": 6,
+    "Vitality": 6,
+    "MaxVitality": 6,
+    "Special": 7,
+    "MaxSpecial": 7,
+    "Insight": 5,
+    "MaxInsight": 5,
+    "Ability1": "Teravolt",
+    "Ability2": "",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Master",
+    "GenderType": "N",
+    "Legendary": true,
+    "GoodStarter": false,
+    "_id": "kyurem-black-form",
+    "DexCategory": "Pokédex has no data.",
+    "Height": {
+        "Meters": 3.3,
+        "Feet": 10.8
+    },
+    "Weight": {
+        "Kilograms": 325.0,
+        "Pounds": 716.0
+    },
+    "DexDescription": "In the icy mountains at the east of Unova, you can hear the wails of a creature suffering as if it missed a part of its very soul. Dark clouds and lightning are sure to follow.",
+    "Evolutions": [
+        {
+            "From": "Kyurem",
+            "Kind": "Form"
+        }
+    ],
+    "Image": "kyurem-black-form.png",
+    "Moves": [
+        {
+            "Learned": "Master",
+            "Name": "Dragon Rage"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Dragon Breath"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Noble Roar"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Ancient Power"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Freeze Dry"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Slash"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Endeavor"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Icy Wind"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Dragon Pulse"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Ice Beam"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Hail"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Hyper Voice"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Blizzard"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Imprison"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Aurora Veil"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Scary Face"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Mist"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Haze"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Recover"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Substitute"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Sheer Cold"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Future Sight"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Outrage"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Glaciate"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Draco Meteor"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Topsy-Turvy"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Fusion Bolt"
+        },
+        {
+            "Learned": "Master",
+            "Name": "Bolt Strike"
+        }
+    ]
+}

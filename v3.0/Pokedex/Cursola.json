@@ -1,0 +1,135 @@
+{
+    "Number": 864,
+    "DexID": "0864",
+    "Name": "Cursola",
+    "Type1": "Ghost",
+    "Type2": "",
+    "BaseHP": 5,
+    "Strength": 3,
+    "MaxStrength": 6,
+    "Dexterity": 1,
+    "MaxDexterity": 3,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 4,
+    "MaxSpecial": 8,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Weak Armor",
+    "Ability2": "Perish Body",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Advanced",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "cursola",
+    "DexCategory": "Coral Pokémon",
+    "Height": {
+        "Meters": 1.0,
+        "Feet": 3.3
+    },
+    "Weight": {
+        "Kilograms": 0.4,
+        "Pounds": 1.0
+    },
+    "DexDescription": "The ectoplasm serves as protection for its soul; do not touch it or you'll become stiff as stone. This Pokémon longs for the days where coral reefs were full of life. It holds a grudge against those who destroyed them.",
+    "Evolutions": [
+        {
+            "From": "Corsola (Galarian Form)",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "cursola.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Harden"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Astonish"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Disable"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Spite"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Ancient Power"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Hex"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Nature Power"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Shadow Ball"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Curse"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Strength Sap"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Power Gem"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Night Shade"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Grudge"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Iron Defense"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Self Destruct"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Mirror Coat"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Perish Song"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Head Smash"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Meteor Beam"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Liquidation"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Destiny Bond"
+        }
+    ]
+}

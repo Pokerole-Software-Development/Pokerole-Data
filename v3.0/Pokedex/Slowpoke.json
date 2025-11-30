@@ -1,0 +1,132 @@
+{
+    "Number": 79,
+    "DexID": "0079",
+    "Name": "Slowpoke",
+    "Type1": "Water",
+    "Type2": "Psychic",
+    "BaseHP": 3,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 1,
+    "MaxDexterity": 2,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 1,
+    "MaxSpecial": 3,
+    "Insight": 1,
+    "MaxInsight": 3,
+    "Ability1": "Oblivious",
+    "Ability2": "Own Tempo",
+    "HiddenAbility": "Regenerator",
+    "EventAbilities": "",
+    "RecommendedRank": "Rookie",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "slowpoke",
+    "DexCategory": "Dopey Pokémon",
+    "Height": {
+        "Meters": 1.2,
+        "Feet": 4.0
+    },
+    "Weight": {
+        "Kilograms": 36.0,
+        "Pounds": 80.0
+    },
+    "DexDescription": "It lives close to water. This Pokémon has a low intellect, and it's slow to react to any stimuli. Its tail seeps a sweet substance it uses to lure prey to eat. When the tip turns white, Shellder will be attracted to it.",
+    "Evolutions": [
+        {
+            "To": "Slowbro",
+            "Kind": "Special",
+            "Special": "Shellder Biting Tail"
+        },
+        {
+            "To": "Slowking",
+            "Kind": "Trade",
+            "Item": "King's Rock"
+        }
+    ],
+    "Image": "slowpoke.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Yawn"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Curse"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Growl"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Water Gun"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Confusion"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Disable"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Headbutt"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Water Pulse"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Zen Headbutt"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Slack Off"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Amnesia"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Surf"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Psychic"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Psych Up"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Rain Dance"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Heal Pulse"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Icy Wind"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Future Sight"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Mud Sport"
+        }
+    ]
+}

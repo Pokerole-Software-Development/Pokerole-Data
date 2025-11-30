@@ -1,0 +1,18 @@
+{
+    "Name": "Outrage",
+    "Type": "Dragon",
+    "Power": 5,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Strength",
+    "Accuracy2": "Brawl",
+    "Target": "Random Foe",
+    "Effect": "Target Random Foe. Rampage.",
+    "Description": "The true nature of dragon-types unleashed. The user is consumed by a primal fury that won’t stop until everything has ben razed to the ground. Afterwards the Pokémon is confused.",
+    "_id": "outrage",
+    "Attributes": {
+        "Rampage": true
+    },
+    "AddedEffects": {},
+    "Category": "Physical"
+}

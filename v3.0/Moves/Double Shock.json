@@ -1,0 +1,19 @@
+{
+    "Name": "Double Shock",
+    "Type": "Electric",
+    "Power": 7,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Will",
+    "Accuracy2": "Channel",
+    "Target": "Foe",
+    "Effect": "Single Target. Lethal. After damage is dealt, the user loses its Electric-Type. If its only type was Electric, it is now Typeless. User's Physical & Special Electric-Type Moves have Power 0. Whole Scene Duration. This effect does not end by switching out the User.",
+    "Description": "The user lets out a colossal discharge of electricity, lightning connecting the sky and earth for way too long. However, the effort effectively depletes the energy reserves of the user.",
+    "_id": "double-shock",
+    "Attributes": {
+        "Duration": "wholeScene",
+        "Lethal": true
+    },
+    "AddedEffects": {},
+    "Category": "Physical"
+}

@@ -1,0 +1,146 @@
+{
+    "Number": 875,
+    "DexID": "0875",
+    "Name": "Eiscue",
+    "Type1": "Ice",
+    "Type2": "",
+    "BaseHP": 5,
+    "Strength": 2,
+    "MaxStrength": 5,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 3,
+    "MaxVitality": 6,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Ice Face",
+    "Ability2": "",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Advanced",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "eiscue",
+    "DexCategory": "Penguin Pokemon",
+    "Height": {
+        "Meters": 1.4,
+        "Feet": 4.6
+    },
+    "Weight": {
+        "Kilograms": 89.0,
+        "Pounds": 196.0
+    },
+    "DexDescription": "This Pokemon keeps its head cool with ice. It fishes for its food by dangling its single hair into the sea to lure in prey. When they tire of swimming they simply let their ice head be drifted away by the sea.",
+    "Evolutions": [
+        {
+            "To": "Eiscue (No Ice Form)",
+            "Kind": "Form"
+        }
+    ],
+    "Image": "eiscue.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Mist"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Powder Snow"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Icy Wind"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Weather Ball"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Headbutt"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Iron Head"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Protect"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Avalanche"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Soak"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Amnesia"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Hail"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Freeze Dry"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Aurora Veil"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Whirlpool"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Icicle Crash"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Iron Defense"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Agility"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Surf"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Aqua Ring"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Head Smash"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Blizzard"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Liquidation"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Belly Drum"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Substitute"
+        }
+    ]
+}

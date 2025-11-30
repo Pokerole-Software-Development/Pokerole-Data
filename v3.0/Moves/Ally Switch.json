@@ -1,0 +1,19 @@
+{
+    "Name": "Ally Switch",
+    "Type": "Psychic",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Channel",
+    "Target": "Self",
+    "Effect": "Target Self. Reaction 3. Switcher Move for the User. If successful, restore the Action this Move costed and the switched ally may use a Reaction when they enter the field.",
+    "Description": "The user vanishes just as they were about to be hit, and suddenly there’s another Pokémon in their place. Di-Did the user disappear? Or was it never there to begin with?",
+    "_id": "ally-switch",
+    "Attributes": {
+        "SwitcherMove": "User",
+        "Reaction": "3"
+    },
+    "AddedEffects": {},
+    "Category": "Support"
+}

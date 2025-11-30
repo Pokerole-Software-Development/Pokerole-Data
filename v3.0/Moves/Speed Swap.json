@@ -1,0 +1,27 @@
+{
+    "Name": "Speed Swap",
+    "Type": "Psychic",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Insight",
+    "Accuracy2": "Channel",
+    "Target": "Foe",
+    "Effect": "Single Target. Switch the User's Dexterity with the Target's.",
+    "Description": "This move allows the user to release its power. If the user has any boosts, the damage is increased.",
+    "_id": "speed-swap",
+    "Attributes": {},
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "SpeedSwap",
+                "Affects": "User"
+            },
+            {
+                "Type": "SpeedSwap",
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Support"
+}

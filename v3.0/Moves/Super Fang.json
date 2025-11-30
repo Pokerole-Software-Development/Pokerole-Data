@@ -1,0 +1,27 @@
+{
+    "Name": "Super Fang",
+    "Type": "Normal",
+    "Power": 0,
+    "Damage1": "Varies",
+    "Damage2": "",
+    "Accuracy1": "Strength/Dexterity",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "Single Target. Low Accuracy 1. Bite Move. Roll Normal-Type Damage Dice equal to Half of the Target's remaining HP. Up to 10 Dice may be rolled this way. Ignore Defenses.",
+    "Description": "The Pokémon jumps to bite a chunk off their Target with their mighty fangs. After each bite there’s less and less foe to take chunks off.",
+    "_id": "super-fang",
+    "Attributes": {
+        "AccuracyReduction": -1,
+        "IgnoreDefenses": true,
+        "BiteMove": true
+    },
+    "AddedEffects": {
+        "FixedDamage": {
+            "Type": "HpPercentage",
+            "Value": 0.5,
+            "MaxValue": 10,
+            "Target": "Targets"
+        }
+    },
+    "Category": "Physical"
+}

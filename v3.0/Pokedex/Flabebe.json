@@ -1,0 +1,115 @@
+{
+    "Number": 669,
+    "DexID": "0669",
+    "Name": "Flabébé",
+    "Type1": "Fairy",
+    "Type2": "",
+    "BaseHP": 3,
+    "Strength": 1,
+    "MaxStrength": 3,
+    "Dexterity": 1,
+    "MaxDexterity": 3,
+    "Vitality": 1,
+    "MaxVitality": 3,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Flower Veil",
+    "Ability2": "Symbiosis",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Starter",
+    "GenderType": "F",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "flabebe",
+    "DexCategory": "Single Bloom Pokémon",
+    "Height": {
+        "Meters": 0.1,
+        "Feet": 0.3
+    },
+    "Weight": {
+        "Kilograms": 0.1,
+        "Pounds": 0.2
+    },
+    "DexDescription": "This species is female-only. They are so tiny it is difficult to spot them in the wild. They pick a flower as soon as they are born and it becomes a part of their body. These small Pokémon are shy but adorable.",
+    "Evolutions": [
+        {
+            "To": "Floette",
+            "Kind": "Level",
+            "Speed": "Fast"
+        }
+    ],
+    "Image": "flabebe.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Vine Whip"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Fairy Wind"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Lucky Chant"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Razor Leaf"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Wish"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Magical Leaf"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Grassy Terrain"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Petal Blizzard"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Aromatherapy"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Misty Terrain"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Moonblast"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Petal Dance"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Solar Beam"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Tearful Look"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Camouflage"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Magic Coat"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "Name": "Defense Curl",
+    "Type": "Normal",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Vitality",
+    "Accuracy2": "Brawl",
+    "Target": "Self",
+    "Effect": "Target Self. Increase the User's Defense by 1. Increase by 1 the Power of the Moves \"Ice Ball\" & \"Rollout\".",
+    "Description": "The user curls into a ball to protect themselves when they feel threatened.",
+    "_id": "defense-curl",
+    "Attributes": {},
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "Def"
+                ],
+                "Stages": 1,
+                "Affects": "User"
+            }
+        ]
+    },
+    "Category": "Support"
+}

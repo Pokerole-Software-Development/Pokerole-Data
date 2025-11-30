@@ -1,0 +1,20 @@
+{
+    "Name": "Psychic Terrain",
+    "Type": "Psychic",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Special",
+    "Accuracy2": "Nature",
+    "Target": "Battlefield",
+    "Effect": "Target Battlefield. Add 1 Extra Damage Dice to all Physical & Special Psychic-Type Moves. Pokemon without immunity to Ground can't use Moves with Reaction or Late Reaction. Duration 4 Rounds.",
+    "Description": "The arena becomes radiated by psychic waves. Everyone feels their mind slog due to the buzz in their heads, making all tasks take longer than they should.",
+    "_id": "psychic-terrain",
+    "Attributes": {
+        "Duration": 4
+    },
+    "AddedEffects": {
+        "TerrainEffect": "PsychicTerrain"
+    },
+    "Category": "Support"
+}

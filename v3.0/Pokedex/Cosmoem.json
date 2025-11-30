@@ -1,0 +1,69 @@
+{
+    "Number": 790,
+    "DexID": "0790",
+    "Name": "Cosmoem",
+    "Type1": "Psychic",
+    "Type2": "",
+    "BaseHP": 4,
+    "Strength": 3,
+    "MaxStrength": 3,
+    "Dexterity": 3,
+    "MaxDexterity": 3,
+    "Vitality": 7,
+    "MaxVitality": 7,
+    "Special": 3,
+    "MaxSpecial": 3,
+    "Insight": 7,
+    "MaxInsight": 7,
+    "Ability1": "Sturdy",
+    "Ability2": "",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Standard",
+    "GenderType": "N",
+    "Legendary": true,
+    "GoodStarter": false,
+    "_id": "cosmoem",
+    "DexCategory": "Pokédex has no data.",
+    "Height": {
+        "Meters": 0.1,
+        "Feet": 0.3
+    },
+    "Weight": {
+        "Kilograms": 1000.0,
+        "Pounds": 2204.0
+    },
+    "DexDescription": "The creature observed through the telescope changed shapes and remained motionless for the rest of the investigation. A strange energy was gathering on its core.",
+    "Evolutions": [
+        {
+            "From": "Cosmog",
+            "Kind": "Level",
+            "Speed": "Unknown"
+        },
+        {
+            "To": "Solgaleo",
+            "Kind": "Level",
+            "Game": "Sword"
+        },
+        {
+            "To": "Lunala",
+            "Kind": "Level",
+            "Game": "Shield"
+        }
+    ],
+    "Image": "cosmoem.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Splash"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Teleport"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Cosmic Power"
+        }
+    ]
+}

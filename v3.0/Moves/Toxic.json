@@ -1,0 +1,25 @@
+{
+    "Name": "Toxic",
+    "Type": "Poison",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Special",
+    "Accuracy2": "Channel",
+    "Target": "Foe",
+    "Effect": "Single Target. Low Accuracy 2. Badly Poison the Target.",
+    "Description": "This burning acid dissolves skin to enter the bloodstream directly. The poor victim feels like they are melting from the inside out. The clock is ticking.",
+    "_id": "toxic",
+    "Attributes": {
+        "AccuracyReduction": -2
+    },
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "BadlyPoison",
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Support"
+}

@@ -1,0 +1,129 @@
+{
+    "Number": 896,
+    "DexID": "0896",
+    "Name": "Glastrier",
+    "Type1": "Ice",
+    "Type2": "",
+    "BaseHP": 6,
+    "Strength": 7,
+    "MaxStrength": 7,
+    "Dexterity": 3,
+    "MaxDexterity": 3,
+    "Vitality": 7,
+    "MaxVitality": 7,
+    "Special": 4,
+    "MaxSpecial": 4,
+    "Insight": 6,
+    "MaxInsight": 6,
+    "Ability1": "Chilling Neigh",
+    "Ability2": "",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Ace",
+    "GenderType": "N",
+    "Legendary": true,
+    "GoodStarter": false,
+    "_id": "glastrier",
+    "DexCategory": "Pokédex has no data.",
+    "Height": {
+        "Meters": 2.2,
+        "Feet": 7.3
+    },
+    "Weight": {
+        "Kilograms": 800.0,
+        "Pounds": 1763.0
+    },
+    "DexDescription": "There have been sightings of a horse galloping through blizzards in the Galar region. People who claim to have seen it say its cries are terrifying and that the creature goes away when the weather improves.",
+    "Evolutions": [],
+    "Image": "glastrier.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Tail Whip"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Double Kick"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Avalanche"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Stomp"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Torment"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Mist"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Icicle Crash"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Take Down"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Iron Defense"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Thrash"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Taunt"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Double-Edge"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Swords Dance"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Lash Out"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Heavy Slam"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Stomping Tantrum"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Smart Strike"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Body Press"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "High Horsepower"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Icicle Spear"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Giga Impact"
+        }
+    ]
+}

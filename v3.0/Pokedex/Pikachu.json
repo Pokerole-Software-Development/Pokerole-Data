@@ -1,0 +1,155 @@
+{
+    "Number": 25,
+    "DexID": "0025",
+    "Name": "Pikachu",
+    "Type1": "Electric",
+    "Type2": "",
+    "BaseHP": 4,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 2,
+    "MaxDexterity": 5,
+    "Vitality": 1,
+    "MaxVitality": 3,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Static",
+    "Ability2": "Lightning Rod",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Rookie",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "pikachu",
+    "DexCategory": "Mouse Pokémon",
+    "Height": {
+        "Meters": 0.4,
+        "Feet": 1.3
+    },
+    "Weight": {
+        "Kilograms": 6.0,
+        "Pounds": 13.0
+    },
+    "DexDescription": "They live in forests, forming small groups but they mostly stay hidden. Pikachu stores electricity inside the sacs on its cheeks and uses its tail to ground the excess charge. They can take on foes bigger than them.",
+    "Evolutions": [
+        {
+            "From": "Pichu",
+            "Kind": "Stat",
+            "Stat": "Happiness",
+            "Value": 4
+        },
+        {
+            "To": "Raichu",
+            "Kind": "Stone",
+            "Item": "Thunder Stone"
+        },
+        {
+            "To": "Raichu (Alolan Form)",
+            "Kind": "Stone",
+            "Item": "Thunder Stone",
+            "Region": "Alola"
+        }
+    ],
+    "Image": "pikachu.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Thunder Shock"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Tail Whip"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Growl"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Play Nice"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Thunder Wave"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Quick Attack"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Double Team"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Electro Ball"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Nuzzle"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Spark"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Feint"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Slam"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Agility"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Light Screen"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Discharge"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Thunderbolt"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Thunder"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Wild Charge"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Extreme Speed"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Volt Tackle"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Splishy Splash"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Floaty Fall"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Zippy Zap"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Pika Papow"
+        }
+    ]
+}

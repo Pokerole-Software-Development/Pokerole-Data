@@ -1,0 +1,26 @@
+{
+    "Name": "Ingrain",
+    "Type": "Grass",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Special",
+    "Accuracy2": "Nature",
+    "Target": "Self",
+    "Effect": "Target Self. The User heals 1 HP at the end of each Round. Spend 1 Will point to activate. Blocks. Whole Scene Duration.",
+    "Description": "The Pokémon roots themselves to absorb nutrients directly from the ground.",
+    "_id": "ingrain",
+    "Attributes": {
+        "BlockDamagePool": 0,
+        "Duration": "wholeScene"
+    },
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Ingrain",
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Support"
+}

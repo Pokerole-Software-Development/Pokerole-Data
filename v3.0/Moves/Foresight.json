@@ -1,0 +1,23 @@
+{
+    "Name": "Foresight",
+    "Type": "Normal",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Insight",
+    "Accuracy2": "Alert",
+    "Target": "Foe",
+    "Effect": "Single Target. The Foe cannot Evade Moves performed by the User. User ignores Ghost-Type immunity to Normal and Fight-Type Moves and vice versa.",
+    "Description": "The Pokémon uses their honed senses and mental agility to predict the next movement of their foe.",
+    "_id": "foresight",
+    "Attributes": {},
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "ForesightOdorSleuth",
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Support"
+}

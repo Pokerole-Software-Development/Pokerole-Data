@@ -1,0 +1,16 @@
+{
+    "Name": "Venom Drench",
+    "Type": "Poison",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Special",
+    "Accuracy2": "Channel",
+    "Target": "All Foes",
+    "Effect": "Target All Foes in Range. *If the affected are already Poisoned or becomes Poisoned in the same Round this Move was used, Reduce by 1 their Strength, Special and Dexterity.",
+    "Description": "The user weakens the foe’s already compromised immune systems.",
+    "_id": "venom-drench",
+    "Attributes": {},
+    "AddedEffects": {},
+    "Category": "Support"
+}

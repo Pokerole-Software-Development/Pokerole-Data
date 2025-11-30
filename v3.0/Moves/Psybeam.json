@@ -1,0 +1,24 @@
+{
+    "Name": "Psybeam",
+    "Type": "Psychic",
+    "Power": 2,
+    "Damage1": "Special",
+    "Damage2": "",
+    "Accuracy1": "Insight",
+    "Accuracy2": "Channel",
+    "Target": "Foe",
+    "Effect": "Single Target. Roll 1 Chance Die to Confuse the Target.",
+    "Description": "The foe’s mind isassaulted by a mental ray, afterwards they may suffer from hallucinations.",
+    "_id": "psybeam",
+    "Attributes": {},
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Confuse",
+                "Affects": "Targets",
+                "ChanceDice": 1
+            }
+        ]
+    },
+    "Category": "Special"
+}

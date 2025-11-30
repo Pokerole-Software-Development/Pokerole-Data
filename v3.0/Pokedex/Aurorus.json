@@ -1,0 +1,147 @@
+{
+    "Number": 699,
+    "DexID": "0699",
+    "Name": "Aurorus",
+    "Type1": "Rock",
+    "Type2": "Ice",
+    "BaseHP": 7,
+    "Strength": 2,
+    "MaxStrength": 5,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 3,
+    "MaxSpecial": 6,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Refrigerate",
+    "Ability2": "Snow Warning",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Advanced",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "aurorus",
+    "DexCategory": "Tundra Pokémon",
+    "Height": {
+        "Meters": 2.7,
+        "Feet": 9.0
+    },
+    "Weight": {
+        "Kilograms": 900.0,
+        "Pounds": 1980.0
+    },
+    "DexDescription": "It produced a freezing cold mist from the crystals on its sides and relied on size to deter predators. It also created tall walls of ice to block them. The one restored from a fossil is calm and has adapted well.",
+    "Evolutions": [
+        {
+            "From": "Amaura",
+            "Kind": "Level",
+            "Speed": "Slow"
+        }
+    ],
+    "Image": "aurorus.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Powder Snow"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Growl"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Encore"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Ancient Power"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Icy Wind"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Round"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Mist"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Aurora Beam"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Thunder Wave"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Nature Power"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Rock Throw"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Freeze Dry"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Ice Beam"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Take Down"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Mirror Coat"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Flash Cannon"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Avalanche"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Light Screen"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Hail"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Blizzard"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Hyper Beam"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Outrage"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Discharge"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Iron Defense"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Meteor Beam"
+        }
+    ]
+}

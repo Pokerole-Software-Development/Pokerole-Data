@@ -1,0 +1,24 @@
+{
+    "Name": "Flamethrower",
+    "Type": "Fire",
+    "Power": 3,
+    "Damage1": "Special",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Channel",
+    "Target": "Foe",
+    "Effect": "Single Target. Roll 1 Chance Die to inflict 2nd Degree Burn on the Target.",
+    "Description": "The most emblematic fire attack, a seeminly endless stream of fire that reduces everything and everyone to ashes.",
+    "_id": "flamethrower",
+    "Attributes": {},
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Burn2",
+                "ChanceDice": 1,
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Special"
+}

@@ -1,0 +1,31 @@
+{
+    "Name": "Ancient Power",
+    "Type": "Rock",
+    "Power": 2,
+    "Damage1": "Special",
+    "Damage2": "",
+    "Accuracy1": "Special",
+    "Accuracy2": "Channel",
+    "Target": "Foe",
+    "Effect": "Single Target. Roll 1 Chance Die to Increase by 1 the User's Strength, Dexterity, Special, Defense and Sp. Defense.",
+    "Description": "The Pokémon calls forward an energy from the ancient past. This may infuse the user with a primal strength.",
+    "_id": "ancient-power",
+    "Attributes": {},
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "Strength",
+                    "Dexterity",
+                    "Special",
+                    "Def",
+                    "SpDef"
+                ],
+                "Stages": 1,
+                "ChanceDice": 1,
+                "Affects": "User"
+            }
+        ]
+    },
+    "Category": "Special"
+}

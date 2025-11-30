@@ -1,0 +1,127 @@
+{
+    "Number": 456,
+    "DexID": "0456",
+    "Name": "Finneon",
+    "Type1": "Water",
+    "Type2": "",
+    "BaseHP": 3,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Swift Swim",
+    "Ability2": "Storm Drain",
+    "HiddenAbility": "Water Veil",
+    "EventAbilities": "",
+    "RecommendedRank": "Rookie",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "finneon",
+    "DexCategory": "Wing Fish Pokémon",
+    "Height": {
+        "Meters": 0.4,
+        "Feet": 1.3
+    },
+    "Weight": {
+        "Kilograms": 7.0,
+        "Pounds": 15.0
+    },
+    "DexDescription": "The way its two tail fins flutter while it swims has earned Finneon the nickname 'Beautifly of the Sea.' The line running down its side can store sunlight and glow brightly at night.",
+    "Evolutions": [
+        {
+            "To": "Lumineon",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "finneon.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Pound"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Water Gun"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Attract"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Rain Dance"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Gust"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Water Pulse"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Captivate"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Safeguard"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Aqua Ring"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Whirlpool"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "U-Turn"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Bounce"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Silver Wind"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Tailwind"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Soak"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Hydro Pump"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Roost"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Sweet Kiss"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Double Team"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Aurora Beam"
+        }
+    ]
+}

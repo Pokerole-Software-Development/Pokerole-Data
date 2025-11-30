@@ -1,0 +1,28 @@
+{
+    "Name": "Power-Up Punch",
+    "Type": "Fighting",
+    "Power": 2,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "Single Target. Fist Move. Increase User's Strength by 1.",
+    "Description": "A punch to test the impact’s surface and adjust the level of strength required to punch through it.",
+    "_id": "power-up-punch",
+    "Attributes": {
+        "FistMove": true
+    },
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "Strength"
+                ],
+                "Stages": 1,
+                "Affects": "User"
+            }
+        ]
+    },
+    "Category": "Physical"
+}

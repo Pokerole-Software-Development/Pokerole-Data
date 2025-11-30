@@ -1,0 +1,119 @@
+{
+    "Number": 679,
+    "DexID": "0679",
+    "Name": "Honedge",
+    "Type1": "Steel",
+    "Type2": "Ghost",
+    "BaseHP": 3,
+    "Strength": 2,
+    "MaxStrength": 5,
+    "Dexterity": 1,
+    "MaxDexterity": 3,
+    "Vitality": 3,
+    "MaxVitality": 6,
+    "Special": 1,
+    "MaxSpecial": 3,
+    "Insight": 1,
+    "MaxInsight": 3,
+    "Ability1": "No Guard",
+    "Ability2": "",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Standard",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "honedge",
+    "DexCategory": "Sword Pokémon",
+    "Height": {
+        "Meters": 0.8,
+        "Feet": 2.6
+    },
+    "Weight": {
+        "Kilograms": 2.0,
+        "Pounds": 4.0
+    },
+    "DexDescription": "Ancient wars saw this ruthless Pokémon born from the spirits of fallen warriors. It is a cursed sword that seeks revenge and bloodshed. It will drain the life energy of anyone that wields it.",
+    "Evolutions": [
+        {
+            "To": "Doublade",
+            "Kind": "Level",
+            "Speed": "Slow"
+        }
+    ],
+    "Image": "honedge.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Cut"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Fury Cutter"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Shadow Sneak"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Autotomize"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Aerial Ace"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Pursuit"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Metal Sound"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Slash"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Night Slash"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Retaliate"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Iron Defense"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Iron Head"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Power Trick"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Swords Dance"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Sacred Sword"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Destiny Bond"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Spite"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Block"
+        }
+    ]
+}

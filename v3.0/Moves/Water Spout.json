@@ -1,0 +1,19 @@
+{
+    "Name": "Water Spout",
+    "Type": "Water",
+    "Power": 6,
+    "Damage1": "Special",
+    "Damage2": "",
+    "Accuracy1": "Special",
+    "Accuracy2": "Channel",
+    "Target": "All Foes",
+    "Effect": "Target All Foes in Range. Lethal. *Reduce 1 Die from the Damage Pool for every missing HP the User has. Up to 5 Dice may be removed this way.",
+    "Description": "This Move alone may be the reason the earth is 70% water.",
+    "_id": "water-spout",
+    "Attributes": {
+        "Lethal": true,
+        "HurtPenalty": true
+    },
+    "AddedEffects": {},
+    "Category": "Special"
+}

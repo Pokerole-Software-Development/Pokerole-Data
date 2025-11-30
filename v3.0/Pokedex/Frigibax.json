@@ -1,0 +1,115 @@
+{
+    "Number": 996,
+    "DexID": "0996",
+    "Name": "Frigibax",
+    "Type1": "Dragon",
+    "Type2": "Ice",
+    "BaseHP": 3,
+    "Strength": 2,
+    "MaxStrength": 5,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 1,
+    "MaxSpecial": 3,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Ice Body",
+    "Ability2": "Thermal Exchange",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Standard",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "frigibax",
+    "DexCategory": "Ice Fin Pokémon",
+    "Height": {
+        "Meters": 0.5,
+        "Feet": 1.7
+    },
+    "Weight": {
+        "Kilograms": 17.0,
+        "Pounds": 37.0
+    },
+    "DexDescription": "Using its dorsal fin, Frigibax absorbs heat and converts it into ice energy. Through this method this Pokémon cools the inside of its nest like a refrigerator. It will attack any Bergmite attracted by the cold of its dwelling.",
+    "Evolutions": [
+        {
+            "To": "Arctibax",
+            "Kind": "Level",
+            "Speed": "Slow"
+        }
+    ],
+    "Image": "frigibax.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Leer"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Dragon Tail"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Icy Wind"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Dragon Breath"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Focus Energy"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Bite"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Ice Fang"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Dragon Rage"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Take Down"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Ice Beam"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Crunch"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Icicle Crash"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Dragon Rush"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Aqua Tail"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Freeze Dry"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Icicle Spear"
+        }
+    ]
+}

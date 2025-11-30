@@ -1,0 +1,124 @@
+{
+    "Number": 148,
+    "DexID": "0148",
+    "Name": "Dragonair",
+    "Type1": "Dragon",
+    "Type2": "",
+    "BaseHP": 5,
+    "Strength": 2,
+    "MaxStrength": 5,
+    "Dexterity": 2,
+    "MaxDexterity": 5,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 2,
+    "MaxSpecial": 5,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Shed Skin",
+    "Ability2": "Marvel Scale",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Advanced",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "dragonair",
+    "DexCategory": "Dragon Pokémon",
+    "Height": {
+        "Meters": 4.0,
+        "Feet": 13.1
+    },
+    "Weight": {
+        "Kilograms": 16.0,
+        "Pounds": 36.0
+    },
+    "DexDescription": "It is said to live in seas and lakes. Even though it has no wings, it has been depicted flying. There were legends of this Pokémon controlling the weather and ending the storms to leave a rainbow behind.",
+    "Evolutions": [
+        {
+            "From": "Dratini",
+            "Kind": "Level",
+            "Speed": "Slow"
+        },
+        {
+            "To": "Dragonite",
+            "Kind": "Level",
+            "Speed": "Slow"
+        }
+    ],
+    "Image": "dragonair.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Wrap"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Leer"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Thunder Wave"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Twister"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Dragon Rage"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Slam"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Agility"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Dragon Tail"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Aqua Tail"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Dragon Rush"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Safeguard"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Rain Dance"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Dragon Dance"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Outrage"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Hyper Beam"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Aqua Jet"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Scale Shot"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Extreme Speed"
+        }
+    ]
+}

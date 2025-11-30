@@ -1,0 +1,149 @@
+{
+    "Number": 113,
+    "DexID": "0113",
+    "Name": "Chansey",
+    "Type1": "Normal",
+    "Type2": "",
+    "BaseHP": 12,
+    "Strength": 1,
+    "MaxStrength": 2,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 1,
+    "MaxVitality": 2,
+    "Special": 1,
+    "MaxSpecial": 3,
+    "Insight": 3,
+    "MaxInsight": 6,
+    "Ability1": "Natural Cure",
+    "Ability2": "Serene Grace",
+    "HiddenAbility": "Healer",
+    "EventAbilities": "",
+    "RecommendedRank": "Rookie",
+    "GenderType": "F",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "chansey",
+    "DexCategory": "Egg Pokémon",
+    "Height": {
+        "Meters": 1.1,
+        "Feet": 3.6
+    },
+    "Weight": {
+        "Kilograms": 34.0,
+        "Pounds": 76.0
+    },
+    "DexDescription": "There are only females in this species. Chansey lays a nutritious egg every day. These eggs are fed to the sick to give them strength. It is a loving and smart Pokémon, but it's pretty rare and elusive in the wild.",
+    "Evolutions": [
+        {
+            "From": "Happiny",
+            "Kind": "Level",
+            "Item": "Oval Stone"
+        },
+        {
+            "To": "Blissey",
+            "Kind": "Stat",
+            "Stat": "Happiness",
+            "Value": 5
+        }
+    ],
+    "Image": "chansey.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Pound"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Defense Curl"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Tail Whip"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Growl"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Disarming Voice"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Double Slap"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Refresh"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Echoed Voice"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Soft Boiled"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Bestow"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Heal Pulse"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Take Down"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Minimize"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Fling"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Sing"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Egg Bomb"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Light Screen"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Life Dew"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Double-Edge"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Last Resort"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Healing Wish"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Seismic Toss"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Heal Bell"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Present"
+        }
+    ]
+}

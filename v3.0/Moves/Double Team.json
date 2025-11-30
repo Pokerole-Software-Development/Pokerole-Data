@@ -1,0 +1,23 @@
+{
+    "Name": "Double Team",
+    "Type": "Normal",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Evasion",
+    "Target": "Self",
+    "Effect": "Target Self. The User can now make up to 5 Evasions per Round.",
+    "Description": "The Pokémon moves so fast they create a series of shadow copies of themselves. Trying to guess which one is the real one is a pain.",
+    "_id": "double-team",
+    "Attributes": {},
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "SpedUp",
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Support"
+}

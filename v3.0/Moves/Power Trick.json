@@ -1,0 +1,23 @@
+{
+    "Name": "Power Trick",
+    "Type": "Psychic",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Insight",
+    "Accuracy2": "Channel",
+    "Target": "Self",
+    "Effect": "Target Self. Switch the User's Strength with their Defense and Special with their Sp. Defense.",
+    "Description": "The Pokémon tricks their own mind to believe their vitality is their power and vice versa.",
+    "_id": "power-trick",
+    "Attributes": {},
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "PowerTrick",
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Support"
+}

@@ -1,0 +1,150 @@
+{
+    "Number": 484,
+    "DexID": "0484",
+    "Name": "Palkia",
+    "Type1": "Water",
+    "Type2": "Dragon",
+    "BaseHP": 5,
+    "Strength": 7,
+    "MaxStrength": 7,
+    "Dexterity": 6,
+    "MaxDexterity": 6,
+    "Vitality": 6,
+    "MaxVitality": 6,
+    "Special": 8,
+    "MaxSpecial": 8,
+    "Insight": 7,
+    "MaxInsight": 7,
+    "Ability1": "Pressure",
+    "Ability2": "Telepathy",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Champion",
+    "GenderType": "N",
+    "Legendary": true,
+    "GoodStarter": false,
+    "_id": "palkia",
+    "DexCategory": "Pokédex has no data.",
+    "Height": {
+        "Meters": 4.2,
+        "Feet": 13.8
+    },
+    "Weight": {
+        "Kilograms": 336.0,
+        "Pounds": 740.0
+    },
+    "DexDescription": "An old scroll describes a being who is capable of bending and twisting space in impossible ways by a powerful Pokémon god.",
+    "Evolutions": [
+        {
+            "To": "Palkia (Origin Form)",
+            "Kind": "Form"
+        }
+    ],
+    "Image": "palkia.png",
+    "Moves": [
+        {
+            "Learned": "Champion",
+            "Name": "Dragon Breath"
+        },
+        {
+            "Learned": "Champion",
+            "Name": "Scary Face"
+        },
+        {
+            "Learned": "Champion",
+            "Name": "Water Pulse"
+        },
+        {
+            "Learned": "Champion",
+            "Name": "Ancient Power"
+        },
+        {
+            "Learned": "Champion",
+            "Name": "Slash"
+        },
+        {
+            "Learned": "Champion",
+            "Name": "Power Gem"
+        },
+        {
+            "Learned": "Champion",
+            "Name": "Aqua Tail"
+        },
+        {
+            "Learned": "Champion",
+            "Name": "Dragon Claw"
+        },
+        {
+            "Learned": "Champion",
+            "Name": "Aqua Ring"
+        },
+        {
+            "Learned": "Champion",
+            "Name": "Aura Sphere"
+        },
+        {
+            "Learned": "Champion",
+            "Name": "Earth Power"
+        },
+        {
+            "Learned": "Champion",
+            "Name": "Double Team"
+        },
+        {
+            "Learned": "Champion",
+            "Name": "Substitute"
+        },
+        {
+            "Learned": "Champion",
+            "Name": "Protect"
+        },
+        {
+            "Learned": "Champion",
+            "Name": "Trick Room"
+        },
+        {
+            "Learned": "Champion",
+            "Name": "Hidden Power"
+        },
+        {
+            "Learned": "Champion",
+            "Name": "Hydro Pump"
+        },
+        {
+            "Learned": "Champion",
+            "Name": "Psych Up"
+        },
+        {
+            "Learned": "Champion",
+            "Name": "Dragon Pulse"
+        },
+        {
+            "Learned": "Champion",
+            "Name": "Surf"
+        },
+        {
+            "Learned": "Champion",
+            "Name": "Hyper Voice"
+        },
+        {
+            "Learned": "Champion",
+            "Name": "Gravity"
+        },
+        {
+            "Learned": "Champion",
+            "Name": "Draco Meteor"
+        },
+        {
+            "Learned": "Champion",
+            "Name": "Hyper Beam"
+        },
+        {
+            "Learned": "Champion",
+            "Name": "Liquidation"
+        },
+        {
+            "Learned": "Champion",
+            "Name": "Spacial Rend"
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "Name": "Dire Claw",
+    "Type": "Poison",
+    "Power": 3,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Stealth",
+    "Target": "Foe",
+    "Effect": "Single Target. High Critical. Roll 2 Chance Dice to Poison the Target. Roll 2 Chance Dice to Paralyze the Target. Roll 2 Chance Dice to put the Target to Sleep.",
+    "Description": "The Pokémon makes a cut on their victim with claws drenched in venom; then patiently stalks it, waiting for the toxins to wear it out.",
+    "_id": "fire-fang",
+    "Attributes": {
+        "HighCritical": true
+    },
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Poison",
+                "Affects": "Targets",
+                "ChanceDice": 2
+            },
+            {
+                "Type": "Paralyze",
+                "Affects": "Targets",
+                "ChanceDice": 2
+            },
+            {
+                "Type": "Sleep",
+                "Affects": "Targets",
+                "ChanceDice": 2
+            }
+        ]
+    },
+    "Category": "Physical"
+}

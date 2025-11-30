@@ -1,0 +1,147 @@
+{
+    "Number": 979,
+    "DexID": "0979",
+    "Name": "Annihilape",
+    "Type1": "Fighting",
+    "Type2": "Ghost",
+    "BaseHP": 6,
+    "Strength": 3,
+    "MaxStrength": 6,
+    "Dexterity": 2,
+    "MaxDexterity": 5,
+    "Vitality": 3,
+    "MaxVitality": 7,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Vital Spirit",
+    "Ability2": "Inner Focus",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Expert",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "annihilape",
+    "DexCategory": "Rage Monkey Pokémon",
+    "Height": {
+        "Meters": 1.2,
+        "Feet": 4.0
+    },
+    "Weight": {
+        "Kilograms": 56.0,
+        "Pounds": 123.0
+    },
+    "DexDescription": "Its immense rage would never let this Pokémon rest in peace. So, even from beyond it keeps its wrath burning as a shadowy flame. Stay away, for its fists are said to crush the very soul of its victims.",
+    "Evolutions": [
+        {
+            "From": "Primeape",
+            "Kind": "Special",
+            "Special": "Learning Rage Fist"
+        }
+    ],
+    "Image": "annihilape.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Scratch"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Leer"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Focus Energy"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Covet"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Fury Swipes"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Low Kick"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Meditate"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Karate Chop"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Pursuit"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Fling"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Seismic Toss"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Swagger"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Cross Chop"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Assurance"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Shadow Punch"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Screech"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Thrash"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Skull Bash"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Close Combat"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Stomping Tantrum"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Outrage"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Final Gambit"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Rage Fist"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Punishment"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Ice Punch"
+        }
+    ]
+}

@@ -1,0 +1,119 @@
+{
+    "Number": 459,
+    "DexID": "0459",
+    "Name": "Snover",
+    "Type1": "Grass",
+    "Type2": "Ice",
+    "BaseHP": 3,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 1,
+    "MaxDexterity": 3,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Snow Warning",
+    "Ability2": "Soundproof",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Standard",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "snover",
+    "DexCategory": "Frosted Tree Pokémon",
+    "Height": {
+        "Meters": 1.0,
+        "Feet": 3.3
+    },
+    "Weight": {
+        "Kilograms": 50.0,
+        "Pounds": 111.0
+    },
+    "DexDescription": "During cold seasons, it migrates to the mountain's lower reaches and returns to the summit in the spring. They are rarely in contact with humans, but are sought for the frozen berries they grow.",
+    "Evolutions": [
+        {
+            "To": "Abomasnow",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "snover.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Powder Snow"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Leer"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Leafage"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Mist"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Ice Shard"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Razor Leaf"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Icy Wind"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Swagger"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Grass Whistle"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Energy Ball"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Ingrain"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Icicle Crash"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Blizzard"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Wood Hammer"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Sheer Cold"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Water Pulse"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Swords Dance"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Skull Bash"
+        }
+    ]
+}

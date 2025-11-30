@@ -1,0 +1,26 @@
+{
+    "Name": "Rage Powder",
+    "Type": "Bug",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Insight",
+    "Accuracy2": "Intimidate",
+    "Target": "Self",
+    "Effect": "Target Self. Reaction 2. Powder Move. All of the Foe's Physical and Special Moves will Target the user if able. Duration 1 Round.",
+    "Description": "The Pokémon releases an irritating powder that itches and enrages its foes into full-attack mode.",
+    "_id": "rage-powder",
+    "Attributes": {
+        "Reaction": "2",
+        "PowderMove": true
+    },
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "CenterOfAttention",
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Support"
+}

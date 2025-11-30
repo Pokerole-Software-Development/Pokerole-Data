@@ -1,0 +1,115 @@
+{
+    "Number": 940,
+    "DexID": "0940",
+    "Name": "Wattrel",
+    "Type1": "Electric",
+    "Type2": "Flying",
+    "BaseHP": 3,
+    "Strength": 1,
+    "MaxStrength": 3,
+    "Dexterity": 2,
+    "MaxDexterity": 5,
+    "Vitality": 1,
+    "MaxVitality": 3,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 1,
+    "MaxInsight": 3,
+    "Ability1": "Wind Power",
+    "Ability2": "Competitive",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Starter",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "wattrel",
+    "DexCategory": "Storm Petrel Pokémon",
+    "Height": {
+        "Meters": 0.4,
+        "Feet": 1.3
+    },
+    "Weight": {
+        "Kilograms": 4.0,
+        "Pounds": 8.0
+    },
+    "DexDescription": "They can be seen flying above the ocean. To catch prey they dive into the water and zap their victim. Their body is adapted to withstand fierce storms. For some reason, people eat their nests as gourmet food.",
+    "Evolutions": [
+        {
+            "To": "Kilowattrel",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "wattrel.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Peck"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Growl"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Thunder Shock"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Quick Attack"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Pluck"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Spark"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Uproar"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Dual Wingbeat"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Volt Switch"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Feather Dance"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Roost"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Agility"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Endeavor"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Discharge"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Fly"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Eerie Impulse"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Electric Terrain"
+        }
+    ]
+}

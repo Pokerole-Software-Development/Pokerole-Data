@@ -1,0 +1,26 @@
+{
+    "Name": "Low Sweep",
+    "Type": "Fighting",
+    "Power": 2,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "Single Target. Reduce the Target's Dexterity by 2.",
+    "Description": "The Pokémon crouches and spins with a kick to the foe’s legs. Leaving them with a limp for the rest of the fight.",
+    "_id": "low-sweep",
+    "Attributes": {},
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "Dexterity"
+                ],
+                "Stages": -2,
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Physical"
+}

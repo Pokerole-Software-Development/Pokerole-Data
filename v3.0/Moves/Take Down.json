@@ -1,0 +1,19 @@
+{
+    "Name": "Take Down",
+    "Type": "Normal",
+    "Power": 3,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Strength",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "Single Target. Low Accuracy 2. Recoil.",
+    "Description": "Through a reckless grapple, the Pokémon smashes the foe into the ground, usually falling along with it.",
+    "_id": "take-down",
+    "Attributes": {
+        "Recoil": true,
+        "AccuracyReduction": -2
+    },
+    "AddedEffects": {},
+    "Category": "Physical"
+}

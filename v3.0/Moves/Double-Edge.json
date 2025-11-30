@@ -1,0 +1,18 @@
+{
+    "Name": "Double-Edge",
+    "Type": "Normal",
+    "Power": 5,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Strength",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "Single Target. Recoil.",
+    "Description": "Without regard for their own safety, the Pokémon does a reckless attack against their foe.",
+    "_id": "double-edge",
+    "Attributes": {
+        "Recoil": true
+    },
+    "AddedEffects": {},
+    "Category": "Physical"
+}

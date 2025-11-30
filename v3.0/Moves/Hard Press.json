@@ -1,0 +1,18 @@
+{
+    "Name": "Hard Press",
+    "Type": "Steel",
+    "Power": 6,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Strength",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "Single Target. *Reduce 1 Die from the Damage Pool for every missing Hp the User has. Up to 5 Dice may be removed this way.",
+    "Description": "The foe is grappled in a painful lock, the more it struggles to get out the more pressure it’s gonna feel. The user must be on top condition for this grapple to be effective.",
+    "_id": "hard-press",
+    "Attributes": {
+        "HurtPenalty": true
+    },
+    "AddedEffects": {},
+    "Category": "Physical"
+}

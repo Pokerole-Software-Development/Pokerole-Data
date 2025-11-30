@@ -1,0 +1,19 @@
+{
+    "Name": "Sonic Boom",
+    "Type": "Normal",
+    "Power": 0,
+    "Damage1": "SetDamage",
+    "Damage2": "",
+    "Accuracy1": "Special",
+    "Accuracy2": "Stealth",
+    "Target": "Foe",
+    "Effect": "Single Target. This Move always inflict 1 Typeless damage. Ignore Defenses, Force Fields, Shield Moves, Cover, Out of Range, Type or Ability that would prevent this damage.",
+    "Description": "The Pokémon makes use of a small but very destructive shock that goes through any wall, layer or wall.",
+    "_id": "sonic-boom",
+    "Attributes": {
+        "IgnoreDefenses": true,
+        "IgnoreShield": true
+    },
+    "AddedEffects": {},
+    "Category": "Special"
+}

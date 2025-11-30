@@ -1,0 +1,28 @@
+{
+    "Name": "Hurricane",
+    "Type": "Flying",
+    "Power": 5,
+    "Damage1": "Special",
+    "Damage2": "",
+    "Accuracy1": "Special",
+    "Accuracy2": "Channel",
+    "Target": "Foe",
+    "Effect": "Single Target. Low Accuracy 2. Lethal. Wind Move. Roll 3 Chance Dice to Confuse the Target. Rain Weather eliminates Low Accuracy. Sunny Weather increases to Low Accuracy 4. If the Target is Out of Range due to using \"Fly\", \"Bounce\" or \"Sky Drop\", this Move hits anyways.",
+    "Description": "The Pokémon calls upon fierce gale winds. It’ll be difficult to summon the tempest on a clear day, but a little rain will enhance it into a typhoon. Other pokémon in the air are in most danger.",
+    "_id": "hurricane",
+    "Attributes": {
+        "Lethal": true,
+        "AccuracyReduction": -2,
+        "WindMove": true
+    },
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Confuse",
+                "Affects": "Targets",
+                "ChanceDice": 3
+            }
+        ]
+    },
+    "Category": "Special"
+}

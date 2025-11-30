@@ -1,0 +1,26 @@
+{
+    "Name": "Mystical Fire",
+    "Type": "Fire",
+    "Power": 2,
+    "Damage1": "Special",
+    "Damage2": "",
+    "Accuracy1": "Special",
+    "Accuracy2": "Channel",
+    "Target": "Foe",
+    "Effect": "Single Target. Reduce Target's Special by 1.",
+    "Description": "An iridicent fire that not just burns in the physical world but in the spiritual world as well.",
+    "_id": "mystical-fire",
+    "Attributes": {},
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "Special"
+                ],
+                "Stages": -1,
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Special"
+}

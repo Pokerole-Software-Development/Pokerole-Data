@@ -1,0 +1,18 @@
+{
+    "Name": "Rage Fist",
+    "Type": "Ghost",
+    "Power": 2,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Insight",
+    "Accuracy2": "Intimidate",
+    "Target": "Foe",
+    "Effect": "Single Target. Fist Move. *Add 2 Extra Dice to the Damage pool of this Move for every time the User has received Damage this Round, up to 8 Dice may be added this way.",
+    "Description": "The Pokémon focuses all of their rage into a single fist, the more they suffered the more dark energy will concentrate.",
+    "_id": "rage-fist",
+    "Attributes": {
+        "FistMove": true
+    },
+    "AddedEffects": {},
+    "Category": "Physical"
+}

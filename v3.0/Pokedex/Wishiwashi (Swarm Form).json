@@ -1,0 +1,142 @@
+{
+    "Number": 746,
+    "DexID": "0746F1",
+    "Name": "Wishiwashi (Swarm Form)",
+    "Type1": "Water",
+    "Type2": "",
+    "BaseHP": 8,
+    "Strength": 3,
+    "MaxStrength": 7,
+    "Dexterity": 1,
+    "MaxDexterity": 3,
+    "Vitality": 3,
+    "MaxVitality": 7,
+    "Special": 3,
+    "MaxSpecial": 7,
+    "Insight": 3,
+    "MaxInsight": 7,
+    "Ability1": "Schooling",
+    "Ability2": "",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Ace",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "wishiwashi-swarm-form",
+    "DexCategory": "Small Fry Pokémon",
+    "Height": {
+        "Meters": 8.2,
+        "Feet": 27.0
+    },
+    "Weight": {
+        "Kilograms": 234.0,
+        "Pounds": 515.0
+    },
+    "DexDescription": "A school of Wishiwashi is the demon of the sea. Even Gyarados flee in terror when one approaches. Since it is formed by lots of members, it's impossible to control. They disband after the threat is 'neutralized'.",
+    "Evolutions": [
+        {
+            "From": "Wishiwashi",
+            "Kind": "Form"
+        }
+    ],
+    "Image": "wishiwashi-swarm-form.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Water Gun"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Growl"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Helping Hand"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Feint Attack"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Brine"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Tearful Look"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Dive"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Soak"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Uproar"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Aqua Tail"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Aqua Ring"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Take Down"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Beat Up"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Flip Turn"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Whirlpool"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Endeavor"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Double-Edge"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Hydro Pump"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Muddy Water"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Water Pulse"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Mist"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Liquidation"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Protect"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Earthquake"
+        }
+    ]
+}

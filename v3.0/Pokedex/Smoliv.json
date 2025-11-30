@@ -1,0 +1,111 @@
+{
+    "Number": 928,
+    "DexID": "0928",
+    "Name": "Smoliv",
+    "Type1": "Grass",
+    "Type2": "Normal",
+    "BaseHP": 3,
+    "Strength": 1,
+    "MaxStrength": 3,
+    "Dexterity": 1,
+    "MaxDexterity": 3,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Early Bird",
+    "Ability2": "Harvest",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Starter",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "smoliv",
+    "DexCategory": "Olive Pokémon",
+    "Height": {
+        "Meters": 0.02,
+        "Feet": 0.1
+    },
+    "Weight": {
+        "Kilograms": 0.1,
+        "Pounds": 0.2
+    },
+    "DexDescription": "They are very small, always in danger of being eaten. To protect themselves, they produce a bitter oil and store it in the fruit atop their head. They require little food and water, easily going for a week without any.",
+    "Evolutions": [
+        {
+            "To": "Dolliv",
+            "Kind": "Level",
+            "Speed": "Slow"
+        }
+    ],
+    "Image": "smoliv.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Sweet Scent"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Absorb"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Growth"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Razor Leaf"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Helping Hand"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Flail"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Mega Drain"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Grassy Terrain"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Seed Bomb"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Energy Ball"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Leech Seed"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Terrain Pulse"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Grass Knot"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Grass Whistle"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Endure"
+        }
+    ]
+}

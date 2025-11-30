@@ -1,0 +1,27 @@
+{
+    "Name": "Spider Web",
+    "Type": "Bug",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Insight",
+    "Accuracy2": "Stealth",
+    "Target": "Foe's Battlefield",
+    "Effect": "Target Foe's Side of the Field. Entry Hazard. Blocks. Whole Scene Duration.",
+    "Description": "The Pokémon moves stealthily and without raising suspicion. By the time the enemy realizes it, the entire field is covered in cobwebs.",
+    "_id": "spider-web",
+    "Attributes": {
+        "BlockDamagePool": 0,
+        "EntryHazard": true,
+        "Duration": "wholeScene"
+    },
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Block",
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Support"
+}

@@ -1,0 +1,132 @@
+{
+    "Number": 414,
+    "DexID": "0414",
+    "Name": "Mothim",
+    "Type1": "Bug",
+    "Type2": "Flying",
+    "BaseHP": 5,
+    "Strength": 3,
+    "MaxStrength": 6,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 3,
+    "MaxSpecial": 6,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Swarm",
+    "Ability2": "Tinted Lens",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Standard",
+    "GenderType": "M",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "mothim",
+    "DexCategory": "Moth Pokémon",
+    "Height": {
+        "Meters": 0.9,
+        "Feet": 3.0
+    },
+    "Weight": {
+        "Kilograms": 23.0,
+        "Pounds": 51.0
+    },
+    "DexDescription": "It flies near the mountains in search of honey. It is an opportunist and won't gather any honey by itself. Instead, Mothim steals from Combee hives and other Pokémon. This Pokémon is male-only.",
+    "Evolutions": [
+        {
+            "From": "Burmy",
+            "Kind": "Level",
+            "Speed": "Fast",
+            "Gender": "Male"
+        }
+    ],
+    "Image": "mothim.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Protect"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Bug Bite"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "String Shot"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Confusion"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Gust"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Camouflage"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Poison Powder"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Silver Wind"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Quiver Dance"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Psybeam"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Struggle Bug"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Roost"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Air Slash"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Hidden Power"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Psychic"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Lunge"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Bug Buzz"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Twister"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Thief"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Tailwind"
+        }
+    ]
+}

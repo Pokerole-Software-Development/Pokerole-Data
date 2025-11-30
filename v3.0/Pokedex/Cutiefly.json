@@ -1,0 +1,119 @@
+{
+    "Number": 742,
+    "DexID": "0742",
+    "Name": "Cutiefly",
+    "Type1": "Bug",
+    "Type2": "Fairy",
+    "BaseHP": 3,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 2,
+    "MaxDexterity": 5,
+    "Vitality": 1,
+    "MaxVitality": 3,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 1,
+    "MaxInsight": 3,
+    "Ability1": "Honey Gather",
+    "Ability2": "Shield Dust",
+    "HiddenAbility": "Sweet Veil",
+    "EventAbilities": "",
+    "RecommendedRank": "Starter",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "cutiefly",
+    "DexCategory": "Bee Fly Pokémon",
+    "Height": {
+        "Meters": 0.1,
+        "Feet": 0.3
+    },
+    "Weight": {
+        "Kilograms": 0.2,
+        "Pounds": 0.4
+    },
+    "DexDescription": "These delicate Pokémon gather by the number in flower meadows. They are attracted to happy and joyful people: the story says that Cutiefly see their auras and they resemble flowers.",
+    "Evolutions": [
+        {
+            "To": "Ribombee",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "cutiefly.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Absorb"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Fairy Wind"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Stun Spore"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Sweet Scent"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Draining Kiss"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Struggle Bug"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Sticky Web"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Aromatic Mist"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Silver Wind"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Aromatherapy"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Switcheroo"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Dazzling Gleam"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Bug Buzz"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Quiver Dance"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Moonblast"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Speed Swap"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Helping Hand"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Infestation"
+        }
+    ]
+}

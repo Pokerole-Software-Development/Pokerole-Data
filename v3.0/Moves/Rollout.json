@@ -1,0 +1,19 @@
+{
+    "Name": "Rollout",
+    "Type": "Rock",
+    "Power": 1,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Athletic/Brawl",
+    "Target": "Foe",
+    "Effect": "Single Target. Low Accuracy 1. Successive Actions. *If all 5 actions land successfully, add 1 Extra Die to the Damage Pool of the last hit of this Move. If the Pokemon used the Move \"Defense Curl\" in the same round, this Move's base Power becomes 2.",
+    "Description": "When the foe sees this Pokémon rollin’ they’ll be hatin’.",
+    "_id": "rollout",
+    "Attributes": {
+        "SuccessiveActions": true,
+        "AccuracyReduction": -1
+    },
+    "AddedEffects": {},
+    "Category": "Physical"
+}

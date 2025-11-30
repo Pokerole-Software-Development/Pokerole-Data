@@ -15,6 +15,8 @@ DexID matches the following pattern `\d{4}([GAHPXY]|F\d)` which in simple terms 
 
 ## Pokedex
 
+Any field that has "Yes" in the Null column can be left blank, and will be for a number of Pokemon. 
+
 | Field           | Data Type | Null? | Notes                                                                |
 | --------------- | --------- | ----- | -------------------------------------------------------------------- |
 | Number          | int       |       | Pokedex Number of this Species                                       |
@@ -35,16 +37,16 @@ DexID matches the following pattern `\d{4}([GAHPXY]|F\d)` which in simple terms 
 | MaxInsight      | int       |       | Max Insight score for the Species                                    |
 | Ability1        | String    |       | Ability Name                                                         |
 | Ability2        | String    | Yes   | Ability Name                                                         |
-| HiddenAbility   | String    | Yes   | Ability Name                                                         |
-| EventAbilities  | String    | Yes   | Ability Name                                                         |
+| HiddenAbility   | String    | Yes   | Ability Name. If this isn't already filled in, you can ignore it.    |
+| EventAbilities  | String    | Yes   | Ability Name. If this isn't already filled in, you can ignore it.    |
 | RecommendedRank | String    |       | Rank the Species MIGHT be found in the wild                          |
 | GenderType      | String    | Yes   | Empty String unless Species has unique gender forms, then "M" or "F" |
 | Legendary       | Bool      |       | Flag for Legendaries (Specifically, with max stats by default)       |
 | GoodStarter     | Bool      |       | Flag to be set if the good starter symbol is on the Pokedex entry    |
 | \_id            | String    |       | Name field, but spaces replaced with '-' and all lowercase           |
-| DexCategory     | String    |       | So and So Pokemon label from Pokedex                                 |
-| Height          | Object    |       | Height in Feet and Meters. Both Floats.                              |
-| Weight          | Object    |       | Weight in Kilograms and Pounds. Both Floats.                         |
+| DexCategory     | String    |       | "So and So Pokemon" label from Pokedex                               |
+| Height          | Object    |       | Height in Feet and Meters. Both Floats/decimals.                     |
+| Weight          | Object    |       | Weight in Kilograms and Pounds. Both Floats/decimals.                |
 | DexDescription  | String    |       | Pokedex flavor text                                                  |
 | Evolutions      | List      |       | List of Objects. See Evolution objects below                         |
 | Image           | String    |       | Basename for this pokemon's sprites                                  |
@@ -54,16 +56,33 @@ DexID matches the following pattern `\d{4}([GAHPXY]|F\d)` which in simple terms 
 
 It's possible to have no Evolution objects in the list. 
 
+Anything with "Remove" in the Null? column means you remove that entry entirely when the Pokemon doesn't have that information. 
+
 | Field   | Data Type | Null? | Notes                                                                            |
 | ------- | --------- | ----- | -------------------------------------------------------------------------------- |
 | To      | String    |       | The name of a Pokemon this Pokemon evolves into. From/To are mutually exclusive. |
 | From    | String    |       | The name of a Pokemon this Pokemon evolves from. From/To are mutually exclusive. |
-| Kind    | String    |       | How the Pokemon evolves. (Mega, Level, Stone, etc...)                            |
-| Speed   | String    |       | Evolution Speed of a Level based evolution. Only present when kind is Level      |
-| Item    | String    |       | Evolution item required for evolution. Only present when kind is requires Item.  |
-| Stat    | String    |       | Stat to check for evolution for Stat based evolution                             |
-| Value   | String    |       | Stat value to check for evolution via stat based evolution                       |
-| Special | String    |       | Other note for evolution                                                         | 
+| Kind    | String    |       | How the Pokemon evolves. (Mega, Level, Stone, etc...)        |
+| Speed   | String    |Remove | Evolution Speed of a Level based evolution. Only present when kind is Level      |
+| Item    | String    |Remove | Evolution item required for evolution. Only present when kind is requires Item.  |
+| Stat    | String    |Remove | Stat to check for evolution for Stat based evolution                             |
+| Value   | String    |Remove | Stat value to check for evolution via stat based evolution                       |
+| Special | String    |Remove | Other note for evolutions                                                       | 
+
+```json
+"Evolutions": [
+        {
+            "From": "Sprigatito",
+            "Kind": "Level",
+            "Speed": "Medium"
+        },
+        {
+            "To": "Meowscarada",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ]
+```
 
 ### Learnset Objects
 
@@ -72,24 +91,38 @@ It's possible to have no Evolution objects in the list.
 | Learned | String    |       | Rank the move is learned at |
 | Name    | String    |       | The name of the Move        | 
 
+```json
+ "Moves": [
+        {
+           "Learned": "Starter",
+           "Name": "Scratch"
+        },
+        {
+           "Learned": "Starter",
+           "Name": "Tail Whip"
+        }
+        ... And so on
+]
+```
+
 ## Moves
 
-| Field        | Type   | Notes                                                                  |
-| ------------ | ------ | ---------------------------------------------------------------------- |
-| Name         | String | Name of the Move                                                       |
-| Type         | String | Type of the Move                                                       |
-| Power        | int    | Power value of the move                                                |
-| Damage1      | String | Attribute Name or Empty String                                         |
-| Damage2      | String | Second Damage Pool source or Empty String                              |
-| Accuracy1    | String | Attribute Name                                                         |
-| Accuracy2    | String | Skill Name                                                             |
-| Target       | String | What is targeted by Move                                               |
-| Effect       | String | Move's effect text                                                     |
-| Description  | String | Description text for move                                              |
-| \_id         | String | Same as Name, unique for the system. Lowercase and - instead of space. | 
-| Attributes   | Object | Values that are used by Foundry                                        |
-| AddedEffects | Object | Values that are used by Foundry                                        |
-| Category     | String | Physical, Special, Support                                             |
+| Field        | Type   | Null? | Notes                                                                  |
+| ------------ | ------ | ----- | ---------------------------------------------------------------------- |
+| Name         | String |       | Name of the Move                                                       |
+| Type         | String |       | Type of the Move                                                       |
+| Power        | int    |       | Power value of the move                                                |
+| Damage1      | String |Yes    | Attribute Name or Empty String                                         |
+| Damage2      | String |Yes    | Second Damage Pool source or Empty String                              |
+| Accuracy1    | String |       | Attribute Name                                                         |
+| Accuracy2    | String |       | Skill Name                                                             |
+| Target       | String |       | What is targeted by Move. See pg.68 in 3.0                             |
+| Effect       | String |       | Move's effect text                                                     |
+| Description  | String |       | Description text for move                                              |
+| \_id         | String |       | Same as Name, unique for the system. Lowercase and - instead of space. | 
+| Attributes   | Object |       | Values that are used by Foundry, to be entered by Foundry team.        |
+| AddedEffects | Object |       | Values that are used by Foundry, to be entered by Foundry team.        |
+| Category     | String |       | Physical, Special, Support                                             |
 
 ## Abilities
 
@@ -115,10 +148,10 @@ It's possible to have no Evolution objects in the list.
 ## Items
 
 | Field          | Type   | Notes                                                                                                        |
-| -------------- | ------ | ------------------------------------------------------------------------------------------------------------ |
+|----------------|--------|--------------------------------------------------------------------------------------------------------------|
 | Name           | String | Name of the Item                                                                                             |
 | \_id           | String | Same as Name, unique for the system. Lowercase and - instead of space.                                       |
-| Source         | String | `Core 2.0` for core items, `Core 2.0+` for implied core items (Mega stones), or `Homebrew`.                  |
+| Source         | String | `Core X.0` for core items, `Core X.0+` for implied core items (Mega stones), or `Homebrew`. X for book version|
 | Author         | String | Only required when Source is `Homebrew`. The discord handle or other way of crediting the Homebrew's author. |
 | PMD            | Bool   | Flag for if this item is meant for Pokemon Mystery Dungeon games.                                            |
 | Pocket         | String | The "Bag Pocket" you would find this item in. A super category.                                              |
@@ -133,3 +166,10 @@ It's possible to have no Evolution objects in the list.
 | Cures          | String | Status conditions cured by the item. Only required when the item heals.                                      |
 | Boost          | String | Space separated Attributes that are increased when holding/using this item. Not required.                    |
 | Value          | int    | Amount to increase attributes in the Boost field by. Required when Boost is provided.                        |
+
+##### Pocket options:
+- HeldItems
+- TrainerItems
+- EvolutionItem
+- Medicine
+- Pokeballs

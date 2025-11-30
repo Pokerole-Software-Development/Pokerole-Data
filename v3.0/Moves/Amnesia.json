@@ -1,0 +1,26 @@
+{
+    "Name": "Amnesia",
+    "Type": "Psychic",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Clever",
+    "Accuracy2": "Alert",
+    "Target": "Self",
+    "Effect": "Target Self. Increase the User's Sp. Defense by 2.",
+    "Description": "No thoughts. Head empty",
+    "_id": "amnesia",
+    "Attributes": {},
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "SpDef"
+                ],
+                "Stages": 2,
+                "Affects": "User"
+            }
+        ]
+    },
+    "Category": "Support"
+}

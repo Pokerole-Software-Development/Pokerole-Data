@@ -1,0 +1,18 @@
+{
+    "Name": "Gigaton Hammer",
+    "Type": "Steel",
+    "Power": 7,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Strength",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "Single Target. Lethal. This Move will fail if it was used the previous Round. *This Move may deal 2 Extra Damage Dice to Steel-Type Pokemon at Storyteller's Discretion.",
+    "Description": "When you have a hammer everything is a nail.",
+    "_id": "gigaton-hammer",
+    "Attributes": {
+        "Lethal": true
+    },
+    "AddedEffects": {},
+    "Category": "Physical"
+}

@@ -1,0 +1,28 @@
+{
+    "Name": "Coil",
+    "Type": "Poison",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Tough",
+    "Accuracy2": "Intimidate",
+    "Target": "Self",
+    "Effect": "Target Self. Increase by 1 the User's Strength and Defense score and Accuracy Pools.",
+    "Description": "The Pokémon curls up into themselves. Foes soon realize this is not the position of a prey in hiding, but of a hunter about to spit their venom.",
+    "_id": "coil",
+    "Attributes": {},
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "Strength",
+                    "Def",
+                    "Accuracy"
+                ],
+                "Stages": 1,
+                "Affects": "User"
+            }
+        ]
+    },
+    "Category": "Support"
+}

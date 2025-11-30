@@ -1,0 +1,27 @@
+{
+    "Name": "Infestation",
+    "Type": "Bug",
+    "Power": 1,
+    "Damage1": "Special",
+    "Damage2": "",
+    "Accuracy1": "Insight",
+    "Accuracy2": "Nature",
+    "Target": "Foe",
+    "Effect": "Single Target. Blocks. Ongoing Damage. Duration 4 Rounds. Increase the Target's difficulty to Evade at Storyteller's discretion.",
+    "Description": "The Pokémon summons a bothersome swarm to prevent the foe from escaping. The swarm will relentlessly attack the foe.",
+    "_id": "infestation",
+    "Attributes": {
+        "BlockDamagePool": 2,
+        "OngoingDamage": true,
+        "Duration": 4
+    },
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Block",
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Special"
+}

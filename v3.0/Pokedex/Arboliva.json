@@ -1,0 +1,147 @@
+{
+    "Number": 930,
+    "DexID": "0930",
+    "Name": "Arboliva",
+    "Type1": "Grass",
+    "Type2": "Normal",
+    "BaseHP": 5,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 1,
+    "MaxDexterity": 3,
+    "Vitality": 3,
+    "MaxVitality": 6,
+    "Special": 3,
+    "MaxSpecial": 7,
+    "Insight": 3,
+    "MaxInsight": 6,
+    "Ability1": "Seed Sower",
+    "Ability2": "Harvest",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Expert",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "arboliva",
+    "DexCategory": "Olive Pokémon",
+    "Height": {
+        "Meters": 1.4,
+        "Feet": 4.6
+    },
+    "Weight": {
+        "Kilograms": 48.0,
+        "Pounds": 106.0
+    },
+    "DexDescription": "These calm and compassionate Pokémon will feed their delicious and nutrient-rich oil to weakened creatures. They are peaceful and patient Pokémon who rarely make use of force despite being capable.",
+    "Evolutions": [
+        {
+            "From": "Dolliv",
+            "Kind": "Level",
+            "Speed": "Fast"
+        }
+    ],
+    "Image": "arboliva.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Sweet Scent"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Absorb"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Growth"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Razor Leaf"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Helping Hand"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Flail"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Mega Drain"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Mirror Coat"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Safeguard"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Charm"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Strength Sap"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Grassy Terrain"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Light Screen"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Reflect"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Seed Bomb"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Energy Ball"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Leech Seed"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Terrain Pulse"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Leaf Storm"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Petal Blizzard"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Petal Dance"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Earth Power"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Pollen Puff"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Synthesis"
+        }
+    ]
+}

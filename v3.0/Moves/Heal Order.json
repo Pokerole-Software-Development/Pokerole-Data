@@ -1,0 +1,22 @@
+{
+    "Name": "Heal Order",
+    "Type": "Bug",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Tough",
+    "Accuracy2": "Nature",
+    "Target": "Self",
+    "Effect": "Target Self. Basic Heal. If successful, spend 1 Will point to activate.",
+    "Description": "The queen commands the swarm to bring her healing honey.",
+    "_id": "heal-order",
+    "Attributes": {},
+    "AddedEffects": {
+        "Heal": {
+            "Type": "Basic",
+            "Target": "Targets",
+            "WillPointCost": 1
+        }
+    },
+    "Category": "Support"
+}

@@ -1,0 +1,16 @@
+{
+    "Name": "Wake-Up Slap",
+    "Type": "Fighting",
+    "Power": 2,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "Single Target. *If the foe has the Sleep Status, Add 2 Extra Dice to the Damage Pool. Wake up the foe after dealing damage.",
+    "Description": "Wakey wakey, sleepy head!",
+    "_id": "wake-up-slap",
+    "Attributes": {},
+    "AddedEffects": {},
+    "Category": "Physical"
+}

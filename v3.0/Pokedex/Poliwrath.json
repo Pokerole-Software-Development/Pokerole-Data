@@ -1,0 +1,127 @@
+{
+    "Number": 62,
+    "DexID": "0062",
+    "Name": "Poliwrath",
+    "Type1": "Water",
+    "Type2": "Fighting",
+    "BaseHP": 5,
+    "Strength": 3,
+    "MaxStrength": 6,
+    "Dexterity": 2,
+    "MaxDexterity": 5,
+    "Vitality": 3,
+    "MaxVitality": 6,
+    "Special": 2,
+    "MaxSpecial": 5,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Water Absorb",
+    "Ability2": "Swift Swim",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Expert",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "poliwrath",
+    "DexCategory": "Tadpole Pokémon",
+    "Height": {
+        "Meters": 1.3,
+        "Feet": 4.3
+    },
+    "Weight": {
+        "Kilograms": 54.0,
+        "Pounds": 120.0
+    },
+    "DexDescription": "It's not common to find it in the wild. Most sightings take place when it is on land. Once it is inside the water, it will swim far away. This Pokémon is an outstanding swimmer, capable of beating any human.",
+    "Evolutions": [
+        {
+            "From": "Poliwhirl",
+            "Kind": "Stone",
+            "Item": "Water Stone"
+        }
+    ],
+    "Image": "poliwrath.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Water Sport"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Water Gun"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Hypnosis"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Bubble"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Circle Throw"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Rain Dance"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Submission"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Dynamic Punch"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Body Slam"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Earth Power"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Seismic Toss"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Bubble Beam"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Wake-Up Slap"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Belly Drum"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Mud Bomb"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Hydro Pump"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Double-Edge"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Icy Wind"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Coaching"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Counter"
+        }
+    ]
+}

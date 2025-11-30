@@ -1,0 +1,19 @@
+{
+    "Name": "Shadow Claw",
+    "Type": "Ghost",
+    "Power": 3,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "Single Target. Lethal. High Critical.",
+    "Description": "The Pokémon uses their ghostly claws to slash through their foe’s body tearing not their flesh but their soul directly.",
+    "_id": "shadow-claw",
+    "Attributes": {
+        "HighCritical": true,
+        "Lethal": true
+    },
+    "AddedEffects": {},
+    "Category": "Physical"
+}

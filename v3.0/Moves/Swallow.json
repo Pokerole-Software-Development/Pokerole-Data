@@ -1,0 +1,16 @@
+{
+    "Name": "Swallow",
+    "Type": "Normal",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Vitality",
+    "Accuracy2": "Nature",
+    "Target": "Self",
+    "Effect": "Target Self. The user must have previously used the Move \"Stockpile\", otherwise this Move will fail. Complete Heal, if successful, spend 1 Will point to activate. Reduce by 1 the User's Defense and Sp. Defense.",
+    "Description": "After stockpiling, the Pokémon swallows the energy to restore their health, they go back to their normal size afterwards.",
+    "_id": "swallow",
+    "Attributes": {},
+    "AddedEffects": {},
+    "Category": "Support"
+}

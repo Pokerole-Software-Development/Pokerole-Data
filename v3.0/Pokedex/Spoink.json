@@ -1,0 +1,127 @@
+{
+    "Number": 325,
+    "DexID": "0325",
+    "Name": "Spoink",
+    "Type1": "Psychic",
+    "Type2": "",
+    "BaseHP": 3,
+    "Strength": 1,
+    "MaxStrength": 3,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 1,
+    "MaxVitality": 3,
+    "Special": 2,
+    "MaxSpecial": 5,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Gluttony",
+    "Ability2": "Own Tempo",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Rookie",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "spoink",
+    "DexCategory": "Bounce Pokémon",
+    "Height": {
+        "Meters": 0.7,
+        "Feet": 2.3
+    },
+    "Weight": {
+        "Kilograms": 30.0,
+        "Pounds": 67.0
+    },
+    "DexDescription": "They are always bouncing with their tail. If they ever stop, their heart wouldn't beat anymore. Spoinks balance a pearl from Clamperl on their head; if it's lost, they won't be able to control their psychic powers.",
+    "Evolutions": [
+        {
+            "To": "Grumpig",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "spoink.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Splash"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Psywave"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Growl"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Psybeam"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Odor Sleuth"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Confuse Ray"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Psych Up"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Magic Coat"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Zen Headbutt"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Power Gem"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Rest"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Snore"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Psyshock"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Payback"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Role Play"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Bounce"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Psychic"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Signal Beam"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Simple Beam"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Mirror Coat"
+        }
+    ]
+}

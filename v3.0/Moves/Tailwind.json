@@ -1,0 +1,26 @@
+{
+    "Name": "Tailwind",
+    "Type": "Flying",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Clever",
+    "Accuracy2": "Nature",
+    "Target": "Ally's Battlefield",
+    "Effect": "Target User's side of the Field. Wind Move. Increase by 2 the Dexterity of everyone on the User's side of the field. Duration 4 Rounds.",
+    "Description": "Flying Pokémon know better than anyone how to use the wind in their favor. Let its draft carry you to victory.",
+    "_id": "tailwind",
+    "Attributes": {
+        "Duration": 4,
+        "WindMove": true
+    },
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Tailwind",
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Support"
+}

@@ -1,0 +1,24 @@
+{
+    "Name": "Powder Snow",
+    "Type": "Ice",
+    "Power": 2,
+    "Damage1": "Special",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Channel",
+    "Target": "All Foes",
+    "Effect": "Target All Foes in Range. Roll 1 Chance Die to Freeze those affected.",
+    "Description": "A light layer of snow flakes covers the foes, as the layers pile up the possibilities to be trapped into the snow increase.",
+    "_id": "powder-snow",
+    "Attributes": {},
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Freeze",
+                "ChanceDice": 1,
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Special"
+}

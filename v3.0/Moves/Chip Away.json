@@ -1,0 +1,18 @@
+{
+    "Name": "Chip Away",
+    "Type": "Normal",
+    "Power": 2,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Insight",
+    "Accuracy2": "Stealth",
+    "Target": "Foe",
+    "Effect": "Single Target. Ignore Cover & Substitute decoys. Ignore Defenses. Remove effects that increase Evasion Actions from the Target (ie Moves like: Double Team, Minimize. Abilities like: Sand Veil) ",
+    "Description": "Bit by bit the Pokémon finds an opening though all layers of defense their target has until there is nothing left to protect it from a direct strike.",
+    "_id": "chip-away",
+    "Attributes": {
+        "IgnoreDefenses": true
+    },
+    "AddedEffects": {},
+    "Category": "Physical"
+}

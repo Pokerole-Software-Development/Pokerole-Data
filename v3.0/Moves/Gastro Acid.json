@@ -1,0 +1,23 @@
+{
+    "Name": "Gastro Acid",
+    "Type": "Poison",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Special",
+    "Accuracy2": "Channel",
+    "Target": "Foe",
+    "Effect": "Single Target. Negate any effect the Target's Ability would have. Whole Scene Duration.",
+    "Description": "The user spews their gastric juices on the foe. It’s so disgusting the foe can only concentrate on getting cleaned ASAP",
+    "_id": "gastro-acid",
+    "Attributes": {},
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "SuppressAbility",
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Support"
+}

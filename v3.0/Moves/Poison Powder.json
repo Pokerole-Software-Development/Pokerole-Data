@@ -1,0 +1,26 @@
+{
+    "Name": "Poison Powder",
+    "Type": "Poison",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Clever",
+    "Accuracy2": "Nature",
+    "Target": "Foe",
+    "Effect": "Single Target. Low Accuracy 3. Powder Move. Poison the Target.",
+    "Description": "A cloud of noxius powder that immediately sends the target’s immune system into overdrive.",
+    "_id": "poison-powder",
+    "Attributes": {
+        "AccuracyReduction": -2,
+        "PowderMove": true
+    },
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Poison",
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Support"
+}

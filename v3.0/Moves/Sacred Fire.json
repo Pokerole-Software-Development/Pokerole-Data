@@ -1,0 +1,27 @@
+{
+    "Name": "Sacred Fire",
+    "Type": "Fire",
+    "Power": 4,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Insight",
+    "Accuracy2": "Channel",
+    "Target": "Foe",
+    "Effect": "Single Target. Lethal. Unique. Roll 5 Chance Dice to inflict 3rd Degree Burn on the Target.",
+    "Description": "A blazing pillar of rainbow-colored flames crashes upon the foe, it burns and cleanses all evil from within. Those with a pure heart should not fear for they shall be unharmed.",
+    "_id": "sacred-fire",
+    "Attributes": {
+        "Lethal": true,
+        "Unique": true
+    },
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Burn3",
+                "ChanceDice": 5,
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Physical"
+}

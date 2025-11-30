@@ -1,0 +1,26 @@
+{
+    "Name": "Mean Look",
+    "Type": "Normal",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Tough",
+    "Accuracy2": "Intimidate",
+    "Target": "Foe",
+    "Effect": "Single Target. Blocks. Whole Scene Duration.",
+    "Description": "An intense and ever-vigilant stare that surveils all possible paths the foe has to escape.",
+    "_id": "mean-look",
+    "Attributes": {
+        "BlockDamagePool": 0,
+        "Duration": "wholeScene"
+    },
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Block",
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Support"
+}

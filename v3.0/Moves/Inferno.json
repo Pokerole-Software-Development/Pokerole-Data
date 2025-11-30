@@ -1,0 +1,26 @@
+{
+    "Name": "Inferno",
+    "Type": "Fire",
+    "Power": 4,
+    "Damage1": "Special",
+    "Damage2": "",
+    "Accuracy1": "Special",
+    "Accuracy2": "Channel",
+    "Target": "Foe",
+    "Effect": "Single Target. Low Accuracy 3. Lethal. Inflict 3rd Degree Burn on the Target.",
+    "Description": "The user sets their target on fire with unforgiving flames. Abandon all hope.",
+    "_id": "inferno",
+    "Attributes": {
+        "Lethal": true,
+        "AccuracyReduction": -3
+    },
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Burn3",
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Special"
+}

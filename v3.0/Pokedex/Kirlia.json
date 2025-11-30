@@ -1,0 +1,145 @@
+{
+    "Number": 281,
+    "DexID": "0281",
+    "Name": "Kirlia",
+    "Type1": "Psychic",
+    "Type2": "Fairy",
+    "BaseHP": 4,
+    "Strength": 1,
+    "MaxStrength": 3,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 1,
+    "MaxVitality": 3,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Synchronize",
+    "Ability2": "Trace",
+    "HiddenAbility": "Telepathy",
+    "EventAbilities": "",
+    "RecommendedRank": "Standard",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "kirlia",
+    "DexCategory": "Emotion Pokémon",
+    "Height": {
+        "Meters": 0.8,
+        "Feet": 2.6
+    },
+    "Weight": {
+        "Kilograms": 20.0,
+        "Pounds": 44.0
+    },
+    "DexDescription": "When they use their powers, their surroundings are distorted with mirages and illusory sceneries from the future and the past. Kirlia like to dance and dislike being bossed around.",
+    "Evolutions": [
+        {
+            "From": "Ralts",
+            "Kind": "Level",
+            "Speed": "Medium"
+        },
+        {
+            "To": "Gardevoir",
+            "Kind": "Special",
+            "Item": "Dawn Stone"
+        },
+        {
+            "To": "Gallade",
+            "Kind": "Special",
+            "Item": "Dawn Stone"
+        }
+    ],
+    "Image": "kirlia.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Growl"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Disarming Voice"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Double Team"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Confusion"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Hypnosis"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Lucky Chant"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Draining Kiss"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Teleport"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Psybeam"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Life Dew"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Charm"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Calm Mind"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Magical Leaf"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Stored Power"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Psychic"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Imprison"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Dream Eater"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Heal Pulse"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Future Sight"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Helping Hand"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Ally Switch"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Grudge"
+        }
+    ]
+}

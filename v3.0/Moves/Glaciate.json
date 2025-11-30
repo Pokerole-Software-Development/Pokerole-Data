@@ -1,0 +1,36 @@
+{
+    "Name": "Glaciate",
+    "Type": "Ice",
+    "Power": 2,
+    "Damage1": "Special",
+    "Damage2": "",
+    "Accuracy1": "Special",
+    "Accuracy2": "Channel",
+    "Target": "All Foes",
+    "Effect": "Target All Foes in Range. Lethal. Unique. Reduce by 1 the Dexterity of those Affected. Roll 3 Chance Dice to Freeze those Affected.",
+    "Description": "The air is so cold it hurts to move, to see, to breath. Escaping should be your top priority, for every second you don’t your life will be at peril.",
+    "_id": "glaciate",
+    "Attributes": {
+        "Lethal": true,
+        "Unique": true
+    },
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Freeze",
+                "ChanceDice": 3,
+                "Affects": "Targets"
+            }
+        ],
+        "StatChanges": [
+            {
+                "Stats": [
+                    "Dexterity"
+                ],
+                "Stages": -1,
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Special"
+}

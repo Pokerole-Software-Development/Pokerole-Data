@@ -1,0 +1,19 @@
+{
+    "Name": "Crafty Shield",
+    "Type": "Fairy",
+    "Power": "0 ",
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Insight",
+    "Accuracy2": "Nature",
+    "Target": "All Allies",
+    "Effect": "Target User and Allies in Range. Reaction 3. Shield Move. Negate the Added Effects from Moves made against the Targets.",
+    "Description": "The Pokémon creates a magic shield to protect everyone from any tricks a foe has up their sleeve. Under this shield, everyone can see dishonesty and bad intentions",
+    "_id": "crafty-shield",
+    "Attributes": {
+        "ShieldMove": true,
+        "Reaction": "3"
+    },
+    "AddedEffects": {},
+    "Category": "Support"
+}

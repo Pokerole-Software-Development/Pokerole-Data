@@ -1,0 +1,19 @@
+{
+    "Name": "Copycat",
+    "Type": "Normal",
+    "Power": 0,
+    "Damage1": "SameasCopiedMove",
+    "Damage2": "",
+    "Accuracy1": "SameasCopiedMove",
+    "Accuracy2": "",
+    "Target": "Foe",
+    "Effect": "Single Target. Copy Move. Unique Moves can't be copied. You may choose another Target(s) for the copied Move.",
+    "Description": "The user is incredibly observant and has a talent for impersonations, no one will tell the difference!",
+    "_id": "copycat",
+    "Attributes": {
+        "CopyMove": true,
+        "Unique": true
+    },
+    "AddedEffects": {},
+    "Category": "Support"
+}

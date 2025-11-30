@@ -1,0 +1,155 @@
+{
+    "Number": 476,
+    "DexID": "0476",
+    "Name": "Probopass",
+    "Type1": "Rock",
+    "Type2": "Steel",
+    "BaseHP": 4,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 2,
+    "MaxDexterity": 5,
+    "Vitality": 4,
+    "MaxVitality": 8,
+    "Special": 2,
+    "MaxSpecial": 5,
+    "Insight": 4,
+    "MaxInsight": 8,
+    "Ability1": "Sturdy",
+    "Ability2": "Magnet Pull",
+    "HiddenAbility": "Sand Force",
+    "EventAbilities": "",
+    "RecommendedRank": "Expert",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "probopass",
+    "DexCategory": "Compass Pokémon",
+    "Height": {
+        "Meters": 1.4,
+        "Feet": 4.6
+    },
+    "Weight": {
+        "Kilograms": 680.0,
+        "Pounds": 1496.0
+    },
+    "DexDescription": "It exudes strong magnetic field. It controls three small units or 'Mini-Noses' that float around and serve as extensible limbs. Most of the time it stays motionless, unless attacked or provoked.",
+    "Evolutions": [
+        {
+            "From": "Nosepass",
+            "Kind": "Level",
+            "Speed": "Slow"
+        }
+    ],
+    "Image": "probopass.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Block"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Iron Defense"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Smack Down"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Thunder Wave"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Rock Blast"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Rest"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Spark"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Tri Attack"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Magnet Bomb"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Rock Slide"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Power Gem"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Sandstorm"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Discharge"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Magnet Rise"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Magnetic Flux"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Wide Guard"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Gravity"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Stone Edge"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Earth Power"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Flash Cannon"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Lock-On"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Zap Cannon"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Body Press"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Iron Head"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Endure"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Ancient Power"
+        }
+    ]
+}

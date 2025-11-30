@@ -1,0 +1,16 @@
+{
+    "Name": "Bolt Beak",
+    "Type": "Electric",
+    "Power": 3,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "Single Target. *If this is the first Action of the Round for the User, add 2 Extra Dice to the Damage pool of this Move",
+    "Description": "The Pokémon charges with its beak and pecks its foe. If the foe is not fast enough it will be zapped with a jolt of electricity.",
+    "_id": "bolt-beak",
+    "Attributes": {},
+    "AddedEffects": {},
+    "Category": "Physical"
+}

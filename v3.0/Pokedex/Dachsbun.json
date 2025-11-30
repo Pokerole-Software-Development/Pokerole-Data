@@ -1,0 +1,143 @@
+{
+    "Number": 927,
+    "DexID": "0927",
+    "Name": "Dachsbun",
+    "Type1": "Fairy",
+    "Type2": "",
+    "BaseHP": 4,
+    "Strength": 2,
+    "MaxStrength": 5,
+    "Dexterity": 3,
+    "MaxDexterity": 6,
+    "Vitality": 3,
+    "MaxVitality": 6,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Well-Baked Body",
+    "Ability2": "Aroma Veil",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Advanced",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "dachsbun",
+    "DexCategory": "Dog Pokémon",
+    "Height": {
+        "Meters": 0.5,
+        "Feet": 1.7
+    },
+    "Weight": {
+        "Kilograms": 15.0,
+        "Pounds": 32.0
+    },
+    "DexDescription": "Dachsbun is every wheat farmer's best friend, as the delicious aroma it emanates helps the fields grow with golden grains. Their body can harden when exposed to heat, and they are excellent vermin hunters.",
+    "Evolutions": [
+        {
+            "From": "Fidough",
+            "Kind": "Level",
+            "Speed": "Slow"
+        }
+    ],
+    "Image": "dachsbun.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Growl"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Lick"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Tail Whip"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Covet"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Bite"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Baby-Doll Eyes"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Play Rough"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Fire Fang"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Ice Fang"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Psychic Fangs"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Thunder Fang"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Work Up"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Baton Pass"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Roar"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Charm"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Sweet Scent"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Double-Edge"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Wish"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Crunch"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Last Resort"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Body Press"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Misty Terrain"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Copycat"
+        }
+    ]
+}

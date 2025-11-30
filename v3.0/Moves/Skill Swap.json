@@ -1,0 +1,27 @@
+{
+    "Name": "Skill Swap",
+    "Type": "Psychic",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Clever",
+    "Accuracy2": "Perform",
+    "Target": "Foe",
+    "Effect": "Single Target. Switch the User's Ability with the Target's. Whole Scene Duration. This affect does not end by switching out the affected Pokemon. Unique Abilities can't be switched.",
+    "Description": "The Pokémon enters their foe’s mind to assimilate the traits of that species while make the foe think it is a member from another species. The foe gets an identity crisis afterwards.",
+    "_id": "skill-swap",
+    "Attributes": {
+        "AbilityChange": true,
+        "Duration": "wholeScene",
+        "Unique": true
+    },
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "ChangedAbility",
+                "Affects": "User"
+            }
+        ]
+    },
+    "Category": "Support"
+}

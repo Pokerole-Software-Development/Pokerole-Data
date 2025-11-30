@@ -1,0 +1,27 @@
+{
+    "Name": "Bulk Up",
+    "Type": "Fighting",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Vitality",
+    "Accuracy2": "Athletic",
+    "Target": "Self",
+    "Effect": "Target Self. Increase by 1 the User's Strength and Defense.",
+    "Description": "The Pokémon showcase their muscles through poses that highlight their fitness and bodybuilding discipline.",
+    "_id": "bulk-up",
+    "Attributes": {},
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "Strength",
+                    "Def"
+                ],
+                "Stages": 1,
+                "Affects": "User"
+            }
+        ]
+    },
+    "Category": "Support"
+}

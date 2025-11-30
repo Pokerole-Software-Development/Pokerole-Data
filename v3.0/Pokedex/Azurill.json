@@ -1,0 +1,108 @@
+{
+    "Number": 298,
+    "DexID": "0298",
+    "Name": "Azurill",
+    "Type1": "Normal",
+    "Type2": "Fairy",
+    "BaseHP": 4,
+    "Strength": 1,
+    "MaxStrength": 3,
+    "Dexterity": 1,
+    "MaxDexterity": 3,
+    "Vitality": 1,
+    "MaxVitality": 3,
+    "Special": 1,
+    "MaxSpecial": 3,
+    "Insight": 1,
+    "MaxInsight": 3,
+    "Ability1": "Huge Power",
+    "Ability2": "Thick Fat",
+    "HiddenAbility": "Sap Sipper",
+    "EventAbilities": "",
+    "RecommendedRank": "Starter",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "azurill",
+    "DexCategory": "Polka Dot Pokémon",
+    "Height": {
+        "Meters": 0.2,
+        "Feet": 0.75
+    },
+    "Weight": {
+        "Kilograms": 2.0,
+        "Pounds": 4.0
+    },
+    "DexDescription": "They use their tail as a lasso. When they throw their ball, Azurill get dragged along with it. They are commonly seen bouncing and playing with other Pokémon on the beach. They love fruit pops.",
+    "Evolutions": [
+        {
+            "To": "Marill",
+            "Kind": "Stat",
+            "Stat": "Happiness",
+            "Value": 4
+        }
+    ],
+    "Image": "azurill.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Splash"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Water Gun"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Tail Whip"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Water Sport"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Bubble"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Charm"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Slam"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Hold Hands"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Bubble Beam"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Helping Hand"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Bounce"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Soak"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Tickle"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Sing"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Fake Tears"
+        }
+    ]
+}

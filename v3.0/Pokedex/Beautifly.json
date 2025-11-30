@@ -1,0 +1,127 @@
+{
+    "Number": 267,
+    "DexID": "0267",
+    "Name": "Beautifly",
+    "Type1": "Bug",
+    "Type2": "Flying",
+    "BaseHP": 5,
+    "Strength": 2,
+    "MaxStrength": 5,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 3,
+    "MaxSpecial": 6,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Swarm",
+    "Ability2": "Rivalry",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Standard",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "beautifly",
+    "DexCategory": "Butterfly Pokémon",
+    "Height": {
+        "Meters": 1.0,
+        "Feet": 3.25
+    },
+    "Weight": {
+        "Kilograms": 28.0,
+        "Pounds": 62.0
+    },
+    "DexDescription": "They can't resist a flower's pollen; if you leave a flower on the window, a Beautifly is sure to come. Don't be fooled, for they are dangerous; they drain living creatures of their fluids just as they do with flowers.",
+    "Evolutions": [
+        {
+            "From": "Silcoon",
+            "Kind": "Level",
+            "Speed": "Fast"
+        }
+    ],
+    "Image": "beautifly.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Bug Bite"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Absorb"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Gust"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Stun Spore"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Morning Sun"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Air Cutter"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Mega Drain"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Leech Life"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Attract"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Whirlwind"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Rage"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Silver Wind"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Protect"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Giga Drain"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Bug Buzz"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Quiver Dance"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Swift"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Defog"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Captivate"
+        }
+    ]
+}

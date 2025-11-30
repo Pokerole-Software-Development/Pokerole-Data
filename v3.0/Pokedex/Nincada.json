@@ -1,0 +1,112 @@
+{
+    "Number": 290,
+    "DexID": "0290",
+    "Name": "Nincada",
+    "Type1": "Bug",
+    "Type2": "Ground",
+    "BaseHP": 3,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 1,
+    "MaxDexterity": 3,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 1,
+    "MaxSpecial": 3,
+    "Insight": 1,
+    "MaxInsight": 3,
+    "Ability1": "Compound Eyes",
+    "Ability2": "Run Away",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Standard",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "nincada",
+    "DexCategory": "Trainee Pokémon",
+    "Height": {
+        "Meters": 0.5,
+        "Feet": 1.6
+    },
+    "Weight": {
+        "Kilograms": 5.5,
+        "Pounds": 12.1
+    },
+    "DexDescription": "They live underground for decades, absorbing nutrients from roots and waiting for evolution. Nincada are nearly blind and cannot stand bright lights. They only come out to shed their exoskeleton and evolve.",
+    "Evolutions": [
+        {
+            "To": "Ninjask",
+            "Kind": "Level",
+            "Speed": "Medium"
+        },
+        {
+            "To": "Shedinja",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "nincada.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Scratch"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Sand Attack"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Harden"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "False Swipe"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Mud Slap"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Mind Reader"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Absorb"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Bide"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Fury Swipes"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Metal Claw"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Leech Life"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Dig"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Giga Drain"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Skitter Smack"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Final Gambit"
+        }
+    ]
+}

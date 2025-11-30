@@ -1,0 +1,19 @@
+{
+    "Name": "Mighty Cleave",
+    "Type": "Rock",
+    "Power": 4,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "Single Target. Cutter Move. Ignore Shield Moves & Force Fields active on the foe or their side of the field.",
+    "Description": "With a mighty light, the Pokémon cleaves through the foe’s protections and strikes like a boulder.",
+    "_id": "mighty-cleave",
+    "Attributes": {
+        "IgnoreShield": true,
+        "CutterMove": true
+    },
+    "AddedEffects": {},
+    "Category": "Physical"
+}

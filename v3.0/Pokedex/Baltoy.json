@@ -1,0 +1,127 @@
+{
+    "Number": 343,
+    "DexID": "0343",
+    "Name": "Baltoy",
+    "Type1": "Ground",
+    "Type2": "Psychic",
+    "BaseHP": 3,
+    "Strength": 1,
+    "MaxStrength": 3,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 1,
+    "MaxSpecial": 3,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Levitate",
+    "Ability2": "",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Rookie",
+    "GenderType": "N",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "baltoy",
+    "DexCategory": "Clay Doll Pokémon",
+    "Height": {
+        "Meters": 0.5,
+        "Feet": 1.66
+    },
+    "Weight": {
+        "Kilograms": 21.0,
+        "Pounds": 47.0
+    },
+    "DexDescription": "They spin on their center to move around. When a group of them gathers they create a horrible, headache-inducing noise in unison. Old paintings show them living with people in ancient times.",
+    "Evolutions": [
+        {
+            "To": "Claydol",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "baltoy.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Mud Slap"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Harden"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Rapid Spin"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Confusion"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Rock Tomb"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Heal Block"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Psybeam"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Power Trick"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Ancient Power"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Cosmic Power"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Extrasensory"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Earth Power"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Self Destruct"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Power Split"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Guard Split"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Sandstorm"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Explosion"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Signal Beam"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Gravity"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Trick"
+        }
+    ]
+}

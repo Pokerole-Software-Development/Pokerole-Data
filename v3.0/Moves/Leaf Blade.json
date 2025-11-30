@@ -1,0 +1,20 @@
+{
+    "Name": "Leaf Blade",
+    "Type": "Grass",
+    "Power": 3,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "Single Target. High Critical. Lethal. Cutter Move.",
+    "Description": "Danger lies not on the material’s toughness but on its edge’s sharpness.",
+    "_id": "leaf-blade",
+    "Attributes": {
+        "HighCritical": true,
+        "Lethal": true,
+        "CutterMove": true
+    },
+    "AddedEffects": {},
+    "Category": "Physical"
+}

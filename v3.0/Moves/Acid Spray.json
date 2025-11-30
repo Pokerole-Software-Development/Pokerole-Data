@@ -1,0 +1,26 @@
+{
+    "Name": "Acid Spray",
+    "Type": "Poison",
+    "Power": 2,
+    "Damage1": "Special",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Channel",
+    "Target": "Foe",
+    "Effect": "Single Target. Projectile Move. Reduce the Target's Sp. Defense by 2.",
+    "Description": "Do not point at face or eyes. Keep away from children.",
+    "_id": "acid-spray",
+    "Attributes": {},
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "Special"
+                ],
+                "Stages": -2,
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Special"
+}

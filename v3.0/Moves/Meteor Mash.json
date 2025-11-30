@@ -1,0 +1,30 @@
+{
+    "Name": "Meteor Mash",
+    "Type": "Steel",
+    "Power": 3,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "Single Target. Low Accuracy 1. Fist Move. Roll 2 Chance Dice to increase the User's Strength by 1.",
+    "Description": "A great meteor fell, leading to the extinction of all prehistoric Pokémon. The user re-enacts that meteor on a smaller scale, as it only needs to extinguish one.",
+    "_id": "meteor-mash",
+    "Attributes": {
+        "AccuracyReduction": -1,
+        "FistMove": true
+    },
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "Strength"
+                ],
+                "Stages": 1,
+                "ChanceDice": 2,
+                "Affects": "User"
+            }
+        ]
+    },
+    "Category": "Physical"
+}

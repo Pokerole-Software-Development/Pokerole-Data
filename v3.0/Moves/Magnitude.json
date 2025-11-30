@@ -1,0 +1,19 @@
+{
+    "Name": "Magnitude",
+    "Type": "Ground",
+    "Power": "X",
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Strength",
+    "Accuracy2": "Nature",
+    "Target": "Area",
+    "Effect": "Area Move. Ranged. Before you roll damage, Roll 1 die to determine this Move's Power. If the Target is out of range due to using the Move \"Dig\" this Move hits anyways.",
+    "Description": "The user shakes the tectonic plates underneath the battlefield, trying to find a fault, when they do, this Move is devastating.",
+    "_id": "magnitude",
+    "Attributes": {
+        "PhysicalRanged": true,
+        "Ranged": true
+    },
+    "AddedEffects": {},
+    "Category": "Physical"
+}

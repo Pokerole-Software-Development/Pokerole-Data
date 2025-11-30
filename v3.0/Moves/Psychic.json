@@ -1,0 +1,27 @@
+{
+    "Name": "Psychic",
+    "Type": "Psychic",
+    "Power": 3,
+    "Damage1": "Special",
+    "Damage2": "",
+    "Accuracy1": "Insight",
+    "Accuracy2": "Channel",
+    "Target": "Foe",
+    "Effect": "Single Target. Roll 1 Chance Die to Reduce the Target's Sp. Defense by 1.",
+    "Description": "The most iconic Psychic attack, the foe starts floating in the air and its swayed around by telekinesis as their mental barrier crumbles.",
+    "_id": "psychic",
+    "Attributes": {},
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "SpDef"
+                ],
+                "Stages": -1,
+                "ChanceDice": 1,
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Special"
+}

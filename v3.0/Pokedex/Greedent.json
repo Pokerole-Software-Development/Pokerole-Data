@@ -1,0 +1,143 @@
+{
+    "Number": 820,
+    "DexID": "0820",
+    "Name": "Greedent",
+    "Type1": "Normal",
+    "Type2": "",
+    "BaseHP": 7,
+    "Strength": 3,
+    "MaxStrength": 6,
+    "Dexterity": 1,
+    "MaxDexterity": 3,
+    "Vitality": 3,
+    "MaxVitality": 6,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Cheek Pouch",
+    "Ability2": "Gluttony",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Standard",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "greedent",
+    "DexCategory": "Greedy Pokémon",
+    "Height": {
+        "Meters": 0.6,
+        "Feet": 2.0
+    },
+    "Weight": {
+        "Kilograms": 6.0,
+        "Pounds": 13.0
+    },
+    "DexDescription": "They are a little dim-witted as they think of nothing but eating. Greedent hide and store berries in their tails. Many of them fall out, becoming new trees the next year. Their teeth are very strong.",
+    "Evolutions": [
+        {
+            "From": "Skwovet",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "greedent.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Tail Whip"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Bite"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Stuff Cheeks"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Covet"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Stockpile"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Swallow"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Spit Up"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Body Slam"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Defense Curl"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Rollout"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Fire Fang"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Ice Fang"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Thunder Fang"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Rest"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Counter"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Bullet Seed"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Super Fang"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Endure"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Crunch"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Belch"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Last Resort"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Belly Drum"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Psychic Fangs"
+        }
+    ]
+}

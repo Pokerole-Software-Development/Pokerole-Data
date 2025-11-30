@@ -1,0 +1,19 @@
+{
+    "Name": "Mimic",
+    "Type": "Normal",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Clever",
+    "Accuracy2": "Perform",
+    "Target": "Foe",
+    "Effect": "Single Target. Copy Move. Replace \"Mimic\" with the copied Move. Whole Scene Duration.",
+    "Description": "The Pokémon is a quick learner. They imitate their target’s movements and just like that they get a new set of powers.",
+    "_id": "mimic",
+    "Attributes": {
+        "CopyMove": true,
+        "Duration": "wholeScene"
+    },
+    "AddedEffects": {},
+    "Category": "Support"
+}

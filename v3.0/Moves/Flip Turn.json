@@ -1,0 +1,18 @@
+{
+    "Name": "Flip Turn",
+    "Type": "Water",
+    "Power": 2,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Athletic",
+    "Target": "Foe",
+    "Effect": "Single Target. Switcher Move for the User.",
+    "Description": "Charge at the foe as a cannon ball made out of water. The big splash causes bystanders to lose sight on the battlefield. When the splash settles, the user is gone.",
+    "_id": "flip-turn",
+    "Attributes": {
+        "SwitcherMove": "User"
+    },
+    "AddedEffects": {},
+    "Category": "Physical"
+}

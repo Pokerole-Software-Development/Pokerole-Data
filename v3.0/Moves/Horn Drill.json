@@ -1,0 +1,24 @@
+{
+    "Name": "Horn Drill",
+    "Type": "Normal",
+    "Power": 0,
+    "Damage1": "-",
+    "Damage2": "",
+    "Accuracy1": "Strength",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "Single Target. Low Accuracy 5. Deal Damage equal to the Target's Remaining HP, plus 1 Lethal Damage.",
+    "Description": "The Pokémon stabs the target with a spinning horn, drilling through them until they are critical condition. Hurry to the nearest Pokémon Center.",
+    "_id": "horn-drill",
+    "Attributes": {
+        "Lethal": true,
+        "AccuracyReduction": -5
+    },
+    "AddedEffects": {
+        "FixedDamage": {
+            "Type": "OneHitKO",
+            "Target": "Targets"
+        }
+    },
+    "Category": "Physical"
+}

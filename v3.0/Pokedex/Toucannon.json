@@ -1,0 +1,135 @@
+{
+    "Number": 733,
+    "DexID": "0733",
+    "Name": "Toucannon",
+    "Type1": "Normal",
+    "Type2": "Flying",
+    "BaseHP": 5,
+    "Strength": 3,
+    "MaxStrength": 7,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 2,
+    "MaxSpecial": 5,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Skill Link",
+    "Ability2": "Sheer Force",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Expert",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "toucannon",
+    "DexCategory": "Blade Quill Pokémon",
+    "Height": {
+        "Meters": 1.1,
+        "Feet": 3.6
+    },
+    "Weight": {
+        "Kilograms": 26.0,
+        "Pounds": 57.0
+    },
+    "DexDescription": "It can store and expel an extremely hot gas through its beak that ignites easily. The berry seeds it shoots can pierce boulders, leaving perfectly round holes in them. Fortunately, they nest deep in the jungle.",
+    "Evolutions": [
+        {
+            "From": "Trumbeak",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "toucannon.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Peck"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Growl"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Echoed Voice"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Rock Smash"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Supersonic"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Pluck"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Roost"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Fury Attack"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Screech"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Drill Peck"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Bullet Seed"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Rock Blast"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Feather Dance"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Fly"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Flame Charge"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Hyper Voice"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Brave Bird"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Boomburst"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Beak Blast"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Tailwind"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Seed Bomb"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Gunk Shot"
+        }
+    ]
+}

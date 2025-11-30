@@ -1,0 +1,29 @@
+{
+    "Name": "Telekinesis",
+    "Type": "Psychic",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Special",
+    "Accuracy2": "Channel",
+    "Target": "Foe",
+    "Effect": "Single Target. Target becomes immune to Ground-Type Moves. Target can't Evade. Duration 2 Rounds.",
+    "Description": "The target levitates from the ground as the user’s telekinetic powers prevent its movement.",
+    "_id": "telekinesis",
+    "Attributes": {
+        "Duration": 2
+    },
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Telekinesis",
+                "Affects": "Targets"
+            },
+            {
+                "Type": "Hovering",
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Support"
+}

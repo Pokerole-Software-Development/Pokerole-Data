@@ -1,0 +1,135 @@
+{
+    "Number": 1013,
+    "DexID": "1013F1",
+    "Name": "Sinistcha (Unremarkable Form)",
+    "Type1": "Grass",
+    "Type2": "Ghost",
+    "BaseHP": 5,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 2,
+    "MaxDexterity": 5,
+    "Vitality": 3,
+    "MaxVitality": 6,
+    "Special": 3,
+    "MaxSpecial": 6,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Hospitality",
+    "Ability2": "Heatproof",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Advanced",
+    "GenderType": "N",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "sinistcha-unremarkable-form",
+    "DexCategory": "Matcha Pokémon",
+    "Height": {
+        "Meters": 0.2,
+        "Feet": 0.7
+    },
+    "Weight": {
+        "Kilograms": 2.0,
+        "Pounds": 4.0
+    },
+    "DexDescription": "It haunts the back of the tea shelves, as it prefers cool and dry places. It disguises itself as a hot beverage to drain the life force of those who may drink it, but most people spit it out due to its bitter taste.",
+    "Evolutions": [
+        {
+            "From": "Poltchageist (Counterfeit Form)",
+            "Kind": "Item",
+            "Item": "Unremarkable Teacup"
+        }
+    ],
+    "Image": "sinistcha-unremarkable-form.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Stun Spore"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Withdraw"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Astonish"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Absorb"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Rage Powder"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Life Dew"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Calm Mind"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Spite"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Foul Play"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Mega Drain"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Matcha Gotcha"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Strength Sap"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Hex"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Scald"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Pain Split"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Curse"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Shadow Ball"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Memento"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Leaf Storm"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Psych Up"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Night Shade"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Grassy Terrain"
+        }
+    ]
+}

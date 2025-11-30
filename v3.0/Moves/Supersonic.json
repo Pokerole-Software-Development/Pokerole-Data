@@ -1,0 +1,26 @@
+{
+    "Name": "Supersonic",
+    "Type": "Normal",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Tough",
+    "Accuracy2": "Channel",
+    "Target": "Foe",
+    "Effect": "Single Target. Low Accuracy 3. Sound Move. Confuse the Target.",
+    "Description": "The Pokémon shoots a series of ultrasonic waves that mess with the foe by making it feel dizzy and disoriented.",
+    "_id": "supersonic",
+    "Attributes": {
+        "AccuracyReduction": -3,
+        "SoundMove": true
+    },
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Confuse",
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Support"
+}

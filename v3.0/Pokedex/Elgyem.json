@@ -1,0 +1,135 @@
+{
+    "Number": 605,
+    "DexID": "0605",
+    "Name": "Elgyem",
+    "Type1": "Psychic",
+    "Type2": "",
+    "BaseHP": 3,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 1,
+    "MaxDexterity": 3,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 2,
+    "MaxSpecial": 5,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Telepathy",
+    "Ability2": "Synchronize",
+    "HiddenAbility": "Analytic",
+    "EventAbilities": "",
+    "RecommendedRank": "Standard",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "elgyem",
+    "DexCategory": "Cerebral Pokémon",
+    "Height": {
+        "Meters": 0.5,
+        "Feet": 1.7
+    },
+    "Weight": {
+        "Kilograms": 9.0,
+        "Pounds": 19.0
+    },
+    "DexDescription": "This Pokémon was never seen until it appeared far in the desert about 50 years ago. Rumor has it that it came from space. It uses its strong psychic power to squeeze its foe's brain, causing awful headaches.",
+    "Evolutions": [
+        {
+            "To": "Beheeyem",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "elgyem.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Confusion"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Growl"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Imprison"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Teleport"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Miracle Eye"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Psybeam"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Guard Split"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Power Split"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Headbutt"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Zen Headbutt"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Recover"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Calm Mind"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Hidden Power"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Simple Beam"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Psych Up"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Heal Block"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Psychic"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Wonder Room"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Synchronoise"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Nasty Plot"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Cosmic Power"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Trick Room"
+        }
+    ]
+}

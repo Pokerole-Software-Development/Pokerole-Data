@@ -1,0 +1,144 @@
+{
+    "Number": 578,
+    "DexID": "0578",
+    "Name": "Duosion",
+    "Type1": "Psychic",
+    "Type2": "",
+    "BaseHP": 4,
+    "Strength": 1,
+    "MaxStrength": 3,
+    "Dexterity": 1,
+    "MaxDexterity": 3,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 3,
+    "MaxSpecial": 7,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Overcoat",
+    "Ability2": "Magic Guard",
+    "HiddenAbility": "Regenerator",
+    "EventAbilities": "",
+    "RecommendedRank": "Standard",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "duosion",
+    "DexCategory": "Mitosis Pokémon",
+    "Height": {
+        "Meters": 0.6,
+        "Feet": 2.0
+    },
+    "Weight": {
+        "Kilograms": 8.0,
+        "Pounds": 17.0
+    },
+    "DexDescription": "It developed two brains when it evolved. Due to this, it has a split personality. At times it may suddenly try to take two different actions at once. When the two brains finally synchronize, it shows its max power.",
+    "Evolutions": [
+        {
+            "From": "Solosis",
+            "Kind": "Level",
+            "Speed": "Medium"
+        },
+        {
+            "To": "Reuniclus",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "duosion.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Endeavor"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Confusion"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Psywave"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Protect"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Recover"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Psybeam"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Charm"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Psyshock"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Light Screen"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Reflect"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Rollout"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Snatch"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Hidden Power"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Ally Switch"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Pain Split"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Psychic"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Skill Swap"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Heal Block"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Future Sight"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Wonder Room"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Acid Armor"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Night Shade"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Confuse Ray"
+        }
+    ]
+}

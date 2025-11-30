@@ -1,0 +1,143 @@
+{
+    "Number": 663,
+    "DexID": "0663",
+    "Name": "Talonflame",
+    "Type1": "Fire",
+    "Type2": "Flying",
+    "BaseHP": 5,
+    "Strength": 2,
+    "MaxStrength": 5,
+    "Dexterity": 3,
+    "MaxDexterity": 7,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 2,
+    "MaxSpecial": 5,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Flame Body",
+    "Ability2": "Gale Wings",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Expert",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "talonflame",
+    "DexCategory": "Scorching Pokémon",
+    "Height": {
+        "Meters": 1.2,
+        "Feet": 4.0
+    },
+    "Weight": {
+        "Kilograms": 24.0,
+        "Pounds": 54.0
+    },
+    "DexDescription": "They soar over desert canyons. If they spot prey, they launch down at full speed to deliver a finishing blow. They are excellent hunters. With every wing flap they take, a trail of fiery dust is left behind.",
+    "Evolutions": [
+        {
+            "From": "Fletchinder",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "talonflame.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Growl"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Peck"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Quick Attack"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Ember"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Flail"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Acrobatics"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Razor Wind"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Hone Claws"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Defog"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Natural Gift"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Flame Charge"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Agility"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Aerial Ace"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Me First"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Tailwind"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Steel Wing"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Roost"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Fly"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Brave Bird"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Flare Blitz"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Overheat"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Hurricane"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Double Team"
+        }
+    ]
+}

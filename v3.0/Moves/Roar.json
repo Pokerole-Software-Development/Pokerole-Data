@@ -1,0 +1,20 @@
+{
+    "Name": "Roar",
+    "Type": "Normal",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Strength",
+    "Accuracy2": "Intimidate",
+    "Target": "Foe",
+    "Effect": "Single Target. Late Reaction 6. Switcher Move for the Foe. In the wild, the battle may end.",
+    "Description": "With a potent roar, to make the foe reconsider their intentions.",
+    "_id": "roar",
+    "Attributes": {
+        "SwitcherMoveForFoe": true,
+        "LateReaction": "6",
+        "SwitcherMove": "Foe"
+    },
+    "AddedEffects": {},
+    "Category": "Support"
+}

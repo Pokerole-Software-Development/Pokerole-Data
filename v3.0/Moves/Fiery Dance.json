@@ -1,0 +1,27 @@
+{
+    "Name": "Fiery Dance",
+    "Type": "Fire",
+    "Power": 3,
+    "Damage1": "Special",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Perform",
+    "Target": "Foe",
+    "Effect": "Single Target. Roll 5 Chance Dice to Increase User's Special by 1.",
+    "Description": "The Pokémon cloaks themselves in flames while dancing with graceful passion. The flames are scattered and the user feels reinvigorated.",
+    "_id": "fiery-dance",
+    "Attributes": {},
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "Special"
+                ],
+                "Stages": 1,
+                "ChanceDice": 5,
+                "Affects": "User"
+            }
+        ]
+    },
+    "Category": "Special"
+}

@@ -1,0 +1,23 @@
+{
+    "Name": "Attract",
+    "Type": "Normal",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Beauty",
+    "Accuracy2": "Charm",
+    "Target": "Foe",
+    "Effect": "Single Target. Target is now In Love with the User.",
+    "Description": "Through their good looks and coquetish attitude, the Pokémon makes everyone develop a crush on them.",
+    "_id": "attract",
+    "Attributes": {},
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Infatuate",
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Support"
+}

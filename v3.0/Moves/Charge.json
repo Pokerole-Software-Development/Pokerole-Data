@@ -1,0 +1,23 @@
+{
+    "Name": "Charge",
+    "Type": "Electric",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Insight",
+    "Accuracy2": "Alert",
+    "Target": "Self",
+    "Effect": "Target Self. Add 2 Dice to the Damage Pool of thenext Damaging Electric-Type Move the User performs.",
+    "Description": "The user gathers electricity and stores it to make its attacks more powerful. You may also use them as a living battery for your phone.",
+    "_id": "charge",
+    "Attributes": {},
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Charge",
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Support"
+}

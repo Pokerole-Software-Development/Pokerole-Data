@@ -1,0 +1,26 @@
+{
+    "Name": "Harden",
+    "Type": "Normal",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Vitality",
+    "Accuracy2": "Nature",
+    "Target": "Self",
+    "Effect": "Target Self. Increase the User's Defense by 1.",
+    "Description": "When life gets hard, do the same.",
+    "_id": "harden",
+    "Attributes": {},
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "Def"
+                ],
+                "Stages": 1,
+                "Affects": "User"
+            }
+        ]
+    },
+    "Category": "Support"
+}

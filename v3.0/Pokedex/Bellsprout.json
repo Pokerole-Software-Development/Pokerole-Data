@@ -1,0 +1,119 @@
+{
+    "Number": 69,
+    "DexID": "0069",
+    "Name": "Bellsprout",
+    "Type1": "Grass",
+    "Type2": "Poison",
+    "BaseHP": 3,
+    "Strength": 2,
+    "MaxStrength": 5,
+    "Dexterity": 1,
+    "MaxDexterity": 3,
+    "Vitality": 1,
+    "MaxVitality": 3,
+    "Special": 2,
+    "MaxSpecial": 5,
+    "Insight": 1,
+    "MaxInsight": 3,
+    "Ability1": "Chlorophyll",
+    "Ability2": "Gluttony",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Starter",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "bellsprout",
+    "DexCategory": "Flower Pokémon",
+    "Height": {
+        "Meters": 0.7,
+        "Feet": 2.3
+    },
+    "Weight": {
+        "Kilograms": 4.0,
+        "Pounds": 9.0
+    },
+    "DexDescription": "They live in hot and humid places, blending in with the flora. It is carnivorous and will try to eat anything smaller than itself. It digests its prey with an acid substance in its mouth.",
+    "Evolutions": [
+        {
+            "To": "Weepinbell",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "bellsprout.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Vine Whip"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Growth"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Wrap"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Sleep Powder"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Poison Powder"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Stun Spore"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Acid"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Knock Off"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Sweet Scent"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Gastro Acid"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Razor Leaf"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Slam"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Poison Jab"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Wring Out"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Strength Sap"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Ingrain"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Weather Ball"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Tickle"
+        }
+    ]
+}

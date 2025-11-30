@@ -1,0 +1,28 @@
+{
+    "Name": "Bind",
+    "Type": "Normal",
+    "Power": 1,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Strength",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "Single Target. Low Accuracy 1. Blocks. Ongoing Damage. Duration 4 Rounds. Increase the Target's difficultty to Evade at Storyteller's discretion.",
+    "Description": "The Pokémon uses all their strength to restrain to the foe and keep them in place.",
+    "_id": "bind",
+    "Attributes": {
+        "BlockDamagePool": 2,
+        "AccuracyReduction": -1,
+        "Duration": 4,
+        "OngoingDamage": true
+    },
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Block",
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Physical"
+}

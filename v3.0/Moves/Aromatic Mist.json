@@ -1,0 +1,27 @@
+{
+    "Name": "Aromatic Mist",
+    "Type": "Fairy",
+    "Power": "0 ",
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Insight",
+    "Accuracy2": "Nature",
+    "Target": "Ally",
+    "Effect": "Target One Ally. Increase by 1 the Defense and Sp. Defense of the Target.",
+    "Description": "The Pokémon sprays an ally with a delicate aroma that makes everyone pull their punches against it.",
+    "_id": "aromatic-mist",
+    "Attributes": {},
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "Def",
+                    "SpDef"
+                ],
+                "Stages": 1,
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Support"
+}

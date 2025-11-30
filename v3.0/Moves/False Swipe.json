@@ -1,0 +1,18 @@
+{
+    "Name": "False Swipe",
+    "Type": "Normal",
+    "Power": 2,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Strength",
+    "Accuracy2": "Perform",
+    "Target": "Foe",
+    "Effect": "Single Target. Cutter Move. This Move's Damage can't make the Target go below 1 HP.",
+    "Description": "Through their most dramatic poses, the Pokémon pretends to slice up the foe (the blood is fake).",
+    "_id": "false-swipe",
+    "Attributes": {
+        "CutterMove": true
+    },
+    "AddedEffects": {},
+    "Category": "Physical"
+}

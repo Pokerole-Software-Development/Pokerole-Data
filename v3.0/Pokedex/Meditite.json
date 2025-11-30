@@ -1,0 +1,139 @@
+{
+    "Number": 307,
+    "DexID": "0307",
+    "Name": "Meditite",
+    "Type1": "Fighting",
+    "Type2": "Psychic",
+    "BaseHP": 3,
+    "Strength": 1,
+    "MaxStrength": 3,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 1,
+    "MaxSpecial": 3,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Pure Power",
+    "Ability2": "Telepathy",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Rookie",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "meditite",
+    "DexCategory": "Meditate Pokémon",
+    "Height": {
+        "Meters": 0.6,
+        "Feet": 2.0
+    },
+    "Weight": {
+        "Kilograms": 11.0,
+        "Pounds": 24.0
+    },
+    "DexDescription": "Deep in the mountains they train their mind to increase their spiritual power; however, they lack focus and get distracted easily. As part of their training, Meditite go through a period of fasting.",
+    "Evolutions": [
+        {
+            "To": "Medicham",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "meditite.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Pound"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Low Kick"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Bide"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Confusion"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Detect"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Endure"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Feint"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Force Palm"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Psybeam"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Meditate"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Calm Mind"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Hidden Power"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Mind Reader"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "High Jump Kick"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Psych Up"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Acupressure"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Power Trick"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Reversal"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Recover"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Counter"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Guard Swap"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Power Swap"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Foresight"
+        }
+    ]
+}

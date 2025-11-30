@@ -1,0 +1,28 @@
+{
+    "Name": "Spirit Break",
+    "Type": "Fairy",
+    "Power": 3,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Insight",
+    "Accuracy2": "Intimidate",
+    "Target": "Foe",
+    "Effect": "Single Target. Reduce the Target's Special by 1.",
+    "Description": "Sticks and stones may break your bones but words will too.",
+    "_id": "spirit-break",
+    "Attributes": {
+        "AccuracyReduction": -1
+    },
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "Special"
+                ],
+                "Stages": -1,
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Physical"
+}

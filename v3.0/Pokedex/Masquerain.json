@@ -1,0 +1,143 @@
+{
+    "Number": 284,
+    "DexID": "0284",
+    "Name": "Masquerain",
+    "Type1": "Bug",
+    "Type2": "Flying",
+    "BaseHP": 5,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 2,
+    "MaxDexterity": 5,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 3,
+    "MaxSpecial": 6,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Swift Swim",
+    "Ability2": "Intimidate",
+    "HiddenAbility": "Unnerve",
+    "EventAbilities": "",
+    "RecommendedRank": "Standard",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "masquerain",
+    "DexCategory": "Eyeball Pokémon",
+    "Height": {
+        "Meters": 0.8,
+        "Feet": 2.6
+    },
+    "Weight": {
+        "Kilograms": 3.0,
+        "Pounds": 8.0
+    },
+    "DexDescription": "Their antennas look like terrifying eyes. Masquerain can fly in any direction like a helicopter, but their wings are soft and fragile, so they don't fly when it's raining. They cling to trees at night to sleep.",
+    "Evolutions": [
+        {
+            "From": "Surskit",
+            "Kind": "Level",
+            "Speed": "Fast"
+        }
+    ],
+    "Image": "masquerain.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Water Gun"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Quick Attack"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Sweet Scent"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Bubble"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Soak"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Supersonic"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Gust"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Scary Face"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Agility"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Haze"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Mist"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Sticky Web"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Air Cutter"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Stun Spore"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Whirlwind"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Bubble Beam"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Aqua Jet"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Baton Pass"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Bug Buzz"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Air Slash"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Quiver Dance"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Ominous Wind"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Giga Drain"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Hydro Pump"
+        }
+    ]
+}

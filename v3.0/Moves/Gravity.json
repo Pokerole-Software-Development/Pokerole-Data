@@ -1,0 +1,26 @@
+{
+    "Name": "Gravity",
+    "Type": "Psychic",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Insight/Strength",
+    "Accuracy2": "Channel",
+    "Target": "Battlefield",
+    "Effect": "Target Battlefield. Remove the immunity to Ground-Type Moves for everyone in the field. Moves that require jumping or flying get an Extra \"Low Accuracy 2\". Duration 4 Rounds.",
+    "Description": "An invisisible force pulls everyone to the floor keeps them from taking off the ground.",
+    "_id": "gravity",
+    "Attributes": {
+        "Duration": 4
+    },
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Grounded",
+                "Affects": "Targets"
+            }
+        ],
+        "TerrainEffect": "Gravity"
+    },
+    "Category": "Support"
+}

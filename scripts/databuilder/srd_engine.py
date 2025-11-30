@@ -1,0 +1,195 @@
+from engine import Engine
+from os.path import join
+import yaml
+import pandas as pd
+from shutil import rmtree
+
+VERBOSE = True
+
+class SRD_Engine(Engine):
+    
+    def __init__(self, output_path, game_version):
+        super().__init__(output_path, game_version)
+        self.in_vault_path = join("Pokerole SRD", f"SRD {self.game_version}")
+        self.output_path = join(output_path, "Pokerole SRD", f"SRD {self.game_version}")
+        # Wipe out the Output folder you provided. 
+        rmtree(self.output_path, ignore_errors=True)
+    
+    def pokedex_entry(self, entry, write=True):
+        # Entry dict is also going to be used for the yml metadata. 
+        # if VERBOSE: print(entry['Name'])
+        name = entry['Name']
+        sname = entry['Image'].split('.')
+        entry['BookSprite'] = f"SRD-{sname[0]}-BookSprite.{sname[1]}"
+        entry['HomeSprite'] = f"SRD-{sname[0]}-HomeSprite.{sname[1]}"
+        postfix = '-v2.0' if self.game_version == 'v2.0' else ''
+        # entry['BoxSprite'] = f"SRD-{sname[0]}-BoxSprite.{sname[1]}"
+        # entry['ShuffleToken'] = f"SRD-{sname[0]}-ShuffleToken.{sname[1]}"
+        
+        # entry['Legendary'] = 'Yes' if entry['Legendary'] else 'No'
+        # goodstarter = 'Yes' if entry['GoodStarter'] else 'No'
+        entry.update(self._learnset_gen(entry['Moves']))
+        
+        
+        if entry.get('Evolutions'):
+            evocopy = entry['Evolutions'].copy()
+            for dat in evocopy:
+                if dat.get('To'):
+                    dat['Pokemon'] = f"[[SRD-{dat.get('To')}]]"
+                    dat['Evolves'] = 'To'
+                    del dat['To']
+                if dat.get('From'):
+                    dat['Pokemon'] = f"[[SRD-{dat.get('From')}]]"
+                    dat['Evolves'] = 'From'
+                    del dat['From']
+            evodf = pd.DataFrame(evocopy)
+            colorder = ['Evolves', 'Pokemon', 'Kind'] + [x for x in list(evodf.columns) if x not in ['Evolves', 'Pokemon', 'Kind']]
+            evodf = evodf.reindex(columns=colorder).fillna('')
+            evostring='\n'+evodf.to_markdown(index=0)+'\n'
+        else: evostring = ""
+        
+        height = str(entry['Height']['Feet'])
+        feet = height.split('.')[0]
+        inches = height.split('.')[1] if '.' in height else 0 
+        abilities = (f"[[SRD-{entry['Ability1']}{postfix}|{entry['Ability1']}]]"
+                            f"{'' if not entry['Ability2'] else ' / [[SRD-'+ entry['Ability2']+postfix+'|'+entry['Ability2']+']]'}"
+                            f"{'' if not entry['HiddenAbility'] else ' ([[SRD-'+entry['HiddenAbility']+postfix+'|'+entry['HiddenAbility']+']])'}"
+                            f"{'' if not entry['EventAbilities'] else ' <[[SRD-'+entry['EventAbilities']+postfix+'|'+entry['EventAbilities']+']]>'}"
+                            )
+        INTEGERS = ['BaseHP', 'Strength', 'MaxStrength',
+        'Dexterity', 'MaxDexterity', 'Vitality', 'MaxVitality', 'Special',
+        'MaxSpecial', 'Insight', 'MaxInsight']
+        for key in INTEGERS:
+            entry[key] = int(entry[key])
+        learnset = "Embedded Views.base#Learnsets " + self.game_version
+            
+        entry_template = open('resources/srd_pokedex_template.txt').read()
+        entry_output = entry_template.format( 
+            name=name, 
+            booksprite=entry['BookSprite'], 
+            homesprite=entry['HomeSprite'], 
+            # boxsprite=entry['BoxSprite'], 
+            # shuffletoken=entry['ShuffleToken'], 
+            dexcategory=entry['DexCategory'], 
+            dexdescription=entry['DexDescription'], 
+            dexid=entry['DexID'], 
+            typeline=entry['Type1']+(f' / {entry["Type2"]}' if entry['Type2'] else ''), 
+            abilities=abilities, 
+            basehp=entry["BaseHP"], 
+            strengthdots = ('⬤'*entry['Strength'])+('⭘'*(entry['MaxStrength']-entry['Strength'])),
+            strengthraw = str(entry["Strength"])+'/'+str(entry['MaxStrength']),
+            dexteritydots = ('⬤'*entry['Dexterity'])+('⭘'*(entry['MaxDexterity']-entry['Dexterity'])),
+            dexterityraw = str(entry["Dexterity"])+'/'+str(entry['MaxDexterity']),
+            vitalitydots = ('⬤'*entry['Vitality'])+('⭘'*(entry['MaxVitality']-entry['Vitality'])),
+            vitalityraw = str(entry["Vitality"])+'/'+str(entry['MaxVitality']),
+            specialdots = ('⬤'*entry['Special'])+('⭘'*(entry['MaxSpecial']-entry['Special'])),
+            specialraw = str(entry["Special"])+'/'+str(entry['MaxSpecial']),
+            insightdots = ('⬤'*entry['Insight'])+('⭘'*(entry['MaxInsight']-entry['Insight'])),
+            insightraw = str(entry["Insight"])+'/'+str(entry['MaxInsight']),
+            feet=feet, 
+            inches=inches,
+            meters=entry['Height']['Meters'], 
+            pounds=entry['Weight']['Pounds'],
+            kilograms=entry['Weight']['Kilograms'], 
+            goodstarter= 'Yes' if entry['GoodStarter'] else 'No', 
+            recommendedrank=entry['RecommendedRank'], 
+            evostring=evostring,
+            learnset=learnset,
+            self_in_vault=join(self.in_vault_path, 'SRD-Pokedex', f"SRD-{name}.md")
+        )
+        
+        for x in ['DexID', '_id', 'Moves']:
+                del entry[x]
+        entry_output = f"---\n{yaml.dump(entry)}---\n\n#PokeroleSRD/Pokedex\n\n{entry_output}"
+        
+        path = join(self.output_path,'SRD-Pokedex', f"SRD-{name}{postfix}.md")
+        self._write_to(entry_output, path)
+        
+        return entry_output
+    
+    def _learnset_gen(self, stored_moves):
+        ranks = ['Starter','Beginner','Amateur','Ace','Pro','Rookie','Standard','Advanced','Expert']
+        moves = {}
+        for k in ranks:
+            moves[k+'Moves'] = [m['Name'] for m in stored_moves if m['Learned'] == k]
+        return moves
+        
+    def movedex_entry(self, entry, write=True):
+        moves_template = (
+        '''### `= this.name`\n'''
+        '''*`= this.Description`*\n'''
+        '''\n'''
+        '''**Accuracy:** `= this.Accuracy1` + `= this.Accuracy2`\n'''
+        '''**Damage:** `= this.Power` `= choice(length(this.Damage1)=0, "","\+ "+ this.Damage1)` `= choice(length(this.Damage2)=0, "","\+ "+ this.Damage2)`\n'''
+        '''\n'''
+        '''| Type          | Target          | Category          | Power          |\n'''
+        '''| ------------- | --------------- | ----------------  | -------------- |\n'''
+        '''| `= this.Type` | `= this.Target` | `= this.Category` | `= this.Power` | \n'''
+        '''\n'''
+        '''**Effect:** `= this.Effect`'''
+        )
+        del entry['_id']
+        entry_output = f"---\n{yaml.dump(entry)}---\n\n#PokeroleSRD/Moves\n\n{moves_template}"
+        postfix = '-v2.0' if self.game_version == 'v2.0' else ''
+        path = join(self.output_path,'SRD-Moves', f"SRD-{entry['Name']}{postfix}.md")
+        self._write_to(entry_output, path)
+    
+    def abilitydex_entry(self, entry, write=True):
+        ability_template = (
+            '''## `= this.name`\n'''
+            '''\n'''
+            '''> *`= this.Description`*\n'''
+            '''\n'''
+            '''**Effect:** `= this.Effect`'''
+            )
+        del entry['_id']
+        entry_output = f"---\n{yaml.dump(entry)}---\n\n#PokeroleSRD/Abilities\n\n{ability_template}"
+        postfix = '-v2.0' if self.game_version == 'v2.0' else ''
+        path = join(self.output_path,'SRD-Abilities', f"SRD-{entry['Name']}{postfix}.md")
+        self._write_to(entry_output, path)
+        
+    def itemdex_entry(self, entry, write=True):
+        
+        img = entry.get('_id', None)
+        entry['Image'] = f'SRD-{img}-ItemSprite.png'
+        img = f"![[{entry['Image']}|right]]\n" if img else ""
+        
+        items_template = (
+                f'''## `= this.Name`\n'''
+                f'''\n'''
+                f'''{img}'''
+                f'''\n'''
+                f'''*`= this.Description`*\n'''
+                f'''\n'''
+                f'''| Trainer Price           | PMD Price         | Source | \n'''
+                f'''| ----------------------- | ----------------- | ------ |\n'''
+                f'''| `= this.SuggestedPrice` | `= this.PMDPrice` | `= this.Source`\n'''
+                f'''\n'''
+                f'''**Pokemon Limitation**: `= this.SpecificPokemon`\n'''
+                )
+        del entry['_id']
+        
+        entry_output = f"---\n{yaml.dump(entry)}---\n\n#PokeroleSRD/Items\n\n{items_template}"
+        postfix = '-v2.0' if self.game_version == 'v2.0' else ''
+        path = join(self.output_path,'SRD-Items', f"SRD-{entry['Name']}{postfix}.md")
+        self._write_to(entry_output, path)
+    
+    def nature_entry(self, entry, write=True):
+        natures_template = (
+            '''## `= this.Nature`\n'''
+            '''\n'''
+            '''**Confidence**: `= this.Confidence`\n'''
+            '''\n'''
+            '''*`= this.Keywords`*\n'''
+            '''\n'''
+            '''> `= this.Description`'''
+            )
+        del entry['_id']
+        entry_output = f"---\n{yaml.dump(entry)}---\n\n#PokeroleSRD/Natures\n\n{natures_template}"
+        path = join(self.output_path,'SRD-Natures', f"SRD-{entry['Name']}.md")
+        self._write_to(entry_output, path)
+    
+    def import_images(self, source, setname):
+        target_path = join(self.output_path, f'SRD-{setname}')
+        self._pathgen(target_path)
+        self._copy_imageset(source, target_path, 'SRD-', f'-{setname[:-1]}')

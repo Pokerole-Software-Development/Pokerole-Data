@@ -1,0 +1,26 @@
+{
+    "Name": "Heal Block",
+    "Type": "Psychic",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Tough",
+    "Accuracy2": "Channel",
+    "Target": "Area",
+    "Effect": "Area Move. Those affected can't restore HP. Duration 4 Rounds.",
+    "Description": "Through a massive mental onslaught, the Pokémon brings back the memories of pain on everyone around.",
+    "_id": "heal-block",
+    "Attributes": {
+        "Duration": 4
+    },
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Psychic",
+                "Rounds": 4,
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Support"
+}

@@ -1,0 +1,23 @@
+{
+    "Name": "Rock Wrecker",
+    "Type": "Rock",
+    "Power": 6,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Strength",
+    "Accuracy2": "Channel",
+    "Target": "Foe",
+    "Effect": "Single Target. Low Accuracy 1. Lethal. Ranged. Projectile Move. Must Recharge.",
+    "Description": "A giant boulder is blasted like a cannon ball towards the target. Leaving a path of destruction and a subsequent explosion as the boulder crashes. Let the pokémon catch their breath afterwards.",
+    "_id": "rock-wrecker",
+    "Attributes": {
+        "Lethal": true,
+        "PhysicalRanged": true,
+        "MustRecharge": true,
+        "AccuracyReduction": -1,
+        "ProjectileMove": true,
+        "Ranged": true
+    },
+    "AddedEffects": {},
+    "Category": "Physical"
+}

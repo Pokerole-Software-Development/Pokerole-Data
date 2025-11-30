@@ -1,0 +1,19 @@
+{
+    "Name": "Hyper Drill",
+    "Type": "Normal",
+    "Power": 3,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "Single Target. Lethal. Ignore Shield Moves active on the Foe or their side of the field.",
+    "Description": "Using their tail as a powerful drill, the Pokémon pierces through any surface it comes in contact with.",
+    "_id": "hyper-drill",
+    "Attributes": {
+        "IgnoreShield": true,
+        "Lethal": true
+    },
+    "AddedEffects": {},
+    "Category": "Physical"
+}

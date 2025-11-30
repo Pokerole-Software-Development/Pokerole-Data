@@ -1,0 +1,27 @@
+{
+    "Name": "Baddy Bad",
+    "Type": "Dark",
+    "Power": 3,
+    "Damage1": "Special",
+    "Damage2": "",
+    "Accuracy1": "Special",
+    "Accuracy2": "Intimidate",
+    "Target": "Ally's Battlefield",
+    "Effect": "Single Target. After dealing damage, activate a Force Field against Physical Damage with a Duration of 4 Rounds on the User's side of the Field. If the user of this Move is at its Final Stage of Evolution, this move fails.",
+    "Description": "The Pokémon acts like a thug and channels its own dark aura as protection for itself and its allies.",
+    "_id": "baddy-bad",
+    "Attributes": {
+        "ForceField": true,
+        "Duration": 4
+    },
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "BaddyBad",
+                "Affects": "User",
+                "Rounds": 4
+            }
+        ]
+    },
+    "Category": "Special"
+}

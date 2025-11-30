@@ -1,0 +1,22 @@
+{
+    "Name": "Draining Kiss",
+    "Type": "Fairy",
+    "Power": 2,
+    "Damage1": "Special",
+    "Damage2": "",
+    "Accuracy1": "Vitality",
+    "Accuracy2": "Charm",
+    "Target": "Foe",
+    "Effect": "Single Target. The User restores HP equal to half the damage dealt, rounded down.",
+    "Description": "The Pokémon blows a flirtatious kiss; the foe catches it believing to have found love, but it turns out to be a trick to steal its life energy.",
+    "_id": "draining-kiss",
+    "Attributes": {},
+    "AddedEffects": {
+        "Heal": {
+            "Type": "Leech",
+            "Percentage": 0.5,
+            "Target": "User"
+        }
+    },
+    "Category": "Special"
+}

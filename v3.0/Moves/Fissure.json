@@ -1,0 +1,26 @@
+{
+    "Name": "Fissure",
+    "Type": "Ground",
+    "Power": 0,
+    "Damage1": "-",
+    "Damage2": "",
+    "Accuracy1": "Strength",
+    "Accuracy2": "Channel",
+    "Target": "Foe",
+    "Effect": "Single Target. Low Accuracy 5. Ranged. Deal Damage to the Target equal to its Remaining HP, plus 1 Lethal Damge. If the Target is out of range due to using the Move \"Dig\" this Move hits anyways.",
+    "Description": "The earth rips apart underneath the target and swallows them whole. You’ll need a rescue team to recover the unlucky victim from the deep.",
+    "_id": "fissure",
+    "Attributes": {
+        "PhysicalRanged": true,
+        "AccuracyReduction": -5,
+        "Lethal": true,
+        "Ranged": true
+    },
+    "AddedEffects": {
+        "FixedDamage": {
+            "Type": "OneHitKO",
+            "Target": "Targets"
+        }
+    },
+    "Category": "Physical"
+}

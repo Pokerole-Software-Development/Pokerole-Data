@@ -1,0 +1,135 @@
+{
+    "Number": 94,
+    "DexID": "0094",
+    "Name": "Gengar",
+    "Type1": "Ghost",
+    "Type2": "Poison",
+    "BaseHP": 5,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 3,
+    "MaxDexterity": 6,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 3,
+    "MaxSpecial": 7,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Levitate",
+    "Ability2": "Cursed Body",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Expert",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "gengar",
+    "DexCategory": "Shadow Pokémon",
+    "Height": {
+        "Meters": 1.5,
+        "Feet": 5.0
+    },
+    "Weight": {
+        "Kilograms": 40.0,
+        "Pounds": 90.0
+    },
+    "DexDescription": "This Pokémon is mischievous, but it can be downright evil. It takes joy in casting curses upon innocents and eating the life of people and Pokémon. It lurks in the shadows and disguises itself as one.",
+    "Evolutions": [
+        {
+            "From": "Haunter",
+            "Kind": "Trade"
+        },
+        {
+            "To": "Gengar (Mega Form)",
+            "Kind": "Mega",
+            "Item": "Gengarite"
+        }
+    ],
+    "Image": "gengar.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Confuse Ray"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Lick"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Night Shade"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Mean Look"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Curse"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Hypnosis"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Spite"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Sucker Punch"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Shadow Punch"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Shadow Ball"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Payback"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Reflect Type"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Dark Pulse"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Dream Eater"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Destiny Bond"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Hex"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Nightmare"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Poltergeist"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Perish Song"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Skitter Smack"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Corrosive Gas"
+        }
+    ]
+}

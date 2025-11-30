@@ -1,0 +1,143 @@
+{
+    "Number": 869,
+    "DexID": "0869",
+    "Name": "Alcremie",
+    "Type1": "Fairy",
+    "Type2": "",
+    "BaseHP": 4,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 3,
+    "MaxSpecial": 6,
+    "Insight": 3,
+    "MaxInsight": 7,
+    "Ability1": "Sweet Veil",
+    "Ability2": "Aroma Veil",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Standard",
+    "GenderType": "F",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "alcremie",
+    "DexCategory": "Cream Pokémon",
+    "Height": {
+        "Meters": 0.3,
+        "Feet": 1.0
+    },
+    "Weight": {
+        "Kilograms": 0.5,
+        "Pounds": 1.0
+    },
+    "DexDescription": "There is a vast number of recipes to evolve an Alcremie, changing their color and flavor; some are sweet, some are sour, but they are all delicious. Cakes baked with its help can be sold for a lot of money.",
+    "Evolutions": [
+        {
+            "From": "Milcery",
+            "Kind": "Special",
+            "Special": "Berry & Whisk"
+        }
+    ],
+    "Image": "alcremie.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Aromatic Mist"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Sweet Kiss"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Sweet Scent"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Draining Kiss"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Aromatherapy"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Decorate"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Helping Hand"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Fling"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Fake Tears"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Attract"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Acid Armor"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Dazzling Gleam"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Recover"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Light Screen"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Wonder Room"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Mystical Fire"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Charm"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Misty Terrain"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Tri Attack"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Entrainment"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Misty Explosion"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Substitute"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Hyper Beam"
+        }
+    ]
+}

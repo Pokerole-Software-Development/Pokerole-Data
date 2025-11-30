@@ -1,0 +1,139 @@
+{
+    "Number": 606,
+    "DexID": "0606",
+    "Name": "Beheeyem",
+    "Type1": "Psychic",
+    "Type2": "",
+    "BaseHP": 5,
+    "Strength": 2,
+    "MaxStrength": 5,
+    "Dexterity": 1,
+    "MaxDexterity": 3,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 3,
+    "MaxSpecial": 7,
+    "Insight": 3,
+    "MaxInsight": 6,
+    "Ability1": "Telepathy",
+    "Ability2": "Analytic",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Expert",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "beheeyem",
+    "DexCategory": "Cerebral Pokémon",
+    "Height": {
+        "Meters": 1.0,
+        "Feet": 3.25
+    },
+    "Weight": {
+        "Kilograms": 34.0,
+        "Pounds": 76.0
+    },
+    "DexDescription": "Apparently, it communicates by flashing its three fingers, but the patterns haven't been decoded. It uses psychic power to control an opponent's brain and tampers with its memories and personality.",
+    "Evolutions": [
+        {
+            "From": "Elgyem",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "beheeyem.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Confusion"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Growl"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Imprison"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Teleport"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Miracle Eye"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Psybeam"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Guard Split"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Power Split"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Headbutt"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Zen Headbutt"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Recover"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Calm Mind"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Hidden Power"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Simple Beam"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Psych Up"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Heal Block"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Psychic"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Wonder Room"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Synchronoise"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Psychic Terrain"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Meteor Beam"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Nasty Plot"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Tri Attack"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "Name": "Pluck",
+    "Type": "Flying",
+    "Power": 2,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Strength",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "Single Target. *If the Target is holding a Berry, Add 1 Die to the Damage pool of this Move. The User also eats the berry and gains its effects.",
+    "Description": "The Pokémon lands on top of the foe and starts pecking them in search for parasites or some other tasty treat to snack on.",
+    "_id": "pluck",
+    "Attributes": {},
+    "AddedEffects": {},
+    "Category": "Physical"
+}

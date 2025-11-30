@@ -1,0 +1,97 @@
+{
+    "Number": 225,
+    "DexID": "0225",
+    "Name": "Delibird",
+    "Type1": "Ice",
+    "Type2": "Flying",
+    "BaseHP": 4,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 2,
+    "MaxDexterity": 5,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Hustle",
+    "Ability2": "Vital Spirit",
+    "HiddenAbility": "Insomnia",
+    "EventAbilities": "",
+    "RecommendedRank": "Rookie",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "delibird",
+    "DexCategory": "Delivery Pokémon",
+    "Height": {
+        "Meters": 0.9,
+        "Feet": 3.0
+    },
+    "Weight": {
+        "Kilograms": 16.0,
+        "Pounds": 35.0
+    },
+    "DexDescription": "Delibird is always carrying food for its chicks and people in need. They are related to the image of Santa Claus since they always carry presents for their good and naughty kids in their bag-looking tail.",
+    "Evolutions": [],
+    "Image": "delibird.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Present"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Fake Out"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Icy Wind"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Spikes"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Ice Ball"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Drill Peck"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Freeze Dry"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Triple Axel"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Dual Wingbeat"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Future Sight"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Destiny Bond"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Ice Shard"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Aurora Veil"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Sky Attack"
+        }
+    ]
+}

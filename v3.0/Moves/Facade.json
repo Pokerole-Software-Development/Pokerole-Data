@@ -1,0 +1,16 @@
+{
+    "Name": "Facade",
+    "Type": "Normal",
+    "Power": 3,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "Single Target. *If the User has a Status Ailment (Paralysis, Poison, Burn, etc.) Add 3 Extra Dice to the Damage pool.",
+    "Description": "The Pokémon puts on a brave face through the most difficult of situations.",
+    "_id": "facade",
+    "Attributes": {},
+    "AddedEffects": {},
+    "Category": "Physical"
+}

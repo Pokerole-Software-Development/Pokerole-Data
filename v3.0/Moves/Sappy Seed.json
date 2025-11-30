@@ -1,0 +1,21 @@
+{
+    "Name": "Sappy Seed",
+    "Type": "Grass",
+    "Power": 3,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Special",
+    "Accuracy2": "Nature",
+    "Target": "Foe",
+    "Effect": "Single Target. Low Accuarcy 1. Ranged. Spend 1 Will point to activate. At the end of the Round, Roll 2 Dice of Typeless Damage against one target. Ignore Defenses. The User deals 1 HP for every damage dealt this way. If the user of this Move is at its Final Stage of Evolution, this move fails.",
+    "Description": "From a magical bean, the user grows a cute stalk that will attach itself to the nearest target. Once it ingrains, it will grow and grow and grow until it reaches the sky.",
+    "_id": "sappy-seed",
+    "Attributes": {
+        "AccuracyReduction": -1,
+        "PhysicalRanged": true,
+        "IgnoreDefenses": true,
+        "Ranged": true
+    },
+    "AddedEffects": {},
+    "Category": "Physical"
+}

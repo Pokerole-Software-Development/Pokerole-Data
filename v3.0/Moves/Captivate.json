@@ -1,0 +1,26 @@
+{
+    "Name": "Captivate",
+    "Type": "Normal",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Beauty",
+    "Accuracy2": "Charm",
+    "Target": "All Foes",
+    "Effect": "Target All Foes in Range. Reduce by 2 the Special of those affected.",
+    "Description": "The Pokémon shows off their attractiveness and even flirts with the opponents, those who fall for their charms can’t keep focus on the battle.",
+    "_id": "captivate",
+    "Attributes": {},
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "Special"
+                ],
+                "Stages": -2,
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Support"
+}

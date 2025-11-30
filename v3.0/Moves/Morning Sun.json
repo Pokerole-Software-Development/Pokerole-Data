@@ -1,0 +1,22 @@
+{
+    "Name": "Morning Sun",
+    "Type": "Normal",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Vitality",
+    "Accuracy2": "Nature",
+    "Target": "Self",
+    "Effect": "Target Self. Basic Heal. If successful, spend 1 Will point to activate. If Sunny Weather is in effect, this Move becomes a Complete Heal. If performed under Rain, Sandstorm, Hail or Snowy Weather, this Move is a Minor heal only heals 1 HP.",
+    "Description": "The Pokémon feels revitalized with the bright sun early in the mornings.",
+    "_id": "morning-sun",
+    "Attributes": {},
+    "AddedEffects": {
+        "Heal": {
+            "Type": "Basic",
+            "Target": "Targets",
+            "WillPointCost": 1
+        }
+    },
+    "Category": "Support"
+}

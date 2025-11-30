@@ -1,0 +1,28 @@
+{
+    "Name": "Growl",
+    "Type": "Normal",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Tough/Cute",
+    "Accuracy2": "Intimidate",
+    "Target": "All Foes",
+    "Effect": "Target All Foes in Range. Sound Move. Reduce by 1 the Strength of those affected.",
+    "Description": "Either through a menacing attitude or an adorable demeanor, the foe will hesitate to attack the user at full power.",
+    "_id": "growl",
+    "Attributes": {
+        "SoundMove": true
+    },
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "Strength"
+                ],
+                "Stages": -1,
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Support"
+}

@@ -1,0 +1,131 @@
+{
+    "Number": 532,
+    "DexID": "0532",
+    "Name": "Timburr",
+    "Type1": "Fighting",
+    "Type2": "",
+    "BaseHP": 3,
+    "Strength": 2,
+    "MaxStrength": 5,
+    "Dexterity": 1,
+    "MaxDexterity": 3,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 1,
+    "MaxSpecial": 3,
+    "Insight": 1,
+    "MaxInsight": 3,
+    "Ability1": "Guts",
+    "Ability2": "Sheer Force",
+    "HiddenAbility": "Iron Fist",
+    "EventAbilities": "",
+    "RecommendedRank": "Rookie",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "timburr",
+    "DexCategory": "Muscular Pokémon",
+    "Height": {
+        "Meters": 0.6,
+        "Feet": 2.0
+    },
+    "Weight": {
+        "Kilograms": 12.0,
+        "Pounds": 27.0
+    },
+    "DexDescription": "They carry a log as a tool and as a weapon. You may see them helping with construction work as they strive to challenge their strength. When they swing the log without trouble, they are close to evolving.",
+    "Evolutions": [
+        {
+            "To": "Gurdurr",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "timburr.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Pound"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Leer"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Low Kick"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Bide"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Rock Throw"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Focus Energy"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Foresight"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Bulk Up"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Rock Slide"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Slam"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Scary Face"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Dynamic Punch"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Hammer Arm"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Stone Edge"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Chip Away"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Wake-Up Slap"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Superpower"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Focus Punch"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Detect"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Mach Punch"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Smack Down"
+        }
+    ]
+}

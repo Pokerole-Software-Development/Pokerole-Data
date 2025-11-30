@@ -1,0 +1,18 @@
+{
+    "Name": "Endeavor",
+    "Type": "Normal",
+    "Power": 0,
+    "Damage1": "Varies",
+    "Damage2": "",
+    "Accuracy1": "Will",
+    "Accuracy2": "Channel",
+    "Target": "Foe",
+    "Effect": "Single Target. Roll Dice of Normal-Type Damage equal to the difference between the User's current HP and the Target's max HP. Ignore defenses. Up to 10 Dice may be rolled this way. This Damage cannot make the Target's HP go lower than the User's current HP.",
+    "Description": "Through sheer willpower the Pokémon manages to level the conditions of the battle despite their own injuries.",
+    "_id": "endeavor",
+    "Attributes": {
+        "IgnoreDefenses": true
+    },
+    "AddedEffects": {},
+    "Category": "Physical"
+}

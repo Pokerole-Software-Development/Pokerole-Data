@@ -1,0 +1,18 @@
+{
+    "Name": "Wood Hammer",
+    "Type": "Grass",
+    "Power": 5,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Strength",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "Single Target. Recoil.",
+    "Description": "The Pokémon creates a giant wooden hamer and it uses it to smash the foe with such force the hammer also explodes into wood splinters.",
+    "_id": "wood-hammer",
+    "Attributes": {
+        "Recoil": true
+    },
+    "AddedEffects": {},
+    "Category": "Physical"
+}

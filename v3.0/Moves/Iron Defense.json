@@ -1,0 +1,26 @@
+{
+    "Name": "Iron Defense",
+    "Type": "Steel",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Vitality",
+    "Accuracy2": "Channel",
+    "Target": "Self",
+    "Effect": "Target Self. Increase the User's Defense by 2.",
+    "Description": "Iron body, iron will. This Pokémon is unbreakable.",
+    "_id": "iron-defense",
+    "Attributes": {},
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "Def"
+                ],
+                "Stages": 2,
+                "Affects": "User"
+            }
+        ]
+    },
+    "Category": "Support"
+}

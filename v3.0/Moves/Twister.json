@@ -1,0 +1,26 @@
+{
+    "Name": "Twister",
+    "Type": "Dragon",
+    "Power": 2,
+    "Damage1": "Special",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Channel",
+    "Target": "All Foes",
+    "Effect": "Target all foes in Range. Wind Move. Roll 2 Chance dice to Flinch those affected. If the Target is Out of Range due to using \"Fly\", \"Bounce\" or \"Sky Drop\" this Move hits anyways.",
+    "Description": "A raging twister embedded with a dragon’s fury. No one wants to be trapped in this fearsome spiral, which almost touches the sky.",
+    "_id": "twister",
+    "Attributes": {
+        "WindMove": true
+    },
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Flinch",
+                "Affects": "Targets",
+                "ChanceDice": 2
+            }
+        ]
+    },
+    "Category": "Special"
+}

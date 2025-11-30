@@ -1,0 +1,26 @@
+{
+    "Name": "Tail Whip",
+    "Type": "Normal",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Cute",
+    "Accuracy2": "Perform",
+    "Target": "All Foes",
+    "Effect": "Target All Foes in Range. Reduce by 1 the Defense of those affected.",
+    "Description": "The Pokémon whips their tail in such an adorable way the foes let their guard down.",
+    "_id": "tail-whip",
+    "Attributes": {},
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "Def"
+                ],
+                "Stages": -1,
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Support"
+}

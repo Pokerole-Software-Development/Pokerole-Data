@@ -1,0 +1,24 @@
+{
+    "Name": "Guillotine",
+    "Type": "Normal",
+    "Power": 0,
+    "Damage1": "-",
+    "Damage2": "",
+    "Accuracy1": "Strength",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "Single Target. Low Accuracy 5. Deal Damage equal to the Target's Remaining HP, plus 1 Lethal Damage.",
+    "Description": "Fueled by the spirit of revolution the Pokémon sentences their foe to be reduced at the neck. This devastating attack requires an emergency trip to the Pokémon Center...and a basket.",
+    "_id": "guillotine",
+    "Attributes": {
+        "Lethal": true,
+        "AccuracyReduction": -5
+    },
+    "AddedEffects": {
+        "FixedDamage": {
+            "Type": "OneHitKO",
+            "Target": "Targets"
+        }
+    },
+    "Category": "Physical"
+}

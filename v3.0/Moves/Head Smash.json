@@ -1,0 +1,19 @@
+{
+    "Name": "Head Smash",
+    "Type": "Rock",
+    "Power": 6,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Strength",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "Single Target. Low Accuracy 2. Recoil.",
+    "Description": "Pokémon, angry. Pokémon, smash!",
+    "_id": "head-smash",
+    "Attributes": {
+        "Recoil": true,
+        "AccuracyReduction": 2
+    },
+    "AddedEffects": {},
+    "Category": "Physical"
+}

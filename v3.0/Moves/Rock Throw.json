@@ -1,0 +1,20 @@
+{
+    "Name": "Rock Throw",
+    "Type": "Rock",
+    "Power": 2,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Dexterity/Strength",
+    "Accuracy2": "Channel",
+    "Target": "Foe",
+    "Effect": "Single Target. Low Accuracy 1. Ranged.",
+    "Description": "Back in the day, this was a common form of amusement amongst Pokémon and children alike.",
+    "_id": "rock-throw",
+    "Attributes": {
+        "PhysicalRanged": true,
+        "AccuracyReduction": -1,
+        "Ranged": true
+    },
+    "AddedEffects": {},
+    "Category": "Physical"
+}

@@ -1,0 +1,19 @@
+{
+    "Name": "Geomancy",
+    "Type": "Fairy",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Insight",
+    "Accuracy2": "Nature",
+    "Target": "Self",
+    "Effect": "Target Self. Charge Move. Unique. Increase by 2 the User's Dexterity, Special and Sp. Defense.",
+    "Description": "Through a mystical conection this Pokémon absorbs the life force of earth itself to increase its power.",
+    "_id": "geomancy",
+    "Attributes": {
+        "Charge": true,
+        "Unique": true
+    },
+    "AddedEffects": {},
+    "Category": "Support"
+}

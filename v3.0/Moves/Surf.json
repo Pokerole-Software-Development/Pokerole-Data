@@ -1,0 +1,16 @@
+{
+    "Name": "Surf",
+    "Type": "Water",
+    "Power": 4,
+    "Damage1": "Special",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Channel",
+    "Target": "Area",
+    "Effect": "Area Move. If a Target is out of range due to the Move \"Dive\", this Move hits anyways. Out of battle, allows the Pokemon to travel the sea for long distances.",
+    "Description": "The Pokémon calls forward a large wave of seawater to ride, most Pokémon get washed out as they did not bring a surfboard.",
+    "_id": "surf",
+    "Attributes": {},
+    "AddedEffects": {},
+    "Category": "Special"
+}

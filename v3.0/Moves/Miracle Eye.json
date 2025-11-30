@@ -1,0 +1,25 @@
+{
+    "Name": "Miracle Eye",
+    "Type": "Psychic",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Insight",
+    "Accuracy2": "Alert",
+    "Target": "Self",
+    "Effect": "Target Self. The User's Psychic-Type Moves ignore Dark-Type Immunity. Target cannot Evade the User's Moves. This Pokemon's Accuracy cannot be Reduced by Move's, Items or Abilities (ie Sand Attack, Bright Powder, etc.). Whole Scene Duration",
+    "Description": "The Pokémon opens up the third eye. Their sight trascends the barriers of flesh. No one goes undetected.",
+    "_id": "miracle-eye",
+    "Attributes": {
+        "Duration": "wholeScene"
+    },
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "MiracleEye",
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Support"
+}

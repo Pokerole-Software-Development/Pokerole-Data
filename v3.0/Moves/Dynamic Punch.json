@@ -1,0 +1,26 @@
+{
+    "Name": "Dynamic Punch",
+    "Type": "Fighting",
+    "Power": 4,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "Single Target. Low Accuracy 3. Fist Move. Confuse the Target.",
+    "Description": "A punch to a vital pressure point on the foe to disrupt their sense of balance",
+    "_id": "dynamic-punch",
+    "Attributes": {
+        "AccuracyReduction": -3,
+        "FistMove": true
+    },
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Confuse",
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Physical"
+}

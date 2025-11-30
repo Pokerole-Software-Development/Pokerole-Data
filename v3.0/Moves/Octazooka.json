@@ -1,0 +1,30 @@
+{
+    "Name": "Octazooka",
+    "Type": "Water",
+    "Power": 2,
+    "Damage1": "Special",
+    "Damage2": "",
+    "Accuracy1": "Insight",
+    "Accuracy2": "Channel",
+    "Target": "Foe",
+    "Effect": "Single Target. Low Accuracy 2. Projectile Move. Roll 5 Chance Dice to Reduce 1 success to all Accuracy Rolls of the foe.",
+    "Description": "A jet of black ink shot straight into the foe’s eyes. This Move is hard to aim but returns the favor.",
+    "_id": "octazooka",
+    "Attributes": {
+        "AccuracyReduction": -2,
+        "ProjectileMove": true
+    },
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "Accuracy"
+                ],
+                "Stages": -1,
+                "ChanceDice": 5,
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Special"
+}

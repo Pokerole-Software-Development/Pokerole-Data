@@ -1,0 +1,24 @@
+{
+    "Name": "Stomp",
+    "Type": "Normal",
+    "Power": 2,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Strength",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "Single Target. Roll 3 Chance Die to Flinch the Target. Targets under the effects of the Move \"Minimize\" are vulnerable.",
+    "Description": "Stomping the foe with strong feet. Perfect to squish nasty little bugs.",
+    "_id": "stomp",
+    "Attributes": {},
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Flinch",
+                "Affects": "Targets",
+                "ChanceDice": 3
+            }
+        ]
+    },
+    "Category": "Physical"
+}

@@ -1,0 +1,150 @@
+{
+    "Number": 483,
+    "DexID": "0483",
+    "Name": "Dialga",
+    "Type1": "Steel",
+    "Type2": "Dragon",
+    "BaseHP": 6,
+    "Strength": 7,
+    "MaxStrength": 7,
+    "Dexterity": 5,
+    "MaxDexterity": 5,
+    "Vitality": 7,
+    "MaxVitality": 7,
+    "Special": 8,
+    "MaxSpecial": 8,
+    "Insight": 6,
+    "MaxInsight": 6,
+    "Ability1": "Pressure",
+    "Ability2": "Telepathy",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Champion",
+    "GenderType": "N",
+    "Legendary": true,
+    "GoodStarter": false,
+    "_id": "dialga",
+    "DexCategory": "Pokédex has no data.",
+    "Height": {
+        "Meters": 5.4,
+        "Feet": 17.8
+    },
+    "Weight": {
+        "Kilograms": 683.0,
+        "Pounds": 1505.0
+    },
+    "DexDescription": "In some religions there is a being called 'The God of Time' whose first roar brought future, present, and past.",
+    "Evolutions": [
+        {
+            "To": "Dialga (Origin Form)",
+            "Kind": "Form"
+        }
+    ],
+    "Image": "dialga.png",
+    "Moves": [
+        {
+            "Learned": "Champion",
+            "Name": "Dragon Breath"
+        },
+        {
+            "Learned": "Champion",
+            "Name": "Scary Face"
+        },
+        {
+            "Learned": "Champion",
+            "Name": "Metal Claw"
+        },
+        {
+            "Learned": "Champion",
+            "Name": "Ancient Power"
+        },
+        {
+            "Learned": "Champion",
+            "Name": "Slash"
+        },
+        {
+            "Learned": "Champion",
+            "Name": "Power Gem"
+        },
+        {
+            "Learned": "Champion",
+            "Name": "Flash Cannon"
+        },
+        {
+            "Learned": "Champion",
+            "Name": "Dragon Claw"
+        },
+        {
+            "Learned": "Champion",
+            "Name": "Metal Burst"
+        },
+        {
+            "Learned": "Champion",
+            "Name": "Aura Sphere"
+        },
+        {
+            "Learned": "Champion",
+            "Name": "Earth Power"
+        },
+        {
+            "Learned": "Champion",
+            "Name": "Iron Tail"
+        },
+        {
+            "Learned": "Champion",
+            "Name": "Safeguard"
+        },
+        {
+            "Learned": "Champion",
+            "Name": "Protect"
+        },
+        {
+            "Learned": "Champion",
+            "Name": "Trick Room"
+        },
+        {
+            "Learned": "Champion",
+            "Name": "Hidden Power"
+        },
+        {
+            "Learned": "Champion",
+            "Name": "Heavy Slam"
+        },
+        {
+            "Learned": "Champion",
+            "Name": "Psych Up"
+        },
+        {
+            "Learned": "Champion",
+            "Name": "Dragon Pulse"
+        },
+        {
+            "Learned": "Champion",
+            "Name": "Iron Defense"
+        },
+        {
+            "Learned": "Champion",
+            "Name": "Echoed Voice"
+        },
+        {
+            "Learned": "Champion",
+            "Name": "Magnet Rise"
+        },
+        {
+            "Learned": "Champion",
+            "Name": "Draco Meteor"
+        },
+        {
+            "Learned": "Champion",
+            "Name": "Hyper Beam"
+        },
+        {
+            "Learned": "Champion",
+            "Name": "Steel Beam"
+        },
+        {
+            "Learned": "Champion",
+            "Name": "Roar of Time"
+        }
+    ]
+}

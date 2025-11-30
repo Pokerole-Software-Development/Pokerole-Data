@@ -1,0 +1,130 @@
+{
+    "Number": 645,
+    "DexID": "0645",
+    "Name": "Landorus",
+    "Type1": "Ground",
+    "Type2": "Flying",
+    "BaseHP": 5,
+    "Strength": 7,
+    "MaxStrength": 7,
+    "Dexterity": 6,
+    "MaxDexterity": 6,
+    "Vitality": 5,
+    "MaxVitality": 5,
+    "Special": 6,
+    "MaxSpecial": 6,
+    "Insight": 5,
+    "MaxInsight": 5,
+    "Ability1": "Sand Force",
+    "Ability2": "Sheer Force",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Ace",
+    "GenderType": "M",
+    "Legendary": true,
+    "GoodStarter": false,
+    "_id": "landorus",
+    "DexCategory": "Pokédex has no data.",
+    "Height": {
+        "Meters": 1.5,
+        "Feet": 4.9
+    },
+    "Weight": {
+        "Kilograms": 68.0,
+        "Pounds": 150.0
+    },
+    "DexDescription": "Earthquakes and landslides raze Unova with frequency, but the places that suffer them are left with a plentiful harvest that year. The mythical 'land ravager' is both feared and revered.",
+    "Evolutions": [
+        {
+            "To": "Landorus (Therian Form)",
+            "Kind": "Form"
+        }
+    ],
+    "Image": "landorus.png",
+    "Moves": [
+        {
+            "Learned": "Ace",
+            "Name": "Sand Tomb"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Rock Throw"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Leer"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Block"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Bulldoze"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Rock Tomb"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Swords Dance"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Imprison"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Rock Slide"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Earth Power"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Punishment"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Mud Shot"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Rototiller"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Dig"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Extrasensory"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Stone Edge"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Sandstorm"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Outrage"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Fissure"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Earthquake"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Hammer Arm"
+        }
+    ]
+}

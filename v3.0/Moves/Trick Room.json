@@ -1,0 +1,18 @@
+{
+    "Name": "Trick Room",
+    "Type": "Psychic",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Special",
+    "Accuracy2": "Channel",
+    "Target": "Battlefield",
+    "Effect": "Target the Battlefield. Invert the order of Initiative. Duration 4 Rounds.",
+    "Description": "Reality inside the battlefielfield is distorted, time bends and flows differently for everyone. Those who don’t rush through manage to adapt easier.",
+    "_id": "trick-room",
+    "Attributes": {
+        "Duration": 4
+    },
+    "AddedEffects": {},
+    "Category": "Support"
+}

@@ -1,0 +1,27 @@
+{
+    "Name": "Close Combat",
+    "Type": "Fighting",
+    "Power": 5,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Strength",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "Single Target. Reduce by 1 the User's Defense and Sp. Defense.",
+    "Description": "The Pokémon gets close enough to deal devastating damage, but the same can be said for the foe.",
+    "_id": "close-combat",
+    "Attributes": {},
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "Def",
+                    "SpDef"
+                ],
+                "Stages": -1,
+                "Affects": "User"
+            }
+        ]
+    },
+    "Category": "Physical"
+}

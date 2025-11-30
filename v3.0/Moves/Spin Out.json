@@ -1,0 +1,28 @@
+{
+    "Name": "Spin Out",
+    "Type": "Steel",
+    "Power": 4,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Strength",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "Single Target. Lethal. Reduce the User's Dexterity by 2.",
+    "Description": "The Pokémon spins against the target, with it pinned on the ground. This devastating Move leaves the Pokémon too tired to spin a lot more.",
+    "_id": "spin-out",
+    "Attributes": {
+        "Lethal": true
+    },
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "Dexterity"
+                ],
+                "Stages": -2,
+                "Affects": "User"
+            }
+        ]
+    },
+    "Category": "Physical"
+}

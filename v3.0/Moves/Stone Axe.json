@@ -1,0 +1,22 @@
+{
+    "Name": "Stone Axe",
+    "Type": "Rock",
+    "Power": 2,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Strength",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "Single Target. Low Accuracy 2. High Critical. Cutter Move. Ongoing Damage. Duration 4 Rounds.",
+    "Description": "The Pokémon hacks at the foe with a furious stone axe. Pointy pebbles and rubble remain within the cut, making the foe start limping.",
+    "_id": "stone-axe",
+    "Attributes": {
+        "HighCritical": true,
+        "OngoingDamage": true,
+        "AccuracyReduction": -2,
+        "CutterMove": true,
+        "Duration": 4
+    },
+    "AddedEffects": {},
+    "Category": "Physical"
+}

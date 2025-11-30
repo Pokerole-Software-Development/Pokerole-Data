@@ -1,0 +1,32 @@
+{
+    "Name": "Ice Fang",
+    "Type": "Ice",
+    "Power": 2,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Strength",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "Single Target. Low Accuracy 1. Bite Move. Roll 2 Chance Dice to Flinch the Target. Roll 2 Chance Dice to Freeze the Target.",
+    "Description": "The Pokémon bites their foe with sharp teeth and a geli breath to chill their bones directly",
+    "_id": "ice-fang",
+    "Attributes": {
+        "AccuracyReduction": -1,
+        "BiteMove": true
+    },
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Flinch",
+                "Affects": "Targets",
+                "ChanceDice": 2
+            },
+            {
+                "Type": "Freeze",
+                "Affects": "Targets",
+                "ChanceDice": 2
+            }
+        ]
+    },
+    "Category": "Physical"
+}

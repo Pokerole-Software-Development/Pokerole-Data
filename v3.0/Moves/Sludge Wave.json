@@ -1,0 +1,24 @@
+{
+    "Name": "Sludge Wave",
+    "Type": "Poison",
+    "Power": 3,
+    "Damage1": "Special",
+    "Damage2": "",
+    "Accuracy1": "Special",
+    "Accuracy2": "Channel",
+    "Target": "Area",
+    "Effect": "Area Move. Roll 1 Chance Die to Poison those affected.",
+    "Description": "A wave of black water spouts all around the user. It’s knee-high and rising. Fighting in such unsanitary conditions is not a good idea.",
+    "_id": "sludge-wave",
+    "Attributes": {},
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Poison",
+                "Affects": "Targets",
+                "ChanceDice": 1
+            }
+        ]
+    },
+    "Category": "Special"
+}

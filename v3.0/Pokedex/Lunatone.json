@@ -1,0 +1,133 @@
+{
+    "Number": 337,
+    "DexID": "0337",
+    "Name": "Lunatone",
+    "Type1": "Rock",
+    "Type2": "Psychic",
+    "BaseHP": 5,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 2,
+    "MaxDexterity": 5,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 3,
+    "MaxSpecial": 6,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Levitate",
+    "Ability2": "",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Advanced",
+    "GenderType": "N",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "lunatone",
+    "DexCategory": "Meteorite Pokémon",
+    "Height": {
+        "Meters": 1.0,
+        "Feet": 3.3
+    },
+    "Weight": {
+        "Kilograms": 168.0,
+        "Pounds": 370.0
+    },
+    "DexDescription": "First found where a meteorite fell. For this reason, it's believed it came from space. Its eyes fill people with dread and lure them to sleep. They become very active and extremely powerful during full moons.",
+    "Evolutions": [],
+    "Image": "lunatone.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Tackle"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Harden"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Moonblast"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Moonlight"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Rock Throw"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Confusion"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Hypnosis"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Rock Polish"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Power Gem"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Embargo"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Psyshock"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Cosmic Power"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Psywave"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Heal Block"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Rock Slide"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Magic Room"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Psychic"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Stone Edge"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Future Sight"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Explosion"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Meteor Beam"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Trick Room"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Skill Swap"
+        }
+    ]
+}

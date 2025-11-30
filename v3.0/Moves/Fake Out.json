@@ -1,0 +1,25 @@
+{
+    "Name": "Fake Out",
+    "Type": "Normal",
+    "Power": 2,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "Single Target. Reaction 1. Flinch the Target. This Move will only work on the First Round the User is out in battle. from the Second Round on, it will fail automatically.",
+    "Description": "The Pokémon pretends to be getting ready for the battle when they are actually prepairing a surprise attack on the foe.",
+    "_id": "fake-out",
+    "Attributes": {
+        "Reaction": "1"
+    },
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Flinch",
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Physical"
+}

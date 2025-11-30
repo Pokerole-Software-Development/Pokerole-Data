@@ -1,0 +1,20 @@
+{
+    "Name": "Baneful Bunker",
+    "Type": "Poison",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Vitality",
+    "Accuracy2": "Nature",
+    "Target": "Self",
+    "Effect": "Target Self. Reaction 4. Shield Move. Reduce 3 Damage the User would receive from a Damaging Move. *If the Foe used a Non-Ranged Physical Move against the user, Poison the foe.",
+    "Description": "The user encloses themselves inside a sturdy shell covered by poisonous barbs, if a barb pinches the Target’s skin, the wound will start to fester",
+    "_id": "baneful-bunker",
+    "Attributes": {
+        "ShieldMove": true,
+        "Reaction": "4",
+        "Ranged": true
+    },
+    "AddedEffects": {},
+    "Category": "Support"
+}

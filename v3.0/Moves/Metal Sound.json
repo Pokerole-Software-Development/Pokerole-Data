@@ -1,0 +1,28 @@
+{
+    "Name": "Metal Sound",
+    "Type": "Steel",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Tough",
+    "Accuracy2": "Perform",
+    "Target": "Foe",
+    "Effect": "Single Target. Sound Move. Reduce the Target's Sp. Defense by 2.",
+    "Description": "A horrible screeching sound rumbles in the foe’s ears. Some people will try to convince you that this is good music.",
+    "_id": "metal-sound",
+    "Attributes": {
+        "SoundMove": true
+    },
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "SpDef"
+                ],
+                "Stages": -2,
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Support"
+}

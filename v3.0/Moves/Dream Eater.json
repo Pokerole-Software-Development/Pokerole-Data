@@ -1,0 +1,22 @@
+{
+    "Name": "Dream Eater",
+    "Type": "Psychic",
+    "Power": 4,
+    "Damage1": "Special",
+    "Damage2": "",
+    "Accuracy1": "Insight",
+    "Accuracy2": "Channel",
+    "Target": "Foe",
+    "Effect": "Single Target. Can only be used if the Target has the Sleep Condition, otherwise it will fail. The User restores HP equal to half the damage dealt, rounded down.",
+    "Description": "The Pokémon enters the dream world for a snack. The dreams of children and baby Pokémon are the tastiest.",
+    "_id": "dream-eater",
+    "Attributes": {},
+    "AddedEffects": {
+        "Heal": {
+            "Type": "Leech",
+            "Percentage": 0.5,
+            "Target": "User"
+        }
+    },
+    "Category": "Special"
+}

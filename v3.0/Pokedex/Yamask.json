@@ -1,0 +1,127 @@
+{
+    "Number": 562,
+    "DexID": "0562",
+    "Name": "Yamask",
+    "Type1": "Ghost",
+    "Type2": "",
+    "BaseHP": 3,
+    "Strength": 1,
+    "MaxStrength": 3,
+    "Dexterity": 1,
+    "MaxDexterity": 3,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Mummy",
+    "Ability2": "",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Standard",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": true,
+    "_id": "yamask",
+    "DexCategory": "Spirit Pokémon",
+    "Height": {
+        "Meters": 0.5,
+        "Feet": 1.7
+    },
+    "Weight": {
+        "Kilograms": 1.0,
+        "Pounds": 3.0
+    },
+    "DexDescription": "This Pokémon arose from the spirit of a human or a Pokémon that died in the past and was buried with special ceremonies. Each one carries a mask that looks like the face it had in life. A sad Pokémon that weeps often.",
+    "Evolutions": [
+        {
+            "To": "Cofagrigus",
+            "Kind": "Level",
+            "Speed": "Slow"
+        }
+    ],
+    "Image": "yamask.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Astonish"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Protect"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Haze"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Night Shade"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Disable"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Will-O-Wisp"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Crafty Shield"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Hex"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Mean Look"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Grudge"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Curse"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Shadow Ball"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Ominous Wind"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Dark Pulse"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Guard Split"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Power Split"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Destiny Bond"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Fake Tears"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Nasty Plot"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Role Play"
+        }
+    ]
+}

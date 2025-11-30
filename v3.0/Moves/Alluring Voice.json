@@ -1,0 +1,18 @@
+{
+    "Name": "Alluring Voice",
+    "Type": "Fairy",
+    "Power": 3,
+    "Damage1": "Special",
+    "Damage2": "",
+    "Accuracy1": "Beauty/Cute",
+    "Accuracy2": "Charm",
+    "Target": "Foe",
+    "Effect": "Single Target. Sound Move. Confuse the Target.",
+    "Description": "Since ancient times, sailors have warned against the siren’s alluring voice calling out for you in the middle of the sea. Now you know why.",
+    "_id": "alluring-voice",
+    "Attributes": {
+        "SoundMove": true
+    },
+    "AddedEffects": {},
+    "Category": "Special"
+}

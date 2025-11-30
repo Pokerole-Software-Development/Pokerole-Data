@@ -1,0 +1,27 @@
+{
+    "Name": "Heat Wave",
+    "Type": "Fire",
+    "Power": 3,
+    "Damage1": "Special",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Channel",
+    "Target": "All Foes",
+    "Effect": "Target All Foes in Range. Low Accuracy 1. Wind Move. Roll 1 Chance Die to inflict 1st Degree Burn on those affected.",
+    "Description": "A large wave of extra-hot air that can set fire to everything it touches.",
+    "_id": "heat-wave",
+    "Attributes": {
+        "AccuracyReduction": -1,
+        "WindMove": true
+    },
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Burn",
+                "ChanceDice": 1,
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Special"
+}

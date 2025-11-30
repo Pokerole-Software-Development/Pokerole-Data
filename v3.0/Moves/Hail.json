@@ -1,0 +1,20 @@
+{
+    "Name": "Hail",
+    "Type": "Ice",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Special",
+    "Accuracy2": "Nature",
+    "Target": "Battlefield",
+    "Effect": "Target Battlefield. Activate Hail Weather. Duration 4 Rounds.",
+    "Description": "The skies turn gray, and loud thunder rumbles, but what falls is not a gentle drizzle, but an endless stream of ice shards coming down at high speeds. Find shelter!",
+    "_id": "hail",
+    "Attributes": {
+        "Duration": 4
+    },
+    "AddedEffects": {
+        "TerrainEffect": "Hail"
+    },
+    "Category": "Support"
+}

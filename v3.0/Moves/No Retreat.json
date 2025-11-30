@@ -1,0 +1,38 @@
+{
+    "Name": "No Retreat",
+    "Type": "Fighting",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Vitality",
+    "Accuracy2": "Alert",
+    "Target": "Self",
+    "Effect": "Target Self. Increase by 1 the User's Strength, Dexterity, Special, Defense and Sp. Defense. Blocks. Whole Scene Duration.",
+    "Description": "No surrender. No retreat. Until victory, always!",
+    "_id": "no-retreat",
+    "Attributes": {
+        "Duration": "wholeScene"
+    },
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "Strength",
+                    "Dexterity",
+                    "Special",
+                    "Def",
+                    "SpDef"
+                ],
+                "Stages": 1,
+                "Affects": "User"
+            }
+        ],
+        "Ailments": [
+            {
+                "Type": "Block",
+                "Affects": "User"
+            }
+        ]
+    },
+    "Category": "Support"
+}

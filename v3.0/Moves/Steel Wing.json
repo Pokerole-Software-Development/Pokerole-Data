@@ -1,0 +1,29 @@
+{
+    "Name": "Steel Wing",
+    "Type": "Steel",
+    "Power": 3,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "Single Target. Low Accuracy 1. Roll 1 Chance Die to Increase the User's Defense by 1.",
+    "Description": "The Pokémon has weather-proofed wings that cut flying times, cut through the air, and, most importantly, cut through their foes.",
+    "_id": "steel-wing",
+    "Attributes": {
+        "AccuracyReduction": -1
+    },
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "Def"
+                ],
+                "Stages": 1,
+                "ChanceDice": 1,
+                "Affects": "User"
+            }
+        ]
+    },
+    "Category": "Physical"
+}

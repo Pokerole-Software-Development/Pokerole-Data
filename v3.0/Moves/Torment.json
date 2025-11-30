@@ -1,0 +1,25 @@
+{
+    "Name": "Torment",
+    "Type": "Dark",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Tough/Clever",
+    "Accuracy2": "Intimidate",
+    "Target": "Foe",
+    "Effect": "Single Target. The Target cannot use any of the Moves it used during the last Round. Duration 4 Rounds.",
+    "Description": "The Pokémon bullies their foe to the point of torment where they cannot keep using their strategy without feeling bad about it.",
+    "_id": "torment",
+    "Attributes": {
+        "Duration": 4
+    },
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Torment",
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Support"
+}

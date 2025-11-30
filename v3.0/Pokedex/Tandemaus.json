@@ -1,0 +1,115 @@
+{
+    "Number": 924,
+    "DexID": "0924",
+    "Name": "Tandemaus",
+    "Type1": "Normal",
+    "Type2": "",
+    "BaseHP": 3,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 2,
+    "MaxDexterity": 5,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 1,
+    "MaxSpecial": 3,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Run Away",
+    "Ability2": "Pickup",
+    "HiddenAbility": "Own Tempo",
+    "EventAbilities": "",
+    "RecommendedRank": "Rookie",
+    "GenderType": "N",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "tandemaus",
+    "DexCategory": "Couple Pokémon",
+    "Height": {
+        "Meters": 0.3,
+        "Feet": 1.0
+    },
+    "Weight": {
+        "Kilograms": 2.0,
+        "Pounds": 4.0
+    },
+    "DexDescription": "These Pokémon stick together no matter what. Their teamwork is very well-synchronized, acting almost like a single entity. Beware, as they reproduce very fast and can become hundreds in just a few months.",
+    "Evolutions": [
+        {
+            "To": "Maushold",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "tandemaus.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Pound"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Baby-Doll Eyes"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Echoed Voice"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Helping Hand"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Super Fang"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Double Hit"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Bullet Seed"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Encore"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Play Rough"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Hyper Voice"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Charm"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Beat Up"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Copycat"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Population Bomb"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Feint"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Fake Tears"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Swift"
+        }
+    ]
+}

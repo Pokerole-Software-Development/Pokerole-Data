@@ -1,0 +1,29 @@
+{
+    "Name": "Noble Roar",
+    "Type": "Normal",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Tough",
+    "Accuracy2": "Etiquette/Intimidate",
+    "Target": "Foe",
+    "Effect": "Single Target. Sound Move. Reduce by 1 the Target's Strength and Special.",
+    "Description": "The mighty roar of a king. It commands respect and authority over anyone who listens.",
+    "_id": "noble-roar",
+    "Attributes": {
+        "SoundMove": true
+    },
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "Strength",
+                    "Special"
+                ],
+                "Stages": -1,
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Support"
+}

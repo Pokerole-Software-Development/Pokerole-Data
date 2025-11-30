@@ -1,0 +1,26 @@
+{
+    "Name": "Stuff Cheeks",
+    "Type": "Normal",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Clever",
+    "Accuracy2": "Nature",
+    "Target": "Self",
+    "Effect": "Target Self. If the user has a held Berry, it gains its effects, afterwards, Increase User's Defense by 2. The Held berry can still be used as normal.",
+    "Description": "The Pokémon munches a berry but keeps half of it inside their cheeks. This looks adorable but it is actually a survival tactic to endure harsh winters.",
+    "_id": "stuff-cheeks",
+    "Attributes": {},
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "Def"
+                ],
+                "Stages": 2,
+                "Affects": "User"
+            }
+        ]
+    },
+    "Category": "Support"
+}

@@ -1,0 +1,24 @@
+{
+    "Name": "Drain Punch",
+    "Type": "Fighting",
+    "Power": 3,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Vitality",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "Single Target. Fist Move. The User restores HP equal to half the damage dealt, rounded down.",
+    "Description": "A solid punch that weakens the foes and revitalizes the user with each hit.",
+    "_id": "drain-punch",
+    "Attributes": {
+        "FistMove": true
+    },
+    "AddedEffects": {
+        "Heal": {
+            "Type": "Leech",
+            "Percentage": 0.5,
+            "Target": "User"
+        }
+    },
+    "Category": "Physical"
+}

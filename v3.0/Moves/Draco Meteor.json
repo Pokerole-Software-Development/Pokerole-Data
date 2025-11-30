@@ -1,0 +1,29 @@
+{
+    "Name": "Draco Meteor",
+    "Type": "Dragon",
+    "Power": 6,
+    "Damage1": "Special",
+    "Damage2": "",
+    "Accuracy1": "Special",
+    "Accuracy2": "Channel",
+    "Target": "Foe",
+    "Effect": "Single Target. Low Accuracy 1. lethal. Reduce User's Special by 2.",
+    "Description": "The Pokémon summons a meteor to fall from the sky directly into their foes, dealing a brutal amount of damage. An impressive display if power that demands a lot of energy.",
+    "_id": "draco-meteor",
+    "Attributes": {
+        "Lethal": true,
+        "AccuracyReduction": -1
+    },
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "Special"
+                ],
+                "Stages": -2,
+                "Affects": "User"
+            }
+        ]
+    },
+    "Category": "Special"
+}

@@ -1,0 +1,28 @@
+{
+    "Name": "Baby-Doll Eyes",
+    "Type": "Fairy",
+    "Power": "0 ",
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Cute",
+    "Accuracy2": "Charm",
+    "Target": "Foe",
+    "Effect": "Single Target. Reaction 1. Reduce Target's Strength by 1.",
+    "Description": "The biggest and brightest eyes, spakling with unshed tears, how can you say “no” to that?!",
+    "_id": "baby-doll-eyes",
+    "Attributes": {
+        "Reaction": "1"
+    },
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "Strength"
+                ],
+                "Stages": -1,
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Support"
+}

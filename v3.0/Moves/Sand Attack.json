@@ -1,0 +1,26 @@
+{
+    "Name": "Sand Attack",
+    "Type": "Ground",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Stealth",
+    "Target": "Foe",
+    "Effect": "Single Target. Reduce by 1 success to all the Accuracy Rolls of the Target.",
+    "Description": "Sand to the eyes! A dirty tactic in more ways than one.",
+    "_id": "sand-attack",
+    "Attributes": {},
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "Accuracy"
+                ],
+                "Stages": -1,
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Support"
+}

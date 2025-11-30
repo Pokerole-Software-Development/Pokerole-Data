@@ -1,0 +1,25 @@
+{
+    "Name": "Refresh",
+    "Type": "Normal",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Special",
+    "Accuracy2": "Channel/Athletic",
+    "Target": "Self",
+    "Effect": "Target Self. The User heals itself from any Burn, Freeze, Poison and Paralysis. Sleep is not healed through this effect.",
+    "Description": "The Pokémon takes a few seconds to cool off, refocus, and get back in the game.",
+    "_id": "refresh",
+    "Attributes": {},
+    "AddedEffects": {
+        "AilmentHeal": [
+            "Burn1",
+            "Burn2",
+            "Burn3",
+            "Paralysis",
+            "Freeze",
+            "Poison"
+        ]
+    },
+    "Category": "Support"
+}

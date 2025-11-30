@@ -1,0 +1,21 @@
+{
+    "Name": "Sandstorm",
+    "Type": "Rock",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Special",
+    "Accuracy2": "Nature",
+    "Target": "Battlefield",
+    "Effect": "Target Battlefield. Wind Move. Activate Sandstorm Weather. Duration 4 Rounds.",
+    "Description": "A fierce sandstorm starts raging all around the battlefield. Cover your eyes, nose and face! The rough sand will hurt you!",
+    "_id": "sandstorm",
+    "Attributes": {
+        "Duration": 4,
+        "WindMove": true
+    },
+    "AddedEffects": {
+        "TerrainEffect": "Sandstorm"
+    },
+    "Category": "Support"
+}

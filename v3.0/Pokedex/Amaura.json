@@ -1,0 +1,135 @@
+{
+    "Number": 698,
+    "DexID": "0698",
+    "Name": "Amaura",
+    "Type1": "Rock",
+    "Type2": "Ice",
+    "BaseHP": 5,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Refrigerate",
+    "Ability2": "Snow Warning",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Rookie",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "amaura",
+    "DexCategory": "Tundra Pokémon",
+    "Height": {
+        "Meters": 1.3,
+        "Feet": 4.25
+    },
+    "Weight": {
+        "Kilograms": 50.0,
+        "Pounds": 110.0
+    },
+    "DexDescription": "This ancient Pokémon was restored from part of its body that had been frozen for over 100 million years. This calm Pokémon lived in cold lands where violent predators like Tyrantrum couldn't reach it.",
+    "Evolutions": [
+        {
+            "To": "Aurorus",
+            "Kind": "Level",
+            "Speed": "Slow"
+        }
+    ],
+    "Image": "amaura.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Powder Snow"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Growl"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Encore"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Ancient Power"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Icy Wind"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Round"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Mist"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Aurora Beam"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Thunder Wave"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Nature Power"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Rock Throw"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Freeze Dry"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Ice Beam"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Take Down"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Avalanche"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Light Screen"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Hail"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Blizzard"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Hyper Beam"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Earth Power"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Water Pulse"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Stealth Rock"
+        }
+    ]
+}

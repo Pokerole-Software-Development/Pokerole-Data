@@ -1,0 +1,19 @@
+{
+    "Name": "Magical Torque",
+    "Type": "Fairy",
+    "Power": 4,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Special",
+    "Accuracy2": "Channel",
+    "Target": "Foe",
+    "Effect": "Single Target. Lethal. Ranged. Roll 3 Chance dice to Confuse the Target.",
+    "Description": "With the flick of a wand the user is spun around in a magic swirl that leaves them absolutely dizzy.",
+    "_id": "magical-torque",
+    "Attributes": {
+        "Lethal": true,
+        "Ranged": true
+    },
+    "AddedEffects": {},
+    "Category": "Physical"
+}

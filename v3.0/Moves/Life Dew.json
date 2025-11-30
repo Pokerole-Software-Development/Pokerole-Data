@@ -1,0 +1,26 @@
+{
+    "Name": "Life Dew",
+    "Type": "Water",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Special",
+    "Accuracy2": "Nature",
+    "Target": "All Allies",
+    "Effect": "Target User and Allies in Range. If successful, spend 1 Will point to activate. User and Allies in Range heal 1 HP at the end of each Round. Duration 4 Rounds.",
+    "Description": "The user creates a fresh-water dew that restores energy and heals wounds.",
+    "_id": "life-dew",
+    "Attributes": {
+        "Duration": 4
+    },
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "AquaRingLifeDew",
+                "Affects": "Targets",
+                "Rounds": 4
+            }
+        ]
+    },
+    "Category": "Support"
+}

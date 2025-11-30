@@ -1,0 +1,18 @@
+{
+    "Name": "Wring Out",
+    "Type": "Normal",
+    "Power": 5,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Strength",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "Single Target. Lethal. *Remove 1 Dice from the Damage Pool for every missing HP on the target. Up to 4 Dice may be removed this way.",
+    "Description": "The Pokémon quite literally squeezes the life out of their foe. But to do this effectively they require to be in top condition.",
+    "_id": "wring-out",
+    "Attributes": {
+        "Lethal": true
+    },
+    "AddedEffects": {},
+    "Category": "Physical"
+}

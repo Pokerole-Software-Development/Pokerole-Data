@@ -1,0 +1,27 @@
+{
+    "Name": "Cosmic Power",
+    "Type": "Psychic",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Special",
+    "Accuracy2": "Channel",
+    "Target": "Self",
+    "Effect": "Target Self. Increase by 1 the User's Defense and Sp. Defense.",
+    "Description": "The Pokémon elevates their cosmos to enhance their physical and mental fortitude.",
+    "_id": "cosmic-power",
+    "Attributes": {},
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "Def",
+                    "SpDef"
+                ],
+                "Stages": 1,
+                "Affects": "User"
+            }
+        ]
+    },
+    "Category": "Support"
+}

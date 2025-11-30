@@ -1,0 +1,24 @@
+{
+    "Name": "Thunder Shock",
+    "Type": "Electric",
+    "Power": 2,
+    "Damage1": "Special",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Channel",
+    "Target": "Foe",
+    "Effect": "Single Target. Roll 1 Chance die to Paralyze the Target.",
+    "Description": "The most basic electric attack, charge, release, and shock! Just don’t point it to any electric device.",
+    "_id": "thunder-shock",
+    "Attributes": {},
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Paralyze",
+                "Affects": "Targets",
+                "ChanceDice": 1
+            }
+        ]
+    },
+    "Category": "Special"
+}

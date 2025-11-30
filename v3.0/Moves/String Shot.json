@@ -1,0 +1,26 @@
+{
+    "Name": "String Shot",
+    "Type": "Bug",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Channel",
+    "Target": "All Foes",
+    "Effect": "Targets All Foes in Range. Reduce by 1 the Dexterity of those affected.",
+    "Description": "The foe gets tangled in a fine silk string shot by the user. This silk can also be used to make fine clothes.",
+    "_id": "string-shot",
+    "Attributes": {},
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "Dexterity"
+                ],
+                "Stages": -1,
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Support"
+}

@@ -1,0 +1,18 @@
+{
+    "Name": "High Horsepower",
+    "Type": "Ground",
+    "Power": 4,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Vitality",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "Single Target. Low Accuracy 1.",
+    "Description": "The Pokémon tramples their foe without mercy. Their powerful body could pull a traction vehicle for very long distances.",
+    "_id": "high-horsepower",
+    "Attributes": {
+        "AccuracyReduction": -1
+    },
+    "AddedEffects": {},
+    "Category": "Physical"
+}

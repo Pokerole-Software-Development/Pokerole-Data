@@ -1,0 +1,18 @@
+{
+    "Name": "Water Sport",
+    "Type": "Water",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Special",
+    "Accuracy2": "Nature",
+    "Target": "Battlefield",
+    "Effect": "Target Battlefield. Physical & Special Fire-Type Moves have Power 0. Pokemon weak to Fire-Type Moves won't receive Super-Effective Damage from them. Duration 4 Rounds.",
+    "Description": "A single drop of water can’t put off a raging fire, but what is the ocean but a collection of drops.",
+    "_id": "water-sport",
+    "Attributes": {
+        "Duration": 4
+    },
+    "AddedEffects": {},
+    "Category": "Support"
+}

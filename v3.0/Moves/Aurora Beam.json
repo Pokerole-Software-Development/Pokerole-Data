@@ -1,0 +1,27 @@
+{
+    "Name": "Aurora Beam",
+    "Type": "Ice",
+    "Power": 2,
+    "Damage1": "Special",
+    "Damage2": "",
+    "Accuracy1": "Special",
+    "Accuracy2": "Channel",
+    "Target": "Foe",
+    "Effect": "Single Target. Roll 1 Chance Die to Reduce target's Strength by 1.",
+    "Description": "The Pokémon shoots a beautiful shimmering beam that cools down a hot temper.",
+    "_id": "aurora-beam",
+    "Attributes": {},
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "Strength"
+                ],
+                "Stages": -1,
+                "ChanceDice": 1,
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Special"
+}

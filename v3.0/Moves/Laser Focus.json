@@ -1,0 +1,23 @@
+{
+    "Name": "Laser Focus",
+    "Type": "Normal",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Insight",
+    "Accuracy2": "Alert",
+    "Target": "Self",
+    "Effect": "Target Self. If the next Physical or Special Move the user performs gets 5 more successes required on the Accuracy Roll, ignore the Target's defenses on the Damage roll.",
+    "Description": "Through its incredible awarenes the Pokémon finds a straight path into a weak point of the foe. The attack that follows is devastating.",
+    "_id": "laser-focus",
+    "Attributes": {},
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "LaserFocus",
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Support"
+}

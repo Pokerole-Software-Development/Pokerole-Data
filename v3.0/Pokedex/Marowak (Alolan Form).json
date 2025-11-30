@@ -1,0 +1,132 @@
+{
+    "Number": 105,
+    "DexID": "0105A",
+    "Name": "Marowak (Alolan Form)",
+    "Type1": "Fire",
+    "Type2": "Ghost",
+    "BaseHP": 4,
+    "Strength": 2,
+    "MaxStrength": 5,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 3,
+    "MaxVitality": 6,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 2,
+    "MaxInsight": 5,
+    "Ability1": "Cursed Body",
+    "Ability2": "Lightning Rod",
+    "HiddenAbility": "Rock Head",
+    "EventAbilities": "",
+    "RecommendedRank": "Advanced",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "marowak-alolan-form",
+    "DexCategory": "Bone Keeper Pokémon",
+    "Height": {
+        "Meters": 1.0,
+        "Feet": 3.3
+    },
+    "Weight": {
+        "Kilograms": 34.0,
+        "Pounds": 75.0
+    },
+    "DexDescription": "Alola has many predators for an orphaned Cubone, so its mother's spirit lingers close to protect her baby. This otherworldly influence made Marowak fiercer and changed its type completely.",
+    "Evolutions": [
+        {
+            "From": "Cubone",
+            "Kind": "Level",
+            "Speed": "Slow",
+            "Region": "Alola"
+        }
+    ],
+    "Image": "marowak-alolan-form.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Flame Charge"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Tail Whip"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Growl"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Focus Energy"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Bone Club"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Hex"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Leer"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Flame Wheel"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Bonemerang"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Will-O-Wisp"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Shadow Bone"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Endeavor"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Fling"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Stomping Tantrum"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Thrash"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Flare Blitz"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Retaliate"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Bone Rush"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Perish Song"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Brutal Swing"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Curse"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "Name": "Psyshock",
+    "Type": "Psychic",
+    "Power": 3,
+    "Damage1": "Special",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Channel",
+    "Target": "Foe",
+    "Effect": "Single Target. This Move is resisted with the Target's Defense instead of its Sp. Defense.",
+    "Description": "The shock is mental, the blow is real.",
+    "_id": "psyshock",
+    "Attributes": {
+        "ResistedWithDefense": true
+    },
+    "AddedEffects": {},
+    "Category": "Special"
+}

@@ -1,0 +1,16 @@
+{
+    "Name": "Psychic Noise",
+    "Type": "Psychic",
+    "Power": 2,
+    "Damage1": "Special",
+    "Damage2": "",
+    "Accuracy1": "Insight",
+    "Accuracy2": "Channel/Alert",
+    "Target": "Foe",
+    "Effect": "Single Target. Target can't restore HP. Duration 2 Rounds.",
+    "Description": "The target gets a migraine so awful it can only hear white noise inside of its head.",
+    "_id": "psychic-noise",
+    "Attributes": {},
+    "AddedEffects": {},
+    "Category": "Special"
+}

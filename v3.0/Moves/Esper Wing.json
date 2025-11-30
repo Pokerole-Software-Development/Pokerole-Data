@@ -1,0 +1,28 @@
+{
+    "Name": "Esper Wing",
+    "Type": "Psychic",
+    "Power": 3,
+    "Damage1": "Special",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Channel",
+    "Target": "Foe",
+    "Effect": "Single Target. High Critical. Increase the User's Dexterity by 1.",
+    "Description": "The User slashes the foe with psychic energy channeled through their wings. This energy also allows it to cut through the air and fly faster.",
+    "_id": "esper-wing",
+    "Attributes": {
+        "HighCritical": true
+    },
+    "AddedEffects": {
+        "StatChanges": [
+            {
+                "Stats": [
+                    "Dexterity"
+                ],
+                "Stages": 1,
+                "Affects": "User"
+            }
+        ]
+    },
+    "Category": "Special"
+}

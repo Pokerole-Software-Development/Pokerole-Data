@@ -1,0 +1,18 @@
+{
+    "Name": "Brick Break",
+    "Type": "Fighting",
+    "Power": 3,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Strength",
+    "Accuracy2": "Brawl",
+    "Target": "Foe",
+    "Effect": "Single Target. *If there is a Force field on the Target's side of the field, destroy it and add 2 Extra Dice to the Damage Pool.",
+    "Description": "The Pokémon uses a karate technique to chop through tall piles of bricks. No matter how many layers you pile up, they’ll break regardless.",
+    "_id": "brick-break",
+    "Attributes": {
+        "DestroyShield": true
+    },
+    "AddedEffects": {},
+    "Category": "Physical"
+}

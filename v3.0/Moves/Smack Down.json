@@ -1,0 +1,26 @@
+{
+    "Name": "Smack Down",
+    "Type": "Rock",
+    "Power": 2,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Strength",
+    "Accuracy2": "Channel",
+    "Target": "Foe",
+    "Effect": "Single Target. Ranged. Remove the Target's immunity to Ground-Type Moves. If the Target is Out of Range due to using \"Fly\", \"Bounce\" or \"Sky Drop\", this Move hits anyways.",
+    "Description": "They say it’s great to get two birds with one stone, this Pokémon will give one bird ALL the stones.",
+    "_id": "smack-down",
+    "Attributes": {
+        "PhysicalRanged": true,
+        "Ranged": true
+    },
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Grounded",
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Physical"
+}

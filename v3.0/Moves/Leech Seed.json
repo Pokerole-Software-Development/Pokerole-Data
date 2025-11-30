@@ -1,0 +1,25 @@
+{
+    "Name": "Leech Seed",
+    "Type": "Grass",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Special",
+    "Accuracy2": "Nature",
+    "Target": "Foe",
+    "Effect": "Single Target. Low Accuracy 1. Spend 1 Will point to activate. At the end of each Round, Roll 2 Dice of Typeless Damage against the target ignoring defenses. The User heals 1 HP for every damage dealt this way. Grass-Type Pokémon are immune to this Effect. Whole Scene Duration.",
+    "Description": "The foe is infected with seed saplings taking root on their body. As the saplings grow, they'll absorb the vital energy of the foe and send it back to the user.",
+    "_id": "leech-seed",
+    "Attributes": {
+        "AccuracyReduction": -1
+    },
+    "AddedEffects": {
+        "Ailments": [
+            {
+                "Type": "Leech Seed",
+                "Affects": "Targets"
+            }
+        ]
+    },
+    "Category": "Support"
+}

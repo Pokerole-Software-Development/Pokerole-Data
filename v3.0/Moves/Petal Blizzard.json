@@ -1,0 +1,20 @@
+{
+    "Name": "Petal Blizzard",
+    "Type": "Grass",
+    "Power": 3,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Channel",
+    "Target": "Area",
+    "Effect": "Area Move. Ranged. Wind Move.",
+    "Description": "A raging blizzard of petals and leaves sweeps through the entire area, leaving a pleasant floral scent and destruction in its wake.",
+    "_id": "petal-blizzard",
+    "Attributes": {
+        "PhysicalRanged": true,
+        "Ranged": true,
+        "WindMove": true
+    },
+    "AddedEffects": {},
+    "Category": "Physical"
+}
