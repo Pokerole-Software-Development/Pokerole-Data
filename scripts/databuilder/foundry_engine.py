@@ -307,6 +307,68 @@ class Foundry_Engine(Engine):
         
     def movedex_entry(self, entry, write=True):
 
+        def translate_ailments(ailment):
+            translator = {
+                "Freeze": "frozen",
+                "Flinch": "flinch",
+                "Paralyze": "paralysis",
+                "Burn": "burn1",
+                "Burn2": "burn2",
+                "Burn3": "burn3",
+                "Poison": "poison",
+                "BadlyPoison": "badlyPoisoned",
+                "Confuse": "confused",
+                "Disable": "disabled",
+                "Sleep": "sleep",
+                "Infatuate": "infatuated",
+            }
+            return translator.get(ailment) if translator.get(ailment) else "none"
+
+        def generate_addedEffect(added):
+            effectGroups = []
+
+            for index in added:
+                if index == "Ailments":
+                    for ailment in added.get("Ailments"):
+                        if translate_ailments(ailment.get("Type")) != "none":
+                            conditionEffect = {
+                                "condition": {},
+                                "effects": []
+                            }
+
+                            conditionEffect["condition"]["type"] = "chanceDice" if ailment.get("ChanceDice") else "none"
+
+                            if ailment.get("ChanceDice"):
+                                conditionEffect["condition"]["amount"] = ailment.get("ChanceDice")
+                            
+                            effect = {}
+                            effect["type"] = "ailment"
+                            effect["ailment"] = translate_ailments(ailment.get("Type"))
+                            effect["affects"] = ailment.get("Affects").lower()
+                            conditionEffect["effects"].append(effect)
+                            
+                            effectGroups.append(conditionEffect)
+
+                elif index == "StatChanges":
+                    for stats in added.get("StatChanges"):
+                        conditionEffect = {
+                            "condition": {},
+                            "effects": []
+                        }
+                        conditionEffect["condition"]["type"] = "chanceDice" if stats.get("ChanceDice") else "none"
+                        if stats.get("ChanceDice"):
+                            conditionEffect["condition"]["amount"] = stats.get("ChanceDice")
+                        for attribute in stats.get("Stats"):
+                            effect = {}
+                            effect["type"] = "statChange"
+                            effect["stat"] = attribute.lower() if attribute !="Accuracy" else "accuracyMod"
+                            effect["amount"] = stats.get("Stages")
+                            effect["affects"] = stats.get("Affects").lower()
+                            conditionEffect["effects"].append(effect)
+
+                        effectGroups.append(conditionEffect)
+            return effectGroups
+
         def _icon_for_type(type):
             if type == 'none':
                 # TODO: is there anything better than Normal for typeless moves?
@@ -335,6 +397,7 @@ class Foundry_Engine(Engine):
             return converted
         
         attr = entry.get("Attributes", {})
+        effects = entry.get("AddedEffects", {})
         id = entry['_id']
 
         accAttr1 = entry['Accuracy1'].lower()
@@ -395,17 +458,18 @@ class Foundry_Engine(Engine):
                 "effect": effect,
                 "source": self.display_version,
                 "attributes": { #characteristics where left the same but if there is a new one from the manual add it without hesitation for future improvements :D i will figure out something!
-                    "accuracyReduction":   attr.get("AccuracyReduction", 0),
-                    "priority":            attr.get("Priority", 0),
+                    "accuracyReduction":   abs(attr.get("AccuracyReduction", 0)),
+                    "reactionMove":        attr.get("Reaction", 0),
+                    "lateReactionMove":    attr.get("LateReaction", 0),
                     "highCritical":        attr.get("HighCritical", False),
                     "lethal":              attr.get("Lethal", False),
                     "physicalRanged":      attr.get("PhysicalRanged", False),
                     "charge":              attr.get("Charge", False),
                     "mustRecharge":        attr.get("MustRecharge", False),
-                    "fistBased":           attr.get("FistBased", False),
+                    "fistBased":           attr.get("FistMove", False),
                     "soundBased":          attr.get("SoundBased", False),
                     "shieldMove":          attr.get("ShieldMove", False),
-                    "neverFail":           attr.get("NeverFail", False),
+                    "neverFail":           attr.get("NeverMiss", False),
                     "switcherMove":        attr.get("SwitcherMove", False),
                     "recoil":              attr.get("Recoil", False),
                     "rampage":             attr.get("Rampage", False),
@@ -417,8 +481,13 @@ class Foundry_Engine(Engine):
                     "resetTerrain":        attr.get("ResetTerrain", False),
                     "resistedWithDefense": attr.get("ResistedWithDefense", False),
                     "ignoreDefenses":      attr.get("IgnoreDefenses", False),
+                    "cutterMove":          attr.get("CutterMove", False),
+                    "windMove":            attr.get("WindMove", False),
+                    "biteMove":            attr.get("BiteMove", False),
+                    "powderMove":          attr.get("PowderMove", False),
                     "maneuver":            move_type == "none"
                 },
+                "effectGroups": generate_addedEffect(effects),
                 "heal": _convert_heal_data(entry.get('AddedEffects',{}).get('Heal', {})),
             },
             "effects": [], #No changes on effects or Added Effects so all good
