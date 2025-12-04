@@ -5,7 +5,7 @@
     "Damage1": "Strength",
     "Damage2": "",
     "Accuracy1": "Strength",
-    "Accuracy2": "Athletic/Brawl",
+    "Accuracy2": "Brawl/Athletic",
     "Target": "Foe",
     "Effect": "Single Target. Recoil. Reduce User's Dexterity by 1.",
     "Description": "The Pokémon rides a tsunami-like wave an slams it against its target. The crash is very destructive and the Pokémon may end up falling from the ride.",
@@ -16,9 +16,7 @@
     "AddedEffects": {
         "StatChanges": [
             {
-                "Stats": [
-                    "Dex"
-                ],
+                "Stats": ["Dex"],
                 "Stages": -1,
                 "Affects": "User"
             }
