@@ -36,7 +36,6 @@ class Driver(object):
         for entry in self._drive(data_path, file_match):
             record = self.engine.pokedex_entry(entry, self.export)
             records.append(record)
-        print("Pokedex Completed")
         return records
         
     def generate_moves(self, file_match="*.json"):
