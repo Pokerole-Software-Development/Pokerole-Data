@@ -25,6 +25,7 @@ share/python-wheels/
 *.egg-info/
 .installed.cfg
 *.egg
+
 MANIFEST
 
 # PyInstaller
@@ -135,3 +136,4 @@ scripts/local
 scripts/archive
 .vscode/settings.json
 FoundryModule
+scripts/databuilder/foundry_builder.py
