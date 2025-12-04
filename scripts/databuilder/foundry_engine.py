@@ -5,7 +5,7 @@ from datetime import datetime
 from hashlib import blake2b
 import json
 
-DEFAULT_POKEMON_MANEUVERS = ['Struggle', 'Struggle - Throw' 'Grapple', 'Help Another', 'Cover An Ally', 'Run Away', 'Ambush', 'Clash', 'Evasion', 'Stabilize An Ally']
+DEFAULT_POKEMON_MANEUVERS = ['Struggle - Physical', 'Struggle - Special', 'Grapple', 'Help Another', 'Cover An Ally', 'Run Away', 'Ambush', 'Clash', 'Evasion', 'Stabilize An Ally']
 POKEMON_TOKEN_IMAGES = 'book'
 
 class Foundry_Engine(Engine):
@@ -36,6 +36,13 @@ class Foundry_Engine(Engine):
                 print(f"Move {x['Name']} not found in Pokemon {entry['Name']}")
                 
         # For x in maneuvers
+        for y in DEFAULT_POKEMON_MANEUVERS:
+            try:
+                move = self.driver.generate_moves(file_match=f'{y}.json')[0]
+                move['system']['rank'] = 'starter'
+                moves.append(move)
+            except IndexError as e:
+                print(f"Move {y} not found in Pokemon {entry['Name']}")
         
         for x in [entry['Ability1'], entry['Ability2']]:
             if not x: continue
