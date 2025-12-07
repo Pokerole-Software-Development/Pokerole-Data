@@ -377,9 +377,9 @@ class Foundry_Engine(Engine):
             return effectGroups
 
         def _icon_for_type(type):
-            if type == 'none':
+            if type == 'none' or type == 'varies': # varies: fix for Hidden Power
                 # TODO: is there anything better than Normal for typeless moves?
-                return 'systems/pokerole/images/types/normal.svg'
+                return 'systems/pokerole/images/types/typeless.svg'
             
             return f'systems/pokerole/images/types/{type}.svg'
 
