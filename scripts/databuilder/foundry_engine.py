@@ -368,7 +368,8 @@ class Foundry_Engine(Engine):
                         for attribute in stats.get("Stats"):
                             effect = {}
                             effect["type"] = "statChange"
-                            effect["stat"] = attribute.lower() if attribute !="Accuracy" else "accuracyMod"
+                            if attribute == 'SpDef': effect['stat'] = 'spDef'
+                            else: effect["stat"] = attribute.lower() if attribute !="Accuracy" else "accuracyMod"
                             effect["amount"] = stats.get("Stages")
                             effect["affects"] = stats.get("Affects").lower()
                             conditionEffect["effects"].append(effect)
