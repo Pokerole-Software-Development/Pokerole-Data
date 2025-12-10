@@ -1,33 +1,32 @@
 from srd_engine import SRD_Engine
 from foundry_engine import Foundry_Engine
 from driver import Driver
+from fire import Fire
 
-srd = SRD_Engine('/Users/bill/Code/Pokerole SRD', 'v2.0')
-driver = Driver(srd)
+SRD_FOLDER = '' # The SRD will be placed in a "Pokerole SRD" in this folder.
+GAME_VERSION = 'v3.0' # Or make it 'v2.0'
 
-driver.generate_abilities()
-driver.generate_moves()
-driver.generate_items()
-driver.generate_pokedex()
-driver.generate_natures()
 
-srd = SRD_Engine('/Users/bill/Code/Pokerole SRD', 'v3.0')
-driver = Driver(srd)
+def buildSRD(game_version, srd_folder):
+    srd = SRD_Engine(srd_folder, game_version)
+    driver = Driver(srd)
 
-driver.generate_abilities()
-driver.generate_moves()
-driver.generate_items()
-driver.generate_pokedex()
-driver.generate_natures()
-driver.generate_images('BookSprites', 'HomeSprites', "ItemSprites")
+    driver.generate_abilities()
+    driver.generate_moves()
+    driver.generate_items()
+    driver.generate_pokedex()
+    driver.generate_natures()
+    driver.generate_images(['BookSprites', 'HomeSprites', "ItemSprites"])
 
-# --------------------------------------------------------------------------
+def buildFoundry(game_version, foundry_version='3.348'):
+    fndry = Foundry_Engine('../../FoundryModule', game_version, foundry_version)
+    driver = Driver(fndry)
 
-fndry = Foundry_Engine('../../FoundryModule', 'v3.0', foundry_version='3.348')
-driver = Driver(fndry)
+    driver.generate_abilities()
+    driver.generate_moves()
+    driver.generate_items()
+    driver.generate_pokedex()
+    driver.generate_images(['BookSprites', "ItemSprites"])
 
-driver.generate_abilities()
-driver.generate_moves()
-driver.generate_items()
-driver.generate_pokedex()
-driver.generate_images(['ALL'])
+if __name__ == '__main__':
+  Fire()
