@@ -1,11 +1,12 @@
 {
     "Name": "Red Card",
     "_id": "red-card",
-    "Source": "Core v3.0",
+    "Source": "Core 3.0",
     "PMD": false,
     "Pocket": "HeldItems",
     "Category": "BattleItem",
     "Description": "Send an offending Pokémon to the bench! After receiving damage, activate the Switcher effect for the foe. Effect activates only once per Round.",
     "OneUse": false,
-    "TrainerPrice": "Not for Sale"
+    "TrainerPrice": "Not for Sale",
+    "Image": "red-card.png"
 }

@@ -5,7 +5,7 @@
     "Damage1": "Strength",
     "Damage2": "",
     "Accuracy1": "Strength",
-    "Accuracy2": "Athletic/Brawl",
+    "Accuracy2": "Brawl/Athletic",
     "Target": "Foe",
     "Effect": "Single Target. Lethal. Roll 2 Chance Dice to Reduce the Target's Defense by 1.",
     "Description": "The Pokémon strikes while bursting a full-force blast of pressurized water. The water may cut or dent through the target’s armor.",
@@ -16,9 +16,7 @@
     "AddedEffects": {
         "StatChanges": [
             {
-                "Stats": [
-                    "Def"
-                ],
+                "Stats": ["Def"],
                 "Stages": -1,
                 "ChanceDice": 2,
                 "Affects": "Targets"

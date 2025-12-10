@@ -2,9 +2,9 @@
     "Name": "Max Steelspike",
     "Type": "Steel",
     "Power": 2,
-    "Damage1": "SameasBasePower",
+    "Damage1": "SameAsBasePower",
     "Damage2": "",
-    "Accuracy1": "SameasBaseMove",
+    "Accuracy1": "SameAsBaseMove",
     "Accuracy2": "",
     "Target": "All Allies",
     "Effect": "Target all foes in Range or a Single Max Target. Increase the Defense of the User and Allies in Range by 1.",
@@ -14,5 +14,5 @@
         "MaxMove": true
     },
     "AddedEffects": {},
-    "Category": ""
+    "Category": "Physical/Special"
 }

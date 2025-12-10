@@ -1,7 +1,7 @@
 {
     "Name": "Charm",
     "Type": "Fairy",
-    "Power": "0 ",
+    "Power": 0,
     "Damage1": "",
     "Damage2": "",
     "Accuracy1": "Beauty/Cute",
@@ -14,9 +14,7 @@
     "AddedEffects": {
         "StatChanges": [
             {
-                "Stats": [
-                    "Strength"
-                ],
+                "Stats": ["Strength"],
                 "Stages": -2,
                 "Affects": "Targets"
             }

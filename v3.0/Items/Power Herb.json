@@ -1,11 +1,12 @@
 {
     "Name": "Power Herb",
     "_id": "power-herb",
-    "Source": "Core v3.0",
+    "Source": "Core 3.0",
     "PMD": false,
     "Pocket": "HeldItems",
     "Category": "BattleItem",
     "Description": "This Herb infuses a red energy. Remove the need to charge from a Charge Move. Single use",
     "OneUse": true,
-    "TrainerPrice": "Not for Sale"
+    "TrainerPrice": "Not for Sale",
+    "Image": "power-herb.png"
 }

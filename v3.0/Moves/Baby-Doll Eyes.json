@@ -1,7 +1,7 @@
 {
     "Name": "Baby-Doll Eyes",
     "Type": "Fairy",
-    "Power": "0 ",
+    "Power": 0,
     "Damage1": "",
     "Damage2": "",
     "Accuracy1": "Cute",
@@ -16,9 +16,7 @@
     "AddedEffects": {
         "StatChanges": [
             {
-                "Stats": [
-                    "Strength"
-                ],
+                "Stats": ["Strength"],
                 "Stages": -1,
                 "Affects": "Targets"
             }
