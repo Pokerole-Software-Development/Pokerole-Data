@@ -1,10 +1,10 @@
 {
     "Name": "Devastating Drake",
     "Type": "Dragon",
-    "Power": "",
-    "Damage1": "SameasBasePower",
+    "Power": "Happiness + Loyalty",
+    "Damage1": "SameAsBasePower",
     "Damage2": "",
-    "Accuracy1": "SameasBaseMove",
+    "Accuracy1": "SameAsBaseMove",
     "Accuracy2": "",
     "Target": "Foe",
     "Effect": "Single Target. Suggested effects: Sound Move, Attribute Increase, Damage Increase See p. 610 for more info.",
@@ -15,5 +15,5 @@
         "ZMove": true
     },
     "AddedEffects": {},
-    "Category": ""
+    "Category": "Support/Physical/Special"
 }

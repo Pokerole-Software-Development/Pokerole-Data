@@ -1,7 +1,7 @@
 {
     "Name": "Aromatic Mist",
     "Type": "Fairy",
-    "Power": "0 ",
+    "Power": 0,
     "Damage1": "",
     "Damage2": "",
     "Accuracy1": "Insight",
@@ -14,10 +14,7 @@
     "AddedEffects": {
         "StatChanges": [
             {
-                "Stats": [
-                    "Def",
-                    "SpDef"
-                ],
+                "Stats": ["Def", "SpDef"],
                 "Stages": 1,
                 "Affects": "Targets"
             }
