@@ -4,10 +4,11 @@
     "Source": "Core 3.0",
     "PMD": false,
     "Pocket": "HeldItems",
-    "Category": "BattleItems",
+    "Category": "BattleItem",
     "Description": "This spray relaxes vocal cords. Increase Special by 1 after using a Sound-Based Move.",
     "OneUse": false,
     "TrainerPrice": "Not for Sale",
     "Boost": "Special",
-    "Value": 1
+    "Value": 1,
+    "Image": "throat-spray.png"
 }
