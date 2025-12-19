@@ -57,7 +57,7 @@ class Foundry_Engine(Engine):
         foundry_items = moves+abilities
         
         foundry = {
-            "_id": blake2b(bytes(entry['_id'], 'utf-8'), digest_size=16).hexdigest(),
+            "_id": blake2b(bytes(entry['_id'], 'utf-8'), digest_size=8).hexdigest(),
             "name": entry['Name'],
             "type": "pokemon",
             "img": f"systems/pokerole/images/pokemon/{POKEMON_TOKEN_IMAGES}/{entry['Image']}",
@@ -446,7 +446,7 @@ class Foundry_Engine(Engine):
         #     accSkill1 = ''
         
         foundry = {
-            "_id": blake2b(bytes(entry['_id'], 'utf-8'), digest_size=16).hexdigest(),
+            "_id": blake2b(bytes(entry['_id'], 'utf-8'), digest_size=8).hexdigest(),
             "name": entry['Name'],
             "type": "move",
             "img": _icon_for_type(move_type),
@@ -518,7 +518,7 @@ class Foundry_Engine(Engine):
         
     def abilitydex_entry(self, entry, write=True):
         foundry = {
-            "_id": blake2b(bytes(entry['_id'], 'utf-8'), digest_size=16).hexdigest(),
+            "_id": blake2b(bytes(entry['_id'], 'utf-8'), digest_size=8).hexdigest(),
             "name": entry['Name'],
             "type": "ability",
             "img": "icons/svg/book.svg",
@@ -556,7 +556,7 @@ class Foundry_Engine(Engine):
         if not exists(f"../../images/ItemSprites/{entry['_id']}.png"):
             img = "icons/svg/item-bag.svg"
         foundry = {
-            "_id": blake2b(bytes(entry['_id'], 'utf-8'), digest_size=16).hexdigest(),
+            "_id": blake2b(bytes(entry['_id'], 'utf-8'), digest_size=8).hexdigest(),
             "name": entry['Name'],
             "type": "item",
             "img": img,
