@@ -1,0 +1,152 @@
+{
+    "Number": 901,
+    "DexID": "0901F1",
+    "Name": "Ursaluna (Kitakami Form)",
+    "Type1": "Ground",
+    "Type2": "Normal",
+    "BaseHP": 6,
+    "Strength": 2,
+    "MaxStrength": 5,
+    "Dexterity": 2,
+    "MaxDexterity": 4,
+    "Vitality": 3,
+    "MaxVitality": 7,
+    "Special": 3,
+    "MaxSpecial": 7,
+    "Insight": 2,
+    "MaxInsight": 4,
+    "Ability1": "Guts",
+    "Ability2": "Mind's Eye",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Expert",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "ursaluna-kitakami-form",
+    "DexCategory": "Peat Pokémon",
+    "Height": {
+        "Meters": 2.7,
+        "Feet": 8.8
+    },
+    "Weight": {
+        "Kilograms": 417.0,
+        "Pounds": 920.0
+    },
+    "DexDescription": "An old legend of the Kitakami region claims the blood moon comes after a tradegy has ravaged the land. All Ursaluna depicted by them show a red mark on its head and claimed seeing one was a bad omen.",
+    "Evolutions": [
+        {
+            "From": "Ursaring",
+            "Kind": "Item",
+            "Item": "Peat Moss",
+            "Special": "Moon Ritual"
+        }
+    ],
+    "Image": "ursaluna-kitakami-form.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Scary Face"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Scratch"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Lick"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Snarl"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Covet"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Harden"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Fury Swipes"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Feint Attack"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Payback"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Play Nice"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Endure"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Calm Mind"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Moonlight"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Mud Shot"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Slash"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Rest"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Snore"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Hyper Voice"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Earth Power"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Moonblast"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Blood Moon"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Hammer Arm"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Headlong Rush"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Focus Blast"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Belly Drum"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Hyper Beam"
+        }
+    ]
+}

@@ -1,0 +1,137 @@
+{
+    "Number": 1020,
+    "DexID": "1020",
+    "Name": "Gouging Fire",
+    "Type1": "Fire",
+    "Type2": "Dragon",
+    "BaseHP": 6,
+    "Strength": 3,
+    "MaxStrength": 6,
+    "Dexterity": 2,
+    "MaxDexterity": 5,
+    "Vitality": 3,
+    "MaxVitality": 7,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 3,
+    "MaxInsight": 6,
+    "Ability1": "Protosynthesis",
+    "Ability2": "",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Expert",
+    "GenderType": "N",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "gouging-fire",
+    "DexCategory": "Paradox Pokémon",
+    "Height": {
+        "Meters": 3.5,
+        "Feet": 11.6
+    },
+    "Weight": {
+        "Kilograms": 590.0,
+        "Pounds": 1300.0
+    },
+    "DexDescription": "Pokédex glitches as it has no data. An old man tried to bring back prehistoric creatures. Separated by millions of years from man, the creatures were too wild and powerful to be contained.",
+    "Evolutions": [],
+    "Image": "gouging-fire.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Stomp"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Leer"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Incinerate"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Sunny Day"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Fire Fang"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Howl"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Bite"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Dragon Claw"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Noble Roar"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Reversal"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Crush Claw"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Morning Sun"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Burning Bulwark"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Crunch"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Temper Flare"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Dragon Rush"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "FIre Blast"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Lava Plume"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Outrage"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Flare Blitz"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Raging Fury"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Earthquake"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Heat Crash"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Ancient Power"
+        }
+    ]
+}
