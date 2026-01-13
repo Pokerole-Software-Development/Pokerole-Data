@@ -1,0 +1,137 @@
+{
+    "Number": 1022,
+    "DexID": "1022",
+    "Name": "Iron Boulder",
+    "Type1": "Rock",
+    "Type2": "Psychic",
+    "BaseHP": 5,
+    "Strength": 3,
+    "MaxStrength": 7,
+    "Dexterity": 3,
+    "MaxDexterity": 7,
+    "Vitality": 2,
+    "MaxVitality": 5,
+    "Special": 2,
+    "MaxSpecial": 4,
+    "Insight": 3,
+    "MaxInsight": 6,
+    "Ability1": "Quark Drive",
+    "Ability2": "",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Expert",
+    "GenderType": "N",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "iron-boulder",
+    "DexCategory": "Paradox Pokémon",
+    "Height": {
+        "Meters": 1.5,
+        "Feet": 4.11
+    },
+    "Weight": {
+        "Kilograms": 324.0,
+        "Pounds": 715.0
+    },
+    "DexDescription": "The creature stands still as if it were a vigilance tower. However, if it spots an intruder, it will move at an astounding speed to tackle, trample and destroy everything in its wake.",
+    "Evolutions": [],
+    "Image": "iron-boulder.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Leer"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Horn Attack"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Rock Throw"
+        },
+        {
+            "Learned": "Rookie",
+            "Name": "Electric Terrain"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Quick Attack"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Slash"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "Quick Guard"
+        },
+        {
+            "Learned": "Standard",
+            "Name": "X-Scissor"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Poison Jab"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Iron Defense"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Agility"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Psycho Cut"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Counter"
+        },
+        {
+            "Learned": "Advanced",
+            "Name": "Rock Tomb"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Sacred Sword"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Mighty Cleave"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Rest"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Protect"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Megahorn"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Stone Edge"
+        },
+        {
+            "Learned": "Expert",
+            "Name": "Giga Impact"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Wild Charge"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Swords Dance"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Endure"
+        }
+    ]
+}

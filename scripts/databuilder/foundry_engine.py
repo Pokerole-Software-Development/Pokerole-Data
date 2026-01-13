@@ -57,7 +57,7 @@ class Foundry_Engine(Engine):
         foundry_items = moves+abilities
         
         foundry = {
-            "_id": blake2b(bytes(entry['_id'], 'utf-8'), digest_size=16).hexdigest(),
+            "_id": blake2b(bytes(entry['_id'], 'utf-8'), digest_size=8).hexdigest(),
             "name": entry['Name'],
             "type": "pokemon",
             "img": f"systems/pokerole/images/pokemon/{POKEMON_TOKEN_IMAGES}/{entry['Image']}",
@@ -378,9 +378,9 @@ class Foundry_Engine(Engine):
             return effectGroups
 
         def _icon_for_type(type):
-            if type == 'none':
+            if type == 'none' or type == 'varies': # varies: fix for Hidden Power
                 # TODO: is there anything better than Normal for typeless moves?
-                return 'systems/pokerole/images/types/normal.svg'
+                return 'systems/pokerole/images/types/typeless.svg'
             
             return f'systems/pokerole/images/types/{type}.svg'
 
@@ -446,7 +446,7 @@ class Foundry_Engine(Engine):
         #     accSkill1 = ''
         
         foundry = {
-            "_id": blake2b(bytes(entry['_id'], 'utf-8'), digest_size=16).hexdigest(),
+            "_id": blake2b(bytes(entry['_id'], 'utf-8'), digest_size=8).hexdigest(),
             "name": entry['Name'],
             "type": "move",
             "img": _icon_for_type(move_type),
@@ -518,7 +518,7 @@ class Foundry_Engine(Engine):
         
     def abilitydex_entry(self, entry, write=True):
         foundry = {
-            "_id": blake2b(bytes(entry['_id'], 'utf-8'), digest_size=16).hexdigest(),
+            "_id": blake2b(bytes(entry['_id'], 'utf-8'), digest_size=8).hexdigest(),
             "name": entry['Name'],
             "type": "ability",
             "img": "icons/svg/book.svg",
@@ -556,7 +556,7 @@ class Foundry_Engine(Engine):
         if not exists(f"../../images/ItemSprites/{entry['_id']}.png"):
             img = "icons/svg/item-bag.svg"
         foundry = {
-            "_id": blake2b(bytes(entry['_id'], 'utf-8'), digest_size=16).hexdigest(),
+            "_id": blake2b(bytes(entry['_id'], 'utf-8'), digest_size=8).hexdigest(),
             "name": entry['Name'],
             "type": "item",
             "img": img,
