@@ -10,6 +10,7 @@ This repo is a Source of Truth for the [Pokerole](https://www.pokeroleproject.co
 
 - [Pokerole Obsidian SRD](https://github.com/Willowlark/PokeroleObsidianSRD) A SRD of the entire Pokerole dataset available within [Obsidian](https://obsidian.md/), a markdown note application. 
 - [Pokerole Foundry Module](https://github.com/tech-ticks/foundry-pokerole) A module for the [Foundry VTT system](https://foundryvtt.com/) using the data compiled here.
+- [Pokeroledex](https://pokeroledex.nl/) A web based pokemon sheet tracker with access to a wide range of other features.
 
 ## Developer Information
 
@@ -24,7 +25,8 @@ This repo is a Source of Truth for the [Pokerole](https://www.pokeroleproject.co
   - Home Sprites Base Url: `https://raw.githubusercontent.com/Willowlark/Pokerole-Data/master/images/ShuffleTokens/`
 - **Raw** data used in the generation of the proper datasets. It is NOT recommended to use data in here for any application, as it has not been processed. It's mostly here for record keeping purposes.
 - **Scripts** a folder for any code that manipulates data. At the moment, there should be NO REASON to try and run these, they are for maintainence only.
-- **Version20** contains the entire JSON dataset for Pokerole Version 2.0. Each item in the dataset has it's own JSON document. *All of this data is also accessable via Mongo, see below.*
+- **v2.0** contains the entire JSON dataset for Pokerole Version 2.0. Each item in the dataset has it's own JSON document.
+- **v3.0** contains the entire JSON dataset for Pokerole Version 3.0. Each item in the dataset has it's own JSON document.
 - **DDL.md** contains tables documenting the data in the JSON documents for reference.
 
 ## Assisting the Project
