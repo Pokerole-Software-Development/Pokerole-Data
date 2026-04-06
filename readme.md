@@ -11,6 +11,7 @@ This repo is a Source of Truth for the [Pokerole](https://www.pokeroleproject.co
 - [Pokerole Obsidian SRD](https://github.com/Willowlark/PokeroleObsidianSRD) A SRD of the entire Pokerole dataset available within [Obsidian](https://obsidian.md/), a markdown note application. 
 - [Pokerole Foundry Module](https://github.com/tech-ticks/foundry-pokerole) A module for the [Foundry VTT system](https://foundryvtt.com/) using the data compiled here.
 - [Pokeroledex](https://pokeroledex.nl/) A web based pokemon sheet tracker with access to a wide range of other features.
+- [Poke-e-role](https://github.com/lordcongra/poke-e-role) An owlbear rodeo autosheet extension for playing on the [Owlbear Rodeo](https://www.owlbear.rodeo) VTT.
 
 ## Developer Information
 
