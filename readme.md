@@ -12,6 +12,8 @@ This repo is a Source of Truth for the [Pokerole](https://www.pokeroleproject.co
 - [Pokerole Foundry Module](https://github.com/tech-ticks/foundry-pokerole) A module for the [Foundry VTT system](https://foundryvtt.com/) using the data compiled here.
 - [Pokeroledex](https://pokeroledex.nl/) A web based pokemon sheet tracker with access to a wide range of other features.
 - [Poke-e-role](https://github.com/lordcongra/poke-e-role) An owlbear rodeo autosheet extension for playing on the [Owlbear Rodeo](https://www.owlbear.rodeo) VTT.
+- [Pokerole Helper Bot](https://github.com/XShadeSlayerXx/PokeRole-Helper) A Discord bot of long standing that uses the dataset to provide dozens of tools in channel for players. 
+- [Northlight Pokerole 3.0 Google Sheets](https://docs.google.com/spreadsheets/d/1aP5MFq7ayMR8AMNFloXjcFHqdK3MiBh-X0xc_S-AZvk/edit?usp=sharing) a google sheet with space for trainers, pokemon, and more all accessible as a google sheet.
 
 ## Developer Information
 
