@@ -10,7 +10,9 @@
     "Effect": "Target All Foes in Range. Projectile Move. Low Accuracy 1. The User restores hp equal to half the damage dealt, rounded down. Roll 2 Chance Dice to inflict 1st Degree Burn on the Target. If the user is Frozen solid, destroy the ice block.",
     "Description": "The user invites the foe to a hebal tea ceremony. As the tea is served and the foe is off guard, the user throws the hot tea on them, then proceeds to enjoy their own cup.",
     "_id": "matcha-gotcha",
-    "Attributes": {},
+    "Attributes": {
+        "AccuracyReduction": -1
+    },
     "AddedEffects": {},
     "Category": "Special"
 }
