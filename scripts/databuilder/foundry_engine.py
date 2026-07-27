@@ -44,6 +44,24 @@ class Foundry_Engine(Engine):
             })
         return converted
 
+    def _compute_evolution_stage(self, evolutions, own_name):
+        # A forward/backward entry only counts as a real evolution if its target's base species name
+        # (stripped of a parenthetical suffix, e.g. "Necrozma (Dusk Mane Form)" -> "Necrozma") differs
+        # from this species' own name - excludes Mega/Form self-references, and also a few forme-change
+        # entries (Necrozma/Calyrex/Shaymin) that are tagged "Special" in the source data instead of "Form".
+        def is_real_evolution(evo):
+            target = evo.get("From") or evo.get("To")
+            if not target:
+                return False
+            base_target = target.split(" (")[0].strip()
+            return base_target != own_name
+
+        has_forward = any("To" in evo and is_real_evolution(evo) for evo in evolutions)
+        has_backward = any("From" in evo and is_real_evolution(evo) for evo in evolutions)
+        if not has_forward:
+            return "final"
+        return "second" if has_backward else "first"
+
     def _convert_gender(self, gender_type):
         return {"M": "male", "F": "female", "N": "genderless"}.get(gender_type, "neutral")
 
@@ -262,6 +280,7 @@ class Foundry_Engine(Engine):
                 }
                 },
                 "evolutions": self._convert_evolutions(entry.get('Evolutions', [])),
+                "evolutionStage": self._compute_evolution_stage(entry.get('Evolutions', []), entry['Name']),
                 "source": self.display_version,
             },
             "prototypeToken": {
