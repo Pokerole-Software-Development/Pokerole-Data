@@ -27,7 +27,7 @@ class Driver(object):
     def _drive(self, data_path, file_match):
         for src in glob(join(data_path, file_match)):
             if VERBOSE: print(src)
-            entry = json.loads(open(src).read())
+            entry = json.loads(open(src, encoding='utf-8').read())
             yield entry
 
     def generate_pokedex(self, file_match="*.json"):

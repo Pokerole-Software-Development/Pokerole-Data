@@ -29,7 +29,7 @@ class Engine(object):
     
     def _write_to(self, data, path, mode='w'):
         self._pathgen(dirname(path))
-        open(path,mode).write(data)
+        open(path, mode, encoding='utf-8').write(data)
     
     def _pathgen(self, path, validate=False):
         '''

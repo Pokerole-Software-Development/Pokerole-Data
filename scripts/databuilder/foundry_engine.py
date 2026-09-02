@@ -1,5 +1,5 @@
 from engine import Engine
-from os.path import join, exists
+from os.path import join, exists, dirname
 from shutil import rmtree
 from datetime import datetime
 from hashlib import blake2b
@@ -7,6 +7,12 @@ import json
 
 DEFAULT_POKEMON_MANEUVERS = ['Struggle - Physical', 'Struggle - Special', 'Grapple', 'Help Another', 'Cover An Ally', 'Run Away', 'Ambush', 'Clash', 'Evasion', 'Stabilize An Ally']
 POKEMON_TOKEN_IMAGES = 'book'
+
+# Manual per-move overrides for the "Damage Pool Formula" mechanic (module/data/item-move.mjs on
+# the Foundry side) - the source dataset has no concept of this, so moves with non-standard damage
+# math (stat-comparison dice, HP-based damage, fixed damage) are curated here by move _id.
+with open(join(dirname(__file__), 'resources', 'damage_pool_overrides.json'), encoding='utf-8') as f:
+    DAMAGE_POOL_OVERRIDES = json.load(f)
 
 class Foundry_Engine(Engine):
     
@@ -19,6 +25,50 @@ class Foundry_Engine(Engine):
     
     # # These functions take JSON and return a string to be outputted. 
     
+    def _convert_evolutions(self, evolutions):
+        converted = []
+        for evo in evolutions:
+            converted.append({
+                "direction": "from" if "From" in evo else "to",
+                "species": evo.get("From") or evo.get("To"),
+                "kind": evo.get("Kind", "").lower(),
+                "item": evo.get("Item") or evo.get("Stone"),
+                "speed": evo.get("Speed", "").lower() if evo.get("Speed") else None,
+                "stat": evo.get("Stat"),
+                "value": evo.get("Value"),
+                "special": evo.get("Special"),
+                "region": evo.get("Region"),
+                "move": evo.get("Move"),
+                "gender": evo.get("Gender"),
+                "game": evo.get("Game"),
+            })
+        return converted
+
+    def _compute_evolution_stage(self, evolutions, own_name):
+        # A forward/backward entry only counts as a real evolution if its target's base species name
+        # (stripped of a parenthetical suffix, e.g. "Necrozma (Dusk Mane Form)" -> "Necrozma") differs
+        # from this species' own name - excludes Mega/Form self-references, and also a few forme-change
+        # entries (Necrozma/Calyrex/Shaymin) that are tagged "Special" in the source data instead of "Form".
+        def is_real_evolution(evo):
+            target = evo.get("From") or evo.get("To")
+            if not target:
+                return False
+            base_target = target.split(" (")[0].strip()
+            return base_target != own_name
+
+        has_forward = any("To" in evo and is_real_evolution(evo) for evo in evolutions)
+        has_backward = any("From" in evo and is_real_evolution(evo) for evo in evolutions)
+        if not has_forward:
+            return "final"
+        return "second" if has_backward else "first"
+
+    def _convert_gender(self, gender_type):
+        return {"M": "male", "F": "female", "N": "genderless"}.get(gender_type, "neutral")
+
+    def _convert_damage_pool(self, move_id):
+        override = DAMAGE_POOL_OVERRIDES.get(move_id)
+        return {"formula": "standard", **override} if override else {"formula": "standard"}
+
     def pokedex_entry(self, entry, write):
         learnset = entry["Moves"]
         moves = []
@@ -76,7 +126,7 @@ class Foundry_Engine(Engine):
                 "rank": "none",
                 "recommendedRank": entry['RecommendedRank'].lower(),
                 "personality": "hardy",
-                "gender": "neutral", #new
+                "gender": self._convert_gender(entry.get('GenderType', '')),
                 "actionCount": {
                 "value": 0,
                 "min": 0,
@@ -229,6 +279,8 @@ class Foundry_Engine(Engine):
                     "max": 5
                 }
                 },
+                "evolutions": self._convert_evolutions(entry.get('Evolutions', [])),
+                "evolutionStage": self._compute_evolution_stage(entry.get('Evolutions', []), entry['Name']),
                 "source": self.display_version,
             },
             "prototypeToken": {
@@ -475,13 +527,14 @@ class Foundry_Engine(Engine):
                     "charge":              attr.get("Charge", False),
                     "mustRecharge":        attr.get("MustRecharge", False),
                     "fistBased":           attr.get("FistMove", False),
-                    "soundBased":          attr.get("SoundBased", False),
+                    "soundBased":          attr.get("SoundMove", False),
                     "shieldMove":          attr.get("ShieldMove", False),
                     "neverFail":           attr.get("NeverMiss", False),
                     "switcherMove":        attr.get("SwitcherMove", False),
                     "recoil":              attr.get("Recoil", False),
                     "rampage":             attr.get("Rampage", False),
                     "doubleAction":        attr.get("DoubleAction", False),
+                    "tripleAction":        attr.get("TripleAction", False),
                     "alwaysCrit":          attr.get("AlwaysCrit", False),
                     "destroyShield":       attr.get("DestroyShield", False),
                     "successiveActions":   attr.get("SuccessiveActions", False),
@@ -493,10 +546,12 @@ class Foundry_Engine(Engine):
                     "windMove":            attr.get("WindMove", False),
                     "biteMove":            attr.get("BiteMove", False),
                     "powderMove":          attr.get("PowderMove", False),
+                    "projectileMove":      attr.get("ProjectileMove", False),
                     "maneuver":            move_type == "none"
                 },
                 "effectGroups": generate_addedEffect(effects),
                 "heal": _convert_heal_data(entry.get('AddedEffects',{}).get('Heal', {})),
+                "damagePool": self._convert_damage_pool(id),
             },
             "effects": [], #No changes on effects or Added Effects so all good
             "flags": {},
@@ -543,14 +598,28 @@ class Foundry_Engine(Engine):
 
         return foundry
     
+    POCKET_MAP = {
+        'HeldItems': 'heldItem',
+        'Medicine': 'medicine',
+        'TrainerItems': 'item',
+        'EvolutionItem': 'evolutionItem',
+        'Pokeballs': 'pokeball',
+        'TechnicalMachine': 'technicalMachine',
+    }
+
     def itemdex_entry(self, entry, write=True):
-        # Add the price if it's numeric
-        price = entry.get('TrainerPrice')
-        if price:
+        # TrainerPrice is either a numeric gold cost, or a rarity tier ("Not for Sale", "Rare",
+        # "Uncommon", "Common") for items that aren't bought with gold - keep price as None
+        # for those rather than fabricating a 0 cost.
+        raw_price = entry.get('TrainerPrice')
+        price = None
+        if raw_price is not None:
             try:
-                price = int(price)
+                price = int(raw_price)
             except ValueError:
-                price = None
+                pass
+
+        pocket = self.POCKET_MAP.get(entry.get('Pocket'), 'item')
 
         img = f"systems/pokerole/images/items/{entry['_id']}.png"
         if not exists(f"../../images/ItemSprites/{entry['_id']}.png"):
@@ -563,8 +632,7 @@ class Foundry_Engine(Engine):
             "system": {
                 "description": f"<p>{entry['Description']}</p>",
                 "price": price,
-                "pocket": "item" # For the Auto-sort inventory function on live!
-                #We can discuss about it, have a list of "pockets" implemented but maybe is better to build a list by ourselves and clasify the items at database level
+                "pocket": pocket # For the Auto-sort inventory function on live!
             },
             "effects": [],
             "source": entry["Source"],

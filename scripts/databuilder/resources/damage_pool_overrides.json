@@ -1,0 +1,25 @@
+{
+  "electro-ball": {
+    "formula": "statDiff", "stat": "dexterity", "direction": "userAbove",
+    "perUnit": 1, "diceMode": "add", "maxDice": 4
+  },
+  "gyro-ball": {
+    "formula": "statDiff", "stat": "dexterity", "direction": "targetAbove",
+    "perUnit": 1, "diceMode": "add", "maxDice": 5
+  },
+  "heavy-slam": {
+    "formula": "statDiff", "stat": "weight", "direction": "userAbove",
+    "perUnit": 50, "diceMode": "add", "maxDice": 4
+  },
+  "seismic-toss": { "formula": "statDiff", "stat": "rank", "rankTable": "standard", "diceMode": "override" },
+  "night-shade":  { "formula": "statDiff", "stat": "rank", "rankTable": "standard", "diceMode": "override" },
+  "psywave":      { "formula": "statDiff", "stat": "rank", "rankTable": "standard", "diceMode": "override" },
+  "dragon-rage": { "formula": "fixed", "amount": 2, "ignoreTypeEffectiveness": false },
+  "sonic-boom":  { "formula": "fixed", "amount": 1, "ignoreTypeEffectiveness": true },
+  "super-fang": {
+    "formula": "hpBased", "hpMode": "remaining", "fraction": 50,
+    "resultAs": "diceToRoll", "diceMode": "override", "maxDice": 10
+  },
+  "horn-drill": { "formula": "hpBased", "hpMode": "remaining", "fraction": 100, "resultAs": "directDamage" },
+  "guillotine": { "formula": "hpBased", "hpMode": "remaining", "fraction": 100, "resultAs": "directDamage" }
+}
